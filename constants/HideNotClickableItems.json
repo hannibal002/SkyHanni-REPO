@@ -25,7 +25,7 @@
       " Rune I"
     ]
   },
-  "hide_backpack": {
+  "hide_in_storage": {
     "equals": [
       "Nether Wart Pouch",
       "Basket of Seeds",
