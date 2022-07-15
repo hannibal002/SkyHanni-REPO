@@ -85,6 +85,35 @@
       "Personal Deletor "
     ]
   },
+  "not_auctionable": {
+    "equals": [
+      "Hoe of Great Tilling",
+      "Hoe of Greater Tilling",
+      "Prismapump",
+      "Mathematical Hoe Blueprint",
+      "Basket of Seeds",
+      "Nether Wart Pouch"
+    ],
+    "startsWith": [],
+    "endsWith": [
+      "Day Crystal",
+      "Night Crystal",
+      "Cat Talisman",
+      "Lynx Talisman",
+      "Cheetah Talisman",
+      " Carrot Hoe",
+      " Sugar Cane Hoe",
+      " Nether Warts Hoe",
+      " Potato Hoe",
+      "Melon Dicer",
+      "Pumpkin Dicer",
+      " Coco Chopper",
+      " Wheat Hoe"
+    ],
+    "contains": [
+      "Personal Deletor "
+    ]
+  },
   "demo": {
     "equals": [],
     "startsWith": [],
