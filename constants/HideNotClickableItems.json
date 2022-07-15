@@ -23,5 +23,21 @@
     "endsWith": [
       "Gem Rune I"
     ]
+  },
+  "hide_backpack": {
+    "equals": [
+      "Nether Wart Pouch",
+      "Basket of Seeds",
+      "Builder's Wand"
+    ],
+    "startsWith": [],
+    "endsWith": [
+      " New Year Cake Bag"
+    ]
+  },
+  "demo": {
+    "equals": [],
+    "startsWith": [],
+    "endsWith": []
   }
 }
