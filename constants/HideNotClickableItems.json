@@ -33,7 +33,7 @@
     ],
     "startsWith": [],
     "endsWith": [
-      " New Year Cake Bag"
+      "New Year Cake Bag"
     ]
   },
   "salvage": {
@@ -67,9 +67,26 @@
       "Staff of the Volcano"
     ]
   },
+  "hide_player_trade": {
+    "equals": [
+      "Builder's Wand"
+    ],
+    "startsWith": [],
+    "endsWith": [
+      "Day Crystal",
+      "Night Crystal",
+      "Cat Talisman",
+      "Lynx Talisman",
+      "Cheetah Talisman"
+    ],
+    "contains": [
+      "Personal Deletor "
+    ]
+  },
   "demo": {
     "equals": [],
     "startsWith": [],
-    "endsWith": []
+    "endsWith": [],
+    "contains": []
   }
 }
