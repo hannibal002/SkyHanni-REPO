@@ -1,1 +1,27 @@
-
+{
+  "hide_npc_sell": {
+    "equals": [
+      "Health Potion VIII Splash Potion",
+      "Stone Button",
+      "Revive Stone",
+      "Premium Flesh",
+      "Defuse Kit",
+      "White Wool",
+      "Enchanted Wool",
+      "Training Weights",
+      "Journal Entry",
+      "Twilight Arrow Poison",
+      "Lever",
+      "Fairy's Galoshes",
+      "Blaze Powder",
+      "Egg",
+      "Corrupted Fragment"
+    ],
+    "startsWith": [
+      "Music Disc"
+    ],
+    "endsWith": [
+      "Gem Rune I"
+    ]
+  }
+}
