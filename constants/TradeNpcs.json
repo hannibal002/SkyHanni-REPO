@@ -1,0 +1,11 @@
+{
+  "equals": [
+    "Trades",
+    "Ophelia",
+    "Adventurer",
+    "Bartender"
+  ],
+  "endsWith": [
+    " Merchant"
+  ]
+}
