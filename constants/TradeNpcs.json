@@ -6,9 +6,36 @@
     "Bartender",
     "Zog",
     "Bea",
-    "Gold Forger"
+    "Alchemist",
+    "Amelia",
+    "An",
+    "Bartender",
+    "Bubu",
+    "Bulvar",
+    "Abiphone Shop",
+    "Ulyn",
+    "Lys",
+    "Mage Shop",
+    "Hilda",
+    "Librarian",
+    "Mad Redstone Engineer",
+    "Marthos",
+    "Master Tactician",
+    "Joyful Viking",
+    "Old Shaman Nyko",
+    "Pat",
+    "Iron Armor",
+    "Rosetta's ArmorS",
+    "Squire Armor",
+    "Mercenary Armor",
+    "Celeste Set",
+    "Starlight Set",
+    "Shifty",
+    "Smithmonger",
+    "Weaponsmith"
   ],
   "endsWith": [
-    " Merchant"
+    " Merchant",
+    " Forger"
   ]
 }
