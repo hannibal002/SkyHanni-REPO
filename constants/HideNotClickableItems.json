@@ -36,6 +36,37 @@
       " New Year Cake Bag"
     ]
   },
+  "salvage": {
+    "armor": [
+      "Zombie Knight",
+      "Heavy",
+      "Zombie Soldier",
+      "Skeleton Grunt",
+      "Skeleton Soldier",
+      "Zombie Commander",
+      "Skeleton Master",
+      "Sniper",
+      "Skeletor",
+      "Rotten",
+      "Flaming",
+      "Moogma",
+      "Rampart"
+    ],
+    "items": [
+      "Zombie Soldier Cutlass",
+      "Silent Death",
+      "Zombie Knight Sword",
+      "Conjuring",
+      "Dreadlord Sword",
+      "Soulstealer Bow",
+      "Machine Gun Bow",
+      "Earth Shard",
+      "Zombie Commander Whip",
+      "Sniper Bow",
+      "Blade of the Volcano",
+      "Staff of the Volcano"
+    ]
+  },
   "demo": {
     "equals": [],
     "startsWith": [],
