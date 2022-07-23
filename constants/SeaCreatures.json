@@ -1,247 +1,183 @@
 {
   "WATER": {
     "chat_color": "§b",
-    "sea_creatures": [
-      {
-        "display_name": "Squid",
+    "sea_creatures": {
+      "Squid": {
         "chat_message": "§aA Squid appeared.",
-        "fishing_experience": 82,
-        "special": false
+        "fishing_experience": 82
       },
-      {
-        "display_name": "Sea Walker",
+      "Sea Walker": {
         "chat_message": "§aYou caught a Sea Walker.",
-        "fishing_experience": 137,
-        "special": false
+        "fishing_experience": 137
       },
-      {
-        "display_name": "Sea Guardian",
+      "Sea Guardian": {
         "chat_message": "§aYou stumbled upon a Sea Guardian.",
-        "fishing_experience": 203,
-        "special": false
+        "fishing_experience": 203
       },
-      {
-        "display_name": "Sea Archer",
+      "Sea Archer": {
         "chat_message": "§aYou reeled in a Sea Archer.",
-        "fishing_experience": 340,
-        "special": false
+        "fishing_experience": 340
       },
-      {
-        "display_name": "Monster of the Deep",
+      "Monster of the Deep": {
         "chat_message": "§aThe Monster of the Deep has emerged.",
-        "fishing_experience": 544,
-        "special": false
+        "fishing_experience": 544
       },
-      {
-        "display_name": "Sea Witch",
+      "Sea Witch": {
         "chat_message": "§aIt looks like you've disrupted the Sea Witch's brewing session. Watch out, she's furious!",
-        "fishing_experience": 681,
-        "special": false
+        "fishing_experience": 681
       },
-      {
-        "display_name": "Catfish",
+      "Catfish": {
         "chat_message": "§aHuh? A Catfish!",
-        "fishing_experience": 816,
-        "special": false
+        "fishing_experience": 816
       },
-      {
-        "display_name": "Sea Leech",
+      "Sea Leech": {
         "chat_message": "§aGross! A Sea Leech!",
-        "fishing_experience": 1506,
-        "special": false
+        "fishing_experience": 1506
       },
-      {
-        "display_name": "Sea Emperor",
+      "Sea Emperor": {
         "chat_message": "§aThe Sea Emperor arises from the depths.",
         "fishing_experience": 6804,
-        "special": true
+        "rare": true
       },
-      {
-        "display_name": "Guardian Defender",
+      "Guardian Defender": {
         "chat_message": "§aYou've discovered a Guardian Defender of the sea.",
-        "fishing_experience": 0,
-        "special": false
+        "fishing_experience": 0
       },
-      {
-        "display_name": "Rider of the Deep",
+      "Rider of the Deep": {
         "chat_message": "§aThe Rider of the Deep has emerged.",
-        "fishing_experience": 759,
-        "special": false
+        "fishing_experience": 759
       },
-      {
-        "display_name": "Deep Sea Protector",
+      "Deep Sea Protector": {
         "chat_message": "§aYou have awoken the Deep Sea Protector, prepare for a battle!",
         "fishing_experience": 2721,
-        "special": true
+        "rare": true
       }
-    ]
+    }
   },
   "WINTER_ISLAND": {
     "chat_color": "§f",
-    "sea_creatures": [
-      {
-        "display_name": "Frozen Steve",
+    "sea_creatures": {
+      "Frozen Steve": {
         "chat_message": "§aFrozen Steve fell into the pond long ago, never to §r§aresurface...until§r§a now!",
-        "fishing_experience": 203,
-        "special": false
+        "fishing_experience": 203
       },
-      {
-        "display_name": "Snowman",
+      "Snowman": {
         "chat_message": "§aIt's a snowman! He looks harmless",
-        "fishing_experience": 403,
-        "special": false
+        "fishing_experience": 403
       },
-      {
-        "display_name": "The Grinch",
+      "The Grinch": {
         "chat_message": "§aThe Grinch stole Jerry's §r§aGifts...get§r§a them back!",
-        "fishing_experience": 816,
-        "special": false
+        "fishing_experience": 816
       }
-    ]
+    }
   },
   "SPOOKY": {
     "chat_color": "§5",
-    "sea_creatures": [
-      {
-        "display_name": "Scarecrow",
+    "sea_creatures": {
+      "Scarecrow": {
         "chat_message": "§aPhew! It's only a Scarecrow.",
-        "fishing_experience": 937,
-        "special": false
+        "fishing_experience": 937
       },
-      {
-        "display_name": "Nightmare",
+      "Nightmare": {
         "chat_message": "§aYou hear trotting from beneath the waves, you caught a Nightmare.",
-        "fishing_experience": 1830,
-        "special": false
+        "fishing_experience": 1830
       },
-      {
-        "display_name": "Werewolf",
+      "Werewolf": {
         "chat_message": "§aIt must be a full moon, a Werewolf appears.",
-        "fishing_experience": 2756,
-        "special": false
+        "fishing_experience": 2756
       },
-      {
-        "display_name": "Phantom Fisher",
+      "Phantom Fisher": {
         "chat_message": "§aThe spirit of a long lost Phantom Fisher has come to haunt you.",
         "fishing_experience": 5630,
-        "special": true
+        "rare": true
       }
-    ]
+    }
   },
   "SHARK": {
     "chat_color": "§3",
-    "sea_creatures": [
-      {
-        "display_name": "Nurse Shark",
+    "sea_creatures": {
+      "Nurse Shark": {
         "chat_message": "§aA tiny fin emerges from the water, you've caught a Nurse Shark.",
-        "fishing_experience": 1224,
-        "special": false
+        "fishing_experience": 1224
       },
-      {
-        "display_name": "Blue Shark",
+      "Blue Shark": {
         "chat_message": "§aYou spot a fin as blue as the water it came from, it's a Blue Shark.",
-        "fishing_experience": 2449,
-        "special": false
+        "fishing_experience": 2449
       },
-      {
-        "display_name": "Tiger Shark",
+      "Tiger Shark": {
         "chat_message": "§aA striped beast bounds from the depths, the wild Tiger Shark!",
-        "fishing_experience": 3063,
-        "special": false
+        "fishing_experience": 3063
       }
-    ]
+    }
   },
   "BARN": {
     "chat_color": "§a",
-    "sea_creatures": [
-      {
-        "display_name": "Oasis Sheep",
+    "sea_creatures": {
+      "Oasis Sheep": {
         "chat_message": "§aAn Oasis Sheep appears from the water",
-        "fishing_experience": 6,
-        "special": false
+        "fishing_experience": 6
       },
-      {
-        "display_name": "Oasis Rabbit",
+      "Oasis Rabbit": {
         "chat_message": "§aAn Oasis Rabbit appears from the water",
-        "fishing_experience": 0,
-        "special": false
+        "fishing_experience": 0
       },
-      {
-        "display_name": "Carrot King",
+      "Carrot King": {
         "chat_message": "§aIs this even a fish? It's the Carrot King!",
         "fishing_experience": 1819,
-        "special": true
+        "rare": true
       }
-    ]
+    }
   },
   "LAVA_CRYSTAL_HOLLOWS": {
     "chat_color": "§c",
-    "sea_creatures": [
-      {
-        "display_name": "Lava Blaze",
+    "sea_creatures": {
+      "Lava Blaze": {
         "chat_message": "§aA Lava Blaze has surfaced from the depths!",
-        "fishing_experience": 82,
-        "special": false
+        "fishing_experience": 0
       },
-      {
-        "display_name": "Lava Pigman",
+      "Lava Pigman": {
         "chat_message": "§aA Lava Pigman arose from the depths!",
-        "fishing_experience": 82,
-        "special": false
+        "fishing_experience": 0
       }
-    ]
+    }
   },
   "LAVA_CRIMSON_ISLE": {
     "chat_color": "§c",
-    "sea_creatures": [
-      {
-        "display_name": "Moogma",
+    "sea_creatures": {
+      "Moogma": {
         "chat_message": "§aYou hear a faint Moo from the lava... A Moogma appears.",
-        "fishing_experience": 1429,
-        "special": false
+        "fishing_experience": 1429
       },
-      {
-        "display_name": "Magma Slug",
+      "Magma Slug": {
         "chat_message": "§aFrom beneath the lava appears a Magma Slug.",
-        "fishing_experience": 2134,
-        "special": false
+        "fishing_experience": 2134
       },
-      {
-        "display_name": "Pyroclastic Worm",
+      "Pyroclastic Worm": {
         "chat_message": "§aYou feel the heat radiating as a Pyroclastic Worm surfaces.",
-        "fishing_experience": 2471,
-        "special": false
+        "fishing_experience": 2471
       },
-      {
-        "display_name": "Lava Flame",
+      "Lava Flame": {
         "chat_message": "§aA Lava Flame flies out from beneath the lava.",
-        "fishing_experience": 4717,
-        "special": false
+        "fishing_experience": 4717
       },
-      {
-        "display_name": "Fire Eel",
+      "Fire Eel": {
         "chat_message": "§aA Fire Eel slithers out from the depths.",
-        "fishing_experience": 4921,
-        "special": false
+        "fishing_experience": 4921
       },
-      {
-        "display_name": "Lava Leech",
+      "Lava Leech": {
         "chat_message": "§aA small but fearsome Lava Leech emerges.",
-        "fishing_experience": 3145,
-        "special": false
+        "fishing_experience": 3145
       },
-      {
-        "display_name": "Thunder",
+      "Thunder": {
         "chat_message": "§c§lYou hear a massive rumble as Thunder emerges.",
         "fishing_experience": 0,
-        "special": true
+        "rare": true
       },
-      {
-        "display_name": "Taurus",
+      "Taurus": {
         "chat_message": "§aTaurus and his steed emerge.",
         "fishing_experience": 0,
-        "special": true
+        "rare": true
       }
-    ]
+    }
   }
 }
