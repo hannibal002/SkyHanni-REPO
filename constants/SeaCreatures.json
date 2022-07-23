@@ -1,0 +1,49 @@
+{
+  "LAVA": {
+    "chat_color": "§c",
+    "sea_creatures": [
+      {
+        "display_name": "Moogma",
+        "chat_message": "§aYou hear a faint Moo from the lava... A Moogma appears.",
+        "fishing_experience": 1429,
+        "special": false
+      },
+      {
+        "display_name": "Magma Slug",
+        "chat_message": "§aFrom beneath the lava appears a Magma Slug.",
+        "fishing_experience": 2134,
+        "special": false
+      },
+      {
+        "display_name": "Pyroclastic Worm",
+        "chat_message": "§aYou feel the heat radiating as a Pyroclastic Worm surfaces.",
+        "fishing_experience": 2471,
+        "special": false
+      },
+      {
+        "display_name": "Lava Flame",
+        "chat_message": "§aA Lava Flame flies out from beneath the lava.",
+        "fishing_experience": 4717,
+        "special": false
+      },
+      {
+        "display_name": "Fire Eel",
+        "chat_message": "§aA Fire Eel slithers out from the depths.",
+        "fishing_experience": 4921,
+        "special": false
+      },
+      {
+        "display_name": "Lava Leech",
+        "chat_message": "§aA small but fearsome Lava Leech emerges.",
+        "fishing_experience": 3145,
+        "special": false
+      },
+      {
+        "display_name": "Thunder",
+        "chat_message": "§c§lYou hear a massive rumble as Thunder emerges.",
+        "fishing_experience": 0,
+        "special": true
+      }
+    ]
+  }
+}
