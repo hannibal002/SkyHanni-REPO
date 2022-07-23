@@ -43,6 +43,12 @@
         "chat_message": "§c§lYou hear a massive rumble as Thunder emerges.",
         "fishing_experience": 0,
         "special": true
+      },
+      {
+        "display_name": "Taurus",
+        "chat_message": "§aTaurus and his steed emerge.",
+        "fishing_experience": 0,
+        "special": true
       }
     ]
   }
