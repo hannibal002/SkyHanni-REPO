@@ -2,11 +2,9 @@
   "hide_npc_sell": {
     "equals": [
       "Health Potion VIII Splash Potion",
-      "Stone Button",
       "Revive Stone",
       "Premium Flesh",
       "Defuse Kit",
-      "White Wool",
       "Enchanted Wool",
       "Training Weights",
       "Journal Entry",
@@ -17,7 +15,6 @@
       "Fairy's Fedora",
       "Fairy's Polo",
       "Blaze Powder",
-      "Egg",
       "Corrupted Fragment",
       "Tripwire Hook",
       "White Wool",
