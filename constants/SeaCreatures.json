@@ -170,12 +170,12 @@
       },
       "Thunder": {
         "chat_message": "§c§lYou hear a massive rumble as Thunder emerges.",
-        "fishing_experience": 0,
+        "fishing_experience": 26953,
         "rare": true
       },
       "Taurus": {
         "chat_message": "§aTaurus and his steed emerge.",
-        "fishing_experience": 0,
+        "fishing_experience": 9559,
         "rare": true
       }
     }
