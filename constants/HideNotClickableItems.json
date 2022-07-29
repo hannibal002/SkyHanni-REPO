@@ -13,6 +13,9 @@
       "Twilight Arrow Poison",
       "Lever",
       "Fairy's Galoshes",
+      "Fairy's Trousers",
+      "Fairy's Fedora",
+      "Fairy's Polo",
       "Blaze Powder",
       "Egg",
       "Corrupted Fragment",
@@ -68,7 +71,8 @@
       "Blade of the Volcano",
       "Staff of the Volcano",
       "Taurus Helmet",
-      "Slug Boots"
+      "Slug Boots",
+      "Magma Rod"
     ]
   },
   "hide_player_trade": {
@@ -94,7 +98,8 @@
       "Prismapump",
       "Mathematical Hoe Blueprint",
       "Basket of Seeds",
-      "Nether Wart Pouch"
+      "Nether Wart Pouch",
+      "InfiniDirt™ Wand"
     ],
     "startsWith": [],
     "endsWith": [
