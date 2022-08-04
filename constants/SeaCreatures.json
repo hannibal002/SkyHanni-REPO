@@ -107,6 +107,11 @@
       "Tiger Shark": {
         "chat_message": "§aA striped beast bounds from the depths, the wild Tiger Shark!",
         "fishing_experience": 3063
+      },
+      "Great White Shark": {
+        "chat_message": "§aHide no longer, a Great White Shark has tracked your scent and thirsts for your blood!",
+        "fishing_experience": 6823,
+        "rare": true
       }
     }
   },
