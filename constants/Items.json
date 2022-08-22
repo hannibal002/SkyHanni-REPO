@@ -1,0 +1,14 @@
+{
+  "crimson_armors": [
+    "Aurora",
+    "Crimson",
+    "Terror",
+    "Fervor"
+  ],
+  "crimson_tiers": {
+    "Hot": 10,
+    "Burning": 20,
+    "Fiery": 30,
+    "Infernal": 40
+  }
+}
