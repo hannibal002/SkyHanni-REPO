@@ -1,8 +1,7 @@
 {
   "hide_npc_sell": {
     "equals": [
-      "Health Potion VIII Splash Potion",
-      "Health Potion 8 Splash Potion",
+      "Healing 8 Splash Potion",
       "Revive Stone",
       "Premium Flesh",
       "Defuse Kit",
