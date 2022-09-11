@@ -68,6 +68,11 @@
       "The Grinch": {
         "chat_message": "§aThe Grinch stole Jerry's §r§aGifts...get§r§a them back!",
         "fishing_experience": 816
+      },
+      "Yeti": {
+        "chat_message": "§aWhat is this creature!?",
+        "fishing_experience": 0,
+        "rare": true
       }
     }
   },
