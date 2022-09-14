@@ -26,13 +26,15 @@
       "Goblin Boots",
       "Ancient Claw",
       "Wishing Compass",
-      "Sea Lantern"
+      "Sea Lantern",
+      "Superboom TNT"
     ],
     "startsWith": [
       "Music Disc"
     ],
     "endsWith": [
-      " Rune I"
+      " Rune I",
+      " Golden Apple"
     ]
   },
   "hide_in_storage": {
