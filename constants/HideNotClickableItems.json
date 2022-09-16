@@ -27,14 +27,15 @@
       "Ancient Claw",
       "Wishing Compass",
       "Sea Lantern",
-      "Superboom TNT"
+      "Superboom TNT",
+      "Golden Apple",
+      "Enchanted Golden Apple"
     ],
     "startsWith": [
       "Music Disc"
     ],
     "endsWith": [
-      " Rune I",
-      " Golden Apple"
+      " Rune I"
     ]
   },
   "hide_in_storage": {
