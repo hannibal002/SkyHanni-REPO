@@ -1,0 +1,87 @@
+{
+  "filters": [
+    {
+      "description": "Player is advertising their lowballing",
+      "contains": [
+        "lowballing",
+        "lowbal",
+        "lowwbal"
+      ],
+      "containsWord": [
+        "low balling"
+      ]
+    },
+    {
+      "description": "Player is looking for a lowballer",
+      "contains": [
+        "lowballer"
+      ]
+    },
+    {
+      "description": "Player wants to buy stuff",
+      "containsWord": [
+        "buying",
+        "i buy"
+      ]
+    },
+    {
+      "description": "Player wants to sell stuff",
+      "containsWord": [
+        "sell",
+        "selling",
+        "sellomg",
+        "seling",
+        "my ah",
+        "my ahh",
+        "low price",
+        "bid on",
+        "to buy",
+        "my /ah",
+        "i buy",
+        "check out my auction",
+        "on /ah"
+      ]
+    },
+    {
+      "description": "Player wants to advertise a minion shop",
+      "containsWord": [
+        "minion shop"
+      ]
+    },
+    {
+      "description": "Player wants to quit skyblock",
+      "containsWord": [
+        "quitting skyblock"
+      ]
+    },
+    {
+      "description": "Player wants to apply reforge stone",
+      "containsWord": [
+        "applying reforges",
+        "mining 30 to apply",
+        "apply spiritual to"
+      ]
+    },
+    {
+      "description": "Player wants to sell building island farms",
+      "containsWord": [
+        "building your farms",
+        "building farms"
+      ]
+    },
+    {
+      "description": "Player asks for free stuff",
+      "contains": [
+        "at map"
+      ],
+      "containsWord": [
+        "upgrade my",
+        "fund me",
+        "donate me",
+        "can someone give me",
+        "got scammed",
+        "dirt to hyp"
+      ]
+    }
+  ]
+}
