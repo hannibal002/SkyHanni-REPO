@@ -8,7 +8,8 @@
         "lowwbal"
       ],
       "containsWord": [
-        "low balling"
+        "low balling",
+        "loballing"
       ]
     },
     {
@@ -26,9 +27,14 @@
     },
     {
       "description": "Player wants to sell stuff",
+      "contains": [
+        "check my ah",
+        "on my ah"
+      ],
       "containsWord": [
         "sell",
         "selling",
+        "sellng",
         "sellomg",
         "seling",
         "my ah",
@@ -39,7 +45,10 @@
         "my /ah",
         "i buy",
         "check out my auction",
-        "on /ah"
+        "on /ah",
+        "buy quickly for",
+        "buy my auction",
+        "on ah"
       ]
     },
     {
@@ -80,7 +89,8 @@
         "donate me",
         "can someone give me",
         "got scammed",
-        "dirt to hyp"
+        "dirt to hyp",
+        "give me plz"
       ]
     }
   ]
