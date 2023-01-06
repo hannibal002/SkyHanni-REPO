@@ -124,11 +124,11 @@
     "chat_color": "§a",
     "sea_creatures": {
       "Oasis Sheep": {
-        "chat_message": "§aAn Oasis Sheep appears from the water",
+        "chat_message": "§aAn Oasis Sheep appears from the water.",
         "fishing_experience": 6
       },
       "Oasis Rabbit": {
-        "chat_message": "§aAn Oasis Rabbit appears from the water",
+        "chat_message": "§aAn Oasis Rabbit appears from the water.",
         "fishing_experience": 0
       },
       "Carrot King": {
