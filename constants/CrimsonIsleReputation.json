@@ -1,0 +1,27 @@
+{
+  "FISHING": [
+    "Lavahorse",
+    "Gusher",
+    "Volcanic Stonefish"
+  ],
+  "RESCUE": [
+    "Rescue Mission"
+  ],
+  "FETCH": [
+    "Magmag",
+    "Spectre Dust",
+    "Tentacle Meat"
+  ],
+  "DOJO": [
+    "Mastery",
+    "Tenacity",
+    "Stamina"
+  ],
+  "MINIBOSS": [
+    "Magma Boss",
+    "Mage Outlaw",
+    "Barbarian Duke X",
+    "Bladesoul",
+    "Ashfang"
+  ]
+}
