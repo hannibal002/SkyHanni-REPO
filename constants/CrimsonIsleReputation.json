@@ -4,7 +4,9 @@
     "Gusher",
     "Volcanic Stonefish",
     "Moldfin",
-    "Steaming-Hot Flounder"
+    "Steaming-Hot Flounder",
+    "Blobfish",
+    "Flyfish"
   ],
   "RESCUE": [
     "Rescue Mission"
@@ -12,13 +14,15 @@
   "FETCH": [
     "Magmag",
     "Spectre Dust",
-    "Tentacle Meat"
+    "Tentacle Meat",
+    "Corrupted Fragment"
   ],
   "DOJO": [
     "Mastery",
     "Tenacity",
     "Stamina",
-    "Swiftness"
+    "Swiftness",
+    "Discipline"
   ],
   "MINIBOSS": [
     "Bladesoul",
