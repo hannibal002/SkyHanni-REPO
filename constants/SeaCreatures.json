@@ -34,11 +34,6 @@
         "chat_message": "§aGross! A Sea Leech!",
         "fishing_experience": 1506
       },
-      "Sea Emperor": {
-        "chat_message": "§aThe Sea Emperor arises from the depths.",
-        "fishing_experience": 6804,
-        "rare": true
-      },
       "Guardian Defender": {
         "chat_message": "§aYou've discovered a Guardian Defender of the sea.",
         "fishing_experience": 0
@@ -50,6 +45,16 @@
       "Deep Sea Protector": {
         "chat_message": "§aYou have awoken the Deep Sea Protector, prepare for a battle!",
         "fishing_experience": 2721,
+        "rare": true
+      },
+      "Water Hydra": {
+        "chat_message": "§aThe Water Hydra has come to test your strength.",
+        "fishing_experience": 0,
+        "rare": true
+      },
+      "Sea Emperor": {
+        "chat_message": "§aThe Sea Emperor arises from the depths.",
+        "fishing_experience": 6804,
         "rare": true
       }
     }
