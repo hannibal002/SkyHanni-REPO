@@ -8,9 +8,16 @@
     "Blobfish",
     "Flyfish"
   ],
-  "RESCUE": [
-    "Rescue Mission"
-  ],
+  "RESCUE": {
+    "Rescue Mission": {
+      "item": "abc",
+      "location": [
+        123,
+        123,
+        123
+      ]
+    }
+  },
   "FETCH": [
     "Magmag",
     "Spectre Dust",
