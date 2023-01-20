@@ -36,6 +36,8 @@
       "item": "BLOBFISH_BRONZE",
       "location": []
     },
+    "Soul Fish": {
+    },
     "Flyfish": {
       "item": "FLYFISH_BRONZE",
       "location": [
@@ -71,6 +73,9 @@
     "Corrupted Fragment": {
       "item": "CORRUPTED_FRAGMENT",
       "location": []
+    },
+    "Gunpowder": {
+      "item": "SULPHUR"
     }
   },
   "DOJO": {
