@@ -51,9 +51,6 @@
     "Rescue Mission": {
       "item": "abc",
       "location": [
-        123,
-        123,
-        123
       ]
     }
   },
@@ -76,6 +73,9 @@
     },
     "Gunpowder": {
       "item": "SULPHUR"
+    },
+    "Digested Mushrooms": {
+
     }
   },
   "DOJO": {
@@ -113,6 +113,14 @@
     },
     "Discipline": {
       "item": "DIAMOND_SWORD",
+      "location": [
+        -235,
+        109,
+        -597
+      ]
+    },
+    "Control": {
+      "item": "EYE_OF_ENDER",
       "location": [
         -235,
         109,
@@ -165,11 +173,19 @@
   "KUUDRA": {
     "Basic": {
       "item": "KUUDRA_TIER_KEY",
-      "location": []
+      "location": [
+        -372,
+        114,
+        -1034
+      ]
     },
     "Hot": {
       "item": "KUUDRA_HOT_TIER_KEY",
-      "location": []
+      "location": [
+        -372,
+        114,
+        -1034
+      ]
     }
   }
 }
