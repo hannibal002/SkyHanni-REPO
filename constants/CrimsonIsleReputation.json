@@ -1,191 +1,42 @@
 {
-  "FISHING": {
-    "Lavahorse": {
-      "item": "LAVA_HORSE_BRONZE",
-      "location": []
-    },
-    "Gusher": {
-      "item": "GUSHER_BRONZE",
-      "location": []
-    },
-    "Volcanic Stonefish": {
-      "item": "VOLCANIC_STONEFISH_BRONZE",
-      "location": [
-        -366,
-        120,
-        -780
-      ]
-    },
-    "Moldfin": {
-      "item": "MOLDFIN_BRONZE",
-      "location": [
-        -248,
-        73,
-        -733
-      ]
-    },
-    "Steaming-Hot Flounder": {
-      "item": "STEAMING_HOT_FLOUNDER_BRONZE",
-      "location": [
-        -366,
-        120,
-        -780
-      ]
-    },
-    "Blobfish": {
-      "item": "BLOBFISH_BRONZE",
-      "location": []
-    },
-    "Soul Fish": {
-    },
-    "Flyfish": {
-      "item": "FLYFISH_BRONZE",
-      "location": [
-        -366,
-        120,
-        -780
-      ]
-    }
-  },
-  "RESCUE": {
-    "Rescue Mission": {
-      "item": "abc",
-      "location": [
-      ]
-    }
-  },
-  "FETCH": {
-    "Magmag": {
-      "item": "MAGMAG",
-      "location": []
-    },
-    "Spectre Dust": {
-      "item": "SPECTRE_DUST",
-      "location": []
-    },
-    "Tentacle Meat": {
-      "item": "TENTACLE_MEAT",
-      "location": []
-    },
-    "Corrupted Fragment": {
-      "item": "CORRUPTED_FRAGMENT",
-      "location": []
-    },
-    "Gunpowder": {
-      "item": "SULPHUR"
-    },
-    "Digested Mushrooms": {
-
-    }
-  },
-  "DOJO": {
-    "Mastery": {
-      "item": "BOW",
-      "location": [
-        -235,
-        109,
-        -597
-      ]
-    },
-    "Tenacity": {
-      "item": "FIRE_CHARGE",
-      "location": [
-        -235,
-        109,
-        -597
-      ]
-    },
-    "Stamina": {
-      "item": "RABBIT_FOOT",
-      "location": [
-        -235,
-        109,
-        -597
-      ]
-    },
-    "Swiftness": {
-      "item": "LEAD",
-      "location": [
-        -235,
-        109,
-        -597
-      ]
-    },
-    "Discipline": {
-      "item": "DIAMOND_SWORD",
-      "location": [
-        -235,
-        109,
-        -597
-      ]
-    },
-    "Control": {
-      "item": "EYE_OF_ENDER",
-      "location": [
-        -235,
-        109,
-        -597
-      ]
-    }
-  },
-  "MINIBOSS": {
-    "Bladesoul": {
-      "item": "BLADESOUL_MINIBOSS",
-      "location": [
-        -294,
-        82,
-        -517
-      ]
-    },
-    "Mage Outlaw": {
-      "item": "MAGE_OUTLAW_MINIBOSS",
-      "location": [
-        -180,
-        106,
-        -859
-      ]
-    },
-    "Barbarian Duke X": {
-      "item": "BARBARIAN_DUKE_X_MINIBOSS",
-      "location": [
-        -535,
-        118,
-        -902
-      ]
-    },
-    "Ashfang": {
-      "item": "ASHFANG_MINIBOSS",
-      "location": [
-        -484,
-        136,
-        -1015
-      ]
-    },
-    "Magma Boss": {
-      "item": "MAGMA_CUBE_BOSS",
-      "location": [
-        -368,
-        63,
-        -804
-      ]
-    }
-  },
-  "KUUDRA": {
-    "Basic": {
-      "item": "KUUDRA_TIER_KEY",
-      "location": [
-        -372,
-        114,
-        -1034
-      ]
-    },
-    "Hot": {
-      "item": "KUUDRA_HOT_TIER_KEY",
-      "location": [
-        -372,
-        114,
-        -1034
-      ]
-    }
-  }
+  "FISHING": [
+    "Lavahorse",
+    "Gusher",
+    "Volcanic Stonefish",
+    "Moldfin",
+    "Steaming-Hot Flounder",
+    "Blobfish",
+    "Flyfish",
+    "Soul Fish"
+  ],
+  "RESCUE": [
+    "Rescue Mission"
+  ],
+  "FETCH": [
+    "Magmag",
+    "Spectre Dust",
+    "Tentacle Meat",
+    "Corrupted Fragment",
+    "Gunpowder",
+    "Digested Mushrooms"
+  ],
+  "DOJO": [
+    "Mastery",
+    "Tenacity",
+    "Stamina",
+    "Swiftness",
+    "Discipline",
+    "Control"
+  ],
+  "MINIBOSS": [
+    "Bladesoul",
+    "Mage Outlaw",
+    "Barbarian Duke X",
+    "Ashfang",
+    "Magma Boss"
+  ],
+  "KUUDRA": [
+    "Basic",
+    "Hot"
+  ]
 }
