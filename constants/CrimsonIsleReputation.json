@@ -174,17 +174,17 @@
     "Basic": {
       "item": "KUUDRA_TIER_KEY",
       "location": [
-        -372,
+        -371.5,
         114,
-        -1034
+        -1033.5
       ]
     },
     "Hot": {
       "item": "KUUDRA_HOT_TIER_KEY",
       "location": [
-        -372,
+        -371.5,
         114,
-        -1034
+        -1033.5
       ]
     }
   }
