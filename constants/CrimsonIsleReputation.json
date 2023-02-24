@@ -77,11 +77,13 @@
       "item": "SULPHUR"
     },
     "Digested Mushrooms": {
-
+      "item": "DIGESTED_MUSHROOMS"
     },
     "Mycelium": {
+      "item": "MYCEL"
     },
     "Kada Lead": {
+      "item": "KADA_LEAD"
     }
   },
   "DOJO": {
