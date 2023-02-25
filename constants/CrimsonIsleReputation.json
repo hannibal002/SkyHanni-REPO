@@ -47,13 +47,14 @@
       ]
     },
     "Golden Fish": {
+      "item": "GOLDEN_FISH_BRONZE",
+      "location": []
     }
   },
   "RESCUE": {
     "Rescue Mission": {
       "item": "abc",
-      "location": [
-      ]
+      "location": []
     }
   },
   "FETCH": {
@@ -74,16 +75,20 @@
       "location": []
     },
     "Gunpowder": {
-      "item": "SULPHUR"
+      "item": "SULPHUR",
+      "location": []
     },
     "Digested Mushrooms": {
-      "item": "DIGESTED_MUSHROOMS"
+      "item": "DIGESTED_MUSHROOMS",
+      "location": []
     },
     "Mycelium": {
-      "item": "MYCEL"
+      "item": "MYCEL",
+      "location": []
     },
     "Kada Lead": {
-      "item": "KADA_LEAD"
+      "item": "KADA_LEAD",
+      "location": []
     }
   },
   "DOJO": {
