@@ -49,6 +49,10 @@
     "Golden Fish": {
       "item": "GOLDEN_FISH_BRONZE",
       "location": []
+    },
+    "Slugfish": {
+      "item": "SLUGFISH_BRONZE",
+      "location": []
     }
   },
   "RESCUE": {
@@ -88,6 +92,14 @@
     },
     "Kada Lead": {
       "item": "KADA_LEAD",
+      "location": []
+    },
+    "Wither Soul": {
+      "item": "WITHER_SOUL",
+      "location": []
+    },
+    "Mutated Blaze Ashes": {
+      "item": "MUTATED_BLAZE_ASHES",
       "location": []
     }
   },
@@ -134,6 +146,14 @@
     },
     "Control": {
       "item": "EYE_OF_ENDER",
+      "location": [
+        -235,
+        109,
+        -597
+      ]
+    },
+    "Force": {
+      "item": "STICK",
       "location": [
         -235,
         109,
@@ -194,6 +214,14 @@
     },
     "Hot": {
       "item": "KUUDRA_HOT_TIER_KEY",
+      "location": [
+        -371.5,
+        114,
+        -1033.5
+      ]
+    },
+    "Burning": {
+      "item": "KUUDRA_BURNING_TIER_KEY",
       "location": [
         -371.5,
         114,
