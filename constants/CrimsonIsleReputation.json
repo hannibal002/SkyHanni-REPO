@@ -37,6 +37,8 @@
       "location": []
     },
     "Soul Fish": {
+      "item": "SOUL_FISH_BRONZE",
+      "location": []
     },
     "Flyfish": {
       "item": "FLYFISH_BRONZE",
@@ -57,7 +59,7 @@
   },
   "RESCUE": {
     "Rescue Mission": {
-      "item": "abc",
+      "item": "PAINTING",
       "location": []
     }
   },
