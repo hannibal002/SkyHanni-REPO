@@ -103,6 +103,10 @@
     "Mutated Blaze Ashes": {
       "item": "MUTATED_BLAZE_ASHES",
       "location": []
+    },
+    "Burning Eye": {
+      "item": "BURNING_EYE",
+      "location": []
     }
   },
   "DOJO": {
