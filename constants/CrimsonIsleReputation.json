@@ -55,6 +55,10 @@
     "Slugfish": {
       "item": "SLUGFISH_BRONZE",
       "location": []
+    },
+    "Skeleton Fish": {
+      "item": "SKELETON_FISH_BRONZE",
+      "location": []
     }
   },
   "RESCUE": {
