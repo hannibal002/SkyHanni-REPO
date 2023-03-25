@@ -111,6 +111,10 @@
     "Burning Eye": {
       "item": "BURNING_EYE",
       "location": []
+    },
+    "Gazing Pearl": {
+      "item": "GAZING_PEARL",
+      "location": []
     }
   },
   "DOJO": {
