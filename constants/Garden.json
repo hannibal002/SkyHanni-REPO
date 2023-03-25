@@ -1,132 +1,16 @@
 {
   "visitors": {
-    "Fear Mongerer": {
+    "Adventurer": {
       "rarity": "uncommon",
-      "need_items": []
-    },
-    "Grandma Wolf": {
-      "rarity": "rare",
-      "need_items": []
-    },
-    "Terry": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Zog": {
-      "rarity": "rare",
-      "need_items": []
-    },
-    "Rusty": {
-      "rarity": "rare",
-      "need_items": []
-    },
-    "Ryu": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Felix": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Duke": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Fisherman": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Tom": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Arthur": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Lumber Jack": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Weaponsmith": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Jerry": {
-      "rarity": "legendary",
-      "need_items": []
-    },
-    "Odawa": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Emissary Carlton": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Emissary Wilson": {
-      "rarity": "uncommon",
-      "need_items": []
+      "need_items": [
+        "Potato"
+      ]
     },
     "Alchemist": {
       "rarity": "uncommon",
-      "need_items": []
-    },
-    "Liam": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Librarian": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Mason": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Vex": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Farmhand": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Geonathan Greatforge": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Jamie": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Puzzler": {
-      "rarity": "rare",
-      "need_items": []
-    },
-    "Wizard": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Iron Forger": {
-      "rarity": "rare",
-      "need_items": []
-    },
-    "Lumina": {
-      "rarity": "rare",
-      "need_items": []
-    },
-    "Stella": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Tia the Fairy": {
-      "rarity": "rare",
-      "need_items": []
-    },
-    "Adventurer": {
-      "rarity": "uncommon",
-      "need_items": []
+      "need_items": [
+        "Nether Wart"
+      ]
     },
     "Andrew": {
       "rarity": "uncommon",
@@ -134,155 +18,442 @@
     },
     "Anita": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [
+        "Carrot"
+      ]
     },
-    "Dusk": {
+    "Arthur": {
       "rarity": "uncommon",
-      "need_items": []
-    },
-    "Emissary Fraiser": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Guy": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Jotraeline Greatforge": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Lazy Miner": {
-      "rarity": "rare",
-      "need_items": []
-    },
-    "Leo": {
-      "rarity": "uncommon",
-      "need_items": []
+      "need_items": [
+        "Wheat"
+      ]
     },
     "Banker Broadjaw": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Farmer Jon": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Queen Mismyla": {
       "rarity": "rare",
-      "need_items": []
-    },
-    "Rhys": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Shaggy": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Fragilis": {
-      "rarity": "rare",
-      "need_items": []
-    },
-    "Gwendolyn": {
-      "rarity": "rare",
-      "need_items": []
-    },
-    "Jacob": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Trevor": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Emissary Ceanna": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Lynn": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Madame Eleanor Q. Goldsworth III": {
-      "rarity": "legendary",
-      "need_items": []
-    },
-    "Oringo": {
-      "rarity": "uncommon",
-      "need_items": []
+      "need_items": [
+        "Cactus"
+      ]
     },
     "Bartender": {
       "rarity": "rare",
       "need_items": []
     },
-    "Emissary Sisko": {
-      "rarity": "rare",
-      "need_items": []
-    },
-    "Friendly Hiker": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Shifty": {
-      "rarity": "rare",
-      "need_items": []
-    },
-    "Seymour": {
-      "rarity": "rare",
-      "need_items": []
-    },
-    "Dalbrek": {
-      "rarity": "rare",
-      "need_items": []
-    },
-    "Gold Forger": {
-      "rarity": "rare",
-      "need_items": []
-    },
-    "Jack": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Royal Resident": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Old Man Garry": {
-      "rarity": "rare",
-      "need_items": []
-    },
-    "Plumber Joe": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Sirius": {
+    "Beth": {
       "rarity": "legendary",
       "need_items": []
     },
     "Clerk Seraphine": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [
+        "Sugar Cane"
+      ]
     },
-    "Tammy": {
+    "Dalbrek": {
       "rarity": "rare",
       "need_items": []
     },
-    "Sargwyn": {
+    "Duke": {
       "rarity": "uncommon",
       "need_items": []
+    },
+    "Dusk": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Melon"
+      ]
+    },
+    "Emissary Carlton": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Cocoa Beans"
+      ]
+    },
+    "Emissary Ceanna": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Potato"
+      ]
+    },
+    "Emissary Fraiser": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Melon"
+      ]
+    },
+    "Emissary Sisko": {
+      "rarity": "rare",
+      "need_items": [
+        "Mushroom"
+      ]
+    },
+    "Emissary Wilson": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Carrot"
+      ]
+    },
+    "Farmer Jon": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Farmhand": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Wheat",
+        "Carrot",
+        "Potato"
+      ]
+    },
+    "Fear Mongerer": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Pumpkin"
+      ]
+    },
+    "Felix": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Fisherman": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Carrot"
+      ]
+    },
+    "Fragilis": {
+      "rarity": "rare",
+      "need_items": [
+        "Cactus"
+      ]
+    },
+    "Friendly Hiker": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Raw Mutton",
+        "Raw Porkchop",
+        "Raw Rabbit"
+      ]
+    },
+    "Geonathan Greatforge": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Compost"
+      ]
     },
     "Gimley": {
       "rarity": "uncommon",
+      "need_items": [
+        "Wheat"
+      ]
+    },
+    "Gold Forger": {
+      "rarity": "rare",
+      "need_items": [
+        "Golden Carrot"
+      ]
+    },
+    "Grandma Wolf": {
+      "rarity": "rare",
       "need_items": []
+    },
+    "Guy": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Mushroom"
+      ]
+    },
+    "Gwendolyn": {
+      "rarity": "rare",
+      "need_items": [
+        "Cocoa Beans"
+      ]
     },
     "Hornum": {
       "rarity": "uncommon",
+      "need_items": [
+        "Wheat"
+      ]
+    },
+    "Hungry Hiker": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Pumpkin"
+      ]
+    },
+    "Iron Forger": {
+      "rarity": "rare",
+      "need_items": [
+        "Carrot"
+      ]
+    },
+    "Jack": {
+      "rarity": "uncommon",
       "need_items": []
+    },
+    "Jacob": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Wheat"
+      ]
+    },
+    "Jamie": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Jerry": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Jotraeline Greatforge": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Compost"
+      ]
+    },
+    "Lazy Miner": {
+      "rarity": "rare",
+      "need_items": [
+        "Cocoa Beans"
+      ]
+    },
+    "Leo": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Liam": {
+      "rarity": "uncommon",
+      "need_items": [
+        ""
+      ]
+    },
+    "Librarian": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Sugar Cane"
+      ]
+    },
+    "Lumberjack": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Carrot",
+        "Potato",
+        "Melon",
+        "Pumpkin",
+        "Mushroom"
+      ]
+    },
+    "Lumina": {
+      "rarity": "rare",
+      "need_items": [
+        "Pumpkin"
+      ]
+    },
+    "Lynn": {
+      "rarity": "uncommon",
+      "need_items": [
+        ""
+      ]
+    },
+    "Madame Eleanor Q. Goldsworth III": {
+      "rarity": "legendary",
+      "need_items": [
+        "Enchanted Golden Carrot"
+      ]
+    },
+    "Mason": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Raw Mutton",
+        "Potato",
+        "Carrot",
+        "Mushroom"
+      ]
+    },
+    "Odawa": {
+      "rarity": "uncommon",
+      "need_items": [
+        ""
+      ]
+    },
+    "Old Man Garry": {
+      "rarity": "rare",
+      "need_items": [
+        "Cocoa Beans"
+      ]
+    },
+    "Oringo": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Wheat"
+      ]
+    },
+    "Pete": {
+      "rarity": "rare",
+      "need_items": [
+        "Sugar Cane"
+      ]
+    },
+    "Plumber Joe": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Cactus"
+      ]
+    },
+    "Puzzler": {
+      "rarity": "rare",
+      "need_items": [
+        "Carrot"
+      ]
+    },
+    "Queen Mismyla": {
+      "rarity": "rare",
+      "need_items": [
+        ""
+      ]
+    },
+    "Rhys": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Jack o' Lantern"
+      ]
+    },
+    "Royal Resident": {
+      "rarity": "rare",
+      "need_items": [
+        "Wheat"
+      ]
+    },
+    "Royal Resident": {
+      "rarity": "uncommon",
+      "need_items": [
+        ""
+      ]
+    },
+    "Royal Resident": {
+      "rarity": "uncommon",
+      "need_items": [
+        ""
+      ]
+    },
+    "Rusty": {
+      "rarity": "rare",
+      "need_items": [
+        ""
+      ]
+    },
+    "Ryu": {
+      "rarity": "uncommon",
+      "need_items": [
+        ""
+      ]
+    },
+    "Sargwyn": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Wheat"
+      ]
+    },
+    "Seymour": {
+      "rarity": "rare",
+      "need_items": [
+        "Pumpkin"
+      ]
+    },
+    "Shaggy": {
+      "rarity": "uncommon",
+      "need_items": [
+        ""
+      ]
+    },
+    "Shifty": {
+      "rarity": "rare",
+      "need_items": [
+        "Melon"
+      ]
+    },
+    "Sirius": {
+      "rarity": "legendary",
+      "need_items": [
+        ""
+      ]
+    },
+    "Spaceman": {
+      "rarity": "special",
+      "need_items": [
+        ""
+      ]
+    },
+    "Stella": {
+      "rarity": "uncommon",
+      "need_items": [
+        ""
+      ]
+    },
+    "Tammy": {
+      "rarity": "rare",
+      "need_items": [
+        "Cactus"
+      ]
     },
     "Tarwen": {
       "rarity": "uncommon",
+      "need_items": [
+        "Wheat"
+      ]
+    },
+    "Terry": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Melon",
+        "Milk Bucket"
+      ]
+    },
+    "Tia the Fairy": {
+      "rarity": "rare",
+      "need_items": [
+        ""
+      ]
+    },
+    "Tom": {
+      "rarity": "uncommon",
+      "need_items": [
+        ""
+      ]
+    },
+    "Trevor": {
+      "rarity": "uncommon",
+      "need_items": [
+        ""
+      ]
+    },
+    "Vex": {
+      "rarity": "uncommon",
       "need_items": []
+    },
+    "Weaponsmith": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Potato"
+      ]
+    },
+    "Wizard": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Carrot"
+      ]
+    },
+    "Xalx": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Sugar"
+      ]
+    },
+    "Zog": {
+      "rarity": "rare",
+      "need_items": [
+        "Melon",
+        "Cactus"
+      ]
     }
   }
 }
