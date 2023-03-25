@@ -83,7 +83,7 @@
     "Emissary Sisko": {
       "rarity": "rare",
       "need_items": [
-        "Mushroom"
+        "Red Mushroom Block"
       ]
     },
     "Emissary Wilson": {
@@ -129,7 +129,7 @@
     "Friendly Hiker": {
       "rarity": "uncommon",
       "need_items": [
-        "Raw Mutton",
+        "Mutton",
         "Raw Porkchop",
         "Raw Rabbit"
       ]
@@ -159,7 +159,7 @@
     "Guy": {
       "rarity": "uncommon",
       "need_items": [
-        "Mushroom"
+        "Red Mushroom Block"
       ]
     },
     "Gwendolyn": {
@@ -222,9 +222,7 @@
     },
     "Liam": {
       "rarity": "uncommon",
-      "need_items": [
-        ""
-      ]
+      "need_items": []
     },
     "Librarian": {
       "rarity": "uncommon",
@@ -239,7 +237,7 @@
         "Potato",
         "Melon",
         "Pumpkin",
-        "Mushroom"
+        "Red Mushroom Block"
       ]
     },
     "Lumina": {
@@ -250,9 +248,7 @@
     },
     "Lynn": {
       "rarity": "uncommon",
-      "need_items": [
-        ""
-      ]
+      "need_items": []
     },
     "Madame Eleanor Q. Goldsworth III": {
       "rarity": "legendary",
@@ -263,17 +259,15 @@
     "Mason": {
       "rarity": "uncommon",
       "need_items": [
-        "Raw Mutton",
+        "Mutton",
         "Potato",
         "Carrot",
-        "Mushroom"
+        "Red Mushroom Block"
       ]
     },
     "Odawa": {
       "rarity": "uncommon",
-      "need_items": [
-        ""
-      ]
+      "need_items": []
     },
     "Old Man Garry": {
       "rarity": "rare",
@@ -307,9 +301,7 @@
     },
     "Queen Mismyla": {
       "rarity": "rare",
-      "need_items": [
-        ""
-      ]
+      "need_items": []
     },
     "Rhys": {
       "rarity": "uncommon",
@@ -325,27 +317,19 @@
     },
     "Royal Resident": {
       "rarity": "uncommon",
-      "need_items": [
-        ""
-      ]
+      "need_items": []
     },
     "Royal Resident": {
       "rarity": "uncommon",
-      "need_items": [
-        ""
-      ]
+      "need_items": []
     },
     "Rusty": {
       "rarity": "rare",
-      "need_items": [
-        ""
-      ]
+      "need_items": []
     },
     "Ryu": {
       "rarity": "uncommon",
-      "need_items": [
-        ""
-      ]
+      "need_items": []
     },
     "Sargwyn": {
       "rarity": "uncommon",
@@ -361,9 +345,7 @@
     },
     "Shaggy": {
       "rarity": "uncommon",
-      "need_items": [
-        ""
-      ]
+      "need_items": []
     },
     "Shifty": {
       "rarity": "rare",
@@ -373,21 +355,15 @@
     },
     "Sirius": {
       "rarity": "legendary",
-      "need_items": [
-        ""
-      ]
+      "need_items": []
     },
     "Spaceman": {
       "rarity": "special",
-      "need_items": [
-        ""
-      ]
+      "need_items": []
     },
     "Stella": {
       "rarity": "uncommon",
-      "need_items": [
-        ""
-      ]
+      "need_items": []
     },
     "Tammy": {
       "rarity": "rare",
@@ -405,26 +381,20 @@
       "rarity": "uncommon",
       "need_items": [
         "Melon",
-        "Milk Bucket"
+        "Milk"
       ]
     },
     "Tia the Fairy": {
       "rarity": "rare",
-      "need_items": [
-        ""
-      ]
+      "need_items": []
     },
     "Tom": {
       "rarity": "uncommon",
-      "need_items": [
-        ""
-      ]
+      "need_items": []
     },
     "Trevor": {
       "rarity": "uncommon",
-      "need_items": [
-        ""
-      ]
+      "need_items": []
     },
     "Vex": {
       "rarity": "uncommon",
