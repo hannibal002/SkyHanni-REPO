@@ -1,0 +1,288 @@
+{
+  "visitors": {
+    "Fear Mongerer": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Grandma Wolf": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Terry": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Zog": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Rusty": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Ryu": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Felix": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Duke": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Fisherman": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Tom": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Arthur": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Lumber Jack": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Weaponsmith": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Jerry": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Odawa": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Emissary Carlton": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Emissary Wilson": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Alchemist": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Liam": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Librarian": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Mason": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Vex": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Farmhand": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Geonathan Greatforge": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Jamie": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Puzzler": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Wizard": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Iron Forger": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Lumina": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Stella": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Tia the Fairy": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Adventurer": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Andrew": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Anita": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Dusk": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Emissary Fraiser": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Guy": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Jotraeline Greatforge": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Lazy Miner": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Leo": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Banker Broadjaw": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Farmer Jon": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Queen Mismyla": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Rhys": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Shaggy": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Fragilis": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Gwendolyn": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Jacob": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Trevor": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Emissary Ceanna": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Lynn": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Madame Eleanor Q. Goldsworth III": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Oringo": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Bartender": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Emissary Sisko": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Friendly Hiker": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Shifty": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Seymour": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Dalbrek": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Gold Forger": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Jack": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Royal Resident": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Old Man Garry": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Plumber Joe": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Sirius": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Clerk Seraphine": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Tammy": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Sargwyn": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Gimley": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Hornum": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Tarwen": {
+      "rarity": "uncommon",
+      "need_items": []
+    }
+  }
+}
