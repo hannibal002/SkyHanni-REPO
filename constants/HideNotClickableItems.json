@@ -142,19 +142,11 @@
     ],
     "startsWith": [],
     "endsWith": [
-      " Carrot Hoe",
-      " Coco Chopper",
       "Day Crystal",
       "Cat Talisman",
       "Cheetah Talisman",
-      " Potato Hoe",
       "Lynx Talisman",
-      "Melon Dicer",
-      "Night Crystal",
-      " Nether Warts Hoe",
-      "Pumpkin Dicer",
-      " Sugar Cane Hoe",
-      " Wheat Hoe"
+      "Night Crystal"
     ],
     "contains": [
       "Personal Deletor "
