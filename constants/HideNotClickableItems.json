@@ -44,6 +44,7 @@
       "Ice Rod",
       "Journal Entry",
       "Match-Sticks",
+      "Mysterious Crop",
       "Netherrack-Looking Sunshade",
       "Polished Andesite",
       "Premium Flesh",
@@ -58,7 +59,7 @@
       "Tripwire Hook",
       "Twilight Arrow Poison",
       "White Wool",
-      "Wishing Compass"
+      "Wishing Compass",
     ],
     "startsWith": [
       "Music Disc"
