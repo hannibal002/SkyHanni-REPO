@@ -159,7 +159,9 @@
     },
     "Farmer Jon": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [
+        "Sugar Cane"
+      ]
     },
     "Farmhand": {
       "rarity": "uncommon",
