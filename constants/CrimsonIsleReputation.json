@@ -59,6 +59,10 @@
     "Skeleton Fish": {
       "item": "SKELETON_FISH_BRONZE",
       "location": []
+    },
+    "Sulphur Skitter": {
+      "item": "SULPHUR_SKITTER_BRONZE",
+      "location": []
     }
   },
   "RESCUE": {
