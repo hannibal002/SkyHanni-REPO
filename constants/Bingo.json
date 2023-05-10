@@ -1,0 +1,130 @@
+{
+  "bingo_tips": {
+    "Wooden Treasure": {
+      "difficulty": "medium",
+      "note": [
+        "You can do this from first floor, you don\u0027t need any money to complete this goal"
+      ]
+    },
+    "Pet Hoarder": {
+      "difficulty": "hard",
+      "note": [
+        "You will need chicken eggs to complete this goal. Pick 8 from the list below to do for this goal (Bingo pet is a given pet)",
+        "Drops: ",
+        "Endermen, Rock, Grandma, Armadillo, Squid, Guardian, Dolphin and Tarantula",
+        "Collections: ",
+        "Jerry, Silverfish, Pig, Rabbit, Reindeer, Bee and Zoo Pets"
+      ]
+    },
+    "Podium Position": {
+      "difficulty": "medium",
+      "note": [
+        "Most contests you can get bronze in Wheat, Carrot are the easiest as you can do them in hubs "
+      ]
+    },
+    "Miner": {
+      "difficulty": "easy",
+      "note": [
+        "Commissions in Dwarven Mines will get this very fast"
+      ]
+    },
+    "Slaughterer": {
+      "difficulty": "medium",
+      "note": [
+        "You can do this from either getting carried by a friend or doing spider slayers as they are the easiest to kill "
+      ]
+    },
+    "Raw Fish Collector": {
+      "difficulty": "hard",
+      "note": [
+        "You will need to fish for this (either hub or in the park) and make minions  when you get enough (50)"
+      ]
+    },
+    "Potatorific": {
+      "difficulty": "medium",
+      "note": [
+        "For this you will need 160 Enchanted Potatoes so save from your garden, you will unlock the collection from the other goal"
+      ]
+    },
+    "Sapphire Crystal": {
+      "difficulty": "medium",
+      "note": [
+        "For this crystal you need 6 robot",
+        "parts these are found in chests",
+        "or dropped from Automaton"
+      ]
+    },
+    "Hot Trails": {
+      "difficulty": "medium",
+      "note": [
+        "For this goal you can do it with enchanted mushroom armor you need Tier 9 of this goal to reach it. This is 160 Dark Oak and 1000 Spruce"
+      ]
+    },
+    "Diversity": {
+      "difficulty": "easy",
+      "note": [
+        "Self-explanatory "
+      ]
+    },
+    "Sponge Collector": {
+      "difficulty": "medium",
+      "note": [
+        "You can get sponge from fishing minions which you need fish for another goal. You can also daily buy the builder sponge(wet sponge) and use a furnace to get the amount but this way is very expensive"
+      ]
+    },
+    "Titanic Reforger": {
+      "difficulty": "easy",
+      "note": [
+        "This reforge is from the blacksmith"
+      ]
+    },
+    "Collecting Data": {
+      "difficulty": "medium",
+      "note": [
+        "Killing mobs for Combat level 15 (dungeons) and just killing mobs when possible "
+      ]
+    },
+    "Strongman": {
+      "difficulty": "easy",
+      "note": [
+        "You can get this with a God Splash and Void sword with Ender armor"
+      ]
+    },
+    "Rock Solid": {
+      "difficulty": "medium",
+      "note": [
+        "Common Rock pet is 2.5k Ores Mined you will get close to this from mining daily commissions for Crystal Hollows"
+      ]
+    },
+    "Strange Eggs": {
+      "difficulty": "hard",
+      "note": [
+        "Killing Goblins or Opening Chests in Crystal Hollows in the Goblin Area is how you get eggs for this goal, you will want to throw the eggs in Dwarven"
+      ]
+    },
+    "Carry-On": {
+      "difficulty": "easy",
+      "note": [
+        "You can do this from killing cows/mooshroom cows you don\u0027t logically need a minion for this goal but you can if it is needed (250 collection of leather) "
+      ]
+    },
+    "High Score!": {
+      "difficulty": "medium",
+      "note": [
+        "You can find parties in party finder for this or you can ask for help in the discord or get carried"
+      ]
+    },
+    "Eagle-Eyed": {
+      "difficulty": "easy",
+      "note": [
+        "This is from doing Jax\u0027s quest in the hub, you will need a bow for this. "
+      ]
+    },
+    "Potato Collector": {
+      "difficulty": "hard",
+      "note": [
+        "You will need garden for this, you can hub swap to get potatoes for your garden. You can also do the early garden visitors to get cooper to buy the hoe that is in the shop, this will help with getting more potatoes "
+      ]
+    }
+  }
+}
