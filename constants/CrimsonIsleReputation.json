@@ -80,6 +80,10 @@
       "item": "MAGMAG",
       "location": []
     },
+    "Sulphur": {
+      "item": "SULPHUR_ORE",
+      "location": []
+    },
     "Spectre Dust": {
       "item": "SPECTRE_DUST",
       "location": []
