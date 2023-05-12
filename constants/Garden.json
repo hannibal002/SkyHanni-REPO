@@ -518,5 +518,17 @@
     "BIOFUEL": 3000,
     "VOLTA": 10000,
     "OIL_BARREL": 10000
-  }
+  },
+  "max_crops_per_hour": {
+    "CACTUS": "2229120",
+    "CARROT": "3771360",
+    "COCOA_BEANS": "3359880",
+    "MELON": "5662908",
+    "MUSHROOM": "1134000",
+    "NETHER_WART": "3142800",
+    "POTATO": "3771360",
+    "PUMPKIN": "1132598",
+    "SUGAR_CANE": "2514240",
+    "WHEAT": "1257120"
+   }
 }
