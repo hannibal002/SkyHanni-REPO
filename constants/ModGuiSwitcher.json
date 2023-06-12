@@ -1,24 +1,57 @@
 {
   "mods": {
-    "SkyHanni": {
+    "Apec": {
       "description": [
-        "SkyHanni",
-        "Famous for garden stuff"
+        "GUI Mod"
       ],
-      "command": "sh",
+      "command": "apec",
       "guiPath": [
-        "at.hannibal2.skyhanni.deps.moulconfig.gui.GuiScreenElementWrapper",
-        "io.github.moulberry.moulconfig.gui.GuiScreenElementWrapper"
+        "Apec.Components.Gui.Menu.SettingsMenu.ApecMenu$ApecMenuGui"
       ]
     },
-    "SkyBlockAddons": {
+    "Chat Triggers": {
       "description": [
-        "a legacy mod with",
-        "many cool features"
+        "Chat Triggers Modules"
       ],
-      "command": "sba",
+      "command": "ct modules",
       "guiPath": [
-        "codes.biscuit.skyblockaddons.gui.SkyblockAddonsGui"
+        "com.chattriggers.ctjs.engine.module.ModulesGui"
+      ]
+    },
+    "Cowlection": {
+      "description": [
+        "Moooo"
+      ],
+      "command": "moo config",
+      "guiPath": [
+        "de.cowtipper.cowlection.config.gui.MooConfigGui"
+      ]
+    },
+    "Dungeon Rooms Mod": {
+      "description": [
+        "A Dungeon Room Mod"
+      ],
+      "command": "room wp",
+      "guiPath": [
+        "io.github.quantizr.dungeonrooms.gui.WaypointsGUI"
+      ]
+    },
+    "Dungeons Guide": {
+      "description": [
+        "A Dungeon Mod"
+      ],
+      "command": "dg",
+      "guiPath": [
+        "kr.syeyoung.dungeonsguide.mod.guiv2.GuiScreenAdapter"
+      ]
+    },
+    "Hytils Reborn": {
+      "description": [
+        "Some Stuff"
+      ],
+      "command": "hytil",
+      "guiPath": [
+        "cc.woverflow.hytils.config.HytilsConfig"
       ]
     },
     "NotEnoughUpdates": {
@@ -32,31 +65,13 @@
         "io.github.moulberry.notenoughupdates.core.config.gui."
       ]
     },
-    "Apec": {
+    "OneConfig": {
       "description": [
-        "GUI Mod"
+        "Multiple Mods in OneConfig"
       ],
-      "command": "apec",
+      "command": "oneconfig",
       "guiPath": [
-        "Apec.Components.Gui.Menu.SettingsMenu.ApecMenu$ApecMenuGui"
-      ]
-    },
-    "Cowlection": {
-      "description": [
-        "Moooo"
-      ],
-      "command": "moo config",
-      "guiPath": [
-        "de.cowtipper.cowlection.config.gui.MooConfigGui"
-      ]
-    },
-    "Skytils": {
-      "description": [
-        "Much stuff!"
-      ],
-      "command": "st",
-      "guiPath": [
-        "gg.skytils.skytilsmod.gui.OptionsGui"
+        "cc.polyfrost.oneconfig.gui.OneConfigGui"
       ]
     },
     "Patcher": {
@@ -68,58 +83,14 @@
         "club.sk1er.patcher.config.PatcherConfig"
       ]
     },
-    "Chat Triggers": {
+    "SkyBlockAddons": {
       "description": [
-        "Chat Triggers Modules"
+        "a legacy mod with",
+        "many cool features"
       ],
-      "command": "ct modules",
+      "command": "sba",
       "guiPath": [
-        "com.chattriggers.ctjs.engine.module.ModulesGui"
-      ]
-    },
-    "OneConfig": {
-      "description": [
-        "Multiple Mods in OneConfig"
-      ],
-      "command": "oneconfig",
-      "guiPath": [
-        "cc.polyfrost.oneconfig.gui.OneConfigGui"
-      ]
-    },
-    "Dungeons Guide": {
-      "description": [
-        "A Dungeon Mod"
-      ],
-      "command": "dg",
-      "guiPath": [
-        "kr.syeyoung.dungeonsguide.mod.guiv2.GuiScreenAdapter"
-      ]
-    },
-    "Dungeon Rooms Mod": {
-      "description": [
-        "A Dungeon Mod"
-      ],
-      "command": "room open",
-      "guiPath": [
-        "bla bli blub"
-      ]
-    },
-    "Hytils Reborn": {
-      "description": [
-        "Some Stuff"
-      ],
-      "command": "hytil",
-      "guiPath": [
-        "cc.woverflow.hytils.config.HytilsConfig"
-      ]
-    },
-    "Skyblock Personalized": {
-      "description": [
-        "Gui Stuff ig"
-      ],
-      "command": "sbp",
-      "guiPath": [
-        "com.cobble.sbp.gui.menu.settings.SettingMenu"
+        "codes.biscuit.skyblockaddons.gui.SkyblockAddonsGui"
       ]
     },
     "SkyGuide": {
@@ -131,13 +102,33 @@
         "dev.dediamondpro.skyguide.config.Config"
       ]
     },
-    "Dungeon Room Mod": {
+    "SkyHanni": {
       "description": [
-        "A Dungeon Room Mod"
+        "SkyHanni",
+        "Famous for garden stuff"
       ],
-      "command": "room wp",
+      "command": "sh",
       "guiPath": [
-        "io.github.quantizr.dungeonrooms.gui.WaypointsGUI"
+        "at.hannibal2.skyhanni.deps.moulconfig.gui.GuiScreenElementWrapper",
+        "io.github.moulberry.moulconfig.gui.GuiScreenElementWrapper"
+      ]
+    },
+    "SkyBlock  Personalized": {
+      "description": [
+        "Gui Stuff ig"
+      ],
+      "command": "sbp",
+      "guiPath": [
+        "com.cobble.sbp.gui.menu.settings.SettingMenu"
+      ]
+    },
+    "Skytils": {
+      "description": [
+        "Much stuff!"
+      ],
+      "command": "st",
+      "guiPath": [
+        "gg.skytils.skytilsmod.gui.OptionsGui"
       ]
     }
   }
