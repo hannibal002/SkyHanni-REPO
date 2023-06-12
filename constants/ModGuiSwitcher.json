@@ -9,6 +9,15 @@
         "Apec.Components.Gui.Menu.SettingsMenu.ApecMenu$ApecMenuGui"
       ]
     },
+    "BazaarNotifier": {
+      "description": [
+        "Helps with Bazaar"
+      ],
+      "command": "bazaarnotifier",
+      "guiPath": [
+        "dev.meyi.bn.gui.SettingsGui"
+      ]
+    },
     "Chat Triggers": {
       "description": [
         "Chat Triggers Modules"
