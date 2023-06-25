@@ -1,186 +1,188 @@
 {
-  "Wyld Woods": [
-    {
-      "name": "Tough Bark",
-      "position": "-15, 91, 94"
-    },
-    {
-      "name": "Next to Enigma",
-      "position": "-27, 71, 90"
-    },
-    {
-      "name": "Woods Flower Pot",
-      "position": "-6, 60, 226"
-    },
-    {
-      "name": "Wither Cage",
-      "position": "-142, 68, 174"
-    },
-    {
-      "name": "Pressurized",
-      "position": "-137, 51, 120"
-    },
-    {
-      "name": "Two Plates",
-      "position": "-129, 72, 77"
-    },
-    {
-      "name": "Fleespook",
-      "position": "-27, 89, 136"
-    },
-    {
-      "name": "Up in the Sky",
-      "position": "-137, 133, 156"
-    },
-    {
-      "name": "Between Branches",
-      "position": "-108, 117, 123"
-    }
-  ],
-  "Black Lagoon": [
-    {
-      "name": "Tel Kar",
-      "position": "-115, 69, 61"
-    },
-    {
-      "name": "Lagoon Cave",
-      "position": "43, 91, 56"
-    },
-    {
-      "name": "Mushroom Guy",
-      "position": "-168, 81, 12"
-    },
-    {
-      "name": "Roy",
-      "position": "-204, 75, 49"
-    },
-    {
-      "name": "Spinning Runes",
-      "position": "-93, 73, 36"
-    }
-  ],
-  "West Village": [
-    {
-      "name": "Hot Dog Contest",
-      "position": "-102, 72, -103"
-    },
-    {
-      "name": "Fake Neuroscience",
-      "position": "-34, 71, -88"
-    },
-    {
-      "name": "2 Players Soul",
-      "position": "-106, 78, -101"
-    },
-    {
-      "name": "Cake House #1",
-      "position": "-95, 76, -82"
-    },
-    {
-      "name": "Cake House #2",
-      "position": "-94, 70, -84"
-    },
-    {
-      "name": "Dolphin Parkour",
-      "position": "-38, 44, 130"
-    },
-    {
-      "name": "Between Roofs",
-      "position": "-88, 79, -102"
-    }
-  ],
-  "Dreadfarm": [
-    {
-      "name": "Farm Flower Pot",
-      "position": "-76, 90, -149"
-    },
-    {
-      "name": "Beanstalk",
-      "position": "-106, 249, -149"
-    },
-    {
-      "name": "Buttons",
-      "position": "-74, 65, -119"
-    },
-    {
-      "name": "Farm Balloons",
-      "position": "-77, 72, -176"
-    }
-  ],
-  "Village Plaza": [
-    {
-      "name": "Rabbit in the Hat!",
-      "position": "-21, 72, -18"
-    },
-    {
-      "name": "Back to Basics",
-      "position": "-88, 20, 0"
-    },
-    {
-      "name": "Buy BZT Today",
-      "position": "27, 71, -77"
-    },
-    {
-      "name": "Plaza Fleespook",
-      "position": "42, 88, -91"
-    },
-    {
-      "name": "Plaza Balloons",
-      "position": "47, 68, -59"
-    },
-    {
-      "name": "Lonely Ävaeìkx",
-      "position": "-34, 66, -25"
-    },
-    {
-      "name": "Between Cooler Roofs",
-      "position": "-23, 84, -92"
-    },
-    {
-      "name": "Horsing Around",
-      "position": "40, 70, 27"
-    }
-  ],
-  "Living Cave": [
-    {
-      "name": "Behind a Living Wall",
-      "position": "38, 63, -198"
-    },
-    {
-      "name": "Flowery Message",
-      "position": "3, 68, -204"
-    }
-  ],
-  "Colosseum": [
-    {
-      "name": "Full Circle",
-      "position": "-161, 98, -72"
-    }
-  ],
-  "Stillgore Château": [
-    {
-      "name": "Standing there",
-      "position": "255, 74, 160"
-    },
-    {
-      "name": "Between Towers",
-      "position": "262, 118, 94"
-    },
-    {
-      "name": "Castle Fleespook",
-      "position": "182, 92, 124"
-    },
-    {
-      "name": "Castle Flower Pot",
-      "position": "266, 60, 145"
-    },
-    {
-      "name": "Castle Balloons",
-      "position": "232, 94, 168"
-    },
-    {
-      "name": "Fairylosopher",
-      "position": "256, 130, 75"
-    }
-  ]
+  "areas": {
+    "Wyld Woods": [
+      {
+        "name": "Tough Bark",
+        "position": "-15:91:94"
+      },
+      {
+        "name": "Next to Enigma",
+        "position": "-27:71:90"
+      },
+      {
+        "name": "Woods Flower Pot",
+        "position": "-6:60:226"
+      },
+      {
+        "name": "Wither Cage",
+        "position": "-142:68:174"
+      },
+      {
+        "name": "Pressurized",
+        "position": "-137:51:120"
+      },
+      {
+        "name": "Two Plates",
+        "position": "-129:72:77"
+      },
+      {
+        "name": "Fleespook",
+        "position": "-27:89:136"
+      },
+      {
+        "name": "Up in the Sky",
+        "position": "-137:133:156"
+      },
+      {
+        "name": "Between Branches",
+        "position": "-108:117:123"
+      }
+    ],
+    "Black Lagoon": [
+      {
+        "name": "Tel Kar",
+        "position": "-115:69:61"
+      },
+      {
+        "name": "Lagoon Cave",
+        "position": "43:91:56"
+      },
+      {
+        "name": "Mushroom Guy",
+        "position": "-168:81:12"
+      },
+      {
+        "name": "Roy",
+        "position": "-204:75:49"
+      },
+      {
+        "name": "Spinning Runes",
+        "position": "-93:73:36"
+      }
+    ],
+    "West Village": [
+      {
+        "name": "Hot Dog Contest",
+        "position": "-102:72:-103"
+      },
+      {
+        "name": "Fake Neuroscience",
+        "position": "-34:71:-88"
+      },
+      {
+        "name": "2 Players Soul",
+        "position": "-106:78:-101"
+      },
+      {
+        "name": "Cake House #1",
+        "position": "-95:76:-82"
+      },
+      {
+        "name": "Cake House #2",
+        "position": "-94:70:-84"
+      },
+      {
+        "name": "Dolphin Parkour",
+        "position": "-38:44:130"
+      },
+      {
+        "name": "Between Roofs",
+        "position": "-88:79:-102"
+      }
+    ],
+    "Dreadfarm": [
+      {
+        "name": "Farm Flower Pot",
+        "position": "-76:90:-149"
+      },
+      {
+        "name": "Beanstalk",
+        "position": "-106:249:-149"
+      },
+      {
+        "name": "Buttons",
+        "position": "-74:65:-119"
+      },
+      {
+        "name": "Farm Balloons",
+        "position": "-77:72:-176"
+      }
+    ],
+    "Village Plaza": [
+      {
+        "name": "Rabbit in the Hat!",
+        "position": "-21:72:-18"
+      },
+      {
+        "name": "Back to Basics",
+        "position": "-88:20:0"
+      },
+      {
+        "name": "Buy BZT Today",
+        "position": "27:71:-77"
+      },
+      {
+        "name": "Plaza Fleespook",
+        "position": "42:88:-91"
+      },
+      {
+        "name": "Plaza Balloons",
+        "position": "47:68:-59"
+      },
+      {
+        "name": "Lonely Ävaeìkx",
+        "position": "-34:66:-25"
+      },
+      {
+        "name": "Between Cooler Roofs",
+        "position": "-23:84:-92"
+      },
+      {
+        "name": "Horsing Around",
+        "position": "40:70:27"
+      }
+    ],
+    "Living Cave": [
+      {
+        "name": "Behind a Living Wall",
+        "position": "38:63:-198"
+      },
+      {
+        "name": "Flowery Message",
+        "position": "3:68:-204"
+      }
+    ],
+    "Colosseum": [
+      {
+        "name": "Full Circle",
+        "position": "-161:98:-72"
+      }
+    ],
+    "Stillgore Château": [
+      {
+        "name": "Standing there",
+        "position": "255:74:160"
+      },
+      {
+        "name": "Between Towers",
+        "position": "262:118:94"
+      },
+      {
+        "name": "Castle Fleespook",
+        "position": "182:92:124"
+      },
+      {
+        "name": "Castle Flower Pot",
+        "position": "266:60:145"
+      },
+      {
+        "name": "Castle Balloons",
+        "position": "232:94:168"
+      },
+      {
+        "name": "Fairylosopher",
+        "position": "256:130:75"
+      }
+    ]
+  }
 }
