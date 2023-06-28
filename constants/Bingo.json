@@ -1,143 +1,163 @@
 {
   "bingo_tips": {
-    "Collecting Data": {
+    "Ferocious": {
       "difficulty": "medium",
       "note": [
-        "Self-explanatory"
+        "You can get this from pets like Lion and Tiger (Zoo)",
+        "and the Reforge Dirty for 3 you will need to reforge",
+        "something with uncommon or higher rarity "
       ]
     },
-    "Powder Collector": {
-      "difficulty": "hard",
+    "Sand Collector": {
+      "difficulty": "medium",
       "note": [
-        "Doing daily Fetchur and Puzzler when it is",
-        "2x Powder and opening crystal hollows chests"
+        "Gold Shovel in the Desert for Minions you can",
+        "also easily do this manually but will be very long"
       ]
     },
-    "Fairy Finder": {
+    "Collecting Data": {
       "difficulty": "easy",
       "note": [
         "Self-explanatory "
       ]
     },
-    "Obsidian Treasure": {
-      "difficulty": "medium",
-      "note": [
-        "Unlocked by getting a Score of 270+ (S)",
-        "250k cost to open (Floor 1) "
-      ]
-    },
-    "Now We\u0027re In Business": {
-      "difficulty": "medium",
-      "note": [
-        "Unlocked from Diamond Collection 6 (5k)",
-        "(8 Vines from Builder and 1 Enchanted Diamond)",
-        "Easily be done in Crystal Hollows or Dwarven Mines"
-      ]
-    },
-    "Compact Crafting": {
+    "Pet Hoarder": {
       "difficulty": "hard",
       "note": [
-        "Unlocked from Cobblestone Collection 10 (70k)",
-        "(448 Enchanted Cobblestone and 1 Enchanted Redstone Block)",
-        "You can easily do this on your island with",
-        "a cobblestone generator or use the bridge in Dwarven Mines"
+        "§aDrops ",
+        "Endermen, Bingo, Rock, Grandma, Armadillo,",
+        "Squid, Guadian, Bee, Dolphin and Tarantula",
+        "§aCollections",
+        "Griffin, Jerry, Silverfish, Pig, Rabbit, Reindeer and Zoo Pets"
       ]
     },
-    "Petsitter": {
+    "Bedazzled": {
+      "difficulty": "medium",
+      "note": [
+        "§aCollection Talismans",
+        "Farming Talisman, Vaccine Talisman, Speed Talisman,",
+        "Potion Affinity Talisman(Upgrade to Potion Affinity Ring),",
+        "Talisman of Coins, Magnetic Talisman, Talisman of Power,",
+        "Wood Affinity Talisman, Gravity Talisman. ",
+        "§aShop Talismans",
+        "Zombie Talisman, Skeleton Talisman, Village Affinity Talisman,",
+        "Mine Affinity Talisman, Intimidation Talisman, Scavenger Talisman. ",
+        "§aMiscellaneous",
+        "Wolf Paw, Ring of Love, Campfire Trial Badge, Cat Talisman, Pig\u0027s Foot ",
+        "§aExtra:",
+        "Candy Talisman, Red Claw Talisman, Frozen Chicken,",
+        "King Talisman, Melody\u0027s Hair, Emerald Ring, Feather Talisman."
+      ]
+    },
+    "Amber Crystal": {
+      "difficulty": "medium",
+      "note": [
+        "To get this Crystal in need to talk to The King",
+        "with 3 Goblin Eggs and then go",
+        "to The Queens Area to get the Crystal"
+      ]
+    },
+    "Trouble is Brewing...": {
+      "difficulty": "medium",
+      "note": [
+        "This can be done with getting",
+        "Enchanted Sugar from the Desert",
+        "or Enchanted Gold from",
+        "Crystal Hollows (Mines of Divan) You need to",
+        "add Glowstone to make it a higher tier (Builder)"
+      ]
+    },
+    "Warrior": {
+      "difficulty": "medium",
+      "note": [
+        "This is the level you need for the",
+        "dungeon goal, killing Ice Walkers in",
+        "Dwarven until Combat 12 then killing",
+        "Endermen until Combat 15 (Get a",
+        "Void Sword from the NPC in The End (200k)"
+      ]
+    },
+    "Hard Worker": {
+      "difficulty": "hard",
+      "note": [
+        "Wheat Minion is easiest for this goal",
+        "(Total of 84,304 Wheat) "
+      ]
+    },
+    "Commission Master": {
       "difficulty": "easy",
       "note": [
-        "Self-explanatory (Pets to do for this can be common",
-        "Rock pet or common Bee pet)"
+        "This will be automatically done",
+        "with doing the Amber Crystal Goal "
       ]
     },
-    "Collector": {
+    "Spider Eye Collector": {
       "difficulty": "hard",
       "note": [
-        "Cobblestone (10k), Diamond (10k), Redstone (10k),",
-        "Sand (5k), Leather (10k), Oak Wood (5k) "
+        "Killing Spiders in Spiders Den",
+        "and making Minions"
       ]
     },
-    "Leather Collector": {
-      "difficulty": "hard",
-      "note": [
-        "Kill cows in the barn or Kill",
-        "mooshroom cows in the desert to get minions"
-      ]
-    },
-    "Sea Summoner": {
+    "I Am Speed": {
       "difficulty": "easy",
       "note": [
-        "Visit (Normal Profile) §elQONIQ_ §7or §evalkeea",
-        "with a fishing rod in your hand",
-        "with the enchantment Angler on it"
+        "Getting a God-splash should give you",
+        "this, if not use a Rogue Sword from Jamie in the hub"
       ]
     },
-    "Topaz Crystal": {
-      "difficulty": "medium",
+    "Skill Average": {
+      "difficulty": "easy",
       "note": [
-        "Kill Bal in Crystal Hollows and",
-        "click the crystal when it spawns"
+        "Self-explanatory "
       ]
     },
     "Exterminator": {
-      "difficulty": "medium",
-      "note": [
-        "Self-explanatory "
-      ]
-    },
-    "A Lost Cause": {
-      "difficulty": "medium",
-      "note": [
-        "Any floor of dungeons, you need the",
-        "finalhit to get this goal you don\u0027t",
-        "need to be the only one to kill it"
-      ]
-    },
-    "Lumberjack": {
-      "difficulty": "medium",
-      "note": [
-        "Grinding Oak Wood in Hubs (Golden Axe) "
-      ]
-    },
-    "Experienced": {
-      "difficulty": "medium",
-      "note": [
-        "Can get this from getting the collection,",
-        "fishing, or end nodes "
-      ]
-    },
-    "Minion Machine": {
-      "difficulty": "easy",
-      "note": [
-        "Self-explanatory"
-      ]
-    },
-    "Critical": {
-      "difficulty": "easy",
-      "note": [
-        "Can get this from getting God Splash"
-      ]
-    },
-    "Ender Menace": {
-      "difficulty": "medium",
-      "note": [
-        "Void Sword with full end armor and reforge",
-        "on sharp/spicy and talismans on warrior "
-      ]
-    },
-    "Strange Effects": {
-      "difficulty": "easy",
+      "difficulty": "hard",
       "note": [
         "Self-explanatory "
       ]
     },
     "Meiser": {
+      "difficulty": "easy",
+      "note": [
+        "Selling End Armor "
+      ]
+    },
+    "High Score!": {
+      "difficulty": "medium",
+      "note": [
+        "Self-explanatory "
+      ]
+    },
+    "Dirty Reforger": {
+      "difficulty": "easy",
+      "note": [
+        "Reforge is from a Dirty Bottle which",
+        "is from Smithmonger in the Hub for",
+        "100k. Reforge is for Swords or",
+        "Fishing Rods. Most likely thing to",
+        "reforge is Raiders Axe or Void Sword"
+      ]
+    },
+    "Gold Ingot Collector": {
+      "difficulty": "medium",
+      "note": [
+        "Mining Gold in Mines of Divan in",
+        "Crystal Hollows and in Royal Mines",
+        "in Dwarven Mines. This can also",
+        "be done with minions"
+      ]
+    },
+    "Fairy Finder": {
+      "difficulty": "easy",
+      "note": [
+        "Self-explanatory"
+      ]
+    },
+    "Minion Machine": {
       "difficulty": "hard",
       "note": [
-        "Rare Rock pet selling to George will give you 500k,",
-        "killing endermen and sell the armor,",
-        "end nodes are very useful for money as well",
-        "and jerry boxes as jerry will be mayor this bingo!"
+        "List for all minions will be posted below"
       ]
     }
   }
