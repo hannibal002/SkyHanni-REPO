@@ -253,6 +253,22 @@
         114,
         -1033.5
       ]
+    },
+    "Fiery": {
+      "item": "KUUDRA_FIERY_TIER_KEY",
+      "location": [
+        -371.5,
+        114,
+        -1033.5
+      ]
+    },
+    "Infernal": {
+      "item": "KUUDRA_INFERNAL_TIER_KEY",
+      "location": [
+        -371.5,
+        114,
+        -1033.5
+      ]
     }
   }
 }
