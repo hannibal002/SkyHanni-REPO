@@ -1,25 +1,27 @@
 {
-  "items": [
+  "items_exact": [
     "MONSTER_EGG-120",
-    "BOW-",
-    "LEATHER_BOOTS-",
-    "MAP-",
     "STEP-11",
     "STEP-15",
     "STEP-8",
-    "LOG_2-",
-    "DIRT-",
     "WOOD-9",
     "WOOD-8",
+    "SAPLING-6",
+    "SAND-5",
+    "WOOD_STEP-13",
+    "RED_ROSE-15"
+  ],
+  "items_contains": [
+    "BOW-",
+    "LEATHER_BOOTS-",
+    "MAP-",
+    "LOG_2-",
+    "DIRT-",
     "FISHING_ROD-",
     "SKULL_ITEM-",
     "OBSIDIAN-",
     "HAY_BLOCK-",
-    "SAPLING-6",
-    "SAND-5",
-    "WOOD_STEP-13",
     "YELLOW_FLOWER-",
-    "SPONGE-",
-    "RED_ROSE-15"
+    "SPONGE-"
   ]
 }
