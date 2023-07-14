@@ -1,5 +1,5 @@
 {
-  "items_exact": [
+  "exact": [
     "MONSTER_EGG-120",
     "STEP-11",
     "STEP-15",
@@ -11,7 +11,7 @@
     "WOOD_STEP-13",
     "RED_ROSE-15"
   ],
-  "items_contains": [
+  "contains": [
     "BOW-",
     "LEATHER_BOOTS-",
     "MAP-",
