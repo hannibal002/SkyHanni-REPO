@@ -1,0 +1,33 @@
+{
+  "exact": [
+    "MONSTER_EGG-120",
+    "STEP-8",
+    "STEP-11",
+    "STEP-13",
+    "STEP-15",
+    "WOOD-8",
+    "WOOD-9",
+    "SAPLING-6",
+    "SAND-5",
+    "SAND-9",
+    "STONE-9",
+    "WOOD_STEP-7",
+    "WOOD_STEP-11",
+    "WOOD_STEP-13",
+    "RED_ROSE-9",
+    "RED_ROSE-15"
+  ],
+  "contains": [
+    "BOW-",
+    "LEATHER_BOOTS-",
+    "MAP-",
+    "LOG_2-",
+    "DIRT-",
+    "FISHING_ROD-",
+    "SKULL_ITEM-",
+    "OBSIDIAN-",
+    "HAY_BLOCK-",
+    "YELLOW_FLOWER-",
+    "SPONGE-"
+  ]
+}
