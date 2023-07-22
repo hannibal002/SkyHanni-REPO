@@ -100,6 +100,11 @@
         "chat_message": "§aThe spirit of a long lost Phantom Fisher has come to haunt you.",
         "fishing_experience": 5630,
         "rare": true
+      },
+      "Grim Reaper": {
+        "chat_message": "§aThis can't be! The manifestation of death himself!",
+        "fishing_experience": 0,
+        "rare": true
       }
     }
   },
