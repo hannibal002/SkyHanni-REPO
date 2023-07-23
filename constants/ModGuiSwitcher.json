@@ -139,6 +139,15 @@
       "guiPath": [
         "gg.skytils.skytilsmod.gui.OptionsGui"
       ]
+    },
+    "SkyBlock Hud": {
+      "description": [
+        "Much stuff!"
+      ],
+      "command": "sbh",
+      "guiPath": [
+        "com.thatgravyboat.skyblockhud.core.GuiScreenElementWrapper"
+      ]
     }
   }
 }
