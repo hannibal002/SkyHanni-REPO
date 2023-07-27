@@ -1,0 +1,200 @@
+{
+  "sulphurskitter": {
+    "displayName": "§fSulphur Skitter",
+    "description": "§7Caught when standing within §a8 blocks§7 of a Sulphur Ore.",
+    "rate": 30,
+    "fillet": {
+      "bronze": 40,
+      "silver": 60,
+      "gold": 80,
+      "diamond": 120
+    }
+  },
+  "obfuscatedfish1": {
+    "displayName": "§fObfuscated 1",
+    "description": "Caught with Corrupted Bait.",
+    "rate": 25,
+    "fillet": {
+      "bronze": 16,
+      "silver": 24,
+      "gold": 32,
+      "diamond": 48
+    }
+  },
+  "steaminghotflounder": {
+    "displayName": "§fSteaming-Hot Flounder",
+    "description": "Caught when the bobber is within §a2 blocks§7 of a geyser in the §6Blazing Volcano§7.",
+    "rate": 20,
+    "fillet": {
+      "bronze": 20,
+      "silver": 28,
+      "gold": 40,
+      "diamond": 60
+    }
+  },
+  "obfuscatedfish2": {
+    "displayName": "§aObfuscated 2",
+    "description": "Caught with §fObfuscated 1 §7bait.",
+    "rate": 20,
+    "fillet": {
+      "bronze": 40,
+      "silver": 60,
+      "gold": 80,
+      "diamond": 120
+    }
+  },
+  "gusher": {
+    "displayName": "§fGusher",
+    "description": "§7Caught everywhere between §a7-16 minutes §7after a §6Blazing Volcano§7 eruption.",
+    "rate": 15,
+    "fillet": {
+      "bronze": 32,
+      "silver": 48,
+      "gold": 64,
+      "diamond": 96
+    }
+  },
+  "blobfish": {
+    "displayName": "§fBlobfish",
+    "description": "§7Caught everywhere.",
+    "rate": 15,
+    "fillet": {
+      "bronze": 4,
+      "silver": 8,
+      "gold": 12,
+      "diamond": 16
+    }
+  },
+  "slugfish": {
+    "displayName": "§aSlugfish",
+    "description": "§7CCaught when the bobber has been activefor at least §a30 seconds.§7",
+    "rate": 10,
+    "fillet": {
+      "bronze": 40,
+      "silver": 60,
+      "gold": 80,
+      "diamond": 120
+    }
+  },
+  "obfuscatedfish3": {
+    "displayName": "§9Obfuscated 3",
+    "description": "§7Caught with §aObfuscated 2 §7bait.",
+    "rate": 10,
+    "fillet": {
+      "bronze": 400,
+      "silver": 700,
+      "gold": 1000,
+      "diamond": 1300
+    }
+  },
+  "flyfish": {
+    "displayName": "§aFlyfish",
+    "description": "§7Caught from §a8 blocks§7 or higher above lava in the §6Blazing Volcano§7.",
+    "rate": 8,
+    "fillet": {
+      "bronze": 32,
+      "silver": 48,
+      "gold": 64,
+      "diamond": 96
+    }
+  },
+  "lavahorse": {
+    "displayName": "§9Lavahorse",
+    "description": "§7Caught everywhere.",
+    "rate": 4,
+    "fillet": {
+      "bronze": 12,
+      "silver": 16,
+      "gold": 20,
+      "diamond": 24
+    }
+  },
+  "manaray": {
+    "displayName": "§9Mana Ray",
+    "description": "§7Caught when you have at least §b1200 ✎ Mana§7.",
+    "rate": 4,
+    "fillet": {
+      "bronze": 40,
+      "silver": 60,
+      "gold": 80,
+      "diamond": 120
+    }
+  },
+  "volcanicstonefish": {
+    "displayName": "§9Volcanic Stonefish",
+    "description": "§7Caught in the §6Blazing Volcano§7.",
+    "rate": 3,
+    "fillet": {
+      "bronze": 20,
+      "silver": 28,
+      "gold": 40,
+      "diamond": 60
+    }
+  },
+  "vanille": {
+    "displayName": "§9Vanille",
+    "description": "§7CCaught when using a §aStarter Lava Rod §7with no Enchantments.",
+    "rate": 3,
+    "fillet": {
+      "bronze": 80,
+      "silver": 120,
+      "gold": 160,
+      "diamond": 240
+    }
+  },
+  "skeletonfish": {
+    "displayName": "§5Skeleton Fish",
+    "description": "§7Caught in the §6Burning Desert§7 or §2Dragontail.",
+    "rate": 2,
+    "fillet": {
+      "bronze": 32,
+      "silver": 48,
+      "gold": 64,
+      "diamond": 96
+    }
+  },
+  "moldfin": {
+    "displayName": "§5Moldfin",
+    "description": "§7Caught in the §dMystic Marsh§7.",
+    "rate": 2,
+    "fillet": {
+      "bronze": 32,
+      "silver": 48,
+      "gold": 64,
+      "diamond": 96
+    }
+  },
+  "soulfish": {
+    "displayName": "§5Soul Fish",
+    "description": "§7Caught in the §5Stronghold§7.",
+    "rate": 2,
+    "fillet": {
+      "bronze": 32,
+      "silver": 48,
+      "gold": 64,
+      "diamond": 96
+    }
+  },
+  "karatefish": {
+    "displayName": "§5Karate Fish",
+    "description": "§7Caught in the §eDojo§7.",
+    "rate": 1,
+    "fillet": {
+      "bronze": 40,
+      "silver": 60,
+      "gold": 80,
+      "diamond": 120
+    }
+  },
+  "goldenfish": {
+    "displayName": "§6Golden Fish",
+    "description": "§7Has a chance to spawn after §a15 minutes §7of fishing, increasing linearly §7until reaching 100% at §a20 minutes§7.",
+    "rate": null,
+    "fillet": {
+      "bronze": 400,
+      "silver": 700,
+      "gold": 1000,
+      "diamond": 1300
+    }
+  }
+}
