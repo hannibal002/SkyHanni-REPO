@@ -7,7 +7,7 @@
         "you will need to bring an animal to him,",
         "this is when you make an animal follow you",
         "and lead the animal all the way to his house.",
-        "This can also be done with using someone else's animal "
+        "This can also be done with using someone else's animal"
       ]
     },
     "I See Stars": {
@@ -19,7 +19,10 @@
     "Advanced Farming": {
       "difficulty": "Easy",
       "note": [
-        "Self-explanatory"
+        "Self-explanatory",
+        "Remember the Advanced Gardening Hoe",
+        "and the Binghoe, unlocked after",
+        "completing 8 goals"
       ]
     },
     "Gardener": {
@@ -48,7 +51,9 @@
       "note": [
         "These are dropped from Watchers (0.5%)",
         "you will need 9 of them to unlock",
-        "this in your Accessory Bag"
+        "this in your Accessory Bag.",
+        "Keep in mind that it requires combat 20",
+        "to be used!"
       ]
     },
     "A King\u0027s Request": {
@@ -69,7 +74,9 @@
     "Brewing 101": {
       "difficulty": "Hard",
       "note": [
-        "List will be posted below this post"
+        "See List on Bingo Splash Community Discord",
+        "and don't forget xp boost potions from",
+        "gifts, obtainable on the Winter Island,"
       ]
     },
     "Minion Machine": {
@@ -83,7 +90,8 @@
       "note": [
         "Unlocked from Carrot Collection 6 (10k),",
         "crafted with 320 Enchanted Carrots and",
-        "1 Simple Carrot Candy (576 Carrots)"
+        "1 Simple Carrot Candy (576 Carrots)",
+        "Try to utilize the garden for it."
       ]
     },
     "Quick Kill": {
@@ -132,7 +140,7 @@
       "note": [
         "This is unlocked from Hardstone",
         "Collection 5 (150k),",
-        "to make the armoryou will need",
+        "to make the armor you will need",
         "(480 Enchanted Hard Stone (276,480 Hard Stone)",
         "Hard Stone is located in Crystal Hollows"
       ]
@@ -157,7 +165,9 @@
     "Making Connections": {
       "difficulty": "Easy",
       "note": [
-        "See List on Bingo Splash Community Discord"
+        "See List on Bingo Splash Community Discord",
+        "Remember that you will be able to get Alixer",
+        "as contact once you've completed 4 goals!"
       ]
     }
   }
