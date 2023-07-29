@@ -1,163 +1,163 @@
 {
   "bingo_tips": {
-    "Ferocious": {
-      "difficulty": "medium",
+    "Animal Whisperer": {
+      "difficulty": "Hard",
       "note": [
-        "You can get this from pets like Lion and Tiger (Zoo)",
-        "and the Reforge Dirty for 3 you will need to reforge",
-        "something with uncommon or higher rarity "
+        "Jake is located in Mushroom Desert (261, 184, -565)",
+        "you will need to bring an animal to him,",
+        "this is when you make an animal follow you",
+        "and lead the animal all the way to his house.",
+        "This can also be done with using someone else's animal "
       ]
     },
-    "Sand Collector": {
-      "difficulty": "medium",
-      "note": [
-        "Gold Shovel in the Desert for Minions you can",
-        "also easily do this manually but will be very long"
-      ]
-    },
-    "Collecting Data": {
-      "difficulty": "easy",
-      "note": [
-        "Self-explanatory "
-      ]
-    },
-    "Pet Hoarder": {
-      "difficulty": "hard",
-      "note": [
-        "§aDrops ",
-        "Endermen, Bingo, Rock, Grandma, Armadillo,",
-        "Squid, Guadian, Bee, Dolphin and Tarantula",
-        "§aCollections",
-        "Griffin, Jerry, Silverfish, Pig, Rabbit, Reindeer and Zoo Pets"
-      ]
-    },
-    "Bedazzled": {
-      "difficulty": "medium",
-      "note": [
-        "§aCollection Talismans",
-        "Farming Talisman, Vaccine Talisman, Speed Talisman,",
-        "Potion Affinity Talisman(Upgrade to Potion Affinity Ring),",
-        "Talisman of Coins, Magnetic Talisman, Talisman of Power,",
-        "Wood Affinity Talisman, Gravity Talisman. ",
-        "§aShop Talismans",
-        "Zombie Talisman, Skeleton Talisman, Village Affinity Talisman,",
-        "Mine Affinity Talisman, Intimidation Talisman, Scavenger Talisman. ",
-        "§aMiscellaneous",
-        "Wolf Paw, Ring of Love, Campfire Trial Badge, Cat Talisman, Pig\u0027s Foot ",
-        "§aExtra:",
-        "Candy Talisman, Red Claw Talisman, Frozen Chicken,",
-        "King Talisman, Melody\u0027s Hair, Emerald Ring, Feather Talisman."
-      ]
-    },
-    "Amber Crystal": {
-      "difficulty": "medium",
-      "note": [
-        "To get this Crystal in need to talk to The King",
-        "with 3 Goblin Eggs and then go",
-        "to The Queens Area to get the Crystal"
-      ]
-    },
-    "Trouble is Brewing...": {
-      "difficulty": "medium",
-      "note": [
-        "This can be done with getting",
-        "Enchanted Sugar from the Desert",
-        "or Enchanted Gold from",
-        "Crystal Hollows (Mines of Divan) You need to",
-        "add Glowstone to make it a higher tier (Builder)"
-      ]
-    },
-    "Warrior": {
-      "difficulty": "medium",
-      "note": [
-        "This is the level you need for the",
-        "dungeon goal, killing Ice Walkers in",
-        "Dwarven until Combat 12 then killing",
-        "Endermen until Combat 15 (Get a",
-        "Void Sword from the NPC in The End (200k)"
-      ]
-    },
-    "Hard Worker": {
-      "difficulty": "hard",
-      "note": [
-        "Wheat Minion is easiest for this goal",
-        "(Total of 84,304 Wheat) "
-      ]
-    },
-    "Commission Master": {
-      "difficulty": "easy",
-      "note": [
-        "This will be automatically done",
-        "with doing the Amber Crystal Goal "
-      ]
-    },
-    "Spider Eye Collector": {
-      "difficulty": "hard",
-      "note": [
-        "Killing Spiders in Spiders Den",
-        "and making Minions"
-      ]
-    },
-    "I Am Speed": {
-      "difficulty": "easy",
-      "note": [
-        "Getting a God-splash should give you",
-        "this, if not use a Rogue Sword from Jamie in the hub"
-      ]
-    },
-    "Skill Average": {
-      "difficulty": "easy",
-      "note": [
-        "Self-explanatory "
-      ]
-    },
-    "Exterminator": {
-      "difficulty": "hard",
-      "note": [
-        "Self-explanatory "
-      ]
-    },
-    "Meiser": {
-      "difficulty": "easy",
-      "note": [
-        "Selling End Armor "
-      ]
-    },
-    "High Score!": {
-      "difficulty": "medium",
-      "note": [
-        "Self-explanatory "
-      ]
-    },
-    "Dirty Reforger": {
-      "difficulty": "easy",
-      "note": [
-        "Reforge is from a Dirty Bottle which",
-        "is from Smithmonger in the Hub for",
-        "100k. Reforge is for Swords or",
-        "Fishing Rods. Most likely thing to",
-        "reforge is Raiders Axe or Void Sword"
-      ]
-    },
-    "Gold Ingot Collector": {
-      "difficulty": "medium",
-      "note": [
-        "Mining Gold in Mines of Divan in",
-        "Crystal Hollows and in Royal Mines",
-        "in Dwarven Mines. This can also",
-        "be done with minions"
-      ]
-    },
-    "Fairy Finder": {
-      "difficulty": "easy",
+    "I See Stars": {
+      "difficulty": "Medium",
       "note": [
         "Self-explanatory"
       ]
     },
-    "Minion Machine": {
-      "difficulty": "hard",
+    "Advanced Farming": {
+      "difficulty": "Easy",
       "note": [
-        "List for all minions will be posted below"
+        "Self-explanatory"
+      ]
+    },
+    "Gardener": {
+      "difficulty": "Medium",
+      "note": [
+        "Self-explanatory"
+      ]
+    },
+    "One Ring To Ghoul Them All": {
+      "difficulty": "Medium",
+      "note": [
+        "Zombie Ring is an upgrade to the Zombie",
+        "Talisman from the Hub NPC, it is unlocked",
+        "from Zombie Slayer Level 2 and crafted",
+        "with 64 Revenant Flesh and the Zombie Talisman"
+      ]
+    },
+    "Assorted Equipment": {
+      "difficulty": "Medium",
+      "note": [
+        "See List on Bingo Splash Community Discord"
+      ]
+    },
+    "I See Potential": {
+      "difficulty": "Hard",
+      "note": [
+        "These are dropped from Watchers (0.5%)",
+        "you will need 9 of them to unlock",
+        "this in your Accessory Bag"
+      ]
+    },
+    "A King\u0027s Request": {
+      "difficulty": "Medium",
+      "note": [
+        "Self-explanatory"
+      ]
+    },
+    "Sunken Treasure": {
+      "difficulty": "Medium",
+      "note": [
+        "Fishing in Pond with rain, lava fishing",
+        "and fishing on jerry\u0027s island will",
+        "give you around 10k this will increase",
+        "by 0.2% each fishing level"
+      ]
+    },
+    "Brewing 101": {
+      "difficulty": "Hard",
+      "note": [
+        "List will be posted below this post"
+      ]
+    },
+    "Minion Machine": {
+      "difficulty": "Hard",
+      "note": [
+        "See List on Bingo Splash Community Discord"
+      ]
+    },
+    "A Healthy Snack": {
+      "difficulty": "Easy",
+      "note": [
+        "Unlocked from Carrot Collection 6 (10k),",
+        "crafted with 320 Enchanted Carrots and",
+        "1 Simple Carrot Candy (576 Carrots)"
+      ]
+    },
+    "Quick Kill": {
+      "difficulty": "Easy",
+      "note": [
+        "Self-explanatory"
+      ]
+    },
+    "Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "Self-explanatory"
+      ]
+    },
+    "I Am Speed": {
+      "difficulty": "Hard",
+      "note": [
+        "The reforge \"fast\" from the blacksmith will",
+        "give you more attack speed from",
+        "reforging your Void Sword.",
+        "The Silky (Luxurious Spool, dropped from Arachne)",
+        "Accessory Bag Power gives 5%,",
+        "visiting IQONIQ_ and Valkeea will",
+        "give you 5% from their beacons,",
+        "reforge ender armor to light from",
+        "the blacksmith (96%).",
+        "The only other thing is dropping a",
+        "Zombie Soldier Cutlass from a Zombie",
+        "Soldier which are located in Catacombs",
+        "3 or higher (2%) (100%)"
+      ]
+    },
+    "Colored Combination": {
+      "difficulty": "Medium",
+      "note": [
+        "Two ways to do this goal, easiest one is",
+        "forge, you will need Heart of the Mountain",
+        "4 to make this (4 Fine Jade, Amber, Amethyst",
+        "and Sapphire + 320 Sludge Juice",
+        "(Killing Sludge which are located",
+        "in Jungle) the other way is doing nucleus runs "
+      ]
+    },
+    "Hot Stuff": {
+      "difficulty": "Medium",
+      "note": [
+        "This is unlocked from Hardstone",
+        "Collection 5 (150k),",
+        "to make the armoryou will need",
+        "(480 Enchanted Hard Stone (276,480 Hard Stone)",
+        "Hard Stone is located in Crystal Hollows"
+      ]
+    },
+    "Infinite Power!": {
+      "difficulty": "Medium",
+      "note": [
+        "Fuel that is permanent is Solar Panel",
+        "(50k Nether Quartz Collection), ",
+        "Enchanted Lava Bucket (25k Coal Collection)"
+      ]
+    },
+    "Snip Snip": {
+      "difficulty": "Easy",
+      "note": [
+        "You get this from Moby in Mushroom Desert",
+        "for 5 Full Chum Buckets (Killing Sea Creatures)",
+        "and 15 Glowing Mushrooms (Breaking that",
+        "mushrooms that are glowing around the house Moby is in)"
+      ]
+    },
+    "Making Connections": {
+      "difficulty": "Easy",
+      "note": [
+        "See List on Bingo Splash Community Discord"
       ]
     }
   }
