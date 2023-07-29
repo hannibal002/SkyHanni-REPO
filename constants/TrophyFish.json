@@ -68,7 +68,7 @@
     },
     "slugfish": {
       "displayName": "§aSlugfish",
-      "description": "§7CCaught when the bobber has been activefor at least §a30 seconds.§7",
+      "description": "§7Caught when the bobber has been active for at least §a20 seconds.§7",
       "rate": 10,
       "fillet": {
         "bronze": 40,
