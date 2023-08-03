@@ -165,6 +165,23 @@
       }
     }
   },
+  "WATER_CRYSTAL_HOLLOWS": {
+    "chat_color": "§b",
+    "sea_creatures": {
+      "Zombie Miner": {
+        "chat_message": "§aA Zombie Miner surfaces!",
+        "fishing_experience": 0
+      },
+      "Water Worm": {
+        "chat_message": "§aA Water Worm surfaces",
+        "fishing_experience": 0
+      },
+      "Poisoned Water Worm": {
+        "chat_message": "§aA Poisoned Water Worm surfaces",
+        "fishing_experience": 0
+      }
+    }
+  },
   "LAVA_CRIMSON_ISLE": {
     "chat_color": "§c",
     "sea_creatures": {
