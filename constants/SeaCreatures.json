@@ -158,6 +158,10 @@
       "Lava Pigman": {
         "chat_message": "§aA Lava Pigman arose from the depths!",
         "fishing_experience": 0
+      },
+      "Flaming Worm": {
+        "chat_message": "§aA Flaming Worm surfaces from the depths!",
+        "fishing_experience": 0
       }
     }
   },
