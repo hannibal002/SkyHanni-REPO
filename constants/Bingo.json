@@ -13,7 +13,8 @@
     "I See Stars": {
       "difficulty": "Medium",
       "note": [
-        "Self-explanatory"
+        "Do arachne until you get 72 spider essence",
+        "then put stars on a spider helmet"
       ]
     },
     "Advanced Farming": {
@@ -109,19 +110,12 @@
     "I Am Speed": {
       "difficulty": "Hard",
       "note": [
-        "The reforge \"fast\" from the blacksmith will",
-        "give you more attack speed from",
-        "reforging your Void Sword.",
-        "The Silky (Luxurious Spool, dropped from Arachne)",
-        "Accessory Bag Power gives 5%,",
-        "visiting IQONIQ_ and Valkeea will",
-        "give you 5% from their beacons,",
-        "reforge ender armor to light from",
-        "the blacksmith (96%).",
-        "The only other thing is dropping a",
-        "Zombie Soldier Cutlass from a Zombie",
-        "Soldier which are located in Catacombs",
-        "3 or higher (2%) (100%)"
+        "Reforge your void sword to fast from the blacksmith",
+        "and dropping End Stone Geode (1.42%) dropped by",
+        "End Nodes this will give you 80% if you are",
+        "standing in the end island",
+        "The only other thing is dropping a Zombie Soldier Cutlass",
+        "which are located in Catacombs 3 or higher (2%) (100% ats)"
       ]
     },
     "Colored Combination": {
