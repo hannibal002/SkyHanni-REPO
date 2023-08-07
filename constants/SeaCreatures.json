@@ -42,6 +42,10 @@
         "chat_message": "§aThe Rider of the Deep has emerged.",
         "fishing_experience": 759
       },
+      "Agarimoo": {
+        "chat_message": "§aYour Chumcap Bucket trembles, it's an Agarimoo.",
+        "fishing_experience": 161
+      },
       "Deep Sea Protector": {
         "chat_message": "§aYou have awoken the Deep Sea Protector, prepare for a battle!",
         "fishing_experience": 2721,
