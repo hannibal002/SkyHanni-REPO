@@ -6,6 +6,10 @@
         "chat_message": "§aA Squid appeared.",
         "fishing_experience": 82
       },
+      "Night Squid": {
+        "chat_message": "§aPitch darkness reveals a Night Squid.",
+        "fishing_experience": 0
+      },
       "Sea Walker": {
         "chat_message": "§aYou caught a Sea Walker.",
         "fishing_experience": 137
