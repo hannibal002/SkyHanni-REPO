@@ -1,14 +1,38 @@
 {
+  "PARK": {
+    "chat_color": "§b",
+    "sea_creatures": {
+      "Night Squid": {
+        "chat_message": "§aPitch darkness reveals a Night Squid.",
+        "fishing_experience": 0
+      }
+    }
+  },
+  "CHUMCAP": {
+    "chat_color": "§b",
+    "sea_creatures": {
+      "Agarimoo": {
+        "chat_message": "§aYour Chumcap Bucket trembles, it's an Agarimoo.",
+        "fishing_experience": 161
+      }
+    }
+  },
+  "CARROT": {
+    "chat_color": "§b",
+    "sea_creatures": {
+      "Carrot King": {
+        "chat_message": "§aIs this even a fish? It's the Carrot King!",
+        "fishing_experience": 1819,
+        "rare": true
+      }
+    }
+  },
   "WATER": {
     "chat_color": "§b",
     "sea_creatures": {
       "Squid": {
         "chat_message": "§aA Squid appeared.",
         "fishing_experience": 82
-      },
-      "Night Squid": {
-        "chat_message": "§aPitch darkness reveals a Night Squid.",
-        "fishing_experience": 0
       },
       "Sea Walker": {
         "chat_message": "§aYou caught a Sea Walker.",
@@ -46,10 +70,6 @@
         "chat_message": "§aThe Rider of the Deep has emerged.",
         "fishing_experience": 759
       },
-      "Agarimoo": {
-        "chat_message": "§aYour Chumcap Bucket trembles, it's an Agarimoo.",
-        "fishing_experience": 161
-      },
       "Deep Sea Protector": {
         "chat_message": "§aYou have awoken the Deep Sea Protector, prepare for a battle!",
         "fishing_experience": 2721,
@@ -74,16 +94,26 @@
         "chat_message": "§aFrozen Steve fell into the pond long ago, never to §r§aresurface...until§r§a now!",
         "fishing_experience": 203
       },
-      "Snowman": {
+      "Frosty": {
         "chat_message": "§aIt's a snowman! He looks harmless",
         "fishing_experience": 403
       },
-      "The Grinch": {
+      "Grinch": {
         "chat_message": "§aThe Grinch stole Jerry's §r§aGifts...get§r§a them back!",
         "fishing_experience": 816
       },
+      "Nutcracker": {
+        "chat_message": "§aYou found a forgotten Nutcracker laying beneath the ice.",
+        "fishing_experience": 0,
+        "rare": true
+      },
       "Yeti": {
         "chat_message": "§aWhat is this creature!?",
+        "fishing_experience": 0,
+        "rare": true
+      },
+      "Reindrake": {
+        "chat_message": "§aA Reindrake forms from the depths.",
         "fishing_experience": 0,
         "rare": true
       }
@@ -138,7 +168,7 @@
       }
     }
   },
-  "BARN": {
+  "OASIS": {
     "chat_color": "§a",
     "sea_creatures": {
       "Oasis Sheep": {
@@ -148,15 +178,10 @@
       "Oasis Rabbit": {
         "chat_message": "§aAn Oasis Rabbit appears from the water.",
         "fishing_experience": 0
-      },
-      "Carrot King": {
-        "chat_message": "§aIs this even a fish? It's the Carrot King!",
-        "fishing_experience": 1819,
-        "rare": true
       }
     }
   },
-  "LAVA_CRYSTAL_HOLLOWS": {
+  "MAGMA_FIELDS": {
     "chat_color": "§c",
     "sea_creatures": {
       "Lava Blaze": {
@@ -166,9 +191,27 @@
       "Lava Pigman": {
         "chat_message": "§aA Lava Pigman arose from the depths!",
         "fishing_experience": 992
-      },
+      }
+    }
+  },
+  "LAVA_PRECURSOR": {
+    "chat_color": "§c",
+    "sea_creatures": {
       "Flaming Worm": {
         "chat_message": "§aA Flaming Worm surfaces from the depths!",
+        "fishing_experience": 0
+      }
+    }
+  },
+  "GOBLIN_BURROWS": {
+    "chat_color": "§b",
+    "sea_creatures": {
+      "Water Worm": {
+        "chat_message": "§aA Water Worm surfaces",
+        "fishing_experience": 0
+      },
+      "Poisoned Water Worm": {
+        "chat_message": "§aA Poisoned Water Worm surfaces",
         "fishing_experience": 0
       }
     }
@@ -178,14 +221,6 @@
     "sea_creatures": {
       "Zombie Miner": {
         "chat_message": "§aA Zombie Miner surfaces!",
-        "fishing_experience": 0
-      },
-      "Water Worm": {
-        "chat_message": "§aA Water Worm surfaces",
-        "fishing_experience": 0
-      },
-      "Poisoned Water Worm": {
-        "chat_message": "§aA Poisoned Water Worm surfaces",
         "fishing_experience": 0
       }
     }
@@ -226,6 +261,20 @@
         "chat_message": "§aTaurus and his steed emerge.",
         "fishing_experience": 9559,
         "rare": true
+      },
+      "Lord Jawbus": {
+        "chat_message": "§c§lYou have angered a legendary creature... Lord Jawbus has arrived!",
+        "fishing_experience": 0,
+        "rare": true
+      }
+    }
+  },
+  "PLHLEGBLAST": {
+    "chat_color": "§c",
+    "sea_creatures": {
+      "Phlhlegblast": {
+        "chat_message": "§aWOAH! A Plhlegblast appeared.",
+        "fishing_experience": 0
       }
     }
   }
