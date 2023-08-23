@@ -1,0 +1,64 @@
+{
+  "level_price": {
+    "1": {
+      "gold_medals": 1,
+      "jacob_tickets": 0
+    },
+    "2": {
+      "gold_medals": 1,
+      "jacob_tickets": 50
+    },
+    "3": {
+      "gold_medals": 1,
+      "jacob_tickets": 50
+    },
+    "4": {
+      "gold_medals": 2,
+      "jacob_tickets": 100
+    },
+    "5": {
+      "gold_medals": 2,
+      "jacob_tickets": 100
+    },
+    "6": {
+      "gold_medals": 3,
+      "jacob_tickets": 150
+    },
+    "7": {
+      "gold_medals": 3,
+      "jacob_tickets": 150
+    },
+    "8": {
+      "gold_medals": 4,
+      "jacob_tickets": 200
+    },
+    "9": {
+      "gold_medals": 4,
+      "jacob_tickets": 200
+    },
+    "10": {
+      "gold_medals": 5,
+      "jacob_tickets": 250
+    },
+    "11": {
+      "gold_medals": 6,
+      "jacob_tickets": 300
+    },
+    "12": {
+      "gold_medals": 7,
+      "jacob_tickets": 350
+    },
+    "13": {
+      "gold_medals": 8,
+      "jacob_tickets": 400
+    },
+    "14": {
+      "gold_medals": 9,
+      "jacob_tickets": 450
+    },
+    "15": {
+      "gold_medals": 10,
+      "jacob_tickets": 1000
+    }
+  }
+}
