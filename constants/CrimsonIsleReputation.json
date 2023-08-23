@@ -127,6 +127,10 @@
     "Gazing Pearl": {
       "item": "GAZING_PEARL",
       "location": []
+    },
+    "Red Sand": {
+      "item": "SAND-1",
+      "location": []
     }
   },
   "DOJO": {
