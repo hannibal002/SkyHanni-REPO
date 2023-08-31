@@ -1,172 +1,183 @@
 {
   "bingo_tips": {
-    "Warrior": {
-      "difficulty": "Easy",
-      "note": [
-        "This will simply happen while doing other goals."
-      ]
-    },
-    "Oak Wood Collector": {
+    "Animal Whisperer": {
       "difficulty": "Hard",
       "note": [
-        "Place Oak Minions and upgrade them to t4/5.",
-        "Make sure to give them at least medium storages.",
-        "Remember to use fuel in your minions,",
-        "Enchanted Charcoal is the cheapest option here."
+        "Jake is located in Mushroom Desert (261, 184, -565)",
+        "you will need to bring an animal to him,",
+        "this is when you make an animal follow you",
+        "and lead the animal all the way to his house.",
+        "This can also be done with using someone else's animal"
       ]
     },
-    "Reinforced Reforger": {
+    "I See Stars": {
+      "difficulty": "Medium",
+      "note": [
+        "Do arachne until you get 72 spider essence",
+        "then put stars on a spider helmet.",
+        "Or use the Gold Forger garden visitor",
+        "as he will give you gold essence to star",
+        "a super cleaver (buy from Ophelia in the Dungeon Hub) ",
+        "for 9 gold essence total."
+      ]
+    },
+    "Advanced Farming": {
       "difficulty": "Easy",
       "note": [
-        "Mine Diamonds in the Deep Caverns until you get a Rare Diamond to apply.",
-        "Safe spot to do this is at:",
-        "Mobs don't spawn there."
+        "Self-explanatory",
+        "Remember the Advanced Gardening Hoe",
+        "and the Binghoe, unlocked after",
+        "completing 8 goals."
+      ]
+    },
+    "Gardener": {
+      "difficulty": "Medium",
+      "note": [
+        "Self-explanatory.",
+        "Easy crop milestones come from:",
+        "Wheat, Carrot, Potato, Sugar Cane and Melon"
+      ]
+    },
+    "One Ring To Ghoul Them All": {
+      "difficulty": "Medium",
+      "note": [
+        "Zombie Ring is an upgrade to the Zombie",
+        "Talisman from the Hub NPC, it is unlocked",
+        "from Zombie Slayer Level 2 and crafted",
+        "with 64 Revenant Flesh and the Zombie Talisman"
+      ]
+    },
+    "Assorted Equipment": {
+      "difficulty": "Medium",
+      "note": [
+        "See List on Bingo Splash Community Discord.",
+        "Remember the Snow, Lotus and Ender equipment set."
+      ]
+    },
+    "I See Potential": {
+      "difficulty": "Hard",
+      "note": [
+        "These are dropped from Watchers (0.5%)",
+        "you will need 9 of them to unlock",
+        "this in your Accessory Bag.",
+        "Keep in mind that it requires combat 20",
+        "to be used!"
+      ]
+    },
+    "A King\u0027s Request": {
+      "difficulty": "Medium",
+      "note": [
+        "Self-explanatory.",
+        "The Bingonimbus (unlocked after completing 4 goals)",
+        "will make this faster."
+      ]
+    },
+    "Sunken Treasure": {
+      "difficulty": "Medium",
+      "note": [
+        "Fishing in Pond with rain, lava fishing",
+        "and fishing on jerry\u0027s island will",
+        "give you around 10k this will increase",
+        "by 0.2% each fishing level"
+      ]
+    },
+    "Brewing 101": {
+      "difficulty": "Hard",
+      "note": [
+        "See List on Bingo Splash Community Discord",
+        "and don't forget xp boost potions from",
+        "gifts, obtainable on the Winter Island.",
+        "Going for the 2 potions from the spooky festival",
+        "can also be an option."
       ]
     },
     "Minion Machine": {
-      "difficulty": "Medium",
-      "note": [
-        "Doing this will unlock your 11th Minion Slot."
-      ]
-    },
-    "Redstone Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "Place 10 t5 Redstone minions with compactors and fuel.",
-        "Enchanted Charcoal is the cheapest option here.",
-        "Manually mine in the Crystal Hollows or Dwarven Mines,",
-        "if you want this to go faster."
-      ]
-    },
-    "Fashionable": {
-      "difficulty": "Easy",
-      "note": [
-        "Leather, Iron, Gold, Diamond (self-explanatory),",
-        "Chainmail (buy from the Iron Forger in the Gold Mine for 275 coins),",
-        "Leaflet (craft with 24 Oak Leaves after getting Oak Wood Collection III),",
-        "Farm Suit (craft with 24 Hay Bales after unlocking Wheat Collection III),",
-        "Mushroom (craft with 24 Red Mushrooms after unlocking Mushroom Collection III),",
-        "Cactus (craft with 24 Cactus after unlocking Cactus Collection II),",
-        "The following sets can be bought from Rosetta in the Hub (-12 68 -141):",
-        "Squire (costs 24.000 coins),",
-        "Rosetta’s (costs 4.530 coins),",
-        "Celeste (costs 24.000 coins)"
-      ]
-    },
-    "Rock Solid": {
-      "difficulty": "Easy",
-      "note": [
-        "Mine 7.500 ores to get the uncommon Rock Pet.",
-        "Cobblestone counts for this.",
-        "Maybe combine this with Redstone Collector, in case you want to manual that one."
-      ]
-    },
-    "Strongman": {
-      "difficulty": "Medium",
-      "note": [
-        "Hold a Raider Axe, get a splash, equip a Bingo Pet",
-        "and get the cake buff by eating the cakes on owocato's or prtl's island.",
-        "In case you don't get it early on, do this after you gained some wood collection."
-      ]
-    },
-    "Exterminator": {
       "difficulty": "Hard",
       "note": [
-        "Use a dreadlord sword, a Dragon Shortbow, Artisanal Shortbow or any melee weapon",
-        "and kill spiders, goblins, hub zombies or even mobs spawned by minions."
+        "See List on Bingo Splash Community Discord.",
+        "Completing this will bring you to 13 minion slots."
       ]
     },
-    "Slayer": {
+    "A Healthy Snack": {
       "difficulty": "Easy",
       "note": [
-        "You will have to do one t1",
-        "and 8 t2 slayer bosses.",
-        "Zombie Slayer is probably the easiest."
+        "Unlocked from Carrot Collection 6 (10k),",
+        "crafted with 320 Enchanted Carrots and",
+        "1 Simple Carrot Candy (576 Carrots)",
+        "Try to utilize the garden for it."
       ]
     },
-    "Clownfish Collector": {
+    "Quick Kill": {
       "difficulty": "Easy",
       "note": [
-        "Place 5 t4 Fishing Minions (Remember to buy your daily 640 raw fish.)",
-        "Remember to give them medium storages and fuel.",
-        "Enchanted Charcoal is the cheapest option here."
+        "Self-explanatory"
       ]
     },
-    "Strange Effects": {
-      "difficulty": "Easy",
-      "note": [
-        "Look for mobs with a purple name."
-      ]
-    },
-    "Powder Collector": {
+    "Collector": {
       "difficulty": "Medium",
       "note": [
-        "Open chests in the Crystal Hollows,",
-        "mine Mithril there or in the Dwarven Mines.",
-        "Remember to claim your daily powder from the Puzzler (181 196 135)",
-        "while a 2x powder event is active.",
-        "He refreshes his offer 24h after the last claim."
+        "Self-explanatory"
       ]
     },
-    "An Axe To Grind": {
+    "I Am Speed": {
+      "difficulty": "Hard",
+      "note": [
+        "Reforge your void sword to fast from the blacksmith",
+        "and dropping End Stone Geode (1.42%) dropped by",
+        "End Nodes, this will give you 80% if you are",
+        "standing in the end island",
+        "The only other thing is dropping a Zombie Soldier Cutlass",
+        "which are located in Catacombs 3 or higher (2%) (100% ats)"
+      ]
+    },
+    "Colored Combination": {
       "difficulty": "Medium",
       "note": [
-        "Buy a Raider Axe with coins (130.000) from Relics in the Spiders Den",
-        "or from skill level ups from the Viking Shop (-360 91 76) in the Park.",
-        "Enchant it using the xp from mining or xp bottles from ender nodes.",
-        "Remember: t1 enchants as Smite I count for this."
+        "Two ways to do this goal, easiest one is",
+        "forge, you will need Heart of the Mountain",
+        "4 to make this (4 Fine Jade, Amber, Amethyst",
+        "and Sapphire + 320 Sludge Juice",
+        "(Killing Sludge which are located",
+        "in Jungle) the other way is doing nucleus runs "
       ]
     },
-    "Taking Flight": {
-      "difficulty": "Easy",
-      "note": [
-        "Kill Mooshroom Cows in the Mushroom Desert or harvest mushrooms there",
-        "until you unlock the recipe (Mushroom Collection IV).",
-        "Don't fall in the void after you drank it ;-)"
-      ]
-    },
-    "Sea Summoner": {
-      "difficulty": "Easy",
-      "note": [
-        "Claim your cake buff (visit owocato or prtl for it)",
-        "hold an angler 4 or 5 rod and visit someone with a Sea Creature Chance beacon",
-        "(visit IQONIQ_ , valkeea or HunterHiHunter)."
-      ]
-    },
-    "Commission Master": {
-      "difficulty": "Easy",
-      "note": [
-        "Remember to take advantage of the daily HOTM xp bonus",
-        "for the first 4 commissions per day.",
-        "Do those daily commissions for one more day to unlock the Crystal Hollows."
-      ]
-    },
-    "Amethyst Crystal": {
+    "Hot Stuff": {
       "difficulty": "Medium",
       "note": [
-        "Find a Key Guardian and loot share it for a Jungle Key in the Crystal Hollows.",
-        "You can share and find Key Guardian coordinates",
-        "in the 'Bingo Brewers' and 'Bingo Splash Community' Discord.",
-        "Then use wishing compasses to find the Jungle Temple in the Crystal Hollows",
-        "and complete the parkour inside."
+        "This is unlocked from Hardstone",
+        "Collection 5 (150k),",
+        "to make the armor you will need",
+        "(480 Enchanted Hard Stone (276,480 Hard Stone)",
+        "Hard Stone is located in Crystal Hollows.",
+        "Place down t2 Hard Stone minions (costs 768 Hard Stone per)",
+        "with medium storages to help getting the resources."
       ]
     },
-    "Fairy Finder": {
-      "difficulty": "Easy",
-      "note": [
-        "Collect those you run along while doing other goals. If you have trouble",
-        "check TimeDeo's fairy soul tutorial on YouTube."
-      ]
-    },
-    "Pet Hoarder": {
+    "Infinite Power!": {
       "difficulty": "Medium",
       "note": [
-        "Options are:",
-        "Bingo, Rock, Grandma Wolf, Bee, Enderman, Armadillo, Griffin,",
-        "Reindeer, Tarantula and pets sold by Oringo (all those don't require eggs).",
-        "Craftable pets are:",
-        "Jerry, Rabbit, Pig, Endermite, Silverfish.",
-        "Remember: Different rarities of pets do not count for this!"
+        "Fuel that is permanent is Solar Panel",
+        "(50k Nether Quartz Collection), ",
+        "Enchanted Lava Bucket (25k Coal Collection).",
+        "The Lava Bucket is easily obtainable by mining",
+        "the ore veins in the Crystal Hollows."
+      ]
+    },
+    "Snip Snip": {
+      "difficulty": "Easy",
+      "note": [
+        "You get this from Moby in Mushroom Desert",
+        "for 5 Full Chum Buckets (Killing Sea Creatures)",
+        "and 15 Glowing Mushrooms (Breaking that",
+        "mushrooms that are glowing around the house Moby is in)"
+      ]
+    },
+    "Making Connections": {
+      "difficulty": "Easy",
+      "note": [
+        "See List on Bingo Splash Community Discord",
+        "Remember that you will be able to get Alixer",
+        "as contact once you've completed 4 goals!"
       ]
     }
   }
