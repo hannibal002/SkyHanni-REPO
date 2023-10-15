@@ -5,7 +5,8 @@
       "contains": [
         "lowballing",
         "lowbal",
-        "lowwbal"
+        "lowwbal",
+        "lo-ballin"
       ],
       "containsWord": [
         "low balling",
@@ -30,15 +31,16 @@
       "description": "Player wants to sell stuff",
       "contains": [
         "check my ah",
+        "my ah",
+        "on ah",
+        "selling",
         "on my ah"
       ],
       "containsWord": [
         "sell",
-        "selling",
         "sellng",
         "sellomg",
         "seling",
-        "my ah",
         "my ahh",
         "low price",
         "bid on",
@@ -48,8 +50,7 @@
         "check out my auction",
         "on /ah",
         "buy quickly for",
-        "buy my auction",
-        "on ah"
+        "buy my auction"
       ]
     },
     {
