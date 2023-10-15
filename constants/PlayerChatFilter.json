@@ -22,7 +22,8 @@
       "description": "Player wants to buy stuff",
       "containsWord": [
         "buying",
-        "i buy"
+        "i buy",
+        "someone sells"
       ]
     },
     {
@@ -54,7 +55,8 @@
     {
       "description": "Player wants to advertise a minion shop",
       "containsWord": [
-        "minion shop"
+        "minion shop",
+        "minion store"
       ]
     },
     {
