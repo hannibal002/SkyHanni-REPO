@@ -243,12 +243,12 @@
     "chat_color": "§b",
     "sea_creatures": {
       "Water Worm": {
-        "chat_message": "§aA Water Worm surfaces",
+        "chat_message": "§aA Water Worm surfaces!",
         "fishing_experience": 0,
         "rarity": "RARE"
       },
       "Poisoned Water Worm": {
-        "chat_message": "§aA Poisoned Water Worm surfaces",
+        "chat_message": "§aA Poisoned Water Worm surfaces!",
         "fishing_experience": 0,
         "rarity": "RARE"
       }
