@@ -323,7 +323,8 @@
       "Phlhlegblast": {
         "chat_message": "§aWOAH! A Plhlegblast appeared.",
         "fishing_experience": 0,
-        "rarity": "RARE"
+        "rarity": "RARE",
+        "rare": true
       }
     }
   }
