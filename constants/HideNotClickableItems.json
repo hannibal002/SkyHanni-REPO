@@ -80,6 +80,41 @@
       "New Year Cake Bag"
     ]
   },
+  "hide_player_trade": {
+    "equals": [
+      "Builder's Wand"
+    ],
+    "startsWith": [],
+    "endsWith": [
+      "Cat Talisman",
+      "Cheetah Talisman",
+      "Day Crystal",
+      "Lynx Talisman",
+      "Night Crystal"
+    ],
+    "contains": [
+      "Personal Deletor "
+    ]
+  },
+  "not_auctionable": {
+    "equals": [
+      "Basket of Seeds",
+      "InfiniDirt™ Wand",
+      "Nether Wart Pouch",
+      "Prismapump"
+    ],
+    "startsWith": [],
+    "endsWith": [
+      "Day Crystal",
+      "Cat Talisman",
+      "Cheetah Talisman",
+      "Lynx Talisman",
+      "Night Crystal"
+    ],
+    "contains": [
+      "Personal Deletor "
+    ]
+  },
   "salvage": {
     "armor": [
       "Bouncy",
@@ -116,46 +151,5 @@
       "Zombie Knight Sword",
       "Zombie Soldier Cutlass"
     ]
-  },
-  "hide_player_trade": {
-    "equals": [
-      "Builder's Wand"
-    ],
-    "startsWith": [],
-    "endsWith": [
-      "Cat Talisman",
-      "Cheetah Talisman",
-      "Day Crystal",
-      "Lynx Talisman",
-      "Night Crystal"
-    ],
-    "contains": [
-      "Personal Deletor "
-    ]
-  },
-  "not_auctionable": {
-    "equals": [
-      "Basket of Seeds",
-      "InfiniDirt™ Wand",
-      "Nether Wart Pouch",
-      "Prismapump"
-    ],
-    "startsWith": [],
-    "endsWith": [
-      "Day Crystal",
-      "Cat Talisman",
-      "Cheetah Talisman",
-      "Lynx Talisman",
-      "Night Crystal"
-    ],
-    "contains": [
-      "Personal Deletor "
-    ]
-  },
-  "demo": {
-    "equals": [],
-    "startsWith": [],
-    "endsWith": [],
-    "contains": []
   }
 }

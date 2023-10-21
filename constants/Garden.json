@@ -811,18 +811,18 @@
       ]
     },
     "Royal Resident": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Royal Resident 2": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Royal Resident 3": {
       "rarity": "rare",
       "need_items": [
         "Wheat"
       ]
-    },
-    "Royal Resident": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Royal Resident": {
-      "rarity": "uncommon",
-      "need_items": []
     },
     "Rusty": {
       "rarity": "rare",
