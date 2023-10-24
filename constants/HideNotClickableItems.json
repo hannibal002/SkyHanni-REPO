@@ -88,9 +88,7 @@
     "endsWith": [
       "Cat Talisman",
       "Cheetah Talisman",
-      "Day Crystal",
-      "Lynx Talisman",
-      "Night Crystal"
+      "Lynx Talisman"
     ],
     "contains": [
       "Personal Deletor "
@@ -105,11 +103,9 @@
     ],
     "startsWith": [],
     "endsWith": [
-      "Day Crystal",
       "Cat Talisman",
       "Cheetah Talisman",
-      "Lynx Talisman",
-      "Night Crystal"
+      "Lynx Talisman"
     ],
     "contains": [
       "Personal Deletor "
