@@ -1,0 +1,900 @@
+{
+	"minion_xp": {
+		"ABSOLUTE_ENDER_PEARL": {
+			"type": "Combat",
+			"value": 7680.0
+		},
+		"LOG-2": {
+			"type": "Foraging",
+			"value": 0.1
+		},
+		"RED_ROSE-2": {
+			"type": "Foraging",
+			"value": 0.1
+		},
+		"RED_ROSE-3": {
+			"type": "Foraging",
+			"value": 0.1
+		},
+		"LOG-2": {
+			"type": "Foraging",
+			"value": 0.1
+		},
+		"BLAZE_ROD": {
+			"type": "Combat",
+			"value": 0.3
+		},
+		"COAL_BLOCK": {
+			"type": "Mining",
+			"value": 2.7
+		},
+		"DIAMOND_BLOCK": {
+			"type": "Mining",
+			"value": 3.6
+		},
+		"EMERALD_BLOCK": {
+			"type": "Mining",
+			"value": 3.6
+		},
+		"GOLD_BLOCK": {
+			"type": "Mining",
+			"value": 3.6
+		},
+		"IRON_BLOCK": {
+			"type": "Mining",
+			"value": 2.7
+		},
+		"QUARTZ_BLOCK": {
+			"type": "Mining",
+			"value": 1.2
+		},
+		"BLOCK_OF_REDSTONE": {
+			"type": "Mining",
+			"value": 1.8
+		},
+		"RED_ROSE-1": {
+			"type": "Foraging",
+			"value": 0.1
+		},
+		"BONE": {
+			"type": "Combat",
+			"value": 0.2
+		},
+		"BOX_OF_SEEDS": {
+			"type": "Farming",
+			"value": 2560.0
+		},
+		"BROWN_MUSHROOM": {
+			"type": "Farming",
+			"value": 0.3
+		},
+		"BROWN_MUSHROOM_BLOCK": {
+			"type": "Farming",
+			"value": 0.3
+		},
+		"CACTUS": {
+			"type": "Farming",
+			"value": 0.2
+		},
+		"CACTUS_GREEN": {
+			"type": "Farming",
+			"value": 0.2
+		},
+		"CARROT": {
+			"type": "Farming",
+			"value": 0.1
+		},
+		"CHILI_PEPPER": {
+			"type": "Combat",
+			"value": 0.0
+		},
+		"CLAY": {
+			"type": "Fishing",
+			"value": 0.1
+		},
+		"CLAY_BLOCK": {
+			"type": "Fishing",
+			"value": 0.4
+		},
+		"RAW_FISH-2": {
+			"type": "Fishing",
+			"value": 2.0
+		},
+		"COAL": {
+			"type": "Mining",
+			"value": 0.3
+		},
+		"COBBLESTONE": {
+			"type": "Mining",
+			"value": 0.1
+		},
+		"COCOA_BEANS": {
+			"type": "Farming",
+			"value": 0.2
+		},
+		"CONCENTRATED_STONE": {
+			"type": "Mining",
+			"value": 33177.6
+		},
+		"CRUDE_GABAGOOL": {
+			"type": "Combat",
+			"value": 0.0
+		},
+		"YELLOW_FLOWER": {
+			"type": "Foraging",
+			"value": 0.1
+		},
+		"LOG_2-1": {
+			"type": "Foraging",
+			"value": 0.1
+		},
+		"DIAMOND": {
+			"type": "Mining",
+			"value": 0.4
+		},
+		"EGG": {
+			"type": "Farming",
+			"value": 0.2
+		},
+		"EMERALD": {
+			"type": "Mining",
+			"value": 0.4
+		},
+		"ENCHANTED_ACACIA_LOG": {
+			"type": "Foraging",
+			"value": 16.0
+		},
+		"ENCHANTED_BAKED_POTATO": {
+			"type": "Farming",
+			"value": 2560.0
+		},
+		"ENCHANTED_BIRCH_LOG": {
+			"type": "Foraging",
+			"value": 16.0
+		},
+		"ENCHANTED_BLAZE_POWDER": {
+			"type": "Combat",
+			"value": 48.0
+		},
+		"ENCHANTED_BLAZE_ROD": {
+			"type": "Combat",
+			"value": 7680.0
+		},
+		"ENCHANTED_BLOCK_OF_COAL": {
+			"type": "Mining",
+			"value": 7680.0
+		},
+		"ENCHANTED_BONE": {
+			"type": "Combat",
+			"value": 32.0
+		},
+		"ENCHANTED_BREAD": {
+			"type": "Farming",
+			"value": 1.8
+		},
+		"ENCHANTED_BROWN_MUSHROOM": {
+			"type": "Farming",
+			"value": 48.0
+		},
+		"ENCHANTED_CACTUS": {
+			"type": "Farming",
+			"value": 12800.0
+		},
+		"ENCHANTED_CACTUS_GREEN": {
+			"type": "Farming",
+			"value": 80.0
+		},
+		"ENCHANTED_CARROT": {
+			"type": "Farming",
+			"value": 16.0
+		},
+		"ENCHANTED_CLAY": {
+			"type": "Fishing",
+			"value": 16.0
+		},
+		"ENCHANTED_CLOWNFISH": {
+			"type": "Fishing",
+			"value": 320.0
+		},
+		"ENCHANTED_COAL": {
+			"type": "Mining",
+			"value": 48.0
+		},
+		"ENCHANTED_COBBLESTONE": {
+			"type": "Mining",
+			"value": 16.0
+		},
+		"ENCHANTED_COCOA_BEAN": {
+			"type": "Farming",
+			"value": 32.0
+		},
+		"ENCHANTED_COOKED_FISH": {
+			"type": "Fishing",
+			"value": 12800.0
+		},
+		"ENCHANTED_COOKED_MUTTON": {
+			"type": "Farming",
+			"value": 2560.0
+		},
+		"ENCHANTED_COOKED_SALMON": {
+			"type": "Fishing",
+			"value": 17920.0
+		},
+		"ENCHANTED_DANDELION": {
+			"type": "Foraging",
+			"value": 16.0
+		},
+		"ENCHANTED_DARK_OAK_LOG": {
+			"type": "Foraging",
+			"value": 16.0
+		},
+		"ENCHANTED_DIAMOND": {
+			"type": "Mining",
+			"value": 64.0
+		},
+		"ENCHANTED_DIAMOND_BLOCK": {
+			"type": "Mining",
+			"value": 10240.0
+		},
+		"ENCHANTED_EGG": {
+			"type": "Farming",
+			"value": 115.0
+		},
+		"ENCHANTED_EMERALD": {
+			"type": "Mining",
+			"value": 64.0
+		},
+		"ENCHANTED_EMERALD_BLOCK": {
+			"type": "Mining",
+			"value": 10240.0
+		},
+		"ENCHANTED_ENDER_PEARL": {
+			"type": "Combat",
+			"value": 48.0
+		},
+		"ENCHANTED_END_STONE": {
+			"type": "Mining",
+			"value": 64.0
+		},
+		"ENCHANTED_FEATHER": {
+			"type": "Farming",
+			"value": 32.0
+		},
+		"ENCHANTED_FLINT": {
+			"type": "Mining",
+			"value": 32.0
+		},
+		"ENCHANTED_GHAST_TEAR": {
+			"type": "Combat",
+			"value": 75.0
+		},
+		"ENCHANTED_GLOWSTONE": {
+			"type": "Mining",
+			"value": 6144.0
+		},
+		"ENCHANTED_GLOWSTONE_DUST": {
+			"type": "Mining",
+			"value": 32.0
+		},
+		"ENCHANTED_GOLD": {
+			"type": "Mining",
+			"value": 64.0
+		},
+		"ENCHANTED_GOLD_BLOCK": {
+			"type": "Mining",
+			"value": 10240.0
+		},
+		"ENCHANTED_GRILLED_PORK": {
+			"type": "Farming",
+			"value": 5120.0
+		},
+		"ENCHANTED_GUNPOWDER": {
+			"type": "Combat",
+			"value": 48.0
+		},
+		"ENCHANTED_HARD_STONE": {
+			"type": "Mining",
+			"value": 57.6
+		},
+		"ENCHANTED_HAY_BLOCK": {
+			"type": "Farming",
+			"value": 288.0
+		},
+		"ENCHANTED_ICE": {
+			"type": "Mining",
+			"value": 80.0
+		},
+		"ENCHANTED_IRON": {
+			"type": "Mining",
+			"value": 48.0
+		},
+		"ENCHANTED_IRON_BLOCK": {
+			"type": "Mining",
+			"value": 7680.0
+		},
+		"ENCHANTED_JUNGLE_LOG": {
+			"type": "Foraging",
+			"value": 16.0
+		},
+		"ENCHANTED_LAPIS_LAZULI_BLOCK": {
+			"type": "Mining",
+			"value": 2560.0
+		},
+		"ENCHANTED_LAPIS_LAZULI": {
+			"type": "Mining",
+			"value": 16.0
+		},
+		"ENCHANTED_LEATHER": {
+			"type": "Farming",
+			"value": 115.0
+		},
+		"ENCHANTED_MAGMA_CREAM": {
+			"type": "Combat",
+			"value": 32.0
+		},
+		"ENCHANTED_MELON": {
+			"type": "Farming",
+			"value": 16.0
+		},
+		"ENCHANTED_MELON_BLOCK": {
+			"type": "Farming",
+			"value": 2560.0
+		},
+		"ENCHANTED_MITHRIL": {
+			"type": "Mining",
+			"value": 64.0
+		},
+		"ENCHANTED_MUTTON": {
+			"type": "Farming",
+			"value": 16.0
+		},
+		"ENCHANTED_MYCELIUM": {
+			"type": "Mining",
+			"value": 32.0
+		},
+		"ENCHANTED_MYCELIUM_CUBE": {
+			"type": "Mining",
+			"value": 5120.0
+		},
+		"ENCHANTED_NETHER_WART": {
+			"type": "Farming",
+			"value": 48.0
+		},
+		"ENCHANTED_OAK_LOG": {
+			"type": "Foraging",
+			"value": 16.0
+		},
+		"ENCHANTED_OBSIDIAN": {
+			"type": "Combat",
+			"value": 64.0
+		},
+		"ENCHANTED_OBSIDIAN": {
+			"type": "Mining",
+			"value": 64.0
+		},
+		"ENCHANTED_PACKED_ICE": {
+			"type": "Mining",
+			"value": 12800.0
+		},
+		"ENCHANTED_POISONOUS_POTATO": {
+			"type": "Combat",
+			"value": 0.0
+		},
+		"ENCHANTED_POPPY": {
+			"type": "Foraging",
+			"value": 57.6
+		},
+		"ENCHANTED_PORK": {
+			"type": "Farming",
+			"value": 32.0
+		},
+		"ENCHANTED_POTATO": {
+			"type": "Farming",
+			"value": 16.0
+		},
+		"ENCHANTED_PRISMARINE_CRYSTALS": {
+			"type": "Fishing",
+			"value": 40.0
+		},
+		"ENCHANTED_PRISMARINE_SHARD": {
+			"type": "Fishing",
+			"value": 40.0
+		},
+		"ENCHANTED_PUFFERFISH": {
+			"type": "Fishing",
+			"value": 160.0
+		},
+		"ENCHANTED_PUMPKIN": {
+			"type": "Farming",
+			"value": 48.0
+		},
+		"ENCHANTED_QUARTZ": {
+			"type": "Combat",
+			"value": 48.0
+		},
+		"ENCHANTED_QUARTZ": {
+			"type": "Mining",
+			"value": 48.0
+		},
+		"ENCHANTED_QUARTZ_BLOCK": {
+			"type": "Combat",
+			"value": 7680.0
+		},
+		"ENCHANTED_QUARTZ_BLOCK": {
+			"type": "Mining",
+			"value": 7680.0
+		},
+		"ENCHANTED_RABBIT_FOOT": {
+			"type": "Farming",
+			"value": 32.0
+		},
+		"ENCHANTED_RABBIT_HIDE": {
+			"type": "Farming",
+			"value": 115.0
+		},
+		"ENCHANTED_RAW_BEEF": {
+			"type": "Farming",
+			"value": 16.0
+		},
+		"ENCHANTED_RAW_CHICKEN": {
+			"type": "Farming",
+			"value": 16.0
+		},
+		"ENCHANTED_RAW_FISH": {
+			"type": "Fishing",
+			"value": 80.0
+		},
+		"ENCHANTED_RAW_RABBIT": {
+			"type": "Farming",
+			"value": 16.0
+		},
+		"ENCHANTED_RAW_SALMON": {
+			"type": "Fishing",
+			"value": 112.0
+		},
+		"ENCHANTED_REDSTONE": {
+			"type": "Mining",
+			"value": 32.0
+		},
+		"ENCHANTED_REDSTONE_BLOCK": {
+			"type": "Mining",
+			"value": 5120.0
+		},
+		"ENCHANTED_RED_MUSHROOM": {
+			"type": "Farming",
+			"value": 48.0
+		},
+		"ENCHANTED_RED_SAND": {
+			"type": "Mining",
+			"value": 32.0
+		},
+		"ENCHANTED_RED_SAND_CUBE": {
+			"type": "Mining",
+			"value": 5120.0
+		},
+		"ENCHANTED_ROTTEN_FLESH": {
+			"type": "Combat",
+			"value": 48.0
+		},
+		"ENCHANTED_ROTTEN_FLESH": {
+			"type": "Mining",
+			"value": 48.0
+		},
+		"ENCHANTED_SAND": {
+			"type": "Mining",
+			"value": 32.0
+		},
+		"ENCHANTED_SEEDS": {
+			"type": "Farming",
+			"value": 16.0
+		},
+		"ENCHANTED_SLIME_BALL": {
+			"type": "Combat",
+			"value": 32.0
+		},
+		"ENCHANTED_SLIME_BLOCK": {
+			"type": "Combat",
+			"value": 5120.0
+		},
+		"ENCHANTED_SNOW_BLOCK": {
+			"type": "Mining",
+			"value": 64.0
+		},
+		"ENCHANTED_SPIDER_EYE": {
+			"type": "Combat",
+			"value": 48.0
+		},
+		"ENCHANTED_SPONGE": {
+			"type": "Fishing",
+			"value": 20.0
+		},
+		"ENCHANTED_SPRUCE_LOG": {
+			"type": "Foraging",
+			"value": 16.0
+		},
+		"ENCHANTED_STRING": {
+			"type": "Combat",
+			"value": 38.0
+		},
+		"ENCHANTED_SUGAR": {
+			"type": "Alchemy",
+			"value": 16.0
+		},
+		"ENCHANTED_SUGAR_CANE": {
+			"type": "Alchemy",
+			"value": 2560.0
+		},
+		"ENCHANTED_WET_SPONGE": {
+			"type": "Fishing",
+			"value": 800.0
+		},
+		"ENCHANTED_WOOL": {
+			"type": "Farming",
+			"value": 16.0
+		},
+		"ENDER_PEARL": {
+			"type": "Combat",
+			"value": 0.3
+		},
+		"END_STONE": {
+			"type": "Mining",
+			"value": 0.4
+		},
+		"FEATHER": {
+			"type": "Farming",
+			"value": 0.2
+		},
+		"FLAME_DYE": {
+			"type": "Combat",
+			"value": 0.0
+		},
+		"FLINT": {
+			"type": "Mining",
+			"value": 0.2
+		},
+		"GABAGOOL_THE_FISH": {
+			"type": "Combat",
+			"value": 0.0
+		},
+		"GHAST_TEAR": {
+			"type": "Combat",
+			"value": 0.5
+		},
+		"GLASS": {
+			"type": "Mining",
+			"value": 0.0
+		},
+		"GLOWSTONE": {
+			"type": "Mining",
+			"value": 0.8
+		},
+		"GLOWSTONE_DUST": {
+			"type": "Mining",
+			"value": 0.2
+		},
+		"GOLD_INGOT": {
+			"type": "Mining",
+			"value": 0.4
+		},
+		"GOLD_ORE": {
+			"type": "Mining",
+			"value": 0.4
+		},
+		"GRAVEL": {
+			"type": "Mining",
+			"value": 0.2
+		},
+		"GUNPOWDER": {
+			"type": "Combat",
+			"value": 0.3
+		},
+		"HARD_STONE": {
+			"type": "Mining",
+			"value": 0.1
+		},
+		"HAY_BLOCK": {
+			"type": "Farming",
+			"value": 1.8
+		},
+		"HEMOBOMB": {
+			"type": "Combat",
+			"value": 12000.0
+		},
+		"HEMOGLASS": {
+			"type": "Combat",
+			"value": 800.0
+		},
+		"HEMOVIBE": {
+			"type": "Combat",
+			"value": 5.0
+		},
+		"ICE": {
+			"type": "Mining",
+			"value": 0.5
+		},
+		"INFERNO_APEX": {
+			"type": "Combat",
+			"value": 0.0
+		},
+		"INFERNO_VERTEX": {
+			"type": "Combat",
+			"value": 0.0
+		},
+		"IRON_INGOT": {
+			"type": "Mining",
+			"value": 0.3
+		},
+		"IRON_ORE": {
+			"type": "Mining",
+			"value": 0.3
+		},
+		"LOG-3": {
+			"type": "Foraging",
+			"value": 0.1
+		},
+		"INK_SACK-4": {
+			"type": "Mining",
+			"value": 0.1
+		},
+		"LAPIS_LAZULI_BLOCK": {
+			"type": "Mining",
+			"value": 0.9
+		},
+		"LEATHER": {
+			"type": "Farming",
+			"value": 0.2
+		},
+		"DOUBLE_PLANT-1": {
+			"type": "Foraging",
+			"value": 0.2
+		},
+		"MAGMA_CREAM": {
+			"type": "Combat",
+			"value": 0.2
+		},
+		"MELON": {
+			"type": "Farming",
+			"value": 0.1
+		},
+		"MELON_BLOCK": {
+			"type": "Farming",
+			"value": 0.9
+		},
+		"MITHRIL": {
+			"type": "Mining",
+			"value": 0.4
+		},
+		"MUTANT_NETHER_WART": {
+			"type": "Farming",
+			"value": 7680.0
+		},
+		"MYCELIUM": {
+			"type": "Mining",
+			"value": 0.2
+		},
+		"QUARTZ": {
+			"type": "Mining",
+			"value": 0.3
+		},
+		"NETHER_WART": {
+			"type": "Farming",
+			"value": 0.2
+		},
+		"LOG": {
+			"type": "Foraging",
+			"value": 0.1
+		},
+		"OBSIDIAN": {
+			"type": "Combat",
+			"value": 0.4
+		},
+		"OBSIDIAN": {
+			"type": "Mining",
+			"value": 0.4
+		},
+		"OMEGA_ENCHANTED_EGG": {
+			"type": "Farming",
+			"value": 149040.0
+		},
+		"RED_ROSE-5": {
+			"type": "Foraging",
+			"value": 0.1
+		},
+		"RED_ROSE-8": {
+			"type": "Foraging",
+			"value": 0.1
+		},
+		"PACKED_ICE": {
+			"type": "Mining",
+			"value": 4.5
+		},
+		"DOUBLE_PLANT-5": {
+			"type": "Foraging",
+			"value": 0.2
+		},
+		"RED_ROSE-7": {
+			"type": "Foraging",
+			"value": 0.1
+		},
+		"POISONOUS_POTATO": {
+			"type": "Combat",
+			"value": 0.0
+		},
+		"POLISHED_PUMPKIN": {
+			"type": "Farming",
+			"value": 7680.0
+		},
+		"RED_ROSE": {
+			"type": "Foraging",
+			"value": 0.1
+		},
+		"POTATO": {
+			"type": "Farming",
+			"value": 0.1
+		},
+		"PRISMARINE_CRYSTALS": {
+			"type": "Fishing",
+			"value": 0.5
+		},
+		"PRISMARINE_SHARD": {
+			"type": "Fishing",
+			"value": 0.5
+		},
+		"RAW_FISH-3": {
+			"type": "Fishing",
+			"value": 1.0
+		},
+		"PUMPKIN": {
+			"type": "Farming",
+			"value": 0.3
+		},
+		"RABBIT'S_FOOT": {
+			"type": "Farming",
+			"value": 0.2
+		},
+		"RABBIT_HIDE": {
+			"type": "Farming",
+			"value": 0.2
+		},
+		"RAW_BEEF": {
+			"type": "Farming",
+			"value": 0.1
+		},
+		"RAW_CHICKEN": {
+			"type": "Farming",
+			"value": 0.1
+		},
+		"RAW_FISH": {
+			"type": "Fishing",
+			"value": 0.5
+		},
+		"MUTTON": {
+			"type": "Farming",
+			"value": 0.1
+		},
+		"RAW_PORKCHOP": {
+			"type": "Farming",
+			"value": 0.2
+		},
+		"RAW_RABBIT": {
+			"type": "Farming",
+			"value": 0.1
+		},
+		"RAW_FISH-1": {
+			"type": "Fishing",
+			"value": 0.7
+		},
+		"REAPER_PEPPER": {
+			"type": "Combat",
+			"value": 0.0
+		},
+		"REDSTONE": {
+			"type": "Mining",
+			"value": 0.2
+		},
+		"RED_MUSHROOM": {
+			"type": "Farming",
+			"value": 0.3
+		},
+		"RED_MUSHROOM_BLOCK": {
+			"type": "Farming",
+			"value": 0.3
+		},
+		"RED_SAND": {
+			"type": "Mining",
+			"value": 0.2
+		},
+		"RED_ROSE-4": {
+			"type": "Foraging",
+			"value": 0.1
+		},
+		"DOUBLE_PLANT-4": {
+			"type": "Foraging",
+			"value": 0.2
+		},
+		"ROTTEN_FLESH": {
+			"type": "Combat",
+			"value": 0.3
+		},
+		"SAND": {
+			"type": "Mining",
+			"value": 0.2
+		},
+		"SEEDS": {
+			"type": "Farming",
+			"value": 0.1
+		},
+		"SLIME_BALL": {
+			"type": "Combat",
+			"value": 0.2
+		},
+		"SLIME_BLOCK": {
+			"type": "Combat",
+			"value": 1.8
+		},
+		"SNOWBALL": {
+			"type": "Mining",
+			"value": 0.1
+		},
+		"SNOW_BLOCK": {
+			"type": "Mining",
+			"value": 0.4
+		},
+		"SPIDER_EYE": {
+			"type": "Combat",
+			"value": 0.3
+		},
+		"SPONGE": {
+			"type": "Fishing",
+			"value": 0.5
+		},
+		"LOG-1": {
+			"type": "Foraging",
+			"value": 0.1
+		},
+		"STONE": {
+			"type": "Mining",
+			"value": 0.1
+		},
+		"STRING": {
+			"type": "Combat",
+			"value": 0.2
+		},
+		"SUGAR_CANE": {
+			"type": "Farming",
+			"value": 0.1
+		},
+		"DOUBLE_PLANT": {
+			"type": "Foraging",
+			"value": 0.2
+		},
+		"SUPER_EGG": {
+			"type": "Farming",
+			"value": 16560.0
+		},
+		"TIGHTLY_TIED_HAY_BALE": {
+			"type": "Farming",
+			"value": 41472.0
+		},
+		"WHEAT": {
+			"type": "Farming",
+			"value": 0.2
+		},
+		"RED_ROSE-6": {
+			"type": "Foraging",
+			"value": 0.1
+		},
+		"WOOL": {
+			"type": "Farming",
+			"value": 0.1
+		},
+		"LUSH_BERBERIS": {
+			"type": "Farming",
+			"value": 10.0
+		},
+		"ENCHANTED_LUSH_BERBERIS": {
+			"type": "Farming",
+			"value": 1600.0
+		}
+	}
+}
