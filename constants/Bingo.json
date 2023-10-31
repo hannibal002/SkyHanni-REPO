@@ -1,49 +1,43 @@
 {
   "bingo_tips": {
-    "Collector": {
+    "Healthy": {
       "difficulty": "Easy",
       "note": [
-        "You will get some progress for this",
-        "by working on other goals.",
-        "The easiest to go for are:",
-        "Mushroom (10k), Oak Wood (5k), Potato (25k),",
-        "Obsidian (10k), Sand (5k), Wheat (10k) and End Stone (10k)"
+        "Wear armor enchanted with Growth 5 (Enchanting Level 5).",
+        "Applying Growth 5 costs 50 Levels each."
       ]
     },
-    "Ferocious": {
+    "Cobblestone Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "Mine Cobblestone on the Dwarven Bridge or any spot with cobblestone.",
+        "If you want to, you can also build a Cobblestone Generator on your island."
+      ]
+    },
+    "Slayer": {
+      "difficulty": "Easy",
+      "note": [
+        "Do 3 Tier 1 Revenant Horror Bosses ",
+        "and claim the rewards by talking to Maddox."
+      ]
+    },
+    "Pet Grinder": {
+      "difficulty": "Medium",
+      "note": [
+        "The easiest pet to go for is the Bingo Pet.",
+        "Make sure you have your chosen pet active and remember",
+        "to put a skill xp boost pet item on it. You can buy those",
+        "from Zog in the Hub (33 70 -96).",
+        "Daily Experimentation Table, Mining Commissions and Milestones",
+        "aswell as Garden (Crop) Milestones are strong xp sources."
+      ]
+    },
+    "Dirty Reforger": {
       "difficulty": "Easy",
       "note": [
         "Buy a Dirt Bottle (100k) from the Smithmonger in the Hub (-32 69 -135)",
-        "and reforge an uncommon or higher rarity weapon with it."
-      ]
-    },
-    "Reinforced Reforger": {
-      "difficulty": "Easy",
-      "note": [
-        "Mine Diamonds in the Deep Caverns until you get a Rare Diamond to apply.",
-        "Safe spot to do this is between the Diamond Reserve and ",
-        "the Obsidian Sanctuary (-20 27 70).",
-        "Mobs don't spawn there."
-      ]
-    },
-    "Minion Machine": {
-      "difficulty": "Easy",
-      "note": [
-        "Doing this will bring you close",
-        "to your 8th Minion Slot.",
-        "Try to craft every cheap minion you can",
-        "get your hands on while doing other things."
-      ]
-    },
-    "Mushroom Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "For this you can either go for Garden Level 9",
-        "(full plot needs 304 red and brown mushrooms),",
-        "or use an axe with Silk Touch and mine the mushroom blocks",
-        "on the Desert Island.",
-        "If you use the Garden, you might have to collect some",
-        "mushrooms outside of it after hitting the required amount."
+        "and reforge a weapon with it. Make sure to NOT shift-click it out",
+        "of the menu after applying!"
       ]
     },
     "Extra Storage": {
@@ -55,89 +49,84 @@
         "and having the Haste 3 potion effect."
       ]
     },
-    "Potato Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "You can easily do this in the Garden. Potato unlocks at Garden Level 3",
-        "and one plot requires 7,896 potatoes to fill. Try to get yourself an",
-        "Advanced Gardening Hoe (25 Copper). You might have to get a few potatoes",
-        "outside of the Garden to complete this once you reached the amount."
-      ]
-    },
-    "Strongman": {
-      "difficulty": "Medium",
-      "note": [
-        "Get yourself a splash, equip a Bingo Pet",
-        "and get the cake buff by eating the cakes on owocato's, xMeru's or prtl's island.",
-        "If this doesn't finish it, get a Void Sword (200k) in the End",
-        "and hold it while some Ender Armor and/or Equipment."
-      ]
-    },
-    "Now We're In Business": {
-      "difficulty": "Easy",
-      "note": [
-        "This unlocks at Diamond Collection 6 (5k). To craft it, you need",
-        "1 Enchanted Diamond and 8 Vines (those will cost 40 Jungle Leaves to buy",
-        "and need Jungle Wood Collection 4 to unlock it in the /trades menu.",
-        "You can also use this in a minion to help getting Diamond Collection 7 passive."
-      ]
-    },
-    "Amber Crystal": {
-      "difficulty": "Medium",
-      "note": [
-        "To get this Crystal you have to talk to The King in the Crystal Hollows",
-        "with 3 Goblin Eggs of the same color and then go to",
-        "The Queens Area (also in the Crystal Hollows) to get the Crystal.",
-        "You can use Wishing Compasses to locate the structures."
-      ]
-    },
-    "Skill Average": {
-      "difficulty": "Medium",
-      "note": [
-        "The following list of skills is a suggestion that you can go for:",
-        "Mining 20, Foraging 18, Combat 16, Farming 21,",
-        "Enchanting 20, Carpentry 13, Taming 20, Fishing 10 and Alchemy 16.",
-        "Try to utilize Jerry's mayor rotation for this."
-      ]
-    },
-    "Strange Effects": {
-      "difficulty": "Easy",
-      "note": [
-        "Look for mobs with a purple name."
-      ]
-    },
-    "Critical": {
-      "difficulty": "Easy",
-      "note": [
-        "Reforge your Void Sword to Sharp",
-        "at the Blacksmith in the Hub (-28 69 -125),",
-        "or enchant any weapon with Critical 5 (costs 50 Levels)."
-      ]
-    },
-    "Obsidian Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "You can use all your minion slots for this (don't forget to",
-        "buy your daily Obsidian in the End every day to craft them),",
-        "mine Ender Nodes and kill Obsidian Defenders in the Dragons Nest."
-      ]
-    },
-    "Lumberjack": {
+    "Raw Rabbit Collector": {
       "difficulty": "Hard",
       "note": [
-        "Optimal for this would be using a Golden Axe with Efficiency 5 and",
-        "having the Haste 3 potion effect to chop down Oak. Reforge your Axe to Lumberjack's",
-        "or buy a Moil Log (50k) from the Smithmonger in the Hub (-32 69 -135)",
-        "and apply it to your axe for more Foraging Wisdom."
+        "Place as many Rabbit Minions as you can (requires 50 Raw Rabbit Collection).",
+        "You can get your first few Raw Rabbit by killing Rabbits in the Mushroom Desert,",
+        "accessable through the Barn. You can speed up the Collection by killing rabbits with",
+        "a Rabbit Axe (purchasable from Jake if someone brought a Rabbit up to him).",
+        "Don't forget to give your minions some fuel and medium storages."
       ]
     },
-    "Sea Summoner": {
+    "Forgery": {
       "difficulty": "Easy",
       "note": [
-        "Claim your cake buff (visit owocato, xMeru or prtl for it)",
-        "hold an angler 4 or 5 rod and visit someone with a Sea Creature Chance beacon",
-        "(visit PrincessVictra , ReyMaratov or Rutetid_).",
-        "You can also wait for Jerry to bring Marina's perks to complete this."
+        "Use 3 Glacite Jewels (dropped from Ice Walkers at 0 128 150 in the Dwarven Mines)",
+        "to forge a Bejeweled Handle (requires Heart of the Mountain Tier 2)."
+      ]
+    },
+    "Exterminator": {
+      "difficulty": "Hard",
+      "note": [
+        "Kill farm animals in the Barn with a Cleaver with Cleave 5 and Sharpness 5",
+        "or spiders in Arachne's Burrow (-309 92 -209) in the Spider's Den with a Dreadlord Sword."
+      ]
+    },
+    "Relic Researcher": {
+      "difficulty": "Medium",
+      "note": [
+        "You can find Relic Coordinates in Skytils or the Wiki.",
+        "You will need Ender Pearls to reach some of them."
+      ]
+    },
+    "Cocoa Beans Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "Grind for Garden 8 to unlock Cocoa Beans on your Garden.",
+        "Then farm them using the replenish axe from Skymart (25 Copper).",
+        "You might have to collect some Cocoa Beans outside of the Garden ",
+        "after hitting the required amount to complete the Goal."
+
+      ]
+    },
+    "Search And Rescue": {
+      "difficulty": "Easy",
+      "note": [
+        "Talk to Fetchur (84 224 -118) in the Dwarven Mines",
+        "and give him the item he describes. Use the Wiki for help",
+        "regarding what to give to him."
+      ]
+    },
+    "Collecting Data": {
+      "difficulty": "Easy",
+      "note": [
+        "You will most likely get this passively.",
+        "Use /be ingame to view your progress."
+      ]
+    },
+    "Minion Machine": {
+      "difficulty": "Easy",
+      "note": [
+        "Doing this will bring you decently close",
+        "to your 10th Minion Slot.",
+        "Try to craft every cheap minion you can",
+        "get your hands on while doing other things."
+
+      ]
+    },
+    "The Green Gold": {
+      "difficulty": "Medium",
+      "note": [
+        "Mine emeralds in the Dwarven Mines minecarts above the Bank.",
+        "It requires 32 Enchanted Emeralds and Emerald Collection 5 to craft this."
+      ]
+    },
+    "Meiser": {
+      "difficulty": "Easy",
+      "note": [
+        "You will most likely get this by banking the money you get from",
+        "skill level ups, the Relics and killing mobs."
       ]
     },
     "Strange Eggs": {
@@ -145,46 +134,40 @@
       "note": [
         "Kill goblins or open loot chests in the Crystal Hollows,",
         "then just throw them until you get a Golden Goblin.",
-        "Only throw them in the Dwarven Mines!"
+        "Higher level eggs have higher chances of spawning, but are also rarer."
       ]
     },
     "Bedazzled": {
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "note": [
-        "It follows a list of more than 22 accessories you can go for:",
-        "Buyable from the Adventurer in the Hub (-41 70 -64):",
+        "Buy all 6 from the Adventurer in the Hub (-41 70 -64):",
         "Zombie/Skeleton Talisman: 500 coins each",
         "Village/Mine Affinity Talisman: 2.5k coins each",
         "Intimidation/Scavenger Talisman: 10k coins each",
-        "Collection Talismans:",
-        "Night Vision Charm (Mushroom 7)",
+        "For the last one you can chose one from the following:",
         "Farming Talisman (Wheat 4), Vaccine Talisman (Potato 3)",
         "Talisman of Coins (Emerald 2), Magnetic Talisman (Emerald 3)",
         "Wood Affinity Talisman (Oak Wood 8), Gravity Talisman (Obsidian 3)",
-        "Speed Talisman (Sugar Cane 2), Potion Affinity Talisman (Nether Wart 3)",
-        "Other:",
-        "Archaeologists Compass, Shiny Yellow Rock, Campfire Initiate Badge,",
-        "King Talisman, Cat Talisman, Spider Talisman, Frozen Chicken,",
-        "Red Claw Talisman (Wolf Slayer Level 1), Mineral Talisman,",
-        "Green Jerry Talisman (6.61% from Jerry Boxes), Candy Talisman,",
+        "Speed Talisman (Sugar Cane 2), Archaeologists Compass, Shiny Yellow Rock,",
+        "Campfire Initiate Badge, King Talisman, Frozen Chicken,",
         "New Year Cake Bag (250k), Glacial Talisman (Frozen Treasure).",
         "Don't forget to take the 4 Bonus accessory bag slots from",
         "the Redstone Miner (24 104 16), he asks for 1920 Redstone in total."
       ]
     },
-    "Fairy Finder": {
-      "difficulty": "Easy",
-      "note": [
-        "Collect those you run along while doing other goals. If you have trouble",
-        "check TimeDeo's fairy soul tutorial on YouTube."
-      ]
-    },
-    "High Score!": {
+    "Battle-Ready": {
       "difficulty": "Medium",
       "note": [
-        "This requires Catacombs Level 3 and a completion of the 2 floors before.",
-        "Try this when Jerry has Mayor Paul's perks active to make it easier",
-        "by looking through party finder or finding some friends to assist you."
+        "Wear a full set of Ender equipment. One part drops from Endermen (0.5% chance),",
+        "one from Ender Nodes (3.05% - 3.32% chance), one from Obsidian Defenders (1% chance) and",
+        "one from Watchers (1% chance). You can find these Mobs in the Dragon's Nest (-600 22 -275) in the End."
+      ]
+    },
+    "Enchanter": {
+      "difficulty": "Medium",
+      "note": [
+        "Try to get to Enchanting Level 10, craft an Experimentation Table (8 Oak Wood and 1 XP Bottle)",
+        "and do your daily experiments with it."
       ]
     }
   }
