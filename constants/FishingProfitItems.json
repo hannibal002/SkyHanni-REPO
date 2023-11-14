@@ -1,0 +1,51 @@
+{
+  "categories": {
+    "Crimson Isle": [
+      "MAGMA_FISH",
+      "MAGMA_CREAM",
+      "BLAZE_POWDER",
+      "NETHERRACK",
+      "FISH_BAIT",
+      "HOT_BAIT",
+      "COAL",
+      "GRAND_EXP_BOTTLE",
+      "ENCHANTED_BLAZE_POWDER",
+      "LAVA_SHELL",
+      "GLOWY_CHUM_BAIT",
+      "ENCHANTED_MAGMA_CREAM",
+      "DARK_BAIT",
+      "WHALE_BAIT"
+    ],
+    "Trophy Fish": [
+      "LAVA_HORSE_SILVER",
+      "MAGMA_FISH_SILVER",
+      "BLOBFISH_SILVER",
+      "MOLDFIN_BRONZE",
+      "SOUL_FISH_BRONZE",
+      "LAVA_HORSE_BRONZE",
+      "BLOBFISH_BRONZE",
+      "BLOBFISH_GOLD"
+    ],
+    "Water": [
+      "ROTTEN_FLESH",
+      "ANGLER;6",
+      "INK_SACK",
+      "ENCHANTED_IRON",
+      "SPONGE",
+      "FAIRY_LEGGINGS",
+      "CLAY_BALL",
+      "PRISMARINE_CRYSTALS",
+      "ENCHANTED_FEATHER",
+      "ENCHANTED_PRISMARINE_CRYSTALS",
+      "ENCHANTED_PRISMARINE_SHARD",
+      "ENCHANTED_ROTTEN_FLESH",
+      "PRISMARINE_SHARD",
+      "BONE",
+      "WATER_LILY",
+      "RAW_FISH",
+      "RAW_FISH-1",
+      "RAW_FISH-2",
+      "RAW_FISH-3"
+    ]
+  }
+}
