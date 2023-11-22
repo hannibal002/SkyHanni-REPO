@@ -113,6 +113,7 @@
       "SPONGE",
       "ENCHANTED_CLAY_BALL",
       "ENCHANTED_DIAMOND",
+      "ENCHANTED_GOLD",
       "GOLDEN_APPLE-1",
       "GUARDIAN;0",
       "GUARDIAN;1",
@@ -126,25 +127,11 @@
       "DYE_AQUAMARINE"
     ],
     "Rain": [
-      "SKYBLOCK_COIN",
-      "ENCHANTED_CLAY_BALL",
-      "ENCHANTED_DIAMOND",
-      "ENCHANTED_GOLD",
-      "GOLDEN_APPLE-1",
-      "GUARDIAN;0",
-      "GUARDIAN;1",
-      "GUARDIAN;2",
-      "GUARDIAN;3",
-      "GUARDIAN;4",
-      "MUSIC_RUNE;1",
-      "ENCHANTED_IRON",
-      "ENCHANTED_PUFFERFISH",
       "SQUID;0",
       "SQUID;1",
       "SQUID;2",
       "SQUID;3",
-      "SQUID;4",
-      "TITANIC_EXP_BOTTLE"
+      "SQUID;4"
     ],
     "Fairy Pond": [
       "DYE_NADESHIKO"
