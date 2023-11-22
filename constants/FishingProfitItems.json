@@ -148,6 +148,19 @@
       "BABY_YETI;3",
       "BABY_YETI;4",
       "DYE_ICEBERG"
+    ],
+    "Lava": [
+      "BLAZE_POWDER",
+      "COAL",
+      "MAGMA_CREAM",
+      "MAGMA_FISH",
+      "NETHERRACK",
+      "MAGMA_FISH_SILVER",
+      "ENCHANTED_COAL",
+      "ENCHANTED_BLAZE_POWDER",
+      "LAVA_SHELL",
+      "ENCHANTED_MAGMA_CREAM",
+      "ENCHANTED_NETHER_STALK"
     ]
   }
 }
