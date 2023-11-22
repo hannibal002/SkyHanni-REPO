@@ -150,6 +150,16 @@
       "DYE_NADESHIKO"
     ],
     "Winter Island": [
+      "ICE",
+      "PACKED_ICE",
+      "ICE_HUNK",
+      "SNOW_BALL",
+      "BLUE_ICE_HUNK",
+      "SNOWFLAKE_THE_FISH",
+      "ENCHANTED_ICE",
+      "ENCHANTED_PACKED_ICE",
+      "BABY_YETI;3",
+      "BABY_YETI;4",
       "DYE_ICEBERG"
     ]
   }
