@@ -122,7 +122,8 @@
       "MUSIC_RUNE;1",
       "ENCHANTED_IRON",
       "ENCHANTED_PUFFERFISH",
-      "TITANIC_EXP_BOTTLE"
+      "TITANIC_EXP_BOTTLE",
+      "DYE_AQUAMARINE"
     ],
     "Rain": [
       "SKYBLOCK_COIN",
@@ -144,6 +145,12 @@
       "SQUID;3",
       "SQUID;4",
       "TITANIC_EXP_BOTTLE"
+    ],
+    "Fairy Pond": [
+      "DYE_NADESHIKO"
+    ],
+    "Winter Island": [
+      "DYE_ICEBERG"
     ]
   }
 }
