@@ -82,6 +82,14 @@
         "armor or pet equipped."
       ],
       "found": "Byrules"
+    },
+    "Choices, Choices...": {
+      "difficulty": "Medium",
+      "note": [
+        "Swap your faction in the Crimson",
+        "Isles."
+      ],
+      "found": "Xaw"
     }
   }
 }
