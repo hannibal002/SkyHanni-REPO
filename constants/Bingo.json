@@ -50,7 +50,7 @@
       "note": [
         "Say 'Help Wizardman' next to Wizardman NPC found in the rift."
       ],
-      "found": "?"
+      "found": "VeganTrials"
     },
     "Bad Cleric": {
       "difficulty": "Easy",
@@ -74,6 +74,14 @@
         "The Hub."
       ],
       "found": "GoldenDusk"
+    },
+    "Am I Forgetting Something?": {
+      "difficulty": "Medium",
+      "note": [
+        "Start a Dungeon Without any",
+        "armor or pet equipped."
+      ],
+      "found": "Byrules"
     }
   }
 }
