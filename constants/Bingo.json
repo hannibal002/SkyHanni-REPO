@@ -57,6 +57,14 @@
         "Kill 250 Zombie Villagers."
       ],
       "found": "?"
+    },
+    "Betrayal": {
+      "difficulty": "Easy",
+      "note": [
+        "Throw an egg at a chicken whilst",
+        "wearing the chicken head."
+      ],
+      "found": "Medua & Diotechnon"
     }
   }
 }
