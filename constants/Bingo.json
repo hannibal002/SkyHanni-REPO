@@ -22,7 +22,8 @@
       "difficulty": "Easy",
       "note": [
         "Kill a T1 Sven Slayer Boss."
-      ]
+      ],
+      "found": "Merp"
     },
     "Sunken Treasures (Community Goal)": {
       "difficulty": "Easy",
@@ -65,6 +66,14 @@
         "wearing the chicken head."
       ],
       "found": "Medua & Diotechnon"
+    },
+    "High Spirits": {
+      "difficulty": "Easy",
+      "note": [
+        "Find 7 fairy souls above Y130 in",
+        "The Hub."
+      ],
+      "found": "GoldenDusk"
     }
   }
 }
