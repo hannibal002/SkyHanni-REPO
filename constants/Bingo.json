@@ -1,173 +1,33 @@
 {
   "bingo_tips": {
-    "Healthy": {
+    "'Tis The Season": {
       "difficulty": "Easy",
       "note": [
-        "Wear armor enchanted with Growth 5 (Enchanting Level 5).",
-        "Applying Growth 5 costs 50 Levels each."
+        "Gifting gifts to other players."
       ]
     },
-    "Cobblestone Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "Mine Cobblestone on the Dwarven Bridge or any spot with cobblestone.",
-        "If you want to, you can also build a Cobblestone Generator on your island."
-      ]
-    },
-    "Slayer": {
+    "Grinding Away": {
       "difficulty": "Easy",
       "note": [
-        "Do 3 Tier 1 Revenant Horror Bosses ",
-        "and claim the rewards by talking to Maddox."
+        "Cobblestone collection."
       ]
     },
-    "Pet Grinder": {
-      "difficulty": "Medium",
-      "note": [
-        "The easiest pet to go for is the Bingo Pet.",
-        "Make sure you have your chosen pet active and remember",
-        "to put a skill xp boost pet item on it. You can buy those",
-        "from Zog in the Hub (33 70 -96).",
-        "Daily Experimentation Table, Mining Commissions and Milestones",
-        "aswell as Garden (Crop) Milestones are strong xp sources."
-      ]
-    },
-    "Dirty Reforger": {
+    "Sweet Collection": {
       "difficulty": "Easy",
       "note": [
-        "Buy a Dirt Bottle (100k) from the Smithmonger in the Hub (-32 69 -135)",
-        "and reforge a weapon with it. Make sure to NOT shift-click it out",
-        "of the menu after applying!"
+        "Collect 200,000 Sugar Cane."
       ]
     },
-    "Extra Storage": {
-      "difficulty": "Hard",
-      "note": [
-        "Costs 256 Enchanted Oak Wood to craft and",
-        "unlocks at Oak Wood Collection 9 (30k).",
-        "Optimal for this would be using a Golden Axe with Efficiency 5",
-        "and having the Haste 3 potion effect."
-      ]
-    },
-    "Raw Rabbit Collector": {
-      "difficulty": "Hard",
-      "note": [
-        "Place as many Rabbit Minions as you can (requires 50 Raw Rabbit Collection).",
-        "You can get your first few Raw Rabbit by killing Rabbits in the Mushroom Desert,",
-        "accessable through the Barn. You can speed up the Collection by killing rabbits with",
-        "a Rabbit Axe (purchasable from Jake if someone brought a Rabbit up to him).",
-        "Don't forget to give your minions some fuel and medium storages."
-      ]
-    },
-    "Forgery": {
+    "Party Of One": {
       "difficulty": "Easy",
       "note": [
-        "Use 3 Glacite Jewels (dropped from Ice Walkers at 0 128 150 in the Dwarven Mines)",
-        "to forge a Bejeweled Handle (requires Heart of the Mountain Tier 2)."
+        "Craft and Eat a Cake."
       ]
     },
-    "Exterminator": {
-      "difficulty": "Hard",
-      "note": [
-        "Kill farm animals in the Barn with a Cleaver with Cleave 5 and Sharpness 5",
-        "or spiders in Arachne's Burrow (-309 92 -209) in the Spider's Den with a Dreadlord Sword."
-      ]
-    },
-    "Relic Researcher": {
-      "difficulty": "Medium",
-      "note": [
-        "You can find Relic Coordinates in Skytils or the Wiki.",
-        "You will need Ender Pearls to reach some of them."
-      ]
-    },
-    "Cocoa Beans Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "Grind for Garden 8 to unlock Cocoa Beans on your Garden.",
-        "Then farm them using the replenish axe from Skymart (25 Copper).",
-        "You might have to collect some Cocoa Beans outside of the Garden ",
-        "after hitting the required amount to complete the Goal."
-
-      ]
-    },
-    "Search And Rescue": {
+    "Moral Support": {
       "difficulty": "Easy",
       "note": [
-        "Talk to Fetchur (84 224 -118) in the Dwarven Mines",
-        "and give him the item he describes. Use the Wiki for help",
-        "regarding what to give to him."
-      ]
-    },
-    "Collecting Data": {
-      "difficulty": "Easy",
-      "note": [
-        "You will most likely get this passively.",
-        "Use /be ingame to view your progress."
-      ]
-    },
-    "Minion Machine": {
-      "difficulty": "Easy",
-      "note": [
-        "Doing this will bring you decently close",
-        "to your 10th Minion Slot.",
-        "Try to craft every cheap minion you can",
-        "get your hands on while doing other things."
-
-      ]
-    },
-    "The Green Gold": {
-      "difficulty": "Medium",
-      "note": [
-        "Mine emeralds in the Dwarven Mines minecarts above the Bank.",
-        "It requires 32 Enchanted Emeralds and Emerald Collection 5 to craft this."
-      ]
-    },
-    "Meiser": {
-      "difficulty": "Easy",
-      "note": [
-        "You will most likely get this by banking the money you get from",
-        "skill level ups, the Relics and killing mobs."
-      ]
-    },
-    "Strange Eggs": {
-      "difficulty": "Medium",
-      "note": [
-        "Kill goblins or open loot chests in the Crystal Hollows,",
-        "then just throw them until you get a Golden Goblin.",
-        "Higher level eggs have higher chances of spawning, but are also rarer."
-      ]
-    },
-    "Bedazzled": {
-      "difficulty": "Easy",
-      "note": [
-        "Buy all 6 from the Adventurer in the Hub (-41 70 -64):",
-        "Zombie/Skeleton Talisman: 500 coins each",
-        "Village/Mine Affinity Talisman: 2.5k coins each",
-        "Intimidation/Scavenger Talisman: 10k coins each",
-        "For the last one you can chose one from the following:",
-        "Farming Talisman (Wheat 4), Vaccine Talisman (Potato 3)",
-        "Talisman of Coins (Emerald 2), Magnetic Talisman (Emerald 3)",
-        "Wood Affinity Talisman (Oak Wood 8), Gravity Talisman (Obsidian 3)",
-        "Speed Talisman (Sugar Cane 2), Archaeologists Compass, Shiny Yellow Rock,",
-        "Campfire Initiate Badge, King Talisman, Frozen Chicken,",
-        "New Year Cake Bag (250k), Glacial Talisman (Frozen Treasure).",
-        "Don't forget to take the 4 Bonus accessory bag slots from",
-        "the Redstone Miner (24 104 16), he asks for 1920 Redstone in total."
-      ]
-    },
-    "Battle-Ready": {
-      "difficulty": "Medium",
-      "note": [
-        "Wear a full set of Ender equipment. One part drops from Endermen (0.5% chance),",
-        "one from Ender Nodes (3.05% - 3.32% chance), one from Obsidian Defenders (1% chance) and",
-        "one from Watchers (1% chance). You can find these Mobs in the Dragon's Nest (-600 22 -275) in the End."
-      ]
-    },
-    "Enchanter": {
-      "difficulty": "Medium",
-      "note": [
-        "Try to get to Enchanting Level 10, craft an Experimentation Table (8 Oak Wood and 1 XP Bottle)",
-        "and do your daily experiments with it."
+        "Say 'Help Wizardman' to Wizardman NPC found in the rift."
       ]
     }
   }
