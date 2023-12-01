@@ -6,10 +6,28 @@
         "Gifting gifts to other players."
       ]
     },
+    "The Beginning (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Breaking any log with your fist."
+      ]
+    },
     "Grinding Away (Community Goal)": {
       "difficulty": "Easy",
       "note": [
         "Cobblestone collection."
+      ]
+    },
+    "A Howl Lotta Kills (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Kill a T1 Sven Slayer Boss."
+      ]
+    },
+    "Sunken Treasures (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Fish up coins."
       ]
     },
     "Sweet Collection": {
@@ -27,7 +45,13 @@
     "Moral Support": {
       "difficulty": "Easy",
       "note": [
-        "Say 'Help Wizardman' to Wizardman NPC found in the rift."
+        "Say 'Help Wizardman' next to Wizardman NPC found in the rift."
+      ]
+    },
+    "Bad Cleric": {
+      "difficulty": "Easy",
+      "note": [
+        "Kill 250 Zombie Villagers."
       ]
     }
   }
