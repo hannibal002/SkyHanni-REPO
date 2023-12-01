@@ -34,25 +34,29 @@
       "difficulty": "Easy",
       "note": [
         "Collect 200,000 Sugar Cane."
-      ]
+      ],
+      "found": "?"
     },
     "Party Of One": {
       "difficulty": "Easy",
       "note": [
         "Craft and Eat a Cake."
-      ]
+      ],
+      "found": "?"
     },
     "Moral Support": {
       "difficulty": "Easy",
       "note": [
         "Say 'Help Wizardman' next to Wizardman NPC found in the rift."
-      ]
+      ],
+      "found": "?"
     },
     "Bad Cleric": {
       "difficulty": "Easy",
       "note": [
         "Kill 250 Zombie Villagers."
-      ]
+      ],
+      "found": "?"
     }
   }
 }
