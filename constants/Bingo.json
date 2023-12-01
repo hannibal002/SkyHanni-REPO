@@ -36,7 +36,7 @@
       "note": [
         "Collect 200,000 Sugar Cane."
       ],
-      "found": "?"
+      "found": "LincXS"
     },
     "Party Of One": {
       "difficulty": "Easy",
@@ -57,7 +57,7 @@
       "note": [
         "Kill 250 Zombie Villagers."
       ],
-      "found": "?"
+      "found": "CookieLuvsFlurea"
     },
     "Betrayal": {
       "difficulty": "Easy",
@@ -90,6 +90,14 @@
         "Isles."
       ],
       "found": "Xaw"
+    },
+    "Getting A Boost": {
+      "difficulty": "Medium",
+      "note": [
+        "Get potions from Alixer 25",
+        "times."
+      ],
+      "found": "Benane"
     }
   }
 }
