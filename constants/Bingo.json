@@ -98,6 +98,14 @@
         "times."
       ],
       "found": "Benane"
+    },
+    "Soft Pork": {
+      "difficulty": "Medium",
+      "note": [
+        "Kill a pig with a Pig Axe that",
+        "is enchanted with Silk Touch."
+      ],
+      "found": "Pigical"
     }
   }
 }
