@@ -9,7 +9,7 @@
     "The Beginning (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Breaking any log with your fist."
+        "Breaking logs with your fist."
       ]
     },
     "Grinding Away (Community Goal)": {
@@ -21,14 +21,14 @@
     "A Howl Lotta Kills (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Kill a T1 Sven Slayer Boss."
+        "Kill tier 1 Sven slayer bosses."
       ],
       "found": "Merp"
     },
     "Sunken Treasures (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Fish up coins."
+        "Fish up coin treasures."
       ]
     },
     "Sweet Collection": {
@@ -48,7 +48,9 @@
     "Moral Support": {
       "difficulty": "Easy",
       "note": [
-        "Say 'Help Wizardman' next to Wizardman NPC found in the rift."
+        "Say 'Help Wizardman' next to",
+        "the Wizardman NPC found",
+        "in the rift."
       ],
       "found": "VeganTrials"
     },
@@ -62,7 +64,7 @@
     "Betrayal": {
       "difficulty": "Easy",
       "note": [
-        "Throw an egg at a chicken whilst",
+        "Throw an egg at a chicken while",
         "wearing the chicken head."
       ],
       "found": "Medua & Diotechnon"
@@ -86,16 +88,16 @@
     "Choices, Choices...": {
       "difficulty": "Medium",
       "note": [
-        "Swap your faction in the Crimson",
-        "Isles."
+        "Swap your faction in",
+        "the Crimson Isles."
       ],
       "found": "Xaw"
     },
     "Getting A Boost": {
       "difficulty": "Medium",
       "note": [
-        "Get potions from Alixer 25",
-        "times."
+        "Get potions from Alixer",
+        "25 times."
       ],
       "found": "Benane"
     },
@@ -110,8 +112,9 @@
     "Extinguished Brilliance": {
       "difficulty": "Easy",
       "note": [
-        "Put out the fire by the Mad",
-        "Redstone Engineer."
+        "Put out the fire next to",
+        "the Mad Redstone Engineer",
+        "in the Hub."
       ],
       "found": "?"
     },
