@@ -161,6 +161,15 @@
         "a Tuxedo armor set."
       ],
       "found": "?"
+    },
+    "Therein it lies...": {
+      "difficulty": "Medium",
+      "note": [
+        "Kill 150 Cruxes.",
+        "Any of the mobs that drop",
+        "'crux' items, in the Rift."
+      ],
+      "found": "ForagerRedstone "
     }
   }
 }
