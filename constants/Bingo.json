@@ -123,6 +123,39 @@
         "Blue."
       ],
       "found": "?"
+    },
+    "A Royal Meal": {
+      "difficulty": "Easy",
+      "note": [
+        "Give 3 Green Goblin Eggs",
+        "to the Goblin King."
+      ],
+      "found": "daniflytrap"
+    },
+    "A Helping Hand": {
+      "difficulty": "Medium",
+      "note": [
+        "Place a Super Compactor 3000",
+        "inside Arthur's Wheat Minion",
+        "in the Hub."
+      ],
+      "found": "MasterTomer2003"
+    },
+    "Unseasoned Food": {
+      "difficulty": "Medium",
+      "note": [
+        "Put a Vanille Trophy Fish",
+        "in the Melancholic Viking's Furnace."
+      ],
+      "found": "?"
+    },
+    "A New Look": {
+      "difficulty": "Easy",
+      "note": [
+        "Wear a Tuxedo with a Minion Skin",
+        "on a Minion."
+      ],
+      "found": "?"
     }
   }
 }
