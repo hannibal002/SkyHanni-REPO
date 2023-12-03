@@ -86,7 +86,7 @@
       "found": "Byrules"
     },
     "Choices, Choices...": {
-      "difficulty": "Medium",
+      "difficulty": "Hard",
       "note": [
         "Swap your faction in",
         "the Crimson Isles."
@@ -94,7 +94,7 @@
       "found": "Xaw"
     },
     "Getting A Boost": {
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "note": [
         "Get potions from Alixer",
         "25 times."
@@ -169,7 +169,7 @@
         "Any of the mobs that drop",
         "'crux' items, in the Rift."
       ],
-      "found": "ForagerRedstone "
+      "found": "ForagerRedstone"
     }
   }
 }
