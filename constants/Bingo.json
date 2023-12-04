@@ -172,11 +172,19 @@
       "found": "ForagerRedstone"
     },
     "Honest Work": {
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "note": [
         "Participate without winning a",
         "medal in every type of farming",
         "contest."
+      ],
+      "found": "?"
+    },
+    "Buzzybuddy": {
+      "difficulty": "Hard",
+      "note": [
+        "Have a bee pet of at least",
+        "level 50 of each rarity."
       ],
       "found": "?"
     }
