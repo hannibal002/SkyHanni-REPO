@@ -170,6 +170,15 @@
         "'crux' items, in the Rift."
       ],
       "found": "ForagerRedstone"
+    },
+    "Honest Work": {
+      "difficulty": "Medium",
+      "note": [
+        "Participate without winning a",
+        "medal in every type of farming",
+        "contest."
+      ],
+      "found": "?"
     }
   }
 }
