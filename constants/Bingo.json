@@ -3,19 +3,19 @@
     "'Tis The Season (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Gifting gifts to other players."
+        "Give gifts to other players."
       ]
     },
     "The Beginning (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Breaking logs with your fist."
+        "Break logs with your fist."
       ]
     },
     "Grinding Away (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Cobblestone collection."
+        "Collect Cobblestone."
       ]
     },
     "A Howl Lotta Kills (Community Goal)": {
@@ -41,16 +41,16 @@
     "Party Of One": {
       "difficulty": "Easy",
       "note": [
-        "Craft and Eat a Cake."
+        "Craft and eat a cake."
       ],
       "found": "karicc"
     },
     "Moral Support": {
       "difficulty": "Easy",
       "note": [
-        "Say 'Help Wizardman' next to",
+        "Say \"Help Wizardman\" next to",
         "the Wizardman NPC found",
-        "in the rift."
+        "in the Rift."
       ],
       "found": "VeganTrials"
     },
@@ -72,15 +72,15 @@
     "High Spirits": {
       "difficulty": "Easy",
       "note": [
-        "Find 7 fairy souls above Y130 in",
-        "The Hub."
+        "Find 7 Fairy Souls above y=130 in",
+        "the Hub."
       ],
       "found": "GoldenDusk"
     },
     "Am I Forgetting Something?": {
       "difficulty": "Medium",
       "note": [
-        "Start a Dungeon Without any",
+        "Start a dungeon without any",
         "armor or pet equipped."
       ],
       "found": "Byrules"
@@ -89,7 +89,7 @@
       "difficulty": "Hard",
       "note": [
         "Swap your faction in",
-        "the Crimson Isles."
+        "the Crimson Isle."
       ],
       "found": "Xaw"
     },
@@ -139,7 +139,7 @@
       "difficulty": "Easy",
       "note": [
         "Place a Super Compactor 3000",
-        "into Arthurs's wheat minion",
+        "into Arthur's wheat minion",
         "in the Hub."
       ],
       "found": "MasterTomer2003"
@@ -165,9 +165,9 @@
     "Therein it lies...": {
       "difficulty": "Medium",
       "note": [
-        "Kill 150 Cruxes.",
-        "Any of the mobs that drop",
-        "'crux' items, in the Rift."
+        "Kill 150 Cruxes",
+        "(any of the mobs that drop",
+        "\"crux\" items in the Rift)."
       ],
       "found": "ForagerRedstone"
     },
@@ -183,7 +183,7 @@
     "Buzzybuddy": {
       "difficulty": "Hard",
       "note": [
-        "Have a bee pet of at least",
+        "Have a Bee pet of at least",
         "level 50 of each rarity."
       ],
       "found": "?"
@@ -191,8 +191,8 @@
     "Healthy Farming": {
       "difficulty": "Easy",
       "note": [
-        "Plase all of the Builder's fruit",
-        "Decoration Blocks on your",
+        "Place all of the Builder's fruit",
+        "decoration blocks on your",
         "Garden, then break them with a",
         "Sweet Axe."
       ],
