@@ -187,6 +187,16 @@
         "level 50 of each rarity."
       ],
       "found": "?"
+    },
+    "Healthy Farming": {
+      "difficulty": "Easy",
+      "note": [
+        "Plase all of the Bilder's fruit",
+        "Decoration Blocks on your",
+        "Garden, then break them with a",
+        "Sweet Axe."
+      ],
+      "found": "Cinshay"
     }
   }
 }
