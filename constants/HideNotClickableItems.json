@@ -74,7 +74,12 @@
       "Basket of Seeds",
       "Builder's Ruler",
       "Builder's Wand",
-      "Nether Wart Pouch"
+      "Greater Backpack",
+      "Jumbo Backpack",
+      "Large Backpack",
+      "Medium Backpack",
+      "Nether Wart Pouch",
+      "Small Backpack"
     ],
     "startsWith": [],
     "endsWith": [
