@@ -3,6 +3,8 @@ name: JSON Validator
 on:
   push:
     branches: [ main ]
+  pull_request_target:
+        types: [ opened, synchronize ]
 
   workflow_dispatch:
 
