@@ -1,6 +1,6 @@
 {
-  "sourceLabel": "854a1f7",
+  "sourceLabel": "6b4f42a",
   "regexes": {
-    "harp.inventory": "^Harp.*"
+    "harp.inventory": "^Harp.*_wrong"
   }
 }
