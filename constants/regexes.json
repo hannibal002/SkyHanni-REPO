@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "aff4c2a",
+  "sourceLabel": "1c1c69f",
   "regexes": {
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
     "harp.inventory": "^Harp.*"
