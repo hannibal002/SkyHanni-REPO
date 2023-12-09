@@ -1,8 +1,12 @@
 {
-  "sourceLabel": "6178599",
+  "sourceLabel": "beb9d23",
   "regexes": {
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
+    "minion.chat.upgrade": "§aYou have upgraded your Minion to Tier (?\u003ctier\u003e.*)",
+    "minion.chat.coin": "§aYou received §r§6(.*) coins§r§a!",
+    "minion.title": "Minion [^➜]",
+    "minion.item.collect": "^§aCollect All$",
     "harp.inventory": "^Harp.*"
   }
 }
