@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6489b04",
+  "sourceLabel": "61368c5",
   "regexes": {
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
@@ -7,6 +7,7 @@
     "minion.chat.coin": "§aYou received §r§6(.*) coins§r§a!",
     "minion.title": "Minion [^➜]",
     "minion.item.collect": "^§aCollect All$",
-    "harp.inventory": "^Harp.*"
+    "harp.inventory": "^Harp.*",
+    "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!"
   }
 }
