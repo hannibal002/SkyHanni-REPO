@@ -254,7 +254,8 @@
       "Zombie Miner": {
         "chat_message": "§aA Zombie Miner surfaces!",
         "fishing_experience": 770,
-        "rarity": "LEGENDARY"
+        "rarity": "LEGENDARY",
+        "rare": true
       }
     }
   },
@@ -301,11 +302,6 @@
         "fishing_experience": 12000,
         "rarity": "MYTHIC",
         "rare": true
-      },
-      "Taurus": {
-        "chat_message": "§aTaurus and his steed emerge.",
-        "fishing_experience": 9559,
-        "rarity": "LEGENDARY"
       },
       "Lord Jawbus": {
         "chat_message": "§c§lYou have angered a legendary creature... Lord Jawbus has arrived!",
