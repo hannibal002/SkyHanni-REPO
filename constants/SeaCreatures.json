@@ -86,8 +86,7 @@
       "Deep Sea Protector": {
         "chat_message": "§aYou have awoken the Deep Sea Protector, prepare for a battle!",
         "fishing_experience": 2721,
-        "rarity": "EPIC",
-        "rare": true
+        "rarity": "EPIC"
       },
       "Water Hydra": {
         "chat_message": "§aThe Water Hydra has come to test your strength.",
@@ -306,8 +305,7 @@
       "Taurus": {
         "chat_message": "§aTaurus and his steed emerge.",
         "fishing_experience": 9559,
-        "rarity": "LEGENDARY",
-        "rare": true
+        "rarity": "LEGENDARY"
       },
       "Lord Jawbus": {
         "chat_message": "§c§lYou have angered a legendary creature... Lord Jawbus has arrived!",
