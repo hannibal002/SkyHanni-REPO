@@ -302,6 +302,11 @@
         "rarity": "MYTHIC",
         "rare": true
       },
+      "Taurus": {
+        "chat_message": "§aTaurus and his steed emerge.",
+        "fishing_experience": 9559,
+        "rarity": "LEGENDARY"
+      },
       "Lord Jawbus": {
         "chat_message": "§c§lYou have angered a legendary creature... Lord Jawbus has arrived!",
         "fishing_experience": 40000,
