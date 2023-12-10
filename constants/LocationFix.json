@@ -29,6 +29,12 @@
       "b": "-435.3:115.0:-547.7",
       "island_name": "Crimson Isle",
       "real_location": "Stronghold"
+    },
+    "extendedBurningDesertArea": {
+      "a": "-445.0:80:-895.0",
+      "b": "-540.0:110:-646.0",
+      "island_name": "Crimson Isle",
+      "real_location": "Burning Desert"
     }
   }
 }
