@@ -357,7 +357,7 @@
       },
       {
         "name": "Present 5",
-        "position": "47:97:148"
+        "position": "47:99:148"
       }
     ],
     "mmlobby": [
@@ -422,6 +422,10 @@
       {
         "name": "Present 4 Entrance",
         "position": "-132:72:-4"
+      },
+      {
+        "name": "Present 36 Entrance (behind the sign)",
+        "position": "-11:63:149"
       }
     ],
     "legacylobby": [
