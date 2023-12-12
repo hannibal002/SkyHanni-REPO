@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "0c2c73f",
+  "sourceLabel": "9c3f2a1",
   "regexes": {
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
