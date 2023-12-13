@@ -194,7 +194,7 @@
     "Enchanted Brown Mushroom Block",
     "Enchanted Red Mushroom",
     "Enchanted Brown Mushroom Block",
-    "Enchanted Cocoa Bean",
+    "Enchanted Cocoa Beans",
     "Enchanted Cookie",
     "Enchanted Cactus",
     "Enchanted Cactus Green",
@@ -437,6 +437,15 @@
     "Snow Block",
     "Stone",
     "Tightly-Tied Hay Bale",
-    "Walnut"
+    "Walnut",
+    "Volcanic Rock",
+    "Winter Fragment",
+    "Cheese Fuel",
+    "Tasty Cheese",
+    "Dung",
+    "Honey Jar",
+    "Plant Matter",
+    "Jacob's Ticket",
+    "Agarimoo Tongue"
   ]
 }
