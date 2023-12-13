@@ -10,5 +10,10 @@
     "Burning": 20,
     "Fiery": 30,
     "Infernal": 40
-  }
+  },
+  "gifts": [
+    "WHITE_GIFT",
+    "GREEN_GIFT",
+    "RED_GIFT"
+  ]
 }
