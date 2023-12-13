@@ -251,8 +251,8 @@
   "WATER_CRYSTAL_HOLLOWS": {
     "chat_color": "§b",
     "sea_creatures": {
-      "Zombie Miner": {
-        "chat_message": "§aA Zombie Miner surfaces!",
+      "Abyssal Miner": {
+        "chat_message": "§aAn Abyssal Miner breaks out of the water!",
         "fishing_experience": 770,
         "rarity": "LEGENDARY",
         "rare": true
