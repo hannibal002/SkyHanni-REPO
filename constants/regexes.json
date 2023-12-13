@@ -1,6 +1,15 @@
 {
-  "sourceLabel": "a28e7e3",
+  "sourceLabel": "4c12e44",
   "regexes": {
-    "harp.inventory": "^Harp.*"
+    "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
+    "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
+    "minion.chat.upgrade": "§aYou have upgraded your Minion to Tier (?\u003ctier\u003e.*)",
+    "minion.chat.coin": "§aYou received §r§6(.*) coins§r§a!",
+    "minion.title": "Minion [^➜]",
+    "minion.item.collect": "^§aCollect All$",
+    "diana.chat.burrow.dug": "(§eYou dug out a Griffin Burrow!|§eYou finished the Griffin burrow chain!) .*",
+    "diana.chat.coins": "§6§lWow! §r§eYou dug out §r§6(?\u003ccoins\u003e.*) coins§r§e!",
+    "harp.inventory": "^Harp.*",
+    "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!"
   }
 }
