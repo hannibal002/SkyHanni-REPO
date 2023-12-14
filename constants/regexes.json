@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "ad991c1",
+  "sourceLabel": "2aa92c8",
   "regexes": {
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
@@ -9,6 +9,10 @@
     "minion.item.collect": "^§aCollect All$",
     "diana.chat.burrow.dug": "(§eYou dug out a Griffin Burrow!|§eYou finished the Griffin burrow chain!) .*",
     "diana.chat.coins": "§6§lWow! §r§eYou dug out §r§6(?\u003ccoins\u003e.*) coins§r§e!",
+    "garden.level.inventory.nextxp": ".* §e(?\u003cnextLevelExp\u003e.*)§6/.*",
+    "garden.level.inventory.overflow": ".*§r §6(?\u003coverflow\u003e.*)",
+    "garden.level.inventory.currentlevel": "Garden Level (?\u003ccurrentLevel\u003e.*)",
+    "garden.level.chat.increase": " {4}§r§8\\+§r§2(?\u003cexp\u003e.*) §r§7Garden Experience",
     "harp.inventory": "^Harp.*",
     "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!"
   }
