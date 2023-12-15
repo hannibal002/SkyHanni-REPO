@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "62d432d",
+  "sourceLabel": "17b3e23",
   "regexes": {
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
@@ -14,6 +14,7 @@
     "garden.level.inventory.currentlevel": "Garden Level (?\u003ccurrentLevel\u003e.*)",
     "garden.level.chat.increase": " {4}§r§8\\+§r§2(?\u003cexp\u003e.*) §r§7Garden Experience",
     "harp.inventory": "^Harp.*",
-    "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!"
+    "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!",
+    "event.winter.newyearcake.reminder.sidebar": "§dNew Year Event!§f (?\u003ctime\u003e.*)"
   }
 }
