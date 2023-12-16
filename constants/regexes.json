@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2eef43d",
+  "sourceLabel": "5d02781",
   "regexes": {
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
@@ -10,6 +10,12 @@
     "minion.item.collect": "^§aCollect All$",
     "diana.chat.burrow.dug": "(§eYou dug out a Griffin Burrow!|§eYou finished the Griffin burrow chain!) .*",
     "diana.chat.coins": "§6§lWow! §r§eYou dug out §r§6(?\u003ccoins\u003e.*) coins§r§e!",
+    "event.diana.mythological.tracker.minotaur": ".* §r§eYou dug out a §r§2Minotaur§r§e!",
+    "event.diana.mythological.tracker.gaiaconstruct": ".* §r§eYou dug out a §r§2Gaia Construct§r§e!",
+    "event.diana.mythological.tracker.minoschampion": ".* §r§eYou dug out a §r§2Minos Champion§r§e!",
+    "event.diana.mythological.tracker.siameselynxes": ".* §r§eYou dug out §r§2Siamese Lynxes§r§e!",
+    "event.diana.mythological.tracker.minoshunter": ".* §r§eYou dug out a §r§2Minos Hunter§r§e!",
+    "event.diana.mythological.tracker.minosinquisitor": ".* §r§eYou dug out a §r§2Minos Inquisitor§r§e!",
     "garden.level.inventory.nextxp": ".* §e(?\u003cnextLevelExp\u003e.*)§6/.*",
     "garden.level.inventory.overflow": ".*§r §6(?\u003coverflow\u003e.*)",
     "garden.level.inventory.currentlevel": ".*Garden Level (?\u003ccurrentLevel\u003e.*)",
