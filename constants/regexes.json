@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1098278",
+  "sourceLabel": "2eef43d",
   "regexes": {
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
@@ -12,7 +12,7 @@
     "diana.chat.coins": "§6§lWow! §r§eYou dug out §r§6(?\u003ccoins\u003e.*) coins§r§e!",
     "garden.level.inventory.nextxp": ".* §e(?\u003cnextLevelExp\u003e.*)§6/.*",
     "garden.level.inventory.overflow": ".*§r §6(?\u003coverflow\u003e.*)",
-    "garden.level.inventory.currentlevel": "Garden Level (?\u003ccurrentLevel\u003e.*)",
+    "garden.level.inventory.currentlevel": ".*Garden Level (?\u003ccurrentLevel\u003e.*)",
     "garden.level.chat.increase": " {4}§r§8\\+§r§2(?\u003cexp\u003e.*) §r§7Garden Experience",
     "harp.inventory": "^Harp.*",
     "garden.spray.material": "§a§lSPRAYONATOR! §r§7Your selected material is now §r§a(?\u003cspray\u003e.*)§r§7!",
