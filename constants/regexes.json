@@ -1,8 +1,9 @@
 {
-  "sourceLabel": "f2711d1",
+  "sourceLabel": "cdcc7b3",
   "regexes": {
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
+    "garden.plot.spray.target": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§7with §r§a(?\u003cspray\u003e.*)§r§7!",
     "minion.chat.upgrade": "§aYou have upgraded your Minion to Tier (?\u003ctier\u003e.*)",
     "minion.chat.coin": "§aYou received §r§6(.*) coins§r§a!",
     "minion.title": "Minion [^➜]",
@@ -14,6 +15,7 @@
     "garden.level.inventory.currentlevel": "Garden Level (?\u003ccurrentLevel\u003e.*)",
     "garden.level.chat.increase": " {4}§r§8\\+§r§2(?\u003cexp\u003e.*) §r§7Garden Experience",
     "harp.inventory": "^Harp.*",
+    "garden.spray.material": "§a§lSPRAYONATOR! §r§7Your selected material is now §r§a(?\u003cspray\u003e.*)§r§7!",
     "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!",
     "event.winter.newyearcake.reminder.sidebar": "§dNew Year Event!§f (?\u003ctime\u003e.*)"
   }
