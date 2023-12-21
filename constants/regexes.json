@@ -1,6 +1,7 @@
 {
-  "sourceLabel": "aecd189",
+  "sourceLabel": "b6d939a",
   "regexes": {
+    "data.owninventory.chat.movedsacktoinventory": "§aMoved §r§e\\d* (?\u003cname\u003e.*)§r§a from your Sacks to your inventory.",
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
     "garden.plot.spray.target": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§7with §r§a(?\u003cspray\u003e.*)§r§7!",
