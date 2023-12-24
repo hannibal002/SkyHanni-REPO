@@ -1,0 +1,3842 @@
+{
+  "reforges": {
+    "Ambered": {
+      "reforgeStone": "AMBER_MATERIAL",
+      "type": "Pickaxes",
+      "stats": {
+        "COMMON": {
+          "Mining_Speed": 25.0
+        },
+        "UNCOMMON": {
+          "Mining_Speed": 31.0
+        },
+        "RARE": {
+          "Mining_Speed": 38.0
+        },
+        "EPIC": {
+          "Mining_Speed": 46.0
+        },
+        "LEGENDARY": {
+          "Mining_Speed": 55.0
+        },
+        "MYTHIC": {
+          "Mining_Speed": 65.0
+        },
+        "DIVINE": {
+          "Mining_Speed": 75.0
+        }
+      }
+    },
+    "Ancient": {
+      "reforgeStone": "PRECURSOR_GEAR",
+      "type": "Armor",
+      "extraProperty": "§f Grants §9+1 §9☠ Crit Damage§f per Catacombs level.",
+      "stats": {
+        "COMMON": {
+          "Health": 7.0,
+          "Defense": 7.0,
+          "Strength": 4.0,
+          "Intelligence": 6.0,
+          "Crit_Chance": 3.0
+        },
+        "UNCOMMON": {
+          "Health": 7.0,
+          "Defense": 7.0,
+          "Strength": 8.0,
+          "Intelligence": 9.0,
+          "Crit_Chance": 5.0
+        },
+        "RARE": {
+          "Health": 7.0,
+          "Defense": 7.0,
+          "Strength": 12.0,
+          "Intelligence": 12.0,
+          "Crit_Chance": 7.0
+        },
+        "EPIC": {
+          "Health": 7.0,
+          "Defense": 7.0,
+          "Strength": 18.0,
+          "Intelligence": 16.0,
+          "Crit_Chance": 9.0
+        },
+        "LEGENDARY": {
+          "Health": 7.0,
+          "Defense": 7.0,
+          "Strength": 25.0,
+          "Intelligence": 20.0,
+          "Crit_Chance": 12.0
+        },
+        "MYTHIC": {
+          "Health": 7.0,
+          "Defense": 7.0,
+          "Strength": 35.0,
+          "Intelligence": 25.0,
+          "Crit_Chance": 15.0
+        }
+      }
+    },
+    "Astute": {
+      "type": "Equipment",
+      "stats": {
+        "COMMON": {
+          "Health": 1.0,
+          "Defense": 1.0,
+          "Intelligence": 3.0
+        },
+        "UNCOMMON": {
+          "Health": 1.0,
+          "Defense": 2.0,
+          "Intelligence": 4.0
+        },
+        "RARE": {
+          "Health": 2.0,
+          "Defense": 2.0,
+          "Intelligence": 5.0
+        },
+        "EPIC": {
+          "Health": 3.0,
+          "Defense": 3.0,
+          "Intelligence": 6.0
+        },
+        "LEGENDARY": {
+          "Health": 4.0,
+          "Defense": 4.0,
+          "Intelligence": 8.0
+        },
+        "MYTHIC": {
+          "Health": 5.0,
+          "Defense": 5.0,
+          "Intelligence": 10.0
+        }
+      }
+    },
+    "Auspicious": {
+      "reforgeStone": "ROCK_GEMSTONE",
+      "type": "Pickaxes",
+      "stats": {
+        "COMMON": {
+          "Mining_Speed": 7.0,
+          "Mining_Fortune": 8.0
+        },
+        "UNCOMMON": {
+          "Mining_Speed": 14.0,
+          "Mining_Fortune": 8.0
+        },
+        "RARE": {
+          "Mining_Speed": 23.0,
+          "Mining_Fortune": 8.0
+        },
+        "EPIC": {
+          "Mining_Speed": 34.0,
+          "Mining_Fortune": 8.0
+        },
+        "LEGENDARY": {
+          "Mining_Speed": 45.0,
+          "Mining_Fortune": 8.0
+        },
+        "MYTHIC": {
+          "Mining_Speed": 60.0,
+          "Mining_Fortune": 8.0
+        },
+        "DIVINE": {
+          "Mining_Speed": 75.0,
+          "Mining_Fortune": 8.0
+        }
+      }
+    },
+    "Awkward": {
+      "type": "Bows",
+      "stats": {
+        "COMMON": {
+          "Intelligence": -5.0,
+          "Crit_Damage": 5.0,
+          "Crit_Chance": 10.0
+        },
+        "UNCOMMON": {
+          "Intelligence": -10.0,
+          "Crit_Damage": 10.0,
+          "Crit_Chance": 12.0
+        },
+        "RARE": {
+          "Intelligence": -18.0,
+          "Crit_Damage": 15.0,
+          "Crit_Chance": 15.0
+        },
+        "EPIC": {
+          "Intelligence": -32.0,
+          "Crit_Damage": 22.0,
+          "Crit_Chance": 20.0
+        },
+        "LEGENDARY": {
+          "Intelligence": -50.0,
+          "Crit_Damage": 30.0,
+          "Crit_Chance": 25.0
+        },
+        "MYTHIC": {
+          "Intelligence": -72.0,
+          "Crit_Damage": 35.0,
+          "Crit_Chance": 30.0
+        }
+      }
+    },
+    "Beady": {
+      "reforgeStone": "BEADY_EYES",
+      "type": "Vacuums",
+      "extraProperty": "§6Pests§f drop §a+3§f crops.",
+      "stats": {
+        "COMMON": {
+          "Damage": 5.0,
+          "Intelligence": 10.0
+        },
+        "UNCOMMON": {
+          "Damage": 10.0,
+          "Intelligence": 20.0
+        },
+        "RARE": {
+          "Damage": 15.0,
+          "Intelligence": 30.0
+        },
+        "EPIC": {
+          "Damage": 20.0,
+          "Intelligence": 40.0
+        },
+        "LEGENDARY": {
+          "Damage": 25.0,
+          "Intelligence": 50.0
+        },
+        "MYTHIC": {
+          "Damage": 30.0,
+          "Intelligence": 60.0
+        }
+      }
+    },
+    "Blended": {
+      "type": "Equipment",
+      "stats": {
+        "COMMON": {
+          "Health": 1.0,
+          "Defense": 1.0,
+          "Strength": 0.0,
+          "Intelligence": 1.0,
+          "Crit_Damage": 1.0,
+          "Crit_Chance": 1.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        },
+        "UNCOMMON": {
+          "Health": 1.0,
+          "Defense": 1.0,
+          "Strength": 1.0,
+          "Intelligence": 1.0,
+          "Crit_Damage": 2.0,
+          "Crit_Chance": 1.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        },
+        "RARE": {
+          "Health": 2.0,
+          "Defense": 1.0,
+          "Strength": 1.0,
+          "Intelligence": 1.0,
+          "Crit_Damage": 2.0,
+          "Crit_Chance": 2.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        },
+        "EPIC": {
+          "Health": 2.0,
+          "Defense": 2.0,
+          "Strength": 2.0,
+          "Intelligence": 2.0,
+          "Crit_Damage": 2.0,
+          "Crit_Chance": 2.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        },
+        "LEGENDARY": {
+          "Health": 2.0,
+          "Defense": 3.0,
+          "Strength": 2.0,
+          "Intelligence": 2.0,
+          "Crit_Damage": 2.0,
+          "Crit_Chance": 3.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        },
+        "MYTHIC": {
+          "Health": 3.0,
+          "Defense": 3.0,
+          "Strength": 2.0,
+          "Intelligence": 3.0,
+          "Crit_Damage": 2.0,
+          "Crit_Chance": 3.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        }
+      }
+    },
+    "Blessed": {
+      "reforgeStone": "BLESSED_FRUIT",
+      "type": "HoesAndAxes",
+      "stats": {
+        "COMMON": {
+          "Speed": 5.0,
+          "Farming_Wisdom": 1.0,
+          "Farming_Fortune": 5.0
+        },
+        "UNCOMMON": {
+          "Speed": 7.0,
+          "Farming_Wisdom": 2.0,
+          "Farming_Fortune": 7.0
+        },
+        "RARE": {
+          "Speed": 9.0,
+          "Farming_Wisdom": 3.0,
+          "Farming_Fortune": 9.0
+        },
+        "EPIC": {
+          "Speed": 13.0,
+          "Farming_Wisdom": 4.0,
+          "Farming_Fortune": 13.0
+        },
+        "LEGENDARY": {
+          "Speed": 16.0,
+          "Farming_Wisdom": 5.0,
+          "Farming_Fortune": 16.0
+        },
+        "MYTHIC": {
+          "Speed": 20.0,
+          "Farming_Wisdom": 6.0,
+          "Farming_Fortune": 20.0
+        }
+      }
+    },
+    "Blood-Soaked": {
+      "reforgeStone": "PRESUMED_GALLON_OF_RED_PAINT",
+      "type": "Cloaks",
+      "extraProperty": "§fHeal §a1.15x§f more from Vampirism and Lifesteal",
+      "stats": {
+        "COMMON": {
+          "Health": 6.0,
+          "Defense": 1.0,
+          "Vitality": 1.0
+        },
+        "UNCOMMON": {
+          "Health": 8.0,
+          "Defense": 2.0,
+          "Vitality": 1.0
+        },
+        "RARE": {
+          "Health": 8.0,
+          "Defense": 3.0,
+          "Vitality": 2.0
+        },
+        "EPIC": {
+          "Health": 9.0,
+          "Defense": 4.0,
+          "Vitality": 2.0
+        },
+        "LEGENDARY": {
+          "Health": 10.0,
+          "Defense": 5.0,
+          "Vitality": 3.0
+        },
+        "MYTHIC": {
+          "Health": 12.0,
+          "Defense": 6.0,
+          "Vitality": 3.0
+        },
+        "DIVINE": {
+          "Health": 14.0,
+          "Defense": 7.0,
+          "Vitality": 4.0
+        }
+      }
+    },
+    "Blooming": {
+      "reforgeStone": "FLOWERING_BOUQUET",
+      "type": "Equipment",
+      "stats": {
+        "COMMON": {
+          "Speed": 4.0,
+          "Farming_Fortune": 1.0
+        },
+        "UNCOMMON": {
+          "Speed": 4.0,
+          "Farming_Fortune": 2.0
+        },
+        "RARE": {
+          "Speed": 5.0,
+          "Farming_Fortune": 3.0
+        },
+        "EPIC": {
+          "Speed": 5.0,
+          "Farming_Fortune": 4.0
+        },
+        "LEGENDARY": {
+          "Speed": 6.0,
+          "Farming_Fortune": 5.0
+        },
+        "MYTHIC": {
+          "Speed": 6.0,
+          "Farming_Fortune": 6.0
+        }
+      }
+    },
+    "Bountiful": {
+      "reforgeStone": "GOLDEN_BALL",
+      "type": "Hoes",
+      "extraProperty": "§fGrants §6+0.2 Coins§f per crop dorpped.",
+      "stats": {
+        "COMMON": {
+          "Speed": 1.0,
+          "Farming_Fortune": 1.0
+        },
+        "UNCOMMON": {
+          "Speed": 2.0,
+          "Farming_Fortune": 2.0
+        },
+        "RARE": {
+          "Speed": 3.0,
+          "Farming_Fortune": 3.0
+        },
+        "EPIC": {
+          "Speed": 5.0,
+          "Farming_Fortune": 5.0
+        },
+        "LEGENDARY": {
+          "Speed": 8.0,
+          "Farming_Fortune": 7.0
+        },
+        "MYTHIC": {
+          "Speed": 13.0,
+          "Farming_Fortune": 10.0
+        }
+      }
+    },
+    "Brilliant": {
+      "type": "Equipment",
+      "stats": {
+        "COMMON": {
+          "Health": 1.0,
+          "Intelligence": 5.0,
+          "Speed": 1.0
+        },
+        "UNCOMMON": {
+          "Health": 1.0,
+          "Intelligence": 6.0,
+          "Speed": 1.0
+        },
+        "RARE": {
+          "Health": 2.0,
+          "Intelligence": 7.0,
+          "Speed": 2.0
+        },
+        "EPIC": {
+          "Health": 3.0,
+          "Intelligence": 9.0,
+          "Speed": 2.0
+        },
+        "LEGENDARY": {
+          "Health": 4.0,
+          "Intelligence": 12.0,
+          "Speed": 2.0
+        },
+        "MYTHIC": {
+          "Health": 5.0,
+          "Intelligence": 15.0,
+          "Speed": 2.0
+        }
+      }
+    },
+    "Bulky": {
+      "reforgeStone": "BULKY_STONE",
+      "type": "Swords",
+      "stats": {
+        "COMMON": {
+          "Health": 4.0,
+          "Defense": 2.0
+        },
+        "UNCOMMON": {
+          "Health": 6.0,
+          "Defense": 3.0
+        },
+        "RARE": {
+          "Health": 9.0,
+          "Defense": 5.0
+        },
+        "EPIC": {
+          "Health": 12.0,
+          "Defense": 8.0
+        },
+        "LEGENDARY": {
+          "Health": 15.0,
+          "Defense": 13.0
+        },
+        "MYTHIC": {
+          "Health": 20.0,
+          "Defense": 21.0
+        }
+      }
+    },
+    "Bustling": {
+      "reforgeStone": "SKYMART_BROCHURE",
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Farming_Fortune": 1.0
+        },
+        "UNCOMMON": {
+          "Farming_Fortune": 2.0
+        },
+        "RARE": {
+          "Farming_Fortune": 4.0
+        },
+        "EPIC": {
+          "Farming_Fortune": 6.0
+        },
+        "LEGENDARY": {
+          "Farming_Fortune": 8.0
+        },
+        "MYTHIC": {
+          "Farming_Fortune": 10.0
+        }
+      }
+    },
+    "Buzzing": {
+      "reforgeStone": "CLIPPED_WINGS",
+      "type": "Vacuums",
+      "extraProperty": "§fDoubles the §c❁ Damage§f dealt by §aVacuums§f.",
+      "stats": {
+        "COMMON": {
+          "Speed": 3.0
+        },
+        "UNCOMMON": {
+          "Speed": 4.0
+        },
+        "RARE": {
+          "Speed": 5.0
+        },
+        "EPIC": {
+          "Speed": 7.0
+        },
+        "LEGENDARY": {
+          "Speed": 10.0
+        },
+        "MYTHIC": {
+          "Speed": 15.0
+        }
+      }
+    },
+    "Candied": {
+      "reforgeStone": "CANDY_CORN",
+      "type": "Armor",
+      "extraProperty": "§fIncreases the chance to find candy during the §6Spooky Festival§f by §a+1%§f.",
+      "stats": {
+        "COMMON": {
+          "Health": 1.0,
+          "Defense": 1.0
+        },
+        "UNCOMMON": {
+          "Health": 2.0,
+          "Defense": 1.0
+        },
+        "RARE": {
+          "Health": 4.0,
+          "Defense": 2.0
+        },
+        "EPIC": {
+          "Health": 6.0,
+          "Defense": 3.0
+        },
+        "LEGENDARY": {
+          "Health": 8.0,
+          "Defense": 4.0
+        },
+        "MYTHIC": {
+          "Health": 10.0,
+          "Defense": 5.0
+        }
+      }
+    },
+    "Chomp": {
+      "reforgeStone": "KUUDRA_MANDIBLE",
+      "type": "FishingRods",
+      "extraProperty": "§fDecreases the health of Lava Sea Creatures by §c1%§f for each unique Lava Sea Creature you have killed with this rod in your inventory",
+      "stats": {
+        "COMMON": {
+          "Strength": 5.0,
+          "Crit_Chance": 5.0,
+          "Fishing_Speed": 2.0
+        },
+        "UNCOMMON": {
+          "Strength": 10.0,
+          "Crit_Chance": 10.0,
+          "Fishing_Speed": 3.0
+        },
+        "RARE": {
+          "Strength": 17.0,
+          "Crit_Chance": 17.0,
+          "Fishing_Speed": 5.0
+        },
+        "EPIC": {
+          "Strength": 25.0,
+          "Crit_Chance": 25.0,
+          "Fishing_Speed": 7.0
+        },
+        "LEGENDARY": {
+          "Strength": 35.0,
+          "Crit_Chance": 35.0,
+          "Fishing_Speed": 9.0
+        },
+        "MYTHIC": {
+          "Strength": 50.0,
+          "Crit_Chance": 50.0,
+          "Fishing_Speed": 11.0
+        }
+      }
+    },
+    "Clean": {
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Health": 5.0,
+          "Defense": 5.0,
+          "Crit_Chance": 2.0
+        },
+        "UNCOMMON": {
+          "Health": 7.0,
+          "Defense": 7.0,
+          "Crit_Chance": 4.0
+        },
+        "RARE": {
+          "Health": 10.0,
+          "Defense": 10.0,
+          "Crit_Chance": 6.0
+        },
+        "EPIC": {
+          "Health": 15.0,
+          "Defense": 15.0,
+          "Crit_Chance": 8.0
+        },
+        "LEGENDARY": {
+          "Health": 20.0,
+          "Defense": 20.0,
+          "Crit_Chance": 10.0
+        },
+        "MYTHIC": {
+          "Health": 25.0,
+          "Defense": 25.0,
+          "Crit_Chance": 12.0
+        }
+      }
+    },
+    "Coldfused": {
+      "reforgeStone": "ENTROPY_SUPPRESSOR",
+      "type": "SpecialItems",
+      "specialItems": [
+        "FIREDUST_DAGGER",
+        "KINDLEBANE_DAGGER",
+        "MAWDREDGE_DAGGER",
+        "PYROCHAOS_DAGGER",
+        "TWILIGHT_DAGGER",
+        "DEATHRIPPER_DAGGER"
+      ],
+      "extraProperty": "$7Only if Wisp is equipped\n§c+75§c❁ Strength\n§9+55 §9☠ Crit Damage\n§fDeal §62x§f to fire pillars, breaking one grants +30 §7❂ True Defence and §c+1.15x damage§f for §a60s§f.",
+      "stats": {
+        "COMMON": {
+          "Strength": 15.0,
+          "Crit_Damage": 20.0,
+          "Magic_Find": 2.0
+        },
+        "UNCOMMON": {
+          "Strength": 20.0,
+          "Crit_Damage": 30.0,
+          "Magic_Find": 2.0
+        },
+        "RARE": {
+          "Strength": 25.0,
+          "Crit_Damage": 40.0,
+          "Magic_Find": 2.0
+        },
+        "EPIC": {
+          "Strength": 35.0,
+          "Crit_Damage": 50.0,
+          "Magic_Find": 2.0
+        },
+        "LEGENDARY": {
+          "Strength": 45.0,
+          "Crit_Damage": 60.0,
+          "Magic_Find": 2.0
+        },
+        "MYTHIC": {
+          "Strength": 55.0,
+          "Crit_Damage": 75.0,
+          "Magic_Find": 2.0
+        }
+      }
+    },
+    "Colossal": {
+      "type": "Equipment",
+      "stats": {
+        "COMMON": {
+          "Health": 3.0,
+          "Defense": 3.0
+        },
+        "UNCOMMON": {
+          "Health": 4.0,
+          "Defense": 4.0
+        },
+        "RARE": {
+          "Health": 6.0,
+          "Defense": 6.0
+        },
+        "EPIC": {
+          "Health": 8.0,
+          "Defense": 8.0
+        },
+        "LEGENDARY": {
+          "Health": 10.0,
+          "Defense": 10.0
+        },
+        "MYTHIC": {
+          "Health": 12.0,
+          "Defense": 12.0
+        }
+      }
+    },
+    "Cubic": {
+      "reforgeStone": "MOLTEN_CUBE",
+      "type": "Armor",
+      "extraProperty": "§Decreases damage taken from Nether mobs by §a2%§f.",
+      "stats": {
+        "COMMON": {
+          "Health": 5.0,
+          "Strength": 3.0
+        },
+        "UNCOMMON": {
+          "Health": 7.0,
+          "Strength": 5.0
+        },
+        "RARE": {
+          "Health": 10.0,
+          "Strength": 7.0
+        },
+        "EPIC": {
+          "Health": 15.0,
+          "Strength": 10.0
+        },
+        "LEGENDARY": {
+          "Health": 20.0,
+          "Strength": 12.0
+        },
+        "MYTHIC": {
+          "Health": 25.0,
+          "Strength": 15.0
+        }
+      }
+    },
+    "Deadly": {
+      "type": "Bows",
+      "stats": {
+        "COMMON": {
+          "Crit_Damage": 5.0,
+          "Crit_Chance": 10.0
+        },
+        "UNCOMMON": {
+          "Crit_Damage": 10.0,
+          "Crit_Chance": 13.0
+        },
+        "RARE": {
+          "Crit_Damage": 18.0,
+          "Crit_Chance": 16.0
+        },
+        "EPIC": {
+          "Crit_Damage": 32.0,
+          "Crit_Chance": 19.0
+        },
+        "LEGENDARY": {
+          "Crit_Damage": 50.0,
+          "Crit_Chance": 22.0
+        },
+        "MYTHIC": {
+          "Crit_Damage": 78.0,
+          "Crit_Chance": 25.0
+        }
+      }
+    },
+    "Dirty": {
+      "reforgeStone": "DIRT_BOTTLE",
+      "type": "FishingRodsAndSwords",
+      "stats": {
+        "COMMON": {
+          "Strength": 2.0,
+          "Ferocity": 2.0,
+          "Bonus_Attack_Speed": 2.0
+        },
+        "UNCOMMON": {
+          "Strength": 4.0,
+          "Ferocity": 3.0,
+          "Bonus_Attack_Speed": 3.0
+        },
+        "RARE": {
+          "Strength": 6.0,
+          "Ferocity": 6.0,
+          "Bonus_Attack_Speed": 5.0
+        },
+        "EPIC": {
+          "Strength": 10.0,
+          "Ferocity": 9.0,
+          "Bonus_Attack_Speed": 10.0
+        },
+        "LEGENDARY": {
+          "Strength": 12.0,
+          "Ferocity": 12.0,
+          "Bonus_Attack_Speed": 15.0
+        },
+        "MYTHIC": {
+          "Strength": 15.0,
+          "Ferocity": 15.0,
+          "Bonus_Attack_Speed": 20.0
+        }
+      }
+    },
+    "Double-Bit": {
+      "type": "Axes",
+      "stats": {
+        "COMMON": {
+          "Speed": 1.0,
+          "Foraging_Fortune": 1.0
+        },
+        "UNCOMMON": {
+          "Speed": 2.0,
+          "Foraging_Fortune": 2.0
+        },
+        "RARE": {
+          "Speed": 2.0,
+          "Foraging_Fortune": 3.0
+        },
+        "EPIC": {
+          "Speed": 3.0,
+          "Foraging_Fortune": 4.0
+        },
+        "LEGENDARY": {
+          "Speed": 5.0,
+          "Foraging_Fortune": 5.0
+        },
+        "MYTHIC": {
+          "Speed": 7.0,
+          "Foraging_Fortune": 6.0
+        }
+      }
+    },
+    "Earthy": {
+      "reforgeStone": "LARGE_WALNUT",
+      "type": "Axes",
+      "stats": {
+        "COMMON": {
+          "Speed": 1.0,
+          "Farming_Fortune": 2.0
+        },
+        "UNCOMMON": {
+          "Speed": 1.0,
+          "Farming_Fortune": 4.0
+        },
+        "RARE": {
+          "Speed": 1.0,
+          "Farming_Fortune": 6.0
+        },
+        "EPIC": {
+          "Speed": 1.0,
+          "Farming_Fortune": 8.0
+        },
+        "LEGENDARY": {
+          "Speed": 1.0,
+          "Farming_Fortune": 10.0
+        },
+        "MYTHIC": {
+          "Speed": 1.0,
+          "Farming_Fortune": 12.0
+        }
+      }
+    },
+    "Empowered": {
+      "reforgeStone": "SADAN\u0027S_BROOCH",
+      "type": "Armor",
+      "extraProperty": "§Grants §a+10 §a☄ Mending§f while in Dungeons, which increases your healing on others.",
+      "stats": {
+        "COMMON": {
+          "Health": 10.0,
+          "Defense": 10.0
+        },
+        "UNCOMMON": {
+          "Health": 15.0,
+          "Defense": 15.0
+        },
+        "RARE": {
+          "Health": 20.0,
+          "Defense": 20.0
+        },
+        "EPIC": {
+          "Health": 25.0,
+          "Defense": 25.0
+        },
+        "LEGENDARY": {
+          "Health": 35.0,
+          "Defense": 35.0
+        },
+        "MYTHIC": {
+          "Health": 50.0,
+          "Defense": 50.0
+        }
+      }
+    },
+    "Epic": {
+      "type": "FishingRodsAndSwords",
+      "stats": {
+        "COMMON": {
+          "Strength": 15.0,
+          "Crit_Damage": 10.0,
+          "Bonus_Attack_Speed": 1.0
+        },
+        "UNCOMMON": {
+          "Strength": 20.0,
+          "Crit_Damage": 15.0,
+          "Bonus_Attack_Speed": 2.0
+        },
+        "RARE": {
+          "Strength": 25.0,
+          "Crit_Damage": 20.0,
+          "Bonus_Attack_Speed": 4.0
+        },
+        "EPIC": {
+          "Strength": 32.0,
+          "Crit_Damage": 27.0,
+          "Bonus_Attack_Speed": 7.0
+        },
+        "LEGENDARY": {
+          "Strength": 40.0,
+          "Crit_Damage": 35.0,
+          "Bonus_Attack_Speed": 10.0
+        },
+        "MYTHIC": {
+          "Strength": 50.0,
+          "Crit_Damage": 45.0,
+          "Bonus_Attack_Speed": 15.0
+        }
+      }
+    },
+    "Excellent": {
+      "type": "Pickaxes",
+      "stats": {
+        "COMMON": {
+          "Speed": 1.0,
+          "Mining_Speed": 4.0
+        },
+        "UNCOMMON": {
+          "Speed": 2.0,
+          "Mining_Speed": 8.0
+        },
+        "RARE": {
+          "Speed": 3.0,
+          "Mining_Speed": 12.0
+        },
+        "EPIC": {
+          "Speed": 4.0,
+          "Mining_Speed": 16.0
+        },
+        "LEGENDARY": {
+          "Speed": 5.0,
+          "Mining_Speed": 20.0
+        },
+        "MYTHIC": {
+          "Speed": 7.0,
+          "Mining_Speed": 25.0
+        }
+      }
+    },
+    "Fabled": {
+      "reforgeStone": "DRAGON_CLAW",
+      "type": "Swords",
+      "extraProperty": "§fCritical hits hava a chance to deal up to §a+15%§f extra damage.",
+      "stats": {
+        "COMMON": {
+          "Strength": 30.0,
+          "Crit_Damage": 15.0
+        },
+        "UNCOMMON": {
+          "Strength": 35.0,
+          "Crit_Damage": 20.0
+        },
+        "RARE": {
+          "Strength": 40.0,
+          "Crit_Damage": 25.0
+        },
+        "EPIC": {
+          "Strength": 50.0,
+          "Crit_Damage": 32.0
+        },
+        "LEGENDARY": {
+          "Strength": 60.0,
+          "Crit_Damage": 40.0
+        },
+        "MYTHIC": {
+          "Strength": 75.0,
+          "Crit_Damage": 50.0
+        }
+      }
+    },
+    "Fair": {
+      "type": "FishingRodsAndSwords",
+      "stats": {
+        "COMMON": {
+          "Strength": 2.0,
+          "Intelligence": 2.0,
+          "Crit_Damage": 2.0,
+          "Crit_Chance": 2.0,
+          "Bonus_Attack_Speed": 2.0
+        },
+        "UNCOMMON": {
+          "Strength": 3.0,
+          "Intelligence": 3.0,
+          "Crit_Damage": 3.0,
+          "Crit_Chance": 3.0,
+          "Bonus_Attack_Speed": 3.0
+        },
+        "RARE": {
+          "Strength": 4.0,
+          "Intelligence": 4.0,
+          "Crit_Damage": 4.0,
+          "Crit_Chance": 4.0,
+          "Bonus_Attack_Speed": 4.0
+        },
+        "EPIC": {
+          "Strength": 7.0,
+          "Intelligence": 7.0,
+          "Crit_Damage": 7.0,
+          "Crit_Chance": 7.0,
+          "Bonus_Attack_Speed": 7.0
+        },
+        "LEGENDARY": {
+          "Strength": 10.0,
+          "Intelligence": 10.0,
+          "Crit_Damage": 10.0,
+          "Crit_Chance": 10.0,
+          "Bonus_Attack_Speed": 10.0
+        },
+        "MYTHIC": {
+          "Strength": 12.0,
+          "Intelligence": 12.0,
+          "Crit_Damage": 12.0,
+          "Crit_Chance": 12.0,
+          "Bonus_Attack_Speed": 12.0
+        }
+      }
+    },
+    "Fanged": {
+      "reforgeStone": "FULL-JAW_FANGING_KIT",
+      "type": "SpecialItems",
+      "specialItems": [
+        "IRON_SWORD",
+        "HUNTER_KNIFE",
+        "FLAMING_SWORD",
+        "SQUIRE_SWORD",
+        "UNDEAD_SWORD",
+        "SPIDER_SWORD",
+        "GOLEM_SWORD",
+        "ZOMBIE_SWORD",
+        "YETI_SWORD",
+        "BLADE_OF_THE_VOLACNO",
+        "RECLUSE_FANG",
+        "SHAMAN_SWORD",
+        "VOIDWALKER_KATANA",
+        "TWILIGHT_DAGGER",
+        "MAWDREDGE_DAGGER",
+        "DEATHRIPPER_DAGGER",
+        "DREADLORD_SWORD",
+        "ZOMBIE_KNIGHT_SWORD",
+        "ZOMBIE_SOLDIER_CUTLASS",
+        "SLIENT_DEATH",
+        "SPIRIT_SWORD",
+        "LIVID_DAGGER",
+        "GIANT_SWORD",
+        "NECROMANCER_SWORD",
+        "NECRON\u0027S_BLADE_(UNREFINED)",
+        "VALKYRIE",
+        "HYPERION",
+        "SCYLLA",
+        "ASTRAEA"
+      ],
+      "extraProperty": "§fEvery §c7th§f melee hit on an enemy deals §c+100%§f damage.",
+      "stats": {
+        "COMMON": {
+          "Strength": 30.0,
+          "Crit_Chance": 3.0,
+          "Bonus_Attack_Speed": 2.0
+        },
+        "UNCOMMON": {
+          "Strength": 35.0,
+          "Crit_Chance": 4.0,
+          "Bonus_Attack_Speed": 3.0
+        },
+        "RARE": {
+          "Strength": 40.0,
+          "Crit_Chance": 5.0,
+          "Bonus_Attack_Speed": 4.0
+        },
+        "EPIC": {
+          "Strength": 50.0,
+          "Crit_Chance": 7.0,
+          "Bonus_Attack_Speed": 6.0
+        },
+        "LEGENDARY": {
+          "Strength": 60.0,
+          "Crit_Chance": 8.0,
+          "Bonus_Attack_Speed": 9.0
+        },
+        "MYTHIC": {
+          "Strength": 65.0,
+          "Crit_Chance": 10.0,
+          "Bonus_Attack_Speed": 10.0
+        }
+      }
+    },
+    "Fast": {
+      "type": "FishingRodsAndSwords",
+      "stats": {
+        "COMMON": {
+          "Bonus_Attack_Speed": 10.0
+        },
+        "UNCOMMON": {
+          "Bonus_Attack_Speed": 20.0
+        },
+        "RARE": {
+          "Bonus_Attack_Speed": 30.0
+        },
+        "EPIC": {
+          "Bonus_Attack_Speed": 40.0
+        },
+        "LEGENDARY": {
+          "Bonus_Attack_Speed": 50.0
+        },
+        "MYTHIC": {
+          "Bonus_Attack_Speed": 60.0
+        }
+      }
+    },
+    "Festive": {
+      "reforgeStone": "FROZEN_BAUBLE",
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Intelligence": 5.0,
+          "Sea_Creature_Chance": 0.05,
+          "Fishing_Speed": 2.0
+        },
+        "UNCOMMON": {
+          "Intelligence": 10.0,
+          "Sea_Creature_Chance": 0.05,
+          "Fishing_Speed": 3.0
+        },
+        "RARE": {
+          "Intelligence": 15.0,
+          "Sea_Creature_Chance": 0.1,
+          "Fishing_Speed": 4.0
+        },
+        "EPIC": {
+          "Intelligence": 20.0,
+          "Sea_Creature_Chance": 0.15,
+          "Fishing_Speed": 6.0
+        },
+        "LEGENDARY": {
+          "Intelligence": 25.0,
+          "Sea_Creature_Chance": 0.2,
+          "Fishing_Speed": 8.0
+        },
+        "MYTHIC": {
+          "Intelligence": 30.0,
+          "Sea_Creature_Chance": 0.25,
+          "Fishing_Speed": 10.0
+        }
+      }
+    },
+    "Fierce": {
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Strength": 2.0,
+          "Crit_Damage": 4.0,
+          "Crit_Chance": 2.0
+        },
+        "UNCOMMON": {
+          "Strength": 4.0,
+          "Crit_Damage": 7.0,
+          "Crit_Chance": 3.0
+        },
+        "RARE": {
+          "Strength": 6.0,
+          "Crit_Damage": 10.0,
+          "Crit_Chance": 4.0
+        },
+        "EPIC": {
+          "Strength": 8.0,
+          "Crit_Damage": 14.0,
+          "Crit_Chance": 5.0
+        },
+        "LEGENDARY": {
+          "Strength": 10.0,
+          "Crit_Damage": 18.0,
+          "Crit_Chance": 6.0
+        },
+        "MYTHIC": {
+          "Strength": 12.0,
+          "Crit_Damage": 24.0,
+          "Crit_Chance": 8.0
+        }
+      }
+    },
+    "Fine": {
+      "type": "Bows",
+      "stats": {
+        "COMMON": {
+          "Strength": 3.0,
+          "Crit_Damage": 2.0,
+          "Crit_Chance": 5.0
+        },
+        "UNCOMMON": {
+          "Strength": 7.0,
+          "Crit_Damage": 4.0,
+          "Crit_Chance": 7.0
+        },
+        "RARE": {
+          "Strength": 12.0,
+          "Crit_Damage": 7.0,
+          "Crit_Chance": 9.0
+        },
+        "EPIC": {
+          "Strength": 18.0,
+          "Crit_Damage": 10.0,
+          "Crit_Chance": 12.0
+        },
+        "LEGENDARY": {
+          "Strength": 25.0,
+          "Crit_Damage": 15.0,
+          "Crit_Chance": 15.0
+        },
+        "MYTHIC": {
+          "Strength": 33.0,
+          "Crit_Damage": 20.0,
+          "Crit_Chance": 18.0
+        }
+      }
+    },
+    "Fleet": {
+      "reforgeStone": "DIAMONITE",
+      "type": "Pickaxes",
+      "stats": {
+        "COMMON": {
+          "Mining_Speed": 9.0
+        },
+        "UNCOMMON": {
+          "Mining_Speed": 15.0
+        },
+        "RARE": {
+          "Mining_Speed": 25.0
+        },
+        "EPIC": {
+          "Mining_Speed": 40.0
+        },
+        "LEGENDARY": {
+          "Mining_Speed": 55.0
+        },
+        "MYTHIC": {
+          "Mining_Speed": 75.0
+        },
+        "DIVINE": {
+          "Mining_Speed": 90.0
+        }
+      }
+    },
+    "Fortified": {
+      "reforgeStone": "METEOR_SHARD",
+      "type": "Equipment",
+      "stats": {
+        "COMMON": {
+          "Defense": 12.0
+        },
+        "UNCOMMON": {
+          "Defense": 14.0
+        },
+        "RARE": {
+          "Defense": 17.0
+        },
+        "EPIC": {
+          "Defense": 20.0
+        },
+        "LEGENDARY": {
+          "Defense": 25.0
+        },
+        "MYTHIC": {
+          "Defense": 30.0
+        },
+        "DIVINE": {
+          "Defense": 36.0
+        }
+      }
+    },
+    "Fortunate": {
+      "type": "Pickaxes",
+      "stats": {
+        "COMMON": {
+          "Mining_Speed": 1.0,
+          "Mining_Fortune": 1.0
+        },
+        "UNCOMMON": {
+          "Mining_Speed": 2.0,
+          "Mining_Fortune": 1.0
+        },
+        "RARE": {
+          "Mining_Speed": 3.0,
+          "Mining_Fortune": 1.0
+        },
+        "EPIC": {
+          "Mining_Speed": 4.0,
+          "Mining_Fortune": 2.0
+        },
+        "LEGENDARY": {
+          "Mining_Speed": 6.0,
+          "Mining_Fortune": 2.0
+        },
+        "MYTHIC": {
+          "Mining_Speed": 8.0,
+          "Mining_Fortune": 3.0
+        }
+      }
+    },
+    "Fruitful": {
+      "reforgeStone": "ONYX",
+      "type": "Pickaxes",
+      "stats": {
+        "COMMON": {
+          "Defense": 3.0,
+          "Intelligence": 1.0,
+          "Mining_Fortune": 3.0
+        },
+        "UNCOMMON": {
+          "Defense": 4.0,
+          "Intelligence": 1.0,
+          "Mining_Fortune": 3.0
+        },
+        "RARE": {
+          "Defense": 5.0,
+          "Intelligence": 1.0,
+          "Mining_Fortune": 3.0
+        },
+        "EPIC": {
+          "Defense": 7.0,
+          "Intelligence": 1.0,
+          "Mining_Fortune": 3.0
+        },
+        "LEGENDARY": {
+          "Defense": 9.0,
+          "Intelligence": 1.0,
+          "Mining_Fortune": 3.0
+        },
+        "MYTHIC": {
+          "Defense": 12.0,
+          "Intelligence": 1.0,
+          "Mining_Fortune": 3.0
+        }
+      }
+    },
+    "Gentle": {
+      "type": "FishingRodsAndSwords",
+      "stats": {
+        "COMMON": {
+          "Strength": 3.0,
+          "Bonus_Attack_Speed": 8.0
+        },
+        "UNCOMMON": {
+          "Strength": 5.0,
+          "Bonus_Attack_Speed": 10.0
+        },
+        "RARE": {
+          "Strength": 7.0,
+          "Bonus_Attack_Speed": 15.0
+        },
+        "EPIC": {
+          "Strength": 10.0,
+          "Bonus_Attack_Speed": 20.0
+        },
+        "LEGENDARY": {
+          "Strength": 15.0,
+          "Bonus_Attack_Speed": 25.0
+        },
+        "MYTHIC": {
+          "Strength": 20.0,
+          "Bonus_Attack_Speed": 30.0
+        }
+      }
+    },
+    "Giant": {
+      "reforgeStone": "GIANT_TOOTH",
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Health": 50.0
+        },
+        "UNCOMMON": {
+          "Health": 60.0
+        },
+        "RARE": {
+          "Health": 80.0
+        },
+        "EPIC": {
+          "Health": 120.0
+        },
+        "LEGENDARY": {
+          "Health": 180.0
+        },
+        "MYTHIC": {
+          "Health": 240.0
+        }
+      }
+    },
+    "Gilded": {
+      "reforgeStone": "MIDAS_JEWEL",
+      "type": "SpecialItems",
+      "specialItems": [
+        "MIDAS\u0027_SWORD",
+        "MIDAS_STAFF"
+      ],
+      "extraProperty": "§fUpon killing an enemy you have a low (§a1%§f) chance to grant a random amount of §6Coins§f to another player around you",
+      "stats": {
+        "LEGENDARY": {
+          "Damage": 75.0,
+          "Strength": 75.0,
+          "Intelligence": 350.0
+        },
+        "MYTHIC": {
+          "Damage": 90.0,
+          "Strength": 90.0,
+          "Intelligence": 400.0
+        }
+      }
+    },
+    "Glistening": {
+      "reforgeStone": "SHINY_PRISM",
+      "type": "Equipment",
+      "stats": {
+        "COMMON": {
+          "Intelligence": 2.0,
+          "Mining_Fortune": 5.0
+        },
+        "UNCOMMON": {
+          "Intelligence": 3.0,
+          "Mining_Fortune": 6.0
+        },
+        "RARE": {
+          "Intelligence": 4.0,
+          "Mining_Fortune": 8.0
+        },
+        "EPIC": {
+          "Intelligence": 5.0,
+          "Mining_Fortune": 10.0
+        },
+        "LEGENDARY": {
+          "Intelligence": 6.0,
+          "Mining_Fortune": 12.0
+        },
+        "MYTHIC": {
+          "Intelligence": 7.0,
+          "Mining_Fortune": 15.0
+        },
+        "DIVINE": {
+          "Intelligence": 8.0,
+          "Mining_Fortune": 18.0
+        }
+      }
+    },
+    "Grand": {
+      "type": "Bows",
+      "stats": {
+        "COMMON": {
+          "Strength": 25.0
+        },
+        "UNCOMMON": {
+          "Strength": 32.0
+        },
+        "RARE": {
+          "Strength": 40.0
+        },
+        "EPIC": {
+          "Strength": 50.0
+        },
+        "LEGENDARY": {
+          "Strength": 60.0
+        },
+        "MYTHIC": {
+          "Strength": 75.0
+        }
+      }
+    },
+    "Great": {
+      "type": "Axes",
+      "stats": {
+        "COMMON": {
+          "Strength": 2.0,
+          "Crit_Damage": 2.0,
+          "Speed": 1.0
+        },
+        "UNCOMMON": {
+          "Strength": 4.0,
+          "Crit_Damage": 4.0,
+          "Speed": 2.0
+        },
+        "RARE": {
+          "Strength": 6.0,
+          "Crit_Damage": 6.0,
+          "Speed": 3.0
+        },
+        "EPIC": {
+          "Strength": 9.0,
+          "Crit_Damage": 9.0,
+          "Speed": 4.0
+        },
+        "LEGENDARY": {
+          "Strength": 12.0,
+          "Crit_Damage": 12.0,
+          "Speed": 5.0
+        },
+        "MYTHIC": {
+          "Strength": 16.0,
+          "Crit_Damage": 16.0,
+          "Speed": 7.0
+        }
+      }
+    },
+    "Greater Spook": {
+      "reforgeStone": "BOO_STONE",
+      "type": "SpecialItems",
+      "specialItems": [
+        "GREAT_SPOOK_HELMET",
+        "GREAT_SPOOK_CHESTPLATE",
+        "GREAT_SPOOK_LEGGINGS",
+        "GREAT_SPOOK_BOOTS",
+        "GREAT_SPOOK_BELT",
+        "GREAT_SPOOK_CLOAK",
+        "GREAT_SPOOK_NECKLACE",
+        "GREAT_SPOOK_GLOVES"
+      ],
+      "stats": {
+        "EPIC": {
+          "Fear": 1.0
+        },
+        "LEGENDARY": {
+          "Fear": 1.0
+        }
+      }
+    },
+    "Green Thumb": {
+      "type": "Hoes",
+      "stats": {
+        "COMMON": {
+          "Speed": 1.0,
+          "Farming_Fortune": 1.0
+        },
+        "UNCOMMON": {
+          "Speed": 2.0,
+          "Farming_Fortune": 2.0
+        },
+        "RARE": {
+          "Speed": 2.0,
+          "Farming_Fortune": 3.0
+        },
+        "EPIC": {
+          "Speed": 3.0,
+          "Farming_Fortune": 4.0
+        },
+        "LEGENDARY": {
+          "Speed": 5.0,
+          "Farming_Fortune": 5.0
+        },
+        "MYTHIC": {
+          "Speed": 7.0,
+          "Farming_Fortune": 6.0
+        }
+      }
+    },
+    "Hasty": {
+      "type": "Bows",
+      "stats": {
+        "COMMON": {
+          "Strength": 3.0,
+          "Crit_Chance": 20.0
+        },
+        "UNCOMMON": {
+          "Strength": 5.0,
+          "Crit_Chance": 25.0
+        },
+        "RARE": {
+          "Strength": 7.0,
+          "Crit_Chance": 30.0
+        },
+        "EPIC": {
+          "Strength": 10.0,
+          "Crit_Chance": 40.0
+        },
+        "LEGENDARY": {
+          "Strength": 15.0,
+          "Crit_Chance": 50.0
+        },
+        "MYTHIC": {
+          "Strength": 20.0,
+          "Crit_Chance": 60.0
+        }
+      }
+    },
+    "Headstrong": {
+      "reforgeStone": "SALMON_OPAL",
+      "type": "Bows",
+      "extraProperty": "§fDeal §a+8%§f extra damage when arrows hit the head of a mob",
+      "stats": {
+        "COMMON": {
+          "Strength": 2.0,
+          "Crit_Damage": 4.0,
+          "Crit_Chance": 10.0
+        },
+        "UNCOMMON": {
+          "Strength": 5.0,
+          "Crit_Damage": 8.0,
+          "Crit_Chance": 11.0
+        },
+        "RARE": {
+          "Strength": 10.0,
+          "Crit_Damage": 16.0,
+          "Crit_Chance": 12.0
+        },
+        "EPIC": {
+          "Strength": 16.0,
+          "Crit_Damage": 28.0,
+          "Crit_Chance": 13.0
+        },
+        "LEGENDARY": {
+          "Strength": 23.0,
+          "Crit_Damage": 42.0,
+          "Crit_Chance": 15.0
+        },
+        "MYTHIC": {
+          "Strength": 33.0,
+          "Crit_Damage": 60.0,
+          "Crit_Chance": 17.0
+        }
+      }
+    },
+    "Heated": {
+      "reforgeStone": "HOT_STUFF",
+      "type": "Pickaxes",
+      "extraProperty": "§fGrants §aincreased §6⸕ Mining Speed§f the deeper your venture.",
+      "stats": {}
+    },
+    "Heavy": {
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Defense": 25.0,
+          "Crit_Damage": -1.0,
+          "Speed": -1.0
+        },
+        "UNCOMMON": {
+          "Defense": 35.0,
+          "Crit_Damage": -2.0,
+          "Speed": -1.0
+        },
+        "RARE": {
+          "Defense": 50.0,
+          "Crit_Damage": -2.0,
+          "Speed": -1.0
+        },
+        "EPIC": {
+          "Defense": 65.0,
+          "Crit_Damage": -3.0,
+          "Speed": -1.0
+        },
+        "LEGENDARY": {
+          "Defense": 80.0,
+          "Crit_Damage": -5.0,
+          "Speed": -1.0
+        },
+        "MYTHIC": {
+          "Defense": 110.0,
+          "Crit_Damage": -7.0,
+          "Speed": -1.0
+        }
+      }
+    },
+    "Hefty": {
+      "type": "Equipment",
+      "stats": {
+        "COMMON": {
+          "Defense": 7.0,
+          "Crit_Damage": -2.0,
+          "Speed": -1.0
+        },
+        "UNCOMMON": {
+          "Defense": 9.0,
+          "Crit_Damage": -2.0,
+          "Speed": -1.0
+        },
+        "RARE": {
+          "Defense": 12.0,
+          "Crit_Damage": -3.0,
+          "Speed": -1.0
+        },
+        "EPIC": {
+          "Defense": 15.0,
+          "Crit_Damage": -3.0,
+          "Speed": -1.0
+        },
+        "LEGENDARY": {
+          "Defense": 20.0,
+          "Crit_Damage": -4.0,
+          "Speed": -1.0
+        },
+        "MYTHIC": {
+          "Defense": 25.0,
+          "Crit_Damage": -5.0,
+          "Speed": -1.0
+        }
+      }
+    },
+    "Heroic": {
+      "type": "FishingRodsAndSwords",
+      "stats": {
+        "COMMON": {
+          "Strength": 15.0,
+          "Intelligence": 40.0,
+          "Bonus_Attack_Speed": 1.0
+        },
+        "UNCOMMON": {
+          "Strength": 20.0,
+          "Intelligence": 50.0,
+          "Bonus_Attack_Speed": 2.0
+        },
+        "RARE": {
+          "Strength": 25.0,
+          "Intelligence": 65.0,
+          "Bonus_Attack_Speed": 2.0
+        },
+        "EPIC": {
+          "Strength": 32.0,
+          "Intelligence": 80.0,
+          "Bonus_Attack_Speed": 3.0
+        },
+        "LEGENDARY": {
+          "Strength": 40.0,
+          "Intelligence": 100.0,
+          "Bonus_Attack_Speed": 5.0
+        },
+        "MYTHIC": {
+          "Strength": 50.0,
+          "Intelligence": 125.0,
+          "Bonus_Attack_Speed": 7.0
+        }
+      }
+    },
+    "Honored": {
+      "type": "Equipment",
+      "stats": {
+        "COMMON": {
+          "Health": 1.0,
+          "Defense": 1.0,
+          "Strength": 0.0,
+          "Intelligence": 3.0,
+          "Crit_Chance": 1.0,
+          "Speed": 1.0
+        },
+        "UNCOMMON": {
+          "Health": 1.0,
+          "Defense": 2.0,
+          "Strength": 1.0,
+          "Intelligence": 3.0,
+          "Crit_Chance": 1.0,
+          "Speed": 1.0
+        },
+        "RARE": {
+          "Health": 2.0,
+          "Defense": 2.0,
+          "Strength": 2.0,
+          "Intelligence": 4.0,
+          "Crit_Chance": 1.0,
+          "Speed": 1.0
+        },
+        "EPIC": {
+          "Health": 2.0,
+          "Defense": 3.0,
+          "Strength": 2.0,
+          "Intelligence": 5.0,
+          "Crit_Chance": 2.0,
+          "Speed": 1.0
+        },
+        "LEGENDARY": {
+          "Health": 3.0,
+          "Defense": 3.0,
+          "Strength": 3.0,
+          "Intelligence": 6.0,
+          "Crit_Chance": 2.0,
+          "Speed": 1.0
+        },
+        "MYTHIC": {
+          "Health": 4.0,
+          "Defense": 4.0,
+          "Strength": 3.0,
+          "Intelligence": 7.0,
+          "Crit_Chance": 2.0,
+          "Speed": 1.0
+        }
+      }
+    },
+    "Hyper": {
+      "reforgeStone": "END_STONE_GEODE",
+      "type": "Armor",
+      "extraProperty": "§fGain §a+$§f✦ Speed for §a5s§f after teleporting.",
+      "customStat": {
+        "COMMON": 1.0,
+        "UNCOMMON": 2.0,
+        "RARE": 3.0,
+        "EPIC": 4.0,
+        "LEGENDARY": 5.0,
+        "MYTHIC": 6.0
+      },
+      "stats": {
+        "COMMON": {
+          "Strength": 2.0,
+          "Bonus_Attack_Speed": 2.0,
+          "Speed": 1.0
+        },
+        "UNCOMMON": {
+          "Strength": 4.0,
+          "Bonus_Attack_Speed": 3.0,
+          "Speed": 1.0
+        },
+        "RARE": {
+          "Strength": 6.0,
+          "Bonus_Attack_Speed": 4.0,
+          "Speed": 2.0
+        },
+        "EPIC": {
+          "Strength": 7.0,
+          "Bonus_Attack_Speed": 5.0,
+          "Speed": 2.0
+        },
+        "LEGENDARY": {
+          "Strength": 10.0,
+          "Bonus_Attack_Speed": 6.0,
+          "Speed": 3.0
+        },
+        "MYTHIC": {
+          "Strength": 12.0,
+          "Bonus_Attack_Speed": 7.0,
+          "Speed": 3.0
+        }
+      }
+    },
+    "Jaded": {
+      "reforgeStone": "JADERALD",
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Mining_Speed": 5.0,
+          "Mining_Fortune": 5.0
+        },
+        "UNCOMMON": {
+          "Mining_Speed": 12.0,
+          "Mining_Fortune": 10.0
+        },
+        "RARE": {
+          "Mining_Speed": 20.0,
+          "Mining_Fortune": 15.0
+        },
+        "EPIC": {
+          "Mining_Speed": 30.0,
+          "Mining_Fortune": 20.0
+        },
+        "LEGENDARY": {
+          "Mining_Speed": 45.0,
+          "Mining_Fortune": 25.0
+        },
+        "MYTHIC": {
+          "Mining_Speed": 60.0,
+          "Mining_Fortune": 30.0
+        }
+      }
+    },
+    "Jerry\u0027s": {
+      "reforgeStone": "JERRY_STONE",
+      "type": "SpecialItems",
+      "specialItems": [
+        "ASPECT_OF_THE_JERRY",
+        "ASPECT_OF_THE_JERRY_SIGNATURE"
+      ],
+      "extraProperty": "§6Item Ability: No Parley\n§fConsumes all your mana and adds 10% of that amount as damage on your next AotJ hit.",
+      "stats": {
+        "COMMON": {
+          "Strength": 25.0,
+          "Crit_Damage": 50.0,
+          "Crit_Chance": 10.0
+        },
+        "UNCOMMON": {
+          "Strength": 25.0,
+          "Crit_Damage": 50.0,
+          "Crit_Chance": 10.0
+        },
+        "RARE": {
+          "Strength": 25.0,
+          "Crit_Damage": 50.0,
+          "Crit_Chance": 10.0
+        }
+      }
+    },
+    "Legendary": {
+      "type": "FishingRodsAndSwords",
+      "stats": {
+        "COMMON": {
+          "Strength": 3.0,
+          "Intelligence": 5.0,
+          "Crit_Damage": 5.0,
+          "Crit_Chance": 5.0,
+          "Bonus_Attack_Speed": 2.0
+        },
+        "UNCOMMON": {
+          "Strength": 7.0,
+          "Intelligence": 8.0,
+          "Crit_Damage": 10.0,
+          "Crit_Chance": 7.0,
+          "Bonus_Attack_Speed": 3.0
+        },
+        "RARE": {
+          "Strength": 12.0,
+          "Intelligence": 12.0,
+          "Crit_Damage": 15.0,
+          "Crit_Chance": 9.0,
+          "Bonus_Attack_Speed": 5.0
+        },
+        "EPIC": {
+          "Strength": 18.0,
+          "Intelligence": 18.0,
+          "Crit_Damage": 22.0,
+          "Crit_Chance": 12.0,
+          "Bonus_Attack_Speed": 7.0
+        },
+        "LEGENDARY": {
+          "Strength": 25.0,
+          "Intelligence": 25.0,
+          "Crit_Damage": 28.0,
+          "Crit_Chance": 15.0,
+          "Bonus_Attack_Speed": 10.0
+        },
+        "MYTHIC": {
+          "Strength": 32.0,
+          "Intelligence": 35.0,
+          "Crit_Damage": 36.0,
+          "Crit_Chance": 18.0,
+          "Bonus_Attack_Speed": 15.0
+        }
+      }
+    },
+    "Light": {
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Health": 5.0,
+          "Defense": 1.0,
+          "Crit_Damage": 1.0,
+          "Crit_Chance": 1.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        },
+        "UNCOMMON": {
+          "Health": 7.0,
+          "Defense": 2.0,
+          "Crit_Damage": 2.0,
+          "Crit_Chance": 1.0,
+          "Bonus_Attack_Speed": 2.0,
+          "Speed": 2.0
+        },
+        "RARE": {
+          "Health": 10.0,
+          "Defense": 3.0,
+          "Crit_Damage": 3.0,
+          "Crit_Chance": 2.0,
+          "Bonus_Attack_Speed": 3.0,
+          "Speed": 3.0
+        },
+        "EPIC": {
+          "Health": 15.0,
+          "Defense": 4.0,
+          "Crit_Damage": 4.0,
+          "Crit_Chance": 2.0,
+          "Bonus_Attack_Speed": 4.0,
+          "Speed": 4.0
+        },
+        "LEGENDARY": {
+          "Health": 20.0,
+          "Defense": 5.0,
+          "Crit_Damage": 5.0,
+          "Crit_Chance": 3.0,
+          "Bonus_Attack_Speed": 5.0,
+          "Speed": 5.0
+        },
+        "MYTHIC": {
+          "Health": 25.0,
+          "Defense": 6.0,
+          "Crit_Damage": 6.0,
+          "Crit_Chance": 3.0,
+          "Bonus_Attack_Speed": 6.0,
+          "Speed": 6.0
+        }
+      }
+    },
+    "Loving": {
+      "reforgeStone": "RED_SCARF",
+      "type": "Chestplates",
+      "stats": {
+        "COMMON": {
+          "Health": 4.0,
+          "Defense": 4.0,
+          "Intelligence": 20.0,
+          "Ability_Damage": 5.0
+        },
+        "UNCOMMON": {
+          "Health": 5.0,
+          "Defense": 5.0,
+          "Intelligence": 40.0,
+          "Ability_Damage": 5.0
+        },
+        "RARE": {
+          "Health": 6.0,
+          "Defense": 6.0,
+          "Intelligence": 60.0,
+          "Ability_Damage": 5.0
+        },
+        "EPIC": {
+          "Health": 8.0,
+          "Defense": 7.0,
+          "Intelligence": 80.0,
+          "Ability_Damage": 5.0
+        },
+        "LEGENDARY": {
+          "Health": 10.0,
+          "Defense": 10.0,
+          "Intelligence": 100.0,
+          "Ability_Damage": 5.0
+        },
+        "MYTHIC": {
+          "Health": 14.0,
+          "Defense": 14.0,
+          "Intelligence": 120.0,
+          "Ability_Damage": 5.0
+        }
+      }
+    },
+    "Lucky": {
+      "reforgeStone": "LUCKY_DICE",
+      "type": "FishingRods",
+      "stats": {
+        "COMMON": {
+          "Sea_Creature_Chance": 1.0,
+          "Magic_Find": 1.0
+        },
+        "UNCOMMON": {
+          "Sea_Creature_Chance": 2.0,
+          "Magic_Find": 2.0
+        },
+        "RARE": {
+          "Sea_Creature_Chance": 2.0,
+          "Magic_Find": 3.0
+        },
+        "EPIC": {
+          "Sea_Creature_Chance": 3.0,
+          "Magic_Find": 4.0
+        },
+        "LEGENDARY": {
+          "Sea_Creature_Chance": 5.0,
+          "Magic_Find": 5.0
+        },
+        "MYTHIC": {
+          "Sea_Creature_Chance": 7.0,
+          "Magic_Find": 6.0
+        }
+      }
+    },
+    "Lumberjack\u0027s": {
+      "type": "Axes",
+      "stats": {
+        "COMMON": {
+          "Speed": 1.0,
+          "Foraging_Wisdom": 0.5
+        },
+        "UNCOMMON": {
+          "Speed": 2.0,
+          "Foraging_Wisdom": 0.75
+        },
+        "RARE": {
+          "Speed": 3.0,
+          "Foraging_Wisdom": 1.0
+        },
+        "EPIC": {
+          "Speed": 5.0,
+          "Foraging_Wisdom": 1.25
+        },
+        "LEGENDARY": {
+          "Speed": 7.0,
+          "Foraging_Wisdom": 2.0
+        },
+        "MYTHIC": {
+          "Speed": 9.0,
+          "Foraging_Wisdom": 2.5
+        }
+      }
+    },
+    "Lush": {
+      "type": "Axes",
+      "stats": {
+        "COMMON": {
+          "Speed": 3.0,
+          "Foraging_Fortune": 1.0
+        },
+        "UNCOMMON": {
+          "Speed": 4.0,
+          "Foraging_Fortune": 1.0
+        },
+        "RARE": {
+          "Speed": 5.0,
+          "Foraging_Fortune": 2.0
+        },
+        "EPIC": {
+          "Speed": 7.0,
+          "Foraging_Fortune": 2.0
+        },
+        "LEGENDARY": {
+          "Speed": 10.0,
+          "Foraging_Fortune": 3.0
+        },
+        "MYTHIC": {
+          "Speed": 15.0,
+          "Foraging_Fortune": 5.0
+        }
+      }
+    },
+    "Magnetic": {
+      "reforgeStone": "LAPIS_CRYSTAL",
+      "type": "Pickaxes",
+      "extraProperty": "§Gain §a+$%§f extra experience when mining",
+      "customStat": {
+        "COMMON": 10.0,
+        "UNCOMMON": 12.0,
+        "RARE": 14.0,
+        "EPIC": 16.0,
+        "LEGENDARY": 18.0,
+        "MYTHIC": 20.0,
+        "DIVINE": 22.0
+      },
+      "stats": {
+        "COMMON": {
+          "Defense": 4.0
+        },
+        "UNCOMMON": {
+          "Defense": 5.0
+        },
+        "RARE": {
+          "Defense": 6.0
+        },
+        "EPIC": {
+          "Defense": 8.0
+        },
+        "LEGENDARY": {
+          "Defense": 10.0
+        },
+        "MYTHIC": {
+          "Defense": 14.0
+        },
+        "DIVINE": {
+          "Defense": 18.0
+        }
+      }
+    },
+    "Menacing": {
+      "type": "Equipment",
+      "stats": {
+        "COMMON": {
+          "Crit_Damage": 2.0,
+          "Crit_Chance": 1.0
+        },
+        "UNCOMMON": {
+          "Crit_Damage": 3.0,
+          "Crit_Chance": 1.0
+        },
+        "RARE": {
+          "Crit_Damage": 3.0,
+          "Crit_Chance": 1.0
+        },
+        "EPIC": {
+          "Crit_Damage": 4.0,
+          "Crit_Chance": 1.0
+        },
+        "LEGENDARY": {
+          "Crit_Damage": 4.0,
+          "Crit_Chance": 2.0
+        },
+        "MYTHIC": {
+          "Crit_Damage": 5.0,
+          "Crit_Chance": 2.0
+        }
+      }
+    },
+    "Mithraic": {
+      "reforgeStone": "PURE_MITHRIL",
+      "type": "Pickaxes",
+      "extraProperty": "§Grants a §a10%§f chance to gain §a1§f extra Mithril when mining Mithril Ore.",
+      "stats": {
+        "COMMON": {
+          "Mining_Speed": 6.0
+        },
+        "UNCOMMON": {
+          "Mining_Speed": 12.0
+        },
+        "RARE": {
+          "Mining_Speed": 20.0
+        },
+        "EPIC": {
+          "Mining_Speed": 30.0
+        },
+        "LEGENDARY": {
+          "Mining_Speed": 40.0
+        },
+        "MYTHIC": {
+          "Mining_Speed": 55.0
+        },
+        "DIVINE": {
+          "Mining_Speed": 70.0
+        }
+      }
+    },
+    "Moil": {
+      "reforgeStone": "MOIL_LOG",
+      "type": "Axes",
+      "stats": {
+        "COMMON": {
+          "Foraging_Wisdom": 1.0
+        },
+        "UNCOMMON": {
+          "Foraging_Wisdom": 1.0
+        },
+        "RARE": {
+          "Foraging_Wisdom": 2.0
+        },
+        "EPIC": {
+          "Foraging_Wisdom": 2.0
+        },
+        "LEGENDARY": {
+          "Foraging_Wisdom": 3.0
+        }
+      }
+    },
+    "Mossy": {
+      "reforgeStone": "OVERGROWN_GRASS",
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Speed": 3.0,
+          "Farming_Fortune": 5.0
+        },
+        "UNCOMMON": {
+          "Speed": 3.0,
+          "Farming_Fortune": 10.0
+        },
+        "RARE": {
+          "Speed": 5.0,
+          "Farming_Fortune": 15.0
+        },
+        "EPIC": {
+          "Speed": 5.0,
+          "Farming_Fortune": 20.0
+        },
+        "LEGENDARY": {
+          "Speed": 7.0,
+          "Farming_Fortune": 25.0
+        },
+        "MYTHIC": {
+          "Speed": 7.0,
+          "Farming_Fortune": 30.0
+        }
+      }
+    },
+    "Mythic": {
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Health": 2.0,
+          "Defense": 2.0,
+          "Strength": 2.0,
+          "Intelligence": 20.0,
+          "Crit_Chance": 1.0,
+          "Speed": 2.0
+        },
+        "UNCOMMON": {
+          "Health": 4.0,
+          "Defense": 3.0,
+          "Strength": 4.0,
+          "Intelligence": 25.0,
+          "Crit_Chance": 2.0,
+          "Speed": 2.0
+        },
+        "RARE": {
+          "Health": 6.0,
+          "Defense": 6.0,
+          "Strength": 6.0,
+          "Intelligence": 30.0,
+          "Crit_Chance": 3.0,
+          "Speed": 2.0
+        },
+        "EPIC": {
+          "Health": 8.0,
+          "Defense": 8.0,
+          "Strength": 8.0,
+          "Intelligence": 40.0,
+          "Crit_Chance": 4.0,
+          "Speed": 2.0
+        },
+        "LEGENDARY": {
+          "Health": 10.0,
+          "Defense": 10.0,
+          "Strength": 10.0,
+          "Intelligence": 50.0,
+          "Crit_Chance": 5.0,
+          "Speed": 2.0
+        },
+        "MYTHIC": {
+          "Health": 12.0,
+          "Defense": 12.0,
+          "Strength": 12.0,
+          "Intelligence": 60.0,
+          "Crit_Chance": 6.0,
+          "Speed": 2.0
+        }
+      }
+    },
+    "Neat": {
+      "type": "Bows",
+      "stats": {
+        "COMMON": {
+          "Intelligence": 3.0,
+          "Crit_Damage": 4.0,
+          "Crit_Chance": 10.0
+        },
+        "UNCOMMON": {
+          "Intelligence": 6.0,
+          "Crit_Damage": 8.0,
+          "Crit_Chance": 12.0
+        },
+        "RARE": {
+          "Intelligence": 10.0,
+          "Crit_Damage": 14.0,
+          "Crit_Chance": 14.0
+        },
+        "EPIC": {
+          "Intelligence": 15.0,
+          "Crit_Damage": 20.0,
+          "Crit_Chance": 17.0
+        },
+        "LEGENDARY": {
+          "Intelligence": 20.0,
+          "Crit_Damage": 30.0,
+          "Crit_Chance": 20.0
+        },
+        "MYTHIC": {
+          "Intelligence": 30.0,
+          "Crit_Damage": 40.0,
+          "Crit_Chance": 25.0
+        }
+      }
+    },
+    "Necrotic": {
+      "reforgeStone": "NECROMANCER\u0027S_BROOCH",
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Intelligence": 30.0
+        },
+        "UNCOMMON": {
+          "Intelligence": 60.0
+        },
+        "RARE": {
+          "Intelligence": 90.0
+        },
+        "EPIC": {
+          "Intelligence": 120.0
+        },
+        "LEGENDARY": {
+          "Intelligence": 150.0
+        },
+        "MYTHIC": {
+          "Intelligence": 200.0
+        }
+      }
+    },
+    "Odd": {
+      "type": "FishingRodsAndSwords",
+      "stats": {
+        "COMMON": {
+          "Intelligence": -5.0,
+          "Crit_Damage": 5.0,
+          "Crit_Chance": 10.0
+        },
+        "UNCOMMON": {
+          "Intelligence": -10.0,
+          "Crit_Damage": 10.0,
+          "Crit_Chance": 12.0
+        },
+        "RARE": {
+          "Intelligence": -18.0,
+          "Crit_Damage": 15.0,
+          "Crit_Chance": 15.0
+        },
+        "EPIC": {
+          "Intelligence": -32.0,
+          "Crit_Damage": 22.0,
+          "Crit_Chance": 20.0
+        },
+        "LEGENDARY": {
+          "Intelligence": -50.0,
+          "Crit_Damage": 30.0,
+          "Crit_Chance": 25.0
+        },
+        "MYTHIC": {
+          "Intelligence": -75.0,
+          "Crit_Damage": 40.0,
+          "Crit_Chance": 30.0
+        }
+      }
+    },
+    "Peasant\u0027s": {
+      "type": "Hoes",
+      "stats": {
+        "COMMON": {
+          "Speed": 1.0,
+          "Farming_Wisdom": 0.5
+        },
+        "UNCOMMON": {
+          "Speed": 2.0,
+          "Farming_Wisdom": 0.75
+        },
+        "RARE": {
+          "Speed": 3.0,
+          "Farming_Wisdom": 1.0
+        },
+        "EPIC": {
+          "Speed": 5.0,
+          "Farming_Wisdom": 1.25
+        },
+        "LEGENDARY": {
+          "Speed": 7.0,
+          "Farming_Wisdom": 2.0
+        },
+        "MYTHIC": {
+          "Speed": 9.0,
+          "Farming_Wisdom": 2.5
+        }
+      }
+    },
+    "Perfect": {
+      "reforgeStone": "DIAMOND_ATOM",
+      "type": "Armor",
+      "extraProperty": "§fIncreases §a❈ Defense§f by §a+2%§f.",
+      "stats": {
+        "COMMON": {
+          "Defense": 25.0
+        },
+        "UNCOMMON": {
+          "Defense": 35.0
+        },
+        "RARE": {
+          "Defense": 50.0
+        },
+        "EPIC": {
+          "Defense": 65.0
+        },
+        "LEGENDARY": {
+          "Defense": 80.0
+        },
+        "MYTHIC": {
+          "Defense": 110.0
+        }
+      }
+    },
+    "Pitchin\u0027": {
+      "reforgeStone": "PITCHIN\u0027_KOI",
+      "type": "FishingRods",
+      "stats": {
+        "COMMON": {
+          "Sea_Creature_Chance": 1.0,
+          "Fishing_Speed": 1.0
+        },
+        "UNCOMMON": {
+          "Sea_Creature_Chance": 1.0,
+          "Fishing_Speed": 2.0
+        },
+        "RARE": {
+          "Sea_Creature_Chance": 2.0,
+          "Fishing_Speed": 4.0
+        },
+        "EPIC": {
+          "Sea_Creature_Chance": 3.0,
+          "Fishing_Speed": 6.0
+        },
+        "LEGENDARY": {
+          "Sea_Creature_Chance": 4.0,
+          "Fishing_Speed": 8.0
+        },
+        "MYTHIC": {
+          "Sea_Creature_Chance": 5.0,
+          "Fishing_Speed": 10.0
+        }
+      }
+    },
+    "Precise": {
+      "reforgeStone": "OPTICAL_LENSE",
+      "type": "Bows",
+      "extraProperty": "§fDeal §a+10%§f extra damage when arrows hit the head of a mob",
+      "stats": {
+        "COMMON": {
+          "Strength": 3.0,
+          "Crit_Damage": 5.0,
+          "Crit_Chance": 8.0
+        },
+        "UNCOMMON": {
+          "Strength": 7.0,
+          "Crit_Damage": 10.0,
+          "Crit_Chance": 9.0
+        },
+        "RARE": {
+          "Strength": 12.0,
+          "Crit_Damage": 18.0,
+          "Crit_Chance": 10.0
+        },
+        "EPIC": {
+          "Strength": 18.0,
+          "Crit_Damage": 32.0,
+          "Crit_Chance": 11.0
+        },
+        "LEGENDARY": {
+          "Strength": 25.0,
+          "Crit_Damage": 50.0,
+          "Crit_Chance": 13.0
+        },
+        "MYTHIC": {
+          "Strength": 34.0,
+          "Crit_Damage": 70.0,
+          "Crit_Chance": 15.0
+        }
+      }
+    },
+    "Prospector\u0027s": {
+      "type": "Pickaxes",
+      "stats": {
+        "COMMON": {
+          "Speed": 1.0,
+          "Mining_Wisdom": 0.5
+        },
+        "UNCOMMON": {
+          "Speed": 2.0,
+          "Mining_Wisdom": 0.75
+        },
+        "RARE": {
+          "Speed": 3.0,
+          "Mining_Wisdom": 1.0
+        },
+        "EPIC": {
+          "Speed": 5.0,
+          "Mining_Wisdom": 1.25
+        },
+        "LEGENDARY": {
+          "Speed": 7.0,
+          "Mining_Wisdom": 2.0
+        },
+        "MYTHIC": {
+          "Speed": 9.0,
+          "Mining_Wisdom": 2.5
+        }
+      }
+    },
+    "Pure": {
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Health": 2.0,
+          "Defense": 2.0,
+          "Strength": 2.0,
+          "Intelligence": 2.0,
+          "Crit_Damage": 2.0,
+          "Crit_Chance": 2.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        },
+        "UNCOMMON": {
+          "Health": 3.0,
+          "Defense": 3.0,
+          "Strength": 3.0,
+          "Intelligence": 3.0,
+          "Crit_Damage": 3.0,
+          "Crit_Chance": 4.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        },
+        "RARE": {
+          "Health": 4.0,
+          "Defense": 4.0,
+          "Strength": 4.0,
+          "Intelligence": 4.0,
+          "Crit_Damage": 4.0,
+          "Crit_Chance": 6.0,
+          "Bonus_Attack_Speed": 2.0,
+          "Speed": 1.0
+        },
+        "EPIC": {
+          "Health": 6.0,
+          "Defense": 6.0,
+          "Strength": 6.0,
+          "Intelligence": 6.0,
+          "Crit_Damage": 6.0,
+          "Crit_Chance": 8.0,
+          "Bonus_Attack_Speed": 3.0,
+          "Speed": 1.0
+        },
+        "LEGENDARY": {
+          "Health": 8.0,
+          "Defense": 8.0,
+          "Strength": 8.0,
+          "Intelligence": 8.0,
+          "Crit_Damage": 8.0,
+          "Crit_Chance": 10.0,
+          "Bonus_Attack_Speed": 4.0,
+          "Speed": 1.0
+        },
+        "MYTHIC": {
+          "Health": 10.0,
+          "Defense": 10.0,
+          "Strength": 10.0,
+          "Intelligence": 10.0,
+          "Crit_Damage": 10.0,
+          "Crit_Chance": 12.0,
+          "Bonus_Attack_Speed": 5.0,
+          "Speed": 1.0
+        }
+      }
+    },
+    "Rapid": {
+      "type": "Bows",
+      "stats": {
+        "COMMON": {
+          "Strength": 2.0,
+          "Crit_Damage": 35.0
+        },
+        "UNCOMMON": {
+          "Strength": 3.0,
+          "Crit_Damage": 45.0
+        },
+        "RARE": {
+          "Strength": 4.0,
+          "Crit_Damage": 55.0
+        },
+        "EPIC": {
+          "Strength": 7.0,
+          "Crit_Damage": 65.0
+        },
+        "LEGENDARY": {
+          "Strength": 10.0,
+          "Crit_Damage": 75.0
+        },
+        "MYTHIC": {
+          "Strength": 12.0,
+          "Crit_Damage": 90.0
+        }
+      }
+    },
+    "Refined": {
+      "reforgeStone": "REFINED_AMBER",
+      "type": "Pickaxes",
+      "extraProperty": "§fGain a §a0.1%§f chacne to drop an enchanted item for ores that you mine.",
+      "stats": {
+        "COMMON": {
+          "Defense": 5.0,
+          "Mining_Wisdom": 1.0
+        },
+        "UNCOMMON": {
+          "Defense": 7.0,
+          "Mining_Wisdom": 2.0
+        },
+        "RARE": {
+          "Defense": 9.0,
+          "Mining_Wisdom": 3.0
+        },
+        "EPIC": {
+          "Defense": 13.0,
+          "Mining_Wisdom": 4.0
+        },
+        "LEGENDARY": {
+          "Defense": 16.0,
+          "Mining_Wisdom": 5.0
+        },
+        "MYTHIC": {
+          "Defense": 20.0,
+          "Mining_Wisdom": 6.0
+        },
+        "DIVINE": {
+          "Defense": 24.0,
+          "Mining_Wisdom": 7.0
+        }
+      }
+    },
+    "Reinforced": {
+      "reforgeStone": "RARE_DIAMOND",
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Defense": 25.0
+        },
+        "UNCOMMON": {
+          "Defense": 35.0
+        },
+        "RARE": {
+          "Defense": 50.0
+        },
+        "EPIC": {
+          "Defense": 65.0
+        },
+        "LEGENDARY": {
+          "Defense": 80.0
+        },
+        "MYTHIC": {
+          "Defense": 110.0
+        }
+      }
+    },
+    "Renowned": {
+      "reforgeStone": "DRAGON_HORN",
+      "type": "Armor",
+      "extraProperty": "§fIncreases most stats by §a1%§f.",
+      "stats": {
+        "COMMON": {
+          "Health": 2.0,
+          "Defense": 2.0,
+          "Strength": 3.0,
+          "Intelligence": 3.0,
+          "Crit_Damage": 3.0,
+          "Crit_Chance": 2.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        },
+        "UNCOMMON": {
+          "Health": 3.0,
+          "Defense": 3.0,
+          "Strength": 4.0,
+          "Intelligence": 4.0,
+          "Crit_Damage": 4.0,
+          "Crit_Chance": 4.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        },
+        "RARE": {
+          "Health": 4.0,
+          "Defense": 4.0,
+          "Strength": 6.0,
+          "Intelligence": 6.0,
+          "Crit_Damage": 6.0,
+          "Crit_Chance": 6.0,
+          "Bonus_Attack_Speed": 2.0,
+          "Speed": 1.0
+        },
+        "EPIC": {
+          "Health": 6.0,
+          "Defense": 6.0,
+          "Strength": 8.0,
+          "Intelligence": 8.0,
+          "Crit_Damage": 8.0,
+          "Crit_Chance": 8.0,
+          "Bonus_Attack_Speed": 3.0,
+          "Speed": 1.0
+        },
+        "LEGENDARY": {
+          "Health": 8.0,
+          "Defense": 8.0,
+          "Strength": 10.0,
+          "Intelligence": 10.0,
+          "Crit_Damage": 10.0,
+          "Crit_Chance": 10.0,
+          "Bonus_Attack_Speed": 4.0,
+          "Speed": 1.0
+        },
+        "MYTHIC": {
+          "Health": 10.0,
+          "Defense": 10.0,
+          "Strength": 12.0,
+          "Intelligence": 12.0,
+          "Crit_Damage": 12.0,
+          "Crit_Chance": 12.0,
+          "Bonus_Attack_Speed": 5.0,
+          "Speed": 1.0
+        }
+      }
+    },
+    "Rich": {
+      "type": "Bows",
+      "stats": {
+        "COMMON": {
+          "Intelligence": 3.0,
+          "Crit_Damage": 2.0,
+          "Crit_Chance": 10.0
+        },
+        "UNCOMMON": {
+          "Intelligence": 5.0,
+          "Crit_Damage": 4.0,
+          "Crit_Chance": 12.0
+        },
+        "RARE": {
+          "Intelligence": 6.0,
+          "Crit_Damage": 7.0,
+          "Crit_Chance": 14.0
+        },
+        "EPIC": {
+          "Intelligence": 15.0,
+          "Crit_Damage": 10.0,
+          "Crit_Chance": 17.0
+        },
+        "LEGENDARY": {
+          "Intelligence": 20.0,
+          "Crit_Damage": 15.0,
+          "Crit_Chance": 20.0
+        },
+        "MYTHIC": {
+          "Intelligence": 30.0,
+          "Crit_Damage": 20.0,
+          "Crit_Chance": 25.0
+        }
+      }
+    },
+    "Ridiculous": {
+      "reforgeStone": "RED_NOSE",
+      "type": "Helmets",
+      "extraProperty": "§fFart when you sneak. Reduces your §9☣ Crit Chance§f by §c20%§f for §a20s§f but grants §a+30 §a❈ Defense§f for §a5s§f and §b+50 §b✎ Mana§f. Requires at least §920% §9☣ Crit Chance§f to activate.",
+      "stats": {
+        "COMMON": {
+          "Health": 10.0,
+          "Defense": 10.0,
+          "Crit_Chance": 1.0
+        },
+        "UNCOMMON": {
+          "Health": 15.0,
+          "Defense": 15.0,
+          "Crit_Chance": 2.0
+        },
+        "RARE": {
+          "Health": 20.0,
+          "Defense": 20.0,
+          "Crit_Chance": 3.0
+        },
+        "EPIC": {
+          "Health": 25.0,
+          "Defense": 25.0,
+          "Crit_Chance": 4.0
+        },
+        "LEGENDARY": {
+          "Health": 35.0,
+          "Defense": 35.0,
+          "Crit_Chance": 5.0
+        },
+        "MYTHIC": {
+          "Health": 50.0,
+          "Defense": 50.0,
+          "Crit_Chance": 6.0
+        }
+      }
+    },
+    "Robust": {
+      "type": "Hoes",
+      "stats": {
+        "COMMON": {
+          "Farming_Fortune": 2.0
+        },
+        "UNCOMMON": {
+          "Farming_Fortune": 3.0
+        },
+        "RARE": {
+          "Farming_Fortune": 4.0
+        },
+        "EPIC": {
+          "Farming_Fortune": 6.0
+        },
+        "LEGENDARY": {
+          "Farming_Fortune": 8.0
+        },
+        "MYTHIC": {
+          "Farming_Fortune": 10.0
+        }
+      }
+    },
+    "Rooted": {
+      "reforgeStone": "BURROWING_SPORES",
+      "type": "Equipment",
+      "stats": {
+        "COMMON": {
+          "Health": 2.0,
+          "Farming_Fortune": 6.0
+        },
+        "UNCOMMON": {
+          "Health": 5.0,
+          "Farming_Fortune": 9.0
+        },
+        "RARE": {
+          "Health": 8.0,
+          "Farming_Fortune": 12.0
+        },
+        "EPIC": {
+          "Health": 11.0,
+          "Farming_Fortune": 15.0
+        },
+        "LEGENDARY": {
+          "Health": 14.0,
+          "Farming_Fortune": 18.0
+        },
+        "MYTHIC": {
+          "Health": 17.0,
+          "Farming_Fortune": 21.0
+        }
+      }
+    },
+    "Rugged": {
+      "type": "Axes",
+      "stats": {
+        "COMMON": {
+          "Strength": 4.0,
+          "Crit_Damage": 3.0
+        },
+        "UNCOMMON": {
+          "Strength": 6.0,
+          "Crit_Damage": 5.0
+        },
+        "RARE": {
+          "Strength": 9.0,
+          "Crit_Damage": 8.0
+        },
+        "EPIC": {
+          "Strength": 13.0,
+          "Crit_Damage": 12.0
+        },
+        "LEGENDARY": {
+          "Strength": 18.0,
+          "Crit_Damage": 16.0
+        },
+        "MYTHIC": {
+          "Strength": 24.0,
+          "Crit_Damage": 22.0
+        }
+      }
+    },
+    "Salty": {
+      "reforgeStone": "SALT_CUBE",
+      "type": "FishingRods",
+      "stats": {
+        "COMMON": {
+          "Sea_Creature_Chance": 1.0
+        },
+        "UNCOMMON": {
+          "Sea_Creature_Chance": 2.0
+        },
+        "RARE": {
+          "Sea_Creature_Chance": 2.0
+        },
+        "EPIC": {
+          "Sea_Creature_Chance": 3.0
+        },
+        "LEGENDARY": {
+          "Sea_Creature_Chance": 5.0
+        },
+        "MYTHIC": {
+          "Sea_Creature_Chance": 7.0
+        }
+      }
+    },
+    "Sharp": {
+      "type": "FishingRodsAndSwords",
+      "stats": {
+        "COMMON": {
+          "Crit_Damage": 20.0,
+          "Crit_Chance": 10.0
+        },
+        "UNCOMMON": {
+          "Crit_Damage": 30.0,
+          "Crit_Chance": 12.0
+        },
+        "RARE": {
+          "Crit_Damage": 40.0,
+          "Crit_Chance": 14.0
+        },
+        "EPIC": {
+          "Crit_Damage": 55.0,
+          "Crit_Chance": 17.0
+        },
+        "LEGENDARY": {
+          "Crit_Damage": 75.0,
+          "Crit_Chance": 20.0
+        },
+        "MYTHIC": {
+          "Crit_Damage": 90.0,
+          "Crit_Chance": 25.0
+        }
+      }
+    },
+    "Smart": {
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Health": 4.0,
+          "Defense": 4.0,
+          "Intelligence": 20.0
+        },
+        "UNCOMMON": {
+          "Health": 6.0,
+          "Defense": 6.0,
+          "Intelligence": 40.0
+        },
+        "RARE": {
+          "Health": 9.0,
+          "Defense": 9.0,
+          "Intelligence": 60.0
+        },
+        "EPIC": {
+          "Health": 12.0,
+          "Defense": 12.0,
+          "Intelligence": 80.0
+        },
+        "LEGENDARY": {
+          "Health": 15.0,
+          "Defense": 15.0,
+          "Intelligence": 100.0
+        },
+        "MYTHIC": {
+          "Health": 20.0,
+          "Defense": 20.0,
+          "Intelligence": 120.0
+        }
+      }
+    },
+    "Snowy": {
+      "reforgeStone": "TERRY\u0027S_SNOWGLOBE",
+      "type": "Equipment",
+      "stats": {
+        "COMMON": {
+          "Sea_Creature_Chance": 0.2,
+          "Fishing_Speed": 0.5
+        },
+        "UNCOMMON": {
+          "Sea_Creature_Chance": 0.2,
+          "Fishing_Speed": 1.0
+        },
+        "RARE": {
+          "Sea_Creature_Chance": 0.4,
+          "Fishing_Speed": 1.5
+        },
+        "EPIC": {
+          "Sea_Creature_Chance": 0.6,
+          "Fishing_Speed": 2.0
+        },
+        "LEGENDARY": {
+          "Sea_Creature_Chance": 0.8,
+          "Fishing_Speed": 2.5
+        },
+        "MYTHIC": {
+          "Sea_Creature_Chance": 1.0,
+          "Fishing_Speed": 3.0
+        }
+      }
+    },
+    "Soft": {
+      "type": "Equipment",
+      "stats": {
+        "COMMON": {
+          "Health": 2.0,
+          "Defense": 1.0,
+          "Crit_Damage": 1.0,
+          "Crit_Chance": 1.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        },
+        "UNCOMMON": {
+          "Health": 3.0,
+          "Defense": 1.0,
+          "Crit_Damage": 1.0,
+          "Crit_Chance": 1.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        },
+        "RARE": {
+          "Health": 4.0,
+          "Defense": 1.0,
+          "Crit_Damage": 1.0,
+          "Crit_Chance": 1.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        },
+        "EPIC": {
+          "Health": 5.0,
+          "Defense": 1.0,
+          "Crit_Damage": 2.0,
+          "Crit_Chance": 1.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        },
+        "LEGENDARY": {
+          "Health": 6.0,
+          "Defense": 2.0,
+          "Crit_Damage": 2.0,
+          "Crit_Chance": 1.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 2.0
+        },
+        "MYTHIC": {
+          "Health": 7.0,
+          "Defense": 2.0,
+          "Crit_Damage": 2.0,
+          "Crit_Chance": 1.0,
+          "Bonus_Attack_Speed": 2.0,
+          "Speed": 2.0
+        }
+      }
+    },
+    "Spicy": {
+      "type": "FishingRodsAndSwords",
+      "stats": {
+        "COMMON": {
+          "Strength": 2.0,
+          "Crit_Damage": 25.0,
+          "Crit_Chance": 1.0,
+          "Bonus_Attack_Speed": 2.0
+        },
+        "UNCOMMON": {
+          "Strength": 3.0,
+          "Crit_Damage": 35.0,
+          "Crit_Chance": 1.0,
+          "Bonus_Attack_Speed": 3.0
+        },
+        "RARE": {
+          "Strength": 4.0,
+          "Crit_Damage": 45.0,
+          "Crit_Chance": 1.0,
+          "Bonus_Attack_Speed": 5.0
+        },
+        "EPIC": {
+          "Strength": 7.0,
+          "Crit_Damage": 60.0,
+          "Crit_Chance": 1.0,
+          "Bonus_Attack_Speed": 7.0
+        },
+        "LEGENDARY": {
+          "Strength": 10.0,
+          "Crit_Damage": 80.0,
+          "Crit_Chance": 1.0,
+          "Bonus_Attack_Speed": 10.0
+        },
+        "MYTHIC": {
+          "Strength": 12.0,
+          "Crit_Damage": 100.0,
+          "Crit_Chance": 1.0,
+          "Bonus_Attack_Speed": 15.0
+        }
+      }
+    },
+    "Spiked": {
+      "reforgeStone": "DRAGON_SCALE",
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Health": 2.0,
+          "Defense": 2.0,
+          "Strength": 3.0,
+          "Intelligence": 3.0,
+          "Crit_Damage": 3.0,
+          "Crit_Chance": 2.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        },
+        "UNCOMMON": {
+          "Health": 3.0,
+          "Defense": 3.0,
+          "Strength": 4.0,
+          "Intelligence": 4.0,
+          "Crit_Damage": 4.0,
+          "Crit_Chance": 4.0,
+          "Bonus_Attack_Speed": 1.0,
+          "Speed": 1.0
+        },
+        "RARE": {
+          "Health": 4.0,
+          "Defense": 4.0,
+          "Strength": 6.0,
+          "Intelligence": 6.0,
+          "Crit_Damage": 6.0,
+          "Crit_Chance": 6.0,
+          "Bonus_Attack_Speed": 2.0,
+          "Speed": 1.0
+        },
+        "EPIC": {
+          "Health": 6.0,
+          "Defense": 6.0,
+          "Strength": 8.0,
+          "Intelligence": 8.0,
+          "Crit_Damage": 8.0,
+          "Crit_Chance": 8.0,
+          "Bonus_Attack_Speed": 3.0,
+          "Speed": 1.0
+        },
+        "LEGENDARY": {
+          "Health": 8.0,
+          "Defense": 8.0,
+          "Strength": 10.0,
+          "Intelligence": 10.0,
+          "Crit_Damage": 10.0,
+          "Crit_Chance": 10.0,
+          "Bonus_Attack_Speed": 4.0,
+          "Speed": 1.0
+        },
+        "MYTHIC": {
+          "Health": 10.0,
+          "Defense": 10.0,
+          "Strength": 12.0,
+          "Intelligence": 12.0,
+          "Crit_Damage": 12.0,
+          "Crit_Chance": 12.0,
+          "Bonus_Attack_Speed": 5.0,
+          "Speed": 1.0
+        }
+      }
+    },
+    "Spiritual": {
+      "reforgeStone": "SPIRIT_STONE",
+      "type": "Bows",
+      "extraProperty": "§fGrants a §a10%§f chance to spawn a Spirit Decoy when you kill an enemy in a Dungeon",
+      "stats": {
+        "COMMON": {
+          "Strength": 4.0,
+          "Crit_Damage": 10.0,
+          "Crit_Chance": 7.0
+        },
+        "UNCOMMON": {
+          "Strength": 8.0,
+          "Crit_Damage": 15.0,
+          "Crit_Chance": 8.0
+        },
+        "RARE": {
+          "Strength": 14.0,
+          "Crit_Damage": 23.0,
+          "Crit_Chance": 9.0
+        },
+        "EPIC": {
+          "Strength": 20.0,
+          "Crit_Damage": 37.0,
+          "Crit_Chance": 10.0
+        },
+        "LEGENDARY": {
+          "Strength": 28.0,
+          "Crit_Damage": 55.0,
+          "Crit_Chance": 12.0
+        },
+        "MYTHIC": {
+          "Strength": 38.0,
+          "Crit_Damage": 75.0,
+          "Crit_Chance": 14.0
+        }
+      }
+    },
+    "Stained": {
+      "type": "Equipment",
+      "stats": {
+        "COMMON": {
+          "Health": 2.0,
+          "Defense": 2.0,
+          "Crit_Chance": 1.0
+        },
+        "UNCOMMON": {
+          "Health": 3.0,
+          "Defense": 3.0,
+          "Crit_Chance": 1.0
+        },
+        "RARE": {
+          "Health": 4.0,
+          "Defense": 4.0,
+          "Crit_Chance": 2.0
+        },
+        "EPIC": {
+          "Health": 5.0,
+          "Defense": 5.0,
+          "Crit_Chance": 2.0
+        },
+        "LEGENDARY": {
+          "Health": 5.0,
+          "Defense": 6.0,
+          "Crit_Chance": 3.0
+        },
+        "MYTHIC": {
+          "Health": 7.0,
+          "Defense": 7.0,
+          "Crit_Chance": 4.0
+        }
+      }
+    },
+    "Stellar": {
+      "reforgeStone": "PETRIFIED_STARFALL",
+      "type": "Pickaxes",
+      "extraProperty": "§fDeal §a+1§f extra damage to Star Sentries and increases the chance for Starfall to drop form them by §a20%§f.",
+      "stats": {
+        "COMMON": {
+          "Defense": 5.0,
+          "Strength": 5.0,
+          "Mining_Speed": 3.0
+        },
+        "UNCOMMON": {
+          "Defense": 8.0,
+          "Strength": 8.0,
+          "Mining_Speed": 6.0
+        },
+        "RARE": {
+          "Defense": 12.0,
+          "Strength": 12.0,
+          "Mining_Speed": 9.0
+        },
+        "EPIC": {
+          "Defense": 16.0,
+          "Strength": 16.0,
+          "Mining_Speed": 12.0
+        },
+        "LEGENDARY": {
+          "Defense": 20.0,
+          "Strength": 20.0,
+          "Mining_Speed": 15.0
+        },
+        "MYTHIC": {
+          "Defense": 25.0,
+          "Strength": 25.0,
+          "Mining_Speed": 20.0
+        },
+        "DIVINE": {
+          "Defense": 30.0,
+          "Strength": 30.0,
+          "Mining_Speed": 25.0
+        }
+      }
+    },
+    "Stiff": {
+      "reforgeStone": "HARDENED_WOOD",
+      "type": "FishingRods",
+      "stats": {
+        "COMMON": {
+          "Strength": 2.0,
+          "Sea_Creature_Chance": 1.0
+        },
+        "UNCOMMON": {
+          "Strength": 4.0,
+          "Sea_Creature_Chance": 2.0
+        },
+        "RARE": {
+          "Strength": 6.0,
+          "Sea_Creature_Chance": 2.0
+        },
+        "EPIC": {
+          "Strength": 8.0,
+          "Sea_Creature_Chance": 3.0
+        },
+        "LEGENDARY": {
+          "Strength": 10.0,
+          "Sea_Creature_Chance": 5.0
+        },
+        "MYTHIC": {
+          "Strength": 12.0,
+          "Sea_Creature_Chance": 7.0
+        }
+      }
+    },
+    "Strengthened": {
+      "reforgeStone": "SEARING_STONE",
+      "type": "Equipment",
+      "stats": {
+        "COMMON": {
+          "Defense": 3.0,
+          "Strength": 2.0
+        },
+        "UNCOMMON": {
+          "Defense": 4.0,
+          "Strength": 3.0
+        },
+        "RARE": {
+          "Defense": 5.0,
+          "Strength": 4.0
+        },
+        "EPIC": {
+          "Defense": 6.0,
+          "Strength": 5.0
+        },
+        "LEGENDARY": {
+          "Defense": 8.0,
+          "Strength": 6.0
+        },
+        "MYTHIC": {
+          "Defense": 10.0,
+          "Strength": 7.0
+        },
+        "DIVINE": {
+          "Defense": 12.0,
+          "Strength": 8.0
+        }
+      }
+    },
+    "Sturdy": {
+      "type": "Pickaxes",
+      "stats": {
+        "COMMON": {
+          "Defense": 3.0,
+          "Mining_Speed": 3.0
+        },
+        "UNCOMMON": {
+          "Defense": 6.0,
+          "Mining_Speed": 6.0
+        },
+        "RARE": {
+          "Defense": 9.0,
+          "Mining_Speed": 9.0
+        },
+        "EPIC": {
+          "Defense": 12.0,
+          "Mining_Speed": 12.0
+        },
+        "LEGENDARY": {
+          "Defense": 15.0,
+          "Mining_Speed": 15.0
+        },
+        "MYTHIC": {
+          "Defense": 20.0,
+          "Mining_Speed": 20.0
+        }
+      }
+    },
+    "Submerged": {
+      "reforgeStone": "DEEP_SEA_ORB",
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Crit_Chance": 2.0,
+          "Sea_Creature_Chance": 0.5,
+          "Fishing_Speed": 1.0
+        },
+        "UNCOMMON": {
+          "Crit_Chance": 4.0,
+          "Sea_Creature_Chance": 0.6,
+          "Fishing_Speed": 1.0
+        },
+        "RARE": {
+          "Crit_Chance": 6.0,
+          "Sea_Creature_Chance": 0.7,
+          "Fishing_Speed": 2.0
+        },
+        "EPIC": {
+          "Crit_Chance": 8.0,
+          "Sea_Creature_Chance": 0.8,
+          "Fishing_Speed": 3.0
+        },
+        "LEGENDARY": {
+          "Crit_Chance": 10.0,
+          "Sea_Creature_Chance": 0.9,
+          "Fishing_Speed": 4.0
+        },
+        "MYTHIC": {
+          "Crit_Chance": 12.0,
+          "Sea_Creature_Chance": 1.0,
+          "Fishing_Speed": 5.0
+        }
+      }
+    },
+    "Suspicious": {
+      "reforgeStone": "SUSPICIOUS_VIAL",
+      "type": "Swords",
+      "extraProperty": "§fIncreases weapon §c❁ Damage§f by §c+15§f.",
+      "stats": {
+        "COMMON": {
+          "Crit_Damage": 30.0,
+          "Crit_Chance": 1.0
+        },
+        "UNCOMMON": {
+          "Crit_Damage": 40.0,
+          "Crit_Chance": 2.0
+        },
+        "RARE": {
+          "Crit_Damage": 50.0,
+          "Crit_Chance": 3.0
+        },
+        "EPIC": {
+          "Crit_Damage": 65.0,
+          "Crit_Chance": 5.0
+        },
+        "LEGENDARY": {
+          "Crit_Damage": 85.0,
+          "Crit_Chance": 7.0
+        },
+        "MYTHIC": {
+          "Crit_Damage": 110.0,
+          "Crit_Chance": 10.0
+        }
+      }
+    },
+    "Titanic": {
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Health": 10.0,
+          "Defense": 10.0
+        },
+        "UNCOMMON": {
+          "Health": 15.0,
+          "Defense": 15.0
+        },
+        "RARE": {
+          "Health": 20.0,
+          "Defense": 20.0
+        },
+        "EPIC": {
+          "Health": 25.0,
+          "Defense": 25.0
+        },
+        "LEGENDARY": {
+          "Health": 35.0,
+          "Defense": 35.0
+        },
+        "MYTHIC": {
+          "Health": 50.0,
+          "Defense": 50.0
+        }
+      }
+    },
+    "Toil": {
+      "reforgeStone": "TOIL_LOG",
+      "type": "Axes",
+      "stats": {
+        "COMMON": {
+          "Strength": 5.0,
+          "Crit_Damage": 5.0,
+          "Foraging_Wisdom": 1.0
+        },
+        "UNCOMMON": {
+          "Strength": 7.0,
+          "Crit_Damage": 7.0,
+          "Foraging_Wisdom": 2.0
+        },
+        "RARE": {
+          "Strength": 9.0,
+          "Crit_Damage": 9.0,
+          "Foraging_Wisdom": 3.0
+        },
+        "EPIC": {
+          "Strength": 13.0,
+          "Crit_Damage": 13.0,
+          "Foraging_Wisdom": 4.0
+        },
+        "LEGENDARY": {
+          "Strength": 16.0,
+          "Crit_Damage": 16.0,
+          "Foraging_Wisdom": 5.0
+        },
+        "MYTHIC": {
+          "Strength": 20.0,
+          "Crit_Damage": 20.0,
+          "Foraging_Wisdom": 6.0
+        }
+      }
+    },
+    "Treacherous": {
+      "reforgeStone": "RUSTY_ANCHOR",
+      "type": "FishingRods",
+      "stats": {
+        "COMMON": {
+          "Strength": 5.0,
+          "Sea_Creature_Chance": 1.0
+        },
+        "UNCOMMON": {
+          "Strength": 10.0,
+          "Sea_Creature_Chance": 2.0
+        },
+        "RARE": {
+          "Strength": 15.0,
+          "Sea_Creature_Chance": 2.0
+        },
+        "EPIC": {
+          "Strength": 20.0,
+          "Sea_Creature_Chance": 3.0
+        },
+        "LEGENDARY": {
+          "Strength": 25.0,
+          "Sea_Creature_Chance": 5.0
+        },
+        "MYTHIC": {
+          "Strength": 30.0,
+          "Sea_Creature_Chance": 7.0
+        }
+      }
+    },
+    "Undead": {
+      "reforgeStone": "PREMIUM_FLESH",
+      "type": "Armor",
+      "extraProperty": "§fDecreases damage taken from Zombie Pigmen, Zombies, Withers, and Skeltons, by §a+2",
+      "stats": {
+        "COMMON": {
+          "Health": 6.0,
+          "Defense": 6.0,
+          "Strength": 1.0,
+          "Bonus_Attack_Speed": 1.0
+        },
+        "UNCOMMON": {
+          "Health": 8.0,
+          "Defense": 8.0,
+          "Strength": 2.0,
+          "Bonus_Attack_Speed": 2.0
+        },
+        "RARE": {
+          "Health": 12.0,
+          "Defense": 12.0,
+          "Strength": 2.0,
+          "Bonus_Attack_Speed": 3.0
+        },
+        "EPIC": {
+          "Health": 18.0,
+          "Defense": 18.0,
+          "Strength": 3.0,
+          "Bonus_Attack_Speed": 4.0
+        },
+        "LEGENDARY": {
+          "Health": 25.0,
+          "Defense": 25.0,
+          "Strength": 5.0,
+          "Bonus_Attack_Speed": 5.0
+        },
+        "MYTHIC": {
+          "Health": 33.0,
+          "Defense": 33.0,
+          "Strength": 7.0,
+          "Bonus_Attack_Speed": 6.0
+        }
+      }
+    },
+    "Unreal": {
+      "type": "Bows",
+      "stats": {
+        "COMMON": {
+          "Strength": 3.0,
+          "Crit_Damage": 5.0,
+          "Crit_Chance": 8.0
+        },
+        "UNCOMMON": {
+          "Strength": 7.0,
+          "Crit_Damage": 10.0,
+          "Crit_Chance": 9.0
+        },
+        "RARE": {
+          "Strength": 12.0,
+          "Crit_Damage": 18.0,
+          "Crit_Chance": 10.0
+        },
+        "EPIC": {
+          "Strength": 18.0,
+          "Crit_Damage": 32.0,
+          "Crit_Chance": 11.0
+        },
+        "LEGENDARY": {
+          "Strength": 25.0,
+          "Crit_Damage": 50.0,
+          "Crit_Chance": 13.0
+        },
+        "MYTHIC": {
+          "Strength": 34.0,
+          "Crit_Damage": 70.0,
+          "Crit_Chance": 15.0
+        }
+      }
+    },
+    "Unyielding": {
+      "type": "Pickaxes",
+      "stats": {
+        "COMMON": {
+          "Speed": 1.0,
+          "Mining_Fortune": 1.0
+        },
+        "UNCOMMON": {
+          "Speed": 2.0,
+          "Mining_Fortune": 2.0
+        },
+        "RARE": {
+          "Speed": 3.0,
+          "Mining_Fortune": 3.0
+        },
+        "EPIC": {
+          "Speed": 5.0,
+          "Mining_Fortune": 4.0
+        },
+        "LEGENDARY": {
+          "Speed": 7.0,
+          "Mining_Fortune": 5.0
+        },
+        "MYTHIC": {
+          "Speed": 9.0,
+          "Mining_Fortune": 6.0
+        }
+      }
+    },
+    "Warped": {
+      "reforgeStone": "WARPED_STONE",
+      "type": "SpecialItems",
+      "specialItems": [
+        "ASPECT_OF_THE_END",
+        "ASPECT_OF_THE_VOID"
+      ],
+      "stats": {
+        "RARE": {
+          "Damage": 165.0,
+          "Strength": 165.0
+        },
+        "EPIC": {
+          "Damage": 165.0,
+          "Strength": 165.0
+        },
+        "LEGENDARY": {
+          "Damage": 165.0,
+          "Strength": 165.0,
+          "Intelligence": 65.0
+        }
+      }
+    },
+    "Waxed": {
+      "reforgeStone": "BLAZE_WAX",
+      "type": "Equipment",
+      "stats": {
+        "COMMON": {
+          "Health": 5.0,
+          "Crit_Chance": 2.0
+        },
+        "UNCOMMON": {
+          "Health": 6.0,
+          "Crit_Chance": 3.0
+        },
+        "RARE": {
+          "Health": 8.0,
+          "Crit_Chance": 4.0
+        },
+        "EPIC": {
+          "Health": 10.0,
+          "Crit_Chance": 5.0
+        },
+        "LEGENDARY": {
+          "Health": 12.0,
+          "Crit_Chance": 6.0
+        },
+        "MYTHIC": {
+          "Health": 15.0,
+          "Crit_Chance": 7.0
+        },
+        "DIVINE": {
+          "Health": 20.0,
+          "Crit_Chance": 8.0
+        }
+      }
+    },
+    "Wise": {
+      "type": "Armor",
+      "stats": {
+        "COMMON": {
+          "Health": 6.0,
+          "Intelligence": 25.0,
+          "Speed": 1.0
+        },
+        "UNCOMMON": {
+          "Health": 8.0,
+          "Intelligence": 50.0,
+          "Speed": 1.0
+        },
+        "RARE": {
+          "Health": 10.0,
+          "Intelligence": 75.0,
+          "Speed": 1.0
+        },
+        "EPIC": {
+          "Health": 12.0,
+          "Intelligence": 100.0,
+          "Speed": 2.0
+        },
+        "LEGENDARY": {
+          "Health": 15.0,
+          "Intelligence": 125.0,
+          "Speed": 2.0
+        },
+        "MYTHIC": {
+          "Health": 20.0,
+          "Intelligence": 150.0,
+          "Speed": 3.0
+        }
+      }
+    },
+    "Withered": {
+      "reforgeStone": "WITHER_BLOOD",
+      "type": "Swords",
+      "extraProperty": "§fGrants §c+1 §c❁ Strength§f per §cCatacombs§f level.",
+      "stats": {
+        "COMMON": {
+          "Strength": 60.0
+        },
+        "UNCOMMON": {
+          "Strength": 75.0
+        },
+        "RARE": {
+          "Strength": 90.0
+        },
+        "EPIC": {
+          "Strength": 110.0
+        },
+        "LEGENDARY": {
+          "Strength": 135.0
+        },
+        "MYTHIC": {
+          "Strength": 170.0
+        }
+      }
+    },
+    "Zooming": {
+      "type": "Hoes",
+      "stats": {
+        "COMMON": {
+          "Speed": 5.0
+        },
+        "UNCOMMON": {
+          "Speed": 8.0
+        },
+        "RARE": {
+          "Speed": 12.0
+        },
+        "EPIC": {
+          "Speed": 16.0
+        },
+        "LEGENDARY": {
+          "Speed": 20.0
+        },
+        "MYTHIC": {
+          "Speed": 25.0
+        }
+      }
+    }
+  }
+}
