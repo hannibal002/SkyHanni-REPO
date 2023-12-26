@@ -10,5 +10,8 @@
     "Burning": 20,
     "Fiery": 30,
     "Infernal": 40
+  },
+  "enchant_multiplier": {
+    "infinite_quiver": 0.03
   }
 }
