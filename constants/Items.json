@@ -11,7 +11,7 @@
     "Fiery": 30,
     "Infernal": 40
   },
-  "enchantMultiplier": {
+  "enchant_multiplier": {
     "infinite_quiver": 0.03
   }
 }
