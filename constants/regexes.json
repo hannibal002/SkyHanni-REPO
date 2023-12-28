@@ -1,15 +1,36 @@
 {
-  "sourceLabel": "4c12e44",
+  "sourceLabel": "c975784",
   "regexes": {
+    "data.owninventory.chat.movedsacktoinventory": "§aMoved §r§e\\d* (?\u003cname\u003e.*)§r§a from your Sacks to your inventory.",
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
+    "garden.plot.spray.target": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§7with §r§a(?\u003cspray\u003e.*)§r§7!",
+    "auctions.highlight.buyitnow": "§7Buy it now: §6(?\u003ccoins\u003e.*) coins",
     "minion.chat.upgrade": "§aYou have upgraded your Minion to Tier (?\u003ctier\u003e.*)",
     "minion.chat.coin": "§aYou received §r§6(.*) coins§r§a!",
     "minion.title": "Minion [^➜]",
     "minion.item.collect": "^§aCollect All$",
     "diana.chat.burrow.dug": "(§eYou dug out a Griffin Burrow!|§eYou finished the Griffin burrow chain!) .*",
     "diana.chat.coins": "§6§lWow! §r§eYou dug out §r§6(?\u003ccoins\u003e.*) coins§r§e!",
+    "event.diana.mythological.tracker.minotaur": ".* §r§eYou dug out a §r§2Minotaur§r§e!",
+    "event.diana.mythological.tracker.gaiaconstruct": ".* §r§eYou dug out a §r§2Gaia Construct§r§e!",
+    "event.diana.mythological.tracker.minoschampion": ".* §r§eYou dug out a §r§2Minos Champion§r§e!",
+    "event.diana.mythological.tracker.siameselynxes": ".* §r§eYou dug out §r§2Siamese Lynxes§r§e!",
+    "event.diana.mythological.tracker.minoshunter": ".* §r§eYou dug out a §r§2Minos Hunter§r§e!",
+    "event.diana.mythological.tracker.minosinquisitor": ".* §r§eYou dug out a §r§2Minos Inquisitor§r§e!",
+    "garden.level.inventory.nextxp": ".* §e(?\u003cnextLevelExp\u003e.*)§6/.*",
+    "garden.level.inventory.overflow": ".*§r §6(?\u003coverflow\u003e.*)",
+    "garden.level.inventory.currentlevel": "Garden Level (?\u003ccurrentLevel\u003e.*)",
+    "garden.level.chat.increase": " {4}§r§8\\+§r§2(?\u003cexp\u003e.*) §r§7Garden Experience",
+    "garden.jacob.contests.inventory.medal": "§7§7You placed in the (?\u003cmedal\u003e.*) §7bracket!",
     "harp.inventory": "^Harp.*",
-    "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!"
+    "garden.spray.material": "§a§lSPRAYONATOR! §r§7Your selected material is now §r§a(?\u003cspray\u003e.*)§r§7!",
+    "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!",
+    "event.winter.newyearcake.reminder.sidebar": "§dNew Year Event!§f (?\u003ctime\u003e.*)",
+    "rift.area.westvillage.vermintracker.silverfish": ".*§eYou vacuumed a §.*Silverfish.*",
+    "rift.area.westvillage.vermintracker.spider": ".*§eYou vacuumed a §.*Spider.*",
+    "rift.area.westvillage.vermintracker.fly": ".*§eYou vacuumed a §.*Fly.*",
+    "rift.area.westvillage.vermintracker.binline": "§fVermin Bin: §\\w(?\u003ccount\u003e\\d+) (?\u003cvermin\u003e\\w+)",
+    "rift.area.westvillage.vermintracker.bagline": "§fVacuum Bag: §\\w(?\u003ccount\u003e\\d+) (?\u003cvermin\u003e\\w+)"
   }
 }
