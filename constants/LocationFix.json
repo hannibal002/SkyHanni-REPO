@@ -35,6 +35,12 @@
       "b": "-540.0:110:-646.0",
       "island_name": "Crimson Isle",
       "real_location": "Burning Desert"
+    },
+    "extendedMistArea": {
+      "a": "-90.0:105:16.0",
+      "b": "200.0:67:163.0",
+      "island_name": "Dwarven Mines",
+      "real_location": "The Mist"
     }
   }
 }
