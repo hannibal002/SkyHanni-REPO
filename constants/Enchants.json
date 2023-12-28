@@ -318,6 +318,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "pesterminator": {
+      "loreName": "Pesterminator",
+      "nbtName": "pesterminator",
+      "goodLevel": 2,
+      "maxLevel": 5
+    },
     "piercing": {
       "loreName": "Piercing",
       "nbtName": "piercing",
@@ -701,6 +707,12 @@
     "one for all": {
       "loreName": "One For All",
       "nbtName": "ultimate_one_for_all",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "refrigerate": {
+      "loreName": "Refrigerate",
+      "nbtName": "ultimate_refrigerate",
       "goodLevel": 0,
       "maxLevel": 5
     },
