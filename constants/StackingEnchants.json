@@ -1,0 +1,79 @@
+{
+  "enchants": {
+    "compact": {
+      "levels": [
+        0,
+        100,
+        500,
+        1500,
+        5000,
+        15000,
+        50000,
+        150000,
+        500000,
+        1000000
+      ],
+      "statName": "compact_blocks"
+    },
+    "cultivating": {
+      "levels": [
+        0,
+        1000,
+        5000,
+        25000,
+        100000,
+        300000,
+        1500000,
+        5000000,
+        20000000,
+        100000000
+      ],
+      "statName": "farmed_cultivating"
+    },
+    "expertise": {
+      "levels": [
+        0,
+        50,
+        100,
+        250,
+        500,
+        1000,
+        2500,
+        5500,
+        10000,
+        15000
+      ],
+      "statName": "expertise_kills"
+    },
+    "hecatomb": {
+      "levels": [
+        0,
+        2,
+        5,
+        10,
+        20,
+        30,
+        40,
+        60,
+        80,
+        100
+      ],
+      "statName": "hecatomb_s_runs"
+    },
+    "champion": {
+      "levels": [
+        0,
+        50000,
+        100000,
+        250000,
+        500000,
+        1000000,
+        1500000,
+        2000000,
+        2500000,
+        3000000
+      ],
+      "statName": "champion_combat_xp"
+    }
+  }
+}
