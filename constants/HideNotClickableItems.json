@@ -74,12 +74,7 @@
       "Basket of Seeds",
       "Builder's Ruler",
       "Builder's Wand",
-      "Greater Backpack",
-      "Jumbo Backpack",
-      "Large Backpack",
-      "Medium Backpack",
-      "Nether Wart Pouch",
-      "Small Backpack"
+      "Nether Wart Pouch"
     ],
     "startsWith": [],
     "endsWith": [
@@ -160,7 +155,10 @@
       "Arachne's Helmet",
       "Arachne's Leggings",
       "Arachne's Necklace",
-      "Arack"
+      "Arack",
+      "Spider Talisman",
+      "Ice Rod",
+      "Yeti Rod"
     ]
   }
 }
