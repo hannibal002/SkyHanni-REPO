@@ -1,202 +1,220 @@
 {
   "bingo_tips": {
-    "'Tis The Season (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Give gifts to other players."
-      ]
-    },
-    "The Beginning (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Break logs with your fist."
-      ]
-    },
-    "Grinding Away (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Collect Cobblestone."
-      ]
-    },
-    "A Howl Lotta Kills (Community Goal)": {
+    "Lucky Looter (Community Goal)": {
       "difficulty": "Medium",
       "note": [
-        "Kill tier 1 Sven slayer bosses."
-      ],
-      "found": "Merp"
-    },
-    "Sunken Treasures (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Fish up coin treasures."
+        "Kill Endermen in The End using full Ender Armor and a Void Sword or Dreadlord Sword."
       ]
     },
-    "Sweet Collection": {
-      "difficulty": "Easy",
-      "note": [
-        "Collect 200,000 Sugar Cane."
-      ],
-      "found": "LincXS"
-    },
-    "Party Of One": {
-      "difficulty": "Easy",
-      "note": [
-        "Craft and eat a cake."
-      ],
-      "found": "karicc"
-    },
-    "Moral Support": {
-      "difficulty": "Easy",
-      "note": [
-        "Say \"Help Wizardman\" next to",
-        "the Wizardman NPC found",
-        "in the Rift."
-      ],
-      "found": "VeganTrials"
-    },
-    "Bad Cleric": {
-      "difficulty": "Easy",
-      "note": [
-        "Kill 250 Zombie Villagers."
-      ],
-      "found": "CookieLuvsFlurea"
-    },
-    "Betrayal": {
-      "difficulty": "Easy",
-      "note": [
-        "Throw an egg at a chicken while",
-        "wearing the chicken head."
-      ],
-      "found": "Medua & Diotechnon"
-    },
-    "High Spirits": {
-      "difficulty": "Easy",
-      "note": [
-        "Find 7 Fairy Souls above y=130 in",
-        "the Hub."
-      ],
-      "found": "GoldenDusk"
-    },
-    "Am I Forgetting Something?": {
+    "Goblin's Treasure (Community Goal)": {
       "difficulty": "Medium",
       "note": [
-        "Start a dungeon without any",
-        "armor or pet equipped."
-      ],
-      "found": "Byrules"
+        "Throw Goblin Eggs that you get from killing Goblins or opening chests in the Crystal Hollows",
+        "in the Dwarven Mines and kill what spawns from it."
+      ]
     },
-    "Choices, Choices...": {
+    "Hunter (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "You should use SkyHanni's Trapper features to make this easier.",
+        "Use /warp trapper to get back to Trevor whenever you want"
+      ]
+    },
+    "Skilled (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Do your daily experiments in the Experimentation Table, always do the highest tier you can."
+      ]
+    },
+    "Enderman Slayer (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Kill Endermen in The End using full Ender Armor and a Void Sword or Dreadlord Sword."
+      ]
+    },
+    "I Am Speed": {
+      "difficulty": "Easy",
+      "note": [
+        "Talk to Jamie (-36 68 -39) in The Hub and claim the Rogue Sword from him.",
+        "Right Click it to gain temporarily +100 Speed."
+      ]
+    },
+    "Healthy": {
+      "difficulty": "Easy",
+      "note": [
+        "Wear armor enchanted with Growth 5 (Enchanting Level 5).",
+        "Applying Growth 5 costs 50 Levels each."
+      ]
+    },
+    "Exterminator": {
       "difficulty": "Hard",
       "note": [
-        "Swap your faction in",
-        "the Crimson Isle."
-      ],
-      "found": "Xaw"
+        "Kill farm animals in the Barn with a Cleaver with Cleave 5 and Sharpness 5",
+        "or spiders in Arachne's Burrow (-309 92 -209) in the Spider's Den with a Dreadlord Sword.",
+        "You can also kill Endermen in The End to get progress towards the Lucky Looter ",
+        "and Enderman Slayer Community Goal."
+      ]
     },
-    "Getting A Boost": {
+    "End Stone Collector": {
       "difficulty": "Easy",
       "note": [
-        "Get potions from Alixer",
-        "25 times."
-      ],
-      "found": "Benane"
+        "Go to The End to mine Ender Nodes and kill Nest Mites for Enchanted End Stone.",
+        "You need to be Combat Level 12 to go there."
+      ]
     },
-    "Soft Pork": {
+    "Dwarves Defender": {
       "difficulty": "Medium",
       "note": [
-        "Kill a pig with a Pig Axe that",
-        "is enchanted with Silk Touch."
-      ],
-      "found": "Pigical"
+        "Kill Goblins in the Goblin Burrows (-100 163 150) while an event is going on.",
+        "You need Mining Level 12 to visit the required island."
+      ]
     },
-    "Extinguished Brilliance": {
-      "difficulty": "Easy",
-      "note": [
-        "Put out the fire next to",
-        "the Mad Redstone Engineer",
-        "in the Hub."
-      ],
-      "found": "?"
-    },
-    "Who's Afraid?": {
-      "difficulty": "Easy",
-      "note": [
-        "Draw on the Canvas in the Hub",
-        "with the colors Red, Yellow and",
-        "Blue."
-      ],
-      "found": "?"
-    },
-    "A Royal Meal": {
+    "A Lost Cause": {
       "difficulty": "Medium",
       "note": [
-        "Give 3 Green Goblin Eggs to",
-        "the Goblin King in Crystal Hollows."
-      ],
-      "found": "daniflytrap"
+        "Start an Entrance floor and play Mage/Tank/Berserker to use",
+        "the classes abilities to kill a Lost Adventurer. You only need to get the last hit",
+        "on it to count, so you can get help from your team.",
+        "You need Combat Level 15 to join a Dungeon."
+      ]
     },
-    "A Helping Hand": {
-      "difficulty": "Easy",
-      "note": [
-        "Place a Super Compactor 3000",
-        "into Arthur's wheat minion",
-        "in the Hub."
-      ],
-      "found": "MasterTomer2003"
-    },
-    "Unseasoned Food": {
+    "Dark Oak Wood Collector": {
       "difficulty": "Hard",
       "note": [
-        "Put a Vanille Trophy Fish in the",
-        "Melancholic Viking's furnace",
-        "in the Park."
-      ],
-      "found": "?"
+        "Optimal for this would be using a Golden Axe with Efficiency 5 and",
+        "having the Haste 3 potion effect to chop down Dark Oak. Reforge your Axe to Double-Bit or Lush",
+        "for bonus foraging fortune. Unlock Dark Oak Minions and place them on your island.",
+        "Remember to level them up using the material they produce and give them at least a medium storage",
+        "and the best fuel you can afford if you can collect them in time.",
+        "You can also manually forage in the Dark Thicket area (-353 103 -23) in The Park (/warp park)."
+      ]
     },
-    "A New Look": {
+    "Fashionable": {
       "difficulty": "Medium",
       "note": [
-        "Stand next to a minion",
-        "with a skin while wearing",
-        "a Tuxedo armor set."
-      ],
-      "found": "?"
+        "You can go for the following sets:",
+        "Leather, Iron, Gold, Diamond, (those need 24 of the respective material to be made)",
+        "Chainmail (buy it from the Iron Forger in The Gold Mine at -2 75 -308 for 275 coins),",
+        "Ender (requires all 4 equipments aswell), Leaflet (Oak Wood 3 and 24 Oak Leaves to craft),",
+        "Farm Suit (Wheat 3 and 24 Hay Bales to craft), Mushroom (Mushroom 3 and 24 Red Mushrooms to craft),",
+        "Cactus (Cactus 2 and 24 Cactus to craft), Pumpkin (Pumpkin 2 and 24 Pumpkins to craft),",
+        "Buy those following sets from Rosetta in The Hub (-12 68 -141)",
+        "Squire (Combat 5 and 24k coins), Rosetta’s (4530 coins),",
+        "Celeste (Combat 5 and 24k coins), Starlight (Combat 8 and 180k coins)."
+      ]
     },
-    "Therein it lies...": {
+    "Strongman": {
       "difficulty": "Medium",
       "note": [
-        "Kill 150 Cruxes",
-        "(any of the mobs that drop",
-        "\"crux\" items in the Rift)."
-      ],
-      "found": "ForagerRedstone"
+        "Get yourself a splash, equip a Bingo Pet",
+        "and get the cake buff by eating the cakes on owocato's, xMeru's or prtl's island.",
+        "If this doesn't finish it, get a Void Sword (200k) in the End",
+        "and hold it while some Ender Armor and/or Equipment."
+      ]
     },
-    "Honest Work": {
+    "Topaz Crystal": {
       "difficulty": "Easy",
       "note": [
-        "Participate without winning a",
-        "medal in every type of farming",
-        "contest."
-      ],
-      "found": "?"
+        "Do your daily commissions to unlock the Crystal Hollows at Heart of the Mountain III",
+        "(this will need 3 days worth of daily commissions (4 each)).",
+        "Find Bal by asking in chat or using Wishing Compasses."
+      ]
     },
-    "Buzzybuddy": {
+    "Collecting Data": {
+      "difficulty": "Easy",
+      "note": [
+        "You will most likely get this passively.",
+        "Use /be ingame to view your progress."
+      ]
+    },
+    "Sightseer": {
+      "difficulty": "Easy",
+      "note": [
+        "You can visit all Islands by using the warp command.",
+        "The Hub (/hub), Spider's Den (/warp spider), The End (/warp end),",
+        "Gold Mine (/warp gold), Deep Caverns (/warp deep),",
+        "Farming Isles (/warp barn & /warp desert)",
+        "Remember that some of them require certain skill levels to enter."
+      ]
+    },
+    "Bedazzled": {
+      "difficulty": "Medium",
+      "note": [
+        "It follows a list of more than 22 accessories you can go for:",
+        "Buyable from the Adventurer in the Hub (-41 70 -64):",
+        "Zombie/Skeleton Talisman: 500 coins each",
+        "Village/Mine Affinity Talisman: 2.5k coins each",
+        "Intimidation/Scavenger Talisman: 10k coins each",
+        "Collection Talismans:",
+        "Night Vision Charm (Mushroom 7), Farming Talisman (Wheat 4),",
+        "Vaccine Talisman (Potato 3), Gravity Talisman (Obsidian 3)",
+        "Talisman of Coins (Emerald 2), Magnetic Talisman (Emerald 3)",
+        "Emerald Ring (Emerald 5), Wood Affinity Talisman (Oak Wood 8)",
+        "Speed Talisman (Sugar Cane 2), Potion Affinity Talisman (Nether Wart 3)",
+        "Other:",
+        "Archaeologists Compass, Shiny Yellow Rock, Campfire Initiate Badge,",
+        "King Talisman, Cat Talisman, Spider Talisman, Frozen Chicken,",
+        "Red Claw Talisman (Wolf Slayer Level 1), Candy Talisman,",
+        "New Year Cake Bag (250k), Glacial Talisman (Frozen Treasure).",
+        "Don't forget to take the 4 Bonus accessory bag slots from",
+        "the Redstone Miner (24 104 16), he asks for 1920 Redstone in total."
+      ]
+    },
+    "Lumberjack": {
       "difficulty": "Hard",
       "note": [
-        "Have a Bee pet of at least",
-        "level 50 of each rarity."
-      ],
-      "found": "?"
+        "Optimal for this would be using a Golden Axe with Efficiency 5 and",
+        "having the Haste 3 potion effect to chop down Dark Oak. Reforge your Axe to Lumberjack's",
+        "or buy a Moil Log (50k) from the Smithmonger in the Hub (-32 69 -135)",
+        "and apply it to your axe for more Foraging Wisdom.",
+        "You will most likely get this while going for Dark Oak Wood Collector."
+      ]
     },
-    "Healthy Farming": {
+    "The Green Gold": {
+      "difficulty": "Medium",
+      "note": [
+        "Mine emeralds in the Dwarven Mines minecarts above the Bank.",
+        "It requires 32 Enchanted Emeralds and Emerald Collection 5 to craft this."
+      ]
+    },
+    "Powder Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "Open chests in the Crystal Hollows (Heart of the Mountain III), do commissions in",
+        "The Dwarven Mines, claim your daily powder from the Puzzler (181 196 135) and",
+        "from giving Fetchur (84 224 -118) the items he asks for. Fetchurs items are all listed in the Wiki.",
+        "Try to do those while a '2x Powder' event is active."
+      ]
+    },
+    "Relic Researcher": {
+      "difficulty": "Medium",
+      "note": [
+        "You can find Relic Coordinates in Skytils or the Wiki.",
+        "You will need Ender Pearls to reach some of them."
+      ]
+    },
+    "Pair Up!": {
       "difficulty": "Easy",
       "note": [
-        "Place all of the Builder's fruit",
-        "decoration blocks on your",
-        "Garden, then break them with a",
-        "Sweet Axe."
-      ],
-      "found": "Cinshay"
+        "Get Enchanting Level 10 and play the first tier in the Experimentation Table."
+      ]
+    },
+    "Experienced": {
+      "difficulty": "Medium",
+      "note": [
+        "Grind Ender Nodes in The End until you get one.",
+        "It has a 1.31% chance to drop from the Obsidian Nodes.",
+        "You need Combat Level 12 to get there."
+      ]
+    },
+    "Carrot Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "Farm carrots in The Garden using an Advanced Gardening Hoe (25 Copper).",
+        "The Garden requires SkyBlock Level 5 to be entered and you need Garden Level 2",
+        "to plant carrots. A full plot of carrots requires 7896 carrots. You can farm those",
+        "in The Barn (/warp barn) or in the cave below the Mountain in The Hub."
+      ]
     }
   }
 }
