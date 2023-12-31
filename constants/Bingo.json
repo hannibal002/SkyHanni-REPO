@@ -125,7 +125,7 @@
       ]
     },
     "Topaz Crystal": {
-      "difficulty": "Easy",
+      "difficulty": "Medium",
       "note": [
         "Do your daily commissions to unlock the Crystal Hollows ",
         "at Heart of the Mountain III (do your daily commissions",
@@ -170,7 +170,7 @@
       ]
     },
     "Lumberjack": {
-      "difficulty": "Hard",
+      "difficulty": "Easy",
       "note": [
         "Optimal tool:",
         "Golden Axe with Efficiency 5",
@@ -215,7 +215,7 @@
     "Experienced": {
       "difficulty": "Medium",
       "note": [
-        "Grind Ender Nodes in The End until you get one.",
+        "Mine Ender Nodes in The End until you get one.",
         "It has a 1.31% chance to drop from the Obsidian Nodes.",
         "You need Combat Level 12 to get there."
       ]
