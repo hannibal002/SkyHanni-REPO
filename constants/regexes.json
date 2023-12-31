@@ -31,6 +31,9 @@
     "rift.area.westvillage.vermintracker.spider": ".*§eYou vacuumed a §.*Spider.*",
     "rift.area.westvillage.vermintracker.fly": ".*§eYou vacuumed a §.*Fly.*",
     "rift.area.westvillage.vermintracker.binline": "§fVermin Bin: §\\w(?\u003ccount\u003e\\d+) (?\u003cvermin\u003e\\w+)",
-    "rift.area.westvillage.vermintracker.bagline": "§fVacuum Bag: §\\w(?\u003ccount\u003e\\d+) (?\u003cvermin\u003e\\w+)"
+    "rift.area.westvillage.vermintracker.bagline": "§fVacuum Bag: §\\w(?\u003ccount\u003e\\d+) (?\u003cvermin\u003e\\w+)",
+    "garden.jacob.contest.tab.data": " §r(§e○|§6☘) §r§f(?<crop>.+) §r§f◆ §r§f§lTOP §r(?<color>§.)§l(?<percent>(\\d|[.])+)% §r§f◆ (?<participants>.+) ☻"
+    "garden.jacob.contest.scoreboard.time.left": "(§e○|§6☘) §f(?<crop>.+) §a(?<time>\\d+m\\d+s)"
+    "garden.jacob.contest.scoreboard.score": " (Collected|(?<medal>§b§lDIAMOND|§3§lPLATINUM|§6§lGOLD|§f§lSILVER|§c§lBRONZE) §fwith) §e(?<amount>.+)"
   }
 }
