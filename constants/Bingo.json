@@ -62,6 +62,20 @@
         "Right Click it to gain temporarily +100 Speed."
       ]
     },
+    "Carrot Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "250k Carrot collection"
+      ],
+      "guide": [
+        "Optimal tool:",
+        "Advanced Gardening Hoe (25 copper)",
+        "Make a full plot of carrots (7896 needed)",
+        "in The Garden (SkyBlock Level 5)",
+        "Get the carrots to plant from The Barn",
+        "or from the cave under the mountain in The Hub."
+      ]
+    },
     "Healthy": {
       "difficulty": "Easy",
       "note": [
@@ -292,19 +306,5 @@
         "You need Combat Level 12 to get there."
       ]
     },
-    "Carrot Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "250k Carrot collection"
-      ],
-      "guide": [
-        "Optimal tool:",
-        "Advanced Gardening Hoe (25 copper)",
-        "Make a full plot of carrots (7896 needed)",
-        "in The Garden (SkyBlock Level 5)",
-        "Get the carrots to plant from The Barn",
-        "or from the cave under the mountain in The Hub."
-      ]
-    }
   }
 }
