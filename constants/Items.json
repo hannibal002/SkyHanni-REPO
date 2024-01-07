@@ -35,5 +35,8 @@
     "GIANT_FISHING_ROD",
     "THE_SHREDDER",
     "PHANTOM_ROD"
-  ]
+  ],
+  "enchant_multiplier": {
+    "infinite_quiver": 0.03
+  }
 }
