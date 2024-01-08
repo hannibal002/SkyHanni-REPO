@@ -1,45 +1,59 @@
 {
   "arrows": [
-    "None": {
+    {
+      "arrow": "None",
       "internalName": "NONE"
     },
-    "Slime Ball": {
+    {
+      "arrow": "Slime Ball",
       "internalName": "SLIME_BALL"
     },
-    "Prismarine Shard": {
+    {
+      "arrow": "Prismarine Shard",
       "internalName": "PRISMARINE_SHARD"
     },
-    "Flint Arrow": {
+    {
+      "arrow": "Flint Arrow",
       "internalName": "ARROW"
     },
-    "Reinforced Iron Arrow": {
+    {
+      "arrow": "Reinforced Iron Arrow",
       "internalName": "REINFORCED_IRON_ARROW"
     },
-    "Gold-tipped Arrow": {
+    {
+      "arrow": "Gold-tipped Arrow",
       "internalName": "GOLD_TIPPED_ARROW"
     },
-    "Redstone-tipped Arrow": {
+    {
+      "arrow": "Redstone-tipped Arrow",
       "internalName": "REDSTONE_TIPPED_ARROW"
     },
-    "Emerald-tipped Arrow": {
+    {
+      "arrow": "Emerald-tipped Arrow",
       "internalName": "EMERALD_TIPPED_ARROW"
     },
-    "Bouncy Arrow": {
+    {
+      "arrow": "Bouncy Arrow",
       "internalName": "BOUNCY_ARROW"
     },
-    "Icy Arrow": {
+    {
+      "arrow": "Icy Arrow",
       "internalName": "ICY_ARROW"
     },
-    "Armorshred Arrow": {
+    {
+      "arrow": "Armorshred Arrow",
       "internalName": "ARMORSHRED_ARROW"
     },
-    "Explosive Arrow": {
+    {
+      "arrow": "Explosive Arrow",
       "internalName": "EXPLOSIVE_ARROW"
     },
-    "Glue Arrow": {
+    {
+      "arrow": "Glue Arrow",
       "internalName": "GLUE_ARROW"
     },
-    "Nansorb Arrow": {
+    {
+      "arrow": "Nansorb Arrow",
       "internalName": "NANSORB_ARROW"
     }
   ]
