@@ -1,5 +1,5 @@
 {
-  "quiverArrowTypes": [
+  "arrow_type": [
     {
       "arrow": "None",
       "internalName": "NONE"
