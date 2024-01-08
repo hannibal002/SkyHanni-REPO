@@ -1,0 +1,60 @@
+{
+  "quiverArrowTypes": [
+    {
+      "arrow": "None",
+      "internalName": "NONE"
+    },
+    {
+      "arrow": "Slime Ball",
+      "internalName": "SLIME_BALL"
+    },
+    {
+      "arrow": "Prismarine Shard",
+      "internalName": "PRISMARINE_SHARD"
+    },
+    {
+      "arrow": "Flint Arrow",
+      "internalName": "ARROW"
+    },
+    {
+      "arrow": "Reinforced Iron Arrow",
+      "internalName": "REINFORCED_IRON_ARROW"
+    },
+    {
+      "arrow": "Gold-tipped Arrow",
+      "internalName": "GOLD_TIPPED_ARROW"
+    },
+    {
+      "arrow": "Redstone-tipped Arrow",
+      "internalName": "REDSTONE_TIPPED_ARROW"
+    },
+    {
+      "arrow": "Emerald-tipped Arrow",
+      "internalName": "EMERALD_TIPPED_ARROW"
+    },
+    {
+      "arrow": "Bouncy Arrow",
+      "internalName": "BOUNCY_ARROW"
+    },
+    {
+      "arrow": "Icy Arrow",
+      "internalName": "ICY_ARROW"
+    },
+    {
+      "arrow": "Armorshred Arrow",
+      "internalName": "ARMORSHRED_ARROW"
+    },
+    {
+      "arrow": "Explosive Arrow",
+      "internalName": "EXPLOSIVE_ARROW"
+    },
+    {
+      "arrow": "Glue Arrow",
+      "internalName": "GLUE_ARROW"
+    },
+    {
+      "arrow": "Nansorb Arrow",
+      "internalName": "NANSORB_ARROW"
+    }
+  ]
+}
