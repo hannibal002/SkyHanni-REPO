@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "32a62a6",
+  "sourceLabel": "9b16887",
   "regexes": {
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
@@ -37,8 +37,8 @@
     "garden.level.inventory.currentlevel": "Garden Level (?\u003ccurrentLevel\u003e.*)",
     "garden.level.chat.increase": " {4}§r§8\\+§r§2(?\u003cexp\u003e.*) §r§7Garden Experience",
     "garden.jacob.contests.inventory.medal": "§7§7You placed in the (?\u003cmedal\u003e.*) §7bracket!",
-    "garden.uniqueVisitors.tier": "§7Progress to Tier (?\u003cnextTier\u003e\\d+):.*",
-    "garden.uniqueVisitors.tierProgress": ".* §e(?\u003chaving\u003e.*)§6/(?\u003ctotal\u003e.*)",
+    "garden.fortuneguide.capture.uniquevisitors.tier": "§7Progress to Tier (?\u003cnextTier\u003e\\d+):.*",
+    "garden.fortuneguide.capture.uniquevisitors.tierprogress": ".* §e(?\u003chaving\u003e.*)§6/(?\u003ctotal\u003e.*)",
     "harp.inventory": "^Harp.*",
     "mining.powder.tracker.picked": "§6You have successfully picked the lock on this chest!",
     "mining.powder.tracker.uncovered": "§aYou uncovered a treasure chest!",
