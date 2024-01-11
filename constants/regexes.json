@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9b16887",
+  "sourceLabel": "844e627",
   "regexes": {
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
@@ -23,6 +23,7 @@
     "event.diana.mythological.tracker.siameselynxes": ".* §r§eYou dug out §r§2Siamese Lynxes§r§e!",
     "event.diana.mythological.tracker.minoshunter": ".* §r§eYou dug out a §r§2Minos Hunter§r§e!",
     "event.diana.mythological.tracker.minosinquisitor": ".* §r§eYou dug out a §r§2Minos Inquisitor§r§e!",
+    "inventory.npc.sell.lore": "§7them to this Shop!|§eClick to buyback!",
     "relay.chat.1st": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe first relay is on a branch of the large tree on the north-east of the fairy pond.",
     "relay.chat.2nd": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe next relay is in the castle ruins!",
     "relay.chat.3rd": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe next relay is in the §bRoyal Palace §rwithin the Dwarven Mines.",
