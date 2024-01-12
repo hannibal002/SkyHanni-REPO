@@ -1,0 +1,7 @@
+{
+    "lobby_thresholds": {
+        "min_players": 4,
+        "min_lobby_age": 18,
+        "max_lobby_age": 25
+    }
+}
