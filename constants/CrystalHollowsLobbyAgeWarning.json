@@ -1,5 +1,5 @@
 {
     "minPlayers": 4,
-    "minLobbyAge": 18,
-    "maxLobbyAge": 25
+    "minLobbyAgeMCDays": 18,
+    "maxLobbyAgeMCDays": 25
 }
