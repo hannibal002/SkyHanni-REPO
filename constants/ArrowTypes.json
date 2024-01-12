@@ -41,6 +41,9 @@
     },
     "NANSORB_ARROW": {
       "arrow": "Nansorb Arrow"
+    },
+    "MAGMA_ARROW": {
+      "arrow": "Magma Arrow"
     }
   }
 }
