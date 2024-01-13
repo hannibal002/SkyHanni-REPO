@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "844e627",
+  "sourceLabel": "ff5863c",
   "regexes": {
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
@@ -11,6 +11,8 @@
     "garden.plot.spray.target": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§7with §r§a(?\u003cspray\u003e.*)§r§7!",
     "bingo.detection.scoreboard": " §.Ⓑ §.Bingo",
     "auctions.highlight.buyitnow": "§7Buy it now: §6(?\u003ccoins\u003e.*) coins",
+    "event.winter.uniquegifts.gifted": "§6\\+1 Unique Gift given! To ([^§]+)§r§6!",
+    "event.winter.uniquegifts.giftname": "(?:WHITE|RED|GREEN)_GIFT$",
     "minion.chat.upgrade": "§aYou have upgraded your Minion to Tier (?\u003ctier\u003e.*)",
     "minion.chat.coin": "§aYou received §r§6(.*) coins§r§a!",
     "minion.title": "Minion [^➜]",
