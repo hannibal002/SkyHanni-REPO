@@ -1,10 +1,15 @@
 {
-  "sourceLabel": "59366da",
+  "sourceLabel": "2d11b0c",
   "regexes": {
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
     "data.hypixeldata.islandname": "(?:§.)*(Area|Dungeon): (?:§.)*(?\u003cisland\u003e.*)",
     "data.owninventory.chat.movedsacktoinventory": "§aMoved §r§e\\d* (?\u003cname\u003e.*)§r§a from your Sacks to your inventory.",
+    "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
+    "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
+    "actionbar.mana": ".*§b(?\u003cmana\u003e[\\d,]+)/[\\d,]+✎.*",
+    "actionbar.rift.time": "§[a7](?\u003criftTime\u003e[\\dms ]+)ф.*",
+    "actionbar.skyblock.xp": ".*(§b\\+\\d+ SkyBlock XP §.\\([^()]+\\)§b \\(\\d+/\\d+\\)).*",
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
     "utils.item.petlevel": "(?:§f§f)?§7\\[Lvl (?\u003clevel\u003e\\d+)] .*",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
