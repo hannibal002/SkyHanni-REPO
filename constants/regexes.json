@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a4fe926",
+  "sourceLabel": "6379632",
   "regexes": {
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
@@ -67,7 +67,9 @@
     "garden.fortuneguide.capture.uniquevisitors.tierprogress": ".* §e(?\u003chaving\u003e.*)§6/(?\u003ctotal\u003e.*)",
     "fame.projects.contribute": "§7Contribute again: §e(?\u003ctime\u003e.*)",
     "fame.projects.completed": "§aProject is (?:being built|released)!",
-    "harp.inventory": "^Harp.*",
+    "harp.inventory": "Harp.*",
+    "harp.menu": "Melody.*",
+    "harp.song.selected": "§aSong is selected!",
     "mining.powder.tracker.picked": "§6You have successfully picked the lock on this chest!",
     "mining.powder.tracker.uncovered": "§aYou uncovered a treasure chest!",
     "mining.powder.tracker.powder.started": ".*§r§b§l2X POWDER ENDED!.*",
