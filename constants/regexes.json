@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6379632",
+  "sourceLabel": "cf0bd0f",
   "regexes": {
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
@@ -124,6 +124,8 @@
     "mining.powder.tracker.reward.diamondessence": "§aYou received §r§b[+](?\u003camount\u003e.*) Diamond Essence§r§a.",
     "mining.powder.tracker.reward.goldessence": "§aYou received §r§6[+](?\u003camount\u003e.*) Gold Essence§r§a.",
     "tablist.firesaletitle": "§b§lFire Sales: §r§f\\([0-9]+\\)",
+    "crimson.volcano.header.tablistline": "(?:§.)*Volcano Explosivity:(?:[\\S ]+)*",
+    "crimson.volcano.status.tablistline": " *(?\u003cstatus\u003e(?:§.)*\\S+)",
     "garden.spray.material": "§a§lSPRAYONATOR! §r§7Your selected material is now §r§a(?\u003cspray\u003e.*)§r§7!",
     "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!",
     "event.winter.newyearcake.reminder.sidebar": "§dNew Year Event!§f (?\u003ctime\u003e.*)",
