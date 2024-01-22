@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "822913b",
+  "sourceLabel": "9afe501",
   "regexes": {
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
@@ -128,6 +128,8 @@
     "crimson.volcano.header.tablistline": "(?:§.)*Volcano Explosivity:(?:[\\S ]+)*",
     "crimson.volcano.status.tablistline": " *(?\u003cstatus\u003e(?:§.)*\\S+)",
     "garden.spray.material": "§a§lSPRAYONATOR! §r§7Your selected material is now §r§a(?\u003cspray\u003e.*)§r§7!",
+    "inventory.dojo.rankdisplay.name": "(?\u003ccolor\u003e§\\w)Test of (?\u003cname\u003e.*)",
+    "inventory.dojo.rankdisplay.rank": "(?:§\\w)+Your Rank: (?\u003crank\u003e§\\w.) §8\\((?\u003cscore\u003e\\d+)\\)",
     "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!",
     "event.winter.newyearcake.reminder.sidebar": "§dNew Year Event!§f (?\u003ctime\u003e.*)",
     "rift.area.westvillage.vermintracker.silverfish": ".*§eYou vacuumed a §.*Silverfish.*",
