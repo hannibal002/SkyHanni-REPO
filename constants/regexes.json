@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "cf0bd0f",
+  "sourceLabel": "822913b",
   "regexes": {
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
@@ -11,11 +11,12 @@
     "actionbar.rift.time": "§[a7](?\u003criftTime\u003e[\\dms ]+)ф.*",
     "actionbar.skyblock.xp": ".*(§b\\+\\d+ SkyBlock XP §.\\([^()]+\\)§b \\(\\d+/\\d+\\)).*",
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
-    "utils.item.petlevel": "(?:§f§f)?§7\\[Lvl (?\u003clevel\u003e\\d+)] .*",
     "utils.item.lore.rarity.line": "^(?:§.){2,3}(?:.§. (?:§.){4})?(?:SHINY )?(?\u003crarity\u003eCOMMON|UNCOMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|SUPREME|SPECIAL|VERY SPECIAL|ULTIMATE) ?(?:DUNGEON )?(?\u003citemCategory\u003e[^§]*)(?: (?:§.){3}.)?$",
     "utils.item.name.abiphone": ".{2}Abiphone .*",
     "utils.item.name.enchanted.book": ".{2}?Enchanted Book",
     "utils.item.name.potion": ".*Potion",
+    "utils.item.petlevel": "(?:§f§f)?§7\\[Lvl (?\u003clevel\u003e\\d+)] .*",
+    "skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
     "garden.plot.spray.target": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§7with §r§a(?\u003cspray\u003e.*)§r§7!",
     "data.party.you.joined": "§eYou have joined (?\u003cname\u003e.*)\u0027s §eparty!",
