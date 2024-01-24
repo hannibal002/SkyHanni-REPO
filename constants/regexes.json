@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "d025d93",
+  "sourceLabel": "9eb4023",
   "regexes": {
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
@@ -35,6 +35,7 @@
     "data.party.dungeonfinder.join": "§dParty Finder §f\u003e (?\u003cname\u003e.*?) §ejoined the dungeon group! \\(§[a-fA-F0-9].* Level \\d+§[a-fA-F0-9]\\)",
     "bingo.detection.scoreboard": " §.Ⓑ §.Bingo",
     "auctions.highlight.buyitnow": "§7Buy it now: §6(?\u003ccoins\u003e.*) coins",
+    "dungeon.end.chests.spawned": "(?:§f)?([ ]*)§r§c(The|Master Mode) Catacombs §r§8- §r§eFloor (.*)",
     "event.winter.uniquegifts.gifted": "§6\\+1 Unique Gift given! To ([^§]+)§r§6!",
     "event.winter.uniquegifts.giftname": "(?:WHITE|RED|GREEN)_GIFT$",
     "minion.chat.upgrade": "§aYou have upgraded your Minion to Tier (?\u003ctier\u003e.*)",
