@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e1d153d",
+  "sourceLabel": "f17ac28",
   "regexes": {
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
@@ -16,7 +16,7 @@
     "utils.item.name.enchanted.book": ".{2}?Enchanted Book",
     "utils.item.name.potion": ".*Potion",
     "utils.item.petlevel": "(?:§f§f)?§7\\[Lvl (?\u003clevel\u003e\\d+)] .*",
-    "skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
+    "utils.skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
     "garden.plot.spray.target": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§7with §r§a(?\u003cspray\u003e.*)§r§7!",
     "data.party.you.joined": "§eYou have joined (?\u003cname\u003e.*)\u0027s §eparty!",
