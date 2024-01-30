@@ -2,7 +2,6 @@
   "hide_npc_sell": {
     "equals": [
       "Ancient Claw",
-      "Arack",
       "Arachne's Belt",
       "Arachne's Boots",
       "Arachne's Chestplate",
@@ -11,6 +10,7 @@
       "Arachne's Helmet",
       "Arachne's Leggings",
       "Arachne's Necklace",
+      "Arack",
       "Ascension Rope",
       "Azure Bluet",
       "Bag of Gold",
@@ -18,8 +18,14 @@
       "Blaze Powder",
       "Bundle of Magma Arrows",
       "Cobblestone Slab",
+      "Condensed Fermento",
       "Corrupted Fragment",
       "Defuse Kit",
+      "Enchanted Brown Mushroom",
+      "Enchanted Golden Apple",
+      "Enchanted Red Mushroom",
+      "Enchanted Sugar",
+      "Enchanted Wool",
       "Ender Belt",
       "Ender Boots",
       "Ender Chestplate",
@@ -28,19 +34,17 @@
       "Ender Helmet",
       "Ender Leggings",
       "Ender Necklace",
-      "Enchanted Golden Apple",
-      "Enchanted Wool",
       "Endstone Rose",
       "Fairy's Fedora",
       "Fairy's Galoshes",
       "Fairy's Polo",
       "Fairy's Trousers",
       "Fermento",
-      "Golden Apple",
       "Goblin Boots",
       "Goblin Chestplate",
       "Goblin Helmet",
       "Goblin Leggings",
+      "Golden Apple",
       "Healing VIII Splash Potion",
       "Ice Rod",
       "Journal Entry",
@@ -66,7 +70,8 @@
       "Music Disc"
     ],
     "endsWith": [
-      " Rune I"
+      " Rune I",
+      " Vinyl"
     ]
   },
   "hide_in_storage": {
