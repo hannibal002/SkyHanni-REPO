@@ -1,4 +1,5 @@
 {
+  "_": "The list below is an ALLOWLIST for NPC sell. It was named misleadingly when added, and renaming it now would break things.",
   "hide_npc_sell": {
     "equals": [
       "Ancient Claw",
