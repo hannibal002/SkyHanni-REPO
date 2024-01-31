@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "66edf22",
+  "sourceLabel": "d947829",
   "regexes": {
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
@@ -66,6 +66,7 @@
     "relay.chat.8th": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe next relay is on top of a statue in the dungeon hub.",
     "relay.chat.9th": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe next relay is on top of the Auction House.",
     "garden.visitor.partialaccepted": "§aYou gave some of the required items!",
+    "garden.barn.skin.change": "§aChanging Barn skin to §r.*",
     "garden.level.inventory.nextxp": ".* §e(?\u003cnextLevelExp\u003e.*)§6/.*",
     "garden.level.inventory.overflow": ".*§r §6(?\u003coverflow\u003e.*)",
     "garden.level.inventory.currentlevel": "Garden Level (?\u003ccurrentLevel\u003e.*)",
