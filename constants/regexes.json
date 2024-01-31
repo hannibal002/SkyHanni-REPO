@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "aa82449",
+  "sourceLabel": "66edf22",
   "regexes": {
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
@@ -14,6 +14,7 @@
     "utils.item.lore.rarity.line": "^(?:§.){2,3}(?:.§. (?:§.){4})?(?:SHINY )?(?\u003crarity\u003eCOMMON|UNCOMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|SUPREME|SPECIAL|VERY SPECIAL|ULTIMATE) ?(?:DUNGEON )?(?\u003citemCategory\u003e[^§]*)(?: (?:§.){3}.)?$",
     "utils.item.name.abiphone": ".{2}Abiphone .*",
     "utils.item.name.enchanted.book": ".{2}?Enchanted Book",
+    "utils.item.neuitems.enchantmentname": "^(?\u003cformat\u003e(?:§.)+)(?\u003cname\u003e[^§]+) (?\u003clevel\u003e[IVXL]+)$",
     "utils.item.name.potion": ".*Potion",
     "utils.item.petlevel": "(?:§f§f)?§7\\[Lvl (?\u003clevel\u003e\\d+)] .*",
     "utils.skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
