@@ -83,9 +83,10 @@
         "1000 Health"
       ],
       "guide": [
-        "Wear armor enchanted with Growth 5 ",
-        "(Enchanting Level 5).",
-        "Applying Growth 5 costs 50 Levels each."
+        "Wear Mushroom Armor enchanted with Growth 5",
+        "during the night.",
+        "Growth 5 requires Enchanting Level 5",
+        "and costs 50 Experience Levels per piece."
       ]
     },
     "Experienced": {
@@ -94,7 +95,7 @@
         "Obtain a Grand Experience Bottle"
       ],
       "guide": [
-        "Can be made from Lapis Lazuli Collection 5(10k),",
+        "Can be made from Lapis Lazuli Collection 5 (10k),",
         "a drop from fishing, from the Experimentation Table,",
         "and dropped from Ender Nodes in the End (11-13% chance)."
       ]
@@ -107,7 +108,7 @@
       "guide": [
         "Mine Diamonds in the Deep Caverns until",
         "you get a Rare Diamond to apply.",
-        "Safe spot to do this is between the Diamond Reserve",
+        "A safe spot to do this is between the Diamond Reserve",
         "and the Obsidian Sanctuary (-20 27 70).",
         "Mobs don't spawn there."
 
@@ -131,7 +132,11 @@
       ],
       "guide": [
         "Do your daily commissions in the Dwarven Mines",
-        "(4 per day). You will need Mining 12 to go there."
+        "(4 per day). You will need Mining 12 to go there.",
+        "You can also easily do it all in one day, though the",
+        "HOTM XP is reduced after the first 4 a day.",
+        "Can also be completed in the Crystal Hollows,",
+        "though it is harder unless you get a Pickonimbus."
       ]
     },
     "Jungle Wood Collector": {
@@ -146,9 +151,10 @@
         "Get Haste 3 from a splash to instamine wood",
         "Forage in the Jungle Island (/warp jungle).",
         "You will need Foraging Level 5 to go there.",
-        "Place as many minions as you can",
+        "Place as many minions as you can,",
         "give them a medium storage and the best fuel",
-        "you can. Collect them in time."
+        "you can. Collect them in time (about once every 4h,",
+        "or up to every 2h with Tasty Cheese)."
       ]
     },
     "Farmer": {
@@ -159,7 +165,7 @@
       "guide": [
         "You will most likely get this",
         "while going for Garden Level 8",
-        "and the Cocoa Beans Collector Goal."
+        "and the Cocoa Beans Collector goal."
       ]
     },
     "The Green Gold": {
@@ -171,7 +177,7 @@
         "Mine emeralds in the Dwarven Mines minecarts above the Bank.",
         "Needs 32 Enchanted Emeralds and Emerald Collection 5.",
         "To speed this up you can utilize Cole's Mining Fiesta",
-        "while Jerry is Mayor and has Cole's perks active."
+        "while Jerry is mayor and has Cole's perks active."
       ]
     },
     "Spider Eye Collector": {
@@ -182,7 +188,8 @@
       "guide": [
         "Kill Spiders in the Spider's Den (/warp spider)",
         "place a few Cave Spider Minions and participate",
-        "in killing Arachne in Arachne's Sanctuary."
+        "in killing Arachne in Arachne's Sanctuary.",
+        "Recommended to wear a Cow Head to avoid the poison."
       ]
     },
     "I Am Speed": {
@@ -191,9 +198,10 @@
         "200 Speed"
       ],
       "guide": [
-        "Talk to Jamie in The Hub and",
+        "Talk to Jamie in the Hub and",
         "claim the Rogue Sword from him.",
-        "Right Click it to gain +100 Speed."
+        "Right click it to gain +100 Speed.",
+        "Or just wait for a splash."
       ]
     },
     "Fashionable": {
@@ -203,8 +211,8 @@
       ],
       "guide": [
         "Craft Leather, Iron, Gold, Diamond,",
-        "Mushroom and Farm Armor.",
-        "Craft Angler Armor for the Bingo Goal."
+        "Mushroom Armor and Farm Suit.",
+        "Craft Angler Armor for the Bingo goal."
       ]
     },
     "An Axe To Grind": {
@@ -277,7 +285,7 @@
       "guide": [
         "This requires Raw Fish Collection 5.",
         "You should place down a fishing minion",
-        "with a Medium Storage to help with this."
+        "with a medium storage to help with this."
       ]
     },
     "Skill Average": {
@@ -287,11 +295,12 @@
       ],
       "guide": [
         "To help with this, try to make bigger crafts",
-        "by hand (Carpentry Levels) and use the Cocoa Beans",
-        "from the Collection Goal to make Enchanted Cookies",
+        "by hand for Carpentry levels, and use the Cocoa Beans",
+        "from the collection goal to make Enchanted Cookies",
         "and brew Adrenaline Potions with them.",
-        "Also do your daily Experimentations and make sure",
-        "to have a pet active all the time."
+        "Also do your daily experiments and make sure",
+        "to have a pet active at all times",
+        "(any pet works, even level 100)."
       ]
     }
   }
