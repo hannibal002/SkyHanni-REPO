@@ -815,9 +815,7 @@
     },
     "Jerry": {
       "rarity": "legendary",
-      "need_items": [],
-      "mode": "dynamic",
-      "skinOrType": "EntityVillager"
+      "need_items": []
     },
     "Jotraeline Greatforge": {
       "rarity": "uncommon",
