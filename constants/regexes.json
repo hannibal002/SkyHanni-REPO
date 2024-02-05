@@ -1,6 +1,8 @@
 {
-  "sourceLabel": "d392c80",
+  "sourceLabel": "6ed8185",
   "regexes": {
+    "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
+    "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
     "data.hypixeldata.islandname": "(?:§.)*(Area|Dungeon): (?:§.)*(?\u003cisland\u003e.*)",
@@ -141,6 +143,10 @@
     "garden.spray.material": "§a§lSPRAYONATOR! §r§7Your selected material is now §r§a(?\u003cspray\u003e.*)§r§7!",
     "inventory.dojo.rankdisplay.name": "(?\u003ccolor\u003e§\\w)Test of (?\u003cname\u003e.*)",
     "inventory.dojo.rankdisplay.rank": "(?:§\\w)+Your Rank: (?\u003crank\u003e§\\w.) §8\\((?\u003cscore\u003e\\d+)\\)",
+    "mining.eventtracker.bossbar.passive": "§e§lPASSIVE EVENT (?\u003cevent\u003e.+) §e§lRUNNING FOR §a§l(?\u003ctime\u003e\\S+)§r",
+    "mining.eventtracker.bossbar.active": "§e§lEVENT (?\u003cevent\u003e.+) §e§lACTIVE IN (?\u003carea\u003e.+) §e§lfor §a§l(?\u003ctime\u003e\\S+)§r",
+    "mining.eventtracker.started": "(?:§.)*\\s+(?:§.)+§l(?\u003cevent\u003e.+) STARTED!",
+    "mining.eventtracker.ended": "(?:§.)*\\s+(?:§.)+§l(?\u003cevent\u003e.+) ENDED!",
     "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!",
     "event.winter.newyearcake.reminder.sidebar": "§dNew Year Event!§f (?\u003ctime\u003e.*)",
     "rift.area.westvillage.vermintracker.silverfish": ".*§eYou vacuumed a §.*Silverfish.*",
