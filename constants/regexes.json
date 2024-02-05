@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "03ce43d",
+  "sourceLabel": "146c0be",
   "regexes": {
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
@@ -83,8 +83,8 @@
     "harp.song.selected": "§aSong is selected!",
     "mining.powder.tracker.picked": "§6You have successfully picked the lock on this chest!",
     "mining.powder.tracker.uncovered": "§aYou uncovered a treasure chest!",
-    "mining.powder.tracker.powder.started": ".*§r§b§l2X POWDER ENDED!.*",
-    "mining.powder.tracker.powder.ended": ".*§r§b§l2X POWDER STARTED!.*",
+    "mining.powder.tracker.powder.started": ".*§r§b§l2X POWDER STARTED!.*",
+    "mining.powder.tracker.powder.ended": ".*§r§b§l2X POWDER ENDED!.*",
     "mining.powder.tracker.powder.bossbar": "§e§lPASSIVE EVENT §b§l2X POWDER §e§lRUNNING FOR §a§l(?\u003ctime\u003e.*)§r",
     "mining.powder.tracker.reward.mithrilpowder": "§aYou received §r§b[+](?\u003camount\u003e.*) §r§aMithril Powder.",
     "mining.powder.tracker.reward.gemstonepowder": "§aYou received §r§b[+](?\u003camount\u003e.*) §r§aGemstone Powder.",
