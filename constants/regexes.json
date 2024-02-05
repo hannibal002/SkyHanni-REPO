@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "95029ee",
+  "sourceLabel": "03ce43d",
   "regexes": {
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
@@ -18,6 +18,7 @@
     "utils.item.name.potion": ".*Potion",
     "utils.item.petlevel": "(?:§f§f)?§7\\[Lvl (?\u003clevel\u003e\\d+)] .*",
     "utils.skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
+    "misc.pet.menu.title": "Pets(?: \\(\\d+/\\d+\\) )?",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
     "garden.plot.spray.target": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§7with §r§a(?\u003cspray\u003e.*)§r§7!",
     "data.party.you.joined": "§eYou have joined (?\u003cname\u003e.*)\u0027s §eparty!",
@@ -74,7 +75,6 @@
     "garden.jacob.contests.inventory.medal": "§7§7You placed in the (?\u003cmedal\u003e.*) §7bracket!",
     "garden.fortuneguide.capture.uniquevisitors.tier": "§7Progress to Tier (?\u003cnextTier\u003e\\d+):.*",
     "garden.fortuneguide.capture.uniquevisitors.tierprogress": ".* §e(?\u003chaving\u003e.*)§6/(?\u003ctotal\u003e.*)",
-    "garden.fortuneguide.capture.petsmenu": "Pets(?: \\(\\d+/\\d+\\) )?",
     "fame.projects.contribute": "§7Contribute again: §e(?\u003ctime\u003e.*)",
     "fame.projects.completed": "§aProject is (?:being built|released)!",
     "fishing.trophyfishing.armor": "(BRONZE|SILVER|GOLD|DIAMOND)_HUNTER_(HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
