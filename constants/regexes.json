@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "146c0be",
+  "sourceLabel": "d392c80",
   "regexes": {
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
@@ -78,6 +78,7 @@
     "fame.projects.contribute": "§7Contribute again: §e(?\u003ctime\u003e.*)",
     "fame.projects.completed": "§aProject is (?:being built|released)!",
     "fishing.trophyfishing.armor": "(BRONZE|SILVER|GOLD|DIAMOND)_HUNTER_(HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
+    "misc.restore.wizard.portal.earned": "§7Earned by:.*",
     "harp.inventory": "Harp.*",
     "harp.menu": "Melody.*",
     "harp.song.selected": "§aSong is selected!",
