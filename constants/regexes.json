@@ -1,6 +1,7 @@
 {
-  "sourceLabel": "6ed8185",
+  "sourceLabel": "791f12f",
   "regexes": {
+    "utils.string.isroman": "^M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})",
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
@@ -75,7 +76,7 @@
     "garden.level.inventory.currentlevel": "Garden Level (?\u003ccurrentLevel\u003e.*)",
     "garden.level.chat.increase": " {4}§r§8\\+§r§2(?\u003cexp\u003e.*) §r§7Garden Experience",
     "garden.jacob.contests.inventory.medal": "§7§7You placed in the (?\u003cmedal\u003e.*) §7bracket!",
-    "garden.fortuneguide.capture.uniquevisitors.tier": "§7Progress to Tier (?\u003cnextTier\u003e\\d+):.*",
+    "garden.fortuneguide.capture.uniquevisitors.tier": "§7Progress to Tier (?\u003cnextTier\u003e\\w+):.*",
     "garden.fortuneguide.capture.uniquevisitors.tierprogress": ".* §e(?\u003chaving\u003e.*)§6/(?\u003ctotal\u003e.*)",
     "fame.projects.contribute": "§7Contribute again: §e(?\u003ctime\u003e.*)",
     "fame.projects.completed": "§aProject is (?:being built|released)!",
