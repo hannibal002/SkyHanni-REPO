@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "791f12f",
+  "sourceLabel": "df9f53b",
   "regexes": {
     "utils.string.isroman": "^M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})",
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
@@ -20,6 +20,7 @@
     "utils.item.neuitems.enchantmentname": "^(?\u003cformat\u003e(?:§.)+)(?\u003cname\u003e[^§]+) (?\u003clevel\u003e[IVXL]+)$",
     "utils.item.name.potion": ".*Potion",
     "utils.item.petlevel": "(?:§f§f)?§7\\[Lvl (?\u003clevel\u003e\\d+)] .*",
+    "utils.item.sack": ".*Sack",
     "utils.skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
     "misc.pet.menu.title": "Pets(?: \\(\\d+/\\d+\\) )?",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
