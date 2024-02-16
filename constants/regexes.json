@@ -75,7 +75,7 @@
     "data.party.members.list": "Party (?:Leader|Moderators|Members): (?\u003cnames\u003e.*)",
     "data.party.kuudrafinder.join": "§dParty Finder §f\u003e (?\u003cname\u003e.*?) §ejoined the group! \\(§[a-fA-F0-9]+Combat Level \\d+§e\\)",
     "data.party.dungeonfinder.join": "§dParty Finder §f\u003e (?\u003cname\u003e.*?) §ejoined the dungeon group! \\(§[a-fA-F0-9].* Level \\d+§[a-fA-F0-9]\\)",
-    "data.purse.coins": "(§.)*(Piggy|Purse): §6(?\u003ccoins\u003e[\d,]*(\.\d)?)( ?(§.)*\([+-](?\u003cearned\u003e[\w,.]+)\)?|.*)?",
+    "data.purse.coins": "(§.)*(Piggy|Purse): §6(?\u003ccoins\u003e[\\d,]*(\\.\\d)?)( ?(§.)*\\([+-](?\u003cearned\u003e[\\w,.]+)\\)?|.*)?",
     "data.purse.piggy": "Piggy: (?\u003ccoins\u003e.*)",
     "data.sacks.sack": "^(.* Sack|Enchanted .* Sack)$",
     "data.sacks.number": "(?:(?:§[0-9a-f](?\u003clevel\u003eI{1,3})§7:)?|(?:§7Stored:)?) (?\u003ccolor\u003e§[0-9a-f])(?\u003cstored\u003e[0-9.,kKmMbB]+)§7/(?\u003ctotal\u003e\\d+(?:[0-9.,]+)?[kKmMbB]?)",
