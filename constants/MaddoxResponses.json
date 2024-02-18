@@ -1,4 +1,26 @@
 {
+  "original": [
+    "You again? What do you want this time?",
+    "Hello?",
+    "Hey, what do you need?",
+    "Someone answers!",
+    "You hear the line pick up...",
+    "How does a lobster answer? Shello!"
+  ],
+  "pickup_lines": [
+    "Hello, is it me you're looking for?",
+    "Who's calling now?",
+    "Ah, the phone beckons. What's your request?",
+    "Ah, another call. What's cooking?",
+    "Hey there, what's the scoop?",
+    "Greetings, how can I be of service?",
+    "Greetings, what's on your mind?",
+    "Another interruption. What's the matter?",
+    "Greetings! How can I assist you today?",
+    "Ah, a familiar voice! What's the matter this time?",
+    "Well, well, look who's back for more.",
+    "You again? Do I need to get the popcorn?"
+  ],
   "jokes": [
     "Who is the coolest Doctor in the hospital? The hip Doctor!",
     "Why did the cookie cry? Because his mother was a wafer so long",
