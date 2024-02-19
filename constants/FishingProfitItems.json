@@ -23,7 +23,8 @@
       "BOBBIN_SCRIPTURES",
       "DYE_AQUAMARINE",
       "SULPHUR_ORE",
-      "CORRUPTED_FRAGMENT"
+      "CORRUPTED_FRAGMENT",
+      "DYE_FLAME"
     ],
     "Water": [
       "FAIRY_HELMET",
@@ -113,7 +114,8 @@
       "SQUID;2",
       "SQUID;3",
       "SQUID;4",
-      "DYE_NADESHIKO"
+      "DYE_NADESHIKO",
+      "DYE_BONE"
     ],
     "Lava": [
       "MAGMA_FISH",
@@ -161,8 +163,8 @@
       "ICE",
       "SNOW_BALL",
       "PACKED_ICE",
-      "ICE_CHUNK",
-      "BLUE_ICE_CHUNK",
+      "ICE_HUNK",
+      "BLUE_ICE_HUNK",
       "SNOWFLAKE_THE_FISH",
       "ENCHANTED_ICE",
       "ENCHANTED_PACKED_ICE",
@@ -191,7 +193,7 @@
       "SOUL_FRAGMENT",
       "PET_ITEM_VAMPIRE_FANG"
     ],
-    "Crystal Hollows-TEST": [
+    "Crystal Hollows": [
       "ROUGH_AMBER_GEM",
       "HARD_STONE",
       "WORM_MEMBRANE",
@@ -206,7 +208,8 @@
       "ROUGH_JADE_GEM",
       "FLAWED_JADE_GEM",
       "QUARTZ",
-      "PISCARY;6"
+      "PISCARY;6",
+      "DYE_CARMINE"
     ],
     "Trophy Fish": [
       "BLOBFISH_DIAMOND",
