@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "128b8db",
+  "sourceLabel": "7d9a6a1",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -42,6 +42,8 @@
     "utils.item.sack": ".*Sack",
     "utils.skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
     "misc.pet.menu.title": "Pets(?: \\(\\d+/\\d+\\) )?",
+    "misc.pet.item.name": "§.\\[Lvl (?\u003clevel\u003e\\d)] (?\u003cname\u003e.*)",
+    "misc.pet.item.name.neu.format": "(§f§f)?§7\\[Lvl 1➡(100|200)] (?\u003cname\u003e.*)",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
     "garden.plot.spray.target": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§7with §r§a(?\u003cspray\u003e.*)§r§7!",
     "data.collection.api.counter": ".* §e(?\u003camount\u003e.*)§6/.*",
