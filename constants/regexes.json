@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7d9a6a1",
+  "sourceLabel": "96c657c",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -13,6 +13,8 @@
     "data.garden.milestone.total": "§7Total: §a(?\u003cname\u003e.*)",
     "data.garden.milestonefix.amount": ".*§e(?\u003chaving\u003e.*)§6/§e(?\u003cmax\u003e.*)",
     "data.owninventory.chat.movedsacktoinventory": "§aMoved §r§e\\d* (?\u003cname\u003e.*)§r§a from your Sacks to your inventory.",
+    "gfs.chat.from": "§aMoved §r§e(?\u003camount\u003e\\d+) (?\u003citem\u003e.+)§r§a from your Sacks to your inventory.",
+    "gfs.chat.missing": "§cYou have no (?\u003citem\u003e.+) in your Sacks!",
     "data.accessory.bagname": "Accessory Bag \\((?\u003ccurrent\u003e\\d)/(?\u003ctotal\u003e\\d)\\)",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
