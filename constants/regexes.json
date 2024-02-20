@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "b065fc1",
+  "sourceLabel": "841a231",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -275,7 +275,7 @@
     "mining.powder.tracker.reward.mithrilpowder": "§aYou received §r§b[+](?\u003camount\u003e.*) §r§aMithril Powder.",
     "mining.powder.tracker.reward.gemstonepowder": "§aYou received §r§b[+](?\u003camount\u003e.*) §r§aGemstone Powder.",
     "mining.powder.tracker.reward.roughrubygemstone": "§aYou received §r§f(?\u003camount\u003e.*) §r§f❤ Rough Ruby Gemstone§r§a.",
-    "mining.powder.tracker.reward.flawedrubygemstone": "§aYou received §r§f(?\u003camount\u003e.*) §r§a❤ Flawed RubyGemstone§r§a.",
+    "mining.powder.tracker.reward.flawedrubygemstone": "§aYou received §r§f(?\u003camount\u003e.*) §r§a❤ Flawed Ruby Gemstone§r§a.",
     "mining.powder.tracker.reward.finerubygemstone": "§aYou received §r§f(?\u003camount\u003e.*) §r§9❤ Fine Ruby Gemstone§r§a.",
     "mining.powder.tracker.reward.flawlessrubygemstone": "§aYou received §r§f(?\u003camount\u003e.*) §r§9❤ Flawless Ruby Gemstone§r§a.",
     "mining.powder.tracker.reward.roughsapphiregemstone": "§aYou received §r§f(?\u003camount\u003e.*) §r§f✎ Rough Sapphire Gemstone§r§a.",
