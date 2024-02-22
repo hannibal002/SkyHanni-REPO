@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a9263a2",
+  "sourceLabel": "7bde145",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -34,7 +34,6 @@
     "utils.item.name.enchanted.book": ".{2}?Enchanted Book",
     "utils.item.neuitems.enchantmentname": "^(?\u003cformat\u003e(?:§.)+)(?\u003cname\u003e[^§]+) (?\u003clevel\u003e[IVXL]+)$",
     "utils.item.name.potion": ".*Potion",
-    "utils.item.petlevel": "(?:§f§f)?(?:§7)?\\[Lvl (?\u003clevel\u003e\\d+)] .*",
     "utils.item.amount.front": "(?: *§8(\\+§\\w)?(?\u003camount\u003e[\\d.km,]+)(x )?)?(?\u003cname\u003e.*)",
     "utils.item.amount.behind": "(?\u003cname\u003e(?:[\u0027\\w-]+ ?)+)(?:§8x(?\u003camount\u003e[\\d,]+))?",
     "utils.time.amount": "(?:(?\u003cy\u003e\\d+) ?y(?:\\w* ?)?)?(?:(?\u003cd\u003e\\d+) ?d(?:\\w* ?)?)?(?:(?\u003ch\u003e\\d+) ?h(?:\\w* ?)?)?(?:(?\u003cm\u003e\\d+) ?m(?:\\w* ?)?)?(?:(?\u003cs\u003e\\d+) ?s(?:\\w* ?)?)?",
@@ -44,7 +43,7 @@
     "utils.item.sack": ".*Sack",
     "utils.skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
     "misc.pet.menu.title": "Pets(?: \\(\\d+/\\d+\\) )?",
-    "misc.pet.item.name": "§.\\[Lvl (?\u003clevel\u003e\\d)] (?\u003cname\u003e.*)",
+    "misc.pet.item.name": "(?:§.)*\\[Lvl (?\u003clevel\u003e\\d+)] (?\u003cname\u003e.*)",
     "misc.pet.item.name.neu.format": "(§f§f)?§7\\[Lvl 1➡(100|200)] (?\u003cname\u003e.*)",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
     "garden.plot.spray.target": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§7with §r§a(?\u003cspray\u003e.*)§r§7!",
@@ -90,7 +89,6 @@
     "bazaar.orderhelper.price": "§7Price per unit: §6(?\u003cnumber\u003e.*) coins",
     "auctions.highlight.buyitnow": "§7Buy it now: §6(?\u003ccoins\u003e.*) coins",
     "inventory.hidenotclickable.seeds": "SEEDS|CARROT_ITEM|POTATO_ITEM|PUMPKIN_SEEDS|SUGAR_CANE|MELON_SEEDS|CACTUS|INK_SACK-3",
-    "inventory.item.overlay.pet.level": "\\[Lvl (?\u003clevel\u003e\\d+)] .*",
     "inventory.item.overlay.masterskull": "(.*)Master Skull - Tier .",
     "inventory.item.overlay.vacuum": "§7Vacuum Bag: §6(?\u003camount\u003e\\d*) Pests?",
     "inventory.item.overlay.harvest": "§7§7You may harvest §6(?\u003camount\u003e.).*",
