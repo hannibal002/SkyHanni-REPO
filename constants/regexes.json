@@ -1,9 +1,8 @@
 {
-  "sourceLabel": "7bde145",
+  "sourceLabel": "972d07c",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
-    "data.hypixeldata.tablistprofile": "§e§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
     "data.hypixeldata.islandname": "(?:§.)*(Area|Dungeon): (?:§.)*(?\u003cisland\u003e.*)",
     "data.skill.actionbar": ".*§3\\+.* (?\u003cskill\u003e.*) \\((?\u003coverflow\u003e.*)/(?\u003cneeded\u003e.*)\\).*",
@@ -23,7 +22,6 @@
     "actionbar.skyblock.xp": ".*(§b\\+\\d+ SkyBlock XP §.\\([^()]+\\)§b \\(\\d+/\\d+\\)).*",
     "garden.warpcommand.tpplot": "/tp (?\u003cplot\u003e.*)",
     "data.profile.switch": "§7Switching to profile (?\u003cname\u003e.*)\\.\\.\\.",
-    "data.profile.name": "§e§lProfile: §r§a(?\u003cname\u003e.*)",
     "misc.compacttablist.advanced.level": ".*\\[(?\u003clevel\u003e.*)] §r(?\u003cname\u003e.*)",
     "data.itemmanager.diceroll": "§eYour §r§(5|6High Class )Archfiend Dice §r§erolled a §r§.(?\u003cnumber\u003e.)§r§e! Bonus: §r§.(?\u003chearts\u003e.*)❤",
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
@@ -42,6 +40,7 @@
     "string.isroman": "^M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})",
     "utils.item.sack": ".*Sack",
     "utils.skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
+    "utils.tablist.profile": "§.§lProfile: §r§a(?\u003cprofile\u003e.*)",
     "misc.pet.menu.title": "Pets(?: \\(\\d+/\\d+\\) )?",
     "misc.pet.item.name": "(?:§.)*\\[Lvl (?\u003clevel\u003e\\d+)] (?\u003cname\u003e.*)",
     "misc.pet.item.name.neu.format": "(§f§f)?§7\\[Lvl 1➡(100|200)] (?\u003cname\u003e.*)",
