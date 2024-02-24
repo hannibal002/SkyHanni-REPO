@@ -441,6 +441,7 @@
     "OBFUSCATED_FISH_3_SILVER",
     "OBFUSCATED_FISH_3_BRONZE"
   ],
+  "_" : "The sackList is deprecated",
   "sackList": [
     "Wheat",
     "Carrot",
