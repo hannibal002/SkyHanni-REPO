@@ -995,7 +995,8 @@
     "Royal Resident": {
       "rarity": "rare",
       "need_items": [
-        "Wheat"
+        "Wheat",
+        "Sugar Cane"
       ],
       "mode": "mining_3",
       "position": "63:204:200",
