@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8dfbcf2",
+  "sourceLabel": "59d47eb",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -238,6 +238,7 @@
     "misc.trevor.trapper": "\\[NPC] Trevor: You can find your (?\u003crarity\u003e.*) animal near the (?\u003clocation\u003e.*).",
     "misc.trevor.above": "The target is around (?\u003cheight\u003e.*) blocks above, at a (?\u003cangle\u003e.*) degrees angle!",
     "misc.trevor.below": "The target is around (?\u003cheight\u003e.*) blocks below, at a (?\u003cangle\u003e.*) degrees angle!",
+    "misc.trevor.at": "You are at the exact height!",
     "misc.trevor.zone": "Zone: (?\u003czone\u003e.*)",
     "misc.trevor.selfkill": "§aYour mob died randomly, you are rewarded §r§5(?\u003cpelts\u003e.*) pelts§r§a.",
     "misc.trevor.kill": "§aKilling the animal rewarded you §r§5(?\u003cpelts\u003e.*) pelts§r§a.",
