@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "59d47eb",
+  "sourceLabel": "fbadabd",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -242,6 +242,9 @@
     "misc.trevor.zone": "Zone: (?\u003czone\u003e.*)",
     "misc.trevor.selfkill": "§aYour mob died randomly, you are rewarded §r§5(?\u003cpelts\u003e.*) pelts§r§a.",
     "misc.trevor.kill": "§aKilling the animal rewarded you §r§5(?\u003cpelts\u003e.*) pelts§r§a.",
+    "bingo.card.tips.card": "Bingo Card",
+    "bingo.card.tips.reward": "§.§.§7Reward",
+    "bingo.card.tips.reward.contribution": "§.§.§7Contribution Rewards.*",
     "garden.fortuneguide.capture.farminglevel": "SKILL LEVEL UP Farming .*➜(?\u003clevel\u003e.*)",
     "garden.fortuneguide.capture.fortuneupgrade": "You claimed the Garden Farming Fortune (?\u003clevel\u003e.*) upgrade!",
     "garden.fortuneguide.capture.anitabuff": "You tiered up the Extra Farming Drops upgrade to [+](?\u003clevel\u003e.*)%!",
