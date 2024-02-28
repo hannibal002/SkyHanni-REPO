@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "fbadabd",
+  "sourceLabel": "05e5232",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -21,7 +21,6 @@
     "actionbar.rift.time": "§[a7](?\u003criftTime\u003e[\\dms ]+)ф.*",
     "actionbar.skyblock.xp": ".*(§b\\+\\d+ SkyBlock XP §.\\([^()]+\\)§b \\(\\d+/\\d+\\)).*",
     "garden.warpcommand.tpplot": "/tp (?\u003cplot\u003e.*)",
-    "data.profile.switch": "§7Switching to profile (?\u003cname\u003e.*)\\.\\.\\.",
     "misc.compacttablist.advanced.level": ".*\\[(?\u003clevel\u003e.*)] §r(?\u003cname\u003e.*)",
     "data.itemmanager.diceroll": "§eYour §r§(5|6High Class )Archfiend Dice §r§erolled a §r§.(?\u003cnumber\u003e.)§r§e! Bonus: §r§.(?\u003chearts\u003e.*)❤",
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
