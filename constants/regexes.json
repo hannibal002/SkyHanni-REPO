@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "05e5232",
+  "sourceLabel": "4ebde93",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -387,6 +387,10 @@
     "rift.area.westvillage.vermintracker.binline": "§fVermin Bin: §\\w(?\u003ccount\u003e\\d+) (?\u003cvermin\u003e\\w+)",
     "rift.area.westvillage.vermintracker.bagline": "§fVacuum Bag: §\\w(?\u003ccount\u003e\\d+) (?\u003cvermin\u003e\\w+)",
     "inventory.quiver.chat.low": "§cYou only have (?\u003carrowsLeft\u003e.*) arrows left in your Quiver!",
+    "inventory.maxpurse.order": ".*§6(?\u003ccoins\u003e[\\d.,]+) coins §7each.*",
+    "inventory.maxpurse.instant": ".*Price per unit: §6(?\u003ccoins\u003e[\\d.,]+) coins.*",
+    "inventory.maxpurse.createorder": "§aCreate Buy Order",
+    "inventory.maxpurse.createinstant": "§aBuy Instantly",
     "test.dev.copyrng.slayer": "§7Slayer XP: §d.*§5/§d(?\u003cxp\u003e.*)",
     "test.dev.copyrng.dungeon": "§7Dungeon Score: §d.*§5/§d(?\u003cxp\u003e.*)",
     "test.bestiary.type": "\\[Lv(?\u003clvl\u003e.*)] (?\u003ctext\u003e.*)"
