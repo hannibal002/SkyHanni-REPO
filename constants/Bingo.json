@@ -45,7 +45,7 @@
       ]
     },
     "A Hard Day's Work (Community Goal)": {
-      "difficulty": "",
+      "difficulty": "Easy",
       "note": [
         "Collect Jacobs Tickets"
       ],
@@ -267,7 +267,7 @@
         "(Yellow Rock, 15 Poppies and 64 Emeralds)"
       ]
     },
-    "Pet Sitter": {
+    "Petsitter": {
       "difficulty": "Easy",
       "note": [
         "Upgrade a pet with Kat"
