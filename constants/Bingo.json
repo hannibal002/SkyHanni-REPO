@@ -1,103 +1,59 @@
 {
   "bingo_tips": {
-    "Lucky Looter (Community Goal)": {
-      "difficulty": "Medium",
-      "note": [
-        "Collect rare drops"
-      ],
-      "guide": [
-        "Carrots and potatoes from killing",
-        "Zombies in graveyard do count."
-      ]
-    },
-    "Goblin Slayer (Community Goal)": {
-      "difficulty": "Medium",
-      "note": [
-        "Kill Goblins."
-      ],
-      "guide": [
-        "Kill the Goblins you can find in the Dwarven Mines.",
-        "You will need Mining 12 for this."
-      ]
-    },
-    "Let The StarFall (Community Goal)": {
-      "difficulty": "Medium",
-      "note": [
-        "Kill Team Treasurite members."
-      ],
-      "guide": [
-        "Kill Team Treasurite members in the Crystal Hollows.",
-        "They spawn in the Mithril Deposits and you will need",
-        "Heart of the Mountain 3 to go there."
-      ]
-    },
     "Skilled (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Gain Enchanting experience"
-      ],
-      "guide": [
-        "Do your daily experiments in the Experimentation Table,",
-        "always do the highest tier you can."
-      ]
-    },
-    "Bait (Community Goal)": {
       "difficulty": "Medium",
       "note": [
-        "Deposit Chum"
+        "Gain Fishing XP"
       ],
       "guide": [
-        "Fish next to Chum Buckets and put the Chum",
-        "you get from killing fishing mobs in these.",
-        "You might want to buy a Chum Rod (and Glowy Chum Bait)",
+        "Fish using a Chum Rod",
+        "(and Glowy Chum Bait)",
         "from Moby in the Desert Island."
       ]
     },
-    "Minion Machine": {
-      "difficulty": "Easy",
-      "note": [
-        "15 unique Minions"
-      ],
-      "guide": [
-        "Craft some easy minions while also getting",
-        "those that will help with this Bingo."
-      ]
-    },
-    "Cocoa Beans Collector": {
-      "difficulty": "Hard",
-      "note": [
-        "300k Cocoa Beans collection"
-      ],
-      "guide": [
-        "Optimal tool:",
-        "Advanced Gardening Axe (25 copper)",
-        "Make a full plot of Cocoa Beans (16716 needed)",
-        "in The Garden (SkyBlock Level 5).",
-        "You will need Garden Level 8.",
-        "Get the Cocoa Beans to plant from The Desert Island."
-      ]
-    },
-    "Healthy": {
-      "difficulty": "Easy",
-      "note": [
-        "1000 Health"
-      ],
-      "guide": [
-        "Wear Mushroom Armor enchanted with Growth 5",
-        "during the night.",
-        "Growth 5 requires Enchanting Level 5",
-        "and costs 50 Experience Levels per piece."
-      ]
-    },
-    "Experienced": {
+    "Poseidon (Community Goal)": {
       "difficulty": "Medium",
       "note": [
-        "Obtain a Grand Experience Bottle"
+        "Summon Sea Creatures"
       ],
       "guide": [
-        "Can be made from Lapis Lazuli Collection 5 (10k),",
-        "a drop from fishing, from the Experimentation Table,",
-        "and dropped from Ender Nodes in the End (11-13% chance)."
+        "Fish using a Chum Rod",
+        "(and Glowy Chum Bait)",
+        "from Moby in the Desert Island."
+      ]
+    },
+    "Scarf Offensive (Community Goal)": {
+      "difficulty": "Medium",
+      "note": [
+        "Defeat Scarf in Floor 2"
+      ],
+      "guide": [
+        "Use Party Finder or other carries.",
+        "Will need Combat 15 and a completion",
+        "of the previous floors."
+      ]
+    },
+    "Enderman Slayer (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Kill Endermen"
+      ],
+      "guide": [
+        "Use a Dreadlord Sword from Dungeons",
+        "or a Void Sword from the Lone Adventurer",
+        "in The End (200k coins). Will need Combat 12."
+      ]
+    },
+    "A Hard Day's Work (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Collect Jacobs Tickets"
+      ],
+      "guide": [
+        "Participate in Farming Contests",
+        "using Hub crops or The Garden.",
+        "Don't forget to claim the contest rewards",
+        "from Jacob before Bingo ends ;-)"
       ]
     },
     "Reinforced Reforger": {
@@ -113,193 +69,250 @@
         "Mobs don't spawn there."
       ]
     },
-    "Dwarves Defender": {
-      "difficulty": "Medium",
-      "note": [
-        "Kill 25 Goblins during a Goblin Raid"
-      ],
-      "guide": [
-        "Kill Goblins in the Goblin Burrows (-100 163 150)",
-        "while an event is going on.",
-        "You need Mining Level 12 to visit the required island."
-      ]
-    },
-    "Commission Master": {
-      "difficulty": "Easy",
-      "note": [
-        "Complete 8 Commissions"
-      ],
-      "guide": [
-        "Do your daily commissions in the Dwarven Mines",
-        "(4 per day). You will need Mining 12 to go there.",
-        "You can also easily do it all in one day, though the",
-        "HOTM XP is reduced after the first 4 a day.",
-        "Can also be completed in the Crystal Hollows,",
-        "though it is harder unless you get a Pickonimbus."
-      ]
-    },
-    "Jungle Wood Collector": {
+    "Gunpowder Collector": {
       "difficulty": "Hard",
       "note": [
-        "100k Jungle Wood collection"
+        "55k Gunpowder collection"
       ],
       "guide": [
-        "Optimal tool:",
-        "Golden Axe with Efficiency 5",
-        "Reforges: Double-Bit or Lush",
-        "Get Haste 3 from a splash to instamine wood",
-        "Forage in the Jungle Island (/warp jungle).",
-        "You will need Foraging Level 5 to go there.",
-        "Place as many minions as you can,",
+        "Kill Sneaky Creepers in the Gunpowder Mines",
+        "to unlock Creeper Minions.",
+        "§cDo not use any Intimidation Talisman for this!",
+        "Buy more gunpowder from the Adventurer NPC",
+        "in the Hub to craft minions.",
+        "Place as many minions as you can",
         "give them a medium storage and the best fuel",
-        "you can. Collect them in time (about once every 4h,",
-        "or up to every 2h with Tasty Cheese)."
+        "you can. Collect them in time."
       ]
     },
-    "Farmer": {
-      "difficulty": "Medium",
-      "note": [
-        "Reach Farming Level 18"
-      ],
-      "guide": [
-        "You will most likely get this",
-        "while going for Garden Level 8",
-        "and the Cocoa Beans Collector goal."
-      ]
-    },
-    "The Green Gold": {
-      "difficulty": "Medium",
-      "note": [
-        "Craft an Emerald Ring"
-      ],
-      "guide": [
-        "Mine emeralds in the Dwarven Mines minecarts above the Bank.",
-        "Needs 32 Enchanted Emeralds and Emerald Collection 5.",
-        "To speed this up you can utilize Cole's Mining Fiesta",
-        "while Jerry is mayor and has Cole's perks active."
-      ]
-    },
-    "Spider Eye Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "22.5k Spider Eye Collection"
-      ],
-      "guide": [
-        "Kill Spiders in the Spider's Den (/warp spider)",
-        "place a few Cave Spider Minions and participate",
-        "in killing Arachne in Arachne's Sanctuary.",
-        "Recommended to wear a Cow Head to avoid the poison."
-      ]
-    },
-    "I Am Speed": {
+    "Pair Up!": {
       "difficulty": "Easy",
       "note": [
-        "200 Speed"
+        "Find 1 Pair in the Experimentation Table"
       ],
       "guide": [
-        "Talk to Jamie in the Hub and",
-        "claim the Rogue Sword from him.",
-        "Right click it to gain +100 Speed.",
-        "Or just wait for a splash."
+        "Get Enchanting Level 10 and play",
+        "the first tier in the Experimentation Table."
       ]
     },
-    "Fashionable": {
-      "difficulty": "Easy",
-      "note": [
-        "7 unique armor sets"
-      ],
-      "guide": [
-        "Craft Leather, Iron, Gold, Diamond,",
-        "Mushroom Armor and Farm Suit.",
-        "Craft Angler Armor for the Bingo goal."
-      ]
-    },
-    "An Axe To Grind": {
-      "difficulty": "Medium",
-      "note": [
-        "10 Enchantments on a Raider Axe"
-      ],
-      "guide": [
-        "Buy a Raider Axe for 130k coins",
-        "from the Melancholic Viking in The Park.",
-        "Remember: Level 1 Enchantments do count."
-      ]
-    },
-    "Extra Storage": {
+    "Lumberjack": {
       "difficulty": "Hard",
       "note": [
-        "Craft a Large Storage"
+        "Foraging 20"
       ],
       "guide": [
         "Optimal tool:",
         "Golden Axe with Efficiency 5",
-        "Reforges: Double-Bit or Lush",
-        "Get Haste 3 from a splash to instamine wood",
-        "Costs 256 Enchanted Oak Wood to craft and",
-        "unlocks at Oak Wood Collection 9 (30k)."
+        "Reforges: Lumberjack's or Moil",
+        "Get Haste 3 from a splash to instamine wood.",
+        "Try to combine the Birch Wood grind",
+        "with foraging less competetive wood types."
       ]
     },
-    "Diversity": {
+    "High Score!": {
       "difficulty": "Medium",
       "note": [
-        "40 unique Collections"
+        "230+ Score in Floor 1"
       ],
       "guide": [
-        "You can unlock 17/17 Farming Collections,",
-        "6/11 Combat Collections, 6/6 Foraging Collections,",
-        "14/22 Mining Collections for a total of 43 collections.",
-        "You will also get some Fishing Collections."
+        "You can try your luck",
+        "with party finder for this,",
+        "ask your friends or",
+        "check the bingo Discords for carries."
       ]
     },
-    "Meiser": {
+    "Esteemed Enchanter": {
+      "difficulty": "Medium",
+      "note": [
+        "Obtain a Level VI Enchantment"
+      ],
+      "guide": [
+        "When you complete High Score!",
+        "open a Free Chest to get",
+        "Infinite Quiver or Feather Falling VI."
+      ]
+    },
+    "Minion Machine": {
       "difficulty": "Easy",
       "note": [
-        "250k coins in the bank"
+        "25 unique Minion crafts"
       ],
       "guide": [
-        "You will most likely get this from",
-        "leveling up skills.",
-        "Remember to actually put the money",
-        "you get in the Bank :)"
+        "Doing this will bring you decently close",
+        "to your 8th Minion Slot.",
+        "Try to craft every cheap minion you can",
+        "get your hands on while doing other things."
       ]
     },
-    "Spider Queen": {
+    "Lynx": {
       "difficulty": "Medium",
       "note": [
-        "Summon Arachne"
+        "Obtain the Lynx Talisman"
       ],
       "guide": [
-        "To summon Arachne you need to place",
-        "4 Arachne's Callings in the Altar in",
-        "Arachne's Sanctuary. Those drop from slaying",
-        "Arachne's Keepers there. You can get away with",
-        "only placing one by teaming up with others."
+        "Obtained from Guildford in the Dungeon Hub,",
+        "gotten after completing two 4/4 races from the NPC.",
+        "You can use the Pearl Skip strategy to make this easier."
       ]
     },
-    "Fisherman": {
+    "Slayer": {
       "difficulty": "Medium",
       "note": [
-        "Wear full Angler Armor"
+        "Reach Slayer Level 4"
       ],
       "guide": [
-        "This requires Raw Fish Collection 5.",
-        "You should place down a fishing minion",
-        "with a medium storage to help with this."
+        "Kill T2-T3 Revenant Horrors until you unlock this",
+        "or get carries in higher tier bosses."
+      ]
+    },
+    "Now We're In Business": {
+      "difficulty": "Easy",
+      "note": [
+        "Craft a Diamond Spreading"
+      ],
+      "guide": [
+        "This unlocks at Diamond Collection 6. To craft it, you need",
+        "1 Enchanted Diamond and 8 Vines (costs: 40 Jungle Leaves,",
+        "needs: Jungle Wood Collection 4 to unlock in the /trades menu.)",
+        "You might get close to that by going for Reinforced Reforger."
+      ]
+    },
+    "Bedazzled": {
+      "difficulty": "Medium",
+      "note": [
+        "17 unique Accessories"
+      ],
+      "guide": [
+        "List of more than 17 talismans:",
+        "Buy all 6 Talismans for 26k from the Adventurer in The Hub",
+        "Collection Talismans:",
+        "Night Vision Charm, Farming Talisman, Vaccine Talisman,",
+        "Gravity Talisman, Talisman of Coins, Magnetic Talisman,",
+        "Emerald Ring, Wood Affinity Talisman, Speed Talisman,",
+        "Potion Affinity Talisman",
+        "Other:",
+        "Archaeologists Compass, Ring of Love, King Talisman,",
+        "Campfire Initiate Badge, Lynx Talisman, Spider Talisman,",
+        "Red Claw Talisman, Candy Talisman, Frozen Chicken,",
+        "New Year Cake Bag, Glacial Talisman (Frozen Treasure).",
+        "Optional: 4 Bonus accessory bag slots from",
+        "the Redstone Miner (costs 1920 Redstone total)"
       ]
     },
     "Skill Average": {
-      "difficulty": "Hard",
+      "difficulty": "Easy",
       "note": [
-        "Skill Average of 17"
+        "Skill Average of 8"
       ],
       "guide": [
-        "To help with this, try to make bigger crafts",
-        "by hand for Carpentry levels, and use the Cocoa Beans",
-        "from the collection goal to make Enchanted Cookies",
-        "and brew Adrenaline Potions with them.",
+        "You will most likely get this while going",
+        "for other goals. To help with this,",
+        "try to make bigger crafts",
+        "by hand for Carpentry levels.",
         "Also do your daily experiments and make sure",
         "to have a pet active at all times",
         "(any pet works, even level 100)."
+      ]
+    },
+    "Birch Wood Collector": {
+      "difficulty": "Hard",
+      "note": [
+        "70k Birch Wood Collection"
+      ],
+      "guide": [
+        "Optimal tool:",
+        "Golden Axe with Efficiency 5",
+        "Reforges: Double-Bit or Lush",
+        "Get Haste 3 from a splash to instamine wood",
+        "Forage in the Birch Park (-276 82 -13)",
+        "in The Park (/warp park).",
+        "Place as many minions as you can",
+        "give them a medium storage and the best fuel",
+        "you can. Collect them in time."
+      ]
+    },
+    "Hard Worker": {
+      "difficulty": "Medium",
+      "note": [
+        "Craft a t11 minion"
+      ],
+      "guide": [
+        "You will most likely get this",
+        "by crafting a Wheat Minion from",
+        "the Wheat you get from going for",
+        "Wheat Collector."
+      ]
+    },
+    "Sightseer": {
+      "difficulty": "Easy",
+      "note": [
+        "7 public islands"
+      ],
+      "guide": [
+        "You can visit all Islands by using the warp command.",
+        "The Hub (/hub), Spider's Den (/warp spider), The End (/warp end),",
+        "Gold Mine (/warp gold), Deep Caverns (/warp deep),",
+        "Farming Isles (/warp barn & /warp desert)",
+        "Remember that some of them require certain skill levels to enter."
+      ]
+    },
+    "Love Is All Around": {
+      "difficulty": "Easy",
+      "note": [
+        "Obtain a Mediocre Ring of Love"
+      ],
+      "guide": [
+        "Obtained after doing the first 3 parts of the",
+        "Romero and Juliette Quest.",
+        "(Yellow Rock, 15 Poppies and 64 Emeralds)"
+      ]
+    },
+    "Petsitter": {
+      "difficulty": "Easy",
+      "note": [
+        "Upgrade a pet with Kat"
+      ],
+      "guide": [
+        "Upgrade a Common Bee to Uncommon for this.",
+        "This will cost 5k coins and 128 Coal Blocks",
+        "and take 1 hour."
+      ]
+    },
+    "Wheat Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "95k Wheat Collection"
+      ],
+      "guide": [
+        "Use The Garden for this,",
+        "A full plot is 7,896 Seeds or 50 Enchanted Seeds.",
+        "Using an Advanced Gardening Hoe (25 copper)",
+        "will make this easier."
+      ]
+    },
+    "Eagle-Eyed": {
+      "difficulty": "Easy",
+      "note": [
+        "Complete a timed Target Practice"
+      ],
+      "guide": [
+        "Talk to Jax in the Hub (5 61 -134)",
+        "and beat the first Target Practice.",
+        "Use an Artisanal Shortbow for this."
+      ]
+    },
+    "Pet Hoarder": {
+      "difficulty": "Hard",
+      "note": [
+        "12 unique Pets"
+      ],
+      "guide": [
+        "No eggs:",
+        "Bingo, Enderman, Grandma Wolf, Armadillo, Bee,",
+        "Dolphin, Reindeer, Rock, Tarantula, Owl and Oringo Pets",
+        "Eggs:",
+        "Jerry, Silverfish, Pig, Rabbit, Endermite and Bat",
+        "If you go for Eggs, you will need 2.5k Chicken Collection."
       ]
     }
   }
