@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4ebde93",
+  "sourceLabel": "e249c70",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -108,6 +108,8 @@
     "event.winter.uniquegifts.giftname": "(?:WHITE|RED|GREEN)_GIFT$",
     "event.winter.uniqugifts.counter.amount": "§7Unique Players Gifted: §a(?\u003camount\u003e.*)",
     "fishing.trophy.trophyfish": "§6§lTROPHY FISH! §r§bYou caught an? §r(?\u003cdisplayName\u003e§[0-9a-f](?:§k)?[\\w -]+) §r(?\u003cdisplayRarity\u003e§[0-9a-f]§l\\w+)§r§b\\.",
+    "auctions.underbid.price": "^§7(?:Buy it now|Starting bid|Top bid): §6(?\u003ccoins\u003e[0-9,]+) coins$",
+    "auctions.underbid.allowedinventories": "^(?:Auctions Browser|Manage Auctions|Auctions: \".*\")$",
     "ashfang.freeze.cryogenic": "§cAshfang Follower\u0027s Cryogenic Blast hit you for .* damage!",
     "inventory.itemstars.stars": "(.*)§.✪(.*)",
     "minion.chat.upgrade": "§aYou have upgraded your Minion to Tier (?\u003ctier\u003e.*)",
