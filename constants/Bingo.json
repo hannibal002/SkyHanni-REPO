@@ -122,14 +122,15 @@
       ]
     },
     "Esteemed Enchanter": {
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "note": [
         "Obtain a Level VI Enchantment"
       ],
       "guide": [
-        "When you complete High Score!",
-        "open a Free Chest to get",
-        "Infinite Quiver or Feather Falling VI."
+        "Craft four Infinite Quiver IV books",
+        "(/recipe infinite quiver) and combine them",
+        "into Infinite Quiver VI using the Anvil",
+        "next to the Blacksmith in the Hub"
       ]
     },
     "Minion Machine": {
