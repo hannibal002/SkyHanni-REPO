@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "88f1dc8",
+  "sourceLabel": "eb6944e",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -159,6 +159,7 @@
     "skyblockguide.highlight.pet.dolphin.inventory": "Fishing ➜ Dolphin Milestones",
     "skyblockguide.highlight.essence.inventory": "Essence Shop ➜.*",
     "skyblockguide.highlight.minion.inventory": "Crafted Minions",
+    "skyblockguide.highlight.minion.condition": "§c ?✖.*|§7You haven\u0027t crafted this minion.",
     "skyblockguide.highlight.harp.inventory": "Miscellaneous ➜ Harp Songs",
     "skyblockguide.highlight.consumable.inventory": "Miscellaneous ➜ Consumable Items",
     "skyblockguide.highlight.consumable.condition": "§7§eThis task can be completed \\d+ times!",
@@ -168,7 +169,7 @@
     "skyblockguide.highlight.tasks.inventory": "Tasks ➜ .*",
     "skyblockguide.highlight.tasks.skill.inventory": "Skill Related Tasks",
     "skyblockguide.highlight.collections.inventory": "\\w+ Collections|Collections",
-    "skyblockguide.highlight.collections.condition": "§7Progress to .*|§7Find this item to add it to your|§7Kill this boss once to view collection|§7Collections Maxed Out: §e.*|§7Boss Collections Unlocked: §e.*",
+    "skyblockguide.highlight.collections.condition": "§7Progress to .*|§7Find this item to add it to your|§7Kill this boss once to view collection|§7(?:Boss )?Collections (?:Unlocked|Maxed Out): §e.*",
     "relay.chat.1st": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe first relay is on a branch of the large tree on the north-east of the fairy pond.",
     "relay.chat.2nd": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe next relay is in the castle ruins!",
     "relay.chat.3rd": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe next relay is in the §bRoyal Palace §rwithin the Dwarven Mines.",
