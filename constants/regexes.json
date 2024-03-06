@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1722541",
+  "sourceLabel": "82a00ed",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -397,6 +397,7 @@
     "inventory.maxpurse.createorder": "§aCreate Buy Order",
     "inventory.maxpurse.createinstant": "§aBuy Instantly",
     "inventory.supercrafting.craft": "§eYou Supercrafted §r§r§r§.(?\u003citem\u003e[^§]+)(?:§r§8x(?\u003camount\u003e\\d+))?§r§e!",
+    "minion.infernominiontitle": "Inferno Minion .*",
     "test.dev.copyrng.slayer": "§7Slayer XP: §d.*§5/§d(?\u003cxp\u003e.*)",
     "test.dev.copyrng.dungeon": "§7Dungeon Score: §d.*§5/§d(?\u003cxp\u003e.*)",
     "test.bestiary.type": "\\[Lv(?\u003clvl\u003e.*)] (?\u003ctext\u003e.*)"
