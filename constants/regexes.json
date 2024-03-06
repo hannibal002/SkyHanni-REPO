@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a8fe4fc",
+  "sourceLabel": "1722541",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -91,7 +91,7 @@
     "bazaar.orderhelper.filled": "§7Filled: §[a6].*§7/.* §a§l100%!",
     "bazaar.orderhelper.price": "§7Price per unit: §6(?\u003cnumber\u003e.*) coins",
     "auctions.highlight.buyitnow": "§7Buy it now: §6(?\u003ccoins\u003e.*) coins",
-    "chat.jacobevent.accessory": "§e\\[NPC] Jacob§f: Your §9Anita\u0027s (\\w+) §fis giving you §6\\+(\\d{1,2})☘ (\\w+) Fortune §fduring the contest!",
+    "chat.jacobevent.accessory": "§e\\[NPC] Jacob§f: §rYour §9Anita\u0027s (\\w+) §fis giving you §6\\+(\\d{1,2})☘ (\\w+) Fortune §fduring the contest!",
     "chat.skymall.perk": "§eNew buff§r§r§r:(.*)",
     "inventory.hidenotclickable.seeds": "SEEDS|CARROT_ITEM|POTATO_ITEM|PUMPKIN_SEEDS|SUGAR_CANE|MELON_SEEDS|CACTUS|INK_SACK-3",
     "inventory.item.overlay.masterskull": "(.*)Master Skull - Tier .",
