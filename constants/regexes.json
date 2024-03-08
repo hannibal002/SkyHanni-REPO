@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "37f9c2f",
+  "sourceLabel": "64239c6",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -40,7 +40,7 @@
     "string.isroman": "^M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})",
     "utils.item.sack": ".*Sack",
     "utils.skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
-    "utils.tablist.profile": "(?:§.)+Profile: §r§a(?\u003cprofile\u003e.*)",
+    "utils.tablist.profile": "(?:§.)+Profile: §r§a(?\u003cprofile\u003e\\S+).*",
     "misc.pet.menu.title": "Pets(?: \\(\\d+/\\d+\\) )?",
     "misc.pet.item.name": "(?:§.)*\\[Lvl (?\u003clevel\u003e\\d+)] (?\u003cname\u003e.*)",
     "misc.pet.item.name.neu.format": "(§f§f)?§7\\[Lvl 1➡(100|200)] (?\u003cname\u003e.*)",
