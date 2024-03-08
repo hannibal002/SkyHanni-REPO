@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "0a95a79",
+  "sourceLabel": "37f9c2f",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -92,7 +92,7 @@
     "bazaar.orderhelper.filled": "§7Filled: §[a6].*§7/.* §a§l100%!",
     "bazaar.orderhelper.price": "§7Price per unit: §6(?\u003cnumber\u003e.*) coins",
     "auctions.highlight.buyitnow": "§7Buy it now: §6(?\u003ccoins\u003e.*) coins",
-    "chat.jacobevent.accessory": "§e\\[NPC] Jacob§f: §rYour §9Anita\u0027s (\\w+) §fis giving you §6\\+(\\d{1,2})☘ (\\w+) Fortune §fduring the contest!",
+    "chat.jacobevent.accessory": "§e\\[NPC] Jacob§f: §rYour §9Anita\u0027s \\w+ §fis giving you §6\\+\\d{1,2}☘ .+ Fortune §fduring the contest!",
     "chat.skymall.perk": "§eNew buff§r§r§r:(.*)",
     "inventory.hidenotclickable.seeds": "SEEDS|CARROT_ITEM|POTATO_ITEM|PUMPKIN_SEEDS|SUGAR_CANE|MELON_SEEDS|CACTUS|INK_SACK-3",
     "inventory.item.overlay.masterskull": "(.*)Master Skull - Tier .",
@@ -369,7 +369,7 @@
     "crimson.volcano.header.tablistline": "(?:§.)*Volcano Explosivity:(?:[\\S ]+)*",
     "crimson.volcano.status.tablistline": " *(?\u003cstatus\u003e(?:§.)*\\S+)",
     "misc.chatsymbols.symbols": "^(?\u003csymbols\u003e(?:(?:§\\w)+\\S)+) ",
-    "misc.chatsymbols.symbol": "((?:§\\w)+\\S)",
+    "misc.chatsymbols.symbol": "(?:§.)+(\\S)",
     "garden.pests.spawn.one": "§6§l.*! §7A §6Pest §7has appeared in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
     "garden.pests.spawn.multiple": "§6§l.*! §6(?\u003camount\u003e\\d) Pests §7have spawned in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
     "garden.pests.finder.scoreboard": " §7⏣ §[ac]The Garden §4§lൠ§7 x(?\u003cpests\u003e.*)",
