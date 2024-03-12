@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8a9c435",
+  "sourceLabel": "eb863d6",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -87,7 +87,7 @@
     "api.skilldisplay.skill.percent": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e.+) \\((?\u003cprogress\u003e[\\d.]+)%\\)",
     "api.skilldisplay.skill": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e\\w+) \\((?\u003ccurrent\u003e[\\d.,]+)/(?\u003cneeded\u003e[\\d.,]+)\\)",
     "api.skilldisplay.skill.multiplier": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e.+) \\((?\u003ccurrent\u003e[\\d.,]+)/(?\u003cneeded\u003e[\\d,.]+[kmb])\\)",
-    "api.skilldisplay.skill.tab": "^§e§lSkills: §r§a(?\u003ctype\u003e\\w+) (?\u003clevel\u003e\\d+): §r§3(?\u003cprogress\u003e.+)%$",
+    "api.skilldisplay.skill.tab": "(?\u003ctype\u003e\\w+) (?\u003clevel\u003e\\d+): §r§a(?\u003cprogress\u003e.+)%$",
     "api.skilldisplay.skill.tab.max": "^§e§lSkills: §r§a(?\u003ctype\u003e\\w+) (?\u003clevel\u003e\\d+): §r§c§lMAX$",
     "bazaar.orderhelper.itemname": "§.§l(?\u003ctype\u003eBUY|SELL) (?\u003cname\u003e.*)",
     "bazaar.orderhelper.filled": "§7Filled: §[a6].*§7/.* §a§l100%!",
