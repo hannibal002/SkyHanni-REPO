@@ -87,7 +87,7 @@
     "api.skilldisplay.skill.percent": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e.+) \\((?\u003cprogress\u003e[\\d.]+)%\\)",
     "api.skilldisplay.skill": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e\\w+) \\((?\u003ccurrent\u003e[\\d.,]+)/(?\u003cneeded\u003e[\\d.,]+)\\)",
     "api.skilldisplay.skill.multiplier": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e.+) \\((?\u003ccurrent\u003e[\\d.,]+)/(?\u003cneeded\u003e[\\d,.]+[kmb])\\)",
-    "api.skilldisplay.skill.tab": "^§e§lSkills: §r§a(?\u003ctype\u003e\\w+) (?\u003clevel\u003e\\d+): §r§3(?\u003cprogress\u003e.+)%$",
+    "api.skilldisplay.skill.tab": " (?<type>\\w+) (?<level>\\d+): §r§a(?<progress>.+)%$",
     "api.skilldisplay.skill.tab.max": "^§e§lSkills: §r§a(?\u003ctype\u003e\\w+) (?\u003clevel\u003e\\d+): §r§c§lMAX$",
     "bazaar.orderhelper.itemname": "§.§l(?\u003ctype\u003eBUY|SELL) (?\u003cname\u003e.*)",
     "bazaar.orderhelper.filled": "§7Filled: §[a6].*§7/.* §a§l100%!",
