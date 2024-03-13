@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7620387",
+  "sourceLabel": "9bacc66",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -45,6 +45,7 @@
     "features.gui.customscoreboard.scoreboard.multiuse.timeelapsed": "(§.)*Time Elapsed: (§.)*(?\u003ctime\u003e(\\w+[ydhms] ?)+)$",
     "features.gui.customscoreboard.scoreboard.multiuse.instanceshutdown": "(§.)*Instance Shutdown: (§.)*(?\u003ctime\u003e(\\w+[ydhms] ?)+)$",
     "features.gui.customscoreboard.scoreboard.multiuse.timeleft": "(§.)*Time Left: (§.)*[\\w:,.]*$",
+    "features.gui.customscoreboard.scoreboard.dungeon.m7dragons": "^(§cNo Alive Dragons|§8- (§.)+[\\w\\s]+Dragon§a \\w+§.❤)$",
     "features.gui.customscoreboard.scoreboard.dungeon.keys": "Keys: §.■ §.[✗✓] §.■ §a.x$",
     "features.gui.customscoreboard.scoreboard.dungeon.cleared": "(§.)*Cleared: (§.)*(?\u003cpercent\u003e[\\w,.]+)% (§.)*\\((§.)*(?\u003cscore\u003e[\\w,.]+)(§.)*\\)$",
     "features.gui.customscoreboard.scoreboard.dungeon.solo": "§3§lSolo$",
@@ -57,7 +58,7 @@
     "features.gui.customscoreboard.scoreboard.farming.locked": "^\\s*§cLocked$",
     "features.gui.customscoreboard.scoreboard.farming.cleanup": "^\\s*(§.)*Cleanup(§.)*: (§.)*[\\d,.]+%$",
     "features.gui.customscoreboard.scoreboard.farming.pasting": "^\\s*§f(Barn )?Pasting§7: (§.)*[\\d,]+%$",
-    "features.gui.customscoreboard.scoreboard.farming.pelts": "^(§.)*Pelts: (§.)*(?\u003cpelts\u003e[\\d,]+)( (§.)*\\([+-](?\u003cdiff\u003e[\\w,.]+)\\))?$",
+    "features.gui.customscoreboard.scoreboard.farming.pelts": "^(§.)*Pelts: (§.)*([\\d,]+).*$",
     "features.gui.customscoreboard.scoreboard.farming.moblocation": "^(§.)*Tracker Mob Location:",
     "features.gui.customscoreboard.scoreboard.farming.jacobscontest": "^§eJacob\u0027s Contest$",
     "features.gui.customscoreboard.scoreboard.farming.plot": "\\s*§aPlot §7-.*",
