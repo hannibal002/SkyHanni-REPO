@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4352ffb",
+  "sourceLabel": "dbd6090",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -203,6 +203,8 @@
     "api.skilldisplay.skill.multiplier": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e.+) \\((?\u003ccurrent\u003e[\\d.,]+)/(?\u003cneeded\u003e[\\d,.]+[kmb])\\)",
     "api.skilldisplay.skill.tab": "(?\u003ctype\u003e\\w+) (?\u003clevel\u003e\\d+): §r§a(?\u003cprogress\u003e.+)%$",
     "api.skilldisplay.skill.tab.max": "^§e§lSkills: §r§a(?\u003ctype\u003e\\w+) (?\u003clevel\u003e\\d+): §r§c§lMAX$",
+    "garden.visitor.api.visitor.count": "§b§lVisitors: §r§f\\((?\u003cinfo\u003e.*)\\)",
+    "garden.visitor.api.visitor.name": " (?:§.)+(?\u003cname\u003e§.[^§]+).*",
     "bazaar.orderhelper.itemname": "§.§l(?\u003ctype\u003eBUY|SELL) (?\u003cname\u003e.*)",
     "bazaar.orderhelper.filled": "§7Filled: §[a6].*§7/.* §a§l100%!",
     "bazaar.orderhelper.price": "§7Price per unit: §6(?\u003cnumber\u003e.*) coins",
@@ -321,7 +323,7 @@
     "garden.visitor.partialaccepted": "§aYou gave some of the required items!",
     "garden.barn.skin.change": "§aChanging Barn skin to §r.*",
     "garden.inventory.numbers.upgradetier": "§7Current Tier: §[ea](?\u003ctier\u003e.*)§7/§a.*",
-    "garden.visitor.timer.time": "§b§lVisitors: §r§f\\((?\u003ctime\u003e.*)\\)",
+    "garden.visitor.timer.time.new": " Next Visitor: §r(?\u003cinfo\u003e.*)",
     "garden.visitor.droptracker.accept": "OFFER ACCEPTED with (?\u003cvisitor\u003e.*) [(](?\u003crarity\u003e.*)[)]",
     "garden.visitor.droptracker.copper": "[+](?\u003camount\u003e.*) Copper",
     "garden.visitor.droptracker.gardenexp": "[+](?\u003camount\u003e.*) Garden Experience",
