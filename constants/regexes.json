@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "f3d251b",
+  "sourceLabel": "578069c",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -210,6 +210,7 @@
     "bazaar.orderhelper.filled": "§7Filled: §[a6].*§7/.* §a§l100%!",
     "bazaar.orderhelper.price": "§7Price per unit: §6(?\u003cnumber\u003e.*) coins",
     "auctions.highlight.buyitnow": "§7Buy it now: §6(?\u003ccoins\u003e.*) coins",
+    "auctions.highlight.auction": "§7(?:Starting bid|Top bid): §6(?\u003ccoins\u003e.*) coins",
     "chat.jacobevent.accessory": "§e\\[NPC] Jacob§f: §rYour §9Anita\u0027s \\w+ §fis giving you §6\\+\\d{1,2}☘ .+ Fortune §fduring the contest!",
     "chat.skymall.perk": "§eNew buff§r§r§r:(.*)",
     "chat.firesale": "§6§k§lA§r §c§lFIRE SALE §r§6§k§lA(?:\\n|.)*",
