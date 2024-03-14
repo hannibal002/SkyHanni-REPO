@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "10c36e3",
+  "sourceLabel": "a556cf5",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -274,6 +274,7 @@
     "bingo.compactchat.health": " {3}§r§7§8\\+§a.* §c❤ Health",
     "bingo.compactchat.strength": " {3}§r§7§8\\+§a. §c❁ Strength",
     "bingo.compactchat.border": "§[e3]§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+    "crimson.reputation.tablist": " §r§[cdea].*",
     "skyblockguide.highlight.condition.once": "§7§eThis task can only be completed once!",
     "skyblockguide.highlight.condition.x": "§c ?✖.*",
     "skyblockguide.highlight.condition.total": "§7Total Progress: §3\\d{1,2}(?:\\.\\d)?%",
