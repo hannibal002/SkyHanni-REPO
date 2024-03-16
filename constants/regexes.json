@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "da27cfe",
+  "sourceLabel": "a5452d3",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -189,7 +189,7 @@
     "data.maxwell.gui.selectedpower": "§aPower is selected!",
     "data.maxwell.stack.accessorybag": "§.Accessory Bag",
     "data.maxwell.collection.redstone.requirement": "(?:§.)*Requires (?:§.)*Redstone Collection I+(?:§.)*\\.",
-    "data.quiver.chat.select": "§aYou set your selected arrow type to §f(?\u003carrow\u003e.*)§a!",
+    "data.quiver.chat.select": "§aYou set your selected arrow type to §.(?\u003carrow\u003e.*)§a!",
     "data.quiver.chat.fillupjax": "(§.)*Jax forged (§.)*(?\u003ctype\u003e.*?)(§.)* x(?\u003camount\u003e[\\d,]+)( (§.)*for (§.)*(?\u003ccoins\u003e[\\d,]+) Coins)?(§.)*!",
     "data.quiver.chat.fillup": "§aYou filled your quiver with §f(?\u003cflintAmount\u003e.*) §aextra arrows!",
     "data.quiver.chat.cleared": "§aCleared your quiver!",
