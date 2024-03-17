@@ -1,7 +1,7 @@
 {
   "fame_rank": {
     "NEW_PLAYER": {
-      "name": "New Player",
+      "name": "New player",
       "fame_required": 0,
       "bits_multiplier": 1.0,
       "votes": 1
