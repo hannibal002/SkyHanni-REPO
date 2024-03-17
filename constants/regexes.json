@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8fc46b4",
+  "sourceLabel": "05cf57e",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -88,7 +88,7 @@
     "features.gui.customscoreboard.scoreboard.combat.damagesoaked": "^§7Damage Soaked:",
     "features.gui.customscoreboard.scoreboard.combat.killmagmas": "^§6Kill the Magmas:$",
     "features.gui.customscoreboard.scoreboard.combat.killmagmasbar": "^((§.)*▎+)+.*$",
-    "features.gui.customscoreboard.scoreboard.combat.magmareforming": "^§cThe boss is reforming!$",
+    "features.gui.customscoreboard.scoreboard.combat.magmareforming": "^§cThe boss is (?:re)?forming!$",
     "features.gui.customscoreboard.scoreboard.combat.magmabosshealth": "^§7Boss Health:$",
     "features.gui.customscoreboard.scoreboard.combat.magmabosshealthbar": "^§.(\\d{1,2}(\\.\\d)?M|\\d{1,3}k)§f/§a10M§c❤$",
     "features.gui.customscoreboard.scoreboard.combat.broodmother": "^§4Broodmother§7: §[e64](Slain|Dormant|Soon|Awakening|Imminent|Alive!)$",
