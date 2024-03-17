@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "05cf57e",
+  "sourceLabel": "bf462fa",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -349,8 +349,9 @@
     "garden.visitor.droptracker.powder.gemstone": "[+](?\u003camount\u003e.*) Gemstone Powder",
     "garden.optimalspeed.currentspeed": " Speed: §r§f✦(?\u003cspeed\u003e.*)",
     "garden.level.inventory.nextxp": ".* §e(?\u003cnextLevelExp\u003e.*)§6/.*",
+    "garden.level.inventory.name": "Garden (?:Desk|Level (?\u003ccurrentLevel\u003e.*))",
     "garden.level.inventory.overflow": ".*§r §6(?\u003coverflow\u003e.*)",
-    "garden.level.inventory.currentlevel": "Garden Level (?\u003ccurrentLevel\u003e.*)",
+    "garden.level.inventory.levelprogress": "§7Progress to Level (?\u003ccurrentLevel\u003e[^:]*).*",
     "garden.level.chat.increase": " {4}§r§8\\+§r§2(?\u003cexp\u003e.*) §r§7Garden Experience",
     "garden.dicer.melon.uncommon": "§a§lUNCOMMON DROP! §r§eDicer dropped §r§a(\\d+)x §r§aEnchanted Melon§r§e!",
     "garden.dicer.melon.rare": "§9§lRARE DROP! §r§eDicer dropped §r§a(\\d+)x §r§aEnchanted Melon§r§e!",
