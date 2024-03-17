@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a5452d3",
+  "sourceLabel": "ccf598c",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -161,7 +161,7 @@
     "data.friends.addbest": ".*\n(?\u003cname\u003e.*)§a is now a best friend!§r§9§m\n.*",
     "data.friends.rawname": "\\n§eClick to view §.(?\u003cname\u003e.*)§e\u0027s profile",
     "data.friends.readfriends": "/viewprofile (?\u003cuuid\u003e.*)",
-    "data.party.you.joined": "§eYou have joined (?\u003cname\u003e.*)\u0027s §eparty!",
+    "data.party.you.joined": "§eYou have joined (?\u003cname\u003e.*)\u0027s? §eparty!",
     "data.party.others.joined": "(?\u003cname\u003e.*) §ejoined the party\\.",
     "data.party.others.inparty": "§eYou\u0027ll be partying with: (?\u003cnames\u003e.*)",
     "data.party.others.left": "(?\u003cname\u003e.*) §ehas left the party\\.",
