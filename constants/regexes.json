@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "dc391b5",
+  "sourceLabel": "1c0cb4f",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -412,6 +412,7 @@
     "features.misc.serverrestart.greedy": "§cServer closing.*",
     "fame.projects.contribute": "§7Contribute again: §e(?\u003ctime\u003e.*)",
     "fame.projects.completed": "§aProject is (?:being built|released)!",
+    "slayer.autoslayer.bank.chat": "§7Took (?\u003ccoins\u003e.+) coins from your bank for auto-slayer\\.\\.\\.",
     "fishing.tracker.chat.coins": ".* CATCH! §r§bYou found §r§6(?\u003ccoins\u003e.*) Coins§r§b\\.",
     "fishing.trophyfishing.armor": "(BRONZE|SILVER|GOLD|DIAMOND)_HUNTER_(HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
     "misc.restore.wizard.portal.earned": "§7Earned by:.*",
