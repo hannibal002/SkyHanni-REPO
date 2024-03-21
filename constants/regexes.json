@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8ef7b42",
+  "sourceLabel": "183330c",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -210,6 +210,7 @@
     "data.bits.gui.communityshopfamerank": "§7Fame Rank: §e(?\u003crank\u003e.*)",
     "data.bits.gui.mainmenuname": "^SkyBlock Menu$",
     "data.bits.gui.mainmenustack": "^§6Booster Cookie$",
+    "data.bits.gui.bitsstack": "§bBits",
     "data.bits.gui.famerankmenuname": "^(Community Shop|Booster Cookie)$",
     "data.bits.gui.famerankmenustack": "^(§aCommunity Shop|§eFame Rank)$",
     "api.skilldisplay.skill.percent": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e.+) \\((?\u003cprogress\u003e[\\d.]+)%\\)",
