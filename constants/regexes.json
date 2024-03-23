@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "aa78d9d",
+  "sourceLabel": "44014aa",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -570,6 +570,9 @@
     "mining.eventtracker.started": "(?:§.)*\\s+(?:§.)+§l(?\u003cevent\u003e.+) STARTED!",
     "mining.eventtracker.ended": "(?:§.)*\\s+(?:§.)+§l(?\u003cevent\u003e.+) ENDED!",
     "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!",
+    "fishing.totemofcorruption.totemname": "§5§lTotem of Corruption",
+    "fishing.totemofcorruption.timeremaining": "§7Remaining: §e(?:(?\u003cmin\u003e\\d+)m )?(?\u003csec\u003e\\d+)s",
+    "fishing.totemofcorruption.owner": "§7Owner: §e(?\u003cowner\u003e.+)",
     "event.winter.newyearcake.reminder.sidebar": "§dNew Year Event!§f (?\u003ctime\u003e.*)",
     "rift.area.westvillage.vermintracker.silverfish": ".*§eYou vacuumed a §.*Silverfish.*",
     "rift.area.westvillage.vermintracker.spider": ".*§eYou vacuumed a §.*Spider.*",
