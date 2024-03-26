@@ -1,7 +1,7 @@
 {
-  "sourceLabel": "08cbe33",
+  "sourceLabel": "6582eef",
   "regexes": {
-    "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+)",
+    "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
     "data.hypixeldata.playeramount": "^\\s*(?:§.)+Players (?:§.)+\\((?\u003camount\u003e\\d+)\\)\\s*$",
