@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "871d901",
+  "sourceLabel": "9a769c7",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -221,6 +221,7 @@
     "data.bits.gui.bitsstack": "§bBits",
     "data.bits.gui.famerankmenuname": "^(Community Shop|Booster Cookie)$",
     "data.bits.gui.famerankmenustack": "^(§aCommunity Shop|§eFame Rank)$",
+    "mayorapi.foxy.extraevent": "Schedules an extra §.(?\u003cevent\u003e.*) §.event during the year\\.",
     "api.skilldisplay.skill.percent": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e.+) \\((?\u003cprogress\u003e[\\d.]+)%\\)",
     "api.skilldisplay.skill": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e\\w+) \\((?\u003ccurrent\u003e[\\d.,]+)/(?\u003cneeded\u003e[\\d.,]+)\\)",
     "api.skilldisplay.skill.multiplier": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e.+) \\((?\u003ccurrent\u003e[\\d.,]+)/(?\u003cneeded\u003e[\\d,.]+[kmb])\\)",
