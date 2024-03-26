@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "f60b9e4",
+  "sourceLabel": "871d901",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -350,7 +350,7 @@
     "garden.visitor.visitorarrive": ".* §r§ehas arrived on your §r§bGarden§r§e!",
     "garden.visitor.copper": " §8\\+§c(?\u003camount\u003e.*) Copper",
     "garden.visitor.gardenexperience": " §8\\+§2(?\u003camount\u003e.*) §7Garden Experience",
-    "garden.visitor.visitorchat": "§e\\[NPC] (§.)?(?\u003cname\u003e.*)§f: §r.*",
+    "garden.visitor.visitorchat": "§e\\[NPC] (?\u003ccolor\u003e§.)?(?\u003cname\u003e.*)§f: §r.*",
     "garden.visitor.partialaccepted": "§aYou gave some of the required items!",
     "garden.barn.skin.change": "§aChanging Barn skin to §r.*",
     "garden.inventory.numbers.upgradetier": "§7Current Tier: §[ea](?\u003ctier\u003e.*)§7/§a.*",
