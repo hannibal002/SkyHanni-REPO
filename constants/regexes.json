@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6582eef",
+  "sourceLabel": "077aea0",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -126,6 +126,8 @@
     "features.gui.customscoreboard.tablist.glacitepowder": "^\\s*Glacite Powder: (?:§.)+(?\u003cglacitepowder\u003e[\\d,\\.]+)$",
     "features.gui.customscoreboard.tablist.event": "^\\s*§e§lEvent: §r(?\u003cname\u003e§.*)$",
     "features.gui.customscoreboard.tablist.eventtime": "^\\s+Ends In: §r§e(?\u003ctime\u003e.*)$",
+    "features.gui.customscoreboard.tablist.boostereffects": "\\s*(?:§.)*Cookie Buff(?:§.)*: (?:§r)*(?\u003ctime\u003e.*)",
+    "features.gui.customscoreboard.tablist.cookienotactive": "Not active|§c§lINACTIVE",
     "utils.item.lore.rarity.line": "^(?:§.){2,3}(?:.§. (?:§.){4})?(?:SHINY )?(?\u003crarity\u003eCOMMON|UNCOMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|SUPREME|SPECIAL|VERY SPECIAL|ULTIMATE) ?(?:DUNGEON )?(?\u003citemCategory\u003e[^§]*)(?: (?:§.){3}.)?$",
     "utils.item.name.abiphone": ".{2}Abiphone .*",
     "utils.item.name.enchanted.book": ".{2}?Enchanted Book",
