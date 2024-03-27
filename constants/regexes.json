@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a47ac48",
+  "sourceLabel": "fcc1baa",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -236,7 +236,7 @@
     "garden.pestsapi.scoreboard.plot.pests": "\\s*(?:§.)*Plot (?:§.)*- (?:§.)*(?\u003cplot\u003e.+) (?:§.)*ൠ(?:§.)* x(?\u003cpests\u003e\\d+)",
     "garden.pestsapi.scoreboard.plot.nopests": "\\s*(?:§.)*Plot (?:§.)*- (?:§.)*(?\u003cplot\u003e.{1,3})$",
     "garden.pestsapi.inventory": "§4§lൠ §cThis plot has §6(?\u003camount\u003e\\d) Pests?§c!",
-    "garden.pestsapi.tablist.infectedplots": "\\sInfested Plots: (?\u003cplots\u003e.*)",
+    "garden.pestsapi.tablist.infectedplots": "\\sPlots: (?\u003cplots\u003e.*)",
     "bazaar.orderhelper.itemname": "§.§l(?\u003ctype\u003eBUY|SELL) (?\u003cname\u003e.*)",
     "bazaar.orderhelper.filled": "§7Filled: §[a6].*§7/.* §a§l100%!",
     "bazaar.orderhelper.price": "§7Price per unit: §6(?\u003cnumber\u003e.*) coins",
