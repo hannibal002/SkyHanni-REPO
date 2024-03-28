@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "fcc1baa",
+  "sourceLabel": "e4ae028",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -35,7 +35,7 @@
     "bingo.card.hiddengoal": ".*§7§eThe next hint will unlock in (?\u003ctime\u003e.*)",
     "features.gui.customscoreboard.scoreboard.main.motes": "^(§.)*Motes: (§.)*(?\u003cmotes\u003e[\\d,]+).*$",
     "features.gui.customscoreboard.scoreboard.main.heat": "^Heat: (?\u003cheat\u003e.*)$",
-    "features.gui.customscoreboard.scoreboard.main.cold": "^(?:§.)*Cold: §.❄ (?\u003ccold\u003e-?\\d+)$",
+    "features.gui.customscoreboard.scoreboard.main.cold": "^(?:§.)*Cold: §.(?\u003ccold\u003e-?\\d+)❄$",
     "features.gui.customscoreboard.scoreboard.main.copper": "^(§.)*Copper: (§.)*(?\u003ccopper\u003e[\\d,]+).*$",
     "features.gui.customscoreboard.scoreboard.main.location": "^\\s*(?\u003clocation\u003e(§7⏣|§5ф) .*)$",
     "features.gui.customscoreboard.scoreboard.main.lobbycode": "^\\s*§.((\\d{2}/\\d{2}/\\d{2})|Server closing: [\\d:]+) §8(?\u003ccode\u003e.*)$",
