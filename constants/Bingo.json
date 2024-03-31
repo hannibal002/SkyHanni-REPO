@@ -1,320 +1,326 @@
 {
-  "bingo_tips": {
-    "Skilled (Community Goal)": {
-      "difficulty": "Medium",
-      "note": [
-        "Gain Fishing XP"
-      ],
-      "guide": [
-        "Fish using a Chum Rod",
-        "(and Glowy Chum Bait)",
-        "from Moby in the Desert Island."
-      ]
-    },
-    "Poseidon (Community Goal)": {
-      "difficulty": "Medium",
-      "note": [
-        "Summon Sea Creatures"
-      ],
-      "guide": [
-        "Fish using a Chum Rod",
-        "(and Glowy Chum Bait)",
-        "from Moby in the Desert Island."
-      ]
-    },
-    "Scarf Offensive (Community Goal)": {
-      "difficulty": "Medium",
-      "note": [
-        "Defeat Scarf in Floor 2"
-      ],
-      "guide": [
-        "Use Party Finder or other carries.",
-        "Will need Combat 15 and a completion",
-        "of the previous floors."
-      ]
-    },
-    "Enderman Slayer (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Kill Endermen"
-      ],
-      "guide": [
-        "Use a Dreadlord Sword from Dungeons",
-        "or a Void Sword from the Lone Adventurer",
-        "in The End (200k coins). Will need Combat 12."
-      ]
-    },
-    "A Hard Day's Work (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Collect Jacobs Tickets"
-      ],
-      "guide": [
-        "Participate in Farming Contests",
-        "using Hub crops or The Garden.",
-        "Don't forget to claim the contest rewards",
-        "from Jacob before Bingo ends ;-)"
-      ]
-    },
-    "Reinforced Reforger": {
-      "difficulty": "Easy",
-      "note": [
-        "Apply the Rare Diamond Reforge Stone"
-      ],
-      "guide": [
-        "Mine Diamonds in the Deep Caverns until",
-        "you get a Rare Diamond to apply.",
-        "A safe spot to do this is between the Diamond Reserve",
-        "and the Obsidian Sanctuary (-20 27 70).",
-        "Mobs don't spawn there."
-      ]
-    },
-    "Gunpowder Collector": {
-      "difficulty": "Hard",
-      "note": [
-        "55k Gunpowder collection"
-      ],
-      "guide": [
-        "Kill Sneaky Creepers in the Gunpowder Mines",
-        "to unlock Creeper Minions.",
-        "§cDo not use any Intimidation Talisman for this!",
-        "Buy more gunpowder from the Adventurer NPC",
-        "in the Hub to craft minions.",
-        "Place as many minions as you can",
-        "give them a medium storage and the best fuel",
-        "you can. Collect them in time."
-      ]
-    },
-    "Pair Up!": {
-      "difficulty": "Easy",
-      "note": [
-        "Find 1 Pair in the Experimentation Table"
-      ],
-      "guide": [
-        "Get Enchanting Level 10 and play",
-        "the first tier in the Experimentation Table."
-      ]
-    },
-    "Lumberjack": {
-      "difficulty": "Hard",
-      "note": [
-        "Foraging 20"
-      ],
-      "guide": [
-        "Optimal tool:",
-        "Golden Axe with Efficiency 5",
-        "Reforges: Lumberjack's or Moil",
-        "Get Haste 3 from a splash to instamine wood.",
-        "Try to combine the Birch Wood grind",
-        "with foraging less competetive wood types."
-      ]
-    },
-    "High Score!": {
-      "difficulty": "Medium",
-      "note": [
-        "230+ Score in Floor 1"
-      ],
-      "guide": [
-        "You can try your luck",
-        "with party finder for this,",
-        "ask your friends or",
-        "check the bingo Discords for carries."
-      ]
-    },
-    "Esteemed Enchanter": {
-      "difficulty": "Easy",
-      "note": [
-        "Obtain a Level VI Enchantment"
-      ],
-      "guide": [
-        "Craft four Infinite Quiver IV books",
-        "(/recipe infinite quiver) and combine them",
-        "into Infinite Quiver VI using the Anvil",
-        "next to the Blacksmith in the Hub"
-      ]
-    },
-    "Minion Machine": {
-      "difficulty": "Easy",
-      "note": [
-        "25 unique Minion crafts"
-      ],
-      "guide": [
-        "Doing this will bring you decently close",
-        "to your 8th Minion Slot.",
-        "Try to craft every cheap minion you can",
-        "get your hands on while doing other things."
-      ]
-    },
-    "Lynx": {
-      "difficulty": "Medium",
-      "note": [
-        "Obtain the Lynx Talisman"
-      ],
-      "guide": [
-        "Obtained from Guildford in the Dungeon Hub,",
-        "gotten after completing two 4/4 races from the NPC.",
-        "You can use the Pearl Skip strategy to make this easier."
-      ]
-    },
-    "Slayer": {
-      "difficulty": "Medium",
-      "note": [
-        "Reach Slayer Level 4"
-      ],
-      "guide": [
-        "Kill T2-T3 Revenant Horrors until you unlock this",
-        "or get carries in higher tier bosses."
-      ]
-    },
-    "Now We're In Business": {
-      "difficulty": "Easy",
-      "note": [
-        "Craft a Diamond Spreading"
-      ],
-      "guide": [
-        "This unlocks at Diamond Collection 6. To craft it, you need",
-        "1 Enchanted Diamond and 8 Vines (costs: 40 Jungle Leaves,",
-        "needs: Jungle Wood Collection 4 to unlock in the /trades menu.)",
-        "You might get close to that by going for Reinforced Reforger."
-      ]
-    },
-    "Bedazzled": {
-      "difficulty": "Medium",
-      "note": [
-        "17 unique Accessories"
-      ],
-      "guide": [
-        "List of more than 17 talismans:",
-        "Buy all 6 Talismans for 26k from the Adventurer in The Hub",
-        "Collection Talismans:",
-        "Night Vision Charm, Farming Talisman, Vaccine Talisman,",
-        "Gravity Talisman, Talisman of Coins, Magnetic Talisman,",
-        "Emerald Ring, Wood Affinity Talisman, Speed Talisman,",
-        "Potion Affinity Talisman",
-        "Other:",
-        "Archaeologists Compass, Ring of Love, King Talisman,",
-        "Campfire Initiate Badge, Lynx Talisman, Spider Talisman,",
-        "Red Claw Talisman, Candy Talisman, Frozen Chicken,",
-        "New Year Cake Bag, Glacial Talisman (Frozen Treasure).",
-        "Optional: 4 Bonus accessory bag slots from",
-        "the Redstone Miner (costs 1920 Redstone total)"
-      ]
-    },
-    "Skill Average": {
-      "difficulty": "Easy",
-      "note": [
-        "Skill Average of 8"
-      ],
-      "guide": [
-        "You will most likely get this while going",
-        "for other goals. To help with this,",
-        "try to make bigger crafts",
-        "by hand for Carpentry levels.",
-        "Also do your daily experiments and make sure",
-        "to have a pet active at all times",
-        "(any pet works, even level 100)."
-      ]
-    },
-    "Birch Wood Collector": {
-      "difficulty": "Hard",
-      "note": [
-        "70k Birch Wood Collection"
-      ],
-      "guide": [
-        "Optimal tool:",
-        "Golden Axe with Efficiency 5",
-        "Reforges: Double-Bit or Lush",
-        "Get Haste 3 from a splash to instamine wood",
-        "Forage in the Birch Park (-276 82 -13)",
-        "in The Park (/warp park).",
-        "Place as many minions as you can",
-        "give them a medium storage and the best fuel",
-        "you can. Collect them in time."
-      ]
-    },
-    "Hard Worker": {
-      "difficulty": "Medium",
-      "note": [
-        "Craft a t11 minion"
-      ],
-      "guide": [
-        "You will most likely get this",
-        "by crafting a Wheat Minion from",
-        "the Wheat you get from going for",
-        "Wheat Collector."
-      ]
-    },
-    "Sightseer": {
-      "difficulty": "Easy",
-      "note": [
-        "7 public islands"
-      ],
-      "guide": [
-        "You can visit all Islands by using the warp command.",
-        "The Hub (/hub), Spider's Den (/warp spider), The End (/warp end),",
-        "Gold Mine (/warp gold), Deep Caverns (/warp deep),",
-        "Farming Isles (/warp barn & /warp desert)",
-        "Remember that some of them require certain skill levels to enter."
-      ]
-    },
-    "Love Is All Around": {
-      "difficulty": "Easy",
-      "note": [
-        "Obtain a Mediocre Ring of Love"
-      ],
-      "guide": [
-        "Obtained after doing the first 3 parts of the",
-        "Romero and Juliette Quest.",
-        "(Yellow Rock, 15 Poppies and 64 Emeralds)"
-      ]
-    },
-    "Petsitter": {
-      "difficulty": "Easy",
-      "note": [
-        "Upgrade a pet with Kat"
-      ],
-      "guide": [
-        "Upgrade a Common Bee to Uncommon for this.",
-        "This will cost 5k coins and 128 Coal Blocks",
-        "and take 1 hour."
-      ]
-    },
-    "Wheat Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "95k Wheat Collection"
-      ],
-      "guide": [
-        "Use The Garden for this,",
-        "A full plot is 7,896 Seeds or 50 Enchanted Seeds.",
-        "Using an Advanced Gardening Hoe (25 copper)",
-        "will make this easier."
-      ]
-    },
-    "Eagle-Eyed": {
-      "difficulty": "Easy",
-      "note": [
-        "Complete a timed Target Practice"
-      ],
-      "guide": [
-        "Talk to Jax in the Hub (5 61 -134)",
-        "and beat the first Target Practice.",
-        "Use an Artisanal Shortbow for this."
-      ]
-    },
-    "Pet Hoarder": {
-      "difficulty": "Hard",
-      "note": [
-        "12 unique Pets"
-      ],
-      "guide": [
-        "No eggs:",
-        "Bingo, Enderman, Grandma Wolf, Armadillo, Bee,",
-        "Dolphin, Reindeer, Rock, Tarantula, Owl and Oringo Pets",
-        "Eggs:",
-        "Jerry, Silverfish, Pig, Rabbit, Endermite and Bat",
-        "If you go for Eggs, you will need 2.5k Chicken Collection."
-      ]
+    "bingo_tips": {
+        "KABOOM! (Community Goal)": {
+            "difficulty": "Medium",
+            "note": [
+                "Blow up Crypts"
+            ],
+            "guide": [
+                "For this you can use abilities",
+                "from the Mage, Tank and Archer",
+                "class, or use Super Boom TNTs.",
+                "You will need Combat 15."
+            ]
+        },
+
+        "Skilled (Community Goal)": {
+            "difficulty": "Easy",
+            "note": [
+                "Gain Enchanting experience"
+            ],
+            "guide": [
+                "Do your daily experiments in",
+                "the Experimentation Table (Enchanting 10),",
+                "always do the highest tier you can."
+            ]
+        },
+
+        "Lucky Looter (Community Goal)": {
+            "difficulty": "Medium",
+            "note": [
+                "Collect rare drops"
+            ],
+            "guide": [
+                "Carrots and potatoes from killing",
+                "Zombies in graveyard do count."
+            ]
+        },
+
+        "Hunter (Community Goal)": {
+            "difficulty": "Easy",
+            "note": [
+                "Collect pelts"
+            ],
+            "guide": [
+                "Use SkyHanni's Trapper features to make this easier.",
+                "Use /warp trapper to get back to Trevor"
+            ]
+        },
+
+        "Tarantula Broodfather (Community Goal)": {
+            "difficulty": "Medium",
+            "note": [
+                "Kill t2+ Spider bosses"
+            ],
+            "guide": [
+                "Getting yourself a Void Sword and",
+                "4+ pieces of the Ender Set should make",
+                "this easy. You can also go for Dark Goggles",
+                "and a Dreadlord Sword from Dungeons to go",
+                "the Mage route."
+            ]
+        },
+
+        "Collecting Data": {
+            "difficulty": "Easy",
+            "note": [
+                "Bestiary Milestone 3"
+            ],
+            "guide": [
+                "You will most likely get this passively.",
+                "Use /be ingame to view your progress."
+            ]
+        },
+
+        "Strongman": {
+            "difficulty": "Medium",
+            "note": [
+                "180 strength"
+            ],
+            "guide": [
+                "Get yourself a splash, equip a Bingo Pet",
+                "and get the cake buff by eating the cakes",
+                "on owocato's, xMeru's or prtl's island.",
+                "If this doesn't finish it, get a Void Sword (200k)",
+                "in the End and hold it while wearing",
+                "some Ender Armor and/or Equipment."
+            ]
+        },
+
+        "A Best Friend": {
+            "difficulty": "Medium",
+            "note": [
+                "Craft any pet"
+            ],
+            "guide": [
+                "Rabbit, Jerry or Pig pet",
+                "will be your best options.",
+                "You will need an Enchanted Egg.",
+                "(requires 2.5k Raw Chicken Collection",
+                "and 144 Eggs to craft)"
+            ]
+        },
+
+        "Farmer": {
+            "difficulty": "Medium",
+            "note": [
+                "Reach Farming Level 20"
+            ],
+            "guide": [
+                "You will most likely get this while",
+                "going for the Carrot Collector goal."
+            ]
+        },
+
+        "Healthy": {
+            "difficulty": "Easy",
+            "note": [
+                "500 Health"
+            ],
+            "guide": [
+                "Wear Mushroom armor enchanted with Growth 5 ",
+                "(Enchanting Level 5) during the Night.",
+                "Applying Growth 5 costs 50 Levels each."
+            ]
+        },
+
+        "Rotten Flesh Collector": {
+            "difficulty": "Medium",
+            "note": [
+                "47.5k Rotten Flesh"
+            ],
+            "guide": [
+                "Unlock the Zombie Minion by killing",
+                "Zombies in the Graveyard in The Hub.",
+                "Place as many minions as you can",
+                "give them a medium storage and the best fuel",
+                "you can. Collect them in time."
+            ]
+        },
+
+        "Fairy Finder": {
+            "difficulty": "Easy",
+            "note": [
+                "25 Fairy Souls"
+            ],
+            "guide": [
+                "Collect those you run along while doing other goals.",
+                "If you have trouble check TimeDeo's fairy soul",
+                "tutorial on YouTube or run /neusouls on to get",
+                "the locations shown."
+
+            ]
+        },
+
+        "Friend Of The Seas": {
+            "difficulty": "Hard",
+            "note": [
+                "Equip an Uncommon or higher Dolphin"
+            ],
+            "guide": [
+                "You have to fish up 250 Sea Creatures",
+                "to get a Common Dolphin. Upgrade it",
+                "with Kat for 100k coins and wait a day.",
+                "You might want to unlock Angler Armor for this."
+            ]
+        },
+
+        "I See Stars": {
+            "difficulty": "Easy",
+            "note": [
+                "5 star a dungeon item"
+            ],
+            "guide": [
+                "Buy a Super Cleaver from Ophelia",
+                "in the Dungeon Hub and star it",
+                "using the essence from opening",
+                "Crystal Hollow chests."
+            ]
+        },
+
+        "Trouble is Brewing...": {
+            "difficulty": "Easy",
+            "note": [
+                "Brew any level 4 potion"
+            ],
+            "guide": [
+                "Easiest way of getting this would",
+                "be brewing a Speed 3 potion using",
+                "1 Enchanted Sugar and adding a",
+                "Glowstone Dust from the Builder in The Hub."
+            ]
+        },
+
+        "Spider Queen": {
+            "difficulty": "Medium",
+            "note": [
+                "Summon Arachne"
+            ],
+            "guide": [
+                "To summon Arachne you need to place",
+                "4 Arachne's Callings in the Altar in",
+                "Arachne's Sanctuary. Those drop from slaying",
+                "Arachne's Keepers there. You can get away with",
+                "only placing one by teaming up with others."
+            ]
+        },
+
+        "A Real Head Scratcher": {
+            "difficulty": "Easy",
+            "note": [
+                "Complete Puzzler's Quest"
+            ],
+            "guide": [
+                "Go to the Puzzler in the Dwarven Mines",
+                "and mine the Block he tells you to.",
+                "NEU and Skytils both offer solvers for the Puzzler."
+            ]
+        },
+
+        "Minion Machine": {
+            "difficulty": "Easy",
+            "note": [
+                "25 unique Minions"
+            ],
+            "guide": [
+                "Craft some easy minions while also getting",
+                "those that will help with this Bingo.",
+                "Completing this task will get you",
+                "close to your 8th Minion Slot."
+            ]
+        },
+
+        "Zoop!": {
+            "difficulty": "Hard",
+            "note": [
+                "Craft an Aspect of the End"
+            ],
+            "guide": [
+                "25k Ender Pearls Collection,",
+                "you need 32 Enchanted Eye Of Ender and",
+                "1 Enchanted Diamond to craft this.",
+                "You can buy Blaze Powder from the Alchemist",
+                "in The Hub or get a Blaze Minion down",
+                "(this can be unlocked by killing the Blazes",
+                "that the Bal Boss spawns (Crystal Hollows))."
+            ]
+        },
+
+        "Carry-On": {
+            "difficulty": "Easy",
+            "note": [
+                "Craft a Small Backpack"
+            ],
+            "guide": [
+                "Unlocks from 250 Leather Collection.",
+                "it requires 80 Leather to craft.",
+                "You can get this by killing Cows in The Barn."
+            ]
+        },
+
+        "The Green Gold": {
+            "difficulty": "Medium",
+            "note": [
+                "Craft an Emerald Ring"
+            ],
+            "guide": [
+                "Mine emeralds in the Dwarven Mines minecarts",
+                "above the Bank. Needs 32 Enchanted Emeralds",
+                "and Emerald Collection 5 to craft."
+            ]
+        },
+
+        "Strange Eggs": {
+            "difficulty": "Medium",
+            "note": [
+                "Spawn a Golden Goblin from a Goblin Egg"
+            ],
+            "guide": [
+                "Kill goblins or open loot chests in",
+                "the Crystal Hollows, then just throw them",
+                "until you get a Golden Goblin. Higher ",
+                "level eggs have higher chances of spawning,",
+                "but are also rarer to get."
+            ]
+        },
+
+        "Carrot Collector": {
+            "difficulty": "Medium",
+            "note": [
+                "200k Carrot Collection"
+            ],
+            "guide": [
+                "Use The Garden to get this. A full plot",
+                "requires 7,896 Carrots or 50 Enchanted Carrots",
+                "to paste. Getting an Advanced Gardening Hoe",
+                "might be helpful for this (25 Copper).",
+                "You can get the first Carrots from The Barn",
+                "or the cave in The Hub."
+            ]
+        },
+
+        "Setting a Trap": {
+            "difficulty": "Easy",
+            "note": [
+                "Kill a Trapper Animal"
+            ],
+            "guide": [
+                "Use SkyHanni's Trapper features to make this easier.",
+                "Use /warp trapper to get back to Trevor.",
+                "You will most likely need a Bow for this."
+            ]
+        },
+
+        "Gemstone Collector": {
+            "difficulty": "Medium",
+            "note": [
+                "50k Gemstone Collection"
+            ],
+            "guide": [
+                "You can get this by opening Crystal Hollows",
+                "Loot Chests, mining them manually with a",
+                "Titanium Pickaxe or killing worms/scathas."
+            ]
+        }
     }
-  }
 }
