@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "dfec491",
+  "sourceLabel": "526f1a3",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -402,7 +402,8 @@
     "garden.cropmilestone.fix.levelup": " {2}§r§b§lGARDEN MILESTONE §3(?\u003ccrop\u003e.*) §8.*➜§3(?\u003ctier\u003e.*)",
     "garden.cropmilestone.fix.pests.loot": "§eYou received §a(?\u003camount\u003e[0-9]*)x (?\u003citem\u003e.*) §efor killing an? §6(?\u003cpest\u003e.*)§e!",
     "garden.cropmilestone.fix.pests.raredrop": "§6§lRARE DROP! (?:§.)*(?\u003citem\u003e.+) §6\\(§6\\+.*☘\\)",
-    "diana.waypoints.party": "§9Party §8\u003e (?\u003cplayerName\u003e.*)§f: §rx: (?\u003cx\u003e-?[0-9]{1,4}), y: (?\u003cy\u003e-?[0-9]{1,4}), z: (?\u003cz\u003e-?[0-9]{1,4})\\b",
+    "diana.waypoints.party": "§9Party §8\u003e (?\u003cplayerName\u003e.+)§f: §rx: (?\u003cx\u003e[^ ]+),? y: (?\u003cy\u003e[^ ]+),? z: (?\u003cz\u003e[^ ]+)",
+    "diana.waypoints.party.inquisitorchecker": "§9Party §8\u003e (?\u003cplayerName\u003e.+)§f: §rA MINOS INQUISITOR has spawned near \\[(?\u003carea\u003e.*)] at Coords (?\u003cx\u003e[^ ]+) (?\u003cy\u003e[^ ]+) (?\u003cz\u003e[^ ]+)",
     "diana.waypoints.died": "§9Party §8\u003e (?\u003cplayerName\u003e.*)§f: §rInquisitor dead!",
     "misc.trevor.trapper": "\\[NPC] Trevor: You can find your (?\u003crarity\u003e.*) animal near the (?\u003clocation\u003e.*).",
     "misc.trevor.above": "The target is around (?\u003cheight\u003e.*) blocks above, at a (?\u003cangle\u003e.*) degrees angle!",
