@@ -280,7 +280,9 @@
                 "the Crystal Hollows, then just throw them",
                 "until you get a Golden Goblin. Higher ",
                 "level eggs have higher chances of spawning,",
-                "but are also rarer to get."
+                "but are also rarer to get.",
+                "Despite the goal's description, Golden Goblins",
+                "spawned from mining also count towards the goal."
             ]
         },
 
