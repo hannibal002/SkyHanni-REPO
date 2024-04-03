@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2f85351",
+  "sourceLabel": "82a6525",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -617,6 +617,8 @@
     "misc.limbo.tooltip.hours": "§5§o§b([\\d.,]+) hours.+$",
     "pet.petdropmessage": "(?\u003ctypeOfDrop\u003e§6§lPET DROP!|§5§lGREAT CATCH! §r§bYou found a §r§7\\[Lvl 1]) (?:§r)?§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cmagicFindOrFarmingFortune\u003e.*)",
     "inventory.recipe.title": ".* Recipe",
+    "garden.pests.tracker.loot": "§eYou received §a(?\u003camount\u003e[0-9]*)x (?\u003citem\u003e.*) §efor killing an? §6(?\u003cpest\u003e.*)§e!",
+    "garden.pests.tracker.raredrop": "§6§l(?:RARE|PET) DROP! (?:§.)*(?\u003citem\u003e.+) §6\\(§6\\+.*☘\\)",
     "test.dev.copyrng.slayer": "§7Slayer XP: §d.*§5/§d(?\u003cxp\u003e.*)",
     "test.dev.copyrng.dungeon": "§7Dungeon Score: §d.*§5/§d(?\u003cxp\u003e.*)",
     "test.bestiary.type": "\\[Lv(?\u003clvl\u003e.*)] (?\u003ctext\u003e.*)"
