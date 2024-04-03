@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "82a6525",
+  "sourceLabel": "b51b07e",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -158,9 +158,6 @@
     "utils.item.sack": ".*Sack",
     "utils.skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
     "utils.tablist.profile": "(?:§.)+Profile: §r§a(?\u003cprofile\u003e\\S+).*",
-    "misc.pet.menu.title": "Pets(?: \\(\\d+/\\d+\\) )?",
-    "misc.pet.item.name": "(?:§.)*\\[Lvl (?\u003clevel\u003e\\d+)] (?\u003cname\u003e.*)",
-    "misc.pet.item.name.neu.format": "(§f§f)?§7\\[Lvl 1➡(100|200)] (?\u003cname\u003e.*)",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
     "garden.plot.barnname": "§.(?\u003cname\u003eThe Barn)",
     "garden.plot.uncleaned": "§7Cleanup: .* (?:§.)*Completed",
@@ -244,6 +241,11 @@
     "api.skilldisplay.skill.tab.max": "^§e§lSkills: §r§a(?\u003ctype\u003e\\w+) (?\u003clevel\u003e\\d+): §r§c§lMAX$",
     "garden.visitor.api.visitor.count": "§b§lVisitors: §r§f\\((?\u003cinfo\u003e.*)\\)",
     "garden.visitor.api.visitor.name": " (?:§.)+(?\u003cname\u003e§.[^§]+).*",
+    "data.kuudra.scoreboard.tier": " §7⏣ §cKuudra\u0027s Hollow §8\\(T(?\u003ctier\u003e.*)\\)",
+    "data.kuudra.chat.complete": "§.\\s*(?:§.)*KUUDRA DOWN!",
+    "misc.pet.menu.title": "Pets(?: \\(\\d+/\\d+\\) )?",
+    "misc.pet.item.name": "(?:§.)*\\[Lvl (?\u003clevel\u003e\\d+)] (?\u003cname\u003e.*)",
+    "misc.pet.item.name.neu.format": "(§f§f)?§7\\[Lvl 1➡(100|200)] (?\u003cname\u003e.*)",
     "garden.pestsapi.scoreboard.pests": " §7⏣ §[ac]The Garden §4§lൠ§7 x(?\u003cpests\u003e.*)",
     "garden.pestsapi.scoreboard.nopests": " §7⏣ §a(?:The Garden|Plot §7- §b.+)$",
     "garden.pestsapi.scoreboard.plot.pests": "\\s*(?:§.)*Plot (?:§.)*- (?:§.)*(?\u003cplot\u003e.+) (?:§.)*ൠ(?:§.)* x(?\u003cpests\u003e\\d+)",
