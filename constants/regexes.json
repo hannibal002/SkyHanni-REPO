@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "52691f7",
+  "sourceLabel": "d991a49",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -208,6 +208,7 @@
     "data.maxwell.gui.thaumaturgy": "Accessory Bag Thaumaturgy",
     "data.maxwell.gui.thaumaturgy.start": "§7Your tuning:",
     "data.maxwell.gui.thaumaturgy.data": "§(?\u003ccolor\u003e.)\\+(?\u003camount\u003e[^ ]+)(?\u003cicon\u003e.) (?\u003cname\u003e.+)",
+    "data.maxwell.gui.thaumaturgy.magicalpower": "§7Total: §6(?\u003cmp\u003e\\d+) Magical Power",
     "data.maxwell.gui.thaumaturgy.statstuning": "Stats Tuning",
     "data.maxwell.thaumaturgy.statstuning": "§7You have: .+ §7\\+ §(?\u003ccolor\u003e.)(?\u003camount\u003e[^ ]+) (?\u003cicon\u003e.)",
     "data.maxwell.tuningpoints.chat.autoassigned": "§aYour §r§eTuning Points §r§awere auto-assigned as convenience!",
