@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "b51b07e",
+  "sourceLabel": "49f3442",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -613,7 +613,7 @@
     "inventory.maxpurse.instant": ".*Price per unit: §6(?\u003ccoins\u003e[\\d.,]+) coins.*",
     "inventory.maxpurse.createorder": "§aCreate Buy Order",
     "inventory.maxpurse.createinstant": "§aBuy Instantly",
-    "inventory.supercrafting.craft": "§eYou Supercrafted §r§r§r§.(?\u003citem\u003e[^§]+)(?:§r§8x(?\u003camount\u003e\\d+))?§r§e!",
+    "inventory.supercrafting.craft.new": "§eYou Supercrafted §r§r§r§.(?\u003citem\u003e[^§]+)(?:§r§8x(?\u003camount\u003e[\\d,]+))?§r§e!",
     "minion.infernominiontitle": "Inferno Minion .*",
     "misc.limbo.tooltip.minutes": "§5§o§a([\\d.,]+) minutes.+$",
     "misc.limbo.tooltip.hours": "§5§o§b([\\d.,]+) hours.+$",
