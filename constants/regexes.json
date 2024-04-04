@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "82f1db0",
+  "sourceLabel": "d48cf01",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -410,7 +410,6 @@
     "misc.teleportpad.number": "§.(?\u003cnumber\u003e.*) teleport pad",
     "garden.cropmilestone.fix.tablist": " Milestone: §r§a(?\u003ccrop\u003e.*) (?\u003ctier\u003e.*): §r§3(?\u003cpercentage\u003e.*)%",
     "garden.cropmilestone.fix.levelup": " {2}§r§b§lGARDEN MILESTONE §3(?\u003ccrop\u003e.*) §8.*➜§3(?\u003ctier\u003e.*)",
-    "garden.cropmilestone.fix.pests.loot": "§eYou received §a(?\u003camount\u003e[0-9]*)x (?\u003citem\u003e.*) §efor killing an? §6(?\u003cpest\u003e.*)§e!",
     "garden.cropmilestone.fix.pests.raredrop": "§6§lRARE DROP! (?:§.)*(?\u003citem\u003e.+) §6\\(§6\\+.*☘\\)",
     "diana.waypoints.party": "§9Party §8\u003e (?\u003cplayerName\u003e.*)§f: §rx: (?\u003cx\u003e-?[0-9]{1,4}), y: (?\u003cy\u003e-?[0-9]{1,4}), z: (?\u003cz\u003e-?[0-9]{1,4})\\b",
     "diana.waypoints.died": "§9Party §8\u003e (?\u003cplayerName\u003e.*)§f: §rInquisitor dead!",
@@ -621,7 +620,6 @@
     "misc.limbo.tooltip.hours": "§5§o§b([\\d.,]+) hours.+$",
     "pet.petdropmessage": "(?\u003ctypeOfDrop\u003e§6§lPET DROP!|§5§lGREAT CATCH! §r§bYou found a §r§7\\[Lvl 1]) (?:§r)?§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cmagicFindOrFarmingFortune\u003e.*)",
     "inventory.recipe.title": ".* Recipe",
-    "garden.pests.tracker.loot": "§eYou received §a(?\u003camount\u003e[0-9]*)x (?\u003citem\u003e.*) §efor killing an? §6(?\u003cpest\u003e.*)§e!",
     "garden.pests.tracker.raredrop": "§6§l(?:RARE|PET) DROP! (?:§.)*(?\u003citem\u003e.+) §6\\(§6\\+.*☘\\)",
     "test.dev.copyrng.slayer": "§7Slayer XP: §d.*§5/§d(?\u003cxp\u003e.*)",
     "test.dev.copyrng.dungeon": "§7Dungeon Score: §d.*§5/§d(?\u003cxp\u003e.*)",
