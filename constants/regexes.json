@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "f90096b",
+  "sourceLabel": "56b2f2f",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -230,6 +230,9 @@
     "data.bits.chat.boostercookieate": "§eYou consumed a §6Booster Cookie§e!.*",
     "data.bits.gui.availablemenu": "§7Bits Available: §b(?\u003ctoClaim\u003e[\\d,]+)(§3.+)?",
     "data.bits.gui.sbmenufamerank": "§7Your rank: §e(?\u003crank\u003e.*)",
+    "data.bits.gui.cookieduration": "\\s*§7Duration: §a(?\u003ctime\u003e.*)",
+    "data.bits.gui.sbmenunocookieactive": " §7Status: §cNot active!",
+    "data.bits.gui.cookiemenucookieactive": "(§7§cYou do not currently have a|§cBooster Cookie active!)",
     "data.bits.gui.communityshopfamerank": "§7Fame Rank: §e(?\u003crank\u003e.*)",
     "data.bits.gui.mainmenuname": "^SkyBlock Menu$",
     "data.bits.gui.mainmenustack": "^§6Booster Cookie$",
