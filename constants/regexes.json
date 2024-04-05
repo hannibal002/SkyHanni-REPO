@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "aff767b",
+  "sourceLabel": "45a4478",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -434,6 +434,7 @@
     "bingo.card.tips.card": "Bingo Card",
     "bingo.card.tips.reward": "§.§.§7Reward",
     "bingo.card.tips.reward.contribution": "§.§.§7Contribution Rewards.*",
+    "bingo.card.tips.row.name": "§o§eRow #.*",
     "garden.visitor.droptracker.accept": "OFFER ACCEPTED with (?\u003cvisitor\u003e.*) [(](?\u003crarity\u003e.*)[)]",
     "garden.visitor.droptracker.copper": "[+](?\u003camount\u003e.*) Copper",
     "garden.visitor.droptracker.gardenexp": "[+](?\u003camount\u003e.*) Garden Experience",
