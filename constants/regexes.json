@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "d991a49",
+  "sourceLabel": "f90096b",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -214,6 +214,7 @@
     "data.maxwell.tuningpoints.chat.autoassigned": "§aYour §r§eTuning Points §r§awere auto-assigned as convenience!",
     "data.maxwell.gui.yourbags": "Your Bags",
     "data.maxwell.gui.selectedpower": "§aPower is selected!",
+    "data.maxwell.gui.noselectedpower": "(?:§.)*Visit Maxwell in the Hub to learn",
     "data.maxwell.stack.accessorybag": "§.Accessory Bag",
     "data.maxwell.collection.redstone.requirement": "(?:§.)*Requires (?:§.)*Redstone Collection I+(?:§.)*\\.",
     "data.quiver.chat.select": "§aYou set your selected arrow type to §.(?\u003carrow\u003e.*)§a!",
