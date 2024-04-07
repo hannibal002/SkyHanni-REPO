@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "45a4478",
+  "sourceLabel": "d8ba776",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -170,7 +170,7 @@
     "data.collection.api.tierzero": "§7Progress to .* I: .*",
     "garden.farming.contest.time": "§a(?\u003cmonth\u003e.*) (?\u003cday\u003e.*)(?:rd|st|nd|th), Year (?\u003cyear\u003e.*)",
     "garden.farming.contest.crop": "§8(?\u003ccrop\u003e.*) Contest",
-    "garden.farming.contest.sidebarcrop": "(?:§e○|§6☘) §f(?\u003ccrop\u003e.*) §a.*",
+    "garden.farming.contest.sidebarcrop": "\\s*(?:§e○|§6☘) §f(?\u003ccrop\u003e.*) §a.*",
     "garden.farming.contest.bracketdiamond": "§b§lDIAMOND §7\\(§bTop \\d{1,2}%§7\\): §6(?\u003camount\u003e.*)",
     "garden.farming.contest.bracketplatinum": "§3§lPLATINUM §7\\(§bTop \\d{1,2}%§7\\): §6(?\u003camount\u003e.*)",
     "garden.farming.contest.bracketgold": "§6§lGOLD §7\\(§bTop \\d{1,2}%§7\\): §6(?\u003camount\u003e.*)",
