@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2ee1322",
+  "sourceLabel": "0db07a9",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -245,8 +245,8 @@
     "api.skilldisplay.skill.percent": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e.+) \\((?\u003cprogress\u003e[\\d.]+)%\\)",
     "api.skilldisplay.skill": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e\\w+) \\((?\u003ccurrent\u003e[\\d.,]+)/(?\u003cneeded\u003e[\\d.,]+)\\)",
     "api.skilldisplay.skill.multiplier": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e.+) \\((?\u003ccurrent\u003e[\\d.,]+)/(?\u003cneeded\u003e[\\d,.]+[kmb])\\)",
-    "api.skilldisplay.skill.tab": " (?\u003ctype\u003e\\w+) (?\u003clevel\u003e\\d+): §r§a(?\u003cprogress\u003e.+)%$",
-    "api.skilldisplay.skill.tab.max": "^§e§lSkills: §r§a(?\u003ctype\u003e\\w+) (?\u003clevel\u003e\\d+): §r§c§lMAX$",
+    "api.skilldisplay.skill.tab": "(?:§e§lSkills: §r§a)?\\s*(?\u003ctype\u003e\\w+) (?\u003clevel\u003e\\d+): §r§.(?\u003cprogress\u003e.+)%$",
+    "api.skilldisplay.skill.tab.max": "(?:§e§lSkills: §r§a)?\\s*(?\u003ctype\u003e\\w+) (?\u003clevel\u003e\\d+): §r§c§lMAX$",
     "garden.visitor.api.visitor.count": "§b§lVisitors: §r§f\\((?\u003cinfo\u003e.*)\\)",
     "garden.visitor.api.visitor.name": " (?:§.)+(?\u003cname\u003e§.[^§]+).*",
     "data.kuudra.scoreboard.tier": " §7⏣ §cKuudra\u0027s Hollow §8\\(T(?\u003ctier\u003e.*)\\)",
