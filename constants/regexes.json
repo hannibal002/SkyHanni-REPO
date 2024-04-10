@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "259acef",
+  "sourceLabel": "f541212",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -32,6 +32,7 @@
     "data.garden.milestone.crop": "§7Harvest §f(?\u003cname\u003e.*) §7on .*",
     "data.garden.milestone.total": "§7Total: §a(?\u003cname\u003e.*)",
     "data.garden.milestonefix.amount": ".*§e(?\u003chaving\u003e.*)§6/§e(?\u003cmax\u003e.*)",
+    "garden.visitor.offersaccepted": "§7Offers Accepted: §a(?\u003coffersAccepted\u003e\\d+)",
     "data.owninventory.chat.movedsacktoinventory": "§aMoved §r§e\\d* (?\u003cname\u003e.*)§r§a from your Sacks to your inventory.",
     "gfs.chat.from": "§aMoved §r§e(?\u003camount\u003e\\d+) (?\u003citem\u003e.+)§r§a from your Sacks to your inventory.",
     "gfs.chat.missing": "§cYou have no (?\u003citem\u003e.+) in your Sacks!",
@@ -150,7 +151,7 @@
     "utils.item.name.bait": "^(Obfuscated.*|.* Bait)$",
     "utils.item.neuitems.enchantmentname": "^(?\u003cformat\u003e(?:§.)+)(?\u003cname\u003e[^§]+) (?\u003clevel\u003e[IVXL]+)$",
     "utils.item.name.potion": ".*Potion",
-    "utils.item.amount.front": "(?: *§8(\\+§\\w)?(?\u003camount\u003e[\\d.km,]+)(x )?)?(?\u003cname\u003e.*)",
+    "utils.item.amount.front": "(?: +§8(?:\\+§.)?(?\u003camount\u003e[\\d.,]+[km]?)x? )?(?\u003cname\u003e.*)",
     "utils.item.amount.behind": "(?\u003cname\u003e(?:[\u0027\\w-]+ ?)+)(?:§8x(?\u003camount\u003e[\\d,]+))?",
     "utils.time.amount": "(?:(?\u003cy\u003e\\d+) ?y(?:\\w* ?)?)?(?:(?\u003cd\u003e\\d+) ?d(?:\\w* ?)?)?(?:(?\u003ch\u003e\\d+) ?h(?:\\w* ?)?)?(?:(?\u003cm\u003e\\d+) ?m(?:\\w* ?)?)?(?:(?\u003cs\u003e\\d+) ?s(?:\\w* ?)?)?",
     "utils.string.playerchat": "(?\u003cimportant\u003e.*?)(?:§[f7r])*: .*",
