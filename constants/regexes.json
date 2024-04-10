@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "f541212",
+  "sourceLabel": "2ee1322",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -601,6 +601,8 @@
     "garden.pests.spawn.multiple": "§6§l.*! §6(?\u003camount\u003e\\d) Pests §7have spawned in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
     "garden.pests.spawn.multiplebarn": "§6§l.*! §6(?\u003camount\u003e\\d) Pests §7have spawned in §a(?\u003cplot\u003eThe Barn)§7!",
     "garden.pests.spawn.offline": "§6§l.*! §7While you were offline, §6Pests §7spawned in §aPlots (?\u003cplots\u003e.*)!",
+    "garden.vinyl.select": "§aYou are now playing §r§e(?\u003ctype\u003e.*)§r§a!",
+    "garden.vinyl.unselect": "§aYou are no longer playing §r§e.*§r§a!",
     "garden.spray.material": "§a§lSPRAYONATOR! §r§7Your selected material is now §r§a(?\u003cspray\u003e.*)§r§7!",
     "inventory.dojo.rankdisplay.name": "(?\u003ccolor\u003e§\\w)Test of (?\u003cname\u003e.*)",
     "inventory.dojo.rankdisplay.rank": "(?:§\\w)+Your Rank: (?\u003crank\u003e§\\w.) §8\\((?\u003cscore\u003e\\d+)\\)",
