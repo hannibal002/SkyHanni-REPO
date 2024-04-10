@@ -2,9 +2,12 @@
   "equals": [
     "LEAVES_2-2",
     "MONSTER_EGG-120",
+    "MUSHROOM_COLLECTION",
     "PRISMARINE-5",
     "PRISMARINE-7",
     "QUARTZ_BLOCK-7",
+    "RED_ROSE-9",
+    "RED_ROSE-15",
     "SAND-5",
     "SAND-7",
     "SAND-9",
@@ -29,10 +32,7 @@
     "WOOD_STEP-10",
     "WOOD_STEP-11",
     "WOOD_STEP-12",
-    "WOOD_STEP-13",
-    "RED_ROSE-9",
-    "RED_ROSE-15",
-    "MUSHROOM_COLLECTION"
+    "WOOD_STEP-13"
   ],
   "contains": [
     "ANVIL-",
