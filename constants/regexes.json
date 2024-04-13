@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6c02dfe",
+  "sourceLabel": "a203261",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -99,6 +99,7 @@
     "features.gui.customscoreboard.scoreboard.mining.uselessgoblin": "^§7Kill goblins!$",
     "features.gui.customscoreboard.scoreboard.mining.remaininggoblin": "^Remaining: §a\\d+ goblins$",
     "features.gui.customscoreboard.scoreboard.mining.yourgoblin": "^Your kills: §c\\d+ ☠( §a\\(\\+\\d+\\))?$",
+    "features.gui.customscoreboard.scoreboard.mining.mineshaft.notstarted": "(?:§.)*Not started.*",
     "features.gui.customscoreboard.scoreboard.combat.magmachamber": "^Magma Chamber$",
     "features.gui.customscoreboard.scoreboard.combat.magmaboss": "^§7Boss: §[c6e]\\d{1,3}%$",
     "features.gui.customscoreboard.scoreboard.combat.damagesoaked": "^§7Damage Soaked:",
@@ -121,6 +122,8 @@
     "features.gui.customscoreboard.scoreboard.misc.dojopoints": "^(§.)*Points: (§.)*[\\w.]+ ?(§7\\(§.*§7\\))?$",
     "features.gui.customscoreboard.scoreboard.misc.dojotime": "^(§.)*Time: (§.)*[\\w.]+( §7\\(§.*§7\\))?$",
     "features.gui.customscoreboard.scoreboard.misc.objective": "^(§.)*(Objective|Quest).*",
+    "features.gui.customscoreboard.scoreboard.misc.queued": "Queued:.*",
+    "features.gui.customscoreboard.scoreboard.misc.queueposition": "Position: (?:§.)*#\\d+ (?:§.)*Since: (?:§.)*.*",
     "features.gui.customscoreboard.scoreboard.misc.thirdobjectiveline": "(\\s*§.\\(§.\\w+§./§.\\w+§.\\)|§f Mages.*|§f Barbarians.*|§edefeat Kuudra|§eand stun him)",
     "features.gui.customscoreboard.scoreboard.misc.wtfarethoselines": "^(§eMine 10 Rubies|§eKill 100 Automatons)$",
     "features.gui.customscoreboard.scoreboard.misc.darkauction.currentitem": "^Current Item:$",
@@ -143,8 +146,6 @@
     "features.gui.customscoreboard.tablist.glacitepowder": "^\\s*Glacite(?: Powder)?: (?:§.)+(?\u003cglacitepowder\u003e[\\d,\\.]+)$",
     "features.gui.customscoreboard.tablist.event": "^\\s*§e§lEvent: §r(?\u003cname\u003e§.*)$",
     "features.gui.customscoreboard.tablist.eventtime": "^\\s+Ends In: §r§e(?\u003ctime\u003e.*)$",
-    "features.gui.customscoreboard.tablist.boostereffects": "\\s*(?:§.)*Cookie Buff(?:§.)*: (?:§r)*(?\u003ctime\u003e.*)",
-    "features.gui.customscoreboard.tablist.cookienotactive": "((?:§.)*Not active.*)|(§c§lINACTIVE)",
     "utils.item.lore.rarity.line": "^(?:§.){2,3}(?:.§. (?:§.){4})?(?:SHINY )?(?\u003crarity\u003eCOMMON|UNCOMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|SUPREME|SPECIAL|VERY SPECIAL|ULTIMATE) ?(?:DUNGEON )?(?\u003citemCategory\u003e[^§]*)(?: (?:§.){3}.)?$",
     "utils.item.name.abiphone": ".{2}Abiphone .*",
     "utils.item.name.enchanted.book": ".{2}?Enchanted Book",
