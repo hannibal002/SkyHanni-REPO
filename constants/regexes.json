@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "0d41a28",
+  "sourceLabel": "e3f1794",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -620,6 +620,11 @@
     "mining.eventtracker.bossbar.active": "§e§lEVENT (?\u003cevent\u003e.+) §e§lACTIVE IN (?\u003carea\u003e.+) §e§lfor §a§l(?\u003ctime\u003e\\S+)§r",
     "mining.eventtracker.started": "(?:§.)*\\s+(?:§.)+§l(?\u003cevent\u003e.+) STARTED!",
     "mining.eventtracker.ended": "(?:§.)*\\s+(?:§.)+§l(?\u003cevent\u003e.+) ENDED!",
+    "mining.notifications.mineshaft.spawn": "§5§lWOW! §r§aYou found a §r§bGlacite Mineshaft §r§aportal!",
+    "mining.notifications.scrapdrop": "§6§lEXCAVATOR! §r§fYou found a §r§9Suspicious Scrap§r§f!",
+    "mining.notifications.goblin.goldspawn": "§6A Golden Goblin has spawned!",
+    "mining.notifications.goblin.diamondspawn": "§6A §r§bDiamond Goblin §r§6has spawned!",
+    "mining.notifications.cold.reset": "§cThe warmth of the campfire reduced your §r§b❄ Cold §r§cto 0!",
     "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!",
     "fishing.totemofcorruption.totemname": "§5§lTotem of Corruption",
     "fishing.totemofcorruption.timeremaining": "§7Remaining: §e(?:(?\u003cmin\u003e\\d+)m )?(?\u003csec\u003e\\d+)s",
