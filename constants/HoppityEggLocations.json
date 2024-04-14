@@ -178,5 +178,27 @@
       "510:93:470",
       "494:106:556"
     ]
-  }
+  },
+  "rabbitSlots": {
+    "29": "1",
+    "30": "2",
+    "31": "3",
+    "32": "4",
+    "33": "5"
+  },
+  "otherUpgradeSlots": [
+    28,
+    34,
+    38,
+    39,
+    41,
+    42
+  ],
+  "noPickblockSlots": [
+    39
+  ],
+  "barnIndex": 34,
+  "infoIndex": 13,
+  "milestoneIndex": 53,
+  "maxRabbits": 395
 }
