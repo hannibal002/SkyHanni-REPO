@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e20838c",
+  "sourceLabel": "9563270",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -329,7 +329,7 @@
     "event.diana.mythological.tracker.minoshunter": ".* §r§eYou dug out a §r§2Minos Hunter§r§e!",
     "event.diana.mythological.tracker.minosinquisitor": ".* §r§eYou dug out a §r§2Minos Inquisitor§r§e!",
     "inventory.npc.sell.lore": "§7them to this Shop!|§eClick to buyback!",
-    "bazaar.cancelledorder.lastamount": "§a(?\u003camount\u003e.*)§7x",
+    "bazaar.cancelledorder.lastamount": "§6§7from §a(?\u003camount\u003e.*)§7x §7missing items\\.",
     "bazaar.cancelledorder.cancelledmessage": "§6\\[Bazaar] §r§7§r§cCancelled! §r§7Refunded §r§6(?\u003ccoins\u003e.*) coins §r§7from cancelling Buy Order!",
     "dungeon.croesus.inventory": "Croesus",
     "dungeon.croesus.empty": "§cNo treasures!",
