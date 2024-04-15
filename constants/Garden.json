@@ -22,48 +22,48 @@
       50,
       80,
       170,
-      500,
-      800,
-      2000,
-      2000,
-      3000,
-      8000,
-      8000,
+      330,
+      670,
+      1330,
+      2500,
+      3500,
+      5000,
+      6500,
       8000,
       10000,
       20000,
-      30000,
-      70000,
-      80000,
-      80000,
-      170000,
-      330000,
+      35000,
+      50000,
+      75000,
+      100000,
+      175000,
+      250000,
+      350000,
       500000,
-      660000,
+      750000,
       1000000,
       1300000,
+      1600000,
+      2000000,
       2300000,
-      3300000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000
+      2600000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000
     ],
     "CARROT": [
       100,
@@ -73,76 +73,124 @@
       1500,
       2500,
       5000,
-      5000,
+      7500,
       10000,
+      15000,
+      20000,
       25000,
-      25000,
-      25000,
-      30000,
+      40000,
       70000,
       100000,
       200000,
       250000,
       250000,
       500000,
+      750000,
       1000000,
       1500000,
       2000000,
       3000000,
       4000000,
+      5000000,
+      6000000,
       7000000,
+      8000000,
+      9000000,
       10000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000
     ],
     "POTATO": [
       100,
       150,
-      300,
+      250,
       500,
       1500,
-      3000,
+      2500,
       5000,
-      5000,
+      7500,
       10000,
-      30000,
-      30000,
-      30000,
-      30000,
+      15000,
+      20000,
+      25000,
+      40000,
       70000,
       100000,
       200000,
-      300000,
-      300000,
+      250000,
+      250000,
       500000,
+      750000,
       1000000,
       1500000,
       2000000,
       3000000,
       4000000,
+      5000000,
+      6000000,
       7000000,
+      8000000,
+      9000000,
       10000000,
-      15000000,
-      15000000,
-      15000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000,
+      10000000
+    ],
+    "MELON": [
+      150,
+      250,
+      400,
+      850,
+      1650,
+      3350,
+      6650,
+      12500,
+      17500,
+      25000,
+      32500,
+      40000,
+      50000,
+      100000,
+      175000,
+      250000,
+      375000,
+      500000,
+      875000,
+      1250000,
+      1750000,
+      2500000,
+      3750000,
+      5000000,
+      6500000,
+      8000000,
+      10000000,
+      11500000,
+      13000000,
       15000000,
       15000000,
       15000000,
@@ -160,442 +208,452 @@
       15000000,
       15000000,
       15000000
-    ],
-    "MELON": [
-      150,
-      230,
-      400,
-      800,
-      2300,
-      4000,
-      8000,
-      8000,
-      15000,
-      40000,
-      40000,
-      40000,
-      50000,
-      110000,
-      150000,
-      300000,
-      400000,
-      400000,
-      800000,
-      1500000,
-      2000000,
-      3000000,
-      5000000,
-      6000000,
-      11000000,
-      15000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000,
-      20000000
     ],
     "PUMPKIN": [
       30,
       50,
       80,
-      150,
-      500,
-      800,
-      1500,
-      1500,
-      3000,
+      170,
+      330,
+      670,
+      1330,
+      2500,
+      3500,
+      5000,
+      6500,
       8000,
-      8000,
-      8000,
-      9000,
-      21000,
-      30000,
-      60000,
-      80000,
-      80000,
-      150000,
-      300000,
+      10000,
+      20000,
+      35000,
+      50000,
+      75000,
+      100000,
+      175000,
+      250000,
+      350000,
       500000,
-      600000,
-      900000,
-      1200000,
-      2100000,
+      750000,
+      1000000,
+      1300000,
+      1600000,
+      2000000,
+      2300000,
+      2600000,
       3000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000
     ],
     "SUGAR_CANE": [
       60,
       100,
       160,
       340,
-      1000,
-      1600,
-      4000,
-      4000,
-      6000,
-      16000,
-      16000,
-      16000,
-      20000,
-      40000,
-      60000,
-      140000,
-      160000,
-      160000,
-      340000,
-      660000,
-      1000000,
-      1320000,
-      2000000,
-      2600000,
-      4600000,
-      6600000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000
-    ],
-    "COCOA_BEANS": [
-      60,
-      100,
-      160,
-      340,
-      1000,
-      1600,
-      4000,
-      4000,
-      6000,
-      16000,
-      16000,
-      16000,
-      20000,
-      40000,
-      60000,
-      140000,
-      160000,
-      160000,
-      340000,
-      660000,
-      1000000,
-      1320000,
-      2000000,
-      2600000,
-      4600000,
-      6600000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000
-    ],
-    "CACTUS": [
-      60,
-      90,
-      150,
-      300,
-      900,
-      1500,
-      3000,
-      3000,
-      6000,
-      15000,
-      15000,
-      15000,
-      18000,
-      40000,
-      60000,
-      120000,
-      150000,
-      150000,
-      300000,
-      600000,
-      900000,
-      1200000,
-      1800000,
-      2400000,
-      4000000,
-      6000000,
-      9000000,
-      9000000,
-      9000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000,
-      10000000
-    ],
-    "MUSHROOM":  [
-      30,
-      50,
-      80,
-      150,
-      500,
-      800,
-      1500,
-      1500,
-      3000,
-      8000,
-      8000,
-      8000,
-      9000,
-      21000,
-      30000,
-      60000,
-      80000,
-      80000,
-      150000,
-      300000,
-      500000,
-      600000,
-      900000,
-      1200000,
-      2100000,
-      3000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000,
-      5000000
-    ],
-    "NETHER_WART": [
-      100,
-      150,
-      300,
-      500,
-      1500,
-      3000,
+      660,
+      1340,
+      2660,
       5000,
-      5000,
+      7000,
       10000,
-      30000,
-      30000,
-      30000,
-      30000,
+      13000,
+      16000,
+      20000,
+      40000,
       70000,
       100000,
+      150000,
+      200000,
+      350000,
+      500000,
+      700000,
+      1000000,
+      1500000,
+      2000000,
+      2600000,
+      3200000,
+      4000000,
+      4600000,
+      5200000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000
+    ],
+    "COCOA_BEANS": [
+      90,
+      150,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      7500,
+      10000,
+      15000,
+      20000,
+      25000,
+      30000,
+      50000,
+      100000,
+      150000,
       200000,
       300000,
-      300000,
       500000,
+      750000,
       1000000,
       1500000,
       2000000,
       3000000,
       4000000,
+      5000000,
+      6000000,
       7000000,
-      10000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000,
-      15000000
+      8000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000
+    ],
+    "CACTUS": [
+      60,
+      100,
+      160,
+      340,
+      660,
+      1340,
+      2660,
+      5000,
+      7000,
+      10000,
+      13000,
+      16000,
+      20000,
+      40000,
+      70000,
+      100000,
+      150000,
+      200000,
+      350000,
+      500000,
+      700000,
+      1000000,
+      1500000,
+      2000000,
+      2600000,
+      3200000,
+      4000000,
+      4600000,
+      5200000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000,
+      6000000
+    ],
+    "MUSHROOM": [
+      30,
+      50,
+      80,
+      170,
+      330,
+      670,
+      1330,
+      2500,
+      3500,
+      5000,
+      6500,
+      8000,
+      10000,
+      20000,
+      35000,
+      50000,
+      75000,
+      100000,
+      175000,
+      250000,
+      350000,
+      500000,
+      750000,
+      1000000,
+      1300000,
+      1600000,
+      2000000,
+      2300000,
+      2600000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000
+    ],
+    "NETHER_WART": [
+      90,
+      150,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      7500,
+      10000,
+      15000,
+      20000,
+      25000,
+      30000,
+      50000,
+      100000,
+      150000,
+      200000,
+      300000,
+      500000,
+      750000,
+      1000000,
+      1500000,
+      2000000,
+      3000000,
+      4000000,
+      5000000,
+      6000000,
+      7000000,
+      8000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000,
+      9000000
     ]
+  },
+  "crop_milestone_community_help": {
+    "show_wrong_data": false,
+    "show_when_all_correct": false
   },
   "visitors": {
     "Adventurer": {
       "rarity": "uncommon",
       "need_items": [
         "Potato"
-      ]
+      ],
+      "mode": "hub",
+      "position": "-41:70:-64",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NTkxMzU4MzE3MzksInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJ4RmFpaUxlUiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQzNGYzOGMxYmIxMDZlMTE5MDhhZDNjYzkwMTYyYzE4Yjg2M2Q2NzgyNjVjODRhODRhMzU4OTAzZjhmN2ExYyJ9fX0="
     },
     "Alchemist": {
       "rarity": "uncommon",
       "need_items": [
         "Nether Wart"
-      ]
+      ],
+      "mode": "hub",
+      "position": "41:70:-64",
+      "skinOrType": "EntityWitch"
     },
     "Andrew": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "mode": "hub",
+      "position": "38:68:-47",
+      "skinOrType": "EntityVillager"
     },
     "Anita": {
       "rarity": "uncommon",
       "need_items": [
         "Carrot"
-      ]
+      ],
+      "mode": "hub",
+      "position": "23:77:-69",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwNDQxODU1MDQ5MCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGQ0ZTlkMmE4Yzg4ZDBlZmQ3NTBlODUyNzMyYmEwNWZhM2YzMDJlMjA0ZTJiZGM4OGRhZDYwNWUyNTU3ZTJhNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
     },
     "Arthur": {
       "rarity": "uncommon",
       "need_items": [
         "Wheat"
-      ]
+      ],
+      "mode": "hub",
+      "position": "52:71:-136",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1MzY3NTkzMzY3NjQsInByb2Zp\nbGVJZCI6IjQ2N2NmOTRkY2UyYjQ1ZTY4YmRhNTJlNTUwMmU3M2U4IiwicHJvZ\nmlsZU5hbWUiOiJMaWxpeWFfIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsIn\nRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmV\njcmFmdC5uZXQvdGV4dHVyZS9jYzJlODE5OTA2ZWIxNzk0MzliOGRkNTU1MTEz\nMmU1NGViNDcxNzNlMGY0NTg4NjFhZDJhOGM5Mzc5MTgzODkxIn19fQ=="
     },
     "Banker Broadjaw": {
       "rarity": "uncommon",
       "need_items": [
         "Cactus"
-      ]
+      ],
+      "mode": "mining_3",
+      "position": "14:201:-148",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwOTI0NTM4MDg1MCwK\nICAicHJvZmlsZUlkIiA6ICI3MmNiMDYyMWU1MTA0MDdjOWRlMDA1OTRmNjAxN\nTIyZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNb3M5OTAiLAogICJzaWduYXR1cm\nVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiI\ngOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQu\nbmV0L3RleHR1cmUvZTU5ZjhjNGRmZDFjNTgzYThhNTRmYTVjYzdmOGViNmMyN\nGQyNjlhZjI3Yzk5ZmQ5ZjJiMmJiZjQwZTcwZmVkMiIKICAgIH0KICB9Cn0="
     },
     "Bartender": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "mode": "hub",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1Mzc2NTgyNzQ0NDcsInByb2Zp\nbGVJZCI6ImVmYWY1NzU3NzgxZTQ3YWViYzE0Y2Q4MmM5MWM3ZjgyIiwicHJvZ\nmlsZU5hbWUiOiJNaW5lU2tpbiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLC\nJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5\nlY3JhZnQubmV0L3RleHR1cmUvZWVkZDhmMTZiMjAyYzQyYjNiNWFkNDU3ZDQz\nNmNjNjM5OTUyMTA3ZTM2MWFiMWU2MWI5MTY4OWU0MGM3OGJlNyJ9fX0=",
+      "position": "-73:71:-55"
     },
     "Beth": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "mode": "farming_1",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzEyNjQwMzM4NCwK\nICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhN\nGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdH\nVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0l\nOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFm\ndC5uZXQvdGV4dHVyZS9jYWJiMmMwNDYzNWEyOWIwOGUxNjFkODU5YjExYmRhZ\nGI3NWEyOWQzYzY0ZGY3ZTg0YTEwOGMzN2Y3ZjgzYzAiLAogICAgICAibWV0YW\nRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICA\ngfQogIH0KfQ==",
+      "position": "164:77:-359"
     },
     "Clerk Seraphine": {
       "rarity": "legendary",
       "need_items": [
         "Sugar Cane"
-      ]
+      ],
+      "mode": "hub",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NTk2NzYyNzYyNzYsInByb2Zp\nbGVJZCI6ImEyZjgzNDU5NWM4OTRhMjdhZGQzMDQ5NzE2Y2E5MTBjIiwicHJvZ\nmlsZU5hbWUiOiJiUHVuY2giLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidG\nV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWN\nyYWZ0Lm5ldC90ZXh0dXJlL2NkNjU0NTMxODE2ZWM3MjAwYTZhNDYxZDdhMDNj\nMmRhZGYzMWY0NDlhNTkxYzg1ZjNiMzFjYjJhODNkZDczNjYifX19",
+      "position": "12:71:-101"
     },
     "Dalbrek": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "mode": "mines_3",
+      "position": "191:216:154",
+      "skinOrType": "EntityVillager"
     },
     "Duke": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "mode": "hub",
+      "position": "-12:70:-96",
+      "skinOrType": "EntityVillager"
     },
     "Dusk": {
       "rarity": "uncommon",
       "need_items": [
         "Melon"
-      ]
+      ],
+      "mode": "hub",
+      "position": "-37:69:-125",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NjMzMTc0ODQ5NzQsInByb2Zp\nbGVJZCI6IjllOGI4NzQ3YTMxNzQ0ZTY4YTQ4NzEzMzQwM2I0ZDM1IiwicHJvZ\nmlsZU5hbWUiOiJFdmlsRGN0ciIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLC\nJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5\nlY3JhZnQubmV0L3RleHR1cmUvN2NhODVjMTU2M2JmNTY5ZDg4YmY3YmMzNzVj\nYmM4MjBkN2Q0YTczYzkyYWFmN2Q5NDc5YWY1ZWY1MjU1ZDA0MCJ9fX0="
     },
     "Emissary Carlton": {
       "rarity": "uncommon",
       "need_items": [
         "Cocoa Beans"
-      ]
+      ],
+      "mode": "mines_3",
+      "position": "-72:153:-10",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDIyNTA4NzI1OCwK\nICAicHJvZmlsZUlkIiA6ICJlYjIwYWVkYTRiYTM0NzVmOTczZGNmZjkzNTE2O\nGZhYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3lGYWxsZWVlIiwKICAic2lnbm\nF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlN\nLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNy\nYWZ0Lm5ldC90ZXh0dXJlL2M3NjVmZWU5N2JjZmFlN2MxMzZiNmE2YjhjYTk1M\nzgxYWY5NjRkNmFlYmMwOGJmZGQyMzUwYWY3OGUyY2Y1MWEiCiAgICB9CiAgfQ\np9"
     },
     "Emissary Ceanna": {
       "rarity": "uncommon",
       "need_items": [
         "Potato"
-      ]
+      ],
+      "mode": "mines_3",
+      "position": "43:135:23",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDIyNTIwNDMxMSwK\nICAicHJvZmlsZUlkIiA6ICJiMGQ0YjI4YmMxZDc0ODg5YWYwZTg2NjFjZWU5N\nmFhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lU2tpbl9vcmciLAogICJzaW\nduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICA\niU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5l\nY3JhZnQubmV0L3RleHR1cmUvZTc4YzI1YWM4ZDc5M2E3M2FmMzFlNWRhM2U4Y\nmYyZDYzYTZjMDAyNmZkZTlhOTY4MmZjOWNhZjYxNTU0MGM3OSIKICAgIH0KIC\nB9Cn0="
     },
     "Emissary Fraiser": {
       "rarity": "uncommon",
       "need_items": [
         "Melon"
-      ]
+      ],
+      "mode": "mines_3",
+      "position": "-132:174:-50",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDI0NzQ3MjczNCwK\nICAicHJvZmlsZUlkIiA6ICI3NDM3MGQ1Mjk5Mjk0ZThjODRlYjRlODlhYjc2M\nGY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdXRZb3VySmFzT2ZmIiwKICAic2\nlnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICA\ngIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWlu\nZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhNDMzMjI1MTFmNGJiYTcxMGJkNzhjOThjO\nTBlODNhYzkyYTJkYTBmMDVhMGE2OTUxMDg5YmFjZTBjZjIwM2EiCiAgICB9Ci\nAgfQp9"
     },
     "Emissary Sisko": {
       "rarity": "rare",
       "need_items": [
         "Red Mushroom Block"
-      ]
+      ],
+      "mode": "crystal_hollows",
+      "position": "496:106:557",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYyNjExNTAwMTUyOSwK\nICAicHJvZmlsZUlkIiA6ICJkODAwZDI4MDlmNTE0ZjkxODk4YTU4MWYzODE0Y\nzc5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVCTFJ4eCIsCiAgInNpZ25hdH\nVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0l\nOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFm\ndC5uZXQvdGV4dHVyZS84ZWJmOWNhYzVhYjQ3OTAzZTFkMmQ0YzI0ZjY4NWE2N\njdmMjA1ZjlhNjE3N2Y2YTc2MjFmODQ3MTllNDg3NDY1IgogICAgfQogIH0KfQ\n=="
     },
     "Emissary Wilson": {
       "rarity": "uncommon",
       "need_items": [
         "Carrot"
-      ]
+      ],
+      "mode": "mining_3",
+      "position": "172:150:32",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDIyNTExNDI0MiwK\nICAicHJvZmlsZUlkIiA6ICI2MTZiODhkNDMwNzM0ZTM3OWM3NDc1ODdlZTJkN\nzlmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfX25vdGFodW1hbl9fIiwKICAic2\nlnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICA\ngIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWlu\nZWNyYWZ0Lm5ldC90ZXh0dXJlL2UxMTcyYjE3ZWIzMzE4Yjg0MWZhOTRiZTBiO\nGZiZDBiN2NkZGI1YWRkMWQyYjM1YWQ1ZTZhZGM4YWI3ZDUyMDYiCiAgICB9Ci\nAgfQp9"
     },
     "Farmer Jon": {
       "rarity": "uncommon",
       "need_items": [
         "Sugar Cane"
-      ]
+      ],
+      "mode": "hub",
+      "position": "45:72:-162",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NTkxMzM3MTY3MTEsInByb2Zp\nbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZ\nmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cn\nVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5\ntaW5lY3JhZnQubmV0L3RleHR1cmUvNDUyMzJhOGU4NWE2NzUwODM2YzVkZmJj\nMzQwNGMzYWIzMTQ1MzQ5NjIwZjBiYzUyMDhkZWRiMTZiYjRjNDgzMCJ9fX0="
     },
     "Farmhand": {
       "rarity": "uncommon",
@@ -603,29 +661,44 @@
         "Wheat",
         "Carrot",
         "Potato"
-      ]
+      ],
+      "mode": "farming_1",
+      "position": "144:73:-241",
+      "skinOrType": "EntityVillager"
     },
     "Fear Mongerer": {
       "rarity": "uncommon",
       "need_items": [
         "Pumpkin"
-      ]
+      ],
+      "mode": "hub",
+      "position": "-2:70:-43",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1Njk1MTE5NjQ0NzEsInByb2Zp\nbGVJZCI6ImEyZjgzNDU5NWM4OTRhMjdhZGQzMDQ5NzE2Y2E5MTBjIiwicHJvZ\nmlsZU5hbWUiOiJiUHVuY2giLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidG\nV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWN\nyYWZ0Lm5ldC90ZXh0dXJlLzg1NjY0NTc0NGJmY2E2YWYwM2MyM2UyOTdlNmVk\nZTc5YjUyOGQxZDI0ZWM1MGQzYTY0YWJlYzNhMDgzNGI5NDUifX19"
     },
     "Felix": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "mode": "hub",
+      "position": "-26:68:-104",
+      "skinOrType": "EntityVillager"
     },
     "Fisherman": {
       "rarity": "uncommon",
       "need_items": [
         "Carrot"
-      ]
+      ],
+      "mode": "hub",
+      "position": "155.6:68:47.5",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NTk1NzQ0MjU3OTEsInByb2ZpbGVJZCI6ImZkNjBmMzZmNTg2MTRmMTJiM2NkNDdjMmQ4NTUyOTlhIiwicHJvZmlsZU5hbWUiOiJSZWFkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNjc1ZjA3MWVmYjBjZjI3YmYxNjA4MWUzZjgyZjliNWY4YWU4OGVjYTllZTk1MjNiNjIxNmU2MTdmNmY0NWM5In19fQ=="
     },
     "Fragilis": {
       "rarity": "rare",
       "need_items": [
         "Cactus"
-      ]
+      ],
+      "mode": "mines_3",
+      "position": "88:199:-108",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxNTI0Mjg3Njg0NiwKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMwNzIyYzAwMGFlZTBiYmEzMDU4YjQyNWZlNWVlYWM3NjZlMGEwYzNjM2E3ZWRmNDI5YWQxNGUxNTI5N2RkMzMiCiAgICB9CiAgfQp9"
     },
     "Friendly Hiker": {
       "rarity": "uncommon",
@@ -633,73 +706,112 @@
         "Mutton",
         "Raw Porkchop",
         "Raw Rabbit"
-      ]
+      ],
+      "mode": "farming_1",
+      "position": "182:77:-381",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzg5OTEzNTk2MSwK\nICAicHJvZmlsZUlkIiA6ICJkODAwZDI4MDlmNTE0ZjkxODk4YTU4MWYzODE0Y\nzc5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVCTFJ4eCIsCiAgInNpZ25hdH\nVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0l\nOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFm\ndC5uZXQvdGV4dHVyZS9jMzVhMjBmNTc4MGM2NjdjNWY1NzZiYTYzMDdkYjYxY\njM1YTNjOWYzYWRjNmE4NjU0NTQ3MjVmNGU3N2ExMTIiLAogICAgICAibWV0YW\nRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICA\ngfQogIH0KfQ=="
     },
     "Geonathan Greatforge": {
       "rarity": "uncommon",
       "need_items": [
         "Compost"
-      ]
+      ],
+      "mode": "crystal_hollows",
+      "position": "531:106:557",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxMzQ0NjA5MiwK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvMjEzY2YwY2E3OWEzNjExYjhlMDVmZTllMjY0ZmIyY\nmY4ZDI3ZTQ2NGRjMTJkYzZlOTVkZDBhZTBjMzM1YTU2MSIKICAgIH0KICB9Cn\n0="
     },
     "Gimley": {
       "rarity": "uncommon",
       "need_items": [
         "Wheat"
-      ]
+      ],
+      "mode": "mining_3",
+      "position": "29:202:-149",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxMzQwOTk1NSwK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvNTdiMzU1MmM1YWYyYWIyZGM0ZTFmODRkNzhjYTRjN\nGQ2NzZkZWMwNjgxNTcyMjVhM2MyNjc0ZTU1NzRkMjM0OCIKICAgIH0KICB9Cn\n0="
     },
     "Gold Forger": {
       "rarity": "rare",
       "need_items": [
         "Golden Carrot"
-      ]
+      ],
+      "mode": "mining_1",
+      "position": "-27:74:-294",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NTk1OTMyMDkzMzIsInByb2Zp\nbGVJZCI6ImEyZjgzNDU5NWM4OTRhMjdhZGQzMDQ5NzE2Y2E5MTBjIiwicHJvZ\nmlsZU5hbWUiOiJiUHVuY2giLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidG\nV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWN\nyYWZ0Lm5ldC90ZXh0dXJlLzM3Y2EwZmYxNzkzNmJlMzNlYWEzMTc2MjRkYjQ3\nNDRmYzNmMjkyZTYxMjM1Nzg1ODQ1MzI1OGU0ZjllN2NhNzkifX19"
     },
     "Grandma Wolf": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "mode": "combat_1",
+      "position": "-281:122:-190",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxNDg3MTAxNDQ5OCwK\nICAicHJvZmlsZUlkIiA6ICJmMTA0NzMxZjljYTU0NmI0OTkzNjM4NTlkZWY5N\n2NjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6aWFkODciLAogICJzaWduYXR1cm\nVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiI\ngOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQu\nbmV0L3RleHR1cmUvODM5MTkzYzA5YmNhZDlkMWY5MDFhZmVmNGUyYzBjYWQ4M\n2FhZTFhNTcwMzM1YzNlY2JjN2QwNWZkZTE5ODc5NSIKICAgIH0KICB9Cn0="
     },
     "Guy": {
       "rarity": "uncommon",
       "need_items": [
         "Red Mushroom Block"
-      ]
+      ],
+      "mode": "hub",
+      "position": "52:79:-13",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NzUzMDMzNzQ3NjcsInByb2Zp\nbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZ\nmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZS\nwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWl\nuZWNyYWZ0Lm5ldC90ZXh0dXJlL2U5ZTIzYmU3ZjA0NTU2ZmEzMzM1MWE0Yzc3\nMWEzZjA1ZjRhNmQyN2RlNDEzYTM2ZDAyMzBjNjFmNzE2OTg3OTkifX19"
     },
     "Gwendolyn": {
       "rarity": "rare",
       "need_items": [
         "Cocoa Beans"
-      ]
+      ],
+      "mode": "mining_3",
+      "position": "89:198:-98",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxMzU2MTg0NSwK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvNWMzNDM1MTYwNmE5OWY2MmNhYjllN2M1MTI4Mzg2N\nDc1M2QyZTY3OTQ4YjFmMTI2YmFmNzBjMTI5MTcyMzNmMCIsCiAgICAgICJtZX\nRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiA\ngICB9CiAgfQp9"
     },
     "Hornum": {
       "rarity": "uncommon",
       "need_items": [
         "Wheat"
-      ]
+      ],
+      "mode": "mining_3",
+      "position": "35:202:-146",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxMzI1NzYzNCwK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvZWJmOGRkNWNiOTIzYWQzY2FkNTQ4MzQwNjZlOGZhN\nDY1OWQzYTE4OWIxNDEwNTE1ZTQwMDVhNGVkZTA1NDFlYiIKICAgIH0KICB9Cn\n0="
     },
     "Hungry Hiker": {
       "rarity": "uncommon",
       "need_items": [
         "Pumpkin"
-      ]
+      ],
+      "mode": "farming_1",
+      "position": "270:48:-480",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzAzNjc3MTUyOSwK\nICAicHJvZmlsZUlkIiA6ICJiMGQ3MzJmZTAwZjc0MDdlOWU3Zjc0NjMwMWNkO\nThjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPUHBscyIsCiAgInNpZ25hdHVyZV\nJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA\n6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5u\nZXQvdGV4dHVyZS9kNmY5YjliNjI0MDRjNWNmOTRjMzg1YzdmMWM4NmFkZGUwZ\nDlhZWY5YTljZDI5ZTJhYjU4M2ZhMWRlNjNmNDI2IgogICAgfQogIH0KfQ=="
     },
     "Iron Forger": {
       "rarity": "rare",
       "need_items": [
         "Carrot"
-      ]
+      ],
+      "mode": "mining_1",
+      "position": "-1:75:-307",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NTk1OTU4NzUyNDgsInByb2Zp\nbGVJZCI6ImEyZjgzNDU5NWM4OTRhMjdhZGQzMDQ5NzE2Y2E5MTBjIiwicHJvZ\nmlsZU5hbWUiOiJiUHVuY2giLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidG\nV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWN\nyYWZ0Lm5ldC90ZXh0dXJlLzY2MWUxYTNhOTRiZjIyY2FmMjgyNWIyZjE2NzZj\nYWQzN2ExNjRlNDc3NGYyNzgzNzZmNzI5M2I0MzE0MzRmMTgifX19"
     },
     "Jack": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "mode": "hub",
+      "position": "-1:70:-55",
+      "skinOrType": "EntityVillager"
     },
     "Jacob": {
       "rarity": "uncommon",
       "need_items": [
         "Wheat"
-      ]
+      ],
+      "mode": "hub",
+      "position": "23:71:-69",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwNDM3MDQyNDk4NiwK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvN2I4YmIxYjQ4ZjRiYWJjNjdjZTM5NTQ3MjA4ZmRiZ\nWQ3MjJjYTU5OGNkZjMwNjgxZTM2N2M2MjQ3Y2FiMTkxOCIKICAgIH0KICB9Cn\n0="
     },
     "Jamie": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "mode": "hub",
+      "position": "-36:68:-39",
+      "skinOrType": "EntityVillager"
     },
     "Jerry": {
       "rarity": "legendary",
@@ -709,27 +821,42 @@
       "rarity": "uncommon",
       "need_items": [
         "Compost"
-      ]
+      ],
+      "mode": "mining_3",
+      "position": "-6:145:-18",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxMzU4ODM4NiwK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvODUzNjJiNjFmMjk4ZGVjMmRmNzY1NDU3ZDZiNDE3Z\nTkxN2QyMzA5ZWJjOGY2OTFmMDg1NTQ4OTY4MmRkZWM1OSIsCiAgICAgICJtZX\nRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiA\ngICB9CiAgfQp9"
     },
     "Lazy Miner": {
       "rarity": "rare",
       "need_items": [
         "Cocoa Beans"
-      ]
+      ],
+      "mode": "mining_1",
+      "position": "-11:78:-337",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NjAxOTM2MzQxNTQsInByb2Zp\nbGVJZCI6ImEyZjgzNDU5NWM4OTRhMjdhZGQzMDQ5NzE2Y2E5MTBjIiwicHJvZ\nmlsZU5hbWUiOiJiUHVuY2giLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidG\nV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWN\nyYWZ0Lm5ldC90ZXh0dXJlL2Q5M2Q5NjM2YWE5NTU2YWNmNGJlMmNjNThkOTNm\nZjBiNTMyZTY4MDk4ZjgwYTdkYzE1MWEwZjFkMTZiOGU1ZjgifX19"
     },
     "Leo": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "mode": "hub",
+      "position": "-8:70:-76",
+      "skinOrType": "EntityVillager"
     },
     "Liam": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "mode": "hub",
+      "position": "10:70:-42",
+      "skinOrType": "EntityVillager"
     },
     "Librarian": {
       "rarity": "uncommon",
       "need_items": [
         "Sugar Cane"
-      ]
+      ],
+      "mode": "hub",
+      "position": "-36:69:-113",
+      "skinOrType": "EntityVillager"
     },
     "Lumber Jack": {
       "rarity": "uncommon",
@@ -739,23 +866,35 @@
         "Melon",
         "Pumpkin",
         "Red Mushroom Block"
-      ]
+      ],
+      "mode": "hub",
+      "position": "-112:74:-36",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NTA2Nzg1MjAzNzMsInByb2Zp\nbGVJZCI6ImEyZjgzNDU5NWM4OTRhMjdhZGQzMDQ5NzE2Y2E5MTBjIiwicHJvZ\nmlsZU5hbWUiOiJiUHVuY2giLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidG\nV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWN\nyYWZ0Lm5ldC90ZXh0dXJlLzY4MjUwMzBlNzc1MmZhZjdmODE2YWMyYTIwYjEx\nNDMyYWY0YjJjZGU0OTMyZGMwZTkyMDgzMWU2MjE4MDhlZTgifX19"
     },
     "Lumina": {
       "rarity": "rare",
       "need_items": [
         "Pumpkin"
-      ]
+      ],
+      "mode": "mining_3",
+      "position": "78:199:-110",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxNTI0MjQ5OTc0NywK\nICAicHJvZmlsZUlkIiA6ICI3ZGEyYWIzYTkzY2E0OGVlODMwNDhhZmMzYjgwZ\nTY4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHb2xkYXBmZWwiLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvY2RhMzA4Y2FlMTc3MGY2YjcwOWIxZjA4MDA0Y2EyZ\nTljMjBhZjZmZjhlYzUzODFkMTE0YzQ0MDZkZjZiODBiYyIKICAgIH0KICB9Cn\n0="
     },
     "Lynn": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "mode": "hub",
+      "position": "-22:68:-125",
+      "skinOrType": "EntityVillager"
     },
     "Madame Eleanor Q. Goldsworth III": {
       "rarity": "legendary",
       "need_items": [
         "Enchanted Golden Carrot"
-      ]
+      ],
+      "mode": "hub",
+      "position": "-49:77:77",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTE2OTIwNTU3NywK\nICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmY\njQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbm\nF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlN\nLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNy\nYWZ0Lm5ldC90ZXh0dXJlL2I3ZTBmYzhkZjkwNjdkMzkzYzk3N2YxZjM0MDI1N\njM0MjIzZGIxNDVlOTQwM2RjMzJjMzExODg5ZTMzNjU5NjUiCiAgICB9CiAgfQ\np9"
     },
     "Mason": {
       "rarity": "uncommon",
@@ -764,17 +903,34 @@
         "Potato",
         "Carrot",
         "Red Mushroom Block"
-      ]
+      ],
+      "mode": "farming_1",
+      "position": "178:77:-356",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzg5OTY1NjAyMiwK\nICAicHJvZmlsZUlkIiA6ICJjNjc3MGJjZWMzZjE0ODA3ODc4MTU0NWRhMGFmM\nDI1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE2IiwKICAic2lnbmF0dX\nJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4\niIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0\nLm5ldC90ZXh0dXJlLzNmY2I0Mjk2Mjg1ZTMzMWE5MzYwMzAwNzJiZTcxNmZjY\njRiN2JhM2UzZjU0NDc3OTMyOTRjMDNlZWUxYzkyN2MiLAogICAgICAibWV0YW\nRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICA\ngfQogIH0KfQ=="
+    },
+    "Maeve": {
+      "rarity": "legendary",
+      "new_rarity": "mythic",
+      "need_items": [
+        "Cropie",
+        "Squash",
+        "Fermento"
+      ],
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzU2OTY4ODUxNywKICAicHJvZmlsZUlkIiA6ICJmZWYyZDZjYzY5ZGI0ZWM5OWQzYzI5MzBmYzRmNTBhYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsb3Zlbm90d2FyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZhM2NkY2NjOTIyYjY3MDY3MDdmYWM3ZGNlMzQzNzczYmVjNzdkYTE4NTA5MGJjODQyZWM1NDE1ZjcyM2M1ZDMiCiAgICB9CiAgfQp9"
     },
     "Odawa": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "mode": "crystal_hollows"
     },
     "Old Man Garry": {
       "rarity": "rare",
       "need_items": [
         "Cocoa Beans"
-      ]
+      ],
+      "mode": "mining_3",
+      "position": "5:200:-109",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDYzOTU3NzAxNCwK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvOTIxODY3ZjRlYzdhZmZmMDg5MjY3MWVhYzM5OWFjZ\nGNjNjMxMDVkMGFlNDQ2MmE0OGE0M2FmNWVjYmExZTRkNSIsCiAgICAgICJtZX\nRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiA\ngICB9CiAgfQp9"
     },
     "Oringo": {
       "rarity": "uncommon",
@@ -792,67 +948,107 @@
       "rarity": "uncommon",
       "need_items": [
         "Cactus"
-      ]
+      ],
+      "mode": "hub",
+      "position": "56:70:-78",
+      "skinOrType": "EntityVillager"
     },
     "Puzzler": {
       "rarity": "rare",
       "need_items": [
         "Carrot"
-      ]
+      ],
+      "mode": "mining_3",
+      "position": "182:196:136",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDU5MzY3MjkzNywK\nICAicHJvZmlsZUlkIiA6ICI5NGMzZGM3YTdiMmQ0NzQ1YmVlYjQzZDc2ZjRjN\nDVkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVRdWFzb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvNmY1MTRkODAxNGRjNmFhNGM4MDRmZmRmNjA5MDkzZ\njdmZjFhNTI4OWYxM2M3MTg4MTQyMTgyZGI0M2M4OGIzZCIKICAgIH0KICB9Cn\n0="
     },
     "Queen Mismyla": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "mode": "mining_3",
+      "position": "127:195:196",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxNTIzMTU0OSwK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvNmY3MDM4NWY0NzJjMDM4MjVjMGU4OTRkOTRhYzIwM\nWUxYjY0MmQxMDMyMjAyZDRiZjMzMzcyZmEzYWEyOWZiYSIKICAgIH0KICB9Cn\n0="
     },
     "Rhys": {
       "rarity": "uncommon",
       "need_items": [
         "Jack o' Lantern"
-      ]
+      ],
+      "mode": "mining_3",
+      "position": "-38:200:-119",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxNDY5NDY2OSwK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvNmIyMGIyM2MxYWEyYmUwMjcwZjAxNmI0YzkwZDZlZ\nTZiODMzMGExN2NmZWY4Nzg2OWQ2YWQ2MGIyZmZiZjNiNSIKICAgIH0KICB9Cn\n0="
+    },
+    "Royal Resident (Snooty)": {
+      "rarity": "uncommon",
+      "need_items": [],
+      "mode": "mining_3",
+      "position": "92:202:277",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxMzUxMDI0MiwK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvMjdkYjE1NDQyMmM2NDE1MzcyMDRhMDgzYTAzNDBiY\nmU1YjNhYjBlYjg4MDk4ODM0MDhkMmE3OGRlMWU1OTJhIiwKICAgICAgIm1ldG\nFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICA\ngIH0KICB9Cn0="
+    },
+    "Royal Resident (Neighbor)": {
+      "rarity": "uncommon",
+      "need_items": [],
+      "mode": "mining_3",
+      "position": "165:202:279",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxMzM3MzE3MywK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvNjVmMzFjMWMyMTVhNTdlOTM3ZmQ3NWFiMzU3ODJmO\nDVlYzI0MmExYjFmOTUwYTI2YTQyYmI1ZTBhYTVjYmVkYSIKICAgIH0KICB9Cn\n0="
     },
     "Royal Resident": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Royal Resident 2": {
-      "rarity": "uncommon",
-      "need_items": []
-    },
-    "Royal Resident 3": {
       "rarity": "rare",
       "need_items": [
-        "Wheat"
-      ]
+        "Wheat",
+        "Sugar Cane"
+      ],
+      "mode": "mining_3",
+      "position": "63:204:200",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxMzI1NzYzNCwK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvZWJmOGRkNWNiOTIzYWQzY2FkNTQ4MzQwNjZlOGZhN\nDY1OWQzYTE4OWIxNDEwNTE1ZTQwMDVhNGVkZTA1NDFlYiIKICAgIH0KICB9Cn\n0="
     },
     "Rusty": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "mode": "mining_1",
+      "position": "-20:78:-326",
+      "skinOrType": "EntityVillager"
     },
     "Ryu": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "mode": "hub",
+      "position": "28:70:-116",
+      "skinOrType": "EntityVillager"
     },
     "Sargwyn": {
       "rarity": "uncommon",
       "need_items": [
         "Wheat"
-      ]
+      ],
+      "mode": "mining_3",
+      "position": "35:202:-150",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxMzM3MzE3MywK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvNjVmMzFjMWMyMTVhNTdlOTM3ZmQ3NWFiMzU3ODJmO\nDVlYzI0MmExYjFmOTUwYTI2YTQyYmI1ZTBhYTVjYmVkYSIKICAgIH0KICB9Cn\n0="
     },
     "Seymour": {
       "rarity": "rare",
       "need_items": [
         "Pumpkin"
-      ]
+      ],
+      "mode": "hub",
+      "position": "25:64:-41",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NzMwNTQ2Njg5NzUsInByb2Zp\nbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZ\nmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZS\nwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWl\nuZWNyYWZ0Lm5ldC90ZXh0dXJlL2M4YWFjNGU2MzEzOThjMGY0N2ZlODU2MTVl\nN2Y0OTIxNTUwMDA0MGJiOTA4MTlkNTY4ZTgyNGFjZjk0YmZhNGUifX19"
     },
     "Shaggy": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "mode": "combat_1",
+      "position": "-278:121:-182",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxMzA5NTQ2OTc1NSwK\nICAicHJvZmlsZUlkIiA6ICJhYTZhNDA5NjU4YTk0MDIwYmU3OGQwN2JkMzVlN\nTg5MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiejE0IiwKICAic2lnbmF0dXJlUm\nVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDo\ngewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5l\ndC90ZXh0dXJlLzI1OGY4OGRjYmQyYWYxMTBjNzdjZmZhYTAwZWFiN2E0OTljM\nDAxMzNlNjE1NzU1OTlkOWUwNmU2MWI4YTI0YTYiLAogICAgICAibWV0YWRhdG\nEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQo\ngIH0KfQ=="
     },
     "Shifty": {
       "rarity": "rare",
       "need_items": [
         "Melon"
-      ]
+      ],
+      "mode": "hub",
+      "position": "115:73:175",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NzUyOTg4MzI3NzcsInByb2Zp\nbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZ\nmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZS\nwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWl\nuZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjMDFiMjEzNTc0ZjYzMDYxNmRkMDBiN2Ez\nYmM2MTc3NGZkN2Q0NjcxMzY0NzZiZDdiN2E5OWVjMjVlZTI3NTcifX19"
     },
     "Sirius": {
       "rarity": "legendary",
@@ -864,19 +1060,28 @@
     },
     "Stella": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "mode": "hub",
+      "position": "17:70:-100",
+      "skinOrType": "EntityVillager"
     },
     "Tammy": {
       "rarity": "rare",
       "need_items": [
         "Cactus"
-      ]
+      ],
+      "mode": "farming_1",
+      "position": "285:104:-544",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxODI2MjU5NzI4MywK\nICAicHJvZmlsZUlkIiA6ICIzOTg5OGFiODFmMjU0NmQxOGIyY2ExMTE1MDRkZ\nGU1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNeVV1aWRJcyIsCiAgInNpZ25hdH\nVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0l\nOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFm\ndC5uZXQvdGV4dHVyZS9jZWRjNmU3NzJkNTBlNjM1NTZiZmRlOTE0ZTc4NWM3N\nTQ4OTM2MWZjYzc5ODUxNjRjNDBiMzAwZTdmOTFiYzA4IiwKICAgICAgIm1ldG\nFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICA\ngIH0KICB9Cn0="
     },
     "Tarwen": {
       "rarity": "uncommon",
       "need_items": [
         "Wheat"
-      ]
+      ],
+      "mode": "mining_3",
+      "position": "34:202:-141",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxMzQ0NjA5MiwK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvMjEzY2YwY2E3OWEzNjExYjhlMDVmZTllMjY0ZmIyY\nmY4ZDI3ZTQ2NGRjMTJkYzZlOTVkZDBhZTBjMzM1YTU2MSIKICAgIH0KICB9Cn\n0="
     },
     "Terry": {
       "rarity": "uncommon",
@@ -886,31 +1091,49 @@
     },
     "Tia the Fairy": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "mode": "hub",
+      "position": "130:66:138",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTY4MzgyNjIyOTU3MywK\nICAicHJvZmlsZUlkIiA6ICI0YjBhOTI4NDY2NDY0NmRlYjY5NDJiZTIzZTlhM\nWQyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJc2FhY0FsdCIsCiAgInNpZ25hdH\nVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0l\nOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFm\ndC5uZXQvdGV4dHVyZS83M2YwNzI5NDBhOTQyYjk1M2EzZjlkMTM5MWZmMzQyY\njdkMTkwNzZmN2ExYTNlOTQ0MDQwZDY0MjBjN2Q0OTgwIgogICAgfQogIH0KfQ\n=="
     },
     "Tom": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "mode": "hub",
+      "position": "28:69:-58",
+      "skinOrType": "EntityVillager"
     },
     "Trevor": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "mode": "farming_3",
+      "position": "282:104:-542",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxODI2MzEwNDI4NywK\nICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N\n2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaW\nduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICA\niU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5l\nY3JhZnQubmV0L3RleHR1cmUvNjEwMmY4MjE0ODQ2MWNlZDFmN2I2MmUzMjZlY\njJkYjNhOTRhMzNjYmE4MWQ0MjgxNDUyYWY0ZDhhZWNhNDk5MSIKICAgIH0KIC\nB9Cn0="
     },
     "Vex": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "mode": "hub",
+      "position": "-17:70:-82",
+      "skinOrType": "EntityVillager"
     },
     "Weaponsmith": {
       "rarity": "uncommon",
       "need_items": [
         "Potato"
-      ]
+      ],
+      "mode": "hub",
+      "position": "-10:68:-130",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NTA2Nzg0NTQ3MTYsInByb2Zp\nbGVJZCI6ImEyZjgzNDU5NWM4OTRhMjdhZGQzMDQ5NzE2Y2E5MTBjIiwicHJvZ\nmlsZU5hbWUiOiJiUHVuY2giLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidG\nV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWN\nyYWZ0Lm5ldC90ZXh0dXJlL2FmM2Y3YTY5YzlhN2FkOTVlOTBmMjEyZGEzMDQ5\nOTBjOGJlMzZlOTMxOTdkYjg3NGMyYjBmZTA4MTA2ZTMyM2IifX19"
     },
     "Wizard": {
       "rarity": "uncommon",
       "need_items": [
         "Potato"
-      ]
+      ],
+      "mode": "hub",
+      "position": "47:122:76",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NTkxNDEyMjMzNjIsInByb2Zp\nbGVJZCI6ImEyZjgzNDU5NWM4OTRhMjdhZGQzMDQ5NzE2Y2E5MTBjIiwicHJvZ\nmlsZU5hbWUiOiJiUHVuY2giLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidG\nV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWN\nyYWZ0Lm5ldC90ZXh0dXJlLzJmNjlhYjJmNGU3MzQxYWMyNjI1OTcwODNjYTM4\nYWQwMWJmYmJmODczMGZiZmJkZDEwY2E5MGFlZTMzN2EyZGQifX19"
     },
     "Xalx": {
       "rarity": "uncommon",
@@ -923,13 +1146,17 @@
       "need_items": [
         "Melon",
         "Cactus"
-      ]
+      ],
+      "mode": "hub",
+      "position": "35:71:-96",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1ODU1NDUxNzU2NjgsInByb2Zp\nbGVJZCI6IjllOGI4NzQ3YTMxNzQ0ZTY4YTQ4NzEzMzQwM2I0ZDM1IiwicHJvZ\nmlsZU5hbWUiOiJFdmlsRGN0ciIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLC\nJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5\nlY3JhZnQubmV0L3RleHR1cmUvMmJiY2Y3M2E0NjAzYjVhYTU0OTFjZWZjMTU1\nZjc3MGRlMWE4MjQ2NmE1ODUwNjA0YmE1ZWEyNDk4MGNiNTQ3OSJ9fX0="
     }
   },
   "organic_matter": {
     "CROPIE": 2500.0,
     "SQUASH": 10000.0,
     "FERMENTO": 20000.0,
+    "FLOWERING_BOUQUET": 6000.0,
     "WHEAT": 1.0,
     "CARROT_ITEM": 0.29,
     "POTATO_ITEM": 0.33,
@@ -953,3 +1180,4 @@
     "OIL_BARREL": 10000
   }
 }
+

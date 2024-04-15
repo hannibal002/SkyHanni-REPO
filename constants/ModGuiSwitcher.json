@@ -71,7 +71,8 @@
       "command": "neu",
       "guiPath": [
         "io.github.moulberry.notenoughupdates.core.GuiScreenElementWrapper",
-        "io.github.moulberry.notenoughupdates.core.config.gui."
+        "io.github.moulberry.notenoughupdates.core.config.gui.",
+        "io.github.moulberry.notenoughupdates.commands.help.SettingsCommand$createConfigScreen$1"
       ]
     },
     "OneConfig": {

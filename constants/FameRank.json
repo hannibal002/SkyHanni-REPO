@@ -1,0 +1,106 @@
+{
+  "fame_rank": {
+    "NEW_PLAYER": {
+      "name": "New player",
+      "fame_required": 0,
+      "bits_multiplier": 1.0,
+      "votes": 1
+    },
+    "SETTLER": {
+      "name": "Settler",
+      "fame_required": 20000,
+      "bits_multiplier": 1.1,
+      "votes": 1
+    },
+    "CITIZEN": {
+      "name": "Citizen",
+      "fame_required": 80000,
+      "bits_multiplier": 1.2,
+      "votes": 2
+    },
+    "CONTRIBUTOR": {
+      "name": "Contributor",
+      "fame_required": 200000,
+      "bits_multiplier": 1.3,
+      "votes": 3
+    },
+    "PHILANTHROPIST": {
+      "name": "Philanthropist",
+      "fame_required": 400000,
+      "bits_multiplier": 1.4,
+      "votes": 5
+    },
+    "PATRON": {
+      "name": "Patron",
+      "fame_required": 800000,
+      "bits_multiplier": 1.6,
+      "votes": 10
+    },
+    "FAMOUS_PLAYER": {
+      "name": "Famous Player",
+      "fame_required": 1500000,
+      "bits_multiplier": 1.8,
+      "votes": 20
+    },
+    "ATTACHE": {
+      "name": "Attaché",
+      "fame_required": 3000000,
+      "bits_multiplier": 1.9,
+      "votes": 25
+    },
+    "AMBASSADOR": {
+      "name": "Ambassador",
+      "fame_required": 10000000,
+      "bits_multiplier": 2.0,
+      "votes": 50
+    },
+    "STATESPERSON": {
+      "name": "Statesperson",
+      "fame_required": 20000000,
+      "bits_multiplier": 2.04,
+      "votes": 75
+    },
+    "SENATOR": {
+      "name": "Senator",
+      "fame_required": 33000000,
+      "bits_multiplier": 2.08,
+      "votes": 100
+    },
+    "DIGNITARY": {
+      "name": "Dignitary",
+      "fame_required": 50000000,
+      "bits_multiplier": 2.12,
+      "votes": 100
+    },
+    "COUNCILOR": {
+      "name": "Councilor",
+      "fame_required": 72000000,
+      "bits_multiplier": 2.16,
+      "votes": 100
+    },
+    "MINISTER": {
+      "name": "Minister",
+      "fame_required": 100000000,
+      "bits_multiplier": 2.2,
+      "votes": 100
+    },
+    "PREMIER": {
+      "name": "Premier",
+      "fame_required": 135000000,
+      "bits_multiplier": 2.22,
+      "votes": 100
+    },
+    "CHANCELLOR": {
+      "name": "Chancellor",
+      "fame_required": 178000000,
+      "bits_multiplier": 2.24,
+      "votes": 100
+    },
+    "SUPREME": {
+      "name": "Supreme",
+      "fame_required": 230000000,
+      "bits_multiplier": 2.26,
+      "votes": 100
+    }
+  }
+}

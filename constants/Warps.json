@@ -1,7 +1,9 @@
 {
   "warpCommands": [
     "arachne",
+    "basecamp",
     "barn",
+    "camp",
     "castle",
     "ch",
     "cn",
@@ -20,6 +22,7 @@
     "dungeons",
     "dungeon_hub",
     "dwarves",
+    "elizabeth",
     "end",
     "forge",
     "garden",
@@ -49,6 +52,7 @@
     "spiders",
     "top",
     "tower",
+    "trap",
     "trapper",
     "village",
     "void",

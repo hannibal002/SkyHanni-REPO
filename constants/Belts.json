@@ -1,0 +1,10 @@
+{
+  "belts": {
+    "§fWhite Belt": 0,
+    "§eYellow Belt": 1000,
+    "§aGreen Belt": 2000,
+    "§9Blue Belt": 4000,
+    "§6Brown Belt": 6000,
+    "§8Black Belt": 7000
+  }
+}

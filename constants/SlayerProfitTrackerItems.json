@@ -14,7 +14,11 @@
       "SMITE;7",
       "SHARD_OF_THE_SHREDDED",
       "WARDEN_HEART",
-      "ROTTEN_FLESH"
+      "ROTTEN_FLESH",
+      "GOLD_INGOT",
+      "GOLDEN_POWDER",
+      "GHOUL;3",
+      "GHOUL;4"
     ],
     "Tarantula Broodfather": [
       "TARANTULA_WEB",
@@ -26,7 +30,13 @@
       "TARANTULA_TALISMAN",
       "DIGESTED_MOSQUITO",
       "SPIDER_EYE",
-      "STRING"
+      "STRING",
+      "BONE",
+      "TARANTULA;3",
+      "TARANTULA;4",
+      "SPIDERS_DEN_TOP_TRAVEL_SCROLL",
+      "ARACHNE_KEEPER_FRAGMENT",
+      "BURNING_EYE"
     ],
     "Sven Packmaster": [
       "WOLF_TOOTH",
@@ -38,7 +48,14 @@
       "COUTURE_RUNE;1",
       "OVERFLUX_CAPACITOR",
       "GRIZZLY_BAIT",
-      "BONE"
+      "BONE",
+      "WOLF_TALISMAN",
+      "PARK_CAVE_TRAVEL_SCROLL",
+      "HOUND,3",
+      "HOUND,4",
+      "WEAK_WOLF_CATALYST",
+      "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
+      "DYE_CELESTE"
     ],
     "Voidgloom Seraph": [
       "NULL_SPHERE",
@@ -61,7 +78,13 @@
       "ENCHANT_RUNE;1",
       "ENDER_SLAYER;7",
       "ENCHANTED_ENDER_PEARL",
-      "ENDER_PEARL"
+      "ENDER_PEARL",
+      "ENDERMAN_CORTEX_REWRITER",
+      "ENDERMAN;0",
+      "ENDERMAN;1",
+      "ENDERMAN;2",
+      "ENDERMAN;3",
+      "ENDERMAN;4"
     ],
     "Inferno Demonlord": [
       "DERELICT_ASHE",
@@ -87,7 +110,12 @@
       "SUBZERO_INVERTER",
       "BLAZE_ASHES",
       "BLAZE_ROD",
-      "ENCHANTED_BLAZE_POWDER"
+      "ENCHANTED_BLAZE_POWDER",
+      "NETHERRACK_LOOKING_SUNSHADE",
+      "MILLENIA_OLD_BLAZE_ASHES",
+      "SMOLDERING;1",
+      "SWORD_OF_BAD_HEALTH",
+      "DYE_FLAME"
     ],
     "Riftstalker Bloodfiend": [
       "COVEN_SEAL",
@@ -99,7 +127,8 @@
       "MCGRUBBER_BURGER",
       "UNFANGED_VAMPIRE_PART",
       "ENCHANTED_BOOK_BUNDLE_THE_ONE",
-      "HEMOVIBE"
+      "HEMOVIBE",
+      "VAMPIRIC_MELON"
     ]
   }
 }

@@ -134,7 +134,7 @@
     },
     "vanille": {
       "displayName": "§9Vanille",
-      "description": "§7CCaught when using a §aStarter Lava Rod §7with no Enchantments.",
+      "description": "§7Caught when using a §aStarter Lava Rod §7with no Enchantments.",
       "rate": 3,
       "fillet": {
         "bronze": 80,
