@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "62a5925",
+  "sourceLabel": "e20838c",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -101,6 +101,7 @@
     "features.gui.customscoreboard.scoreboard.mining.remaininggoblin": "^Remaining: §a\\d+ goblins$",
     "features.gui.customscoreboard.scoreboard.mining.yourgoblin": "^Your kills: §c\\d+ ☠( §a\\(\\+\\d+\\))?$",
     "features.gui.customscoreboard.scoreboard.mining.mineshaft.notstarted": "(?:§.)*Not started.*",
+    "features.gui.customscoreboard.scoreboard.mining.fortunatefreezing.bonus": "Event Bonus: §6\\+\\d+☘",
     "features.gui.customscoreboard.scoreboard.combat.magmachamber": "^Magma Chamber$",
     "features.gui.customscoreboard.scoreboard.combat.magmaboss": "^§7Boss: §[c6e]\\d{1,3}%$",
     "features.gui.customscoreboard.scoreboard.combat.damagesoaked": "^§7Damage Soaked:",
