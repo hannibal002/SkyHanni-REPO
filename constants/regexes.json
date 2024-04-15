@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "53f2cfd",
+  "sourceLabel": "62a5925",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -14,6 +14,7 @@
     "data.hypixeldata.skyblock.area": "\\s*§(?\u003csymbol\u003e7⏣|5ф) §(?\u003ccolor\u003e.)(?\u003carea\u003e.*)",
     "data.hypixeldata.islandname": "(?:§.)*(Area|Dungeon): (?:§.)*(?\u003cisland\u003e.*)",
     "dungeon.complete": "§.\\s+§.§.(?:The|Master Mode) Catacombs §.§.- §.§.(?:Floor )?(?\u003cfloor\u003eM?[IV]{1,3}|Entrance)",
+    "dungeon.room": "§7\\d+\\/\\d+\\/\\d+ §\\w+ (?\u003croomId\u003e[\\w,-]+)",
     "mob.detection.filter.basic": "(?:\\[\\w+(?\u003clevel\u003e\\d+)\\] )?(?\u003ccorrupted\u003e.Corrupted )?(?\u003cname\u003e[^ᛤ]*)(?: ᛤ)? [\\dBMk.,❤]+",
     "mob.detection.filter.slayer": "^. (?\u003cname\u003e.*) (?\u003ctier\u003e[IV]+) \\d+.*",
     "mob.detection.filter.boss": "^. (?:\\[\\w+(?\u003clevel\u003e\\d+)\\] )?(?\u003cname\u003e[^ᛤ]*)(?: ᛤ)? (?:[\\d\\/BMk.,❤]+|█+) .$",
