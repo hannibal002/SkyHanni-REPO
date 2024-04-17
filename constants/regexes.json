@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6f07b2e",
+  "sourceLabel": "05fd8b3",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -579,7 +579,8 @@
     "misc.compacttablist.cookie": "Cookie Buff(?:§.)*(?:\\n(§.)*§7.+)*",
     "misc.compacttablist.dungeonbuff": "Dungeon Buffs(?:§.)*(?:\\n(§.)*§7.+)*",
     "misc.compacttablist.upgrades": "(?\u003cfirstPart\u003e§e[A-Za-z ]+)(?\u003csecondPart\u003e §f[\\w ]+)",
-    "tablist.firesaletitle": "§b§lFire Sales: §r§f\\([0-9]+\\)",
+    "misc.compacttablist.winterpowerups": "Active Power Ups(?:§.)*(?:\\n(§.)*§7.+)*",
+    "tablist.firesaletitle": "§.§lFire Sales: §r§f\\([0-9]+\\)",
     "crimson.volcano.header.tablistline": "(?:§.)*Volcano Explosivity:(?:[\\S ]+)*",
     "crimson.volcano.status.tablistline": " *(?\u003cstatus\u003e(?:§.)*\\S+)",
     "misc.chatsymbols.symbols": "^(?\u003csymbols\u003e(?:(?:§\\w)+\\S)+) ",
