@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2d93420",
+  "sourceLabel": "6f07b2e",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -152,7 +152,7 @@
     "utils.item.name.abiphone": ".{2}Abiphone .*",
     "utils.item.name.enchanted.book": ".{2}?Enchanted Book",
     "utils.item.name.bait": "^(Obfuscated.*|.* Bait)$",
-    "utils.item.neuitems.enchantmentname": "^(?\u003cformat\u003e(?:§.)+)(?\u003cname\u003e[^§]+) (?\u003clevel\u003e[IVXL]+)$",
+    "utils.item.neuitems.enchantmentname": "^(?\u003cformat\u003e(?:§.)*)(?\u003cname\u003e[^§]+) (?\u003clevel\u003e[IVXL]+)(?: Book)?$",
     "utils.item.name.potion": ".*Potion",
     "utils.item.amount.front": "(?: +§8(?:\\+§.)?(?\u003camount\u003e[\\d.,]+[km]?)x? )?(?\u003cname\u003e.*)",
     "utils.item.amount.behind": "(?\u003cname\u003e(?:§.)*(?:[^§] ?)+)(?:§8x(?\u003camount\u003e[\\d,]+))?",
