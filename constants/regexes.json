@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a99499a",
+  "sourceLabel": "2d93420",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -605,6 +605,7 @@
     "dungeon.finder.floor.number": ".* (?\u003cfloorNum\u003e[IV\\d]+)",
     "dungeon.finder.get.dungeon.class": ".* (?\u003cclass\u003e.*)",
     "dungeon.finder.detect.dungeon.class": "§7View and select a dungeon class.",
+    "mining.mob.golden.goblin": "Golden Goblin|Diamond Goblin",
     "tab.widget.setting.gui": "(Widgets in.*|Widgets on.*)",
     "tab.widget.setting.main": "§7Currently:.*",
     "tab.widget.setting.sub": "§eClick to .*",
