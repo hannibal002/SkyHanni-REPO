@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9563270",
+  "sourceLabel": "a51e82f",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -162,7 +162,7 @@
     "string.isroman": "^M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})",
     "utils.item.sack": ".*Sack",
     "utils.skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
-    "utils.tablist.profile": "(?:§.)+Profile: §r§a(?\u003cprofile\u003e\\S+).*",
+    "utils.tablist.profile": "(?:§.)+Profile: §r§a(?\u003cprofile\u003e[\\w\\s]+[^ §]).*",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
     "garden.plot.barnname": "§.(?\u003cname\u003eThe Barn)",
     "garden.plot.uncleaned": "§7Cleanup: .* (?:§.)*Completed",
