@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a51e82f",
+  "sourceLabel": "a99499a",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -398,6 +398,7 @@
     "garden.visitor.timer.time.new": " Next Visitor: §r(?\u003cinfo\u003e.*)",
     "mining.fossilexcavator.chargesremaining": "Chisel Charges Remaining: (?\u003ccharges\u003e\\d+)",
     "mining.fossilexcavator.fossilprogress": "Fossil Excavation Progress: (?\u003cprogress\u003e[\\d.]+%)",
+    "inventory.item.overlay.glacitepowder": "Glacite Powder x(?\u003camount\u003e.*)",
     "garden.level.inventory.nextxp": ".* §e(?\u003cnextLevelExp\u003e.*)§6/.*",
     "garden.level.inventory.name": "Garden (?:Desk|Level (?\u003ccurrentLevel\u003e.*))",
     "garden.level.inventory.overflow": ".*§r §6(?\u003coverflow\u003e.*)",
