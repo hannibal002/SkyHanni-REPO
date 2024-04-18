@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "b1a5396",
+  "sourceLabel": "25c958f",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -501,6 +501,7 @@
     "event.jerry.frozentreasure.item.frozenbait": "FROZEN TREASURE! You found Frozen Bait!",
     "event.jerry.frozentreasure.item.einaryredhoodie": "FROZEN TREASURE! You found Einary\u0027s Red Hoodie!",
     "slayer.rngmeter.inventoryname": "(?\u003cname\u003e.*) RNG Meter",
+    "slayer.rngmeter.inventoryname.slayer": "Slayer",
     "slayer.rngmeter.update": " {3}§dRNG Meter §f- §d(?\u003cexp\u003e.*) Stored XP",
     "slayer.rngmeter.changeditem": "§aYou set your §r.* RNG Meter §r§ato drop §r.*§a!",
     "combat.ghostcounter.skillxp": "[+](?\u003cgained\u003e[0-9,.]+) \\((?\u003ccurrent\u003e[0-9,.]+)(?:/(?\u003ctotal\u003e[0-9,.]+))?\\)",
