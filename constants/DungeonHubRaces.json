@@ -1,7 +1,7 @@
 {
   "data": {
     "precursor_ruins": {
-      "nothing_no_return": {
+      "nothing:no_return": {
         "locations": [
           "-20.0:85.0:0.0",
           "-21.0:85.0:10.0",
@@ -53,7 +53,7 @@
       }
     },
     "giant_mushroom": {
-      "nothing_no_return": {
+      "nothing:no_return": {
         "locations": [
           "-20.0:85.0:0.0",
           "-21.0:86.0:-11.0",
@@ -108,7 +108,7 @@
       }
     },
     "crystal_core": {
-      "nothing_no_return": {
+      "nothing:no_return": {
         "locations": [
           "-20.0:85.0:0.0",
           "-21.0:86.0:-10.0",
