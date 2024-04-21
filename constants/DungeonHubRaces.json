@@ -50,6 +50,34 @@
         ],
         "shortCuts": [
         ]
+      },
+      "no_abilities:no_return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "no_pearls:no_return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "anything:no_return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "nothing:return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "no_abilities:return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "no_pearls:return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "anything:return": {
+        "locations": [],
+        "shortCuts": []
       }
     },
     "giant_mushroom": {
@@ -105,6 +133,34 @@
         ],
         "shortCuts": [
         ]
+      },
+      "no_abilities:no_return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "no_pearls:no_return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "anything:no_return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "nothing:return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "no_abilities:return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "no_pearls:return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "anything:return": {
+        "locations": [],
+        "shortCuts": []
       }
     },
     "crystal_core": {
@@ -155,6 +211,34 @@
         ],
         "shortCuts": [
         ]
+      },
+      "no_abilities:no_return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "no_pearls:no_return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "anything:no_return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "nothing:return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "no_abilities:return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "no_pearls:return": {
+        "locations": [],
+        "shortCuts": []
+      },
+      "anything:return": {
+        "locations": [],
+        "shortCuts": []
       }
     }
   }
