@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7aef792",
+  "sourceLabel": "74b18c1",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -35,6 +35,7 @@
     "mob.detection.pattern.jerry.magma.cube": "§c(?:Cubie|Maggie|Cubert|Cübe|Cubette|Magmalene|Lucky 7|8ball|Mega Cube|Super Cube)(?: ᛤ)? §a\\d+§8\\/§a\\d+§c❤",
     "mob.detection.pattern.summon.owner": ".*Spawned by: (?\u003cname\u003e.*).*",
     "mob.detection.displaynpc.name": "[a-z0-9]{10}",
+    "armorstand.default": "Armou?r Stand",
     "data.skill.actionbar": ".*§3\\+.* (?\u003cskill\u003e.*) \\((?\u003coverflow\u003e.*)/(?\u003cneeded\u003e.*)\\).*",
     "data.skill.inventory": ".* §e(?\u003cnumber\u003e.*)§6/.*",
     "data.skill.actionbarlow": ".*§3+(?\u003cadd\u003e.+) (?\u003cskill\u003e.*) \\((?\u003cpercentage\u003e.*)%\\).*",
