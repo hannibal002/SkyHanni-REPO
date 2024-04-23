@@ -1,7 +1,6 @@
 {
   "usernames": [
     "Alea1337",
-    "AlexiaLuna",
     "appable",
     "CalMWolfs",
     "catgirlseraid",
@@ -21,6 +20,7 @@
     "Mikecraft1224",
     "NetheriteMiner",
     "Obsidianninja11",
+    "owoLuna",
     "oxsss",
     "ReyMaratov",
     "Skirtwearer",
@@ -37,9 +37,6 @@
   ],
   "contributors": {
     "Alea1337": {
-      "suffix": "§c:O"
-    },
-    "AlexiaLuna": {
       "suffix": "§c:O"
     },
     "appable": {
@@ -101,6 +98,9 @@
     "Obsidianninja11": {
       "suffix": "§c:O"
     },
+    "owoLuna": {
+      "suffix": "§d:3"
+    },
     "oxsss": {
       "suffix": "§c:O"
     },
@@ -147,7 +147,7 @@
 
 
 
-    
+
     "Biscut": {
       "spinny": true
     },
