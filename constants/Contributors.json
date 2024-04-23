@@ -20,7 +20,9 @@
         "Erymanthus": {},
         "Frost19": {},
         "hannibal2": {},
-        "HiZe_": {},
+        "HiZe_": {
+            "suffix": "§d:3"
+        },
         "JTAG": {},
         "Ke5o": {},
         "lrg89": {},
@@ -34,7 +36,7 @@
         "oxsss": {},
         "ReyMaratov": {},
         "Skirtwearer": {
-            "suffix": "§c:3"
+            "suffix": "§d:3"
         },
         "Skyblock_Lobby": {},
         "ThatGravyBoat": {
@@ -63,7 +65,7 @@
 
 
 
-        
+
         "Biscut": {
             "spinny": true
         },
