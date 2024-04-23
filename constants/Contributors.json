@@ -44,7 +44,7 @@
     "Skyblock_Lobby": {},
     "SkyHanni": {
       "suffix": "§3§l:O",
-      "alt": "hannibal2"
+      "alt from": "hannibal2"
     },
     "ThatGravyBoat": {
       "suffix": "§d:3"
@@ -63,7 +63,7 @@
     "Wolfie586": {
       "suffix": "§e:]",
       "spinny": true,
-      "alt": "CalMWolfs"
+      "alt from": "CalMWolfs"
     },
     "Zickles": {},
     "__comment__": {
