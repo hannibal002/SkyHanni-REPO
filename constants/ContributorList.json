@@ -1,7 +1,7 @@
 {
+  "__comment__": "This is deprecated use Contributors.json instead.",
   "usernames": [
     "Alea1337",
-    "AlexiaLuna",
     "appable",
     "CalMWolfs",
     "catgirlseraid",
@@ -21,16 +21,19 @@
     "Mikecraft1224",
     "NetheriteMiner",
     "Obsidianninja11",
+    "owoLuna",
     "oxsss",
     "ReyMaratov",
     "Skirtwearer",
     "Skyblock_Lobby",
+    "ThatGravyBoat",
     "thisiscad",
     "Throwpo",
     "Thunderblade73",
     "Vahvl",
     "Vixid",
     "Wambux",
+    "Wolfie586",
     "Zickles"
   ]
 }
