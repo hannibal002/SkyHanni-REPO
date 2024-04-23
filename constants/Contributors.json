@@ -66,26 +66,29 @@
       "alt from": "CalMWolfs"
     },
     "Zickles": {},
-    "__comment__": {
-      "The names below are the developers of SBA": ""
-    },
     "Biscut": {
-      "spinny": true
+      "spinny": true,
+      "external_mod": "SBA"
     },
     "Pinpointed": {
-      "spinny": true
+      "spinny": true,
+      "external_mod": "SBA"
     },
     "Berded": {
-      "spinny": true
+      "spinny": true,
+      "external_mod": "SBA"
     },
     "Potat_owo": {
-      "spinny": true
+      "spinny": true,
+      "external_mod": "SBA"
     },
     "Pnda__": {
-      "spinny": true
+      "spinny": true,
+      "external_mod": "SBA"
     },
     "StopUsingSBE": {
-      "spinny": true
+      "spinny": true,
+      "external_mod": "SBA"
     }
   }
 }
