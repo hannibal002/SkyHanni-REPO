@@ -20,7 +20,9 @@
     "Erymanthus": {},
     "Fix3dll": {},
     "Frost19": {},
-    "hannibal2": {},
+    "hannibal2": {
+      "suffix": "§3§l:O"
+    },
     "HiZe_": {
       "suffix": "§d:3"
     },
@@ -40,6 +42,10 @@
       "suffix": "§d:3"
     },
     "Skyblock_Lobby": {},
+    "hannibal2 alt below": {},
+    "SkyHanni": {
+      "suffix": "§3§l:O"
+    },
     "ThatGravyBoat": {
       "suffix": "§d:3"
     },
@@ -54,6 +60,7 @@
     },
     "Vixid": {},
     "Wambux": {},
+    "CalMWolfs alt below": {},
     "Wolfie586": {
       "suffix": "§e:]",
       "spinny": true
