@@ -42,9 +42,9 @@
       "suffix": "§d:3"
     },
     "Skyblock_Lobby": {},
-    "hannibal2 alt below": {},
     "SkyHanni": {
-      "suffix": "§3§l:O"
+      "suffix": "§3§l:O",
+      "alt": "hannibal2"
     },
     "ThatGravyBoat": {
       "suffix": "§d:3"
@@ -60,10 +60,10 @@
     },
     "Vixid": {},
     "Wambux": {},
-    "CalMWolfs alt below": {},
     "Wolfie586": {
       "suffix": "§e:]",
-      "spinny": true
+      "spinny": true,
+      "alt": "CalMWolfs"
     },
     "Zickles": {},
     "__comment__": {
