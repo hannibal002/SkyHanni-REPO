@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "85f50e4",
+  "sourceLabel": "2b8b4d9",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -352,6 +352,11 @@
     "combat.mobs.spawntime.arachne.fragment": "^☄ [a-z0-9_]{2,22} placed an arachne\u0027s calling! something is awakening! \\(4/4\\)$",
     "combat.mobs.spawntime.arachne.crystal": "^☄ [a-z0-9_]{2,22} placed an arachne crystal! something is awakening!$",
     "chat.player.death": "§c ☠ §r§7§r§.(?\u003cname\u003e.+)§r§7 (?\u003creason\u003e.+)",
+    "dungeon.copilot.countdown": "(.*) has started the dungeon countdown. The dungeon will begin in 1 minute.",
+    "dungeon.copilot.wither.door": "(.*) opened a §r§8§lWITHER §r§adoor!",
+    "dungeon.copilot.blood.door": "§cThe §r§c§lBLOOD DOOR§r§c has been opened!",
+    "dungeon.architectsdraft.puzzle.fail.normal": "(?:§c§lPUZZLE FAIL!|§4) §.§.(?\u003cname\u003e\\S*) .*",
+    "dungeon.architectsdraft.puzzle.fail.quiz": "§4\\[STATUE] Oruo the Omniscient§r§f: (?:§.)*(?\u003cname\u003e\\S*) (?:§.)*chose the wrong .*",
     "misc.ingametime.date": ".*((Early|Late) )?(Winter|Spring|Summer|Autumn) [0-9]{1,2}(nd|rd|th|st)?.*",
     "slayer.blaze.dagger.attunement": "§cStrike using the §r(.+) §r§cattunement on your dagger!",
     "slayer.questwarning.talkto": " {3}§r§5§l» §r§7Talk to Maddox to claim your .+ Slayer XP!",
