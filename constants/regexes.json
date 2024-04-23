@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4ab1988",
+  "sourceLabel": "7593f17",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -220,6 +220,7 @@
     "data.sacks.gemstone": " §[0-9a-f](?\u003cgemrarity\u003e[A-z]*): §[0-9a-f](?\u003cstored\u003e\\d+(?:\\.\\d+)?(?:(?:,\\d+)?)+[kKmM]?)(?: §[0-9a-f]\\(\\d+(?:\\.\\d+)?(?:(?:,\\d+)?)+[kKmM]?\\))?",
     "bingo.detection.scoreboard": " §.Ⓑ §.Bingo",
     "data.maxwell.chat.power": "§eYou selected the §a(?\u003cpower\u003e.*) §e(power )?for your §aAccessory Bag§e!",
+    "data.maxwell.chat.power.unlocked": "§eYour selected power was set to (?:§r)*§a(?\u003cpower\u003e.*)(?:§r)*§e!",
     "data.maxwell.inventory.power": "§7Selected Power: §a(?\u003cpower\u003e.*)",
     "data.maxwell.inventory.magicalpower": "§7Magical Power: §6(?\u003cmp\u003e[\\d,]+)",
     "data.maxwell.gui.thaumaturgy": "Accessory Bag Thaumaturgy",
