@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a69459a",
+  "sourceLabel": "82199d8",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -293,7 +293,7 @@
     "misc.chocolatefactory.chocolate.thisprestige": "§7Chocolate this Prestige: §6(?\u003camount\u003e[\\d,]+)",
     "misc.chocolatefactory.chocolate.multiplier": "§7Total Multiplier: §6(?\u003camount\u003e[\\d.]+)x",
     "misc.chocolatefactory.barn.amount": "§7Your Barn: §.(?\u003crabbits\u003e\\d+)§7/§.(?\u003cmax\u003e\\d+) Rabbits",
-    "misc.chocolatefactory.prestige.level": "\u0027§6Chocolate Factory (?\u003cprestige\u003e[IVX]+)",
+    "misc.chocolatefactory.prestige.level": "§6Chocolate Factory (?\u003cprestige\u003e[IVX]+)",
     "misc.chocolatefactory.rabbit.clickme": "§e§lCLICK ME!",
     "misc.chocolatefactory.leaderboard.place": "§7You are §8#§b(?\u003cposition\u003e[\\d,]+)",
     "misc.chocolatefactory.leaderboard.percentile": "§7§8You are in the top §.(?\u003cpercent\u003e[\\d.]+)%§8 of players!",
