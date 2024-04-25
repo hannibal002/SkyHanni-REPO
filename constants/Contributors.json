@@ -44,6 +44,7 @@
     "Skyblock_Lobby": {},
     "SkyHanni": {
       "suffix": "§3§l:O",
+      "spinny": true,
       "alt from": "hannibal2"
     },
     "ThatGravyBoat": {
