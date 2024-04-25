@@ -1,7 +1,7 @@
 {
   "0": {
     "Position": "-68.0:131.0:407.0",
-    "Name": "§0Onyx Gemstone Mine",
+    "Name": "§8Onyx Gemstone Mine",
     "Neighbours": {
       "394": 7.0,
       "58": 7.280109889280518,
@@ -10,7 +10,7 @@
   },
   "1": {
     "Position": "9.0:138.0:412.0",
-    "Name": "§0Onyx Gemstone Mine",
+    "Name": "§8Onyx Gemstone Mine",
     "Neighbours": {
       "130": 6.48074069840786,
       "142": 7.810249675906654,
@@ -20,7 +20,7 @@
   },
   "2": {
     "Position": "77.0:119.0:410.0",
-    "Name": "§0Onyx Gemstone Mine",
+    "Name": "§8Onyx Gemstone Mine",
     "Neighbours": {
       "415": 7.810249675906654,
       "36": 7.874007874011811
