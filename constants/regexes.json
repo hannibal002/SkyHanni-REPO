@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "3d2e244",
+  "sourceLabel": "f3b3b44",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -657,6 +657,8 @@
     "tab.widget.setting.show": "Shown .* Setting.*|.*Widget Settings",
     "tab.widget.setting.click.disable": ".*(disable!)",
     "tab.widget.setting.is.enabled": ".*ENABLED",
+    "misc.items.enchantparsing.enchants": "(?\u003cenchant\u003e[A-Za-z][A-Za-z -]+) (?\u003clevelNumeral\u003e[IVXLCDM]+)(?\u003cstacking\u003e, |$| \\d{1,3}(,\\d{3})*)",
+    "misc.items.enchantparsing.grayenchants": "^(Respiration|Aqua Affinity|Depth Strider|Efficiency).*",
     "garden.pests.spawn.one": "§6§l.*! §7A §6Pest §7has appeared in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
     "garden.pests.spawn.onebarn": "§6§l.*! §7A §6Pest §7has appeared in §a(?\u003cplot\u003eThe Barn)§7!",
     "garden.pests.spawn.multiple": "§6§l.*! §6(?\u003camount\u003e\\d) Pests §7have spawned in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
