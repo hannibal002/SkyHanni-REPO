@@ -87,19 +87,6 @@
       ]
     },
     {
-      "description": "Player asks for free stuff",
-      "contains": [
-        "at map",
-        "upgrade my",
-        "fund me",
-        "donate me",
-        "can someone give me",
-        "got scammed",
-        "dirt to hyp",
-        "give me plz"
-      ]
-    },
-    {
       "description": "Player want you to visit them",
       "contains": [
         "visit me"
