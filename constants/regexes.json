@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1d70f88",
+  "sourceLabel": "b1ca6d7",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -77,7 +77,7 @@
     "features.gui.customscoreboard.scoreboard.multiuse.timeelapsed": "(§.)*Time Elapsed: (§.)*(?\u003ctime\u003e(\\w+[ydhms] ?)+)$",
     "features.gui.customscoreboard.scoreboard.multiuse.instanceshutdown": "(§.)*Instance Shutdown In: (§.)*(?\u003ctime\u003e(\\w+[ydhms] ?)+)$",
     "features.gui.customscoreboard.scoreboard.multiuse.timeleft": "(§.)*Time Left: (§.)*[\\w:,.]*$",
-    "features.gui.customscoreboard.scoreboard.dungeon.m7dragons": "^(§cNo Alive Dragons|§8- (§.)+[\\w\\s]+Dragon§a \\w+§.❤)$",
+    "features.gui.customscoreboard.scoreboard.dungeon.m7dragons": "^(§cNo Alive Dragons|§8- (?:§.)+[\\w\\s]+Dragon§a [\\w,.]+§.❤)$",
     "features.gui.customscoreboard.scoreboard.dungeon.keys": "Keys: §.■ §.[✗✓] §.■ §a.x$",
     "features.gui.customscoreboard.scoreboard.dungeon.cleared": "(§.)*Cleared: (§.)*(?\u003cpercent\u003e[\\w,.]+)% (§.)*\\((§.)*(?\u003cscore\u003e[\\w,.]+)(§.)*\\)$",
     "features.gui.customscoreboard.scoreboard.dungeon.solo": "§3§lSolo$",
