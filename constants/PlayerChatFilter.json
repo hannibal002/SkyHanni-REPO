@@ -18,7 +18,8 @@
       "contains": [
         "i buy",
         "someone sells",
-        "buying"
+        "buying",
+        "buyin"
       ]
     },
     {
@@ -28,6 +29,7 @@
         "my auction",
         "on ah",
         "selling",
+        "sellin",
         "buy my",
         "low price",
         "bid on",
@@ -55,7 +57,8 @@
     {
       "description": "Player wants to quit skyblock",
       "contains": [
-        "quitting skyblock"
+        "quitting skyblock",
+        "quitting sb"
       ]
     },
     {
@@ -83,7 +86,8 @@
         "can someone give me",
         "got scammed",
         "dirt to hyp",
-        "give me plz"
+        "give me plz",
+        "trading from dirt to"
       ]
     },
     {
