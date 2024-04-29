@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "5902fe9",
+  "sourceLabel": "8fe9472",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -301,6 +301,9 @@
     "misc.chocolatefactory.rabbit.clickme": "§e§lCLICK ME!",
     "misc.chocolatefactory.leaderboard.place": "§7You are §8#§b(?\u003cposition\u003e[\\d,]+)",
     "misc.chocolatefactory.leaderboard.percentile": "§7§8You are in the top §.(?\u003cpercent\u003e[\\d.]+)%§8 of players!",
+    "misc.chocolatefactory.timetower.amount": "§7Charges: §.(?\u003cuses\u003e\\d+)§7/§a(?\u003cmax\u003e\\d+)",
+    "misc.chocolatefactory.timetower.status": "§7Status: §.§l(?\u003cstatus\u003eINACTIVE|ACTIVE).*",
+    "misc.chocolatefactory.timetower.recharge": "§7Next Charge: §a(?\u003cduration\u003e\\w+)",
     "bazaar.orderhelper.itemname": "§.§l(?\u003ctype\u003eBUY|SELL) (?\u003cname\u003e.*)",
     "bazaar.orderhelper.filled": "§7Filled: §[a6].*§7/.* §a§l100%!",
     "bazaar.orderhelper.price": "§7Price per unit: §6(?\u003cnumber\u003e.*) coins",
