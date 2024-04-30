@@ -188,7 +188,6 @@
     "33": 5
   },
   "otherUpgradeSlots": [
-    28,
     34,
     38,
     39,
@@ -206,5 +205,6 @@
   "milestoneIndex": 53,
   "leaderboardIndex": 51,
   "timeTowerIndex": 39,
+  "coachRabbitIndex": 42,
   "maxRabbits": 395
 }
