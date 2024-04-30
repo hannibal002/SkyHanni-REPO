@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "23ddb49",
+  "sourceLabel": "d595c90",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -169,7 +169,7 @@
     "utils.item.name.potion": ".*Potion",
     "utils.item.amount.front": "(?: +§8(?:\\+§.)?(?\u003camount\u003e[\\d.,]+[km]?)x? )?(?\u003cname\u003e.*)",
     "utils.item.amount.behind": "(?\u003cname\u003e(?:§.)*(?:[^§] ?)+)(?:§8x(?\u003camount\u003e[\\d,]+))?",
-    "utils.item.cost.line": "§7Cost",
+    "utils.item.cost.line": "(?:§5§o)?§7Cost",
     "utils.time.amount": "(?:(?\u003cy\u003e\\d+) ?y(?:\\w* ?)?)?(?:(?\u003cd\u003e\\d+) ?d(?:\\w* ?)?)?(?:(?\u003ch\u003e\\d+) ?h(?:\\w* ?)?)?(?:(?\u003cm\u003e\\d+) ?m(?:\\w* ?)?)?(?:(?\u003cs\u003e\\d+) ?s(?:\\w* ?)?)?",
     "utils.string.playerchat": "(?\u003cimportant\u003e.*?)(?:§[f7r])*: .*",
     "utils.string.chatusername": "^(?:§\\w\\[§\\w\\d+§\\w] )?(?:(?:§\\w)+\\S )?(?\u003crankedName\u003e(?:§\\w\\[\\w.+] )?(?:§\\w)?(?\u003cusername\u003e\\w+))(?: (?:§\\w)?\\[.+?])?",
