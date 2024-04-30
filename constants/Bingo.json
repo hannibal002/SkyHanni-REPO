@@ -1,36 +1,37 @@
 {
   "bingo_tips": {
-    "KABOOM! (Community Goal)": {
-      "difficulty": "Medium",
-      "note": [
-        "Blow up Crypts"
-      ],
-      "guide": [
-        "For this you can use abilities",
-        "from the Mage, Tank and Archer",
-        "class, or use Super Boom TNTs.",
-        "You will need Combat 15."
-      ]
-    },
-    "Skilled (Community Goal)": {
+    "Scavenger (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Gain Enchanting experience"
+        "Get coins from the Scavenger Enchant"
       ],
       "guide": [
-        "Do your daily experiments in",
-        "the Experimentation Table (Enchanting 10),",
-        "always do the highest tier you can."
+        "Put the Scavenger Enchantment on",
+        "your weapon and kill mobs.",
+        "You will progress in this passively."
       ]
     },
-    "Lucky Looter (Community Goal)": {
-      "difficulty": "Medium",
+    "Essence of Dragons (Community Goal)": {
+      "difficulty": "Easy",
       "note": [
-        "Collect rare drops"
+        "Collect Dragon Essence"
       ],
       "guide": [
-        "Carrots and potatoes from killing",
-        "Zombies in graveyard do count."
+        "Obtained from Killing Lost Adventurers,",
+        "Redstone Warriors, sacrificing items",
+        "like Ender Gear to the Draconic Altar,",
+        "or salvaging Dragon Armor Pieces."
+      ]
+    },
+    "Agricultural Revolution (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Harvest Crops"
+      ],
+      "guide": [
+        "This counts every Crop broken by you",
+        "so crops like Sugar Cane and Cactus",
+        "progress faster."
       ]
     },
     "Hunter (Community Goal)": {
@@ -43,17 +44,14 @@
         "Use /warp trapper to get back to Trevor"
       ]
     },
-    "Tarantula Broodfather (Community Goal)": {
+    "Goblin Slayer (Community Goal)": {
       "difficulty": "Medium",
       "note": [
-        "Kill t2+ Spider bosses"
+        "Kill Goblins."
       ],
       "guide": [
-        "Getting yourself a Void Sword and",
-        "4+ pieces of the Ender Set should make",
-        "this easy. You can also go for Dark Goggles",
-        "and a Dreadlord Sword from Dungeons to go",
-        "the Mage route."
+        "Kill the Goblins you can find in the Dwarven Mines.",
+        "You will need Mining 12 for this."
       ]
     },
     "Collecting Data": {
@@ -66,237 +64,238 @@
         "Use /be ingame to view your progress."
       ]
     },
-    "Strongman": {
-      "difficulty": "Medium",
-      "note": [
-        "180 strength"
-      ],
-      "guide": [
-        "Get yourself a splash, equip a Bingo Pet",
-        "and get the cake buff by eating the cakes",
-        "on owocato's, xMeru's or prtl's island.",
-        "If this doesn't finish it, get a Void Sword (200k)",
-        "in the End and hold it while wearing",
-        "some Ender Armor and/or Equipment."
-      ]
-    },
-    "A Best Friend": {
-      "difficulty": "Medium",
-      "note": [
-        "Craft any pet"
-      ],
-      "guide": [
-        "Rabbit, Jerry or Pig pet",
-        "will be your best options.",
-        "You will need an Enchanted Egg.",
-        "(requires 2.5k Raw Chicken Collection",
-        "and 144 Eggs to craft)"
-      ]
-    },
-    "Farmer": {
-      "difficulty": "Medium",
-      "note": [
-        "Reach Farming Level 20"
-      ],
-      "guide": [
-        "You will most likely get this while",
-        "going for the Carrot Collector goal."
-      ]
-    },
-    "Healthy": {
+    "Sightseer": {
       "difficulty": "Easy",
       "note": [
-        "500 Health"
+        "7 public islands"
       ],
       "guide": [
-        "Wear Mushroom armor enchanted with Growth 5 ",
-        "(Enchanting Level 5) during the Night.",
-        "Applying Growth 5 costs 50 Levels each."
+        "You can visit all Islands by using /warp.",
+        "This will open the fast travel menu.",
+        "The Hub, Spider's Den, The End,",
+        "Gold Mine, Deep Caverns and Farming Isles"
       ]
     },
-    "Rotten Flesh Collector": {
+    "E=mc2": {
       "difficulty": "Medium",
       "note": [
-        "47.5k Rotten Flesh"
+        "Obtain a Mathematical Hoe Blueprint"
       ],
       "guide": [
-        "Unlock the Zombie Minion by killing",
-        "Zombies in the Graveyard in The Hub.",
-        "Place as many minions as you can",
-        "give them a medium storage and the best fuel",
-        "you can. Collect them in time."
+        "Obtained from Anita for 1 Gold Medal",
+        "and 32 Jacob Tickets. You can trade lower",
+        "medals into higher ones with Anita.",
+        "1 gold is 4 silver or 8 bronze.",
+        "Those medals will supply the tickets."
       ]
     },
-    "Fairy Finder": {
+    "Critical": {
+      "difficulty": "Medium",
+      "note": [
+        "Reach 100% Crit Damage"
+      ],
+      "guide": [
+        "Reforge your Void Sword to Sharp",
+        "at the Blacksmith in the Hub (-28 69 -125),",
+        "or enchant any weapon with Critical 5 (50 Levels)."
+      ]
+    },
+    "Exterminator": {
+      "difficulty": "Medium",
+      "note": [
+        "Kill 5k mobs"
+      ],
+      "guide": [
+        "Kill farm animals in the Barn with a Cleaver",
+        "with Cleave 5 and Sharpness 5",
+        "or spiders in Arachne's Burrow (-309 92 -209)",
+        "in the Spider's Den with a Dreadlord Sword."
+      ]
+    },
+    "Meiser": {
       "difficulty": "Easy",
       "note": [
-        "25 Fairy Souls"
+        "500k coins in the bank"
       ],
       "guide": [
-        "Collect those you run along while doing other goals.",
-        "If you have trouble check TimeDeo's fairy soul",
-        "tutorial on YouTube or run /neusouls on to get",
-        "the locations shown."
+        "You will most likely get this from",
+        "leveling up skills.",
+        "Remember to actually put the money",
+        "you get in the Bank :)"
       ]
     },
-    "Friend Of The Seas": {
+    "Fisherman": {
+      "difficulty": "Medium",
+      "note": [
+        "Wear full Angler Armor"
+      ],
+      "guide": [
+        "This requires Raw Fish Collection 5.",
+        "You should place down fishing minions",
+        "with medium storages to help with this."
+      ]
+    },
+    "Brewer": {
+      "difficulty": "Medium",
+      "note": [
+        "Reach Alchemy 18"
+      ],
+      "guide": [
+        "Alchemy 18 is a total of 222.425 XP.",
+        "This can be done using enchanted gold",
+        "or enchanted sugar (cane)"
+      ]
+    },
+    "Lapis Warrior": {
+      "difficulty": "Medium",
+      "note": [
+        "Wear full Lapis Armor"
+      ],
+      "guide": [
+        "Those pieces are dropped from Lapis Zombies",
+        "in the Deep Caverns. They have a 1% base chance",
+        "to drop, so its recommended to enchant your",
+        "weapon with looting and luck."
+      ]
+    },
+    "An Axe To Grind": {
+      "difficulty": "Medium",
+      "note": [
+        "10 Enchantments on a Raider Axe"
+      ],
+      "guide": [
+        "Buy a Raider Axe for 130k coins",
+        "from the Melancholic Viking in The Park.",
+        "Remember: Level 1 Enchantments do count."
+      ]
+    },
+    "Rock Solid": {
+      "difficulty": "Medium",
+      "note": [
+        "Equip a Common or higher tiered Rock Pet"
+      ],
+      "guide": [
+        "You get the Rock Pet from mining ores.",
+        "The Common Rock unlocks at 2.5k broken ores."
+      ]
+    },
+    "Divan's Chance": {
       "difficulty": "Hard",
       "note": [
-        "Equip an Uncommon or higher Dolphin"
+        "Do a Nucleus run"
       ],
       "guide": [
-        "You have to fish up 250 Sea Creatures",
-        "to get a Common Dolphin. Upgrade it",
-        "with Kat for 100k coins and wait a day.",
-        "You might want to unlock Angler Armor for this."
+        "Amethyst: Jungle key and Temple Run,",
+        "Jade: Divan Mines and find all the items,",
+        "Amber: Find King, give him 3 goblin eggs and find the Queen,",
+        "Sapphire: 6 different Robot Parts, give them to Professor Robot,",
+        "Topaz: Kill the Bal and get the crystal after it dies",
+        "After obtaining all those crystals, place them",
+        "in the Nucleus to complete this.",
+        "§cDo not leave the lobby if u placed 1+ Crystals",
+        "§cbefore finishing the run!"
       ]
     },
-    "I See Stars": {
+    "Now We're In Business": {
       "difficulty": "Easy",
       "note": [
-        "5 star a dungeon item"
+        "Craft a Diamond Spreading"
       ],
       "guide": [
-        "Buy a Super Cleaver from Ophelia",
-        "in the Dungeon Hub and star it",
-        "using the essence from opening",
-        "Crystal Hollow chests."
+        "Unlocks at Diamond Collection 6 (5k).",
+        "Costs 1 Enchanted Diamond and 8 Vines",
+        "(costs 40 Jungle Leaves, needs Jungle Wood Collection 4",
+        "to unlock in the /trades ."
       ]
     },
-    "Trouble is Brewing...": {
-      "difficulty": "Easy",
-      "note": [
-        "Brew any level 4 potion"
-      ],
-      "guide": [
-        "Easiest way of getting this would",
-        "be brewing a Speed 3 potion using",
-        "1 Enchanted Sugar and adding a",
-        "Glowstone Dust from the Builder in The Hub."
-      ]
-    },
-    "Spider Queen": {
+    "Dwarves Defender": {
       "difficulty": "Medium",
       "note": [
-        "Summon Arachne"
+        "Kill 25 Goblins during a Goblin Raid"
       ],
       "guide": [
-        "To summon Arachne you need to place",
-        "4 Arachne's Callings in the Altar in",
-        "Arachne's Sanctuary. Those drop from slaying",
-        "Arachne's Keepers there. You can get away with",
-        "only placing one by teaming up with others."
+        "Kill Goblins in the Goblin Burrows (-100 163 150)",
+        "while that event is going on.",
+        "You need Mining Level 12 to go there."
       ]
     },
-    "A Real Head Scratcher": {
-      "difficulty": "Easy",
-      "note": [
-        "Complete Puzzler's Quest"
-      ],
-      "guide": [
-        "Go to the Puzzler in the Dwarven Mines",
-        "and mine the Block he tells you to.",
-        "NEU and Skytils both offer solvers for the Puzzler."
-      ]
-    },
-    "Minion Machine": {
-      "difficulty": "Easy",
-      "note": [
-        "25 unique Minions"
-      ],
-      "guide": [
-        "Craft some easy minions while also getting",
-        "those that will help with this Bingo.",
-        "Completing this task will get you",
-        "close to your 8th Minion Slot."
-      ]
-    },
-    "Zoop!": {
-      "difficulty": "Hard",
-      "note": [
-        "Craft an Aspect of the End"
-      ],
-      "guide": [
-        "25k Ender Pearls Collection,",
-        "you need 32 Enchanted Eye Of Ender and",
-        "1 Enchanted Diamond to craft this.",
-        "You can buy Blaze Powder from the Alchemist",
-        "in The Hub or get a Blaze Minion down",
-        "(this can be unlocked by killing the Blazes",
-        "that the Bal Boss spawns (Crystal Hollows))."
-      ]
-    },
-    "Carry-On": {
-      "difficulty": "Easy",
-      "note": [
-        "Craft a Small Backpack"
-      ],
-      "guide": [
-        "Unlocks from 250 Leather Collection.",
-        "it requires 80 Leather to craft.",
-        "You can get this by killing Cows in The Barn."
-      ]
-    },
-    "The Green Gold": {
+    "High Score!": {
       "difficulty": "Medium",
       "note": [
-        "Craft an Emerald Ring"
+        "Score of 230+ in F1"
       ],
       "guide": [
-        "Mine emeralds in the Dwarven Mines minecarts",
-        "above the Bank. Needs 32 Enchanted Emeralds",
-        "and Emerald Collection 5 to craft."
+        "You will need Combat 15 and a completion",
+        "of the previous floor for this.",
+        "This gets a lot easier if you get help",
+        "from other players."
       ]
     },
-    "Strange Eggs": {
+    "Podium Position": {
       "difficulty": "Medium",
       "note": [
-        "Spawn a Golden Goblin from a Goblin Egg"
+        "Silver or higher Medal in a Farming Contest"
       ],
       "guide": [
-        "Kill goblins or open loot chests in",
-        "the Crystal Hollows, then just throw them",
-        "until you get a Golden Goblin. Higher ",
-        "level eggs have higher chances of spawning,",
-        "but are also rarer to get.",
-        "Despite the goal's description, Golden Goblins",
-        "spawned from mining also count towards the goal."
-      ]
-    },
-    "Carrot Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "200k Carrot Collection"
-      ],
-      "guide": [
-        "Use The Garden to get this. A full plot",
-        "requires 7,896 Carrots or 50 Enchanted Carrots",
-        "to paste. Getting an Advanced Gardening Hoe",
+        "For this you have to speak to Jacob",
+        "and be Farming Level 10 to participate.",
+        "Check the Calendar after that to see",
+        "upcoming contests. Getting an Advanced Gardening Hoe",
         "might be helpful for this (25 Copper).",
-        "You can get the first Carrots from The Barn",
-        "or the cave in The Hub."
+        "This will progress towards the Blueprint Goal."
       ]
     },
-    "Setting a Trap": {
-      "difficulty": "Easy",
+    "Raw Fish Collector": {
+      "difficulty": "Hard",
       "note": [
-        "Kill a Trapper Animal"
+        "18k Raw Fish Collection"
       ],
       "guide": [
-        "Use SkyHanni's Trapper features to make this easier.",
-        "Use /warp trapper to get back to Trevor.",
-        "You will most likely need a Bow for this."
+        "Unlock Fishing Minions (50 Raw Fish),",
+        "buy Fish from the Fish Merchant in The Hub,",
+        "craft as many minions as you can, give them",
+        "the best fuel and storage that you have.",
+        "Don't forget to collect them in time."
       ]
     },
-    "Gemstone Collector": {
+    "New Savings": {
       "difficulty": "Medium",
       "note": [
-        "50k Gemstone Collection"
+        "Craft a Piggy Bank"
       ],
       "guide": [
-        "You can get this by opening Crystal Hollows",
-        "Loot Chests, mining them manually with a",
-        "Titanium Pickaxe or killing worms/scathas."
+        "This unlocks at 2.5k Raw Porkchop",
+        "Collection and costs 40 Enchanted Pork",
+        "and a chest to craft. Using Minions",
+        "will make this easier give them",
+        "the best fuel and storage that you have.",
+        "Don't forget to collect them in time.",
+        "Killing Mobs in The Barn with a Cleaver",
+        "will also help you getting the material."
+      ]
+    },
+    "Ultimate Enchanter": {
+      "difficulty": "Medium",
+      "note": [
+        "Obtain an Ultimate Enchanted Book"
+      ],
+      "guide": [
+        "You can drop this from Dungeon Chests.",
+        "It has a low chance of 0.75% to drop",
+        "in the free Chest, so make sure to",
+        "have some money ready for this."
+      ]
+    },
+    "Bedazzled": {
+      "difficulty": "Easy",
+      "note": [
+        "7 unique Accessories"
+      ],
+      "guide": [
+        "Buy all 6 Talismans for 26k",
+        "from the Adventurer in The Hub",
+        "and craft a farming talisman",
+        "(5 Hay Bales + 4 Seeds)"
       ]
     }
   }
