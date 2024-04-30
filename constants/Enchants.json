@@ -1,11 +1,5 @@
 {
   "NORMAL": {
-    "aiming": {
-      "loreName": "Aiming",
-      "nbtName": "aiming",
-      "goodLevel": 5,
-      "maxLevel": 5
-    },
     "angler": {
       "loreName": "Angler",
       "nbtName": "angler",
@@ -27,7 +21,7 @@
     "big brain": {
       "loreName": "Big Brain",
       "nbtName": "big_brain",
-      "goodLevel": 5,
+      "goodLevel": 2,
       "maxLevel": 5
     },
     "blast protection": {
@@ -51,7 +45,7 @@
     "cayenne": {
       "loreName": "Cayenne",
       "nbtName": "cayenne",
-      "goodLevel": 4,
+      "goodLevel": 3,
       "maxLevel": 5
     },
     "chance": {
@@ -69,7 +63,7 @@
     "counter-strike": {
       "loreName": "Counter-Strike",
       "nbtName": "counter_strike",
-      "goodLevel": 0,
+      "goodLevel": 2,
       "maxLevel": 5
     },
     "critical": {
@@ -87,25 +81,25 @@
     "charm": {
       "loreName": "Charm",
       "nbtName": "charm",
-      "goodLevel": 4,
+      "goodLevel": 0,
       "maxLevel": 5
     },
     "corruption": {
       "loreName": "Corruption",
       "nbtName": "corruption",
-      "goodLevel": 4,
+      "goodLevel": 0,
       "maxLevel": 5
     },
     "dedication": {
       "loreName": "Dedication",
       "nbtName": "dedication",
-      "goodLevel": 2,
+      "goodLevel": 0,
       "maxLevel": 4
     },
     "delicate": {
       "loreName": "Delicate",
       "nbtName": "delicate",
-      "goodLevel": 0,
+      "goodLevel": 4,
       "maxLevel": 5
     },
     "depth strider": {
@@ -183,7 +177,7 @@
     "flame": {
       "loreName": "Flame",
       "nbtName": "flame",
-      "goodLevel": 1,
+      "goodLevel": 2,
       "maxLevel": 2
     },
     "fortune": {
@@ -207,7 +201,7 @@
     "ferocious mana": {
       "loreName": "Ferocious Mana",
       "nbtName": "ferocious_mana",
-      "goodLevel": 7,
+      "goodLevel": 0,
       "maxLevel": 10
     },
     "giant killer": {
@@ -219,7 +213,7 @@
     "green thumb": {
       "loreName": "Green Thumb",
       "nbtName": "green_thumb",
-      "goodLevel": 4,
+      "goodLevel": 0,
       "maxLevel": 5
     },
     "growth": {
@@ -237,13 +231,13 @@
     "hardened mana": {
       "loreName": "Hardened Mana",
       "nbtName": "hardened_mana",
-      "goodLevel": 7,
+      "goodLevel": 0,
       "maxLevel": 10
     },
     "ice cold": {
       "loreName": "Ice Cold",
       "nbtName": "ice_cold",
-      "goodLevel": 2,
+      "goodLevel": 0,
       "maxLevel": 5
     },
     "impaling": {
@@ -289,7 +283,7 @@
       "maxLevel": 7
     },
     "luck of the sea": {
-      "loreName": "Luck Of The Sea",
+      "loreName": "Luck of the Sea",
       "nbtName": "luck_of_the_sea",
       "goodLevel": 5,
       "maxLevel": 6
@@ -315,7 +309,7 @@
     "mana vampire": {
       "loreName": "Mana Vampire",
       "nbtName": "mana_vampire",
-      "goodLevel": 7,
+      "goodLevel": 0,
       "maxLevel": 10
     },
     "overload": {
@@ -327,13 +321,13 @@
     "paleontologist": {
       "loreName": "Paleontologist",
       "nbtName": "paleontologist",
-      "goodLevel": 2,
+      "goodLevel": 0,
       "maxLevel": 5
     },
     "pesterminator": {
       "loreName": "Pesterminator",
       "nbtName": "pesterminator",
-      "goodLevel": 2,
+      "goodLevel": 0,
       "maxLevel": 5
     },
     "piercing": {
@@ -375,7 +369,7 @@
     "prosperity": {
       "loreName": "Prosperity",
       "nbtName": "prosperity",
-      "goodLevel": 4,
+      "goodLevel": 0,
       "maxLevel": 5
     },
     "protection": {
@@ -393,19 +387,19 @@
     "quantum": {
       "loreName": "Quantum",
       "nbtName": "quantum",
-      "goodLevel": 4,
+      "goodLevel": 2,
       "maxLevel": 5
     },
     "rainbow": {
       "loreName": "Rainbow",
       "nbtName": "rainbow",
       "goodLevel": 1,
-      "maxLevel": 2
+      "maxLevel": 3
     },
     "reflection": {
       "loreName": "Reflection",
       "nbtName": "reflection",
-      "goodLevel": 1,
+      "goodLevel": 0,
       "maxLevel": 5
     },
     "rejuvenate": {
@@ -417,7 +411,7 @@
     "replenish": {
       "loreName": "Replenish",
       "nbtName": "replenish",
-      "goodLevel": 1,
+      "goodLevel": 0,
       "maxLevel": 1
     },
     "respiration": {
@@ -429,7 +423,7 @@
     "respite": {
       "loreName": "Respite",
       "nbtName": "respite",
-      "goodLevel": 5,
+      "goodLevel": 0,
       "maxLevel": 5
     },
     "scavenger": {
@@ -501,19 +495,19 @@
     "smoldering": {
       "loreName": "Smoldering",
       "nbtName": "smoldering",
-      "goodLevel": 1,
+      "goodLevel": 0,
       "maxLevel": 5
     },
     "strong mana": {
       "loreName": "Strong Mana",
       "nbtName": "strong_mana",
-      "goodLevel": 7,
+      "goodLevel": 0,
       "maxLevel": 10
     },
     "tabasco": {
       "loreName": "Tabasco",
       "nbtName": "tabasco",
-      "goodLevel": 2,
+      "goodLevel": 0,
       "maxLevel": 3
     },
     "thorns": {
@@ -543,7 +537,7 @@
     "transylvanian": {
       "loreName": "Transylvanian",
       "nbtName": "transylvanian",
-      "goodLevel": 4,
+      "goodLevel": 3,
       "maxLevel": 5
     },
     "triple-strike": {
