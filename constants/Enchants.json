@@ -489,8 +489,8 @@
     "sunder": {
       "loreName": "Sunder",
       "nbtName": "sunder",
-      "goodLevel": 4,
-      "maxLevel": 5
+      "goodLevel": 5,
+      "maxLevel": 6
     },
     "syphon": {
       "loreName": "Syphon",
