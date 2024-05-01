@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7870bd5",
+  "sourceLabel": "2917930",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -60,6 +60,7 @@
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
     "bingo.card.goalcomplete": "§6§lBINGO GOAL COMPLETE! §r§e(?\u003cname\u003e.*)",
     "bingo.card.hiddengoal": ".*§7§eThe next hint will unlock in (?\u003ctime\u003e.*)",
+    "dungeon.race.active": "§.§.(?\u003crace\u003e[\\w ]+) RACE §.[\\d:.]+",
     "features.gui.customscoreboard.scoreboard.main.motes": "^(§.)*Motes: (§.)*(?\u003cmotes\u003e[\\d,]+).*$",
     "features.gui.customscoreboard.scoreboard.main.heat": "^Heat: (?\u003cheat\u003e.*)$",
     "features.gui.customscoreboard.scoreboard.main.cold": "^(?:§.)*Cold: §.(?\u003ccold\u003e-?\\d+)❄$",
