@@ -1,7 +1,7 @@
 {
   "0": {
     "Position": "-68.0:132.0:407.0",
-    "Name": "§8Onyx Gemstone Mine",
+    "Name": "§8Onyx Gemstone",
     "Neighbours": {
       "393": 7.0,
       "57": 7.280109889280518,
@@ -10,7 +10,7 @@
   },
   "1": {
     "Position": "77.0:120.0:410.0",
-    "Name": "§8Onyx Gemstone Mine",
+    "Name": "§8Onyx Gemstone",
     "Neighbours": {
       "414": 7.810249675906654,
       "35": 7.874007874011811
@@ -18,7 +18,7 @@
   },
   "2": {
     "Position": "-2.0:141.0:437.0",
-    "Name": "§3Aquamarine Gemstone Mine",
+    "Name": "§3Aquamarine Gemstone",
     "Neighbours": {
       "143": 11.313708498984761,
       "384": 11.445523142259598,
@@ -35,7 +35,7 @@
   },
   "4": {
     "Position": "51.0:119.0:302.0",
-    "Name": "§3Aquamarine Gemstone Mine",
+    "Name": "§3Aquamarine Gemstone",
     "Neighbours": {
       "94": 6.4031242374328485,
       "93": 7.280109889280518,
@@ -52,7 +52,7 @@
   },
   "6": {
     "Position": "91.0:124.0:397.0",
-    "Name": "§2Peridot Gemstone Mine",
+    "Name": "§2Peridot Gemstone",
     "Neighbours": {
       "34": 7.14142842854285,
       "408": 8.54400374531753
@@ -68,7 +68,7 @@
   },
   "8": {
     "Position": "-74.0:124.0:458.0",
-    "Name": "§2Peridot Gemstone Mine",
+    "Name": "§2Peridot Gemstone",
     "Neighbours": {
       "385": 7.615773105863909,
       "49": 8.94427190999916,
@@ -77,7 +77,7 @@
   },
   "9": {
     "Position": "-95.0:146.0:259.0",
-    "Name": "§6Citrine Gemstone Mine",
+    "Name": "§4Citrine Gemstone",
     "Neighbours": {
       "106": 5.477225575051661,
       "107": 7.0,
@@ -94,7 +94,7 @@
   },
   "11": {
     "Position": "38.0:121.0:386.0",
-    "Name": "§6Citrine Gemstone Mine",
+    "Name": "§4Citrine Gemstone",
     "Neighbours": {
       "91": 7.211102550927978,
       "90": 7.3484692283495345,
@@ -1022,7 +1022,7 @@
   },
   "123": {
     "Position": "80.0:153.0:383.0",
-    "Name": "§3Aquamarine Gemstone Mine",
+    "Name": "§3Aquamarine Gemstone",
     "Neighbours": {
       "122": 9.486832980505138,
       "346": 11.090536506409418,
@@ -1089,7 +1089,6 @@
   },
   "131": {
     "Position": "4.0:133.0:391.0",
-    "Name": "Lake",
     "Neighbours": {
       "472": 10.677078252031311,
       "140": 13.076696830622021,
@@ -1322,7 +1321,7 @@
   },
   "158": {
     "Position": "-52.0:144.0:412.0",
-    "Name": "§6Citrine Gemstone Mine",
+    "Name": "§4Citrine Gemstone",
     "Neighbours": {
       "10": 11.0,
       "157": 15.132745950421556
@@ -1458,7 +1457,7 @@
   },
   "175": {
     "Position": "-47.0:150.0:327.0",
-    "Name": "§eTopaz Mine",
+    "Name": "§eTopaz Gemstone",
     "Neighbours": {
       "173": 7.3484692283495345,
       "441": 8.306623862918075,
@@ -1536,7 +1535,7 @@
   },
   "184": {
     "Position": "-12.0:152.0:293.0",
-    "Name": "§cRuby Gemstone Mine",
+    "Name": "§cRuby Gemstone",
     "Neighbours": {
       "183": 7.14142842854285,
       "185": 9.486832980505138,
@@ -1709,7 +1708,7 @@
   },
   "204": {
     "Position": "86.0:150.0:306.0",
-    "Name": "§bSaphire Gemstone Mine",
+    "Name": "§bSapphire Gemstone",
     "Neighbours": {
       "206": 9.0,
       "203": 9.1104335791443,
@@ -1773,7 +1772,7 @@
   },
   "212": {
     "Position": "37.0:155.0:329.0",
-    "Name": "Tungsten Mine",
+    "Name": "§7Tungsten",
     "Neighbours": {
       "422": 7.681145747868608,
       "213": 9.433981132056603,
@@ -2075,7 +2074,7 @@
   },
   "248": {
     "Position": "5.0:129.0:308.0",
-    "Name": "§cRuby Gemstone Mine",
+    "Name": "§cRuby Gemstone",
     "Neighbours": {
       "247": 6.782329983125268,
       "365": 7.681145747868608,
@@ -2186,7 +2185,7 @@
   },
   "261": {
     "Position": "72.0:133.0:376.0",
-    "Name": "§eTopaz Mine",
+    "Name": "§eTopaz Gemstone",
     "Neighbours": {
       "260": 6.324555320336759,
       "378": 7.874007874011811,
@@ -2300,7 +2299,7 @@
   },
   "273": {
     "Position": "72.0:120.0:344.0",
-    "Name": "§cRuby Gemstone Mine",
+    "Name": "§cRuby Gemstone",
     "Neighbours": {
       "275": 5.477225575051661,
       "272": 8.246211251235321,
@@ -2814,7 +2813,7 @@
   },
   "334": {
     "Position": "111.0:160.0:412.0",
-    "Name": "§dFairy Soul Mine",
+    "Name": "§dFairy Soul Aquamarine",
     "Neighbours": {
       "339": 11.045361017187261
     }
@@ -2836,7 +2835,6 @@
   },
   "337": {
     "Position": "28.0:121.0:238.0",
-    "Name": "Dr. Stone",
     "Neighbours": {
       "336": 4.242640687119285
     }
@@ -3938,7 +3936,7 @@
   },
   "479": {
     "Position": "3.0:137.0:369.0",
-    "Name": "§8Onyx Gemstone Mine",
+    "Name": "§8Onyx Gemstone",
     "Neighbours": {
       "135": 7.615773105863909,
       "134": 7.874007874011811
@@ -3946,14 +3944,14 @@
   },
   "480": {
     "Position": "-63.0:135.0:290.0",
-    "Name": "§2Peridot Gemstone Mine",
+    "Name": "§2Peridot Gemstone",
     "Neighbours": {
       "80": 4.242640687119285
     }
   },
   "481": {
     "Position": "66.0:118.0:271.0",
-    "Name": "§bSaphire Gemstone Mine",
+    "Name": "§bSapphire Gemstone",
     "Neighbours": {
       "482": 5.916079783099616,
       "22": 6.324555320336759
@@ -3969,21 +3967,21 @@
   },
   "483": {
     "Position": "-83.0:126.0:454.0",
-    "Name": "§bSaphire Gemstone Mine",
+    "Name": "§bSapphire Gemstone",
     "Neighbours": {
       "49": 6.708203932499369
     }
   },
   "484": {
     "Position": "-81.0:122.0:271.0",
-    "Name": "§bSaphire Gemstone Mine",
+    "Name": "§bSapphire Gemstone",
     "Neighbours": {
       "71": 5.0990195135927845
     }
   },
   "485": {
     "Position": "-7.0:129.0:325.0",
-    "Name": "§bSaphire Gemstone Mine",
+    "Name": "§bSapphire Gemstone",
     "Neighbours": {
       "297": 6.082762530298219,
       "486": 6.782329983125268
@@ -3999,14 +3997,14 @@
   },
   "487": {
     "Position": "19.0:125.0:448.0",
-    "Name": "§5Amethyst Gemstone Mine",
+    "Name": "§5Amethyst Gemstone",
     "Neighbours": {
       "40": 5.477225575051661
     }
   },
   "488": {
     "Position": "-15.0:120.0:445.0",
-    "Name": "§5Amethyst Gemstone Mine",
+    "Name": "§5Amethyst Gemstone",
     "Neighbours": {
       "489": 4.123105625617661,
       "490": 5.916079783099616,
@@ -4033,28 +4031,28 @@
   },
   "491": {
     "Position": "-100.0:134.0:402.0",
-    "Name": "§5Amethyst Gemstone Mine",
+    "Name": "§5Amethyst Gemstone",
     "Neighbours": {
       "55": 5.656854249492381
     }
   },
   "492": {
     "Position": "-110.0:136.0:360.0",
-    "Name": "§5Amethyst Gemstone Mine",
+    "Name": "§5Amethyst Gemstone",
     "Neighbours": {
       "62": 5.385164807134504
     }
   },
   "493": {
     "Position": "17.0:128.0:304.0",
-    "Name": "§5Amethyst Gemstone Mine",
+    "Name": "§5Amethyst Gemstone",
     "Neighbours": {
       "245": 3.605551275463989
     }
   },
   "494": {
     "Position": "58.0:136.0:352.0",
-    "Name": "§5Amethyst Gemstone Mine",
+    "Name": "§5Amethyst Gemstone",
     "Neighbours": {
       "256": 3.3166247903554,
       "255": 8.602325267042627
@@ -4089,21 +4087,21 @@
   },
   "499": {
     "Position": "16.0:147.0:268.0",
-    "Name": "§bSaphire Gemstone Mine",
+    "Name": "§bSapphire Gemstone",
     "Neighbours": {
       "197": 3.3166247903554
     }
   },
   "500": {
     "Position": "33.0:147.0:296.0",
-    "Name": "§aJade Gemstone Mine",
+    "Name": "§aJade Gemstone",
     "Neighbours": {
       "191": 6.324555320336759
     }
   },
   "501": {
     "Position": "12.0:149.0:329.0",
-    "Name": "§aJade Gemstone Mine",
+    "Name": "§aJade Gemstone",
     "Neighbours": {
       "502": 3.3166247903554
     }
@@ -4118,7 +4116,7 @@
   },
   "503": {
     "Position": "-52.0:129.0:381.0",
-    "Name": "§aJade Gemstone Mine",
+    "Name": "§aJade Gemstone",
     "Neighbours": {
       "312": 4.242640687119285
     }
@@ -4134,14 +4132,14 @@
   },
   "505": {
     "Position": "-101.0:149.0:299.0",
-    "Name": "§aJade Gemstone Mine",
+    "Name": "§aJade Gemstone",
     "Neighbours": {
       "504": 3.3166247903554
     }
   },
   "506": {
     "Position": "-47.0:124.0:306.0",
-    "Name": "§aJade Gemstone Mine",
+    "Name": "§aJade Gemstone",
     "Neighbours": {
       "301": 6.164414002968976,
       "236": 9.16515138991168
@@ -4149,56 +4147,56 @@
   },
   "507": {
     "Position": "108.0:126.0:384.0",
-    "Name": "§aJade Gemstone Mine",
+    "Name": "§aJade Gemstone",
     "Neighbours": {
       "413": 5.0990195135927845
     }
   },
   "508": {
     "Position": "74.0:119.0:305.0",
-    "Name": "§6Amber Gemstone Mine",
+    "Name": "§6Amber Gemstone",
     "Neighbours": {
       "282": 6.164414002968976
     }
   },
   "509": {
     "Position": "40.0:124.0:359.0",
-    "Name": "§6Amber Gemstone Mine",
+    "Name": "§6Amber Gemstone",
     "Neighbours": {
       "269": 3.7416573867739413
     }
   },
   "510": {
     "Position": "-66.0:129.0:316.0",
-    "Name": "§6Amber Gemstone Mine",
+    "Name": "§6Amber Gemstone",
     "Neighbours": {
       "231": 5.196152422706632
     }
   },
   "511": {
     "Position": "-62.0:146.0:437.0",
-    "Name": "§6Amber Gemstone Mine",
+    "Name": "§6Amber Gemstone",
     "Neighbours": {
       "163": 6.164414002968976
     }
   },
   "512": {
     "Position": "-85.0:154.0:362.0",
-    "Name": "§6Amber Gemstone Mine",
+    "Name": "§6Amber Gemstone",
     "Neighbours": {
       "169": 6.164414002968976
     }
   },
   "513": {
     "Position": "-34.0:148.0:251.0",
-    "Name": "§bSaphire Gemstone Mine",
+    "Name": "§bSapphire Gemstone",
     "Neighbours": {
       "112": 3.7416573867739413
     }
   },
   "514": {
     "Position": "75.0:154.0:330.0",
-    "Name": "§6Amber Gemstone Mine",
+    "Name": "§6Amber Gemstone",
     "Neighbours": {
       "208": 5.830951894845301
     }
