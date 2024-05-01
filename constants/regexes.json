@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "dad2c5b",
+  "sourceLabel": "7870bd5",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -345,7 +345,8 @@
     "summoning.mobs.health": "§a§o(.+)\u0027s (.+)§r §[ae]([\\dkm]+)§c❤",
     "summoning.mobs.seraphrecall": "§cThe Seraph recalled your (\\d) summoned allies!",
     "misc.chocolatefactory.rabbit.new": "§d§lNEW RABBIT! §6\\+\\d Chocolate §7and §6\\+0.\\d+x Chocolate §7per second!",
-    "misc.chocolatefactory.rabbit.duplicate": "§c§lBARN FULL! §f\\D+ §7got §ccrushed§7! §6.+ Chocolate",
+    "misc.chocolatefactory.rabbit.duplicate": "§7§lDUPLICATE RABBIT! §6\\+[\\d,]+ Chocolate",
+    "misc.chocolatefactory.rabbit.crushed": "§c§lBARN FULL! §f\\D+ §7got §ccrushed§7! §6.+ Chocolate",
     "misc.chocolatefactory.rabbit.amount": "Rabbit \\S+ - \\[(?\u003camount\u003e\\d+)].*",
     "misc.chocolatefactory.upgradetier": ".*\\s(?\u003ctier\u003e[IVXLC]+)",
     "misc.chocolatefactory.unclaimedrewards": "§7§aYou have \\d+ unclaimed rewards?!",
