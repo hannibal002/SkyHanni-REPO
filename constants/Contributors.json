@@ -19,7 +19,8 @@
     },
     "Erymanthus": {
       "suffix": "§b>:)",
-      "spinny": true
+      "spinny": true,
+      "upsideDown": true
     },
     "Fix3dll": {},
     "Frost19": {},
