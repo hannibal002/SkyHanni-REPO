@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "51cc5a1",
+  "sourceLabel": "29b1129",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -357,6 +357,7 @@
     "misc.chocolatefactory.egg.noneleft": "§cThere are no hidden Chocolate Rabbit Eggs nearby! Try again later!",
     "misc.chocolatefactory.egg.spawned": "§d§lHOPPITY\u0027S HUNT §r§dA §r§.Chocolate (?\u003cmeal\u003e\\w+) Egg §r§dhas appeared!",
     "misc.chocolatefactory.egg.alreadycollected": "§cYou have already collected this Chocolate (?\u003cmeal\u003e\\w+) Egg§r§c! Try again when it respawns!",
+    "misc.chocolatefactory.egg.notevent": "§cThis only works during Hoppity\u0027s Hunt!",
     "misc.chocolatefactory.egg.shared": ".*\\[SkyHanni] (?\u003cmeal\u003e\\w+) Chocolate Egg located at x: (?\u003cx\u003e-?\\d+), y: (?\u003cy\u003e-?\\d+), z: (?\u003cz\u003e-?\\d+)",
     "misc.chocolatefactory.collection.page.current": "\\((?\u003cpage\u003e\\d+)/(?\u003cmaxPage\u003e\\d+)\\) Hoppity\u0027s Collection",
     "misc.chocolatefactory.collection.rabbit.rarity": "§.§L(?\u003crarity\u003e\\w+) RABBIT",
