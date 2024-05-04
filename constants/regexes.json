@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "d8f1a24",
+  "sourceLabel": "e1dc6cd",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -356,12 +356,12 @@
     "misc.chocolatefactory.rabbit.crushed": "§c§lBARN FULL! §f\\D+ §7got §ccrushed§7! §6\\+(?\u003camount\u003e[\\d,]+) Chocolate",
     "misc.chocolatefactory.unclaimedrewards": "§7§aYou have \\d+ unclaimed rewards?!",
     "misc.chocolatefactory.shop.title": "Chocolate Shop",
-    "misc.chocolatefactory.egg.found": "§d§lHOPPITY\u0027S HUNT §r§dYou found a §r§.Chocolate (?\u003cmeal\u003e\\w+) Egg.*",
+    "misc.chocolatefactory.egg.found": "§d§lHOPPITY\u0027S HUNT §r§dYou found a §r§.Chocolate (?\u003cmeal\u003e\\w+) Egg §r§d(?\u003cnote\u003e.*)§r§d!",
     "misc.chocolatefactory.egg.noneleft": "§cThere are no hidden Chocolate Rabbit Eggs nearby! Try again later!",
     "misc.chocolatefactory.egg.spawned": "§d§lHOPPITY\u0027S HUNT §r§dA §r§.Chocolate (?\u003cmeal\u003e\\w+) Egg §r§dhas appeared!",
     "misc.chocolatefactory.egg.alreadycollected": "§cYou have already collected this Chocolate (?\u003cmeal\u003e\\w+) Egg§r§c! Try again when it respawns!",
     "misc.chocolatefactory.egg.notevent": "§cThis only works during Hoppity\u0027s Hunt!",
-    "misc.chocolatefactory.egg.shared": ".*\\[SkyHanni] (?\u003cmeal\u003e\\w+) Chocolate Egg located at x: (?\u003cx\u003e-?\\d+), y: (?\u003cy\u003e-?\\d+), z: (?\u003cz\u003e-?\\d+)",
+    "misc.chocolatefactory.egg.shared": ".*\\[SkyHanni] (?\u003cmeal\u003e\\w+) Chocolate Egg located at x: (?\u003cx\u003e-?\\d+), y: (?\u003cy\u003e-?\\d+), z: (?\u003cz\u003e-?\\d+)(?: \\((?\u003cnote\u003e.*)\\))?",
     "misc.chocolatefactory.collection.page.current": "\\((?\u003cpage\u003e\\d+)/(?\u003cmaxPage\u003e\\d+)\\) Hoppity\u0027s Collection",
     "misc.chocolatefactory.collection.rabbit.rarity": "§.§L(?\u003crarity\u003e\\w+) RABBIT",
     "misc.chocolatefactory.collection.duplicates.found": "§7Duplicates Found: §a(?\u003cduplicates\u003e[\\d,]+)",
