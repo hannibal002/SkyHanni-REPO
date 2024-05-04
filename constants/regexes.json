@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "65b606a",
+  "sourceLabel": "7df3dfd",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -141,7 +141,7 @@
     "features.gui.customscoreboard.scoreboard.misc.queued": "Queued:.*",
     "features.gui.customscoreboard.scoreboard.misc.queueposition": "Position: (?:§.)*#\\d+ (?:§.)*Since: (?:§.)*.*",
     "features.gui.customscoreboard.scoreboard.misc.thirdobjectiveline": "(\\s*§.\\(§.\\w+§./§.\\w+§.\\)|§f Mages.*|§f Barbarians.*|§edefeat Kuudra|§eand stun him)",
-    "features.gui.customscoreboard.scoreboard.misc.wtfarethoselines": "^(§eMine 10 Rubies|§eKill 100 Automatons)$",
+    "features.gui.customscoreboard.scoreboard.misc.wtfarethoselines": "^(§eMine 10 Rubies|§eKill 100 Automatons|§eFind a Jungle Key)$",
     "features.gui.customscoreboard.scoreboard.misc.darkauction.currentitem": "^Current Item:$",
     "features.gui.customscoreboard.scoreboard.events.travelingzoo": "§aTraveling Zoo§f \\d{0,2}:\\d{2}$",
     "features.gui.customscoreboard.scoreboard.events.newyear": "§dNew Year Event!§f \\d{0,2}?:?\\d{2}$",
