@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "22d8bdc",
+  "sourceLabel": "a4a002f",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -637,7 +637,7 @@
     "mining.powder.tracker.reward.diamondessence": "§aYou received §r§b[+](?\u003camount\u003e.*) Diamond Essence§r§a.",
     "mining.powder.tracker.reward.goldessence": "§aYou received §r§6[+](?\u003camount\u003e.*) Gold Essence§r§a.",
     "misc.compacttablist.username": "^\\[(?\u003csblevel\u003e\\d+)] (?:\\[\\w+] )?(?\u003cusername\u003e\\w+)",
-    "misc.compacttablist.effects.godpot": "You have a God Potion active! (?\u003ctimer\u003e[\\w ]+)",
+    "misc.compacttablist.effects.godpot": "§r§r§7You have a §r§cGod Potion §r§7active! §r§d(?\u003ctimer\u003e[\\w ]+)§r",
     "misc.compacttablist.effects.active": "Active Effects(?:§.)*(?:\\n(?:§.)*§7.+)*",
     "misc.compacttablist.effects.count": "You have (?:§.)*(?\u003ceffectCount\u003e[0-9]+) (?:§.)*active effect",
     "misc.compacttablist.cookie": "Cookie Buff(?:§.)*(?:\\n(§.)*§7.+)*",
