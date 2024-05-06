@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a4a002f",
+  "sourceLabel": "2470a5a",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -494,7 +494,7 @@
     "garden.fortunedisplay.lotusability": "§7Piece Bonus: §6+(?\u003cbonus\u003e.*)☘",
     "garden.fortunedisplay.armorabilityfortune": "§7.*§7Grants §6(?\u003cbonus\u003e.*)☘.*",
     "misc.teleportpad.number": "§.(?\u003cnumber\u003e.*) teleport pad",
-    "garden.cropmilestone.fix.tablist": " (?\u003ccrop\u003e.*) (?\u003ctier\u003e\\d+): §r§a(?\u003cpercentage\u003e.*)%",
+    "garden.cropmilestone.fix.tablist": " (?\u003ccrop\u003eWheat|Carrot|Potato|Pumpkin|Sugar Cane|Melon|Cactus|Cocoa Beans|Mushroom|Nether Wart) (?\u003ctier\u003e\\d+): §r§a(?\u003cpercentage\u003e.*)%",
     "garden.cropmilestone.fix.levelup": " {2}§r§b§lGARDEN MILESTONE §3(?\u003ccrop\u003e.*) §8.*➜§3(?\u003ctier\u003e.*)",
     "garden.cropmilestone.fix.pests.raredrop": "§6§lRARE DROP! (?:§.)*(?\u003citem\u003e.+) §6\\(§6\\+.*☘\\)",
     "diana.waypoints.party.onlycoords": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.+)§f: §rx: (?\u003cx\u003e[^ ]+),? y: (?\u003cy\u003e[^ ]+),? z: (?\u003cz\u003e[^ ]+)",
