@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7df3dfd",
+  "sourceLabel": "22d8bdc",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -639,7 +639,7 @@
     "misc.compacttablist.username": "^\\[(?\u003csblevel\u003e\\d+)] (?:\\[\\w+] )?(?\u003cusername\u003e\\w+)",
     "misc.compacttablist.effects.godpot": "You have a God Potion active! (?\u003ctimer\u003e[\\w ]+)",
     "misc.compacttablist.effects.active": "Active Effects(?:§.)*(?:\\n(?:§.)*§7.+)*",
-    "misc.compacttablist.effects.count": "You have (?\u003ceffectCount\u003e[0-9]+) active effect",
+    "misc.compacttablist.effects.count": "You have (?:§.)*(?\u003ceffectCount\u003e[0-9]+) (?:§.)*active effect",
     "misc.compacttablist.cookie": "Cookie Buff(?:§.)*(?:\\n(§.)*§7.+)*",
     "misc.compacttablist.dungeonbuff": "Dungeon Buffs(?:§.)*(?:\\n(§.)*§7.+)*",
     "misc.compacttablist.upgrades": "(?\u003cfirstPart\u003e§e[A-Za-z ]+)(?\u003csecondPart\u003e §f[\\w ]+)",
