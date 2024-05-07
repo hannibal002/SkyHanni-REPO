@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "03889eb",
+  "sourceLabel": "d420977",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -156,6 +156,7 @@
     "features.gui.customscoreboard.scoreboard.rift.hotdogtitle": "^§6Hot Dog Contest$",
     "features.gui.customscoreboard.scoreboard.rift.hotdogeaten": "^Eaten: §.\\d+\\/\\d+$",
     "features.gui.customscoreboard.scoreboard.rift.aveikx": "Time spent sitting|with Ävaeìkx: .*",
+    "features.gui.customscoreboard.scoreboard.rift.hayeaten": "^Hay Eaten: §.[\\d,.]+/[\\d,.]+$",
     "features.gui.customscoreboard.tablist.gems": "^\\s*Gems: §a(?\u003cgems\u003e\\d*,?(\\.\\d+)?[a-zA-Z]?)$",
     "features.gui.customscoreboard.tablist.bank": "^\\s*Bank: §6(?\u003cbank\u003e[\\w.,]+(?:§7 \\/ §6(?\u003ccoop\u003e[\\w.,]+))?)$",
     "features.gui.customscoreboard.tablist.mithrilpowder": "^\\s*Mithril(?: Powder)?: (?:§.)+(?\u003cmithrilpowder\u003e[\\d,\\.]+)$",
