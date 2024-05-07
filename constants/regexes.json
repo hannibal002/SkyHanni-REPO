@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "c951723",
+  "sourceLabel": "50f3954",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -141,7 +141,7 @@
     "features.gui.customscoreboard.scoreboard.misc.queued": "Queued:.*",
     "features.gui.customscoreboard.scoreboard.misc.queueposition": "Position: (?:§.)*#\\d+ (?:§.)*Since: (?:§.)*.*",
     "features.gui.customscoreboard.scoreboard.misc.thirdobjectiveline": "(\\s*§.\\(§.\\w+§./§.\\w+§.\\)|§f Mages.*|§f Barbarians.*|§edefeat Kuudra|§eand stun him)",
-    "features.gui.customscoreboard.scoreboard.misc.wtfarethoselines": "^(§eMine 10 Rubies|§eKill 100 Automatons|§eFind a Jungle Key)$",
+    "features.gui.customscoreboard.scoreboard.misc.wtfarethoselines": "^(§eMine \\d+ .*|§eKill 100 Automatons|§eFind a Jungle Key|§eFind the \\d+ Missing Pieces?|§eTalk to the Goblin King)$",
     "features.gui.customscoreboard.scoreboard.misc.darkauction.currentitem": "^Current Item:$",
     "features.gui.customscoreboard.scoreboard.events.travelingzoo": "§aTraveling Zoo§f \\d{0,2}:\\d{2}$",
     "features.gui.customscoreboard.scoreboard.events.newyear": "§dNew Year Event!§f \\d{0,2}?:?\\d{2}$",
@@ -157,6 +157,7 @@
     "features.gui.customscoreboard.scoreboard.rift.hotdogeaten": "^Eaten: §.\\d+\\/\\d+$",
     "features.gui.customscoreboard.scoreboard.rift.aveikx": "Time spent sitting|with Ävaeìkx: .*",
     "features.gui.customscoreboard.scoreboard.rift.hayeaten": "^Hay Eaten: §.[\\d,.]+/[\\d,.]+$",
+    "features.gui.customscoreboard.scoreboard.rift.clues": "Clues: §.\\d+/\\d+",
     "features.gui.customscoreboard.tablist.gems": "^\\s*Gems: §a(?\u003cgems\u003e\\d*,?(\\.\\d+)?[a-zA-Z]?)$",
     "features.gui.customscoreboard.tablist.bank": "^\\s*Bank: §6(?\u003cbank\u003e[\\w.,]+(?:§7 \\/ §6(?\u003ccoop\u003e[\\w.,]+))?)$",
     "features.gui.customscoreboard.tablist.mithrilpowder": "^\\s*Mithril(?: Powder)?: (?:§.)+(?\u003cmithrilpowder\u003e[\\d,\\.]+)$",
