@@ -1,5 +1,6 @@
 {
   "equals": [
+    "CANCEL_RACE_ITEM",
     "LEAVES_2-2",
     "MONSTER_EGG-120",
     "MUSHROOM_COLLECTION",
@@ -8,6 +9,7 @@
     "QUARTZ_BLOCK-7",
     "RED_ROSE-9",
     "RED_ROSE-15",
+    "RED_SANDSTONE-7",
     "SAND-5",
     "SAND-7",
     "SAND-9",
@@ -22,6 +24,7 @@
     "STEP-13",
     "STEP-14",
     "STEP-15",
+    "STONE-7",
     "STONE-9",
     "WOOD-7",
     "WOOD-8",
