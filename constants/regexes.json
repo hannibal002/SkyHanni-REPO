@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "d420977",
+  "sourceLabel": "c951723",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -16,7 +16,7 @@
     "data.chat.player.party": "§9Party §8\u003e (?\u003cauthor\u003e[^:]*)§f: (?\u003cmessage\u003e.*)",
     "data.chat.player.coop": "§bCo-op \u003e (?\u003cauthor\u003e[^:]+)§f: (?\u003cmessage\u003e.*)",
     "data.chat.player.guild": "§2Guild \u003e (?\u003cauthor\u003e.+?)(?\u003cguildRank\u003e §e\\[\\w*])?§f: (?\u003cmessage\u003e.*)",
-    "data.chat.player.privatemessage": "(?\u003cdirection\u003eFrom|To) (?\u003cauthor\u003e[^:]*): (?\u003cmessage\u003e.*)",
+    "data.chat.player.privatemessage": "^(?!§eFrom stash: §r)(?\u003cdirection\u003eFrom|To) (?\u003cauthor\u003e[^:]*): (?\u003cmessage\u003e.*)",
     "data.chat.player.itemshow": "(?:§8\\[(?\u003clevelColor\u003e§.)(?\u003clevel\u003e\\d+)§8] )?(?\u003cauthor\u003e.*)§f§7 (?\u003caction\u003eis (?:holding|friends with a|wearing)|has) (?\u003citemName\u003e.*)",
     "data.chat.player.privateislandrank": "(?\u003cprefix\u003e.*?)(?\u003cprivateIslandRank\u003e§.\\[(?!MVP(§.\\++)?§.]|VIP\\+*|YOU§.TUBE|ADMIN|MOD|GM)[^]]+\\])(?\u003csuffix\u003e.*)",
     "data.chat.player.privateislandguest": "(?\u003cprefix\u003e.*)(?\u003cguest\u003e§a\\[✌] )(?\u003csuffix\u003e.*)",
