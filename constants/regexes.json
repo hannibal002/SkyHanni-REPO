@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "50f3954",
+  "sourceLabel": "912c8d8",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -290,7 +290,7 @@
     "garden.pestsapi.tablist.infectedplots": "\\sPlots: (?\u003cplots\u003e.*)",
     "garden.pestsapi.chat.pestdeath": "§eYou received §a(?\u003camount\u003e[0-9]*)x (?\u003citem\u003e.*) §efor killing an? §6(?\u003cpest\u003e.*)§e!",
     "garden.pestsapi.chat.nopests": "§cThere are not any Pests on your Garden right now! Keep farming!",
-    "data.miningapi.area.glacite": "Glacite Tunnels",
+    "data.miningapi.area.glacite": "Glacite Tunnels|Glacite Lake",
     "data.miningapi.cold.reset": "§6The warmth of the campfire reduced your §r§b❄ Cold §r§6to §r§a0§r§6!|§c ☠ §r§7You froze to death§r§7.",
     "data.miningapi.cold.deathreset": "§c ☠ §r§7§r§.(?\u003cname\u003e.+)§r§7 (?\u003creason\u003e.+)",
     "mining.fossil.excavator.chat.start": " {2}§r§6§lEXCAVATION COMPLETE ",
@@ -562,6 +562,7 @@
     "event.jerry.frozentreasure.item.glacialtalisman": "FROZEN TREASURE! You found Glacial Talisman!",
     "event.jerry.frozentreasure.item.frozenbait": "FROZEN TREASURE! You found Frozen Bait!",
     "event.jerry.frozentreasure.item.einaryredhoodie": "FROZEN TREASURE! You found Einary\u0027s Red Hoodie!",
+    "mining.commissions.complete": "§a§l(?\u003cname\u003e.*) §r§eCommission Complete! Visit the King §r§eto claim your rewards!",
     "slayer.rngmeter.inventoryname": "(?\u003cname\u003e.*) RNG Meter",
     "slayer.rngmeter.inventoryname.slayer": "Slayer",
     "slayer.rngmeter.update": " {3}§dRNG Meter §f- §d(?\u003cexp\u003e.*) Stored XP",
