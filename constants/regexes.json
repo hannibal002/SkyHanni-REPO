@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e0b6473",
+  "sourceLabel": "6423fcc",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -362,7 +362,7 @@
     "misc.chocolatefactory.upgradetier": ".*\\s(?\u003ctier\u003e[IVXLC]+)",
     "misc.chocolatefactory.rabbit.unemployed": "Rabbit \\w+ - Unemployed",
     "misc.chocolatefactory.other.upgrade": "Rabbit Shrine",
-    "misc.chocolatefactory.rabbit.new": "§d§lNEW RABBIT! §6\\+\\d Chocolate §7and §6\\+0.\\d+x Chocolate §7per second!",
+    "misc.chocolatefactory.rabbit.new": "§d§lNEW RABBIT! §6\\+\\d+ Chocolate §7and §6\\+0.\\d+x Chocolate §7per second!",
     "misc.chocolatefactory.rabbit.duplicate": "§7§lDUPLICATE RABBIT! §6\\+(?\u003camount\u003e[\\d,]+) Chocolate",
     "misc.chocolatefactory.rabbit.crushed": "§c§lBARN FULL! §f\\D+ §7got §ccrushed§7! §6\\+(?\u003camount\u003e[\\d,]+) Chocolate",
     "misc.chocolatefactory.unclaimedrewards": "§7§aYou have \\d+ unclaimed rewards?!",
