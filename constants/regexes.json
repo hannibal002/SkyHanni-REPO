@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "faa42fc",
+  "sourceLabel": "d15fcc9",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -325,7 +325,7 @@
     "mining.tunnels.maps.gem.old": ".*(?:Ruby|Amethyst|Jade|Sapphire|Amber|Topaz).*",
     "mining.tunnels.maps.gem.new": ".*(?:Aquamarine|Onyx|Citrine|Peridot).*",
     "mining.commission.inventory": "Commissions",
-    "mining.commisson.reward.glacite": "§7- §b\\d+ Glacite Powder",
+    "mining.commisson.reward.glacite": "§7- §b[\\d,]+ Glacite Powder",
     "mining.commisson.collector": "§9(?\u003cwhat\u003e\\w+(?: \\w+)?) Collector",
     "mining.commisson.collector.invalid": "Glacite|Scrap",
     "mining.commisson.completed": "§a§lCOMPLETED",
