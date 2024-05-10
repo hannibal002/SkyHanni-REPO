@@ -13,7 +13,7 @@
     },
     "obfuscatedfish1": {
       "displayName": "§fObfuscated 1",
-      "description": "Caught with Corrupted Bait.",
+      "description": "§7Caught with Corrupted Bait.",
       "rate": 25,
       "fillet": {
         "bronze": 16,
@@ -24,7 +24,7 @@
     },
     "steaminghotflounder": {
       "displayName": "§fSteaming-Hot Flounder",
-      "description": "Caught when the bobber is within §a2 blocks§7 of a geyser in the §6Blazing Volcano§7.",
+      "description": "§7Caught when the bobber is within §a2 blocks§7 of a geyser in the §6Blazing Volcano§7.",
       "rate": 20,
       "fillet": {
         "bronze": 20,
@@ -35,7 +35,7 @@
     },
     "obfuscatedfish2": {
       "displayName": "§aObfuscated 2",
-      "description": "Caught with §fObfuscated 1 §7bait.",
+      "description": "§7Caught with §fObfuscated 1 §7bait.",
       "rate": 20,
       "fillet": {
         "bronze": 40,
