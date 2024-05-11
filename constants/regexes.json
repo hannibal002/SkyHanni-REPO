@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "3bb4b9b",
+  "sourceLabel": "3795618",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -579,6 +579,7 @@
     "slayer.rngmeter.inventoryname.slayer": "Slayer",
     "slayer.rngmeter.update": " {3}§dRNG Meter §f- §d(?\u003cexp\u003e.*) Stored XP",
     "slayer.rngmeter.changeditem": "§aYou set your §r.* RNG Meter §r§ato drop §r.*§a!",
+    "slayer.rngmeter.book.format": "§aEnchanted Book \\((?\u003cname\u003e.*)§a\\)",
     "combat.ghostcounter.skillxp": "[+](?\u003cgained\u003e[0-9,.]+) \\((?\u003ccurrent\u003e[0-9,.]+)(?:/(?\u003ctotal\u003e[0-9,.]+))?\\)",
     "combat.ghostcounter.combatsection": ".*[+](?\u003cgained\u003e[0-9,.]+) (?\u003cskillName\u003e[A-Za-z]+) \\((?\u003cprogress\u003e(?\u003ccurrent\u003e[0-9.,]+)/(?\u003ctotal\u003e[0-9.,]+)|(?\u003cpercent\u003e[0-9.]+)%)\\).*",
     "combat.ghostcounter.killcomboexpired": "§cYour Kill Combo has expired! You reached a (?\u003ccombo\u003e.*) Kill Combo!",
