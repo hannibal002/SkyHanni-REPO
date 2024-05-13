@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "3795618",
+  "sourceLabel": "4fe2010",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -386,6 +386,7 @@
     "dungeon.copilot.blood.door": "§cThe §r§c§lBLOOD DOOR§r§c has been opened!",
     "dungeon.architectsdraft.puzzle.fail.normal": "(?:§c§lPUZZLE FAIL!|§4) §.§.(?\u003cname\u003e\\S*) .*",
     "dungeon.architectsdraft.puzzle.fail.quiz": "§4\\[STATUE] Oruo the Omniscient§r§f: (?:§.)*(?\u003cname\u003e\\S*) (?:§.)*chose the wrong .*",
+    "combat.ferocity.tab": " Ferocity: §r§c⫽(?\u003cstat\u003e.*)",
     "misc.ingametime.date": ".*((Early|Late) )?(Winter|Spring|Summer|Autumn) [0-9]{1,2}(nd|rd|th|st)?.*",
     "slayer.blaze.dagger.attunement": "§cStrike using the §r(.+) §r§cattunement on your dagger!",
     "slayer.blaze.firepillar.entityname": "§6§l(?\u003cseconds\u003e.*)s §c§l8 hits",
