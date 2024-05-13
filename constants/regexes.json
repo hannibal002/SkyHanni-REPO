@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8a7c1e6",
+  "sourceLabel": "8e2d5c0",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -130,7 +130,6 @@
     "features.gui.customscoreboard.scoreboard.combat.bossdamage": "^Your Damage: §c(,?\\d{1,3}(\\.\\d)?)*$",
     "features.gui.customscoreboard.scoreboard.combat.slayerquest": "^Slayer Quest$",
     "features.gui.customscoreboard.scoreboard.misc.essence": "^\\s*.*Essence: §.(?\u003cessence\u003e-?\\d+(:?,\\d{3})*(?:\\.\\d+)?)$",
-    "features.gui.customscoreboard.scoreboard.misc.brokenredstone": "\\s*(?:(?:§.)*⚡ (§.)*Redston|e: (?:§.)*\\d+%)\\s*",
     "features.gui.customscoreboard.scoreboard.misc.redstone": "\\s*(§.)*⚡ §cRedstone: (§.)*\\d{1,3}%$",
     "features.gui.customscoreboard.scoreboard.misc.visiting": "^\\s*§a✌ §7\\(§.\\d+(§.)?/\\d+(§.)?\\)$",
     "features.gui.customscoreboard.scoreboard.misc.flightduration": "^\\s*Flight Duration: §a(:?\\d{1,3})*$",
