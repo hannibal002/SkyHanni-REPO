@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8e2d5c0",
+  "sourceLabel": "45d4bcf",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -150,7 +150,7 @@
     "features.gui.customscoreboard.scoreboard.events.wintereventnextwave": "(§.)*Next Wave: (§.)*(\\d+:\\d+|Soon!)$",
     "features.gui.customscoreboard.scoreboard.events.wintereventwave": "(§.)*Wave \\d+$",
     "features.gui.customscoreboard.scoreboard.events.wintereventmagmaleft": "(§.)*Magma Cubes Left: §.\\d+$",
-    "features.gui.customscoreboard.scoreboard.events.wintereventtotaldmg": "(§.)*Your Total Damage: §.\\d+( §e\\(#\\d+\\)?)?$",
+    "features.gui.customscoreboard.scoreboard.events.wintereventtotaldmg": "(§.)*Your Total Damage: §.\\d+.*$",
     "features.gui.customscoreboard.scoreboard.events.wintereventcubedmg": "(§.)*Your Cube Damage: §.\\d+$",
     "features.gui.customscoreboard.scoreboard.rift.dimension": "^\\s*§fRift Dimension$",
     "features.gui.customscoreboard.scoreboard.rift.hotdogtitle": "^§6Hot Dog Contest$",
