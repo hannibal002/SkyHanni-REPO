@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e101b11",
+  "sourceLabel": "f670fb9",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -170,7 +170,7 @@
     "features.gui.customscoreboard.tablist.eventtimestarts": "^\\s+Starts In: §r§e(?\u003ctime\u003e.*)$",
     "utils.item.lore.rarity.line": "^(?:§.){2,3}(?:.§. (?:§.){4})?(?:SHINY )?(?\u003crarity\u003eCOMMON|UNCOMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|SUPREME|SPECIAL|VERY SPECIAL|ULTIMATE) ?(?:DUNGEON )?(?\u003citemCategory\u003e[^§]*)(?: (?:§.){3}.)?$",
     "utils.item.name.abiphone": ".{2}Abiphone .*",
-    "utils.item.name.enchanted.book": ".{2}?Enchanted Book",
+    "utils.item.name.enchanted.book": "(?:§.)+Enchanted Book",
     "utils.item.name.bait": "^(Obfuscated.*|.* Bait)$",
     "utils.item.neuitems.enchantmentname": "^(?\u003cformat\u003e(?:§.)*)(?\u003cname\u003e[^§]+) (?\u003clevel\u003e[IVXL]+)(?: Book)?$",
     "utils.item.name.potion": ".*Potion",
