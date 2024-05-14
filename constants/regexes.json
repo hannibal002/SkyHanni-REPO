@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "3fc401f",
+  "sourceLabel": "e101b11",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -39,13 +39,15 @@
     "mob.detection.pattern.summon.owner": ".*Spawned by: (?\u003cname\u003e.*).*",
     "mob.detection.displaynpc.name": "[a-z0-9]{10}",
     "armorstand.default": "Armou?r Stand",
-    "warping": "§7Warping...|§7Warping you to your SkyBlock island...|§7Warping using transfer token...|§7Finding player...|§7Sending a visit request...",
+    "data.entity.warping": "§7(?:Warping|Warping you to your SkyBlock island|Warping using transfer token|Finding player|Sending a visit request)\\.\\.\\.",
     "data.skill.actionbar": ".*§3\\+.* (?\u003cskill\u003e.*) \\((?\u003coverflow\u003e.*)/(?\u003cneeded\u003e.*)\\).*",
     "data.skill.inventory": ".* §e(?\u003cnumber\u003e.*)§6/.*",
     "data.skill.actionbarlow": ".*§3+(?\u003cadd\u003e.+) (?\u003cskill\u003e.*) \\((?\u003cpercentage\u003e.*)%\\).*",
     "data.garden.milestone.crop": "§7Harvest §f(?\u003cname\u003e.*) §7on .*",
     "data.garden.milestone.total": "§7Total: §a(?\u003cname\u003e.*)",
     "data.garden.milestonefix.amount": ".*§e(?\u003chaving\u003e.*)§6/§e(?\u003cmax\u003e.*)",
+    "garden.cropupgrades.tier": "§7Current Tier: §.(?\u003clevel\u003e\\d)§7/§a9",
+    "garden.cropupgrades.chatupgrade": "\\s+§r§6§lCROP UPGRADE §e(?\u003ccrop\u003e[\\w ]+)§7 #(?\u003ctier\u003e\\d)",
     "garden.visitor.offersaccepted": "§7Offers Accepted: §a(?\u003coffersAccepted\u003e\\d+)",
     "data.owninventory.chat.movedsacktoinventory": "§aMoved §r§e\\d* (?\u003cname\u003e.*)§r§a from your Sacks to your inventory.",
     "gfs.chat.from": "§aMoved §r§e(?\u003camount\u003e\\d+) (?\u003citem\u003e.+)§r§a from your Sacks to your inventory.",
