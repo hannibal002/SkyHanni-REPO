@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "45d4bcf",
+  "sourceLabel": "3fc401f",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -524,6 +524,7 @@
     "misc.trevor.start.dialogue": "[NPC] Trevor: You will have 10 minutes to find the mob from when you accept the task.",
     "misc.trevor.outoftime": "You ran out of time and the animal disappeared!",
     "misc.trevor.clickoption": "Click an option: §r§a§l\\[YES]§r§7 - §r§c§l\\[NO]",
+    "misc.trevor.area.trappersden": "Trapper\u0027s Den",
     "misc.trevor.selfkill": "§aYour mob died randomly, you are rewarded §r§5(?\u003cpelts\u003e.*) pelts§r§a.",
     "misc.trevor.kill": "§aKilling the animal rewarded you §r§5(?\u003cpelts\u003e.*) pelts§r§a.",
     "bingo.card.tips.card": "Bingo Card",
