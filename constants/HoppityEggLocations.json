@@ -201,6 +201,14 @@
     13,
     39
   ],
+  "rabbitUpgradeCostConstants": {
+    "29": {"base": 360, "multiplier": 1.05},
+    "30": {"base": 1440, "multiplier": 1.05},
+    "31": {"base": 3240, "multiplier": 1.05},
+    "32": {"base": 5760, "multiplier": 1.05},
+    "33": {"base": 9000, "multiplier": 1.05}
+  },
+  "prestigeMultiplier": 0.4,
   "barnIndex": 34,
   "infoIndex": 13,
   "productionInfoIndex": 45,
