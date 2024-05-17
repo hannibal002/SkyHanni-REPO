@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "c7b6a06",
+  "sourceLabel": "d0d6019",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -184,6 +184,7 @@
     "utils.item.sack": ".*Sack",
     "utils.skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
     "utils.tablist.profile": "(?:§.)+Profile: §r§a(?\u003cprofile\u003e[\\w\\s]+[^ §]).*",
+    "utils.inventory.shopoptions": "Shop Trading Options",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
     "garden.plot.barnname": "§.(?\u003cname\u003eThe Barn)",
     "garden.plot.uncleaned": "§7Cleanup: .* (?:§.)*Completed",
@@ -369,6 +370,7 @@
     "misc.chocolatefactory.rabbit.crushed": "§c§lBARN FULL! §f\\D+ §7got §ccrushed§7! §6\\+(?\u003camount\u003e[\\d,]+) Chocolate",
     "misc.chocolatefactory.unclaimedrewards": "§7§aYou have \\d+ unclaimed rewards?!",
     "misc.chocolatefactory.shop.title": "Chocolate Shop",
+    "misc.chocolatefactory.shop.bought": "§aYou bought §r§.(?\u003citem\u003e[\\w ]+)§r(?:§8 x(?\u003camount\u003e\\d+)§r)?§a!",
     "misc.chocolatefactory.egg.found": "§d§lHOPPITY\u0027S HUNT §r§dYou found a §r§.Chocolate (?\u003cmeal\u003e\\w+) Egg §r§d(?\u003cnote\u003e.*)§r§d!",
     "misc.chocolatefactory.egg.noneleft": "§cThere are no hidden Chocolate Rabbit Eggs nearby! Try again later!",
     "misc.chocolatefactory.egg.spawned": "§d§lHOPPITY\u0027S HUNT §r§dA §r§.Chocolate (?\u003cmeal\u003e\\w+) Egg §r§dhas appeared!",
