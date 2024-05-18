@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "dcaeb7a",
+  "sourceLabel": "f378737",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -600,6 +600,8 @@
     "slayer.bosswarning.progress": " \\(?(?\u003cprogress\u003e[0-9.,k]+)/(?\u003ctotal\u003e[0-9.,k]+)\\)?.*",
     "rift.area.stillgore.effegies.respawn": "§eRespawn §c(?\u003ctime\u003e.*) §7\\(or click!\\)",
     "rift.area.stillgore.effegies.heart": "Effigies: (?\u003chearts\u003e((§[7c])?⧯)*)",
+    "combat.bestiary.data.tierprogress": "§7Progress to Tier [\\dIVXC]+: §b[\\d.]+%",
+    "combat.bestiary.data.overallprogress": "§7Overall Progress: §b[\\d.]+%(?: §7\\(§c§lMAX!§7\\))?",
     "combat.bestiary.data.progress": "(?\u003ccurrent\u003e[0-9kKmMbB,.]+)/(?\u003cneeded\u003e[0-9kKmMbB,.]+$)",
     "combat.bestiary.data.title": "^(?:\\(\\d+/\\d+\\) )?(Bestiary|.+) ➜ (.+)$",
     "mining.kingtalisman.king": "§6§lKing (?\u003cname\u003e.*)",
