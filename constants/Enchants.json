@@ -483,7 +483,7 @@
     "sunder": {
       "loreName": "Sunder",
       "nbtName": "sunder",
-      "goodLevel": 5,
+      "goodLevel": 0,
       "maxLevel": 6
     },
     "syphon": {
