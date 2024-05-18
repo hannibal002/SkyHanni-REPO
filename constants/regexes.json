@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "f378737",
+  "sourceLabel": "f8a612d",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -466,6 +466,7 @@
     "bingo.steps.skill": "Obtain level (?\u003clevel\u003e.*) in the (?\u003cskill\u003e.*) Skill.",
     "bingo.steps.crystal.found": " *§r§5§l✦ CRYSTAL FOUND §r§7\\(.§r§7/5§r§7\\)",
     "bingo.minion.name": "(?\u003cname\u003e.*) Minion (?\u003cnumber\u003e.*)",
+    "skyblockguide.highlight.string.isselectoption": "§eSelect an option: .*",
     "garden.inventory.skymart.copper": "§c(?\u003camount\u003e.*) Copper",
     "garden.visitor.visitorarrive": ".* §r§ehas arrived on your §r§bGarden§r§e!",
     "garden.visitor.copper": " §8\\+§c(?\u003camount\u003e.*) Copper",
