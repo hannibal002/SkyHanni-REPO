@@ -183,15 +183,17 @@
     ]
   },
   "rabbitSlots": {
-    "29": 1,
-    "30": 2,
-    "31": 3,
-    "32": 4,
-    "33": 5
+    "28": 1,
+    "29": 2,
+    "30": 3,
+    "31": 4,
+    "32": 5,
+    "33": 6,
+    "34": 7
   },
   "otherUpgradeSlots": [
-    28,
-    34,
+    27,
+    35,
     38,
     39,
     41,
@@ -201,15 +203,15 @@
     13,
     39
   ],
-  "barnIndex": 34,
+  "barnIndex": 35,
   "infoIndex": 13,
   "productionInfoIndex": 45,
   "handCookieIndex": 38,
-  "prestigeIndex": 28,
+  "prestigeIndex": 27,
   "milestoneIndex": 53,
   "leaderboardIndex": 51,
   "timeTowerIndex": 39,
   "shrineIndex": 41,
   "coachRabbitIndex": 42,
-  "maxRabbits": 395
+  "maxRabbits": 457
 }
