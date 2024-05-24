@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6ee6072",
+  "sourceLabel": "623a9d2",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -372,6 +372,8 @@
     "misc.chocolatefactory.shop.title": "Chocolate Shop",
     "misc.chocolatefactory.shop.bought": "§aYou bought §r§.(?\u003citem\u003e[\\w ]+)§r(?:§8 x(?\u003camount\u003e\\d+)§r)?§a!",
     "misc.chocolatefactory.egg.found": "§d§lHOPPITY\u0027S HUNT §r§dYou found a §r§.Chocolate (?\u003cmeal\u003e\\w+) Egg §r§d(?\u003cnote\u003e.*)§r§d!",
+    "misc.chocolatefactory.rabbit.found": "§D§LHOPPITY\u0027S HUNT §7You found (?\u003cname\u003e.*) §7\\((?\u003crarity\u003e.*)§7\\)!",
+    "misc.chocolatefactory.rabbit.found.new": "§d§lNEW RABBIT! §6\\+(?\u003cchocolate\u003e.*) Chocolate §7and §6\\+(?\u003cperSecond\u003e.*)x Chocolate §7per second!",
     "misc.chocolatefactory.egg.noneleft": "§cThere are no hidden Chocolate Rabbit Eggs nearby! Try again later!",
     "misc.chocolatefactory.egg.spawned": "§d§lHOPPITY\u0027S HUNT §r§dA §r§.Chocolate (?\u003cmeal\u003e\\w+) Egg §r§dhas appeared!",
     "misc.chocolatefactory.egg.alreadycollected": "§cYou have already collected this Chocolate (?\u003cmeal\u003e\\w+) Egg§r§c! Try again when it respawns!",
