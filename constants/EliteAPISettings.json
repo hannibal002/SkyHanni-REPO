@@ -1,4 +1,5 @@
 {
-  "refreshTime": 10,
-  "worldSwapRefresh": true
+  "refreshTimeMinutes": 10,
+  "disableFetchingWhenPassed": false,
+  "disableRefreshCommand": false
 }
