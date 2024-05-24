@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a425f95",
+  "sourceLabel": "cb6869c",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -28,7 +28,7 @@
     "dungeon.noblessings": "§r§r§7No Buffs active. Find them by exploring the Dungeon!§r",
     "mob.detection.filter.basic": "(?:\\[\\w+(?\u003clevel\u003e\\d+)\\] )?(?\u003ccorrupted\u003e.Corrupted )?(?\u003cname\u003e[^ᛤ]*)(?: ᛤ)? [\\dBMk.,❤]+",
     "mob.detection.filter.slayer": "^. (?\u003cname\u003e.*) (?\u003ctier\u003e[IV]+) \\d+.*",
-    "mob.detection.filter.boss": "^. (?:\\[Lv(?\u003clevel\u003e\\d+)\\] )?(?\u003cname\u003e[^ᛤ\n]*)(?: ᛤ)?(?: [\\d\\/BMk.,❤]+|█+)? .$",
+    "mob.detection.filter.boss": "^. (?:\\[Lv(?\u003clevel\u003e\\d+)\\] )?(?\u003cname\u003e[^ᛤ\n]*?)(?: ᛤ)?(?: [\\d\\/BMk.,❤]+| █+)? .$",
     "mob.detection.filter.dungeon": "^(?:(?\u003cstar\u003e✯)\\s)?(?:(?\u003cattribute\u003eFlaming|Stormy|Speedy|Fortified|Healthy|Healing|Boomer|Golden|Stealth)\\s)?(?:\\[[\\w\\d]+\\]\\s)?(?\u003cname\u003e[^ᛤ]+)(?: ᛤ)?\\s[^\\s]+$",
     "mob.detection.filter.summon": "^(?\u003cowner\u003e\\w+)\u0027s (?\u003cname\u003e.*) \\d+.*",
     "mob.detection.filter.dojo": "^(?:(?\u003cpoints\u003e\\d+) pts|(?\u003cempty\u003e\\w+))$",
