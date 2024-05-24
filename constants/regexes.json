@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "623a9d2",
+  "sourceLabel": "a425f95",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -499,7 +499,7 @@
     "garden.dicer.pumpkin.rngesus": "§5§lPRAY TO RNGESUS DROP! §r§eDicer dropped §r§[a|9](\\d+)x §r§(aEnchanted|9Polished) Pumpkin§r§e!",
     "garden.jacob.contests.inventory.medal": "§7§7You placed in the (?\u003cmedal\u003e.*) §7bracket!",
     "garden.nextcontest.day": "§aDay (?\u003cday\u003e.*)",
-    "garden.nextcontest.month": "(?\u003cmonth\u003e.*), Year (?\u003cyear\u003e.*)",
+    "garden.nextcontest.month": "(?\u003cmonth\u003e(?:\\w+ )?(?:Summer|Spring|Winter|Autumn)), Year (?\u003cyear\u003e\\d+)",
     "garden.nextcontest.crop": "§(e○|6☘) §7(?\u003ccrop\u003e.*)",
     "garden.armordrops.armor": "(FERMENTO|CROPIE|SQUASH|MELON)_(LEGGINGS|CHESTPLATE|BOOTS|HELMET)",
     "misc.teleportpad.name": "§.✦ §aWarp To (?\u003cname\u003e.*)",
