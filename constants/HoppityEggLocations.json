@@ -216,5 +216,6 @@
   "timeTowerIndex": 39,
   "shrineIndex": 41,
   "coachRabbitIndex": 42,
-  "maxRabbits": 457
+  "maxRabbits": 457,
+  "maxPrestige": 6
 }
