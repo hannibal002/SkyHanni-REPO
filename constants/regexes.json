@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "05d2284",
+  "sourceLabel": "573e845",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -7,6 +7,7 @@
     "data.hypixeldata.playeramount": "^\\s*(?:§.)+Players (?:§.)+\\((?\u003camount\u003e\\d+)\\)\\s*$",
     "data.hypixeldata.playeramount.coop": "^\\s*(?:§.)*Coop (?:§.)*\\((?\u003camount\u003e\\d+)\\)\\s*$",
     "data.hypixeldata.playeramount.guesting": "^\\s*(?:§.)*Guests (?:§.)*\\((?\u003camount\u003e\\d+)\\)\\s*$",
+    "data.hypixeldata.playeramount.dungeonparty": "^\\s*(?:§.)+Party (?:§.)+\\((?\u003camount\u003e\\d+)\\)\\s*$",
     "data.hypixeldata.solo.profile.amount": "^\\s*(?:§.)*Island\\s*$",
     "data.hypixeldata.scoreboard.visiting.amount": "\\s+§.✌ §.\\(§.(?\u003ccurrentamount\u003e\\d+)§./(?\u003cmaxamount\u003e\\d+)\\)",
     "data.hypixeldata.guesting.scoreboard": "SKYBLOCK GUEST",
