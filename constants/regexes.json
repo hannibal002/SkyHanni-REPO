@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "36cea7d",
+  "sourceLabel": "9f4223a",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -231,6 +231,7 @@
     "data.sacks.number": "(?:(?:§[0-9a-f](?\u003clevel\u003eI{1,3})§7:)?|(?:§7Stored:)?) (?\u003ccolor\u003e§[0-9a-f])(?\u003cstored\u003e[0-9.,kKmMbB]+)§7/(?\u003ctotal\u003e\\d+(?:[0-9.,]+)?[kKmMbB]?)",
     "data.sacks.gemstone": " §[0-9a-f](?\u003cgemrarity\u003e[A-z]*): §[0-9a-f](?\u003cstored\u003e\\d+(?:\\.\\d+)?(?:(?:,\\d+)?)+[kKmM]?)(?: §[0-9a-f]\\(\\d+(?:\\.\\d+)?(?:(?:,\\d+)?)+[kKmM]?\\))?",
     "bingo.detection.scoreboard": " §.Ⓑ §.Bingo",
+    "fishing.trophyfishing.armor": "(BRONZE|SILVER|GOLD|DIAMOND)_HUNTER_(HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
     "data.maxwell.chat.power": "§eYou selected the §a(?\u003cpower\u003e.*) §e(power )?for your §aAccessory Bag§e!",
     "data.maxwell.chat.power.unlocked": "§eYour selected power was set to (?:§r)*§a(?\u003cpower\u003e.*)(?:§r)*§e!",
     "data.maxwell.inventory.power": "§7Selected Power: §a(?\u003cpower\u003e.*)",
@@ -355,7 +356,7 @@
     "misc.chocolatefactory.chocolate.thisprestige": "§7Chocolate this Prestige: §6(?\u003camount\u003e[\\d,]+)",
     "misc.chocolatefactory.chocolate.forprestige": "§7§cRequires (?\u003camount\u003e\\w+) Chocolate this.*",
     "misc.chocolatefactory.chocolate.multiplier": "§7Total Multiplier: §6(?\u003camount\u003e[\\d.]+)x",
-    "misc.chocolatefactory.leaderboard.place": "(?:§.)+You are §8#§b(?\u003cposition\u003e[\\d,]+)(?: §7in all-time Chocolate\\.)?",
+    "misc.chocolatefactory.leaderboard.place": "(?:§.)+You are §8#§b(?\u003cposition\u003e[\\d,]+)(?: §7in all-time)?(?: Chocolate\\.)?",
     "misc.chocolatefactory.leaderboard.percentile": "§7§8You are in the top §.(?\u003cpercent\u003e[\\d.]+)%§8 of players!",
     "misc.chocolatefactory.barn.amount": "§7Your Barn: §.(?\u003crabbits\u003e\\d+)§7/§.(?\u003cmax\u003e\\d+) Rabbits",
     "misc.chocolatefactory.timetower.amount": "§7Charges: §.(?\u003cuses\u003e\\d+)§7/§a(?\u003cmax\u003e\\d+)",
@@ -381,7 +382,6 @@
     "misc.chocolatefactory.egg.notevent": "§cThis only works during Hoppity\u0027s Hunt!",
     "misc.chocolatefactory.egg.shared": ".*\\[SkyHanni] (?\u003cmeal\u003e\\w+) Chocolate Egg located at x: (?\u003cx\u003e-?\\d+), y: (?\u003cy\u003e-?\\d+), z: (?\u003cz\u003e-?\\d+)(?: \\((?\u003cnote\u003e.*)\\))?",
     "misc.chocolatefactory.collection.page.current": "\\((?\u003cpage\u003e\\d+)/(?\u003cmaxPage\u003e\\d+)\\) Hoppity\u0027s Collection",
-    "misc.chocolatefactory.collection.rabbit.rarity": "§.§L(?\u003crarity\u003e\\w+) RABBIT",
     "misc.chocolatefactory.collection.duplicates.found": "§7Duplicates Found: §a(?\u003cduplicates\u003e[\\d,]+)",
     "misc.chocolatefactory.collection.rabbit.notfound": "(?:§.)+You (?:have not found this rabbit yet!|cannot find this rabbit until you)",
     "misc.chocolatefactory.collection.rabbits.found": "§.§l§m[ §a-z]+§r §.(?\u003ccurrent\u003e[0-9]+)§./§.(?\u003ctotal\u003e[0-9]+)",
@@ -567,7 +567,6 @@
     "garden.inventory.logbook.page.current": "§ePage (?\u003cpage\u003e\\d)",
     "slayer.autoslayer.bank.chat": "§7Took (?\u003ccoins\u003e.+) coins from your bank for auto-slayer\\.\\.\\.",
     "fishing.tracker.chat.coins": ".* CATCH! §r§bYou found §r§6(?\u003ccoins\u003e.*) Coins§r§b\\.",
-    "fishing.trophyfishing.armor": "(BRONZE|SILVER|GOLD|DIAMOND)_HUNTER_(HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
     "misc.restore.wizard.portal.earned": "§7Earned by:.*",
     "chat.arachne.calling": "§4☄ §r.* §r§eplaced an §r§9Arachne\u0027s Calling§r§e!.*",
     "chat.arachne.crystal": "§4☄ §r.* §r§eplaced an Arachne Crystal! Something is awakening!",
@@ -754,6 +753,7 @@
     "pet.chatdrop.pet.petobtainedmessage": "(?\u003cstart\u003e.*has obtained (?:§.)*\\[Lvl 1] )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*)",
     "inventory.recipe.title": ".* Recipe",
     "garden.pests.tracker.raredrop": "§6§l(?:RARE|PET) DROP! (?:§r)?(?\u003citem\u003e.+) §6\\(§6\\+.*☘\\)",
+    "auction.outbid": "§6\\[Auction].*§eoutbid you by.*§e§lCLICK",
     "test.dev.copyrng.slayer": "§7Slayer XP: §d.*§5/§d(?\u003cxp\u003e.*)",
     "test.dev.copyrng.dungeon": "§7Dungeon Score: §d.*§5/§d(?\u003cxp\u003e.*)",
     "test.bestiary.type": "\\[Lv(?\u003clvl\u003e.*)] (?\u003ctext\u003e.*)"
