@@ -18,7 +18,6 @@
       "Battle Disc",
       "Birch Sapling",
       "Blaze Powder",
-      "Bundle of Magma Arrows",
       "Cobblestone Slab",
       "Condensed Fermento",
       "Corrupted Fragment",
@@ -73,7 +72,8 @@
       "Crown of Greed"
     ],
     "startsWith": [
-      "Music Disc"
+      "Music Disc",
+      "Wisp's Ice-Flavored Water I Splash"
     ],
     "endsWith": [
       " Rune I",
