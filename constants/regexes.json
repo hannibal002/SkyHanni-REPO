@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "573e845",
+  "sourceLabel": "36cea7d",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -73,7 +73,7 @@
     "features.gui.customscoreboard.scoreboard.main.location": "^\\s*(?\u003clocation\u003e(§7⏣|§5ф) .*)$",
     "features.gui.customscoreboard.scoreboard.main.lobbycode": "^\\s*§.((\\d{2}/\\d{2}/\\d{2})|Server closing: [\\d:]+) §8(?\u003ccode\u003e.*)$",
     "features.gui.customscoreboard.scoreboard.main.date": "^\\s*(Late |Early )?(Spring|Summer|Autumn|Winter) \\d{1,2}(st|nd|rd|th)?.*",
-    "features.gui.customscoreboard.scoreboard.main.time": "^\\s*§7\\d{1,2}:\\d{2}(?:am|pm) (?\u003csymbol\u003e(§b☽|§e☀|§.⚡|§.☔)).*$",
+    "features.gui.customscoreboard.scoreboard.main.time": "^\\s*§7\\d{1,2}:\\d{2}(?:am|pm)\\s*(?\u003csymbol\u003e(§b☽|§e☀|§.⚡|§.☔))?.*$",
     "features.gui.customscoreboard.scoreboard.main.footer": "§e(www|alpha).hypixel.net$",
     "features.gui.customscoreboard.scoreboard.main.yearvotes": "(?\u003cyearvotes\u003e^§6Year \\d+ Votes$)",
     "features.gui.customscoreboard.scoreboard.main.votes": "(?\u003cvotes\u003e§[caebd]\\|+(§f)?\\|+ §(.+)$)",
@@ -383,7 +383,7 @@
     "misc.chocolatefactory.collection.page.current": "\\((?\u003cpage\u003e\\d+)/(?\u003cmaxPage\u003e\\d+)\\) Hoppity\u0027s Collection",
     "misc.chocolatefactory.collection.rabbit.rarity": "§.§L(?\u003crarity\u003e\\w+) RABBIT",
     "misc.chocolatefactory.collection.duplicates.found": "§7Duplicates Found: §a(?\u003cduplicates\u003e[\\d,]+)",
-    "misc.chocolatefactory.collection.rabbit.notfound": "(?:§.)+You have not found this rabbit yet!",
+    "misc.chocolatefactory.collection.rabbit.notfound": "(?:§.)+You (?:have not found this rabbit yet!|cannot find this rabbit until you)",
     "misc.chocolatefactory.collection.rabbits.found": "§.§l§m[ §a-z]+§r §.(?\u003ccurrent\u003e[0-9]+)§./§.(?\u003ctotal\u003e[0-9]+)",
     "combat.mobs.spawntime.arachne.fragment": "^☄ [a-z0-9_]{2,22} placed an arachne\u0027s calling! something is awakening! \\(4/4\\)$",
     "combat.mobs.spawntime.arachne.crystal": "^☄ [a-z0-9_]{2,22} placed an arachne crystal! something is awakening!$",
