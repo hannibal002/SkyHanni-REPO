@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "efc71b6",
+  "sourceLabel": "8081f9d",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -750,6 +750,7 @@
     "pet.chatdrop.pet.petfishedmessage": "(?\u003cstart\u003e(?:§.)*GREAT CATCH! (?:§.)*You found a (?:§.)*\\[Lvl 1] )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*)",
     "pet.chatdrop.pet.petclaimedmessage": "(?\u003cstart\u003e(?:§.)*You claimed a )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*You can manage your Pets.*)",
     "pet.chatdrop.pet.petobtainedmessage": "(?\u003cstart\u003e.*has obtained (?:§.)*\\[Lvl 1] )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*)",
+    "pet.chatdrop.pet.oringopattern": "(?\u003cstart\u003e§e\\[NPC] Oringo§f: §b✆ §f§r§8• )§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e Pet)",
     "inventory.recipe.title": ".* Recipe",
     "garden.pests.tracker.raredrop": "§6§l(?:RARE|PET) DROP! (?:§r)?(?\u003citem\u003e.+) §6\\(§6\\+.*☘\\)",
     "auction.outbid": "§6\\[Auction].*§eoutbid you by.*§e§lCLICK",
