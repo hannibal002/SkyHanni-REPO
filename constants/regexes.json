@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9f4223a",
+  "sourceLabel": "efc71b6",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -728,7 +728,6 @@
     "mining.notifications.scrapdrop": "§6§lEXCAVATOR! §r§fYou found a §r§9Suspicious Scrap§r§f!",
     "mining.notifications.goblin.goldspawn": "§6A Golden Goblin has spawned!",
     "mining.notifications.goblin.diamondspawn": "§6A §r§bDiamond Goblin §r§6has spawned!",
-    "mining.notifications.cold.frostbite": "§9§lBRRR! §r§bYou\u0027re freezing! All you can think about is getting out of here to a warm campfire\\.\\.\\.",
     "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!",
     "fishing.totemofcorruption.totemname": "§5§lTotem of Corruption",
     "fishing.totemofcorruption.timeremaining": "§7Remaining: §e(?:(?\u003cmin\u003e\\d+)m )?(?\u003csec\u003e\\d+)s",
