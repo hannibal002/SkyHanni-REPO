@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e058044",
+  "sourceLabel": "5d89d56",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -428,6 +428,7 @@
     "minion.chat.coin": "§aYou received §r§6(.*) coins§r§a!",
     "minion.title": "Minion [^➜]",
     "minion.item.collect": "^§aCollect All$",
+    "commands.viewrecipe": "\\/viewrecipe (?\u003citem\u003e.*)",
     "summoning.mobs.spawn": "§aYou have spawned your (.+) §r§asoul! §r§d\\((\\d+) Mana\\)",
     "summoning.mobs.despawn": "§cYou have despawned your (monster|monsters)!",
     "summoning.mobs.health": "§a§o(.+)\u0027s (.+)§r §[ae]([\\dkm]+)§c❤",
