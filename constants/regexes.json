@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "3b8c54f",
+  "sourceLabel": "23ce43b",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -612,6 +612,7 @@
     "diana.waypoints.party.onlycoords": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.+)§f: §rx: (?\u003cx\u003e[^ ,]+),? y: (?\u003cy\u003e[^ ,]+),? z: (?\u003cz\u003e[^ ,]+)",
     "diana.waypoints.party.inquisitorchecker": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.+)§f: §rA MINOS INQUISITOR has spawned near \\[(?\u003carea\u003e.*)] at Coords (?\u003cx\u003e[^ ]+) (?\u003cy\u003e[^ ]+) (?\u003cz\u003e[^ ]+)",
     "diana.waypoints.died": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.*)§f: §rInquisitor dead!",
+    "diana.waypoints.inquisitor.dug": ".* §r§eYou dug out a §r§2Minos Inquisitor§r§e!",
     "misc.trevor.trapper": "\\[NPC] Trevor: You can find your (?\u003crarity\u003e.*) animal near the (?\u003clocation\u003e.*).",
     "misc.trevor.above": "The target is around (?\u003cheight\u003e.*) blocks above, at a (?\u003cangle\u003e.*) degrees angle!",
     "misc.trevor.below": "The target is around (?\u003cheight\u003e.*) blocks below, at a (?\u003cangle\u003e.*) degrees angle!",
