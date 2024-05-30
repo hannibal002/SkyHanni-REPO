@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a6133f8",
+  "sourceLabel": "3b8c54f",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -103,6 +103,7 @@
     "features.gui.customscoreboard.scoreboard.farming.jacobscontest": "^§eJacob\u0027s Contest$",
     "features.gui.customscoreboard.scoreboard.farming.plot": "\\s*§aPlot §7-.*",
     "features.gui.customscoreboard.scoreboard.mining.powder": "(?:§.)*᠅ (?:§.)(?\u003ctype\u003eGemstone|Mithril|Glacite)(?: Powder)?(?:§.)*:? (?:§.)*(?\u003camount\u003e[\\d,.]*)",
+    "features.gui.customscoreboard.scoreboard.mining.powdergreedy": "(?:§.)*᠅ (?:§.)(?\u003ctype\u003eGemstone|Mithril|Glacite)(?: Powder)?.*$",
     "features.gui.customscoreboard.scoreboard.mining.windcompass": "§9Wind Compass$",
     "features.gui.customscoreboard.scoreboard.mining.windcompassarrow": "( )*((§[a-zA-Z0-9]|[⋖⋗≈])+)( )*((§[a-zA-Z0-9]|[⋖⋗≈])+)?( )*",
     "features.gui.customscoreboard.scoreboard.mining.miningevent": "^Event: §.§L.*$",
