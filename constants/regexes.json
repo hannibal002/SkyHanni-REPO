@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "5d89d56",
+  "sourceLabel": "a6133f8",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -469,6 +469,8 @@
     "misc.chocolatefactory.collection.duplicates.found": "§7Duplicates Found: §a(?\u003cduplicates\u003e[\\d,]+)",
     "misc.chocolatefactory.collection.rabbit.notfound": "(?:§.)+You (?:have not found this rabbit yet!|cannot find this rabbit until you)",
     "misc.chocolatefactory.collection.rabbits.found": "§.§l§m[ §a-z]+§r §.(?\u003ccurrent\u003e[0-9]+)§./§.(?\u003ctotal\u003e[0-9]+)",
+    "misc.chocolatefactory.collection.rabbit.requirement.met": "§a✔ §7Requirement",
+    "misc.chocolatefactory.collection.rabbit.requirement.notmet": "§c✖ §7Requirement.*",
     "combat.mobs.spawntime.arachne.fragment": "^☄ [a-z0-9_]{2,22} placed an arachne\u0027s calling! something is awakening! \\(4/4\\)$",
     "combat.mobs.spawntime.arachne.crystal": "^☄ [a-z0-9_]{2,22} placed an arachne crystal! something is awakening!$",
     "chat.player.death": "§c ☠ §r§7§r§.(?\u003cname\u003e.+)§r§7 (?\u003creason\u003e.+)",
