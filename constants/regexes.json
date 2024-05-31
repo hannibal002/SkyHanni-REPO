@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2e44956",
+  "sourceLabel": "983daf3",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -500,6 +500,7 @@
     "bazaar.cancelledorder.lastamount": "(?:§6coins §7from |§6§7from |§7)§a(?\u003camount\u003e.*)§7x §7missing items\\.",
     "bazaar.cancelledorder.cancelledmessage": "§6\\[Bazaar] §r§7§r§cCancelled! §r§7Refunded §r§6(?\u003ccoins\u003e.*) coins §r§7from cancelling Buy Order!",
     "bazaar.cancelledorder.inventorytitle": "Order options",
+    "bazaar.cancelledorder.lastitemclicked": "§a§lBUY (?\u003cname\u003e.*)",
     "dungeon.croesus.inventory": "Croesus",
     "dungeon.croesus.empty": "§cNo treasures!",
     "dungeon.croesus.kismet.reroll": "§aReroll Chest",
