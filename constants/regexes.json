@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6e75bd6",
+  "sourceLabel": "a5af0b8",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -572,6 +572,7 @@
     "mining.fossilexcavator.chargesremaining": "Chisel Charges Remaining: (?\u003ccharges\u003e\\d+)",
     "mining.fossilexcavator.fossilprogress": "Fossil Excavation Progress: (?\u003cprogress\u003e[\\d.]+%)",
     "inventory.item.overlay.glacitepowder": "Glacite Powder x(?\u003camount\u003e.*)",
+    "mineshaft.corpse.coords": "x: (?\u003cx\u003e-?\\d+), y: (?\u003cy\u003e-?\\d+), z: (?\u003cz\u003e-?\\d+)(?:.+)?",
     "mining.mineshaft.chat.start": " {2}§r§b§l§r§(?\u003ccolor\u003e.)§l(?\u003cname\u003e.*) §r§b§lCORPSE LOOT! ?",
     "mining.mineshaft.chat.end": "§a§l▬{64}",
     "mining.mineshaft.chat.item": " {4}§r(?\u003citem\u003e.+)",
