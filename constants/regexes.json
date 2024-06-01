@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "b0ac1ad",
+  "sourceLabel": "6e75bd6",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -447,6 +447,7 @@
     "misc.chocolatefactory.timetower.status": "§7Status: §.§l(?\u003cstatus\u003eINACTIVE|ACTIVE)(?: §f)?(?\u003cacitveTime\u003e\\w*)",
     "misc.chocolatefactory.timetower.recharge": "§7Next Charge: §a(?\u003cduration\u003e\\w+)",
     "misc.chocolatefactory.rabbit.clickme": "§e§lCLICK ME!",
+    "misc.chocolatefactory.rabbit.clickme.golden": "§6§lGolden Rabbit §8- §a(?\u003cname\u003e.*)",
     "misc.chocolatefactory.rabbit.amount": "Rabbit \\S+ - \\[(?\u003camount\u003e\\d+)].*",
     "misc.chocolatefactory.upgradetier": ".*\\s(?\u003ctier\u003e[IVXLC]+)",
     "misc.chocolatefactory.rabbit.unemployed": "Rabbit \\w+ - Unemployed",
