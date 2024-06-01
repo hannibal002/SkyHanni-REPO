@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "063135f",
+  "sourceLabel": "b0ac1ad",
   "regexes": {
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.serverid.tablist": " Server: §r§8(?\u003cserverid\u003e\\S+)",
@@ -261,7 +261,7 @@
     "mining.hotm.skymall.chat.goblin.chance": "§r§a10x §r§fchance to find Golden and Diamond Goblins\\.",
     "mining.hotm.skymall.item.goblin.chance": "§a10x §7chance to find Golden and",
     "mining.hotm.skymall.chat.titanium": "Gain §r§a5x §r§9Titanium §r§fdrops",
-    "mining.hotm.skymall.item.titanium": "Gain §a\\+15% §7more Powder while mining\\.",
+    "mining.hotm.skymall.item.titanium": "Gain §a5x §9Titanium §7drops\\.",
     "mining.hotm.mayhem.chat.scrap.chance": "Your §r§9Suspicious Scrap §r§7chance was buffed by your §r§aMineshaft Mayhem §r§7perk!",
     "mining.hotm.mayhem.chat.mining.fortune": "You received a §r§a§r§6☘ Mining Fortune §r§7buff from your §r§aMineshaft Mayhem §r§7perk!",
     "mining.hotm.mayhem.chat.mining.speed": "You received a §r§a§r§6⸕ Mining Speed §r§7buff from your §r§aMineshaft Mayhem §r§7perk!",
