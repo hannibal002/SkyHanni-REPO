@@ -805,5 +805,14 @@
       "statLabel": "championCombatXp",
       "stackLevel": [0, 50000, 100000, 250000, 500000, 1000000, 1500000, 2000000, 2500000, 3000000]
     }
+    "toxophilite": {
+      "loreName": "Toxophilite",
+      "nbtName": "toxophilite",
+      "nbtNum": "toxophilite_combat_xp",
+      "goodLevel": 0,
+      "maxLevel": 10,
+      "statLabel": "toxophileCombatXp",
+      "stackLevel": [0, 50000, 100000, 250000, 500000, 1000000, 1500000, 2000000, 2500000, 3000000]
+    }
   }
 }
