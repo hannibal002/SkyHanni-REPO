@@ -12,7 +12,40 @@
     "Fiery": 30,
     "Infernal": 40
   },
+  "lava_fishing_rods": [
+    "STARTER_LAVA_ROD",
+    "INFERNO_ROD",
+    "MAGMA_ROD",
+    "HELLFIRE_ROD"
+  ],
+  "water_fishing_rods": [
+    "FISHING_ROD",
+    "PRISMARINE_ROD",
+    "ICE_ROD",
+    "SPONGE_ROD",
+    "SPEEDSTER_ROD",
+    "FARMER_ROD",
+    "WINTER_ROD",
+    "CHALLENGE_ROD",
+    "CHAMP_ROD",
+    "LEGEND_ROD",
+    "ROD_OF_THE_SEA",
+    "YETI_ROD",
+    "AUGER_ROD",
+    "CHUM_ROD",
+    "GIANT_FISHING_ROD",
+    "THE_SHREDDER",
+    "PHANTOM_ROD"
+  ],
   "enchant_multiplier": {
     "infinite_quiver": 0.03
+  },
+  "book_bundle_amount": {
+    "vicious": 5,
+    "big_brain": 5,
+    "reflection": 3,
+    "quantum": 1,
+    "ultimate_the_one": 1,
+    "rainbow": 1
   }
 }

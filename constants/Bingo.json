@@ -10,70 +10,72 @@
         "Zombies in graveyard do count."
       ]
     },
-    "Goblin's Treasure (Community Goal)": {
-      "difficulty": "Medium",
-      "note": [
-        "Kill Golden Goblins"
-      ],
-      "guide": [
-        "Throw Goblin Eggs that you get from killing Goblins",
-        "or opening chests in the Crystal Hollows",
-        "in the Dwarven Mines and kill what spawns from it."
-      ]
-    },
-    "Hunter (Community Goal)": {
+    "Pet (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Collect pelts"
+        "Gain Pet XP"
       ],
       "guide": [
-        "You should use SkyHanni's Trapper features to make this easier.",
-        "Use /warp trapper to get back to Trevor whenever you want"
+        "You will gain progress here passively",
+        "while going for other grinds.",
+        "§lMake sure to always have a pet active!"
       ]
     },
     "Skilled (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Gain Enchanting experience"
+        "Gain Farming experience"
       ],
       "guide": [
-        "Do your daily experiments in the Experimentation Table,",
-        "always do the highest tier you can."
+        "Farm in the Garden. Remember Crop Milestones",
+        "grant a lot of XP. Carrots can also benefit this",
+        "as you can use pet candies made out of them to",
+        "contribute to another goal."
       ]
     },
-    "Enderman Slayer (Community Goal)": {
+    "Revenant Horror (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Kill Endermen"
+        "Kill t2 Revenant Bosses"
       ],
       "guide": [
-        "Kill Endermen in The End using full Ender Armor ",
-        "and a Void Sword or Dreadlord Sword."
+        "Going for the Slayer Goal will give you",
+        "quite some progress here if you do it",
+        "on your own with Revenant Bosses."
       ]
     },
-    "I Am Speed": {
+    "Cave Commodity (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "200 Speed"
+        "Gain HotM-XP"
       ],
       "guide": [
-        "Talk to Jamie in The Hub and",
-        "claim the Rogue Sword from him.",
-        "Right Click it to gain temporarily +100 Speed."
+        "Do your daily commissions in the Dwarven Mines",
+        "(and Crystal Hollows). Also participate in any",
+        "active event there that you come across."
       ]
     },
-    "Carrot Collector": {
+    "Setting a Trap": {
+      "difficulty": "Easy",
+      "note": [
+        "Kill a trapper Mob"
+      ],
+      "guide": [
+        "Use /warp trapper to accept a quest",
+        "and use SkyHanni's Trapper features",
+        "to make this easier. Bring a bow with you."
+      ]
+    },
+    "Diamond Collector": {
       "difficulty": "Medium",
       "note": [
-        "250k Carrot collection"
+        "52.5k Diamond Collection"
       ],
       "guide": [
-        "Optimal tool:",
-        "Advanced Gardening Hoe (25 copper)",
-        "Make a full plot of carrots (7896 needed)",
-        "in The Garden (SkyBlock Level 5)",
-        "Get the carrots to plant from The Barn",
-        "or from the cave under the mountain in The Hub."
+        "Mine Diamonds in the Mines of Divan",
+        "(HotM 3) or in the carts in the Dwarven Mines.",
+        "You can also passively work on this by using",
+        "Diamond Spreadings in your Minions if you want."
       ]
     },
     "Healthy": {
@@ -87,71 +89,112 @@
         "Applying Growth 5 costs 50 Levels each."
       ]
     },
-    "Exterminator": {
-      "difficulty": "Hard",
-      "note": [
-        "Kill 15k mobs"
-      ],
-      "guide": [
-        "Kill farm animals in the Barn with a Cleaver",
-        "with Cleave 5 and Sharpness 5",
-        "or spiders in Arachne's Burrow (-309 92 -209)",
-        "in the Spider's Den with a Dreadlord Sword.",
-        "You can also kill Endermen in The End to",
-        "get progress towards the Lucky Looter",
-        "and Enderman Slayer Community Goal."
-      ]
-    },
-    "End Stone Collector": {
-      "difficulty": "Easy",
-      "note": [
-        "32.5k End Stone collection"
-      ],
-      "guide": [
-        "Go to The End to mine Ender Nodes and",
-        "kill Nest Mites for Enchanted End Stone.",
-        "You need to be Combat Level 12 to go there."
-      ]
-    },
-    "Dwarves Defender": {
+    "Slayer": {
       "difficulty": "Medium",
       "note": [
-        "Participate in Goblin Raid"
+        "Reach Slayer Level 5"
       ],
       "guide": [
-        "Kill Goblins in the Goblin Burrows (-100 163 150)",
-        "while an event is going on.",
-        "You need Mining Level 12 to visit the required island."
+        "Kill t2 Revenant Horrors to passively",
+        "progress in the Community Goal."
       ]
     },
-    "A Lost Cause": {
-      "difficulty": "Medium",
-      "note": [
-        "Kill a Lost Adventurer"
-      ],
-      "guide": [
-        "Start an Entrance floor and play Mage/Tank/Berserker to use",
-        "the classes abilities to kill a Lost Adventurer.",
-        "You only need to get the last hit",
-        "on it to count, so you can get help from your team.",
-        "You need Combat Level 15 to join a Dungeon."
-      ]
-    },
-    "Dark Oak Wood Collector": {
+    "Spruce Wood Collector": {
       "difficulty": "Hard",
       "note": [
-        "100k Dark Wood collection"
+        "70k Spruce Wood collection"
       ],
       "guide": [
         "Optimal tool:",
         "Golden Axe with Efficiency 5",
         "Reforges: Double-Bit or Lush",
         "Get Haste 3 from a splash to instamine wood",
-        "Forage in the Dark Thicket (-353 103 -23)",
-        "in The Park (/warp park).",
+        "Forage in The Park to get wood for your minions.",
         "Place as many minions as you can",
         "give them a medium storage and the best fuel",
         "you can. Collect them in time."
+      ]
+    },
+    "Mushroom Collector": {
+      "difficulty": "Easy",
+      "note": [
+        "40k Mushroom Collection"
+      ],
+      "guide": [
+        "Use a Silk Touch and Efficiency Golden Axe and",
+        "chop mushroom blocks in the Mushroom Desert."
+      ]
+    },
+    "Extra Storage": {
+      "difficulty": "Hard",
+      "note": [
+        "Craft a Large Storage"
+      ],
+      "guide": [
+        "Optimal tool:",
+        "Golden Axe with Efficiency 5",
+        "Reforges: Double-Bit or Lush",
+        "Get Haste 3 from a splash to instamine wood",
+        "Costs 256 Enchanted Oak Wood to craft and",
+        "unlocks at Oak Wood Collection 9 (30k)."
+      ]
+    },
+    "Pair Up!": {
+      "difficulty": "Medium",
+      "note": [
+        "Find 5 Pairs"
+      ],
+      "guide": [
+        "Get Enchanting Level 10 and play",
+        "the highest experiments in the",
+        "Experimentation Table that you can get."
+      ]
+    },
+    "Zoop!": {
+      "difficulty": "Medium",
+      "note": [
+        "Craft an AotE"
+      ],
+      "guide": [
+        "Kill endermen and mine Nodes for",
+        "Enchanted Ender Pearls. You need them for",
+        "Enchanted Eyes of Ender (32 of those).",
+        "Don't forget to buy your daily Blaze Powder",
+        "from the Alchemist in the Hub."
+      ]
+    },
+    "Quick Reel": {
+      "difficulty": "Medium",
+      "note": [
+        "Summon 3 sea creatures in 75 seconds"
+      ],
+      "guide": [
+        "Fish in The Park and make sure rain is active.",
+        "Do not stand/have your bobber under solid blocks",
+        "as this will slow your speed down by a lot."
+      ]
+    },
+    "Rock Solid": {
+      "difficulty": "Medium",
+      "note": [
+        "Equip an Uncommon or higher tiered Rock Pet"
+      ],
+      "guide": [
+        "You get the Rock Pet from mining ores.",
+        "The Common Rock unlocks at 2.5k broken ores,",
+        "the Uncommon one at 7.5k. You can also upgrade",
+        "your common rock at Kat but this will take a day."
+      ]
+    },
+    "Meiser": {
+      "difficulty": "Easy",
+      "note": [
+        "50k coins in Bank"
+      ],
+      "guide": [
+        "You will get this passively by leveling up",
+        "skills, if you don't forget to put the money",
+        "in your bank ;-)"
       ]
     },
     "Fashionable": {
@@ -161,149 +204,92 @@
       ],
       "guide": [
         "Craft Leather, Iron, Gold and Diamond Armor",
-        "Buy Chainmail Armor from Iron Forger",
         "Collect Ender Armor from The End (8 pieces including equipment)",
         "Craft Leaflet, Farm Suit, Mushroom and Cactus Armor",
         "Buy Squire, Rosetta's, Celeste and Starlight Armor from Rosetta"
       ]
     },
-    "Strongman": {
-      "difficulty": "Medium",
-      "note": [
-        "140 strength"
-      ],
-      "guide": [
-        "Get yourself a splash, equip a Bingo Pet",
-        "and get the cake buff by eating the cakes",
-        "on owocato's, xMeru's or prtl's island.",
-        "If this doesn't finish it, get a Void Sword (200k) in the End",
-        "and hold it while some Ender Armor and/or Equipment."
-      ]
-    },
-    "Topaz Crystal": {
-      "difficulty": "Medium",
-      "note": [
-        "Topaz Crystal"
-      ],
-      "guide": [
-        "Do your daily commissions to unlock the Crystal Hollows ",
-        "at Heart of the Mountain III (do your daily commissions",
-        "for 3 days). Find Bal by asking in chat",
-        "or using Wishing Compasses."
-      ]
-    },
-    "Collecting Data": {
+    "Minion Machine": {
       "difficulty": "Easy",
       "note": [
-        "Bestiary Milestone 3"
+        "25 unique Minions"
       ],
       "guide": [
-        "You will most likely get this passively.",
-        "Use /be ingame to view your progress."
+        "Craft some easy minions while also getting",
+        "those that will help with this Bingo.",
+        "You might wanna go further than that to",
+        "help with other goals."
       ]
     },
-    "Sightseer": {
+    "Taking Flight": {
       "difficulty": "Easy",
       "note": [
-        "7 public islands"
+        "Consume a Magical Mushroom Soup"
       ],
       "guide": [
-        "You can visit all Islands by using the warp command.",
-        "The Hub (/hub), Spider's Den (/warp spider), The End (/warp end),",
-        "Gold Mine (/warp gold), Deep Caverns (/warp deep),",
-        "Farming Isles (/warp barn & /warp desert)",
-        "Remember that some of them require certain skill levels to enter."
+        "You will unlock this while going",
+        "for Mushroom Collector.",
+        "Remember to get the Glowstone Dust",
+        "by buying a Glowstone from The Builder",
+        "and breaking it on your island."
       ]
     },
-    "Bedazzled": {
-      "difficulty": "Medium",
-      "note": [
-        "22 unique Accessories"
-      ],
-      "guide": [
-        "List of more than 22 talismans:",
-        "Buy all 6 Talismans for 26k from the Adventurer in The Hub",
-        "Collection Talismans:",
-        "Night Vision Charm, Farming Talisman, Vaccine Talisman,",
-        "Gravity Talisman,Talisman of Coins, Magnetic Talisman,",
-        "Emerald Ring, Wood Affinity Talisman, Speed Talisman,",
-        "Potion Affinity Talisman",
-        "Other:",
-        "Archaeologists Compass, Shiny Yellow Rock, King Talisman,",
-        "Campfire Initiate Badge, Cat Talisman, Spider Talisman,",
-        "Red Claw Talisman, Candy Talisman, Frozen Chicken,",
-        "New Year Cake Bag, Glacial Talisman (Frozen Treasure).",
-        "Don't forget to take the 4 Bonus accessory bag slots from",
-        "the Redstone Miner, he needs 1920 Redstone in total."
-      ]
-    },
-    "Lumberjack": {
+    "Critical": {
       "difficulty": "Easy",
       "note": [
-        "Foraging 10"
+        "100 Crit Damage"
       ],
       "guide": [
-        "Optimal tool:",
-        "Golden Axe with Efficiency 5",
-        "Reforges: Lumberjack's or Moil",
-        "Get Haste 3 from a splash to instamine wood",
-        "You will most likely get this while",
-        "going for Dark Oak Wood Collector."
+        "Reforge your Void Sword to Sharp",
+        "at the Blacksmith in the Hub (-28 69 -125),",
+        "or enchant any weapon with Critical 5 (costs 50 Levels).",
+        "You might also get it from receiving a Splash."
       ]
     },
-    "The Green Gold": {
-      "difficulty": "Medium",
-      "note": [
-        "Emerald Ring"
-      ],
-      "guide": [
-        "Mine emeralds in the Dwarven Mines minecarts above the Bank.",
-        "Requires 32 Enchanted Emeralds and Emerald Collection 5 to craft."
-      ]
-    },
-    "Powder Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "25k Mithril Powder"
-      ],
-      "guide": [
-        "Open chests in the Crystal Hollows (Heart of the Mountain III),",
-        "do commissions in The Dwarven Mines,",
-        "claim your daily powder from the Puzzler and",
-        "from giving Fetchur the items he asks for.",
-        "Fetchurs items are all listed in the Wiki.",
-        "Try to do those while a '2x Powder' event is active."
-      ]
-    },
-    "Relic Researcher": {
-      "difficulty": "Medium",
-      "note": [
-        "28 Relics"
-      ],
-      "guide": [
-        "You can find Relic Coordinates in Skytils or the Wiki.",
-        "You will need Ender Pearls to reach some of them."
-      ]
-    },
-    "Pair Up!": {
+    "Carry-On": {
       "difficulty": "Easy",
       "note": [
-        "Use Experimentation Table"
+        "Craft a Small Backpack"
       ],
       "guide": [
-        "Get Enchanting Level 10 and play",
-        "the first tier in the Experimentation Table."
+        "Kill Cows in The Barn to unlock this",
+        "and craft it using the materials you",
+        "got along the way."
       ]
     },
-    "Experienced": {
-      "difficulty": "Medium",
+    "Titanic Reforger": {
+      "difficulty": "Easy",
       "note": [
-        "Titanic Experience Bottle"
+        "Apply the Titanic reforge"
       ],
       "guide": [
-        "Mine Ender Nodes in The End until you get one.",
-        "It has a 1.31% chance to drop from the Obsidian Nodes.",
-        "You need Combat Level 12 to get there."
+        "Apply it to an armor piece using the Blacksmith.",
+        "This can take quite some time and money",
+        "as it is RNG based."
+      ]
+    },
+    "Skill Average": {
+      "difficulty": "Hard",
+      "note": [
+        "Skill Average of 17"
+      ],
+      "guide": [
+        "To help with this, try to make bigger crafts",
+        "by hand for Carpentry levels. Don't forget",
+        "to do some Alchemy with Materials gathered from the Garden.",
+        "Also do your daily experiments and make sure",
+        "to have a pet active at all times",
+        "(any pet works, even level 100)."
+      ]
+    },
+    "The Dragon Bow": {
+      "difficulty": "Medium",
+      "note": [
+        "Obtain the Dragon Shortbow"
+      ],
+      "guide": [
+        "Follow the Lone Adventurers quest in The End",
+        "until you get the Bow."
       ]
     }
   }

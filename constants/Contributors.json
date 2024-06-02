@@ -1,0 +1,126 @@
+{
+  "contributors": {
+    "Alea1337": {},
+    "appable": {},
+    "CalMWolfs": {
+      "suffix": "§e:)",
+      "spinny": true,
+      "upsideDown": true
+    },
+    "catgirlseraid": {
+      "suffix": "§d:3",
+      "spinny": true,
+      "upsideDown": true
+    },
+    "cimbraien": {},
+    "Conutik": {
+      "suffix": "§c§lツ"
+    },
+    "Cuz_Im_Clicks": {},
+    "Eisengolem": {},
+    "Empa_": {
+      "suffix": "§d:3"
+    },
+    "Erymanthus": {},
+    "Fix3dll": {},
+    "Frost19": {},
+    "Gillsplash": {},
+    "hannibal2": {
+      "suffix": "§3§l:O"
+    },
+    "HiZe_": {
+      "suffix": "§5§l:3",
+      "spinny": true,
+      "upsideDown": true
+    },
+    "Jordyrat": {
+      "suffix": "§d;3"
+    },
+    "JTAG": {},
+    "Ke5o": {},
+    "lrg89": {
+      "suffix": "§Z<3",
+      "upsideDown": true
+    },
+    "martimavocado": {},
+    "Mikecraft1224": {},
+    "NetheriteMiner": {},
+    "Obsidianninja11": {
+      "suffix": "§z(:"
+    },
+    "owoLuna": {
+      "suffix": "§d:3"
+    },
+    "oxsss": {},
+    "ReyMaratov": {},
+    "RobotHanzo": {
+      "suffix": "§6§l:P"
+    },
+    "Skirtwearer": {
+      "suffix": "§d:3"
+    },
+    "Skyblock_Lobby": {},
+    "SkyHanni": {
+      "suffix": "§3§l:O",
+      "spinny": true,
+      "upsideDown": true,
+      "alt from": "hannibal2"
+    },
+    "ThatGravyBoat": {
+      "suffix": "§d:3",
+      "spinny": true,
+      "upsideDown": true
+    },
+    "thisiscad": {},
+    "Throwpo": {
+      "suffix": "§b:§dO",
+      "spinny": true,
+      "upsideDown": true
+    },
+    "Thunderblade73": {},
+    "Vahvl": {
+      "suffix": "§d:3"
+    },
+    "Vixid": {},
+    "Wambux": {},
+    "whalker": {
+      "suffix": "§Z§l:D"
+    },
+    "Wolfie586": {
+      "suffix": "§e:]",
+      "spinny": true,
+      "upsideDown": true,
+      "alt from": "CalMWolfs"
+    },
+    "Zickles": {},
+    "Biscut": {
+      "spinny": true,
+      "external_mod": "SBA"
+    },
+    "Pinpointed": {
+      "spinny": true,
+      "upsideDown": true,
+      "external_mod": "SBA"
+    },
+    "Berded": {
+      "spinny": true,
+      "upsideDown": true,
+      "external_mod": "SBA"
+    },
+    "Potat_owo": {
+      "spinny": true,
+      "upsideDown": true,
+      "external_mod": "SBA"
+    },
+    "Pnda__": {
+      "spinny": true,
+      "upsideDown": true,
+      "external_mod": "SBA"
+    },
+    "StopUsingSBE": {
+      "spinny": true,
+      "upsideDown": true,
+      "external_mod": "SBA"
+    }
+  }
+}

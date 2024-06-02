@@ -1,8 +1,8 @@
 {
+  "_": "The list below is an ALLOWLIST for NPC sell. It was named misleadingly when added, and renaming it now would break things.",
   "hide_npc_sell": {
     "equals": [
       "Ancient Claw",
-      "Arack",
       "Arachne's Belt",
       "Arachne's Boots",
       "Arachne's Chestplate",
@@ -11,15 +11,23 @@
       "Arachne's Helmet",
       "Arachne's Leggings",
       "Arachne's Necklace",
+      "Arack",
       "Ascension Rope",
       "Azure Bluet",
       "Bag of Gold",
+      "Battle Disc",
       "Birch Sapling",
       "Blaze Powder",
-      "Bundle of Magma Arrows",
       "Cobblestone Slab",
+      "Condensed Fermento",
       "Corrupted Fragment",
       "Defuse Kit",
+      "Doubloon of the Family",
+      "Enchanted Brown Mushroom",
+      "Enchanted Golden Apple",
+      "Enchanted Red Mushroom",
+      "Enchanted Sugar",
+      "Enchanted Wool",
       "Ender Belt",
       "Ender Boots",
       "Ender Chestplate",
@@ -28,19 +36,17 @@
       "Ender Helmet",
       "Ender Leggings",
       "Ender Necklace",
-      "Enchanted Golden Apple",
-      "Enchanted Wool",
       "Endstone Rose",
       "Fairy's Fedora",
       "Fairy's Galoshes",
       "Fairy's Polo",
       "Fairy's Trousers",
       "Fermento",
-      "Golden Apple",
       "Goblin Boots",
       "Goblin Chestplate",
       "Goblin Helmet",
       "Goblin Leggings",
+      "Golden Apple",
       "Healing VIII Splash Potion",
       "Ice Rod",
       "Journal Entry",
@@ -54,19 +60,24 @@
       "Spruce Wood Plank",
       "Spruce Wood Slab",
       "Stone Brick Slab",
+      "Sulphur",
       "Superboom TNT",
       "Toxic Arrow Poison",
       "Training Weights",
       "Tripwire Hook",
       "Twilight Arrow Poison",
       "White Wool",
-      "Wishing Compass"
+      "Winter Disc",
+      "Wishing Compass",
+      "Crown of Greed"
     ],
     "startsWith": [
-      "Music Disc"
+      "Music Disc",
+      "Wisp's Ice-Flavored Water I Splash"
     ],
     "endsWith": [
-      " Rune I"
+      " Rune I",
+      " Vinyl"
     ]
   },
   "hide_in_storage": {
@@ -74,7 +85,8 @@
       "Basket of Seeds",
       "Builder's Ruler",
       "Builder's Wand",
-      "Nether Wart Pouch"
+      "Nether Wart Pouch",
+      "Trick or Treat Bag"
     ],
     "startsWith": [],
     "endsWith": [
@@ -128,7 +140,8 @@
       "Zombie Commander",
       "Zombie Knight",
       "Zombie Soldier",
-      "Skeletor"
+      "Skeletor",
+      "Snow Suit"
     ],
     "items": [
       "Blade of the Volcano",
@@ -158,7 +171,13 @@
       "Arack",
       "Spider Talisman",
       "Ice Rod",
-      "Yeti Rod"
+      "Yeti Rod",
+      "Luxurious Spool",
+      "Pickonimbus 2000",
+      "Handy Blood Chalice",
+      "Pocket Espresso Machine",
+      "Glacial Talisman",
+      "Tarantula Talisman"
     ]
   }
 }

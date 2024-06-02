@@ -1,0 +1,49 @@
+{
+  "arrows": {
+    "NONE": {
+      "arrow": "None"
+    },
+    "SLIME_BALL": {
+      "arrow": "Slime Ball"
+    },
+    "PRISMARINE_SHARD": {
+      "arrow": "Prismarine Shard"
+    },
+    "ARROW": {
+      "arrow": "Flint Arrow"
+    },
+    "REINFORCED_IRON_ARROW": {
+      "arrow": "Reinforced Iron Arrow"
+    },
+    "GOLD_TIPPED_ARROW": {
+      "arrow": "Gold-tipped Arrow"
+    },
+    "REDSTONE_TIPPED_ARROW": {
+      "arrow": "Redstone-tipped Arrow"
+    },
+    "EMERALD_TIPPED_ARROW": {
+      "arrow": "Emerald-tipped Arrow"
+    },
+    "BOUNCY_ARROW": {
+      "arrow": "Bouncy Arrow"
+    },
+    "ICY_ARROW": {
+      "arrow": "Icy Arrow"
+    },
+    "ARMORSHRED_ARROW": {
+      "arrow": "Armorshred Arrow"
+    },
+    "EXPLOSIVE_ARROW": {
+      "arrow": "Explosive Arrow"
+    },
+    "GLUE_ARROW": {
+      "arrow": "Glue Arrow"
+    },
+    "NANSORB_ARROW": {
+      "arrow": "Nansorb Arrow"
+    },
+    "MAGMA_ARROW": {
+      "arrow": "Magma Arrow"
+    }
+  }
+}

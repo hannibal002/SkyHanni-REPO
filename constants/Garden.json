@@ -815,9 +815,7 @@
     },
     "Jerry": {
       "rarity": "legendary",
-      "need_items": [],
-      "mode": "dynamic",
-      "skinOrType": "EntityVillager"
+      "need_items": []
     },
     "Jotraeline Greatforge": {
       "rarity": "uncommon",
@@ -997,7 +995,8 @@
     "Royal Resident": {
       "rarity": "rare",
       "need_items": [
-        "Wheat"
+        "Wheat",
+        "Sugar Cane"
       ],
       "mode": "mining_3",
       "position": "63:204:200",
@@ -1157,6 +1156,7 @@
     "CROPIE": 2500.0,
     "SQUASH": 10000.0,
     "FERMENTO": 20000.0,
+    "FLOWERING_BOUQUET": 6000.0,
     "WHEAT": 1.0,
     "CARROT_ITEM": 0.29,
     "POTATO_ITEM": 0.33,
