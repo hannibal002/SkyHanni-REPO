@@ -29,7 +29,9 @@
       "suffix": "§3§l:O"
     },
     "HiZe_": {
-      "suffix": "§d:3"
+      "suffix": "§5§l:3",
+      "spinny": true,
+      "upsideDown": true
     },
     "Jordyrat": {
       "suffix": "§d;3"
