@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "0d28849",
+  "sourceLabel": "eb4ab6e",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -503,8 +503,11 @@
     "inventory.supercrafting.craft.new": "§eYou Supercrafted §r§r§r§.(?\u003citem\u003e[^§]+)(?:§r§8x(?\u003camount\u003e[\\d,]+))?§r§e!",
     "item.abilities.cooldown.alignedother": "§eYou aligned §r§a.* §r§eother player(s)?!",
     "item.abilities.cooldown.buffedyourself": "§aYou buffed yourself for §r§c\\+\\d+❁ Strength",
+    "mayorapi.calendar.gui": "Calendar and Events",
     "mayorapi.election.over": "§eThe election room is now closed\\. Clerk Seraphine is doing a final count of the votes\\.\\.\\.",
     "mayorapi.foxy.extraevent": "Schedules an extra §.(?\u003cevent\u003e.*) §.event during the year\\.",
+    "mayorapi.jerry.head": "§dMayor Jerry",
+    "mayorapi.perkpocalypse": "§9Perkpocalypse Perks:",
     "mineshaft.corpse.coords": "x: (?\u003cx\u003e-?\\d+), y: (?\u003cy\u003e-?\\d+), z: (?\u003cz\u003e-?\\d+)(?:.+)?",
     "mining.commission.inventory": "Commissions",
     "mining.commissions.complete": "§a§l(?\u003cname\u003e.*) §r§eCommission Complete! Visit the King §r§eto claim your rewards!",
