@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "eb4ab6e",
+  "sourceLabel": "5a04ad2",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -391,6 +391,12 @@
     "garden.farming.contest.crop": "§8(?\u003ccrop\u003e.*) Contest",
     "garden.farming.contest.sidebarcrop": "\\s*(?:§e○|§6☘) §f(?\u003ccrop\u003e.*) §a.*",
     "garden.farming.contest.time": "§a(?\u003cmonth\u003e.*) (?\u003cday\u003e.*)(?:rd|st|nd|th), Year (?\u003cyear\u003e.*)",
+    "garden.ff.carrolyn.complete.carrot": "CARROTS EXPORTATION COMPLETE!",
+    "garden.ff.carrolyn.complete.cocoa.beans": "CHOCOLATE BARS EXPORTATION COMPLETE!",
+    "garden.ff.carrolyn.complete.pumpkin": "PUMPKINS EXPORTATION COMPLETE!",
+    "garden.ff.carrolyn.thx.carrot": "[NPC] Carrolyn: Thank you for the carrots.",
+    "garden.ff.carrolyn.thx.cocoa.beans": "[NPC] Carrolyn: Thank you for the chocolate.",
+    "garden.ff.carrolyn.thx.pumpkin": "[NPC] Carrolyn: Thank you for the pumpkins.",
     "garden.fortunedisplay.armorability": "Tiered Bonus: .* [(](?\u003cpieces\u003e.*)/4[)]",
     "garden.fortunedisplay.armorabilityfortune": "§7.*§7Grants §6(?\u003cbonus\u003e.*)☘.*",
     "garden.fortunedisplay.collection": "§7You have §6\\+(?\u003cff\u003e\\d{1,3})☘ .*",
