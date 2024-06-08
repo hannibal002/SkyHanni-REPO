@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "79d0cd3",
+  "sourceLabel": "b649c90",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -254,6 +254,12 @@
     "event.winter.uniqugifts.counter.amount": "§7Unique Players Gifted: §a(?\u003camount\u003e.*)",
     "fame.projects.completed": "§aProject is (?:being built|released)!",
     "fame.projects.contribute": "§7Contribute again: §e(?\u003ctime\u003e.*)",
+    "fame.upgrades.account": "§8Account Upgrade",
+    "fame.upgrades.claimed": "§eYou claimed the §r§a(?\u003cupgrade\u003e.+) §r§eupgrade!",
+    "fame.upgrades.duration": "§8Duration: (?\u003cduration\u003e.+)",
+    "fame.upgrades.profile": "§8Profile Upgrade",
+    "fame.upgrades.started": "§eYou started the §r§a(?\u003cupgrade\u003e.+) §r§eupgrade!",
+    "fame.upgrades.upgrade": "§eClick to start upgrade!",
     "features.gui.customscoreboard.scoreboard.combat.bossdamage": "^Your Damage: §c(,?\\d{1,3}(\\.\\d)?)*$",
     "features.gui.customscoreboard.scoreboard.combat.bosshp": "^(Protector|Dragon) HP: §a(,?\\d{1,3})* §c❤$",
     "features.gui.customscoreboard.scoreboard.combat.broodmother": "^§4Broodmother§7: §[e64](Slain|Dormant|Soon|Awakening|Imminent|Alive!)$",
