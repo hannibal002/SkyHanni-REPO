@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "b649c90",
+  "sourceLabel": "853464d",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -692,8 +692,10 @@
     "misc.chocolatefactory.collection.duplicates.found": "§7Duplicates Found: §a(?\u003cduplicates\u003e[\\d,]+)",
     "misc.chocolatefactory.collection.page.current": "\\((?\u003cpage\u003e\\d+)/(?\u003cmaxPage\u003e\\d+)\\) Hoppity\u0027s Collection",
     "misc.chocolatefactory.collection.rabbit.notfound": "(?:§.)+You (?:have not found this rabbit yet!|cannot find this rabbit until you)",
+    "misc.chocolatefactory.collection.rabbit.requirement.location": "Find 15 unique egg locations in (the )?(?\u003clocation\u003e.*)\\..*",
     "misc.chocolatefactory.collection.rabbit.requirement.met": "§a✔ §7Requirement",
     "misc.chocolatefactory.collection.rabbit.requirement.notmet": "§c✖ §7Requirement.*",
+    "misc.chocolatefactory.collection.rabbit.requirement.notmet.amount": "§c✖ §7Requirement §e(?\u003cacquired\u003e[\\d,]+)§7/§a(?\u003crequired\u003e[\\d,]+)",
     "misc.chocolatefactory.collection.rabbits.found": "§.§l§m[ §a-z]+§r §.(?\u003ccurrent\u003e[0-9]+)§./§.(?\u003ctotal\u003e[0-9]+)",
     "misc.chocolatefactory.egg.alreadycollected": "§cYou have already collected this Chocolate (?\u003cmeal\u003e\\w+) Egg§r§c! Try again when it respawns!",
     "misc.chocolatefactory.egg.found": "§d§lHOPPITY\u0027S HUNT §r§dYou found a §r§.Chocolate (?\u003cmeal\u003e\\w+) Egg §r§d(?\u003cnote\u003e.*)§r§d!",
