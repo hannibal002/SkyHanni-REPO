@@ -1,4 +1,10 @@
 {
+  "sackItemMappings": {
+    "BUILDER_BROWN_MUSHROOM": "BROWN_MUSHROOM",
+    "HAY_BALE": "HAY_BLOCK",
+    "SULPHUR": "GUNPOWDER"
+  },
+
   "_": "The sackList is deprecated since 0.23",
   "sackList": [
     "Wheat",
