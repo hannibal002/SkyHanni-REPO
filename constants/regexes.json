@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a7ecc57",
+  "sourceLabel": "cc62938",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -517,6 +517,8 @@
     "inventory.recipe.title": ".* Recipe",
     "inventory.statstuning.points": "§7Stat has: §e(?\u003camount\u003e\\d+) points?",
     "inventory.supercrafting.craft.new": "§eYou Supercrafted §r§r§r§.(?\u003citem\u003e[^§]+)(?:§r§8x(?\u003camount\u003e[\\d,]+))?§r§e!",
+    "inventory.wardrobe.equippedslot": "§7Slot \\d+: §aEquipped",
+    "inventory.wardrobe.inventory.name": "Wardrobe \\((?\u003ccurrentPage\u003e\\d+)/\\d+\\)",
     "item.abilities.cooldown.alignedother": "§eYou aligned §r§a.* §r§eother player(s)?!",
     "item.abilities.cooldown.buffedyourself": "§aYou buffed yourself for §r§c\\+\\d+❁ Strength",
     "mayorapi.calendar.gui": "Calendar and Events",
