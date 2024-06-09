@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "60db3c6",
+  "sourceLabel": "a8222b7",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -462,6 +462,10 @@
     "garden.vinyl.unselect": "§aYou are no longer playing §r§e.*§r§a!",
     "garden.visitor.api.visitor.count": "§b§lVisitors: §r§f\\((?\u003cinfo\u003e.*)\\)",
     "garden.visitor.api.visitor.name": " (?:§.)+(?\u003cname\u003e§.[^§]+).*",
+    "garden.visitor.compact.disregardrewardname": "^(Copper|Farming XP|Farming Experience|Garden Experience|Bits)$",
+    "garden.visitor.compact.fullyaccepted": "§6§lOFFER ACCEPTED §8with (?\u003ccolor\u003e§.)?(?\u003cname\u003e.*) §8\\((?\u003crarity\u003e.*)\\)",
+    "garden.visitor.compact.rewardstext": "^ {2}§a§lREWARDS",
+    "garden.visitor.compact.visitorreward": "^ {4}(?:(?:§.)+\\+)?(?:(?\u003camountcolor\u003e§.)(?\u003camount\u003e[\\d,]+(?:\\.?(?:\\d)?k)?)x? )?(?:(?\u003crewardcolor\u003e(?:§.)+)?(?\u003creward\u003e.*?))(?: (?:(?:§.)?)?x(?\u003caltamount\u003e\\d+))?$",
     "garden.visitor.copper": " §8\\+§c(?\u003camount\u003e.*) Copper",
     "garden.visitor.droptracker.accept": "OFFER ACCEPTED with (?\u003cvisitor\u003e.*) [(](?\u003crarity\u003e.*)[)]",
     "garden.visitor.droptracker.bits": "[+](?\u003camount\u003e.*) Bits",
