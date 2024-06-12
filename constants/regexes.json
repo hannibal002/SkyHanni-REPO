@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "cc62938",
+  "sourceLabel": "830d3fe",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -91,7 +91,7 @@
     "data.chat.player.party": "§9Party §8\u003e (?\u003cauthor\u003e[^:]*)§f: (?\u003cmessage\u003e.*)",
     "data.chat.player.privateislandguest": "(?\u003cprefix\u003e.*)(?\u003cguest\u003e§a\\[✌] )(?\u003csuffix\u003e.*)",
     "data.chat.player.privateislandrank": "(?\u003cprefix\u003e.*?)(?\u003cprivateIslandRank\u003e§.\\[(?!MVP(§.\\++)?§.]|VIP\\+*|YOU§.TUBE|ADMIN|MOD|GM)[^]]+\\]) (?\u003csuffix\u003e.*)",
-    "data.chat.player.privatemessage": "^(?!§eFrom stash: §r)(?\u003cdirection\u003eFrom|To) (?\u003cauthor\u003e[^:]*): (?\u003cmessage\u003e.*)",
+    "data.chat.player.privatemessage": "^(?!From stash: )(?\u003cdirection\u003eFrom|To) (?\u003cauthor\u003e[^:]*): (?\u003cmessage\u003e.*)",
     "data.collection.api.counter": ".* §e(?\u003camount\u003e.*)§6/.*",
     "data.collection.api.singlecounter": "§7Total Collected: §e(?\u003camount\u003e.*)",
     "data.collection.api.tierzero": "§7Progress to .* I: .*",
