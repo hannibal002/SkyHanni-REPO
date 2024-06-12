@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4b3caa4",
+  "sourceLabel": "637fd3b",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -413,6 +413,7 @@
     "garden.fortunedisplay.tooltip.new": "^§7Farming Fortune: §a\\+(?\u003cdisplay\u003e[\\d.]+)(?: §2\\(\\+\\d\\))?(?: §9\\(\\+(?\u003creforge\u003e\\d+)\\))?(?: §d\\(\\+(?\u003cgemstone\u003e\\d+)\\))?$",
     "garden.fortuneguide.capture.anitabuff": "You tiered up the Extra Farming Drops upgrade to [+](?\u003clevel\u003e.*)%!",
     "garden.fortuneguide.capture.anitamenu": "§7You have: §6\\+(?\u003clevel\u003e.*)☘ Farming Fortune",
+    "garden.fortuneguide.capture.bestiary": ".*§6+(?\u003cfortune\u003e.*)☘ Farming Fortune.*",
     "garden.fortuneguide.capture.cake": "(?:Big )?Yum! You (?:gain|refresh) [+]5☘ Farming Fortune for 48 hours!",
     "garden.fortuneguide.capture.farminglevel": "SKILL LEVEL UP Farming .*➜(?\u003clevel\u003e.*)",
     "garden.fortuneguide.capture.fortuneupgrade": "You claimed the Garden Farming Fortune (?\u003clevel\u003e.*) upgrade!",
