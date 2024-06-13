@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1d35ee7",
+  "sourceLabel": "a2d17be",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -229,6 +229,7 @@
     "dungeon.race.active": "§.§.(?\u003crace\u003e[\\w ]+) RACE §.[\\d:.]+",
     "dungeon.room": "§7\\d+\\/\\d+\\/\\d+ §\\w+ (?\u003croomId\u003e[\\w,-]+)",
     "dungeon.tablist.rank": "^(?:§.)*(?\u003csbLevel\u003e\\[(?:§.)*\\d+(?:§.)*]) (?\u003crank\u003e(?:§.)*\\[(?:§.)*[^]]+(?:§.)*])? ?(?\u003cplayerName\u003e\\S+) (?\u003csymbols\u003e[^(]*)\\((?:§.)*(?\u003cclassName\u003e\\S+) (?\u003cclassLevel\u003e[CLXVI]+)(?:§.)*\\)(?:§.)*$",
+    "dungeon.time": "Time Elapsed: §.(?:(?\u003cminutes\u003e\\d+)m )?(?\u003cseconds\u003e\\d+)s",
     "event.diana.mythological.tracker.gaiaconstruct": ".* §r§eYou dug out a §r§2Gaia Construct§r§e!",
     "event.diana.mythological.tracker.minoschampion": ".* §r§eYou dug out a §r§2Minos Champion§r§e!",
     "event.diana.mythological.tracker.minoshunter": ".* §r§eYou dug out a §r§2Minos Hunter§r§e!",
