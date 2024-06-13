@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9d39130",
+  "sourceLabel": "045c397",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -569,6 +569,7 @@
     "mining.hotm.mayhem.chat.mining.fortune": "You received a §r§a§r§6☘ Mining Fortune §r§7buff from your §r§aMineshaft Mayhem §r§7perk!",
     "mining.hotm.mayhem.chat.mining.speed": "You received a §r§a§r§6⸕ Mining Speed §r§7buff from your §r§aMineshaft Mayhem §r§7perk!",
     "mining.hotm.mayhem.chat.scrap.chance": "Your §r§9Suspicious Scrap §r§7chance was buffed by your §r§aMineshaft Mayhem §r§7perk!",
+    "mining.hotm.perk.cost": "(?:§.)*§7Cost",
     "mining.hotm.perk.disabled": "§c§lDISABLED|§7§eClick to select!",
     "mining.hotm.perk.enable": "§a§lENABLED|(§.)*SELECTED",
     "mining.hotm.perk.level": "§(?\u003ccolor\u003e.)Level (?\u003clevel\u003e\\d+).*",
