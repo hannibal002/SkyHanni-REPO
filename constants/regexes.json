@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "c2a3de4",
+  "sourceLabel": "9d39130",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -50,6 +50,8 @@
     "chat.jacobevent.accessory": "§e\\[NPC] Jacob§f: §rYour §9Anita\u0027s \\w+ §fis giving you §6\\+\\d{1,2}☘ .+ Fortune §fduring the contest!",
     "chat.player.death": "§c ☠ §r§7§r§.(?\u003cname\u003e.+)§r§7 (?\u003creason\u003e.+)",
     "chat.skymall.perk": "§eNew buff§r§r§r:(.*)",
+    "clicktoset": "§7§eClick to set the location of this NPC!",
+    "clicktospawn": "§elocation!",
     "combat.bestiary.data.overallprogress": "§7Overall Progress: §b[\\d.]+%(?: §7\\(§c§lMAX!§7\\))?",
     "combat.bestiary.data.progress": "(?\u003ccurrent\u003e[0-9kKmMbB,.]+)/(?\u003cneeded\u003e[0-9kKmMbB,.]+$)",
     "combat.bestiary.data.tierprogress": "§7Progress to Tier [\\dIVXC]+: §b[\\d.]+%",
