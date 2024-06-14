@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a2d17be",
+  "sourceLabel": "1501e1d",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -903,7 +903,7 @@
     "tab.widget.enum.gems": "\\s*Gems: (?:§.)*(?\u003cgems\u003e.*)",
     "tab.widget.enum.guests": "\\s*(?:§.)*Guests (?:§.)*.*",
     "tab.widget.enum.info": "\\s*(?:§.)*Info",
-    "tab.widget.enum.interest": "\\s*Interest: (?:§.)*(?\u003ctime\u003e[^§]+)(?:§.)* \\((?\u003camount\u003e[^)]+)\\)",
+    "tab.widget.enum.interest": "\\s*Interest: (?:§.)*(?\u003ctime\u003e[^§]+)(?:§.)*( \\((?\u003camount\u003e[^)]+)\\))?",
     "tab.widget.enum.jacob.contest": "\\s*(?:§.)*Jacob\u0027s Contest:.*",
     "tab.widget.enum.jerry.island.closing": "\\s*Island closes in: (?:§.)*(?\u003ctime\u003e.*)",
     "tab.widget.enum.minion": "\\s*(?:§.)*Minions: (?:§.)*(?\u003cused\u003e\\d+)(?:§.)*/(?:§.)*(?\u003cmax\u003e\\d+)",
@@ -925,6 +925,7 @@
     "tab.widget.enum.rift.info": "\\s*(?:§.)*Good to know:",
     "tab.widget.enum.rift.shen": "\\s*(?:§.)*Shen: (?:§.)*\\((?\u003ctime\u003e[^)])\\)",
     "tab.widget.enum.sb.level": "\\s*SB Level(?:§.)*: (?:§.)*\\[(?:§.)*(?\u003clevel\u003e\\d+)(?:§.)*\\] (?:§.)*(?\u003cxp\u003e\\d+).*",
+    "tab.widget.enum.scrap": "\\s*Scrap: (?:§.)*(?\u003camount\u003e\\d)(?:§.)*/(?:§.)*\\d",
     "tab.widget.enum.server": "\\s*Server: (?:§.)*(?\u003cserverid\u003e.*)",
     "tab.widget.enum.skills": "\\s*(?:§.)*Skills: ?(?:§.)*(?\u003cavg\u003e[\\d.]*)",
     "tab.widget.enum.slayer": "\\s*(?:§.)*Slayer:",
