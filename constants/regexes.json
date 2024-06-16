@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "bfe43b7",
+  "sourceLabel": "cb828a9",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -866,8 +866,7 @@
     "slayer.rngmeter.update": " {3}§dRNG Meter §f- §d(?\u003cexp\u003e.*) Stored XP",
     "stranded.highlightplacement.location": "§7Location: §f\\[§e\\d+§f, §e\\d+§f, §e\\d+§f]",
     "string.isroman": "^M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})",
-    "summoning.mobs.despawn": "§cYou have despawned your (monster|monsters)!",
-    "summoning.mobs.health": "§a§o(.+)\u0027s (.+)§r §[ae]([\\dkm]+)§c❤",
+    "summoning.mobs.despawn": "§cYou have despawned your monsters?!",
     "summoning.mobs.seraphrecall": "§cThe Seraph recalled your (\\d+) summoned allies!",
     "summoning.mobs.spawn": "§aYou have spawned your (.+) §r§asoul! §r§d\\((\\d+) Mana\\)",
     "tab.widget.enum.active.effects": "\\s*(?:§.)*Active Effects: (?:§.)*\\((?\u003camount\u003e\\d+)\\)",
