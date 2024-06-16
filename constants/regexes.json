@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "dadf6c0",
+  "sourceLabel": "420b43c",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -827,6 +827,9 @@
     "rift.everywhere.crux.progress": ".*(?\u003ctier\u003e§[0-9a-z][IV1-4-]+)\\s+(?\u003cname\u003e§[0-9a-z]\\w+)§[0-9a-z]:\\s*(?\u003cprogress\u003e§[0-9a-z](?:§[0-9a-z])?MAXED|§[0-9a-z]\\d+§[0-9a-z]/§[0-9a-z]\\d+).*",
     "rift.everywhere.motesorb": "§5§lORB! §r§dPicked up §r§5+.* Motes§r§d.*",
     "rift.everywhere.timer": "§(?\u003ccolor\u003e[a7])(?\u003ctime\u003e.*)ф Left.*",
+    "rift.punchcard.limit": "§c§lUH OH! §r§cYou reached the limit of 20 players you can punch in one session!",
+    "rift.punchcard.new": "§5§lPUNCHCARD! §r§eYou punched §r§.(?:.*?)?(?\u003cname\u003e\\w+)§r§. §r§eand both regained §r§a\\+25ф Rift Time§r§e!",
+    "rift.punchcard.repeat": "§c§lAWKWARD! §r§cThis player has already been punched by you\\.\\.\\. somehow!",
     "skyblockguide.highlight.abiphone.inventory": "Miscellaneous ➜ Abiphone Contac",
     "skyblockguide.highlight.bank.inventory": "Core ➜ Bank Upgrades",
     "skyblockguide.highlight.belt.inventory": "Miscellaneous ➜ The Dojo",
