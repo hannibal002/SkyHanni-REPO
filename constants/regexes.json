@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "420b43c",
+  "sourceLabel": "8e46127",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -736,7 +736,7 @@
     "misc.chocolatefactory.rabbit.crushed": "§c§lBARN FULL! §f\\D+ §7got §ccrushed§7! §6\\+(?\u003camount\u003e[\\d,]+) Chocolate",
     "misc.chocolatefactory.rabbit.duplicate": "§7§lDUPLICATE RABBIT! §6\\+(?\u003camount\u003e[\\d,]+) Chocolate",
     "misc.chocolatefactory.rabbit.found": "§D§LHOPPITY\u0027S HUNT §7You found (?\u003cname\u003e.*) §7\\((?\u003crarity\u003e.*)§7\\)!",
-    "misc.chocolatefactory.rabbit.found.new": "§d§lNEW RABBIT! (§6\\+(?\u003cchocolate\u003e.*) Chocolate §7and )?§6\\+(?\u003cperSecond\u003e.*)x Chocolate §7per second!",
+    "misc.chocolatefactory.rabbit.found.new": "§d§lNEW RABBIT! (?:((§6\\+(?\u003cchocolate\u003e.*) Chocolate §7and )?§6\\+(?\u003cperSecond\u003e.*)x Chocolate §7per second!)|(?\u003cother\u003e.*))",
     "misc.chocolatefactory.rabbit.new": "§d§lNEW RABBIT! §6\\+\\d+ Chocolate §7and §6\\+0.\\d+x Chocolate §7per second!",
     "misc.chocolatefactory.rabbit.stray": "(?:§.)+(?:You )?(?:gained )?§6\\+(?\u003camount\u003e[\\d,]+) Chocolate§7!",
     "misc.chocolatefactory.rabbit.unemployed": "Rabbit \\w+ - Unemployed",
