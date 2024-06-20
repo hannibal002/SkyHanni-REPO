@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8e46127",
+  "sourceLabel": "681cec1",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -379,6 +379,8 @@
     "features.gui.customscoreboard.tablist.gems": "^\\s*Gems: §a(?\u003cgems\u003e\\d*,?(\\.\\d+)?[a-zA-Z]?)$",
     "features.misc.serverrestart.greedy": "§cServer closing.*",
     "features.misc.serverrestart.time": "§cServer closing: (?\u003cminutes\u003e\\d+):(?\u003cseconds\u003e\\d+) ?§8.*",
+    "fishing.seacreature.doublehook": "§eIt\u0027s a §r§aDouble Hook§r§e!(?: Woot woot!)?",
+    "fishing.seacreature.thundercharged": "§e\u003e Your bottle of thunder has fully charged!",
     "fishing.totemofcorruption.owner": "§7Owner: §e(?\u003cowner\u003e.+)",
     "fishing.totemofcorruption.timeremaining": "§7Remaining: §e(?:(?\u003cmin\u003e\\d+)m )?(?\u003csec\u003e\\d+)s",
     "fishing.totemofcorruption.totemname": "§5§lTotem of Corruption",
