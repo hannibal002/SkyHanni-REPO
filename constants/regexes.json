@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "681cec1",
+  "sourceLabel": "1a32e5e",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -66,6 +66,7 @@
     "combat.mobs.spawntime.arachne.crystal": "^☄ [a-z0-9_]{2,22} placed an arachne crystal! something is awakening!$",
     "combat.mobs.spawntime.arachne.fragment": "^☄ [a-z0-9_]{2,22} placed an arachne\u0027s calling! something is awakening! \\(4/4\\)$",
     "commands.viewrecipe": "\\/viewrecipe (?\u003citem\u003e.*)",
+    "craftableitemlist.craftitem": "Craft Item",
     "crimson.reputation.tablist": " §r§[cdea].*",
     "crimson.reputationhelper.quest.minibossamount": "(?:§7Kill the §c.+ §7|.*)miniboss §a(?\u003camount\u003e\\d) §7times?!",
     "crimson.volcano.tablistline": " *Volcano: (?\u003cstatus\u003e(?:§.)*\\S+)",
