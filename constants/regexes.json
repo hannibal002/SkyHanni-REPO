@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1a32e5e",
+  "sourceLabel": "6410dcf",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -508,6 +508,7 @@
     "harp.menu": "Melody.*",
     "harp.song.selected": "§aSong is selected!",
     "inventory.auctionhouse.title.search": "Auctions: \"(?\u003csearchTerm\u003e.*)\"?",
+    "inventory.chocolatefactory.opencommand": "\\/(?:cf|chocolatefactory)(?: .*)?",
     "inventory.dojo.rankdisplay.name": "(?\u003ccolor\u003e§\\w)Test of (?\u003cname\u003e.*)",
     "inventory.dojo.rankdisplay.rank": "(?:§\\w)+Your Rank: (?\u003crank\u003e§\\w.) §8\\((?\u003cscore\u003e\\d+)\\)",
     "inventory.gemstone.heart": "§7Gemstone Powder: §a§.(?\u003cpowder\u003e[\\d,]+)",
