@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7073780",
+  "sourceLabel": "3513a1c",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -923,7 +923,7 @@
     "tab.widget.enum.pests": "\\s*(?:§.)*Pests:",
     "tab.widget.enum.pet": "\\s*(?:§.)*Pet:",
     "tab.widget.enum.pet.sitter": "\\s*Kat: .*",
-    "tab.widget.enum.pet.traning": "\\s*(?:§.)*Pet Training:",
+    "tab.widget.enum.pet.training": "\\s*(?:§.)*Pet Training:",
     "tab.widget.enum.player.list": "\\s*(?:§.)*Players (?:§.)*\\(\\d+\\)",
     "tab.widget.enum.powder": "\\s*(?:§.)*Powders:",
     "tab.widget.enum.private.island.crystals": "\\s*Crystals: (?:§.)*(?\u003ccount\u003e\\d+)",
