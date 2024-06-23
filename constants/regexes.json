@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "cc29193",
+  "sourceLabel": "6eb085f",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -811,6 +811,10 @@
     "pet.chatdrop.pet.petdroppedmessage": "(?\u003cstart\u003e(?:§.)*PET DROP! )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e .*)",
     "pet.chatdrop.pet.petfishedmessage": "(?\u003cstart\u003e(?:§.)*GREAT CATCH! (?:§.)*You found a (?:§.)*\\[Lvl 1] )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*)",
     "pet.chatdrop.pet.petobtainedmessage": "(?\u003cstart\u003e.*has obtained (?:§.)*\\[Lvl 1] )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*)",
+    "reforge.chat.fail": "§cWait a moment before reforging again!|§cWhoa! Slow down there!",
+    "reforge.chat.success": "§aYou reforged your .* §r§ainto a .*!|§aYou applied a .* §r§ato your .*!",
+    "reforge.menu.blacksmith": "Reforge Item",
+    "reforge.menu.hex": "The Hex ➜ Reforges",
     "relay.chat.1st": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe first relay is on a branch of the large tree on the north-east of the fairy pond.",
     "relay.chat.2nd": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe next relay is in the castle ruins!",
     "relay.chat.3rd": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe next relay is in the §bRoyal Palace §rwithin the Dwarven Mines.",
