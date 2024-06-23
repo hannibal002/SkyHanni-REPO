@@ -7,6 +7,9 @@
       "spinny": true,
       "upsideDown": true
     },
+    "catgirlasuka": {
+      "suffix": "§d§l:3"
+    },
     "catgirlseraid": {
       "suffix": "§d:3",
       "spinny": true,
@@ -45,6 +48,9 @@
     "martimavocado": {},
     "Mikecraft1224": {},
     "NetheriteMiner": {},
+    "oBlazin": {
+      "suffix": "§d§l^^"
+    },
     "Obsidianninja11": {
       "suffix": "§z(:"
     },
@@ -56,6 +62,9 @@
     "RobotHanzo": {
       "suffix": "§6§l:P"
     },
+    "Sayonara": {
+      "suffix": "§cc:"
+    },
     "Skirtwearer": {
       "suffix": "§d:3"
     },
@@ -65,6 +74,9 @@
       "spinny": true,
       "upsideDown": true,
       "alt from": "hannibal2"
+    },
+    "Solde": {
+      "suffix": "§b;C"
     },
     "ThatGravyBoat": {
       "suffix": "§d:3",
