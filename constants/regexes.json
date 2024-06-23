@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "3513a1c",
+  "sourceLabel": "7ff28af",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -647,6 +647,7 @@
     "mining.notifications.goblin.goldspawn": "§6A Golden Goblin has spawned!",
     "mining.notifications.mineshaft.spawn": "§5§lWOW! §r§aYou found a §r§bGlacite Mineshaft §r§aportal!",
     "mining.notifications.scrapdrop": "§6§lEXCAVATOR! §r§fYou found a §r§9Suspicious Scrap§r§f!",
+    "mining.powder.tracker.compacted": "§b§lCOMPACT! §r§fYou found an §r§aEnchanted Hard Stone§r§f!",
     "mining.powder.tracker.picked": "§6You have successfully picked the lock on this chest!",
     "mining.powder.tracker.powder.bossbar": "§e§lPASSIVE EVENT §b§l2X POWDER §e§lRUNNING FOR §a§l(?\u003ctime\u003e.*)§r",
     "mining.powder.tracker.powder.ended": ".*§r§b§l2X POWDER ENDED!.*",
