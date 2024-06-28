@@ -13,7 +13,7 @@
             ]
         },
         "Crimson Armor": {
-            "regex": "(?:(?:HOT|BURNING|FIERY|INFERNAL)_)?crimson_(?:HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
+            "regex": "(?:(?:HOT|BURNING|FIERY|INFERNAL)_)?CRIMSON_(?:HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
             "list": [
                 ["veteran", "mending"],
                 ["mending", "magic_find"],
