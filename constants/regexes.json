@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "0b78af1",
+  "sourceLabel": "8bcdd9b",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -531,6 +531,16 @@
     "inventory.mithril.heart": "§7Mithril Powder: §a§.(?\u003cpowder\u003e[\\d,]+)",
     "inventory.mithril.reset": "\\s+§8- §.(?\u003cpowder\u003e[\\d,]+) Mithril Powder",
     "inventory.npc.sell.lore": "§7them to this Shop!|§eClick to buyback!",
+    "inventory.pagescrolling.backward.0": "§aPrevious Page",
+    "inventory.pagescrolling.backward.1": "§aScroll Down",
+    "inventory.pagescrolling.backward.2": "§aLevels 1 - 25",
+    "inventory.pagescrolling.backward.3": "§a← Previous Page",
+    "inventory.pagescrolling.forward.0": "§aNext Page",
+    "inventory.pagescrolling.forward.1": "§aScroll Up",
+    "inventory.pagescrolling.forward.2": "§aLevels 26 - 50",
+    "inventory.pagescrolling.forward.3": "§aNext Page →",
+    "inventory.pagescrolling.illegal.0": "Large Chest",
+    "inventory.pagescrolling.illegal.1": "Chest",
     "inventory.recipe.title": ".* Recipe",
     "inventory.statstuning.points": "§7Stat has: §e(?\u003camount\u003e\\d+) points?",
     "inventory.supercrafting.craft.new": "§eYou Supercrafted §r§r§r§.(?\u003citem\u003e[^§]+)(?:§r§8x(?\u003camount\u003e[\\d,]+))?§r§e!",
