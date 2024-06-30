@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8bcdd9b",
+  "sourceLabel": "6817998",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -309,7 +309,7 @@
     "features.gui.customscoreboard.scoreboard.farming.pasting": "^\\s*§f(Barn )?Pasting§7: (§.)*[\\d,.]+%?$",
     "features.gui.customscoreboard.scoreboard.farming.pelts": "^(§.)*Pelts: (§.)*([\\d,]+).*$",
     "features.gui.customscoreboard.scoreboard.farming.plot": "\\s*§aPlot §7-.*",
-    "features.gui.customscoreboard.scoreboard.kuudra.submerges": "^(§.)*Submerges In: (§.)*[\\w,?:]+$",
+    "features.gui.customscoreboard.scoreboard.kuudra.submerges": "(?:§.)*Submerges In: (?:§.)*[\\w\\s]+",
     "features.gui.customscoreboard.scoreboard.kuudra.tokens": "^(§.)*Tokens: §.[\\w,]+$",
     "features.gui.customscoreboard.scoreboard.kuudra.wave": "^(§.)*Wave: (§.)*\\d+(§.)*( §.- §.\\d+:\\d+)?$",
     "features.gui.customscoreboard.scoreboard.main.cold": "^(?:§.)*Cold: §.(?\u003ccold\u003e-?\\d+)❄$",
