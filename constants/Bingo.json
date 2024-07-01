@@ -1,24 +1,15 @@
 {
   "bingo_tips": {
-    "Lucky Looter (Community Goal)": {
+    "KABOOM! (Community Goal)": {
       "difficulty": "Medium",
       "note": [
-        "Collect rare drops"
+        "Blow up crypts"
       ],
       "guide": [
-        "Carrots and potatoes from killing",
-        "Zombies in graveyard do count."
-      ]
-    },
-    "Pet (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Gain Pet XP"
-      ],
-      "guide": [
-        "You will gain progress here passively",
-        "while going for other grinds.",
-        "§lMake sure to always have a pet active!"
+        "Collect Superboom TNT from dungeons",
+        "or buy some from Ophelia in The Dungeon Hub.",
+        "Then use them on the crypts you run",
+        "across inside a dungeon."
       ]
     },
     "Skilled (Community Goal)": {
@@ -27,38 +18,37 @@
         "Gain Farming experience"
       ],
       "guide": [
-        "Farm in the Garden. Remember Crop Milestones",
-        "grant a lot of XP. Carrots can also benefit this",
-        "as you can use pet candies made out of them to",
-        "contribute to another goal."
+        "Farm crops mainly in The Garden",
+        "as they help progressing with",
+        "the XP from Crop Milestones."
       ]
     },
-    "Revenant Horror (Community Goal)": {
-      "difficulty": "Easy",
+    "Goblin Slayer (Community Goal)": {
+      "difficulty": "Medium",
       "note": [
-        "Kill t2 Revenant Bosses"
+        "Kill Goblins."
       ],
       "guide": [
-        "Going for the Slayer Goal will give you",
-        "quite some progress here if you do it",
-        "on your own with Revenant Bosses."
+        "Kill the Goblins you can find in the ",
+        "Dwarven Mines and Crystal Hollows.",
+        "You will need Mining 12 for this."
       ]
     },
-    "Cave Commodity (Community Goal)": {
+    "Operation: Ore (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Gain HotM-XP"
+        "Mine ores"
       ],
       "guide": [
-        "Do your daily commissions in the Dwarven Mines",
-        "(and Crystal Hollows). Also participate in any",
-        "active event there that you come across."
+        "You will most likely gain passive",
+        "progress in here. Use the best pickaxe",
+        "you can get your hands on and mine."
       ]
     },
-    "Setting a Trap": {
+    "Hunter (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Kill a trapper Mob"
+        "Collect pelts"
       ],
       "guide": [
         "Use /warp trapper to accept a quest",
@@ -66,112 +56,130 @@
         "to make this easier. Bring a bow with you."
       ]
     },
-    "Diamond Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "52.5k Diamond Collection"
-      ],
-      "guide": [
-        "Mine Diamonds in the Mines of Divan",
-        "(HotM 3) or in the carts in the Dwarven Mines.",
-        "You can also passively work on this by using",
-        "Diamond Spreadings in your Minions if you want."
-      ]
-    },
-    "Healthy": {
+    "Podium Position": {
       "difficulty": "Easy",
       "note": [
-        "250 Health"
+        "Obtain a Bronze Medal in a Farming Contest"
       ],
       "guide": [
-        "Wear armor enchanted with Growth 5 ",
-        "(Enchanting Level 5).",
-        "Applying Growth 5 costs 50 Levels each."
+        "You need Farming Level 10 for this.",
+        "Your best options will most likely be",
+        "potato contests as you need a lot of",
+        "potatoes for a different goal or mushroom",
+        "contests with a silk touch gold axe."
       ]
     },
-    "Slayer": {
+    "Powder Collector": {
       "difficulty": "Medium",
       "note": [
-        "Reach Slayer Level 5"
+        "50k Mithril Powder"
       ],
       "guide": [
-        "Kill t2 Revenant Horrors to passively",
-        "progress in the Community Goal."
+        "Open chests in the Crystal Hollows (Heart of the Mountain III),",
+        "do commissions in The Dwarven Mines,",
+        "claim your daily powder from the Puzzler and",
+        "from giving Fetchur the items he asks for.",
+        "Fetchurs items are all listed in the Wiki.",
+        "Try to do those while a '2x Powder' event is active."
       ]
     },
-    "Spruce Wood Collector": {
-      "difficulty": "Hard",
-      "note": [
-        "70k Spruce Wood collection"
-      ],
-      "guide": [
-        "Optimal tool:",
-        "Golden Axe with Efficiency 5",
-        "Reforges: Double-Bit or Lush",
-        "Get Haste 3 from a splash to instamine wood",
-        "Forage in The Park to get wood for your minions.",
-        "Place as many minions as you can",
-        "give them a medium storage and the best fuel",
-        "you can. Collect them in time."
-      ]
-    },
-    "Mushroom Collector": {
+    "Ferocious": {
       "difficulty": "Easy",
       "note": [
-        "40k Mushroom Collection"
+        "3 Ferocity"
       ],
       "guide": [
-        "Use a Silk Touch and Efficiency Golden Axe and",
-        "chop mushroom blocks in the Mushroom Desert."
+        "Buy a Dirt Bottle (100k) from the ",
+        "Smithmonger in the Hub and reforge",
+        "an uncommon or higher rarity weapon with it."
       ]
     },
-    "Extra Storage": {
-      "difficulty": "Hard",
-      "note": [
-        "Craft a Large Storage"
-      ],
-      "guide": [
-        "Optimal tool:",
-        "Golden Axe with Efficiency 5",
-        "Reforges: Double-Bit or Lush",
-        "Get Haste 3 from a splash to instamine wood",
-        "Costs 256 Enchanted Oak Wood to craft and",
-        "unlocks at Oak Wood Collection 9 (30k)."
-      ]
-    },
-    "Pair Up!": {
+    "Meiser": {
       "difficulty": "Medium",
       "note": [
-        "Find 5 Pairs"
+        "3.5m coins in the bank"
       ],
       "guide": [
-        "Get Enchanting Level 10 and play",
-        "the highest experiments in the",
-        "Experimentation Table that you can get."
+        "You will most likely get this from",
+        "leveling up skills.",
+        "If that isnt enough, kill Endermen and",
+        "mine nodes in The End to get money.",
+        "Remember to actually put the money",
+        "you get in the Bank :)"
       ]
     },
-    "Zoop!": {
-      "difficulty": "Medium",
+    "Fairy Finder": {
+      "difficulty": "Easy",
       "note": [
-        "Craft an AotE"
+        "25 Fairy Souls"
       ],
       "guide": [
-        "Kill endermen and mine Nodes for",
-        "Enchanted Ender Pearls. You need them for",
-        "Enchanted Eyes of Ender (32 of those).",
-        "Don't forget to buy your daily Blaze Powder",
-        "from the Alchemist in the Hub."
+        "Collect those you run along while doing other goals.",
+        "If you have trouble check TimeDeo's fairy soul",
+        " tutorial on YouTube or use /neusouls on/off",
+        "to get waypoints."
+
       ]
     },
-    "Quick Reel": {
+    "High Score!": {
       "difficulty": "Medium",
       "note": [
-        "Summon 3 sea creatures in 75 seconds"
+        "250+ Score in Floor 2"
       ],
       "guide": [
-        "Fish in The Park and make sure rain is active.",
-        "Do not stand/have your bobber under solid blocks",
-        "as this will slow your speed down by a lot."
+        "This requires Catacombs Level 3 and ",
+        "a completion of the 2 floors before.",
+        "You may need help from party finder",
+        "or friends for this."
+      ]
+    },
+    "Warrior": {
+      "difficulty": "Easy",
+      "note": [
+        "Combat Level 10"
+      ],
+      "guide": [
+        "You will get this passively while going",
+        "for other grinds as you need Combat 15 for",
+        "the dungeon task. Dont forget to claim",
+        "your bestiary rewards as you unlock them."
+      ]
+    },
+    "I Am Speed": {
+      "difficulty": "Easy",
+      "note": [
+        "250 Speed"
+      ],
+      "guide": [
+        "Talk to Jamie in the Hub and",
+        "claim the Rogue Sword from him.",
+        "Right click it to gain +100 Speed.",
+        "Or just wait for a splash."
+      ]
+    },
+    "String Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "60k String Collection"
+      ],
+      "guide": [
+        "Kill Spiders in the Spider's Den (/warp spider)",
+        "place a few Spider Minions and participate",
+        "in killing Arachne in Arachne's Sanctuary.",
+        "Recommended to wear a Cow Head to avoid the poison.",
+        "Dont forget to fuel your minions and give them",
+        "a storage. Also collect them in time."
+      ]
+    },
+    "Emerald Treasure": {
+      "difficulty": "Medium",
+      "note": [
+        "Open an Emerald Chest"
+      ],
+      "guide": [
+        "You need a score of 230 or higher",
+        "in Floor 1 or higher to get this.",
+        "Opening will cost 100k coins."
       ]
     },
     "Rock Solid": {
@@ -186,21 +194,20 @@
         "your common rock at Kat but this will take a day."
       ]
     },
-    "Meiser": {
+    "Cat": {
       "difficulty": "Easy",
       "note": [
-        "50k coins in Bank"
+        "Get the Cat Talisman"
       ],
       "guide": [
-        "You will get this passively by leveling up",
-        "skills, if you don't forget to put the money",
-        "in your bank ;-)"
+        "Obtained from completing any race with 4/4",
+        "at Guildford in the Dungeon Hub."
       ]
     },
     "Fashionable": {
       "difficulty": "Medium",
       "note": [
-        "15 Armor Sets"
+        "12 Armor Sets"
       ],
       "guide": [
         "Craft Leather, Iron, Gold and Diamond Armor",
@@ -209,41 +216,41 @@
         "Buy Squire, Rosetta's, Celeste and Starlight Armor from Rosetta"
       ]
     },
-    "Minion Machine": {
-      "difficulty": "Easy",
+    "Skill Average": {
+      "difficulty": "Hard",
       "note": [
-        "25 unique Minions"
+        "Skill Average of 14"
       ],
       "guide": [
-        "Craft some easy minions while also getting",
-        "those that will help with this Bingo.",
-        "You might wanna go further than that to",
-        "help with other goals."
+        "To help with this, try to make bigger crafts",
+        "by hand for Carpentry levels. Don't forget",
+        "to do some Alchemy with Materials gathered from the Garden.",
+        "Also do your daily experiments and make sure",
+        "to have a pet active at all times",
+        "(any pet works, even level 100)."
       ]
     },
-    "Taking Flight": {
+    "Healthy": {
       "difficulty": "Easy",
       "note": [
-        "Consume a Magical Mushroom Soup"
+        "500 Health"
       ],
       "guide": [
-        "You will unlock this while going",
-        "for Mushroom Collector.",
-        "Remember to get the Glowstone Dust",
-        "by buying a Glowstone from The Builder",
-        "and breaking it on your island."
+        "Wear Mushroom Armor enchanted with Growth 5",
+        "during the night.",
+        "Growth 5 requires Enchanting Level 5",
+        "and costs 50 Experience Levels per piece."
       ]
     },
-    "Critical": {
-      "difficulty": "Easy",
+    "Potatorific": {
+      "difficulty": "Medium",
       "note": [
-        "100 Crit Damage"
+        "Craft a Hot Potato Book"
       ],
       "guide": [
-        "Reforge your Void Sword to Sharp",
-        "at the Blacksmith in the Hub (-28 69 -125),",
-        "or enchant any weapon with Critical 5 (costs 50 Levels).",
-        "You might also get it from receiving a Splash."
+        "You will need 50k potato collection",
+        "and 160 enchanted potatoes for this.",
+        "You might want to utilize The Garden for this."
       ]
     },
     "Carry-On": {
@@ -257,39 +264,44 @@
         "got along the way."
       ]
     },
-    "Titanic Reforger": {
-      "difficulty": "Easy",
-      "note": [
-        "Apply the Titanic reforge"
-      ],
-      "guide": [
-        "Apply it to an armor piece using the Blacksmith.",
-        "This can take quite some time and money",
-        "as it is RNG based."
-      ]
-    },
-    "Skill Average": {
-      "difficulty": "Hard",
-      "note": [
-        "Skill Average of 17"
-      ],
-      "guide": [
-        "To help with this, try to make bigger crafts",
-        "by hand for Carpentry levels. Don't forget",
-        "to do some Alchemy with Materials gathered from the Garden.",
-        "Also do your daily experiments and make sure",
-        "to have a pet active at all times",
-        "(any pet works, even level 100)."
-      ]
-    },
-    "The Dragon Bow": {
+    "Strange Eggs": {
       "difficulty": "Medium",
       "note": [
-        "Obtain the Dragon Shortbow"
+        "Spawn a Golden Goblin"
       ],
       "guide": [
-        "Follow the Lone Adventurers quest in The End",
-        "until you get the Bow."
+        "Kill goblins or open loot chests in the Crystal Hollows,",
+        "then just throw them until you get a Golden Goblin.",
+        "Higher level eggs have higher chances of spawning, but are also rarer.",
+        "You can also spawn it from mining ores in the Dwarven Mines."
+      ]
+    },
+    "Pet Hoarder": {
+      "difficulty": "Hard",
+      "note": [
+        "12 unique Pets"
+      ],
+      "guide": [
+        "&lNo eggs:",
+        "Bingo, Enderman, Grandma Wolf, Armadillo, Squid,",
+        "Guardian, Bee, Dolphin, Reindeer, Rock, Tarantula,",
+        "Owl and Zoo.",
+        "&lEggs:",
+        "Jerry, Silverfish, Pig, Rabbit, Endermite and Bat.",
+        "If you use eggs, you will need 2.5k Raw Chicken Collection",
+        "and a lot of eggs."
+      ]
+    },
+    "Is This Safe?": {
+      "difficulty": "Medium",
+      "note": [
+        "Consume a Mushed Glowy Tonic Potion"
+      ],
+      "guide": [
+        "Follow Moby's quest in the desert",
+        "until you unlock the shop.",
+        "Then you need 8 full Chum Buckets and",
+        "10 Glowing Mushrooms to buy it from Moby."
       ]
     }
   }
