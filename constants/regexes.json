@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "30d701c",
+  "sourceLabel": "df6ff25",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -586,7 +586,7 @@
     "mining.hotm.perk.cost": "(?:§.)*§7Cost",
     "mining.hotm.perk.disabled": "§c§lDISABLED|§7§eClick to select!",
     "mining.hotm.perk.enable": "§a§lENABLED|(§.)*SELECTED",
-    "mining.hotm.perk.level": "§(?\u003ccolor\u003e.)Level (?\u003clevel\u003e\\d+).*",
+    "mining.hotm.perk.level": "(?:§.)*§(?\u003ccolor\u003e.)Level (?\u003clevel\u003e\\d+).*",
     "mining.hotm.perk.name.crystallized": "§.Crystallized",
     "mining.hotm.perk.name.dailygrind": "§.Daily Grind",
     "mining.hotm.perk.name.dailypowder": "§.Daily Powder",
