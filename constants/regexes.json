@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "c1f3d47",
+  "sourceLabel": "932a242",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -907,7 +907,7 @@
     "tab.widget.enum.crop.milestone": "\\s*(?:§.)*Crop Milestones:",
     "tab.widget.enum.crystal": "\\s*(?:§.)*Crystals:",
     "tab.widget.enum.daily.quests": "\\s*(?:§.)*Daily Quests:",
-    "tab.widget.enum.dragon": "\\s*(?:§.)*Dragon: (?:§.)*\\((?\u003ctype\u003e[^)])\\)",
+    "tab.widget.enum.dragon": "\\s*(?:§.)*Dragon: (?:§.)*\\((?\u003ctype\u003e[^)]*)\\)",
     "tab.widget.enum.dungeon.account.info.line": "\\s*(?:§.)*Account Info",
     "tab.widget.enum.dungeon.hub.progress": "\\s*(?:§.)*Dungeons:",
     "tab.widget.enum.dungeon.party": "\\s*(?:§.)*Party (?:§.)*\\(\\d+\\)",
