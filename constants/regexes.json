@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "b818968",
+  "sourceLabel": "c4b09e5",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -295,11 +295,11 @@
     "features.gui.customscoreboard.scoreboard.events.newyear": "§dNew Year Event!§f \\d{0,2}?:?\\d{2}$",
     "features.gui.customscoreboard.scoreboard.events.spooky": "§6Spooky Festival§f \\d{0,2}?:?\\d{2}$",
     "features.gui.customscoreboard.scoreboard.events.travelingzoo": "§aTraveling Zoo§f \\d{0,2}:\\d{2}$",
-    "features.gui.customscoreboard.scoreboard.events.wintereventcubedmg": "(§.)*Your Cube Damage: §.\\d+$",
+    "features.gui.customscoreboard.scoreboard.events.wintereventcubedmg": "(§.)*Your Cube Damage: §.[\\d+,.]+$",
     "features.gui.customscoreboard.scoreboard.events.wintereventmagmaleft": "(§.)*Magma Cubes Left: §.\\d+$",
-    "features.gui.customscoreboard.scoreboard.events.wintereventnextwave": "(§.)*Next Wave: (§.)*(\\d+:\\d+|Soon!)$",
-    "features.gui.customscoreboard.scoreboard.events.wintereventstart": "(§.)*Event Start: §.\\d+:\\d+$",
-    "features.gui.customscoreboard.scoreboard.events.wintereventtotaldmg": "(§.)*Your Total Damage: §.\\d+.*$",
+    "features.gui.customscoreboard.scoreboard.events.wintereventnextwave": "(§.)*Next Wave: (§.)*([\\d:]+|Soon!)$",
+    "features.gui.customscoreboard.scoreboard.events.wintereventstart": "(§.)*Event Start: §.[\\d:]+$",
+    "features.gui.customscoreboard.scoreboard.events.wintereventtotaldmg": "(§.)*Your Total Damage: §.[\\d+,.]+.*$",
     "features.gui.customscoreboard.scoreboard.events.wintereventwave": "(§.)*Wave \\d+$",
     "features.gui.customscoreboard.scoreboard.farming.cleanup": "^\\s*(§.)*Cleanup(§.)*: (§.)*[\\d,.]*%?$",
     "features.gui.customscoreboard.scoreboard.farming.jacobscontest": "^§eJacob\u0027s Contest$",
