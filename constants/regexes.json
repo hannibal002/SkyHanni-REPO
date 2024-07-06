@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "af1896b",
+  "sourceLabel": "4314c0c",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -52,6 +52,7 @@
     "chat.skymall.perk": "§eNew buff§r§r§r:(.*)",
     "clicktoset": "§7§eClick to set the location of this NPC!",
     "clicktospawn": "§elocation!",
+    "combat.armorstack.actionbar": " (?:§6|§6§l)(?\u003cstack\u003e\\d+[ᝐ⁑|҉Ѫ⚶])",
     "combat.bestiary.data.overallprogress": "§7Overall Progress: §b[\\d.]+%(?: §7\\(§c§lMAX!§7\\))?",
     "combat.bestiary.data.progress": "(?\u003ccurrent\u003e[0-9kKmMbB,.]+)/(?\u003cneeded\u003e[0-9kKmMbB,.]+$)",
     "combat.bestiary.data.tierprogress": "§7Progress to Tier [\\dIVXC]+: §b[\\d.]+%",
