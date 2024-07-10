@@ -1001,7 +1001,8 @@
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxNTIzMTU0OSwK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvNmY3MDM4NWY0NzJjMDM4MjVjMGU4OTRkOTRhYzIwM\nWUxYjY0MmQxMDMyMjAyZDRiZjMzMzcyZmEzYWEyOWZiYSIKICAgIH0KICB9Cn\n0="
     },
     "Ravenous Rhino": {
-      "rarity": "mythic",
+      "rarity": "legendary",
+      "new_rarity": "mythic",
       "need_items": [
         "Bread",
         "Cake"
