@@ -85,6 +85,15 @@
         "io.github.moulberry.notenoughupdates.commands.help.SettingsCommand$createConfigScreen$1"
       ]
     },
+    "Odin": {
+      "description": [
+        "Mod with features"
+      ],
+      "command": "od",
+      "guiPath": [
+        "me.odinmain.ui.clickgui.ClickGUI"
+      ]
+    },
     "OneConfig": {
       "description": [
         "Multiple Mods in OneConfig"
