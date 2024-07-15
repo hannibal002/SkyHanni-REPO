@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "005e676",
+  "sourceLabel": "7720607",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -538,10 +538,12 @@
     "inventory.pagescrolling.backward.1": "§aScroll Down",
     "inventory.pagescrolling.backward.2": "§aLevels 1 - 25",
     "inventory.pagescrolling.backward.3": "§a← Previous Page",
+    "inventory.pagescrolling.backward.4": "§aScroll Left",
     "inventory.pagescrolling.forward.0": "§aNext Page",
     "inventory.pagescrolling.forward.1": "§aScroll Up",
     "inventory.pagescrolling.forward.2": "§aLevels 26 - 50",
     "inventory.pagescrolling.forward.3": "§aNext Page →",
+    "inventory.pagescrolling.forward.4": "§aScroll Right",
     "inventory.pagescrolling.illegal.0": "Large Chest",
     "inventory.pagescrolling.illegal.1": "Chest",
     "inventory.recipe.title": ".* Recipe",
