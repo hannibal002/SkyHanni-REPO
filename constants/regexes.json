@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2de2493",
+  "sourceLabel": "56928ee",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -755,7 +755,7 @@
     "misc.chocolatefactory.rabbit.duplicate": "§7§lDUPLICATE RABBIT! §6\\+(?\u003camount\u003e[\\d,]+) Chocolate",
     "misc.chocolatefactory.rabbit.found": "§D§LHOPPITY\u0027S HUNT §7You found (?\u003cname\u003e.*) §7\\((?\u003crarity\u003e.*)§7\\)!",
     "misc.chocolatefactory.rabbit.found.new": "§d§lNEW RABBIT! (?:((§6\\+(?\u003cchocolate\u003e.*) Chocolate §7and )?§6\\+(?\u003cperSecond\u003e.*)x Chocolate §7per second!)|(?\u003cother\u003e.*))",
-    "misc.chocolatefactory.rabbit.stray": "(?:§.)+(?:You )?(?:gained )?§6\\+(?\u003camount\u003e[\\d,]+) Chocolate§7!",
+    "misc.chocolatefactory.rabbit.stray": "(?:§.)?+(?:Rabbit§7, so )?(?:[Yy]ou )?(?:gained |received )?§6\\+?(?\u003camount\u003e[\\d,]+)(?:$| Chocolate§7!)",
     "misc.chocolatefactory.rabbit.unemployed": "Rabbit \\w+ - Unemployed",
     "misc.chocolatefactory.shop.bought": "§aYou bought §r§.(?\u003citem\u003e[\\w ]+)§r(?:§8 x(?\u003camount\u003e\\d+)§r)?§a!",
     "misc.chocolatefactory.shop.spent": "§7Chocolate Spent: §6(?\u003camount\u003e[\\d,]+)",
