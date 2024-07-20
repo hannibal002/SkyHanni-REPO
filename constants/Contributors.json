@@ -69,7 +69,9 @@
       "suffix": "§cc:"
     },
     "Skirtwearer": {
-      "suffix": "§d:3"
+      "suffix": "§d:3",
+      "spinny": true,
+      "upsideDown": true
     },
     "Skyblock_Lobby": {},
     "SkyHanni": {
