@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "0083158",
+  "sourceLabel": "be231f1",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -274,7 +274,7 @@
     "features.gui.customscoreboard.scoreboard.carnival.kills": "(?:§f)?Kills: §.\\d+",
     "features.gui.customscoreboard.scoreboard.carnival.score": "(?:§f)?Score: §.\\d+.*",
     "features.gui.customscoreboard.scoreboard.carnival.tasks": "§.§l(?:Catch a Fish|Fruit Diggin|Zombie Shoot)(?:§.§l(?:g|out))?",
-    "features.gui.customscoreboard.scoreboard.carnival.tokens": "(?:§f)*Carnival Tokens: §e\\d+",
+    "features.gui.customscoreboard.scoreboard.carnival.tokens": "(?:§f)*Carnival Tokens: §e[\\d,]+",
     "features.gui.customscoreboard.scoreboard.combat.bossdamage": "^Your Damage: §c(,?\\d{1,3}(\\.\\d)?)*$",
     "features.gui.customscoreboard.scoreboard.combat.bosshp": "^(Protector|Dragon) HP: §a(,?\\d{1,3})* §c❤$",
     "features.gui.customscoreboard.scoreboard.combat.broodmother": "^§4Broodmother§7: §[e64](Slain|Dormant|Soon|Awakening|Imminent|Alive!)$",
