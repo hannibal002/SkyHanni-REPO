@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "56da75a",
+  "sourceLabel": "1da1de3",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -819,6 +819,7 @@
     "mob.detection.pattern.pet.entities": "^§8\\[§7Lv\\d+§8] §.(?\u003cname\u003eHorse|Armadillo|Skeleton Horse|Pig|Rat)$",
     "mob.detection.pattern.petcare": "^\\[\\w+ (?\u003clevel\u003e\\d+)\\] (?\u003cname\u003e.*)",
     "mob.detection.pattern.summon.owner": ".*Spawned by: (?\u003cname\u003e.*).*",
+    "ownplayer.death.chat": "§c ☠ §r§7You (?\u003creason\u003e.+)",
     "pet.chatdrop.pet.oringopattern": "(?\u003cstart\u003e§e\\[NPC] Oringo§f: §b✆ §f§r§8• )§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e Pet)",
     "pet.chatdrop.pet.petclaimedmessage": "(?\u003cstart\u003e(?:§.)*You claimed a )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*You can manage your Pets.*)",
     "pet.chatdrop.pet.petdroppedmessage": "(?\u003cstart\u003e(?:§.)*PET DROP! )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e .*)",
