@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "be231f1",
+  "sourceLabel": "30ad604",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -518,6 +518,7 @@
     "inventory.glacite.heart": "§7Glacite Powder: §a§.(?\u003cpowder\u003e[\\d,]+)",
     "inventory.glacite.reset": "\\s+§8- §.(?\u003cpowder\u003e[\\d,]+) Glacite Powder",
     "inventory.hidenotclickable.seeds": "SEEDS|CARROT_ITEM|POTATO_ITEM|PUMPKIN_SEEDS|SUGAR_CANE|MELON_SEEDS|CACTUS|INK_SACK-3",
+    "inventory.item.overlay.bestiarystack": "§7Progress to Tier (?\u003ctier\u003e[\\dIVXC]+): §b[\\d.]+%",
     "inventory.item.overlay.bingogoalrank": "(§.)*You were the (§.)*(?\u003crank\u003e[\\w]+)(?\u003cordinal\u003e(st|nd|rd|th)) (§.)*to",
     "inventory.item.overlay.dungeonpotion": "Dungeon (?\u003clevel\u003e.*) Potion",
     "inventory.item.overlay.glacitepowder": "Glacite Powder x(?\u003camount\u003e.*)",
