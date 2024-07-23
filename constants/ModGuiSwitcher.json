@@ -103,6 +103,16 @@
         "cc.polyfrost.oneconfig.gui.OneConfigGui"
       ]
     },
+    "Partly Sane Skies": {
+      "description": [
+        "Includes some stuff"
+      ],
+      "command": "pssc",
+      "guiPath": [
+        "me.partlysanestudios.partlysaneskies.config.OneConfigScreen",
+        "cc.polyfrost.oneconfig.gui.OneConfigGui:PartlySaneSkies"
+      ]
+    },
     "Patcher": {
       "description": [
         "Performance boost!"
