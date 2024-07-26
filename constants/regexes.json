@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "30ad604",
+  "sourceLabel": "59cf5c8",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -666,6 +666,7 @@
     "mining.powder.tracker.compacted": "§b§lCOMPACT! §r§fYou found an §r§aEnchanted Hard Stone§r§f!",
     "mining.powder.tracker.picked": "  §r§6§lCHEST LOCKPICKED ",
     "mining.powder.tracker.powder.bossbar": "§e§lPASSIVE EVENT §b§l2X POWDER §e§lRUNNING FOR §a§l(?\u003ctime\u003e.*)§r",
+    "mining.powder.tracker.powder.duration": "Ends in: §r§b(?\u003cduration\u003e.*)",
     "mining.powder.tracker.powder.ended": ".*§r§b§l2X POWDER ENDED!.*",
     "mining.powder.tracker.powder.started": ".*§r§b§l2X POWDER STARTED!.*",
     "mining.powder.tracker.reward.ascensionrope.new": " {4}§r§9Ascension Rope(?: §r§8x(?\u003camount\u003e.*))?",
