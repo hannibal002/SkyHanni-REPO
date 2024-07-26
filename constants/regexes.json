@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2307394",
+  "sourceLabel": "3cbb6b8",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -555,6 +555,10 @@
     "inventory.wardrobe.inventory.name": "Wardrobe \\((?\u003ccurrentPage\u003e\\d+)/\\d+\\)",
     "item.abilities.cooldown.alignedother": "§eYou aligned §r§a.* §r§eother player(s)?!",
     "item.abilities.cooldown.buffedyourself": "§aYou buffed yourself for §r§c\\+\\d+❁ Strength",
+    "itempickuplog.banneditems.0": "SKYBLOCK_MENU",
+    "itempickuplog.banneditems.1": "CANCEL_PARKOUR_ITEM",
+    "itempickuplog.banneditems.2": "CANCEL_RACE_ITEM",
+    "itempickuplog.shoppattern": "^(?\u003citemName\u003e.+?)(?: x\\d+)?$",
     "mayorapi.calendar.gui": "Calendar and Events",
     "mayorapi.election.over": "§eThe election room is now closed\\. Clerk Seraphine is doing a final count of the votes\\.\\.\\.",
     "mayorapi.foxy.extraevent": "Schedules an extra §.(?\u003cevent\u003e.*) §.event during the year\\.",
