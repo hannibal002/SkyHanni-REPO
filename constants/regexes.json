@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "b2082d1",
+  "sourceLabel": "32d3a6a",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -982,6 +982,7 @@
     "test.bestiary.type": "\\[Lv(?\u003clvl\u003e.*)] (?\u003ctext\u003e.*)",
     "test.dev.copyrng.dungeon": "§7Dungeon Score: §d.*§5/§d(?\u003cxp\u003e.*)",
     "test.dev.copyrng.slayer": "§7Slayer XP: §d.*§5/§d(?\u003cxp\u003e.*)",
+    "thunderbottle.charged": "§e\u003e Your bottle of thunder has fully charged!",
     "utils.inventory.shopoptions": "Shop Trading Options",
     "utils.item.amount.behind": "(?\u003cname\u003e(?:§.)*(?:[^§] ?)+)(?:§8x(?\u003camount\u003e[\\d,]+))?",
     "utils.item.amount.front": "(?: +§8(?:\\+§.)?(?\u003camount\u003e[\\d.,]+[km]?)x? )?(?\u003cname\u003e.*)",
