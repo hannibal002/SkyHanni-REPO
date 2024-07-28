@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "3cbb6b8",
+  "sourceLabel": "b2082d1",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -847,7 +847,7 @@
     "relay.chat.9th": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe next relay is on top of the Auction House.",
     "rift.area.stillgore.effegies.heart": "Effigies: (?\u003chearts\u003e((§[7c])?⧯)*)",
     "rift.area.stillgore.effegies.respawn": "§eRespawn §c(?\u003ctime\u003e.*) §7\\(or click!\\)",
-    "rift.area.westvillage.kloon.colour": "You\u0027ve set the color of this terminal to (?\u003ccolour\u003e.*)!",
+    "rift.area.westvillage.kloon.color": "You\u0027ve set the color of this terminal to (?\u003ccolor\u003e.*)!",
     "rift.area.westvillage.vermintracker.bagline": "§fVacuum Bag: §\\w(?\u003ccount\u003e\\d+) (?\u003cvermin\u003e\\w+)",
     "rift.area.westvillage.vermintracker.binline": "§fVermin Bin: §\\w(?\u003ccount\u003e\\d+) (?\u003cvermin\u003e\\w+)",
     "rift.area.westvillage.vermintracker.fly": ".*§eYou vacuumed a §.*Fly.*",
