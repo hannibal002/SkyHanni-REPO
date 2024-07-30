@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e5c50a3",
+  "sourceLabel": "47c0590",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -767,6 +767,14 @@
     "misc.chocolatefactory.shop.bought": "§aYou bought §r§.(?\u003citem\u003e[\\w ]+)§r(?:§8 x(?\u003camount\u003e\\d+)§r)?§a!",
     "misc.chocolatefactory.shop.spent": "§7Chocolate Spent: §6(?\u003camount\u003e[\\d,]+)",
     "misc.chocolatefactory.shop.title": "Chocolate Shop",
+    "misc.chocolatefactory.stray.caught": "^§[a-f0-9].* §d§lCAUGHT!",
+    "misc.chocolatefactory.stray.fish": "§7You caught a stray (?\u003ccolor\u003e§.)Fish the Rabbit§7! §7You have already found (?:§.)?Fish the (?:§.)?Rabbit§7, so you received §6(?\u003camount\u003e[\\d,]*) (?:§6)?Chocolate§7!",
+    "misc.chocolatefactory.stray.goldenclick": "§7You caught a stray §6§lGolden Rabbit§7! §7You gained §6\\+5 Chocolate §7until the §7end of the SkyBlock year!",
+    "misc.chocolatefactory.stray.goldendoradocaught": "§7You caught a stray §6§lGolden Rabbit§7! §7You caught §6El Dorado §7- quite the elusive rabbit!",
+    "misc.chocolatefactory.stray.goldendoradoduplicate": "§7You caught a stray §6§lGolden Rabbit§7! §7You caught §6El Dorado§7! Since you §7already have captured him before, §7you gained §6\\+(?\u003camount\u003e[\\d,]*) Chocolate§7.",
+    "misc.chocolatefactory.stray.goldendoradoescape": "§7You caught a stray §6§lGolden Rabbit§7! §7You caught a glimpse of §6El Dorado§7, §7but he escaped and left behind §7§6\\+(?\u003camount\u003e[\\d,]*) Chocolate§7!",
+    "misc.chocolatefactory.stray.goldenrawchoc": "§7You caught a stray §6§lGolden Rabbit§7! §7You gained §6\\+(?\u003camount\u003e[\\d,]*) Chocolate§7!",
+    "misc.chocolatefactory.stray.loreinfo": "§7You caught a stray (?\u003crabbit\u003e(?\u003cname\u003e§[^§]*)) .* (?:§7)?§6\\+(?\u003camount\u003e[\\d,]*) Chocolate§7!",
     "misc.chocolatefactory.timetower.amount": "§7Charges: §.(?\u003cuses\u003e\\d+)§7/§a(?\u003cmax\u003e\\d+)",
     "misc.chocolatefactory.timetower.recharge": "§7Next Charge: §a(?\u003cduration\u003e\\w+)",
     "misc.chocolatefactory.timetower.status": "§7Status: §.§l(?\u003cstatus\u003eINACTIVE|ACTIVE)(?: §f)?(?\u003cacitveTime\u003e\\w*)",
