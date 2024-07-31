@@ -30,7 +30,9 @@
     },
     "Fix3dll": {},
     "Frost19": {},
-    "Gillsplash": {},
+    "Gillsplash": {
+      "upsideDown": true
+    },
     "hannibal2": {
       "suffix": "§3§l:O"
     },
