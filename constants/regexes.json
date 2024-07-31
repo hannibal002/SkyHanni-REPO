@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "bbe686f",
+  "sourceLabel": "1829187",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -777,6 +777,8 @@
     "misc.chocolatefactory.egg.shared": ".*\\[SkyHanni] (?\u003cmeal\u003e\\w+) Chocolate Egg located at x: (?\u003cx\u003e-?\\d+), y: (?\u003cy\u003e-?\\d+), z: (?\u003cz\u003e-?\\d+)(?: \\((?\u003cnote\u003e.*)\\))?",
     "misc.chocolatefactory.egg.spawned": "§d§lHOPPITY\u0027S HUNT §r§dA §r§.Chocolate (?\u003cmeal\u003e\\w+) Egg §r§dhas appeared!",
     "misc.chocolatefactory.inventory.name": "Hoppity|Chocolate Factory Milestones",
+    "misc.chocolatefactory.item.lore.upgrade": "§a§l(?:UPGRADE|PROMOTE) §8➜ (?:§7\\[(?\u003cnextlevel\u003e\\d+)§7] )?(?\u003cupgradename\u003e.*?) ?(?\u003cnextlevelalt\u003e[IVXLCDM]*)$",
+    "misc.chocolatefactory.item.name.employee": "(?\u003cemployee\u003e(?:§.+)+Rabbit .*)§8 - §7\\[\\d*§7] .*",
     "misc.chocolatefactory.leaderboard.percentile": "§7§8You are in the top §.(?\u003cpercent\u003e[\\d.]+)%§8 of players!",
     "misc.chocolatefactory.leaderboard.place": "(?:§.)+You are §8#§b(?\u003cposition\u003e[\\d,]+)(?: §7in all-time)?(?: Chocolate\\.)?",
     "misc.chocolatefactory.other.upgrade": "Rabbit Shrine|Coach Jackrabbit",
