@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1829187",
+  "sourceLabel": "6c79e57",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -305,7 +305,7 @@
     "features.gui.customscoreboard.scoreboard.farming.cleanup": "^\\s*(§.)*Cleanup(§.)*: (§.)*[\\d,.]*%?$",
     "features.gui.customscoreboard.scoreboard.farming.jacobscontest": "^§eJacob\u0027s Contest$",
     "features.gui.customscoreboard.scoreboard.farming.locked": "^\\s*§cLocked$",
-    "features.gui.customscoreboard.scoreboard.farming.medals": "§[6fc]§l(GOLD|SILVER|BRONZE) §fmedals: §[6fc]\\d+$",
+    "features.gui.customscoreboard.scoreboard.farming.medals": "§[6fc]§l(GOLD|SILVER|BRONZE) §fmedals: §[6fc][\\d.,]+",
     "features.gui.customscoreboard.scoreboard.farming.moblocation": "^(§.)*Tracker Mob Location:",
     "features.gui.customscoreboard.scoreboard.farming.pasting": "^\\s*§f(Barn )?Pasting§7: (§.)*[\\d,.]+%?$",
     "features.gui.customscoreboard.scoreboard.farming.pelts": "^(§.)*Pelts: (§.)*([\\d,]+).*$",
