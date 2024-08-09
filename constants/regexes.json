@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "df3b54e",
+  "sourceLabel": "8e4bb1b",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -147,7 +147,6 @@
     "data.maxwell.tuningpoints.chat.autoassigned": "§aYour §r§eTuning Points §r§awere auto-assigned as convenience!",
     "data.miningapi.area.basecamp": "Dwarven Base Camp",
     "data.miningapi.area.glacite": "Glacite Tunnels|Glacite Lake",
-    "data.miningapi.cold.deathreset": "§c ☠ §r§7§r§.(?\u003cname\u003e.+)§r§7 (?\u003creason\u003e.+)",
     "data.miningapi.cold.reset": "§6The warmth of the campfire reduced your §r§b❄ Cold §r§6to §r§a0§r§6!|§c ☠ §r§7You froze to death§r§7.",
     "data.owninventory.chat.movedsacktoinventory": "§aMoved §r§e\\d* (?\u003cname\u003e.*)§r§a from your Sacks to your inventory.",
     "data.party.dungeonfinder.join": "§dParty Finder §f\u003e (?\u003cname\u003e.*?) §ejoined the dungeon group! \\(§[a-fA-F0-9].* Level \\d+§[a-fA-F0-9]\\)",
