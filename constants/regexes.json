@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "66e1d1f",
+  "sourceLabel": "30397bb",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -204,7 +204,7 @@
     "dungeon.croesus.inventory": "Croesus",
     "dungeon.croesus.kismet.reroll": "§aReroll Chest",
     "dungeon.croesus.kismet.used": "§aYou already rerolled a chest!",
-    "dungeon.end.chests.spawned": "(?:§f)?( *)§r§c(The|Master Mode) Catacombs §r§8- §r§eFloor (.*)",
+    "dungeon.end.chests.spawned": "(?:§f)?( *)§r§c(Master Mode )?The Catacombs §r§8- §r§eFloor (.*)",
     "dungeon.finder.carry": "(?i).*(CARRY|CARY|CARRIES|CARIES|COMP|TO CATA [0-9]{2}).*",
     "dungeon.finder.catacombs.gate": "(Catacombs Gate)",
     "dungeon.finder.check.if.party": ".*(\u0027s Party)",
@@ -214,10 +214,10 @@
     "dungeon.finder.floor": "(Floor .*)",
     "dungeon.finder.floor.any": "(Any)",
     "dungeon.finder.floor.dungeon": "(Dungeon: .*)",
-    "dungeon.finder.floor.mastermode": "(MM )|(.*Master Mode Catacombs)",
+    "dungeon.finder.floor.mastermode": "(MM )|(.*Master Mode The Catacombs)",
     "dungeon.finder.floor.number": ".* (?\u003cfloorNum\u003e[IV\\d]+)",
     "dungeon.finder.floor.pattern": "(Floor: .*)",
-    "dungeon.finder.floor.type": "(The Catacombs).*|.*(MM Catacombs).*",
+    "dungeon.finder.floor.type": "(The Catacombs).*|.*(Master Mode The Catacombs).*",
     "dungeon.finder.get.dungeon.class": ".* (?\u003cclass\u003e.*)",
     "dungeon.finder.ineligible": "§c(Requires .*$|You don\u0027t meet the requirement!|Complete previous floor first!$)",
     "dungeon.finder.member": ".*§.(?\u003cplayerName\u003e.*)§f: §e(?\u003cclassName\u003e.*)§b \\(§e(?\u003clevel\u003e.*)§b\\)",
