@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "30397bb",
+  "sourceLabel": "df3b54e",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -399,6 +399,7 @@
     "filter.powdermining.reward.treasurite": "§r§5Treasurite( §r§8x(?\u003camount\u003e[\\d,]+))?",
     "filter.powdermining.reward.wishingcompass": "§r§aWishing Compass( §r§8x(?\u003camount\u003e[\\d,]+))?",
     "filter.powdermining.reward.yoggie": "§r§aYoggie( §r§8x(?\u003camount\u003e[\\d,]+))?",
+    "filter.powdermining.warning.alreadylooted": "§cThis chest has already been looted\\.",
     "filter.powdermining.warning.breakingpower": "§cYou need a tool with a §r§aBreaking Power §r§cof (?:§.)*\\d+§r§c to mine (Ruby|Amethyst|Jade|Amber|Sapphire|Topaz) Gemstone Block§r§c!.+",
     "filter.powdermining.warning.chestuncover": "§aYou uncovered a treasure chest!",
     "filter.powdermining.warning.successpick": "§6You have successfully picked the lock on this chest!",
