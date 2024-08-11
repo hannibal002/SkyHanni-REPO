@@ -131,7 +131,7 @@
       ],
       "command": "sbt config",
       "guiPath": [
-        " mrfast.sbt.config.ConfigGui"
+        "mrfast.sbt.config.ConfigGui"
       ]
     },
     "SkyGuide": {
