@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "67dd38b",
+  "sourceLabel": "4b2935b",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -535,10 +535,6 @@
     "harp.menu": "Melody.*",
     "harp.song.selected": "§aSong is selected!",
     "inventory.auctionhouse.title.search": "Auctions: \"(?\u003csearchTerm\u003e.*)\"?",
-    "inventory.chocolate.factory.chat.hide.0": "§cYou don\u0027t have enough Chocolate!",
-    "inventory.chocolate.factory.chat.hide.1": "§cYou don\u0027t have the required items!",
-    "inventory.chocolate.factory.chat.hide.2": "§cYou must collect (.*) all-time Chocolate!",
-    "inventory.chocolate.factory.milestone.cost": "§cRequires (?\u003camount\u003e.*) all-time Chocolate!",
     "inventory.chocolatefactory.opencommand": "\\/(?:cf|(?:chocolate)?factory)(?: .*)?",
     "inventory.dojo.rankdisplay.name": "(?\u003ccolor\u003e§\\w)Test of (?\u003cname\u003e.*)",
     "inventory.dojo.rankdisplay.rank": "(?:§\\w)+Your Rank: (?\u003crank\u003e§\\w.) §8\\((?\u003cscore\u003e\\d+)\\)",
