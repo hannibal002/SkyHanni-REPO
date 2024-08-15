@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "0689450",
+  "sourceLabel": "8edaca5",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -995,7 +995,7 @@
     "tab.widget.enum.player.list": "\\s*(?:§.)*Players (?:§.)*\\(\\d+\\)",
     "tab.widget.enum.powder": "\\s*(?:§.)*Powders:",
     "tab.widget.enum.private.island.crystals": "\\s*Crystals: (?:§.)*(?\u003ccount\u003e\\d+)",
-    "tab.widget.enum.profile": "\\s*(?:§.)*Profile: (?:§.)*(?\u003cprofile\u003e\\S+).*",
+    "tab.widget.enum.profile": "\\s*(?:§.)+Profile: §r§a(?\u003cprofile\u003e[\\w\\s]+[^ §]).*",
     "tab.widget.enum.protector": "\\s*Protector: (?:§.)*(?\u003ctime\u003e.*)",
     "tab.widget.enum.rain": "\\s*(?\u003ctype\u003eThunder|Rain): (?:§.)*(?\u003ctime\u003e.*)",
     "tab.widget.enum.reputation": "\\s*(?:§.)*(Barbarian|Mage) Reputation:",
