@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "79be3ba",
+  "sourceLabel": "860aec3",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -213,10 +213,10 @@
     "dungeon.finder.floor": "(Floor .*)",
     "dungeon.finder.floor.any": "(Any)",
     "dungeon.finder.floor.dungeon": "(Dungeon: .*)",
-    "dungeon.finder.floor.mastermode": "(MM )|(.*Master Mode The Catacombs)",
+    "dungeon.finder.floor.mastermode": "(MM|.*Master Mode) The Catacombs.*",
     "dungeon.finder.floor.number": ".* (?\u003cfloorNum\u003e[IV\\d]+)",
     "dungeon.finder.floor.pattern": "(Floor: .*)",
-    "dungeon.finder.floor.type": "(The Catacombs).*|.*(Master Mode The Catacombs).*",
+    "dungeon.finder.floor.type": "(The Catacombs).*|.*(MM The Catacombs).*",
     "dungeon.finder.get.dungeon.class": ".* (?\u003cclass\u003e.*)",
     "dungeon.finder.ineligible": "§c(Requires .*$|You don\u0027t meet the requirement!|Complete previous floor first!$)",
     "dungeon.finder.member": ".*§.(?\u003cplayerName\u003e.*)§f: §e(?\u003cclassName\u003e.*)§b \\(§e(?\u003clevel\u003e.*)§b\\)",
