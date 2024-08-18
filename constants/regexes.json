@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8edaca5",
+  "sourceLabel": "79be3ba",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -769,7 +769,7 @@
     "misc.chocolatefactory.chocolate.persecond": "§6(?\u003camount\u003e[\\d.,]+) §8per second",
     "misc.chocolatefactory.chocolate.thisprestige": "§7Chocolate this Prestige: §6(?\u003camount\u003e[\\d,]+)",
     "misc.chocolatefactory.collection.duplicates.found": "§7Duplicates Found: §a(?\u003cduplicates\u003e[\\d,]+)",
-    "misc.chocolatefactory.collection.page.current": "\\((?\u003cpage\u003e\\d+)/(?\u003cmaxPage\u003e\\d+)\\) Hoppity\u0027s Collection",
+    "misc.chocolatefactory.collection.page.current": "(?:\\((?\u003cpage\u003e\\d+)\\/(?\u003cmaxPage\u003e\\d+)\\) )?Hoppity\u0027s Collection",
     "misc.chocolatefactory.collection.rabbit.notfound": "(?:§.)+You (?:have not found this rabbit yet!|cannot find this rabbit until you)",
     "misc.chocolatefactory.collection.rabbit.requirement.location": "Find 15 unique egg locations in (the )?(?\u003clocation\u003e.*)\\..*",
     "misc.chocolatefactory.collection.rabbit.requirement.met": "§a✔ §7Requirement",
