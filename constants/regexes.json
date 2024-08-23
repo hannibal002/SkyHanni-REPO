@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "57c1220",
+  "sourceLabel": "67060ae",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -589,6 +589,7 @@
     "inventory.wardrobe.inventory.name": "Wardrobe \\((?\u003ccurrentPage\u003e\\d+)/\\d+\\)",
     "item.abilities.cooldown.alignedother": "§eYou aligned §r§a.* §r§eother player(s)?!",
     "item.abilities.cooldown.buffedyourself": "§aYou buffed yourself for §r§c\\+\\d+❁ Strength",
+    "itemcategory.repocheck": "SWORD|LONGSWORD|BOW|SHORT_BOW|WAND|FISHING_WEAPON|FISHING_ROD|AXE|GAUNTLET|HOE|PICKAXE|SHOVEL|DRILL|SHEARS|DEPLOYABLE|VACUUM|ABIPHONE|BELT|NECKLACE|CLOAK|GLOVES|BRACELET|HELMET|CHESTPLATE|LEGGINGS|BOOTS|HATCESSORY|ACCESSORY|CARNIVAL_MASK|POWER_STONE|TRAVEL_SCROLL|REFORGE_STONE|BAIT|PET|TROPHY_FISH|ARROW|ARROW_POISON|ITEM|PET_ITEM|ENCHANTED_BOOK|FISHING_BAIT|POTION|RIFT_TIMECHARM|COSMETIC|MEMENTO|PORTAL|SACK|CHISEL|DYE|NONE",
     "itempickuplog.banneditems.0": "SKYBLOCK_MENU",
     "itempickuplog.banneditems.1": "CANCEL_PARKOUR_ITEM",
     "itempickuplog.banneditems.2": "CANCEL_RACE_ITEM",
@@ -876,6 +877,7 @@
     "pet.chatdrop.pet.petdroppedmessage": "(?\u003cstart\u003e(?:§.)*PET DROP! )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e .*)",
     "pet.chatdrop.pet.petfishedmessage": "(?\u003cstart\u003e(?:§.)*GREAT CATCH! (?:§.)*You found a (?:§.)*\\[Lvl 1] )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*)",
     "pet.chatdrop.pet.petobtainedmessage": "(?\u003cstart\u003e.*has obtained (?:§.)*\\[Lvl 1] )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*)",
+    "rarity.repocheck": "COMMON|UNCOMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|SUPREME|SPECIAL|VERY_SPECIAL|ULTIMATE",
     "reforge.chat.fail": "§cWait a moment before reforging again!|§cWhoa! Slow down there!",
     "reforge.chat.success": "§aYou reforged your .* §r§ainto a .*!|§aYou applied a .* §r§ato your .*!",
     "reforge.menu.blacksmith": "Reforge Item",
