@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "860aec3",
+  "sourceLabel": "57c1220",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -377,6 +377,7 @@
     "features.gui.customscoreboard.tablist.eventtime": "^\\s+Ends In: §r§e(?\u003ctime\u003e.*)$",
     "features.gui.customscoreboard.tablist.eventtimestarts": "^\\s+Starts In: §r§e(?\u003ctime\u003e.*)$",
     "features.gui.customscoreboard.tablist.gems": "^\\s*Gems: §a(?\u003cgems\u003e\\d*,?(\\.\\d+)?[a-zA-Z]?)$",
+    "features.gui.customscoreboard.tablist.soulflow": "^\\s*Soulflow: (?:§.)+(?\u003csoulflow\u003e[\\d,.]+)$",
     "features.misc.serverrestart.greedy": "§cServer closing.*",
     "features.misc.serverrestart.time": "§cServer closing: (?\u003cminutes\u003e\\d+):(?\u003cseconds\u003e\\d+) ?§8.*",
     "filter.powdermining.lootchest.collected": ".*§r§5§lLOOT CHEST COLLECTED.*",
