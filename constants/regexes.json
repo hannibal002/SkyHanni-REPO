@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "085fdbe",
+  "sourceLabel": "78e5046",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -53,6 +53,8 @@
     "chat.skymall.perk": "§eNew buff§r§r§r:(.*)",
     "clicktoset": "§7§eClick to set the location of this NPC!",
     "clicktospawn": "§elocation!",
+    "color.item.hex.lore.code": ".*(?:Color:|Hex|to) (?:§.)?(?\u003chex\u003e#[0-9a-fA-F]{1,6}).*",
+    "color.item.hex.lore.code.animated": ".*(?\u003chexfirst\u003e#[0-9a-fA-F]{6})§. and §.(?\u003chexsecond\u003e#[0-9a-fA-F]{6})§.!",
     "combat.armorstack.actionbar": " (?:§6|§6§l)(?\u003cstack\u003e\\d+[ᝐ⁑|҉Ѫ⚶])",
     "combat.bestiary.data.overallprogress": "§7Overall Progress: §b[\\d.]+%(?: §7\\(§c§lMAX!§7\\))?",
     "combat.bestiary.data.progress": "(?\u003ccurrent\u003e[0-9kKmMbB,.]+)/(?\u003cneeded\u003e[0-9kKmMbB,.]+$)",
