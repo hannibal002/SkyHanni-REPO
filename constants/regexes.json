@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "0de9891",
+  "sourceLabel": "e7a4ba8",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -103,7 +103,9 @@
     "data.collection.api.singlecounter": "§7Total Collected: §e(?\u003camount\u003e.*)",
     "data.collection.api.tierzero": "§7Progress to .* I: .*",
     "data.enchanting.inventory.experimentstable.book": "§9(?\u003cenchant\u003e.*)",
+    "data.enchanting.inventory.experimentstable.guardianpet": "§[956d]Guardian",
     "data.enchanting.inventory.experimentstable.gui": "Superpairs.*",
+    "data.enchanting.inventory.experimentstable.mainmenu": "Experimentation Table",
     "data.enchanting.inventory.experimentstable.ultrarare": "§d§kXX§5 ULTRA-RARE BOOK! §d§kXX",
     "data.entity.warping": "§7(?:Warping|Warping you to your SkyBlock island|Warping using transfer token|Finding player|Sending a visit request)\\.\\.\\.",
     "data.friends.add": "§aYou are now friends with (?\u003cname\u003e.*)",
