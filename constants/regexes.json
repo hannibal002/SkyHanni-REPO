@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "57224a6",
+  "sourceLabel": "35b1a6a",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -47,6 +47,7 @@
     "chat.arachne.crystal": "§4☄ §r.* §r§eplaced an Arachne Crystal! Something is awakening!",
     "chat.arachne.spawn": "§c\\[BOSS] Arachne§r§f: (?:The Era of Spiders begins now\\.|Ahhhh\\.\\.\\.A Calling\\.\\.\\.)",
     "chat.firesale": "§6§k§lA§r §c§lFIRE SALE §r§6§k§lA(?:\\n|.)*",
+    "chat.garden.no.pest": "§cThere are not any Pests on your Garden right now! Keep farming!",
     "chat.jacobevent.accessory": "§e\\[NPC] Jacob§f: §rYour §9Anita\u0027s \\w+ §fis giving you §6\\+\\d{1,2}☘ .+ Fortune §fduring the contest!",
     "chat.player.death": "§c ☠ §r§7§r§.(?\u003cname\u003e.+)§r§7 (?\u003creason\u003e.+)",
     "chat.skymall.perk": "§eNew buff§r§r§r:(.*)",
