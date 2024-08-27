@@ -1,361 +1,382 @@
-{
-  "wither": [
-    {
-      "name": "§5Infinileap",
-      "renewable": true,
-      "cost": 25000
-    },
-    {
-      "name": "Forbidden Health",
-      "costs": [
-        100, 250, 500, 1000, 1500
+[
+  {
+    "type": "wither",
+    "upgrades": [
+      {
+        "name": "§5Infinileap",
+        "cost": 25000
+      },
+      {
+        "name": "Forbidden Health",
+        "costs": [
+          100, 250, 500, 1000, 1500
+        ]
+      },
+      {
+        "name": "Forbidden Defense",
+        "costs": [
+          100, 250, 500, 1000, 1500
+        ]
+      },
+      {
+        "name": "Forbidden Speed",
+        "costs": [
+          100, 250
+        ]
+      },
+      {
+        "name": "Forbidden Intelligence",
+        "costs": [
+          100, 250, 500, 1000, 1500
+        ]
+      },
+      {
+        "name": "Forbidden Strength",
+        "costs": [
+          100, 250, 500, 1000, 1500
+        ]
+      },
+      {
+        "name": "Forbidden Blessing",
+        "costs": [
+          200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000
+        ]
+      }
+    ]
+  },
+  {
+    "type": "crimson",
+    "upgrades": [
+      [
+        {
+          "name": "Strongarm",
+          "costs": [
+            1000, 2000
+          ]
+        },
+        {
+          "name": "Fresh Tools",
+          "costs": [
+            200, 400, 600, 800, 1000
+          ]
+        },
+        {
+          "name": "Headstart",
+          "costs": [
+            100, 200, 300, 400, 500
+          ]
+        },
+        {
+          "name": "Kuudra Master",
+          "costs": [
+            5000
+          ]
+        },
+        {
+          "name": "Fungus Fortuna",
+          "costs": [
+            100, 200, 300, 400, 500, 600, 700, 800, 900, 1000
+          ]
+        },
+        {
+          "name": "Harena Fortuna",
+          "costs": [
+            100, 200, 300, 400, 500, 600, 700, 800, 900, 1000
+          ]
+        },
+        {
+          "name": "Crimson Training",
+          "costs": [
+            250, 1250, 5000
+          ]
+        },
+        {
+          "name": "Wither Piper",
+          "costs": [
+            500, 750, 1250, 2000, 3000
+          ]
+        }
       ]
-    },
-    {
-      "name": "Forbidden Defense",
-      "costs": [
-        100, 250, 500, 1000, 1500
-      ]
-    },
-    {
-      "name": "Forbidden Speed",
-      "costs": [
-        100, 250
-      ]
-    },
-    {
-      "name": "Forbidden Intelligence",
-      "costs": [
-        100, 250, 500, 1000, 1500
-      ]
-    },
-    {
-      "name": "Forbidden Strength",
-      "costs": [
-        100, 250, 500, 1000, 1500
-      ]
-    },
-    {
-      "name": "Forbidden Blessing",
-      "costs": [
-        200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000
-      ]
-    }
-  ],
-  "crimson": [
-    {
-      "name": "Strongarm",
-      "costs": [
-        1000, 2000
-      ]
-    },
-    {
-      "name": "Fresh Tools",
-      "costs": [
-        200, 400, 600, 800, 1000
-      ]
-    },
-    {
-      "name": "Headstart",
-      "costs": [
-        100, 200, 300, 400, 500
-      ]
-    },
-    {
-      "name": "Kuudra Master",
-      "costs": [
-        5000
-      ]
-    },
-    {
-      "name": "Fungus Fortuna",
-      "costs": [
-        100, 200, 300, 400, 500, 600, 700, 800, 900, 1000
-      ]
-    },
-    {
-      "name": "Harena Fortuna",
-      "costs": [
-        100, 200, 300, 400, 500, 600, 700, 800, 900, 1000
-      ]
-    },
-    {
-      "name": "Crimson Training",
-      "costs": [
-        250, 1250, 5000
-      ]
-    },
-    {
-      "name": "Wither Piper",
-      "costs": [
-        500, 750, 1250, 2000, 3000
-      ]
-    }
-  ],
-  "diamond": [
-    {
-      "name": "§6Perfectly Cut Diamond",
-      "renewable": true,
-      "cost": 1000
-    },
-    {
-      "name": "Radiant Fisher",
-      "costs": [
-        200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000
-      ]
-    },
-    {
-      "name": "Diamond in the Rough",
-      "costs": [
-        1000, 1500, 2000, 3000, 5000
-      ]
-    },
-    {
-      "name": "Rhinestone Infusion",
-      "costs": [
-        2000
-      ]
-    },
-    {
-      "name": "Under Pressure",
-      "costs": [
-        125, 250, 500, 1000, 1500
-      ]
-    },
-    {
-      "name": "High Roller",
-      "costs": [
-        5000
-      ]
-    },
-    {
-      "name": "Return to Sender",
-      "costs": [
-        50, 75, 100, 150, 250, 400, 750, 1000, 1750, 2500
-      ]
-    }
-  ],
-  "dragon": [
-    {
-      "name": "One Punch",
-      "costs": [
-        100, 200, 300, 400, 500
-      ]
-    },
-    {
-      "name": "Recharge",
-      "costs": [
-        100, 100, 100, 100, 100, 100, 100, 100, 100, 100
-      ]
-    },
-    {
-      "name": "Rageborn",
-      "costs": [
-        125, 250, 500, 1000, 1500
-      ]
-    },
-    {
-      "name": "Zealuck",
-      "costs": [
-        150, 500, 1250, 2000, 3000
-      ]
-    },
-    {
-      "name": "Ender Training",
-      "costs": [
-        250, 1250, 5000
-      ]
-    },
-    {
-      "name": "Infused Dragon",
-      "costs": [
-        500, 1500, 2500, 3500, 4000
-      ]
-    },
-    {
-      "name": "Unbridled Rage",
-      "costs": [
-        1000, 1500, 2000, 3000, 5000
-      ]
-    },
-    {
-      "name": "Two-Headed Strike",
-      "costs": [
-        1500, 2250, 3250, 4500, 6500
-      ]
-    },
-    {
-      "name": "Dragon Piper",
-      "costs": [
-        2000
-      ]
-    }
-  ],
-  "gold": [
-    {
-      "name": "Heart of Gold",
-      "costs": [
-        1000, 1500, 2000, 3000, 5000
-      ]
-    },
-    {
-      "name": "Treasure of the Earth",
-      "costs": [
-        150, 500, 1250, 2000, 3000
-      ]
-    },
-    {
-      "name": "Dwarven Training",
-      "costs": [
-        250, 1250, 5000
-      ]
-    },
-    {
-      "name": "Unbreaking",
-      "costs": [
-        150, 500, 1250, 2000, 3000
-      ]
-    },
-    {
-      "name": "Eager Miner",
-      "costs": [
-        100, 200, 300, 400, 500, 600, 700, 800, 900, 1000
-      ]
-    },
-    {
-      "name": "Midas Lure",
-      "costs": [
-        200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000
-      ]
-    }
-  ],
-  "ice": [
-    {
-      "name": "Enchanted Book",
-      "renewable": true,
-      "cost": 15000
-    },
-    {
-      "name": "Cold Efficiency",
-      "costs": [
-        1000, 1500, 2000, 3000, 5000
-      ]
-    },
-    {
-      "name": "Cooled Forges",
-      "costs": [
-        100, 1000, 2000, 3000, 5000
-      ]
-    },
-    {
-      "name": "Frozen Skin",
-      "costs": [
-        1000, 1500, 2000, 3000,  5000
-      ]
-    },
-    {
-      "name": "Season of Joy",
-      "costs": [
-        200, 400, 800, 1500, 2100, 3000, 3000, 4000, 4000, 4000
-      ]
-    },
-    {
-      "name": "Drake Piper",
-      "costs": [
-        2000
-      ]
-    }
-  ],
-  "spider": [
-    {
-      "name": "§5Travel Scroll to Arachne's Sanctuary",
-      "renewable": true,
-      "cost": 5000
-    },
-    {
-      "name": "Empowered Agility",
-      "costs": [
-        50, 75, 100, 150, 250, 400, 750, 1000, 1750, 2500
-      ]
-    },
-    {
-      "name": "Vermin Control",
-      "costs": [
-        100, 500, 1000, 3000, 5000
-      ]
-    },
-    {
-      "name": "Bane",
-      "costs": [
-        100, 500, 1000, 3000, 5000
-      ]
-    },
-    {
-      "name": "Spider Training",
-      "costs": [
-        250, 1250, 5000
-      ]
-    },
-    {
-      "name": "Toxophilite",
-      "costs": [
-        1000, 1500, 2000, 3000, 5000
-      ]
-    }
-  ],
-  "undead": [
-    {
-      "name": "§5Infinityboom TNT",
-      "renewable": true,
-      "cost": 50000
-    },
-    {
-      "name": "Boss Luck",
-      "costs": [
-        100, 1000, 10000, 100000
-      ]
-    },
-    {
-      "name": "Looting",
-      "costs": [
-        1000, 2000, 3000, 4000, 5000
-      ]
-    },
-    {
-      "name": "Help of the Fairies",
-      "costs": [
-        200000
-      ]
-    },
-    {
-      "name": "Health Essence",
-      "costs": [
-        1000, 2500, 5000, 10000, 25000
-      ]
-    },
-    {
-      "name": "Defense Essence",
-      "costs": [
-        1000, 4000, 6000, 8000, 10000
-      ]
-    },
-    {
-      "name": "Strength Essence",
-      "costs": [
-        1000, 4000, 6000, 8000, 10000
-      ]
-    },
-    {
-      "name": "Intelligence Essence",
-      "costs": [
-        1000, 4000, 6000, 8000, 10000
-      ]
-    },
-    {
-      "name": "Critical Essence",
-      "costs": [
-        1000, 3000, 10000, 20000, 50000
-      ]
-    }
-  ]
-}
+    ]
+  },
+  {
+    "type": "diamond",
+    "upgrades": [
+      {
+        "name": "§6Perfectly Cut Diamond",
+        "cost": 1000
+      },
+      {
+        "name": "Radiant Fisher",
+        "costs": [
+          200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000
+        ]
+      },
+      {
+        "name": "Diamond in the Rough",
+        "costs": [
+          1000, 1500, 2000, 3000, 5000
+        ]
+      },
+      {
+        "name": "Rhinestone Infusion",
+        "costs": [
+          2000
+        ]
+      },
+      {
+        "name": "Under Pressure",
+        "costs": [
+          125, 250, 500, 1000, 1500
+        ]
+      },
+      {
+        "name": "High Roller",
+        "costs": [
+          5000
+        ]
+      },
+      {
+        "name": "Return to Sender",
+        "costs": [
+          50, 75, 100, 150, 250, 400, 750, 1000, 1750, 2500
+        ]
+      }
+    ]
+  },
+  {
+    "type": "dragon",
+    "upgrades": [
+      {
+        "name": "One Punch",
+        "costs": [
+          100, 200, 300, 400, 500
+        ]
+      },
+      {
+        "name": "Recharge",
+        "costs": [
+          100, 100, 100, 100, 100, 100, 100, 100, 100, 100
+        ]
+      },
+      {
+        "name": "Rageborn",
+        "costs": [
+          125, 250, 500, 1000, 1500
+        ]
+      },
+      {
+        "name": "Zealuck",
+        "costs": [
+          150, 500, 1250, 2000, 3000
+        ]
+      },
+      {
+        "name": "Ender Training",
+        "costs": [
+          250, 1250, 5000
+        ]
+      },
+      {
+        "name": "Infused Dragon",
+        "costs": [
+          500, 1500, 2500, 3500, 4000
+        ]
+      },
+      {
+        "name": "Unbridled Rage",
+        "costs": [
+          1000, 1500, 2000, 3000, 5000
+        ]
+      },
+      {
+        "name": "Two-Headed Strike",
+        "costs": [
+          1500, 2250, 3250, 4500, 6500
+        ]
+      },
+      {
+        "name": "Dragon Piper",
+        "costs": [
+          2000
+        ]
+      }
+    ]
+  },
+  {
+    "type": "gold",
+    "upgrades": [
+      {
+        "name": "Heart of Gold",
+        "costs": [
+          1000, 1500, 2000, 3000, 5000
+        ]
+      },
+      {
+        "name": "Treasure of the Earth",
+        "costs": [
+          150, 500, 1250, 2000, 3000
+        ]
+      },
+      {
+        "name": "Dwarven Training",
+        "costs": [
+          250, 1250, 5000
+        ]
+      },
+      {
+        "name": "Unbreaking",
+        "costs": [
+          150, 500, 1250, 2000, 3000
+        ]
+      },
+      {
+        "name": "Eager Miner",
+        "costs": [
+          100, 200, 300, 400, 500, 600, 700, 800, 900, 1000
+        ]
+      },
+      {
+        "name": "Midas Lure",
+        "costs": [
+          200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000
+        ]
+      }
+    ]
+  },
+  {
+    "type": "ice",
+    "upgrades": [
+      {
+        "name": "Enchanted Book",
+        "cost": 15000
+      },
+      {
+        "name": "Cold Efficiency",
+        "costs": [
+          1000, 1500, 2000, 3000, 5000
+        ]
+      },
+      {
+        "name": "Cooled Forges",
+        "costs": [
+          100, 1000, 2000, 3000, 5000
+        ]
+      },
+      {
+        "name": "Frozen Skin",
+        "costs": [
+          1000, 1500, 2000, 3000,  5000
+        ]
+      },
+      {
+        "name": "Season of Joy",
+        "costs": [
+          200, 400, 800, 1500, 2100, 3000, 3000, 4000, 4000, 4000
+        ]
+      },
+      {
+        "name": "Drake Piper",
+        "costs": [
+          2000
+        ]
+      }
+    ]
+  },
+  {
+    "type": "spider",
+    "upgrades": [
+      {
+        "name": "§5Travel Scroll to Arachne's Sanctuary",
+        "cost": 5000
+      },
+      {
+        "name": "Empowered Agility",
+        "costs": [
+          50, 75, 100, 150, 250, 400, 750, 1000, 1750, 2500
+        ]
+      },
+      {
+        "name": "Vermin Control",
+        "costs": [
+          100, 500, 1000, 3000, 5000
+        ]
+      },
+      {
+        "name": "Bane",
+        "costs": [
+          100, 500, 1000, 3000, 5000
+        ]
+      },
+      {
+        "name": "Spider Training",
+        "costs": [
+          250, 1250, 5000
+        ]
+      },
+      {
+        "name": "Toxophilite",
+        "costs": [
+          1000, 1500, 2000, 3000, 5000
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undead",
+    "upgrades": [
+      {
+        "name": "§5Infinityboom TNT",
+        "cost": 50000
+      },
+      {
+        "name": "Boss Luck",
+        "costs": [
+          100, 1000, 10000, 100000
+        ]
+      },
+      {
+        "name": "Looting",
+        "costs": [
+          1000, 2000, 3000, 4000, 5000
+        ]
+      },
+      {
+        "name": "Help of the Fairies",
+        "costs": [
+          200000
+        ]
+      },
+      {
+        "name": "Health Essence",
+        "costs": [
+          1000, 2500, 5000, 10000, 25000
+        ]
+      },
+      {
+        "name": "Defense Essence",
+        "costs": [
+          1000, 4000, 6000, 8000, 10000
+        ]
+      },
+      {
+        "name": "Strength Essence",
+        "costs": [
+          1000, 4000, 6000, 8000, 10000
+        ]
+      },
+      {
+        "name": "Intelligence Essence",
+        "costs": [
+          1000, 4000, 6000, 8000, 10000
+        ]
+      },
+      {
+        "name": "Critical Essence",
+        "costs": [
+          1000, 3000, 10000, 20000, 50000
+        ]
+      }
+    ]
+  }
+]
