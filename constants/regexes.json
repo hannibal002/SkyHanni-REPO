@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a953646",
+  "sourceLabel": "c1c3fcc",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -103,7 +103,7 @@
     "data.collection.api.singlecounter": "§7Total Collected: §e(?\u003camount\u003e.*)",
     "data.collection.api.tierzero": "§7Progress to .* I: .*",
     "data.enchanting.inventory.experimentstable.book": "§9(?\u003cenchant\u003e.*)",
-    "data.enchanting.inventory.experimentstable.guardianpet": "§[956d]Guardian",
+    "data.enchanting.inventory.experimentstable.guardianpet": "§[956d]Guardian.*",
     "data.enchanting.inventory.experimentstable.gui": "Superpairs.*",
     "data.enchanting.inventory.experimentstable.mainmenu": "Experimentation Table",
     "data.enchanting.inventory.experimentstable.ultrarare": "§d§kXX§5 ULTRA-RARE BOOK! §d§kXX",
@@ -841,7 +841,7 @@
     "misc.compacttablist.username": "^\\[(?\u003csblevel\u003e\\d+)] (?:\\[\\w+] )?(?\u003cusername\u003e\\w+)",
     "misc.compacttablist.winterpowerups": "Active Power Ups(?:§.)*(?:\\n(§.)*§7.+)*",
     "misc.currentpet.chat.despawn": "§aYou despawned your §r.*§r§a!",
-    "misc.currentpet.chat.rule": "§cAutopet §eequipped your §7\\[Lvl .*] (?\u003cpet\u003e.*)! §a§lVIEW RULE",
+    "misc.currentpet.chat.rule": "§cAutopet §eequipped your §7\\[Lvl .*] (?\u003cpet\u003e.*)§e! §a§lVIEW RULE",
     "misc.currentpet.chat.spawn": "§aYou summoned your §r(?\u003cpet\u003e.*)§r§a!",
     "misc.currentpet.inventory.selected": "§7§7Selected pet: (?\u003cpet\u003e.*)",
     "misc.ingametime.date": ".*((Early|Late) )?(Winter|Spring|Summer|Autumn) [0-9]{1,2}(nd|rd|th|st)?.*",
