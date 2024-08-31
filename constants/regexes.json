@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "79d891d",
+  "sourceLabel": "755a36d",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -169,7 +169,7 @@
     "data.party.others.left": "(?\u003cname\u003e.*) §ehas left the party\\.",
     "data.party.others.offline": "§eKicked (?\u003cname\u003e.*) because they were offline\\.",
     "data.party.others.transfer.leave": "The party was transferred to (?\u003cnewowner\u003e.*) because (?\u003cname\u003e.*) left",
-    "data.party.others.transfer.voluntary": "The party was transferred to (?\u003cnewowner\u003e.*) by .*",
+    "data.party.others.transfer.voluntary": "The party was transferred to (?\u003cnewowner\u003e.*) by (?\u003cname\u003e.*)",
     "data.party.you.joined": "§eYou have joined (?\u003cname\u003e.*)\u0027s? §eparty!",
     "data.party.you.kicked": "§eYou have been kicked from the party by .* §e",
     "data.purse.coins": "(§.)*(Piggy|Purse): §6(?\u003ccoins\u003e[\\d,.]+)( ?(§.)*\\([+-](?\u003cearned\u003e[\\d,.]+)\\)?|.*)?$",
