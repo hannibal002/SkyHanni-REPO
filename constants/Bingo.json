@@ -1,48 +1,52 @@
 {
   "bingo_tips": {
-    "Poseidon (Community Goal)": {
-      "difficulty": "Medium",
-      "note": [
-        "Summon Sea Creatures"
-      ],
-      "guide": [
-        "Use the best rod you can get",
-        "your hands on (Chum Rod is a good option),",
-        "enchant it and don't forget to use baits.",
-        "You might also want to use Angler Armor."
-      ]
-    },
-    "Lucky Looter (Community Goal)": {
-      "difficulty": "Medium",
-      "note": [
-        "Collect rare drops"
-      ],
-      "guide": [
-        "Carrots and potatoes from killing",
-        "Zombies in graveyard do count."
-      ]
-    },
-    "Agricultural Revolution (Community Goal)": {
+    "Skilled (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Break Crops"
+        "Gain Taming experience"
       ],
       "guide": [
-        "You might want to go for Sugar Cane",
-        "in your Garden, but you can also use",
-        "the wheat in The Hub."
+        "You will passively get progress",
+        "in this by just having a pet",
+        "equipped all time. Even a",
+        "Level 100 pet works for this."
       ]
     },
-    "Essence Of Spiders (Community Goal)": {
-      "difficulty": "Medium",
+    "A Hard Day's Work (Community Goal)": {
+      "difficulty": "Easy",
       "note": [
-        "Gain Spider Essence"
+        "Collect Jacobs Tickets from contests"
       ],
       "guide": [
-        "For this you can kill Arachne in the Spider's Den,",
-        "salvage the gear drops you get from that",
-        " and also gain Spider Essence from opening",
-        "secret chests in dungeons."
+        "To get easy progress in this do",
+        "contests like Wheat, Potato, Carrot",
+        "or Mushroom as those are easy",
+        "Bronze or Silver Medals to get."
+      ]
+    },
+    "Clown Collab (Community Goal)": {
+      "difficulty": "Medium",
+      "note": [
+        "Defeat Bonzo"
+      ],
+      "guide": [
+        "For this you will need Combat 15 and",
+        "completion of the previous floor.",
+        "Going for this with your friends is",
+        "probably the best option or you",
+        "could use party finder."
+      ]
+    },
+    "Revenant Horror (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Kill T2 Zombie Bosses"
+      ],
+      "guide": [
+        "Once you acquire a Void Sword and a decent",
+        "armor like Ender or Glacite this should be",
+        "fairly easy to do. You might get a little",
+        "progress in this from doing the Slayer Goal."
       ]
     },
     "Operation: Ore (Community Goal)": {
@@ -67,60 +71,64 @@
         "and claim the rewards by talking to Maddox."
       ]
     },
-    "Powder Collector": {
-      "difficulty": "Medium",
+    "Brewer": {
+      "difficulty": "Easy",
       "note": [
-        "25k Mithril Powder"
+        "Obtain Alchemy Level 5"
       ],
       "guide": [
-        "Open chests in the Crystal Hollows (Heart of the Mountain III),",
-        "do commissions in The Dwarven Mines,",
-        "claim your daily powder from the Puzzler and",
-        "from giving Fetchur the items he asks for.",
-        "Fetchurs items are all listed in the Wiki.",
-        "Try to do those while a '2x Powder' event is active."
+        "Use Enchanted Sugar that you get from",
+        "killing pests in The Garden or from",
+        "farming some Sugar Cane to brew",
+        "Speed Potions (you will also need",
+        "some nether warts for Awkward Potions first)"
       ]
     },
-    "Minion Machine": {
-      "difficulty": "Medium",
+    "Iron Ingot Collector": {
+      "difficulty": "Hard",
       "note": [
-        "60 unique Minions"
+        "100k Iron Collection"
       ],
       "guide": [
-        "Doing this will bring you decently close",
-        "to your 10th Minion Slot which will be",
-        "useful for other goals. Craft all the",
-        "Minions you get across. Remember that",
-        "you can buy material from a few NPCs."
+        "Mine 50 Iron in the Gold Mine",
+        "to unlock Iron Minions. Then buy",
+        "Iron from the Mine Merchant in The Hub",
+        "and Iron Forger in the Gold Mine and",
+        "craft as many minions as you can.",
+        "Give them the best fuel and storage you",
+        "have access to and don't forget Auto Smelters.",
+        "Remember to collect in time."
       ]
     },
     "Fashionable": {
       "difficulty": "Easy",
       "note": [
-        "4 Armor Sets"
+        "7 Armor Sets"
       ],
       "guide": [
-        "Craft Leather, Iron, Gold and Diamond Armor",
+        "Craft Leather, Iron, Gold, Diamond, Mushroom",
+        "and Leaflet Armor. Grind Glacite Armor",
+        "for the goal I've got Chills!",
         "and equip them all in one lobby."
       ]
     },
-    "Jade Crystal": {
-      "difficulty": "Medium",
+    "Skill Average": {
+      "difficulty": "Easy",
       "note": [
-        "Obtain a Jade Crystal"
+        "Skill Average of 8"
       ],
       "guide": [
-        "You will need Heart of the Mountain 3",
-        "for this (this can be done by doing",
-        "4 commissions a day for 3 days). In the",
-        "Crystal Hollows you will need to find",
-        "Mines of Divan and 4 different tools in there."
+        "To help with this, try to make bigger crafts",
+        "by hand for Carpentry levels.",
+        "Also do your daily experiments and make sure",
+        "to have a pet active at all times",
+        "(any pet works, even level 100)."
       ]
     },
     "High Score!": {
       "difficulty": "Medium",
       "note": [
-        "270+ Score in Floor 1"
+        "230+ Score in Floor 1"
       ],
       "guide": [
         "This requires Catacombs Level 1 and ",
@@ -129,55 +137,62 @@
         "or friends for this."
       ]
     },
-    "Warrior": {
+    "Obsidian Treasure": {
       "difficulty": "Medium",
       "note": [
-        "Combat Level 20"
+        "Open an Obsidian Dungeon Chest"
       ],
       "guide": [
-        "You will get decent progress towards this",
-        "while going for other grinds. You will most",
-        "likely have to kill some Enderman in The End",
-        "to finish this. Don't forget to claim your",
-        "bestiary rewards."
+        "Save your coins from Meiser and ideally",
+        "you get a score of 270+ in your run for",
+        "High Score! You may need more coins than",
+        "250k if you do drop rarer loot.",
+        "Remember you can open chests at Croesus",
+        "in the Dungeon Hub up to 48h after the run."
       ]
     },
-    "I Am Speed": {
-      "difficulty": "Easy",
-      "note": [
-        "250 Speed"
-      ],
-      "guide": [
-        "Talk to Jamie in the Hub and",
-        "claim the Rogue Sword from him.",
-        "Right click it to gain +100 Speed.",
-        "Or just wait for a splash."
-      ]
-    },
-    "Diversity": {
-      "difficulty": "Medium",
-      "note": [
-        "40 unique Collections"
-      ],
-      "guide": [
-        "You can unlock 17/17 Farming Collections,",
-        "6/11 Combat Collections, 6/6 Foraging Collections,",
-        "14/22 Mining Collections for a total of 43 collections.",
-        "You will also get some Fishing Collections."
-      ]
-    },
-    "Hard Stone Collector": {
+    "Bone Collector": {
       "difficulty": "Hard",
       "note": [
-        "130k Hard Stone Collection"
+        "47.5k Bone Collection"
       ],
       "guide": [
-        "You will need Heart of the Mountain 3",
-        "for this (this can be done by doing",
-        "4 commissions a day for 3 days). Aim to",
-        "use 10 or more Minions for this and give",
-        "them the best fuel and storage you have",
-        "access to. Collect in time!"
+        "Unlock Skeleton Minions by killing skeletons you",
+        "run into along your way. Then buy",
+        "Bones from the Adventurer in The Hub",
+        "and craft as many minions as you can.",
+        "Give them the best fuel and storage you",
+        "have access to.",
+        "Remember to collect in time."
+      ]
+    },
+    "Podium Position": {
+      "difficulty": "Easy",
+      "note": [
+        "Get Bronze or higher in a contest"
+      ],
+      "guide": [
+        "For this you will need Farming 10.",
+        "Your best options for this will probably be",
+        "Wheat/Potato/Carrot in the Garden or Mushroom",
+        "if you use an Efficiency 5 Silk Touch Gold Axe",
+        "in the Desert."
+      ]
+    },
+    "Oak Wood Collector": {
+      "difficulty": "Hard",
+      "note": [
+        "100k Oak Wood collection"
+      ],
+      "guide": [
+        "Optimal tool:",
+        "Golden Axe with Efficiency 5",
+        "Reforges: Double-Bit or Lush",
+        "Get Haste 3 from a splash to instamine wood",
+        "Forage in the Hub.",
+        "Place as many minions as you can,",
+        "give them a medium storage and the best fuel",
+        "you can. Collect them in time."
       ]
     },
     "Strongman": {
@@ -193,86 +208,87 @@
         "and hold it while some Ender Armor and/or Equipment."
       ]
     },
-    "Pair Up!": {
+    "Healthy": {
       "difficulty": "Easy",
       "note": [
-        "Find 1 pair in the Experimentation Table"
+        "750 Health"
       ],
       "guide": [
-        "Get Enchanting Level 10 and play",
-        "the first tier in the Experimentation Table."
+        "Wear armor enchanted with Growth 5 ",
+        "(Enchanting Level 5), preferably Ender Armor",
+        "while you're in The End or Mushroom Armor",
+        "during the night.",
+        "Applying Growth 5 costs 50 Levels each.",
+        "If you still struggle, reforge your",
+        "armor to Titanic."
       ]
     },
-    "Bedazzled": {
+    "I've got Chills!": {
       "difficulty": "Medium",
       "note": [
-        "12 unique Accessories"
+        "Wear a full set of Glacite"
       ],
       "guide": [
-        "List of more than 12 talismans:",
-        "Buy all 6 Talismans for 26k from the Adventurer in The Hub",
-        "Collection Talismans:",
-        "Night Vision Charm, Farming Talisman, Vaccine Talisman,",
-        "Gravity Talisman, Talisman of Coins, Magnetic Talisman,",
-        "Emerald Ring, Wood Affinity Talisman, Speed Talisman,",
-        "Potion Affinity Talisman",
-        "Other:",
-        "Archaeologists Compass, Shiny Yellow Rock, King Talisman,",
-        "Campfire Initiate Badge, Cat Talisman, Spider Talisman.",
-        "Don't forget to take the 4 Bonus accessory bag slots from",
-        "the Redstone Miner, he needs 1920 Redstone in total."
-      ]
-    },
-    "E=mc²": {
-      "difficulty": "Medium",
-      "note": [
-        "Obtain a Mathematical Hoe Blueprint"
-      ],
-      "guide": [
-        "To get the required Gold Medal you'll have",
-        "to either trade in 4 Silver or 8 Bronze Medals",
-        "with Anita. The crops recommended for this are:",
-        "Wheat, Carrot, Potato, Cactus, and Mushroom."
+        "You will need Mining 12 for this as you",
+        "need to enter the Dwarven Mines for this.",
+        "Remember that Glacite Walkers take more",
+        "damage from pickaxes."
       ]
     },
     "Dirty Reforger": {
       "difficulty": "Easy",
       "note": [
-        "Apply the Dirty reforge"
+        "Apply the Dirty Reforge"
       ],
       "guide": [
-        "Buy a Dirt Bottle (100k) from Smithmonger in the Hub",
-        "and reforge a weapon with it.",
-        "Make sure to NOT shift-click it out",
-        "of the menu after applying!"
+        "Buy a Dirt Bottle (100k) from the Smithmonger",
+        "in the Hub and reforge a weapon with it.",
+        "§4Make sure to NOT shift-click it out",
+        "§4of the menu after applying!"
       ]
     },
-    "Sea Summoner": {
+    "Collector": {
       "difficulty": "Easy",
       "note": [
-        "30% Sea Creature Chance"
+        "7 Collections to Tier 7"
       ],
       "guide": [
-        "Claim your cake buff (visit skyerzz, xMeru or prtl)",
-        "hold an Angler 4 or 5 rod and visit someone",
-        "with a Sea Creature Chance beacon."
+        "You will get some progress for this",
+        "by working on other goals.",
+        "The easiest to go for are:",
+        "Mushroom, Oak Wood, Bone,",
+        "Sand, Wheat, Iron and Seeds."
       ]
     },
-    "Carry-On": {
+    "Critical": {
       "difficulty": "Easy",
       "note": [
-        "Craft a Small Backpack"
+        "Reach 100 Crit Damage"
       ],
       "guide": [
-        "Kill Cows in The Barn to unlock this",
-        "and craft it using the materials you",
-        "got along the way."
+        "Reforge your Void Sword to Sharp",
+        "at the Blacksmith in the Hub,",
+        "or enchant any weapon with Critical 5",
+        "(costs 50 Levels)."
+      ]
+    },
+    "Rock Solid": {
+      "difficulty": "Medium",
+      "note": [
+        "Equip an Umcommon+ Rock Pet"
+      ],
+      "guide": [
+        "Get the common Rock from mining",
+        "2.5k Ores and hand it to Kat in The Hub",
+        "(takes a day and 100k coins) or mine",
+        "5k more Ores to get the uncommon Rock.",
+        "Remember to equip it!"
       ]
     },
     "Meiser": {
       "difficulty": "Easy",
       "note": [
-        "500k coins in the bank"
+        "250k coins in the bank"
       ],
       "guide": [
         "You will most likely get this from",
@@ -281,29 +297,34 @@
         "you get in the Bank :)"
       ]
     },
-    "A Best Friend": {
+    "Pet Hoarder": {
       "difficulty": "Medium",
       "note": [
-        "Craft any pet"
+        "Obtain 12 unique pets"
       ],
       "guide": [
-        "Use a Chicken Head to get enough eggs",
-        "to craft an Enchanted Egg (2.5k Chicken Collection).",
-        "With your Enchanted Egg and 8 Move Jerry's,",
-        "craft a Jerry pet."
+        "§nNo eggs:§r",
+        "Bingo, Endermen, Grandma Wolf, Armadillo,",
+        "Squid, Guardian, Bee, Dolphin, Reindeer,",
+        "Rock, Tarantula, Owl and Zoo",
+        "§nEggs:§r",
+        "Jerry, Silverfish, Pig, Rabbit, Endermite and Bat",
+        "If you do eggs you will need 2.5k Chicken Collection",
+        "and you'll want a Chicken Minion that can create more",
+        "Enchanted Eggs for you once you put your first one in."
       ]
     },
-    "Hard Worker": {
+    "Ender Menace": {
       "difficulty": "Medium",
       "note": [
-        "Obtain any t12 Minion"
+        "Kill 10 Endermen in 8s"
       ],
       "guide": [
-        "For this you either want to go for",
-        "Wheat, Mushroom or Cobblestone.",
-        "The first 2 options will require 75 pelts",
-        "to get to t12. Use /warp trapper and SkyHanni's",
-        "Trapper Features to help with that."
+        "Hit 10 Endermen in The End",
+        "so they follow you, then kill them",
+        "all as quickly as you can.",
+        "You most likely want to use Ender Armor",
+        "and a Void Sword for this."
       ]
     }
   }
