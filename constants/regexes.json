@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "f40863a",
+  "sourceLabel": "196c1d5",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -46,6 +46,9 @@
     "chat.arachne.calling": "§4☄ §r.* §r§eplaced an §r§9Arachne\u0027s Calling§r§e!.*",
     "chat.arachne.crystal": "§4☄ §r.* §r§eplaced an Arachne Crystal! Something is awakening!",
     "chat.arachne.spawn": "§c\\[BOSS] Arachne§r§f: (?:The Era of Spiders begins now\\.|Ahhhh\\.\\.\\.A Calling\\.\\.\\.)",
+    "chat.experiments.compact.drop": "^(?:§8 \\+| §r§8\\+)(?\u003creward\u003e.*)$",
+    "chat.experiments.compact.inventories": "(?:Superpairs|Chronomatron|Ultrasequencer) (?:\\(.+\\)|➜ Stakes|Rewards)|Experimentation Table",
+    "chat.experiments.compact.message": "(?\u003cmessage\u003e§eYou claimed the §r§.\\S+ §r§erewards!)",
     "chat.firesale": "§6§k§lA§r §c§lFIRE SALE §r§6§k§lA(?:\\n|.)*",
     "chat.garden.no.pest": "§cThere are not any Pests on your Garden right now! Keep farming!",
     "chat.jacobevent.accessory": "§e\\[NPC] Jacob§f: §rYour §9Anita\u0027s \\w+ §fis giving you §6\\+\\d{1,2}☘ .+ Fortune §fduring the contest!",
