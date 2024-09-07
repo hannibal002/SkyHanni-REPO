@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "987fc85",
+  "sourceLabel": "4663ebc",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -77,6 +77,8 @@
     "crimson.reputation.tablist": " §r§[cdea].*",
     "crimson.reputationhelper.quest.minibossamount": "(?:§7Kill the §c.+ §7|.*)miniboss §a(?\u003camount\u003e\\d) §7times?!",
     "crimson.volcano.tablistline": " *Volcano: (?\u003cstatus\u003e(?:§.)*\\S+)",
+    "data.abiphone.contacts": "Your contacts: (?\u003ccontacts\u003e\\d+)\\/\\d+",
+    "data.abiphone.name": "Abiphone .*",
     "data.accessory.bagname.new": "Accessory Bag.*",
     "data.bits.chat.boostercookieate": "§eYou consumed a §6Booster Cookie§e!.*",
     "data.bits.chat.rankup.bits": "§eYou gained §3(?\u003camount\u003e.*) Bits Available §ecompounded from all your §epreviously eaten §6cookies§e! Click here to open §6cookie menu§e!",
@@ -546,6 +548,7 @@
     "harp.inventory": "Harp.*",
     "harp.menu": "Melody.*",
     "harp.song.selected": "§aSong is selected!",
+    "inv.acceptable": "^(Accessory Bag(?: \\(\\d+\\/\\d+\\))?|Auctions Browser|Manage Auctions|Auctions: \".*\"?)$",
     "inventory.auctionhouse.title.search": "Auctions: \"(?\u003csearchTerm\u003e.*)\"?",
     "inventory.chocolate.factory.chat.hide.0": "§cYou don\u0027t have enough Chocolate!",
     "inventory.chocolate.factory.chat.hide.1": "§cYou don\u0027t have the required items!",
