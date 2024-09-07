@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4663ebc",
+  "sourceLabel": "83d48c6",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -995,6 +995,7 @@
     "tab.widget.enum.election": "\\s*(?:§.)*Election: (?:§.)*(?\u003ctime\u003e.*)",
     "tab.widget.enum.essence": "\\s*(?:§.)*Essence:.*",
     "tab.widget.enum.event": "\\s*(?:§.)*Event: (?:§.)*(?\u003cevent\u003e.*)",
+    "tab.widget.enum.event.trackers": "\\s*§e§lEvent Trackers:",
     "tab.widget.enum.eyes.placed": "\\s*Eyes placed: (?:§.)*(?\u003camount\u003e\\d).*|(?:§.)*Dragon spawned!|(?:§.)*Egg respawning!",
     "tab.widget.enum.faction.quests": "\\s*(?:§.)*Faction Quests:",
     "tab.widget.enum.fairy.souls": "\\s*Fairy Souls: (?:§.)*(?\u003cgot\u003e\\d+)(?:§.)*\\/(?:§.)*(?\u003cmax\u003e\\d+)",
