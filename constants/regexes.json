@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "196c1d5",
+  "sourceLabel": "9888071",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -44,7 +44,11 @@
     "bingo.steps.crystal.obtained": " *§r§e(?\u003ccrystalName\u003eTopaz|Sapphire|Jade|Amethyst|Amber) Crystal",
     "bingo.steps.skill": "Obtain level (?\u003clevel\u003e.*) in the (?\u003cskill\u003e.*) Skill.",
     "chat.arachne.calling": "§4☄ §r.* §r§eplaced an §r§9Arachne\u0027s Calling§r§e!.*",
+    "chat.arachne.calling.spawned": "§c\\[BOSS] Arachne§r§f: A befitting welcome!",
     "chat.arachne.crystal": "§4☄ §r.* §r§eplaced an Arachne Crystal! Something is awakening!",
+    "chat.arachne.crystal.spawned": "§c\\[BOSS] Arachne§r§f: With your sacrifice.",
+    "chat.arachne.damage": "§f +§r§eYour Damage: §r§a[0-9,]+ §r§7\\(Position #[0-9,]+\\)",
+    "chat.arachne.dead": "§f.*§r§6§lARACHNE DOWN!",
     "chat.arachne.spawn": "§c\\[BOSS] Arachne§r§f: (?:The Era of Spiders begins now\\.|Ahhhh\\.\\.\\.A Calling\\.\\.\\.)",
     "chat.experiments.compact.drop": "^(?:§8 \\+| §r§8\\+)(?\u003creward\u003e.*)$",
     "chat.experiments.compact.inventories": "(?:Superpairs|Chronomatron|Ultrasequencer) (?:\\(.+\\)|➜ Stakes|Rewards)|Experimentation Table",
