@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9352ace",
+  "sourceLabel": "3db3627",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -810,6 +810,9 @@
     "misc.chocolatefactory.egg.notevent": "§cThis only works during Hoppity\u0027s Hunt!",
     "misc.chocolatefactory.egg.shared": ".*\\[SkyHanni] (?\u003cmeal\u003e\\w+) Chocolate Egg located at x: (?\u003cx\u003e-?\\d+), y: (?\u003cy\u003e-?\\d+), z: (?\u003cz\u003e-?\\d+)(?: \\((?\u003cnote\u003e.*)\\))?",
     "misc.chocolatefactory.egg.spawned": "§d§lHOPPITY\u0027S HUNT §r§dA §r§.Chocolate (?\u003cmeal\u003e\\w+) Egg §r§dhas appeared!",
+    "misc.chocolatefactory.hoppity.call.init": "§e✆ §r(?:§a|§b)Hoppity§r§e ✆.*",
+    "misc.chocolatefactory.hoppity.call.pickup": "§e\\[NPC] §aHoppity§f: §b✆ §f§rWhat\u0027s up, .*§f\\?",
+    "misc.chocolatefactory.hoppity.call.ring": "§a✆ (?:RING\\.{3} ?){1,3}(?:§r §r§2§l\\[PICK UP])?",
     "misc.chocolatefactory.inventory.name": "Hoppity|Chocolate Factory Milestones",
     "misc.chocolatefactory.item.lore.upgrade": "§a§l(?:UPGRADE|PROMOTE) §8➜ (?:§7\\[(?\u003cnextlevel\u003e\\d+)§7] )?(?\u003cupgradename\u003e.*?) ?(?\u003cnextlevelalt\u003e[IVXLCDM]*)$",
     "misc.chocolatefactory.item.name.employee": "(?\u003cemployee\u003e(?:§.+)+Rabbit .*)§8 - §7\\[\\d*§7] .*",
