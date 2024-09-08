@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "88416ed",
+  "sourceLabel": "5ac091a",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -895,6 +895,7 @@
     "mob.detection.filter.summon": "^(?\u003cowner\u003e\\w+)\u0027s (?\u003cname\u003e.*) \\d+.*",
     "mob.detection.jerry": "(?:\\[\\w+(?\u003clevel\u003e\\d+)\\] )?(?\u003cowner\u003e\\w+)\u0027s (?\u003cname\u003e\\w+ Jerry) \\d+ Hits",
     "mob.detection.pattern.dungeon.woke.golem": "(?:§c§lWoke|§5§lSleeping) Golem§r",
+    "mob.detection.pattern.heavypearl.collect": "§.§lCOLLECT!",
     "mob.detection.pattern.jerry.magma.cube": "§c(?:Cubie|Maggie|Cubert|Cübe|Cubette|Magmalene|Lucky 7|8ball|Mega Cube|Super Cube)(?: ᛤ)? §a\\d+§8\\/§a\\d+§c❤",
     "mob.detection.pattern.pet.entities": "^§8\\[§7Lv\\d+§8] §.(?\u003cname\u003eHorse|Armadillo|Skeleton Horse|Pig|Rat)$",
     "mob.detection.pattern.petcare": "^\\[\\w+ (?\u003clevel\u003e\\d+)\\] (?\u003cname\u003e.*)",
