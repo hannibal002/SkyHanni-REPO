@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "3db3627",
+  "sourceLabel": "6b31a01",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -392,6 +392,8 @@
     "features.gui.customscoreboard.scoreboard.rift.hayeaten": "^Hay Eaten: §.[\\d,.]+/[\\d,.]+$",
     "features.gui.customscoreboard.scoreboard.rift.hotdogeaten": "^Eaten: §.\\d+\\/\\d+$",
     "features.gui.customscoreboard.scoreboard.rift.hotdogtitle": "^§6Hot Dog Contest$",
+    "features.gui.customscoreboard.scoreboard.rift.protestors.handled": "Protestors handled: §b\\d+\\/\\d+",
+    "features.gui.customscoreboard.scoreboard.rift.protestors.quest": "§eFirst Up|Find and talk with Barry",
     "features.gui.customscoreboard.tablist.bank": "^\\s*Bank: §6(?\u003cbank\u003e[\\w.,]+(?:§7 \\/ §6(?\u003ccoop\u003e[\\w.,]+))?)$",
     "features.gui.customscoreboard.tablist.event": "^\\s*§e§lEvent: §r(?\u003cname\u003e§.*)$",
     "features.gui.customscoreboard.tablist.eventtime": "^\\s+Ends In: §r§e(?\u003ctime\u003e.*)$",
