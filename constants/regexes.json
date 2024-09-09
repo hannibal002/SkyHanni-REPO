@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6b31a01",
+  "sourceLabel": "5e77ccd",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -81,6 +81,8 @@
     "cookie.bits.time": "§5§o§7§b4 §7days:",
     "cookie.bits.wrong": "§[de]Booster Cookie",
     "craftableitemlist.craftitem": "Craft Item",
+    "crimson.miniboss.down": "§f\\s*§r§6§l(?\u003cname\u003e.+) DOWN!",
+    "crimson.miniboss.spawn": "§c§lBEWARE - (?\u003cname\u003e.+) Is Spawning\\.",
     "crimson.reputation.tablist": " §r§[cdea].*",
     "crimson.reputationhelper.quest.minibossamount": "(?:§7Kill the §c.+ §7|.*)miniboss §a(?\u003camount\u003e\\d) §7times?!",
     "crimson.volcano.tablistline": " *Volcano: (?\u003cstatus\u003e(?:§.)*\\S+)",
