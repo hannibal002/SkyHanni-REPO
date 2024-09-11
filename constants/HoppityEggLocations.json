@@ -226,6 +226,7 @@
   "coachRabbitIndex": 42,
   "maxRabbits": 457,
   "maxPrestige": 6,
+  "maxMilestoneChocolate": 700000000000,
   "chocolateMilestones": [
     50000000000,
     100000000000,
