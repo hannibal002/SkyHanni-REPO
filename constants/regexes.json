@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e17e70b",
+  "sourceLabel": "c1f6c72",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -427,6 +427,10 @@
     "filter.powdermining.warning.breakingpower": "§cYou need a tool with a §r§aBreaking Power §r§cof (?:§.)*\\d+§r§c to mine (Ruby|Amethyst|Jade|Amber|Sapphire|Topaz) Gemstone Block§r§c!.+",
     "filter.powdermining.warning.chestuncover": "§aYou uncovered a treasure chest!",
     "filter.powdermining.warning.successpick": "§6You have successfully picked the lock on this chest!",
+    "fishing.goldenfish.despawn": "§9The §r§6Golden Fish §r§9swims back beneath the lava\\.\\.\\.",
+    "fishing.goldenfish.interact": "§9The §r§6Golden Fish §r§9escapes your hook but looks weakened\\.",
+    "fishing.goldenfish.spawn": "§9You spot a §r§6Golden Fish §r§9surface from beneath the lava!",
+    "fishing.goldenfish.weak": "§9The §r§6Golden Fish §r§9is weak!",
     "fishing.seacreature.doublehook": "§eIt\u0027s a §r§aDouble Hook§r§e!(?: Woot woot!)?",
     "fishing.seacreature.thundercharged": "§e\u003e Your bottle of thunder has fully charged!",
     "fishing.totemofcorruption.owner": "§7Owner: §e(?\u003cowner\u003e.+)",
