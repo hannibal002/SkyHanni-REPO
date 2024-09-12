@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4e23db7",
+  "sourceLabel": "b99310b",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -883,6 +883,8 @@
     "misc.pet.item.name": "(?\u003cfavorite\u003e(?:§.)*⭐ )?(?:§.)*\\[Lvl (?\u003clevel\u003e\\d+)] (?\u003cname\u003e.*)",
     "misc.pet.item.name.neu.format": "(?:§f§f)?§7\\[Lvl (?:1➡(?:100|200)|\\{LVL})] (?\u003cname\u003e.*)",
     "misc.pet.menu.title": "Pets(?: \\(\\d+/\\d+\\) )?",
+    "misc.piggybank.broke": "§cYou died, lost [\\d.,]* coins and your piggy bank broke!",
+    "misc.piggybank.cracked": "§cYou died and your piggy bank cracked!",
     "misc.restore.wizard.portal.earned": "§7Earned by:.*",
     "misc.statsbreakdown.showallstats": "§7Show all stats: §.(?\u003ctoggle\u003e.*)",
     "misc.teleportpad.name": "§.✦ §aWarp To (?\u003cname\u003e.*)",
