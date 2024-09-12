@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "c48d82d",
+  "sourceLabel": "b2d1c22",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -252,6 +252,8 @@
     "dungeon.time": "Time Elapsed: §.(?:(?\u003cminutes\u003e\\d+)m )?(?\u003cseconds\u003e\\d+)s",
     "dungeons.highlightclickedblock.lever": "§cYou hear the sound of something opening...",
     "dungeons.highlightclickedblock.locked": "§cThat chest is locked!",
+    "event.carnival.shootout.end": " {29}Zombie Shootout",
+    "event.carnival.shootout.start": "\\[NPC] Carnival Cowboy: Good luck, pal!",
     "event.diana.mythological.tracker.gaiaconstruct": ".* §r§eYou dug out a §r§2Gaia Construct§r§e!",
     "event.diana.mythological.tracker.minoschampion": ".* §r§eYou dug out a §r§2Minos Champion§r§e!",
     "event.diana.mythological.tracker.minoshunter": ".* §r§eYou dug out a §r§2Minos Hunter§r§e!",
