@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "996b704",
+  "sourceLabel": "4e23db7",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -999,7 +999,7 @@
     "tab.widget.enum.area": "\\s*(?:§.)*(Area|Dungeon): (?:§.)*(?\u003cisland\u003e.*)",
     "tab.widget.enum.bank": "\\s*Bank: (?:§.)*(?\u003camount\u003e[^§]+)(?:(?:§.)* \\/ (?:§.)*(?\u003cpersonal\u003e.*))?",
     "tab.widget.enum.bestiary": "\\s*(?:§.)*Bestiary:",
-    "tab.widget.enum.broodmother": "\\s*Broodmother: (?:§.)*(?\u003ctime\u003e.*)",
+    "tab.widget.enum.broodmother": "\\s*Broodmother: (?:§.)*(?\u003cstage\u003e.*)",
     "tab.widget.enum.collection": "\\s*(?:§.)*Collection:",
     "tab.widget.enum.commissions": "\\s*(?:§.)*Commissions:",
     "tab.widget.enum.composter": "\\s*(?:§.)*Composter:",
