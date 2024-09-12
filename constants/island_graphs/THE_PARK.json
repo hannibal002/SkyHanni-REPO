@@ -249,49 +249,48 @@
   },
   "30": {
     "Position": "-322.0:92.0:-55.0",
-    "Name": "Birch Park",
     "Tags": [
       "area"
     ],
     "Neighbours": {
-      "31": 4.12,
+      "31": 3.16,
       "29": 5.83
     }
   },
   "31": {
-    "Position": "-326.0:92.0:-56.0",
+    "Position": "-325.0:92.0:-56.0",
     "Name": "Cracked Wall",
     "Tags": [
       "dev"
     ],
     "Neighbours": {
-      "30": 4.12,
-      "261": 5.1
+      "32": 2.0,
+      "30": 3.16
     }
   },
   "32": {
-    "Position": "-334.0:90.0:-56.0",
-    "Name": "Howling Cave",
+    "Position": "-327.0:92.0:-56.0",
+    "Name": "Birch Park",
     "Tags": [
       "area"
     ],
     "Neighbours": {
-      "261": 3.16,
-      "33": 6.71
+      "31": 2.0,
+      "303": 3.0
     }
   },
   "33": {
-    "Position": "-339.0:88.0:-60.0",
+    "Position": "-339.0:89.0:-59.0",
     "Neighbours": {
-      "32": 6.71,
-      "34": 14.32
+      "261": 7.0,
+      "34": 15.52
     }
   },
   "34": {
     "Position": "-345.0:83.0:-72.0",
     "Neighbours": {
       "35": 7.28,
-      "33": 14.32
+      "33": 15.52
     }
   },
   "35": {
@@ -775,6 +774,10 @@
   },
   "98": {
     "Position": "-389.0:50.0:-5.0",
+    "Name": "Cave Pond",
+    "Tags": [
+      "poi"
+    ],
     "Neighbours": {
       "97": 8.37
     }
@@ -872,7 +875,7 @@
   },
   "111": {
     "Position": "-340.0:90.0:53.0",
-    "Name": "Spruce Wods",
+    "Name": "Spruce Woods",
     "Tags": [
       "area"
     ],
@@ -892,7 +895,7 @@
     "Position": "-340.0:88.0:63.0",
     "Name": "Lonely Island",
     "Tags": [
-      "area"
+      "small_area"
     ],
     "Neighbours": {
       "112": 6.0,
@@ -915,9 +918,9 @@
   },
   "116": {
     "Position": "-348.0:91.0:75.0",
-    "Name": "Lonely Isand",
+    "Name": "Lonely Island",
     "Tags": [
-      "area"
+      "small_area"
     ],
     "Neighbours": {
       "117": 3.16,
@@ -928,7 +931,7 @@
     "Position": "-351.0:92.0:75.0",
     "Name": "Viking Longhouse",
     "Tags": [
-      "area"
+      "small_area"
     ],
     "Neighbours": {
       "116": 3.16,
@@ -1088,7 +1091,7 @@
   },
   "136": {
     "Position": "-372.0:104.0:-20.0",
-    "Name": "Dark Ticket",
+    "Name": "Dark Thicket",
     "Tags": [
       "area"
     ],
@@ -2082,14 +2085,14 @@
     }
   },
   "261": {
-    "Position": "-331.0:91.0:-56.0",
+    "Position": "-333.0:91.0:-56.0",
     "Name": "Crackd Wall",
     "Tags": [
       "dev"
     ],
     "Neighbours": {
-      "32": 3.16,
-      "31": 5.1
+      "303": 3.16,
+      "33": 7.0
     }
   },
   "262": {
@@ -2176,6 +2179,9 @@
   "274": {
     "Position": "-276.0:87.0:-16.0",
     "Name": "Hoppiy",
+    "Tags": [
+      "dev"
+    ],
     "Neighbours": {
       "0": 5.39
     }
@@ -2213,6 +2219,9 @@
   "279": {
     "Position": "-285.0:82.0:-42.0",
     "Name": "Hoppity",
+    "Tags": [
+      "dev"
+    ],
     "Neighbours": {
       "277": 2.45
     }
@@ -2227,6 +2236,9 @@
   "281": {
     "Position": "-311.0:83.0:-72.0",
     "Name": "Hopity",
+    "Tags": [
+      "dev"
+    ],
     "Neighbours": {
       "9": 1.73
     }
@@ -2266,6 +2278,9 @@
   "286": {
     "Position": "-327.0:104.0:-112.0",
     "Name": "Hoppity",
+    "Tags": [
+      "dev"
+    ],
     "Neighbours": {
       "285": 2.24
     }
@@ -2281,6 +2296,9 @@
   "288": {
     "Position": "-309.0:82.0:17.0",
     "Name": "Hoppity",
+    "Tags": [
+      "dev"
+    ],
     "Neighbours": {
       "287": 2.24
     }
@@ -2347,6 +2365,9 @@
   "295": {
     "Position": "-362.0:92.0:75.0",
     "Name": "Hoppity",
+    "Tags": [
+      "dev"
+    ],
     "Neighbours": {
       "294": 2.24
     }
@@ -2414,6 +2435,17 @@
     "Neighbours": {
       "203": 5.48,
       "202": 7.07
+    }
+  },
+  "303": {
+    "Position": "-330.0:92.0:-56.0",
+    "Name": "Howling Cave",
+    "Tags": [
+      "area"
+    ],
+    "Neighbours": {
+      "32": 3.0,
+      "261": 3.16
     }
   }
 }
