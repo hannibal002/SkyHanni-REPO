@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8bea71e",
+  "sourceLabel": "b8f4b63",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -961,6 +961,9 @@
     "pet.chatdrop.pet.petfishedmessage": "(?\u003cstart\u003e(?:§.)*GREAT CATCH! (?:§.)*You found a (?:§.)*\\[Lvl 1] )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*)",
     "pet.chatdrop.pet.petobtainedmessage": "(?\u003cstart\u003e.*has obtained (?:§.)*\\[Lvl 1] )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*)",
     "pet.nametag": "(?\u003cstart\u003e§8\\[§7Lv(?\u003clvl\u003e\\d+)§8]) (?\u003crarity\u003e§.)(?\u003cpet\u003e[\\w\\s]+)(?\u003cskin\u003e§. ✦)?",
+    "rabbit.requirement.factory": "§6Factory Milestones§7.",
+    "rabbit.requirement.shop": "§6Shop Milestones§7.",
+    "rabbit.requirement.stray": "§7§7Obtained by finding the §aStray Rabbit",
     "rarity.repocheck": "COMMON|UNCOMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|SUPREME|SPECIAL|VERY_SPECIAL|ULTIMATE",
     "reforge.chat.fail": "§cWait a moment before reforging again!|§cWhoa! Slow down there!",
     "reforge.chat.success": "§aYou reforged your .* §r§ainto a .*!|§aYou applied a .* §r§ato your .*!",
