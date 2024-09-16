@@ -13,7 +13,7 @@
   },
   "1": {
     "Position": "4.0:158.0:84.0",
-    "Name": "Depp Caverns",
+    "Name": "Deep Caverns",
     "Tags": [
       "area"
     ],
@@ -50,7 +50,7 @@
   },
   "5": {
     "Position": "10.0:160.0:46.0",
-    "Name": "Depp Caverns",
+    "Name": "Deep Caverns",
     "Tags": [
       "area"
     ],
@@ -314,7 +314,7 @@
   },
   "37": {
     "Position": "-3.0:160.0:46.0",
-    "Name": "Depp Caverns",
+    "Name": "Deep Caverns",
     "Tags": [
       "area"
     ],
