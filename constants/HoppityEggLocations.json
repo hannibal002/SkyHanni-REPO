@@ -431,5 +431,209 @@
       "dungeon_hub_catacombs": "-52:156:0",
       "dungeon_hub_entrance": "0:108:0"
     }
-  }
+  },
+  "chocolateFactoryMilestones": [
+    {
+      "amount": 1000,
+      "rabbit": "§fAlmond Amaretto"
+    },
+    {
+      "amount": 10000,
+      "rabbit": "§fButtercream Blossom"
+    },
+    {
+      "amount": 100000,
+      "rabbit": "§fCocoa Comet"
+    },
+    {
+      "amount": 1000000,
+      "rabbit": "§fDulce Drizzle"
+    },
+    {
+      "amount": 2500000,
+      "rabbit": "§fEspresso Eclair"
+    },
+    {
+      "amount": 5000000,
+      "rabbit": "§aFudge Fountain"
+    },
+    {
+      "amount": 10000000,
+      "rabbit": "§aGinger Glaze"
+    },
+    {
+      "amount": 25000000,
+      "rabbit": "§aHoney Hazelnut"
+    },
+    {
+      "amount": 50000000,
+      "rabbit": "§aIcing Ivy"
+    },
+    {
+      "amount": 100000000,
+      "rabbit": "§aJasmine Jello"
+    },
+    {
+      "amount": 250000000,
+      "rabbit": "§9Kiwi Kiss"
+    },
+    {
+      "amount": 500000000,
+      "rabbit": "§9Lavender Lemon"
+    },
+    {
+      "amount": 1000000000,
+      "rabbit": "§9Maple Mirage"
+    },
+    {
+      "amount": 2500000000,
+      "rabbit": "§9Nougat Nebula"
+    },
+    {
+      "amount": 5000000000,
+      "rabbit": "§9Orange Obsidian"
+    },
+    {
+      "amount": 10000000000,
+      "rabbit": "§5Peppermint Pearl"
+    },
+    {
+      "amount": 25000000000,
+      "rabbit": "§5Quince Quark"
+    },
+    {
+      "amount": 50000000000,
+      "rabbit": "§5Raspberry Ripple"
+    },
+    {
+      "amount": 100000000000,
+      "rabbit": "§5Strawberry Swirl"
+    },
+    {
+      "amount": 150000000000,
+      "rabbit": "§5Toffee Tulip"
+    },
+    {
+      "amount": 200000000000,
+      "rabbit": "§6Ube Unicorn"
+    },
+    {
+      "amount": 300000000000,
+      "rabbit": "§6Vanilla Vortex"
+    },
+    {
+      "amount": 400000000000,
+      "rabbit": "§6Walnut Whirl"
+    },
+    {
+      "amount": 500000000000,
+      "rabbit": "§6Xoco Xanudu"
+    },
+    {
+      "amount": 600000000000,
+      "rabbit": "§6Yogurt Yucca"
+    },
+    {
+      "amount": 700000000000,
+      "rabbit": "§dZest Zephyr"
+    }
+  ],
+  "chocolateShopMilestones": [
+    {
+      "amount": 2000000,
+      "rabbit": "§fAlpha"
+    },
+    {
+      "amount": 10000000,
+      "rabbit": "§aBeta"
+    },
+    {
+      "amount": 25000000,
+      "rabbit": "§9Gamma"
+    },
+    {
+      "amount": 50000000,
+      "rabbit": "§5Delta"
+    },
+    {
+      "amount": 100000000,
+      "rabbit": "§6Epsilon"
+    },
+    {
+      "amount": 250000000,
+      "rabbit": "§dZeta"
+    },
+    {
+      "amount": 500000000,
+      "rabbit": "§fEta"
+    },
+    {
+      "amount": 1000000000,
+      "rabbit": "§aTheta"
+    },
+    {
+      "amount": 2500000000,
+      "rabbit": "§9Iota"
+    },
+    {
+      "amount": 5000000000,
+      "rabbit": "§5Kappa"
+    },
+    {
+      "amount": 10000000000,
+      "rabbit": "§6Lambda"
+    },
+    {
+      "amount": 25000000000,
+      "rabbit": "§dMu"
+    },
+    {
+      "amount": 50000000000,
+      "rabbit": "§fNu"
+    },
+    {
+      "amount": 100000000000,
+      "rabbit": "§aXi"
+    },
+    {
+      "amount": 150000000000,
+      "rabbit": "§9Omicron"
+    },
+    {
+      "amount": 200000000000,
+      "rabbit": "§5Pi"
+    },
+    {
+      "amount": 250000000000,
+      "rabbit": "§6Rho"
+    },
+    {
+      "amount": 300000000000,
+      "rabbit": "§dSigma"
+    },
+    {
+      "amount": 350000000000,
+      "rabbit": "§fTau"
+    },
+    {
+      "amount": 400000000000,
+      "rabbit": "§aUpsilon"
+    },
+    {
+      "amount": 500000000000,
+      "rabbit": "§9Phi"
+    },
+    {
+      "amount": 600000000000,
+      "rabbit": "§5Chi"
+    },
+    {
+      "amount": 700000000000,
+      "rabbit": "§6Psi"
+    },
+    {
+      "amount": 800000000000,
+      "rabbit": "§dOmega"
+    }
+  ]
 }
