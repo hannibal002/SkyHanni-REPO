@@ -2636,6 +2636,10 @@
   },
   "322": {
     "Position": "16.0:111.0:175.0",
+    "Name": "Crazy Derpy Frogs",
+    "Tags": [
+      "poi"
+    ],
     "Neighbours": {
       "321": 5.0,
       "300": 9.06,
@@ -2645,6 +2649,10 @@
   },
   "323": {
     "Position": "4.0:111.0:182.0",
+    "Name": "Crazy Derpy Frogs",
+    "Tags": [
+      "poi"
+    ],
     "Neighbours": {
       "324": 4.12,
       "319": 5.1,
