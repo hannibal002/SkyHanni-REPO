@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "532e748",
+  "sourceLabel": "ff1d69d",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -338,7 +338,7 @@
     "features.gui.customscoreboard.scoreboard.combat.bossdamage": "^Your Damage: §c(,?\\d{1,3}(\\.\\d)?)*$",
     "features.gui.customscoreboard.scoreboard.combat.bosshp": "^(Protector|Dragon) HP: §a(,?\\d{1,3})* §c❤$",
     "features.gui.customscoreboard.scoreboard.combat.broodmother": "^§4Broodmother§7: §[e64](Slain|Dormant|Soon|Awakening|Imminent|Alive!)$",
-    "features.gui.customscoreboard.scoreboard.combat.damagesoaked": "^§7Damage Soaked:",
+    "features.gui.customscoreboard.scoreboard.combat.damagesoaked": "^§7Damage Soaked:.*",
     "features.gui.customscoreboard.scoreboard.combat.killmagmas": "^§6Kill the Magmas:$",
     "features.gui.customscoreboard.scoreboard.combat.killmagmasbar": "^((§.)*▎+)+.*$",
     "features.gui.customscoreboard.scoreboard.combat.magmaboss": "^§7Boss: §[c6e]\\d{1,3}%$",
@@ -402,7 +402,7 @@
     "features.gui.customscoreboard.scoreboard.mining.rafflepool": "^Pool: §6\\d+§8/500$",
     "features.gui.customscoreboard.scoreboard.mining.raffletickets": "^Tickets: §a\\d+ §7\\(\\d{1,3}\\.\\d%\\)$",
     "features.gui.customscoreboard.scoreboard.mining.raffleuseless": "^(Find tickets on the|ground and bring them|to the raffle box)$",
-    "features.gui.customscoreboard.scoreboard.mining.remaininggoblin": "^Remaining: §a\\d+ goblins$",
+    "features.gui.customscoreboard.scoreboard.mining.remaininggoblin": "^Remaining: §a\\d+ goblins?$",
     "features.gui.customscoreboard.scoreboard.mining.uselessgoblin": "^§7Kill goblins!$",
     "features.gui.customscoreboard.scoreboard.mining.windcompass": "§9Wind Compass$",
     "features.gui.customscoreboard.scoreboard.mining.windcompassarrow": "( )*((§[a-zA-Z0-9]|[⋖⋗≈])+)( )*((§[a-zA-Z0-9]|[⋖⋗≈])+)?( )*",
