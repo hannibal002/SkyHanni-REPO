@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "864a36f",
+  "sourceLabel": "532e748",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -567,7 +567,7 @@
     "garden.plot.chat.clean": "§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§ais now clean!",
     "garden.plot.chat.unlock": "§aUnlocked Garden §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*)§r§a!",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
-    "garden.plot.spray.cleared.portablewasher": "§9§lSPLASH! §r§6Your §r§bGarden §r§6was cleared of all active §r§aSprayonator §r§6effects!",
+    "garden.plot.spray.cleared.portablewasher": "§9§lSPLASH! §r§6Your §r§[ba]Garden §r§6was cleared of all active §r§aSprayonator §r§6effects!",
     "garden.plot.spray.target": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§7with §r§a(?\u003cspray\u003e.*)§r§7!",
     "garden.plot.uncleaned": "§7Cleanup: .* (?:§.)*Completed",
     "garden.spray.material": "§a§lSPRAYONATOR! §r§7Your selected material is now §r§a(?\u003cspray\u003e.*)§r§7!",
@@ -591,7 +591,7 @@
     "garden.visitor.offersaccepted": "§7Offers Accepted: §a(?\u003coffersAccepted\u003e\\d+)",
     "garden.visitor.partialaccepted": "§aYou gave some of the required items!",
     "garden.visitor.timer.time.new": " Next Visitor: §r(?\u003cinfo\u003e.*)",
-    "garden.visitor.visitorarrive": ".* §r§ehas arrived on your §r§bGarden§r§e!",
+    "garden.visitor.visitorarrive": ".* §r§ehas arrived on your §r§[ba]Garden§r§e!",
     "garden.visitor.visitorchat": "§e\\[NPC] (?\u003ccolor\u003e§.)?(?\u003cname\u003e.*)§f: §r.*",
     "garden.warpcommand.tpplot": "/tp (?\u003cplot\u003e.*)",
     "gfs.chat.from": "§aMoved §r§e(?\u003camount\u003e\\d+) (?\u003citem\u003e.+)§r§a from your Sacks to your inventory.",
