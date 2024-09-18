@@ -670,7 +670,7 @@
     },
     "flowstate": {
       "loreName": "Flowstate",
-      "nbtName": "flowstate",
+      "nbtName": "ultimate_flowstate",
       "goodLevel": 0,
       "maxLevel": 3
     },
