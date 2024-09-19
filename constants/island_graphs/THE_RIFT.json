@@ -3,7 +3,7 @@
     "Position": "-45.0:123.0:69.0",
     "Name": "Spawn",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "4": 3.32,
@@ -207,7 +207,7 @@
   "25": {
     "Position": "-52.0:83.0:68.0",
     "Neighbours": {
-      "135": 3.61,
+      "135": 2.24,
       "24": 8.66
     }
   },
@@ -709,6 +709,10 @@
   },
   "86": {
     "Position": "-81.0:70.0:112.0",
+    "Name": "Shy Crux",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "145": 6.32,
       "85": 6.4
@@ -1094,21 +1098,27 @@
     }
   },
   "135": {
-    "Position": "-49.0:83.0:70.0",
+    "Position": "-50.0:83.0:69.0",
     "Neighbours": {
-      "25": 3.61,
-      "136": 4.0
+      "25": 2.24,
+      "1772": 2.83,
+      "136": 5.1
     }
   },
   "136": {
     "Position": "-49.0:83.0:74.0",
     "Neighbours": {
-      "135": 4.0,
+      "1772": 3.16,
+      "135": 5.1,
       "26": 5.39
     }
   },
   "137": {
     "Position": "-52.0:72.0:120.0",
+    "Name": "Sky Crux",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "35": 8.94,
       "36": 11.58,
@@ -1288,6 +1298,10 @@
   },
   "156": {
     "Position": "-117.0:72.0:80.0",
+    "Name": "Shy Crux",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "78": 5.39,
       "80": 10.1,
@@ -1303,6 +1317,10 @@
   },
   "158": {
     "Position": "-118.0:70.0:38.0",
+    "Name": "Deadgehog",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "154": 5.0,
       "159": 7.62
@@ -1435,6 +1453,10 @@
   },
   "174": {
     "Position": "-61.0:70.0:-48.0",
+    "Name": "Shadow Crux",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "173": 3.16,
       "175": 6.4
@@ -1474,6 +1496,10 @@
   },
   "178": {
     "Position": "-32.0:70.0:-53.0",
+    "Name": "Shadow Crux",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "177": 6.08,
       "179": 6.08
@@ -1589,7 +1615,7 @@
     "Position": "23.0:70.0:-32.0",
     "Name": "Warp Target",
     "Tags": [
-      "dev"
+      "teleport"
     ],
     "Neighbours": {
       "192": 5.74,
@@ -1956,6 +1982,10 @@
   },
   "228": {
     "Position": "2.0:71.0:-90.0",
+    "Name": "Scribe Crux",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "227": 9.43,
       "780": 12.04,
@@ -5505,7 +5535,7 @@
     "Position": "-95.0:70.0:111.0",
     "Name": "Soul",
     "Tags": [
-      "dev"
+      "rift_enigma"
     ],
     "Neighbours": {
       "651": 4.0
@@ -6458,6 +6488,10 @@
   },
   "775": {
     "Position": "-19.0:69.0:-123.0",
+    "Name": "Volt Crux",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "268": 6.4,
       "776": 7.07,
@@ -6497,6 +6531,10 @@
   },
   "779": {
     "Position": "-28.0:71.0:-106.0",
+    "Name": "Shadow Crux",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "536": 5.39,
       "244": 8.25,
@@ -6809,7 +6847,7 @@
     "Name": "Sad Jacquell",
     "Tags": [
       "npc",
-      "dev"
+      "rift_montezuma"
     ],
     "Neighbours": {
       "819": 3.74
@@ -7041,7 +7079,7 @@
     "Position": "-94.0:70.0:114.0",
     "Name": "Soul",
     "Tags": [
-      "dev"
+      "rift_enigma"
     ],
     "Neighbours": {
       "854": 5.1
@@ -7305,7 +7343,6 @@
     "Position": "-70.0:79.0:42.0",
     "Name": "Parcour",
     "Tags": [
-      "dev",
       "poi"
     ],
     "Neighbours": {
@@ -8715,9 +8752,10 @@
     "Position": "-18.0:72.0:-169.0",
     "Name": "Spawn (Dreadfarm)",
     "Tags": [
-      "dev"
+      "teleport"
     ],
     "Neighbours": {
+      "1773": 7.21,
       "266": 10.82,
       "264": 14.14
     }
@@ -8790,6 +8828,10 @@
   },
   "1069": {
     "Position": "-34.0:71.0:-148.0",
+    "Name": "Volt Crux",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "1070": 8.94,
       "1068": 9.54
@@ -8904,7 +8946,6 @@
     "Position": "-77.0:73.0:-176.0",
     "Name": "Farm Balloons",
     "Tags": [
-      "dev",
       "rift_enigma"
     ],
     "Neighbours": {
@@ -8970,7 +9011,8 @@
     "Position": "-0.0:72.0:-63.0",
     "Name": "Village Plaza",
     "Tags": [
-      "area"
+      "area",
+      "teleport"
     ],
     "Neighbours": {
       "223": 8.12,
@@ -8982,7 +9024,8 @@
     "Position": "-3.0:72.0:-60.0",
     "Name": "Village Plaza",
     "Tags": [
-      "area"
+      "area",
+      "teleport"
     ],
     "Neighbours": {
       "221": 8.31,
@@ -8994,7 +9037,8 @@
     "Position": "-6.0:72.0:-63.0",
     "Name": "Village Plaza",
     "Tags": [
-      "area"
+      "area",
+      "teleport"
     ],
     "Neighbours": {
       "218": 11.22,
@@ -9015,7 +9059,8 @@
     "Position": "-3.0:72.0:-66.0",
     "Name": "Village Plaza",
     "Tags": [
-      "area"
+      "area",
+      "teleport"
     ],
     "Neighbours": {
       "1095": 8.66,
@@ -9079,7 +9124,7 @@
     "Position": "-91.0:21.0:6.0",
     "Name": "Portal",
     "Tags": [
-      "launch"
+      "teleport"
     ],
     "Neighbours": {
       "1102": 5.0,
@@ -9229,7 +9274,7 @@
     "Position": "152.0:81.0:-15.0",
     "Name": "9th monte soul",
     "Tags": [
-      "dev"
+      "rift_enigma"
     ],
     "Neighbours": {
       "1118": 3.0
@@ -9307,7 +9352,7 @@
     "Position": "136.0:71.0:-15.0",
     "Name": "Spawn (parkour skip)",
     "Tags": [
-      "dev"
+      "teleport"
     ],
     "Neighbours": {
       "1113": 2.83,
@@ -9602,7 +9647,7 @@
     "Position": "193.0:88.0:119.0",
     "Name": "Effigy #2",
     "Tags": [
-      "dev"
+      "rift_effigy"
     ],
     "Neighbours": {
       "1168": 5.0,
@@ -10185,7 +10230,7 @@
     "Position": "168.0:77.0:82.0",
     "Name": "Spawn (eye)",
     "Tags": [
-      "dev"
+      "teleport"
     ],
     "Neighbours": {
       "1132": 2.0,
@@ -10316,9 +10361,9 @@
   },
   "1260": {
     "Position": "262.0:94.0:94.0",
-    "Name": "Effigy 5",
+    "Name": "Effigy #?",
     "Tags": [
-      "dev"
+      "rift_effigy"
     ],
     "Neighbours": {
       "1203": 4.12,
@@ -10462,7 +10507,7 @@
     "Position": "293.0:91.0:134.0",
     "Name": "Effigy #4",
     "Tags": [
-      "dev"
+      "rift_effigy"
     ],
     "Neighbours": {
       "1277": 6.71,
@@ -10575,7 +10620,7 @@
     "Position": "150.0:74.0:95.0",
     "Name": "Effigy #1",
     "Tags": [
-      "dev"
+      "rift_effigy"
     ],
     "Neighbours": {
       "1292": 6.4
@@ -10634,7 +10679,7 @@
     "Position": "240.0:124.0:118.0",
     "Name": "Effigy #6",
     "Tags": [
-      "dev"
+      "rift_effigy"
     ],
     "Neighbours": {
       "1300": 3.74,
@@ -10645,7 +10690,7 @@
     "Position": "235.0:105.0:147.0",
     "Name": "Effigy #3",
     "Tags": [
-      "dev"
+      "rift_effigy"
     ],
     "Neighbours": {
       "1303": 5.0
@@ -11556,7 +11601,7 @@
     "Position": "47.0:91.0:55.0",
     "Name": "Out",
     "Tags": [
-      "dev"
+      "teleport"
     ],
     "Neighbours": {
       "1419": 2.45
@@ -11783,7 +11828,7 @@
     "Position": "-140.0:70.0:36.0",
     "Name": "Spawn (Toss from Kay)",
     "Tags": [
-      "dev"
+      "teleport"
     ],
     "Neighbours": {
       "1453": 4.24,
@@ -12293,7 +12338,7 @@
     "Position": "-38.0:44.0:127.0",
     "Name": "Out",
     "Tags": [
-      "dev"
+      "teleport"
     ],
     "Neighbours": {
       "1519": 3.16
@@ -14173,6 +14218,34 @@
       "1544": 5.39,
       "1545": 6.71,
       "1770": 9.0
+    }
+  },
+  "1772": {
+    "Position": "-48.0:83.0:71.0",
+    "Name": "tp",
+    "Tags": [
+      "teleport"
+    ],
+    "Neighbours": {
+      "135": 2.83,
+      "136": 3.16
+    }
+  },
+  "1773": {
+    "Position": "-22.0:72.0:-163.0",
+    "Neighbours": {
+      "1061": 7.21,
+      "1774": 7.21
+    }
+  },
+  "1774": {
+    "Position": "-26.0:72.0:-157.0",
+    "Name": "Volt Crux",
+    "Tags": [
+      "grind_mobs"
+    ],
+    "Neighbours": {
+      "1773": 7.21
     }
   }
 }

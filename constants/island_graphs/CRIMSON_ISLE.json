@@ -1,9 +1,9 @@
 {
   "0": {
     "Position": "-361.0:81.0:-431.0",
-    "Name": "spawn",
+    "Name": "/warp crimson",
     "Tags": [
-      "dev"
+      "teleport"
     ],
     "Neighbours": {
       "1": 10.0,
@@ -12,9 +12,9 @@
   },
   "1": {
     "Position": "-361.0:81.0:-421.0",
-    "Name": "tp",
+    "Name": "Spiders Den",
     "Tags": [
-      "launch"
+      "teleport"
     ],
     "Neighbours": {
       "0": 10.0
@@ -10565,8 +10565,7 @@
     "Position": "-386.0:71.0:-667.0",
     "Name": "spawn Pack Magma Cube",
     "Tags": [
-      "dev",
-      "poi"
+      "grind_mobs"
     ],
     "Neighbours": {
       "1301": 6.16,
@@ -10939,8 +10938,7 @@
     "Position": "-386.0:71.0:-665.0",
     "Name": "spawn Kada Knight",
     "Tags": [
-      "poi",
-      "dev"
+      "grind_mobs"
     ],
     "Neighbours": {
       "45": 6.71,
@@ -11838,7 +11836,7 @@
     "Position": "-305.0:86.0:-926.0",
     "Name": "spawns Kada Knight",
     "Tags": [
-      "dev"
+      "grind_mobs"
     ],
     "Neighbours": {
       "1436": 10.05,
@@ -12790,9 +12788,9 @@
   },
   "1579": {
     "Position": "-373.0:118.0:-989.0",
-    "Name": "warp",
+    "Name": "/warp kuudra",
     "Tags": [
-      "dev"
+      "teleport"
     ],
     "Neighbours": {
       "1599": 6.0,
@@ -18026,7 +18024,7 @@
     "Position": "-375.0:83.0:-710.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "2457": 3.16,
@@ -18045,7 +18043,7 @@
     "Position": "-359.0:80.0:-442.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "18": 2.24
@@ -18115,7 +18113,7 @@
     "Position": "-375.0:62.0:-801.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "2542": 2.45
@@ -18202,7 +18200,7 @@
     "Position": "-686.0:99.0:-805.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "2290": 4.47,
@@ -18271,7 +18269,7 @@
     "Position": "-289.0:127.0:-986.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "239": 3.16,
@@ -18291,7 +18289,7 @@
     "Position": "-34.0:114.0:-937.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "2163": 5.74
@@ -18301,7 +18299,7 @@
     "Position": "-296.0:93.0:-689.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "169": 5.1,
@@ -18319,7 +18317,7 @@
     "Position": "-271.0:83.0:-496.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "2304": 16.43
@@ -18337,7 +18335,7 @@
     "Position": "-237.0:108.0:-604.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "381": 6.08
@@ -18357,7 +18355,7 @@
     "Position": "-63.0:107.0:-811.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "856": 2.45,
@@ -19457,7 +19455,7 @@
     "Position": "-469.0:135.0:-1019.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "1594": 11.09,
@@ -19799,7 +19797,7 @@
     "Position": "-376.0:207.0:-808.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "2505": 2.45,
@@ -19834,7 +19832,7 @@
     "Position": "-640.0:101.0:-822.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "1052": 4.58,
@@ -19851,7 +19849,7 @@
     "Position": "-631.0:142.0:-927.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "2511": 4.47

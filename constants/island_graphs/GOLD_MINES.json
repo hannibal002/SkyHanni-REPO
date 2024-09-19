@@ -1,9 +1,9 @@
 {
   "0": {
     "Position": "-5.0:75.0:-279.0",
-    "Name": "Spawn",
+    "Name": "/warp gold",
     "Tags": [
-      "dev"
+      "teleport"
     ],
     "Neighbours": {
       "155": 6.0,
@@ -15,13 +15,13 @@
     }
   },
   "1": {
-    "Position": "-5.0:75.0:-270.0",
-    "Name": "Hub Island",
+    "Position": "-5.0:75.0:-271.0",
+    "Name": "Hub",
     "Tags": [
-      "launch"
+      "teleport"
     ],
     "Neighbours": {
-      "155": 3.0
+      "155": 2.0
     }
   },
   "2": {
@@ -105,15 +105,15 @@
     "Neighbours": {
       "9": 5.0,
       "11": 5.0,
-      "14": 7.28,
       "8": 8.0,
+      "14": 8.54,
       "13": 9.0
     }
   },
   "11": {
     "Position": "-18.0:79.0:-325.0",
     "Neighbours": {
-      "80": 3.16,
+      "80": 2.0,
       "8": 5.0,
       "10": 5.0
     }
@@ -128,20 +128,20 @@
   "13": {
     "Position": "-15.0:79.0:-338.0",
     "Neighbours": {
-      "14": 2.83,
+      "14": 3.16,
       "85": 6.4,
       "10": 9.0
     }
   },
   "14": {
-    "Position": "-13.0:79.0:-336.0",
+    "Position": "-12.0:79.0:-337.0",
     "Name": "Lazy Miner",
     "Tags": [
       "npc"
     ],
     "Neighbours": {
-      "13": 2.83,
-      "10": 7.28
+      "13": 3.16,
+      "10": 8.54
     }
   },
   "15": {
@@ -166,7 +166,7 @@
     "Position": "-7.0:69.0:-395.0",
     "Name": "Deep Cavern",
     "Tags": [
-      "launch"
+      "teleport"
     ],
     "Neighbours": {
       "156": 5.0
@@ -645,14 +645,14 @@
     }
   },
   "80": {
-    "Position": "-21.0:79.0:-326.0",
+    "Position": "-20.0:79.0:-325.0",
     "Name": "Rust",
     "Tags": [
       "npc"
     ],
     "Neighbours": {
-      "11": 3.16,
-      "105": 4.12
+      "11": 2.0,
+      "105": 5.0
     }
   },
   "81": {
@@ -677,7 +677,7 @@
     "Position": "-19.0:25.0:-306.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "47": 3.16,
@@ -783,7 +783,7 @@
     "Position": "41.0:80.0:-311.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "96": 5.1
@@ -808,7 +808,7 @@
     "Position": "15.0:75.0:-290.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "99": 4.47
@@ -833,7 +833,7 @@
     "Position": "-24.0:80.0:-282.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "102": 5.83
@@ -843,7 +843,7 @@
     "Position": "-29.0:74.0:-293.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "2": 3.74
@@ -854,14 +854,14 @@
     "Neighbours": {
       "106": 2.24,
       "72": 3.74,
-      "80": 4.12
+      "80": 5.0
     }
   },
   "106": {
     "Position": "-25.0:78.0:-327.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "105": 2.24
@@ -871,7 +871,7 @@
     "Position": "-20.0:61.0:-354.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "108": 4.12,
@@ -897,7 +897,7 @@
     "Position": "-11.0:68.0:-396.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "156": 5.2
@@ -950,7 +950,7 @@
     "Position": "18.0:57.0:-339.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "116": 6.4
@@ -981,7 +981,7 @@
     "Position": "-22.0:36.0:-338.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "37": 2.45,
@@ -1027,7 +1027,7 @@
     "Position": "-2.0:82.0:-308.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "126": 2.24
@@ -1037,7 +1037,7 @@
     "Position": "-49.0:94.0:-334.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "144": 2.24
@@ -1163,7 +1163,7 @@
     "Position": "-43.0:77.0:-303.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "70": 3.0
@@ -1181,7 +1181,7 @@
     "Position": "-14.0:104.0:-313.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "146": 2.45,
@@ -1228,7 +1228,7 @@
     "Position": "-19.0:143.0:-360.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "154": 4.12,
@@ -1248,7 +1248,7 @@
       "area"
     ],
     "Neighbours": {
-      "1": 3.0,
+      "1": 2.0,
       "0": 6.0
     }
   },
