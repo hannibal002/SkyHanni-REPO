@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "19f2333",
+  "sourceLabel": "1052203",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -81,6 +81,8 @@
     "carnvial.goals.lore.unique.fruit": "§7Dig up §a5 unique Fruits §7in a single",
     "carnvial.goals.lore.zombie.shootout.play": "§7Play §a3 games §7of §cZombie Shootout§7.",
     "carnvial.goals.lore.zombie.shootout.score": "§7Reach §a3,000 score §7in a single game",
+    "carry.trade.coins.gained": " §r§a§l\\+ §r§6(?\u003ccoins\u003e.*) coins",
+    "carry.trade.completed": "§6Trade completed with (?\u003cname\u003e.*)§r§6!",
     "chat.arachne.calling": "§4☄ §r.* §r§eplaced an §r§9Arachne\u0027s Calling§r§e!.*",
     "chat.arachne.calling.spawned": "§c\\[BOSS] Arachne§r§f: A befitting welcome!",
     "chat.arachne.crystal": "§4☄ §r.* §r§eplaced an Arachne Crystal! Something is awakening!",
