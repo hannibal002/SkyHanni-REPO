@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1052203",
+  "sourceLabel": "0aa7a60",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -614,6 +614,8 @@
     "harp.menu": "Melody.*",
     "harp.song.selected": "§aSong is selected!",
     "inv.acceptable": "^(Accessory Bag(?: \\(\\d+\\/\\d+\\))?|Auctions Browser|Manage Auctions|Auctions: \".*\"?)$",
+    "inventory.activebeaconeffect.inventory": "Profile Stat Upgrades",
+    "inventory.activebeaconeffect.slot.active": "§aActive stat boost!",
     "inventory.auctionhouse.title.search": "Auctions: \"(?\u003csearchTerm\u003e.*)\"?",
     "inventory.chocolate.factory.chat.hide.0": "§cYou don\u0027t have enough Chocolate!",
     "inventory.chocolate.factory.chat.hide.1": "§cYou don\u0027t have the required items!",
