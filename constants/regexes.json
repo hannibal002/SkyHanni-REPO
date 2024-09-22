@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1052203",
+  "sourceLabel": "857edca",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -614,6 +614,8 @@
     "harp.menu": "Melody.*",
     "harp.song.selected": "§aSong is selected!",
     "inv.acceptable": "^(Accessory Bag(?: \\(\\d+\\/\\d+\\))?|Auctions Browser|Manage Auctions|Auctions: \".*\"?)$",
+    "inventory.activebeaconeffect.inventory": "Profile Stat Upgrades",
+    "inventory.activebeaconeffect.slot.active": "§aActive stat boost!",
     "inventory.auctionhouse.title.search": "Auctions: \"(?\u003csearchTerm\u003e.*)\"?",
     "inventory.chocolate.factory.chat.hide.0": "§cYou don\u0027t have enough Chocolate!",
     "inventory.chocolate.factory.chat.hide.1": "§cYou don\u0027t have the required items!",
@@ -691,7 +693,6 @@
     "mining.eventtracker.bossbar.passive": "§e§lPASSIVE EVENT (?\u003cevent\u003e.+) §e§lRUNNING FOR §a§l(?\u003ctime\u003e\\S+)§r",
     "mining.eventtracker.ended": "(?:§.)*\\s+(?:§.)+§l(?\u003cevent\u003e.+) ENDED!",
     "mining.eventtracker.started": "(?:§.)*\\s+(?:§.)+§l(?\u003cevent\u003e.+) STARTED!",
-    "mining.forge.recipe.confirm": "Confirm Process",
     "mining.fossil.excavator.chat.empty": "§cYou didn\u0027t find anything. Maybe next time!",
     "mining.fossil.excavator.chat.end": "§a§l▬{64}",
     "mining.fossil.excavator.chat.item": " {4}§r(?\u003citem\u003e.+)",
