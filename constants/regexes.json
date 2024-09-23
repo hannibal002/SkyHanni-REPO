@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "857edca",
+  "sourceLabel": "e60a7ad",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -200,7 +200,7 @@
     "data.maxwell.thaumaturgy.statstuning": "§7You have: .+ §7\\+ §(?\u003ccolor\u003e.)(?\u003camount\u003e[^ ]+) (?\u003cicon\u003e.)",
     "data.maxwell.tuningpoints.chat.autoassigned": "§aYour §r§eTuning Points §r§awere auto-assigned as convenience!",
     "data.miningapi.area.basecamp": "Dwarven Base Camp",
-    "data.miningapi.area.glacite": "Glacite Tunnels|Glacite Lake",
+    "data.miningapi.area.glacite": "Glacite Tunnels|Great Glacite Lake",
     "data.miningapi.cold.reset": "§6The warmth of the campfire reduced your §r§b❄ Cold §r§6to §r§a0§r§6!|§c ☠ §r§7You froze to death§r§7.",
     "data.owninventory.chat.movedsacktoinventory": "§aMoved §r§e\\d* (?\u003cname\u003e.*)§r§a from your Sacks to your inventory.",
     "data.party.dungeonfinder.join": "§dParty Finder §f\u003e (?\u003cname\u003e.*?) §ejoined the dungeon group! \\(§[a-fA-F0-9].* Level \\d+§[a-fA-F0-9]\\)",
@@ -666,7 +666,7 @@
     "inventory.stockofstonks.bid": "§5§o§7   Minimum Bid: §6(?\u003camount\u003e[\\d,]+) Coins",
     "inventory.stockofstonks.inventory": "Stonks Auction",
     "inventory.stockofstonks.item": "§dStonks Auction",
-    "inventory.stockofstonks.top": "§5§o§7§7▶ §c§lTOP (?\u003crank\u003e[\\d,]+)§7 - §5Stock of Stonks §8x(?\u003camount\u003e\\d+)",
+    "inventory.stockofstonks.top": "§5§o§7§.▶ §c§lTOP (?\u003crank\u003e[\\d,]+)§7 - §5Stock of Stonks §8x(?\u003camount\u003e\\d+)",
     "inventory.supercrafting.craft.new": "§eYou Supercrafted §r§r§r§.(?\u003citem\u003e[^§]+)(?:§r§8x(?\u003camount\u003e[\\d,]+))?§r§e!",
     "inventory.wardrobe.equippedslot": "§7Slot \\d+: §aEquipped",
     "inventory.wardrobe.inventory.name": "Wardrobe \\((?\u003ccurrentPage\u003e\\d+)/\\d+\\)",

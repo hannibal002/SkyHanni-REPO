@@ -7793,8 +7793,7 @@
     "Position": "-480.0:95.0:-647.0",
     "Name": "Burning Desert",
     "Tags": [
-      "area",
-      "small_area"
+      "area"
     ],
     "Neighbours": {
       "959": 5.74,
@@ -21185,6 +21184,9 @@
   "2679": {
     "Position": "-541.0:27.0:-886.0",
     "Name": "Punch",
+    "Tags": [
+      "dev"
+    ],
     "Neighbours": {
       "2678": 2.83,
       "2680": 3.61
