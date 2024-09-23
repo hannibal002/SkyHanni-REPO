@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8edd007",
+  "sourceLabel": "f71458b",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -330,6 +330,7 @@
     "event.lobby.waypoint.presents.foundalready": "§cYou have already found this present!",
     "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!",
     "event.winter.newyearcake.reminder.sidebar": "§dNew Year Event!§f (?\u003ctime\u003e.*)",
+    "event.winter.reindrakewarphelper.spawn.message": "§c§lWOAH! §cA §4Reindrake §cwas summoned from the depths!",
     "event.winter.uniquegifts.gifted": "§6\\+1 Unique Gift given! To ([^§]+)§r§6!",
     "event.winter.uniquegifts.giftname": "(?:WHITE|RED|GREEN)_GIFT$",
     "event.winter.uniqugifts.counter.amount": "§7Unique Players Gifted: §a(?\u003camount\u003e.*)",
