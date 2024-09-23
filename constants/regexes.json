@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "478e5c6",
+  "sourceLabel": "8edd007",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -202,7 +202,10 @@
     "data.maxwell.tuningpoints.chat.autoassigned": "§aYour §r§eTuning Points §r§awere auto-assigned as convenience!",
     "data.miningapi.area.basecamp": "Dwarven Base Camp",
     "data.miningapi.area.glacite": "Glacite Tunnels|Great Glacite Lake",
-    "data.miningapi.cold.reset": "§6The warmth of the campfire reduced your §r§b❄ Cold §r§6to §r§a0§r§6!|§c ☠ §r§7You froze to death§r§7.",
+    "data.miningapi.cold.reset": "§6The warmth of the campfire reduced your §r§b❄ Cold §r§6to §r§a0§r§6!|§c ☠ §r§7You froze to death§r§7\\.",
+    "data.miningapi.pickobulus.end": "§7Your §r§aPickobulus §r§7destroyed §r§e(?\u003camount\u003e[\\d,.]+) §r§7blocks!",
+    "data.miningapi.pickobulus.fail": "§7Your §r§aPickobulus §r§7didn\u0027t destroy any blocks!",
+    "data.miningapi.pickobulus.use": "§aYou used your §r§6Pickobulus §r§aPickaxe Ability!",
     "data.owninventory.chat.movedsacktoinventory": "§aMoved §r§e\\d* (?\u003cname\u003e.*)§r§a from your Sacks to your inventory.",
     "data.party.dungeonfinder.join": "§dParty Finder §f\u003e (?\u003cname\u003e.*?) §ejoined the dungeon group! \\(§[a-fA-F0-9].* Level \\d+§[a-fA-F0-9]\\)",
     "data.party.kuudrafinder.join": "§dParty Finder §f\u003e (?\u003cname\u003e.*?) §ejoined the group! \\(§[a-fA-F0-9]+Combat Level \\d+§e\\)",
