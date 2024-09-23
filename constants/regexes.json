@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e60a7ad",
+  "sourceLabel": "478e5c6",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -180,6 +180,7 @@
     "data.hypixeldata.servername.scoreboard": "§e(?\u003cprefix\u003e.+\\.)?hypixel\\.net",
     "data.hypixeldata.skyblock.area": "\\s*§(?\u003csymbol\u003e7⏣|5ф) §(?\u003ccolor\u003e.)(?\u003carea\u003e.*)",
     "data.hypixeldata.solo.profile.amount": "^\\s*(?:§.)*Island\\s*$",
+    "data.island.navigation.glacitetunnels": "(Glacite Tunnels|Dwarven Base Camp|Great Glacite Lake|Fossil Research Center)",
     "data.itemmanager.diceroll": "§eYour §r§(5|6High Class )Archfiend Dice §r§erolled a §r§.(?\u003cnumber\u003e.)§r§e! Bonus: §r§.(?\u003chearts\u003e.*)❤",
     "data.kuudra.chat.complete": "§.\\s*(?:§.)*KUUDRA DOWN!",
     "data.kuudra.scoreboard.tier": " §7⏣ §cKuudra\u0027s Hollow §8\\(T(?\u003ctier\u003e.*)\\)",
