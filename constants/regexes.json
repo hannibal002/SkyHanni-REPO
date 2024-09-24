@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "f71458b",
+  "sourceLabel": "cf039c7",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -334,6 +334,7 @@
     "event.winter.uniquegifts.gifted": "§6\\+1 Unique Gift given! To ([^§]+)§r§6!",
     "event.winter.uniquegifts.giftname": "(?:WHITE|RED|GREEN)_GIFT$",
     "event.winter.uniqugifts.counter.amount": "§7Unique Players Gifted: §a(?\u003camount\u003e.*)",
+    "excavator.dirt.name": "§6Dirt",
     "fame.projects.completed": "§aProject is (?:being built|released)!",
     "fame.projects.contribute": "§7Contribute again: §e(?\u003ctime\u003e.*)",
     "fame.upgrades.account": "§8Account Upgrade",
