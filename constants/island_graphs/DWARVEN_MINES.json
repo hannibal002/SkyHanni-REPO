@@ -665,7 +665,7 @@
     "Position": "143.0:187.0:99.0",
     "Name": "Palace Bridge",
     "Tags": [
-      "area"
+      "small_area"
     ],
     "Neighbours": {
       "87": 2.24,
@@ -687,7 +687,7 @@
     "Position": "129.0:188.0:107.0",
     "Name": "Palace Bridge",
     "Tags": [
-      "area"
+      "small_area"
     ],
     "Neighbours": {
       "1462": 4.0,
@@ -2164,7 +2164,7 @@
     "Position": "86.0:189.0:54.0",
     "Name": "Hanging Court",
     "Tags": [
-      "area"
+      "small_area"
     ],
     "Neighbours": {
       "260": 8.12,
@@ -2292,7 +2292,7 @@
     "Position": "75.0:188.0:113.0",
     "Name": "Hanging Court",
     "Tags": [
-      "area"
+      "small_area"
     ],
     "Neighbours": {
       "1832": 5.0,
