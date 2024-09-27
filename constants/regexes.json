@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8195fe5",
+  "sourceLabel": "122d6c8",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -1140,7 +1140,7 @@
     "utils.item.amount.front": "(?: +§8(?:\\+§.)?(?\u003camount\u003e[\\d.,]+[km]?)x? )?(?\u003cname\u003e.*)",
     "utils.item.cost.line": "(?:§5§o)?§7Cost.*",
     "utils.item.enchantment.clean.name": "(?i)(?\u003cname\u003e.*) (?\u003clevel\u003e[IVXL]+|[0-9]+)",
-    "utils.item.lore.rarity.line": "^(?:§.){2,3}(?:.§. (?:§.){4})?(?:SHINY )?(?\u003crarity\u003eCOMMON|UNCOMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|SUPREME|SPECIAL|VERY SPECIAL|ULTIMATE) ?(?:DUNGEON )?(?\u003citemCategory\u003e[^§]*)(?: (?:§.){3}.)?$",
+    "utils.item.lore.rarity.line": "^(?:§.){2,3}(?:.§. (?:§.){2})?(?:SHINY )?(?\u003crarity\u003eCOMMON|UNCOMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|SUPREME|SPECIAL|VERY SPECIAL|ULTIMATE) ?(?:DUNGEON )?(?\u003citemCategory\u003e[^§]*)(?: (?:§.){3}.)?$",
     "utils.item.name.abiphone": ".{2}Abiphone .*",
     "utils.item.name.bait": "^(Obfuscated.*|.* Bait)$",
     "utils.item.name.enchanted.book": "(?:§.)+Enchanted Book",
