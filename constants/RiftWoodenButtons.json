@@ -1,6 +1,6 @@
 {
   "houses": {
-    "Mirrorverse House": [
+    "Mirrorverse": [
       {
         "position": "-84.0:72.0:-129.0",
         "buttons": [
@@ -29,7 +29,7 @@
         ]
       }
     ],
-    "Sorcerer House": [
+    "Sorcerer": [
       {
         "position": "-60.0:71.0:-123.0",
         "buttons": [
@@ -49,7 +49,7 @@
         ]
       }
     ],
-    "Chef\u0027s House": [
+    "Chef\u0027s": [
       {
         "position": "-114.0:73.0:-107.0",
         "buttons": [
@@ -78,7 +78,7 @@
         ]
       }
     ],
-    "Infested House": [
+    "Infested": [
       {
         "position": "-54.0:70.0:-91.0",
         "buttons": [
@@ -107,7 +107,7 @@
         ]
       }
     ],
-    "Cake House": [
+    "Cake": [
       {
         "position": "-85.0:71.0:-90.0",
         "buttons": [
