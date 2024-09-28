@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "633b8f0",
+  "sourceLabel": "533e044",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -682,6 +682,9 @@
     "itempickuplog.banneditems.0": "SKYBLOCK_MENU",
     "itempickuplog.banneditems.1": "CANCEL_PARKOUR_ITEM",
     "itempickuplog.banneditems.2": "CANCEL_RACE_ITEM",
+    "itempickuplog.banneditems.3": "MAXOR_ENERGY_CRYSTAL",
+    "itempickuplog.banneditems.4": "ELLE_SUPPLIES",
+    "itempickuplog.banneditems.5": "ELLE_FUEL_CELL",
     "itempickuplog.shoppattern": "^(?\u003citemName\u003e.+?)(?: x\\d+)?$",
     "mayorapi.calendar.gui": "Calendar and Events",
     "mayorapi.election.over": "§eThe election room is now closed\\. Clerk Seraphine is doing a final count of the votes\\.\\.\\.",
