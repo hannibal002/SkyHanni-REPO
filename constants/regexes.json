@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "270e885",
+  "sourceLabel": "e4e8a31",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -998,9 +998,13 @@
     "relay.chat.7th": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe next relay is on top of the shack next to the shady inn right here close to the pond.",
     "relay.chat.8th": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe next relay is on top of a statue in the dungeon hub.",
     "relay.chat.9th": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe next relay is on top of the Auction House.",
+    "rift.area.dreadfarm.buttons.hit": "§eYou have hit §r§b\\d+/56 §r§eof the wooden buttons!",
     "rift.area.stillgore.effegies.heart": "Effigies: (?\u003chearts\u003e((§[7c])?⧯)*)",
     "rift.area.stillgore.effegies.respawn": "§eRespawn §c(?\u003ctime\u003e.*) §7\\(or click!\\)",
     "rift.area.westvillage.kloon.color": "You\u0027ve set the color of this terminal to (?\u003ccolor\u003e.*)!",
+    "rift.area.westvillage.riftrace.cancel": "§3§lRIFT RACING §r§cRace cancelled!.*",
+    "rift.area.westvillage.riftrace.finish": "§3§lRIFT RACING §r§eRace finished in \\d+:\\d+.\\d+!.*",
+    "rift.area.westvillage.riftrace.start": "§3§lRIFT RACING §r§eRace started! Good luck!",
     "rift.area.westvillage.vermintracker.bagline": "§fVacuum Bag: §\\w(?\u003ccount\u003e\\d+) (?\u003cvermin\u003e\\w+)",
     "rift.area.westvillage.vermintracker.binline": "§fVermin Bin: §\\w(?\u003ccount\u003e\\d+) (?\u003cvermin\u003e\\w+)",
     "rift.area.westvillage.vermintracker.fly": ".*§eYou vacuumed a §.*Fly.*",
@@ -1011,7 +1015,6 @@
     "rift.everywhere.motes.lifetime": "\\s+Lifetime Motes: §r§d(?\u003cmotes\u003e[\\d,.]+)",
     "rift.everywhere.motesorb": "§5§lORB! §r§dPicked up §r§5+.* Motes§r§d.*",
     "rift.everywhere.nametag.timer": "(?\u003ctime\u003e\\d+) §aф",
-    "rift.everywhere.timer": "§(?\u003ccolor\u003e[a7])(?\u003ctime\u003e.*)ф Left.*",
     "rift.punchcard.limit": "§c§lUH OH! §r§cYou reached the limit of 20 players you can punch in one session!",
     "rift.punchcard.new": "§5§lPUNCHCARD! §r§eYou punched §r§.(?:.*?)?(?\u003cname\u003e\\w+)§r§. §r§eand both regained §r§a\\+25ф Rift Time§r§e!",
     "rift.punchcard.repeat": "§c§lAWKWARD! §r§cThis player has already been punched by you\\.\\.\\. somehow!",
