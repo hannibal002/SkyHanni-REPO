@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e4e8a31",
+  "sourceLabel": "cc0e94d",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -466,7 +466,7 @@
     "filter.powdermining.powder.picked": ".*§r§6§lCHEST LOCKPICKED.*",
     "filter.powdermining.reward.ascensionrope": "§r§9Ascension Rope( §r§8x(?\u003camount\u003e[\\d,]+))?",
     "filter.powdermining.reward.essence": "§r§d(?:Gold|Diamond) Essence( §r§8x(?\u003camount\u003e[\\d,]+))?",
-    "filter.powdermining.reward.gemstone": "§r§[fa9][❤❈☘⸕✎✧] (?\u003ctier\u003eRough|Flawed|Fine|Flawless) (?\u003cgem\u003eRuby|Amethyst|Jade|Amber|Sapphire|Topaz) Gemstone( §r§8x(?\u003camount\u003e[\\d,]+))?",
+    "filter.powdermining.reward.gemstone": "§r§[fa9][❤❈☘⸕✎✧❁] (?\u003ctier\u003eRough|Flawed|Fine|Flawless) (?\u003cgem\u003eRuby|Amethyst|Jade|Amber|Sapphire|Topaz|Jasper) Gemstone( §r§8x(?\u003camount\u003e[\\d,]+))?",
     "filter.powdermining.reward.generic": " {4}(?\u003creward\u003e§.+?[^§]*)(?: §r§8x(?\u003camount\u003e[\\d,]+))?$",
     "filter.powdermining.reward.goblineggs": "(?:§.)*(?\u003ccolor\u003e[a-zA-Z]+)? ?Goblin Egg( §r§8x(?\u003camount\u003e[\\d,]+))?",
     "filter.powdermining.reward.header": ".*§r§[af]§lREWARDS.*",
