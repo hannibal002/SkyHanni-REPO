@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "cc0e94d",
+  "sourceLabel": "22dfa1e",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -907,11 +907,13 @@
     "misc.chocolatefactory.shop.title": "Chocolate Shop",
     "misc.chocolatefactory.stray.caught": "^(?:§.)*(?\u003cname\u003e.*) §d§lCAUGHT!",
     "misc.chocolatefactory.stray.dorado": ".*§6El Dorado(?:.*?§6\\+?(?\u003camount\u003e[\\d,]+) Chocolate)?.*",
+    "misc.chocolatefactory.stray.doradoduplicate": "(?:§.)*already have captured him before.*",
     "misc.chocolatefactory.stray.fish": "§7You caught a stray (?\u003ccolor\u003e§.)Fish the Rabbit§7! §7You have already found (?:§.)?Fish the (?:§.)?Rabbit§7, so you received §6(?\u003camount\u003e[\\d,]*) (?:§6)?Chocolate§7!",
     "misc.chocolatefactory.stray.goldenclick": "§7You caught a stray §6§lGolden Rabbit§7! §7You gained §6\\+5 Chocolate §7until the §7end of the SkyBlock year!",
     "misc.chocolatefactory.stray.goldenrawchoc": "§7You caught a stray §6§lGolden Rabbit§7! §7You gained §6\\+(?\u003camount\u003e[\\d,]*) Chocolate§7!",
     "misc.chocolatefactory.stray.hoard": ".*(?:§r)?§7A hoard of (?:§r)?§aStray Rabbits (?:§r)?§7has.*",
     "misc.chocolatefactory.stray.loreinfo": "§7You caught a stray (?\u003crabbit\u003e(?\u003cname\u003e§[^§]*)) .* (?:§7)?§6\\+(?\u003camount\u003e[\\d,]*) Chocolate§7!",
+    "misc.chocolatefactory.stray.pseudoduplicate": "(?:§.)*You have already found.*",
     "misc.chocolatefactory.timetower.amount": "§7Charges: §.(?\u003cuses\u003e\\d+)§7/§a(?\u003cmax\u003e\\d+)",
     "misc.chocolatefactory.timetower.recharge": "§7Next Charge: §a(?\u003cduration\u003e\\w+)",
     "misc.chocolatefactory.timetower.status": "§7Status: §.§l(?\u003cstatus\u003eINACTIVE|ACTIVE)(?: §f)?(?\u003cacitveTime\u003e\\w*)",
