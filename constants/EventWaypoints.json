@@ -323,26 +323,6 @@
       }
     ]
   },
-  "presents_entrances": {
-    "lobby": [
-      {
-        "position": "-132:72:-4"
-      },
-      {
-        "position": "-11:63:149"
-      }
-    ],
-    "legacylobby": [
-      {
-        "position": "41:84:-99"
-      }
-    ],
-    "prototypelobby": [
-      {
-        "position": "-265:89:94"
-      }
-    ]
-  },
   "baskets": {
     "lobby": [
       {
