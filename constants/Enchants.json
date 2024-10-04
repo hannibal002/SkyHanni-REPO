@@ -258,6 +258,12 @@
       "goodLevel": 2,
       "maxLevel": 2
     },
+    "lapidary": {
+      "loreName": "Lapidary",
+      "nbtName": "lapidary",
+      "goodLevel": 1,
+      "maxLevel": 5
+    },
     "lethality": {
       "loreName": "Lethality",
       "nbtName": "lethality",
