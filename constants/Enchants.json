@@ -261,7 +261,7 @@
     "lapidary": {
       "loreName": "Lapidary",
       "nbtName": "lapidary",
-      "goodLevel": 1,
+      "goodLevel": 0,
       "maxLevel": 5
     },
     "lethality": {
