@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "d3930a1",
+  "sourceLabel": "524df8b",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -791,6 +791,7 @@
     "mining.hotm.skymall.item.titanium": "Gain §a5x §9Titanium §7drops\\.",
     "mining.hotm.widget.powder": "\\s*(?\u003ctype\u003e\\w+): (?:§.)+(?\u003camount\u003e[\\d,.]+)",
     "mining.kingtalisman.king": "§6§lKing (?\u003cname\u003e.*)",
+    "mining.kingtalisman.talisman": "§7You have received a §r§fKing Talisman§r§7!",
     "mining.mineshaft.chat.end": "§a§l▬{64}",
     "mining.mineshaft.chat.item": " {4}§r(?\u003citem\u003e.+)",
     "mining.mineshaft.chat.start": " {2}§r§b§l§r§(?\u003ccolor\u003e.)§l(?\u003cname\u003e.*) §r§b§lCORPSE LOOT! ?",
