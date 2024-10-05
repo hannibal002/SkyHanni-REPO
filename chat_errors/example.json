@@ -1,0 +1,12 @@
+{
+    "messageExact": [
+        "Caught a IllegalStateException in ReforgeAPI at NeuRepositoryReloadEvent: reforgestones failed to load from neu repo!"
+    ],
+    "messageStartsWith": [
+        "Caught a IllegalStateException in ReforgeAPI at NeuRepositoryReloadEvent"
+    ],
+    "replaceMessage": "Replaced message with this epic text",
+    "affectedVersions": [
+        "0.83.Alpha.14"
+    ]
+}
