@@ -5,7 +5,7 @@
     "messageStartsWith": [
         "Caught a IllegalStateException in ReforgeAPI at NeuRepositoryReloadEvent"
     ],
-    "replaceMessage": "Replaced message with this epic text",
+    "replaceMessage": "Replaced message with this epic text. If you don't include this replaceMessage the whole message is just hidden instead",
     "affectedVersions": [
         "0.83.Alpha.14"
     ]
