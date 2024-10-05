@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "524df8b",
+  "sourceLabel": "2db5f13",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -835,7 +835,6 @@
     "mining.powder.tracker.reward.goldessence.new": " {4}§r§dGold Essence(?: §r§8x(?\u003camount\u003e.*))?",
     "mining.powder.tracker.reward.greengoblinegg.new": " {4}§r§a§r§aGreen Goblin Egg(?: §r§8x(?\u003camount\u003e.*))?",
     "mining.powder.tracker.reward.jungleheart.new": " {4}§r§6Jungle Heart(?: §r§8x(?\u003camount\u003e.*))?",
-    "mining.powder.tracker.reward.mithrilpowder.new": " {4}§r§2Mithril Powder(?: §r§8x(?\u003camount\u003e.*))?",
     "mining.powder.tracker.reward.oilbarrel.new": " {4}§r§aOil Barrel(?: §r§8x(?\u003camount\u003e.*))?",
     "mining.powder.tracker.reward.pickonimbus2000.new": " {4}§r§5Pickonimbus 2000(?: §r§8x(?\u003camount\u003e.*))?",
     "mining.powder.tracker.reward.prehistoricegg.new": " {4}§r§fPrehistoric Egg(?: §r§8x(?\u003camount\u003e.*))?",
