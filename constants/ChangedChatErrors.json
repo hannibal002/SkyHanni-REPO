@@ -1,14 +1,16 @@
 {
-  "changed_error_messages": {
-    "message_exact": [
-      "Caught a IllegalStateException in ReforgeAPI at NeuRepositoryReloadEvent: reforgestones failed to load from neu repo!"
-    ],
-    "message_starts_with": [
-      "Caught a IllegalStateException in ReforgeAPI at NeuRepositoryReloadEvent"
-    ],
-    "replace_message": "Replaced message with this epic text. If you don't include this replaceMessage the whole message is just hidden instead",
-    "affected_versions": [
-      "0.83.Alpha.14"
-    ]
-  }
+  "changed_error_messages": [
+    {
+      "message_exact": [
+        "Caught a IllegalStateException in ReforgeAPI at NeuRepositoryReloadEvent: reforgestones failed to load from neu repo!"
+      ],
+      "message_starts_with": [
+        "Caught a IllegalStateException in ReforgeAPI at NeuRepositoryReloadEvent"
+      ],
+      "replace_message": "Replaced message with this epic text. If you don't include this replaceMessage the whole message is just hidden instead",
+      "affected_versions": [
+        "0.83.Alpha.14"
+      ]
+    }
+  ]
 }
