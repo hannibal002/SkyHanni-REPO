@@ -6,8 +6,7 @@
       ],
       "message_starts_with": [
       ],
-      "is_user_error": true,
-      "replace_message": "Usage: /shtestwaypoint <x> <y> <z>",
+      "custom_message": "Usage: /shtestwaypoint <x> <y> <z>",
       "affected_versions": [
         "0.27.Beta.15"
       ]
