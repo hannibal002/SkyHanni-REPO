@@ -1905,6 +1905,10 @@
   },
   "221": {
     "Position": "-74.0:171.0:-60.0",
+    "Name": "Mithril",
+    "Tags": [
+      "grind_ores"
+    ],
     "Neighbours": {
       "220": 6.08,
       "225": 10.0,
