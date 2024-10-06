@@ -8,7 +8,8 @@
       ],
       "custom_message": "Usage: /shtestwaypoint <x> <y> <z>",
       "affected_versions": [
-        "0.27.Beta.15"
+        "0.27.Beta.15",
+        "0.27.Beta.16"
       ]
     }
   ]
