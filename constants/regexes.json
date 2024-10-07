@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2db5f13",
+  "sourceLabel": "1de910a",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -864,6 +864,7 @@
     "misc.chocolatefactory.chocolate.alltime": "§7All-time Chocolate: §6(?\u003camount\u003e[\\d,]+)",
     "misc.chocolatefactory.chocolate.amount": "(?\u003camount\u003e[\\d,]+) Chocolate",
     "misc.chocolatefactory.chocolate.forprestige": "§7§cRequires (?\u003camount\u003e\\w+) Chocolate this.*",
+    "misc.chocolatefactory.chocolate.max": "§7Max Chocolate: §6(?\u003cmax\u003e.*)",
     "misc.chocolatefactory.chocolate.multiplier": "§7Total Multiplier: §6(?\u003camount\u003e[\\d.]+)x",
     "misc.chocolatefactory.chocolate.persecond": "§6(?\u003camount\u003e[\\d.,]+) §8per second",
     "misc.chocolatefactory.chocolate.thisprestige": "§7Chocolate this Prestige: §6(?\u003camount\u003e[\\d,]+)",
