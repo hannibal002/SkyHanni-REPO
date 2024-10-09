@@ -37,6 +37,16 @@
     "THE_SHREDDER",
     "PHANTOM_ROD"
   ],
+  "dungeon_secret_items": [
+    "DUNGEON_TRAP",
+    "TRAINING_WEIGHTS",
+    "SPIRIT_LEAP",
+    "INFLATABLE_JERRY",
+    "DUNGEON_CHEST_KEY",
+    "TREASURE_TALISMAN",
+    "DEFUSE_KIT",
+    "POTION_HEALING;8"
+  ],
   "enchant_multiplier": {
     "infinite_quiver": 0.03
   },
