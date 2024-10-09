@@ -85,6 +85,15 @@
         "io.github.moulberry.notenoughupdates.commands.help.SettingsCommand$createConfigScreen$1"
       ]
     },
+    "Odin": {
+      "description": [
+        "Mod with features"
+      ],
+      "command": "od",
+      "guiPath": [
+        "me.odinmain.ui.clickgui.ClickGUI"
+      ]
+    },
     "OneConfig": {
       "description": [
         "Multiple Mods in OneConfig"
@@ -92,6 +101,16 @@
       "command": "oneconfig",
       "guiPath": [
         "cc.polyfrost.oneconfig.gui.OneConfigGui"
+      ]
+    },
+    "Partly Sane Skies": {
+      "description": [
+        "Includes some stuff"
+      ],
+      "command": "pssc",
+      "guiPath": [
+        "me.partlysanestudios.partlysaneskies.config.OneConfigScreen",
+        "cc.polyfrost.oneconfig.gui.OneConfigGui:PartlySaneSkies"
       ]
     },
     "Patcher": {

@@ -19,13 +19,16 @@
     "Conutik": {
       "suffix": "§c§lツ"
     },
+    "hijiol": {
+      "suffix": "§c§l:>"
+    },
     "Cuz_Im_Clicks": {},
     "Eisengolem": {},
     "Empa_": {
       "suffix": "§d:3"
     },
     "Erymanthus": {},
-    "EstrogenEnjoyer":{
+    "EstrogenEnjoyer": {
       "suffix": "§d:3"
     },
     "Fix3dll": {},
@@ -50,6 +53,9 @@
     },
     "martimavocado": {},
     "Mikecraft1224": {},
+    "minhperry02": {
+      "suffix": "§9:D"
+    },
     "NetheriteMiner": {},
     "oBlazin": {
       "suffix": "§d§l^^"
@@ -69,7 +75,9 @@
       "suffix": "§cc:"
     },
     "Skirtwearer": {
-      "suffix": "§d:3"
+      "suffix": "§d:3",
+      "spinny": true,
+      "upsideDown": true
     },
     "Skyblock_Lobby": {},
     "SkyHanni": {
@@ -93,6 +101,9 @@
       "upsideDown": true
     },
     "Thunderblade73": {},
+    "Tryp0MC": {
+      "suffix": "§6B)"
+    },
     "Vahvl": {
       "suffix": "§d:3"
     },
