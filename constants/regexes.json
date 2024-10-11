@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "5c5cd18",
+  "sourceLabel": "8c54be9",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -670,7 +670,6 @@
     "inventory.pagescrolling.illegal.0": "Large Chest",
     "inventory.pagescrolling.illegal.1": "Chest",
     "inventory.personalcompactor.internalname": "PERSONAL_(?\u003ctype\u003e[^_]+)_(?\u003ctier\u003e\\d+)",
-    "inventory.recipe.title": ".* Recipe",
     "inventory.statstuning.points": "§7Stat has: §e(?\u003camount\u003e\\d+) points?",
     "inventory.stockofstonks.bid": "§5§o§7   Minimum Bid: §6(?\u003camount\u003e[\\d,]+) Coins",
     "inventory.stockofstonks.inventory": "Stonks Auction",
