@@ -1,15 +1,14 @@
 {
   "bingo_tips": {
-    "Skilled (Community Goal)": {
+    "Pet (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Gain Taming experience"
+        "Gain Pet experience"
       ],
       "guide": [
         "You will passively get progress",
         "in this by just having a pet",
-        "equipped all time. Even a",
-        "Level 100 pet works for this."
+        "equipped all time."
       ]
     },
     "A Hard Day's Work (Community Goal)": {
@@ -24,98 +23,89 @@
         "Bronze or Silver Medals to get."
       ]
     },
-    "Clown Collab (Community Goal)": {
-      "difficulty": "Medium",
-      "note": [
-        "Defeat Bonzo"
-      ],
-      "guide": [
-        "For this you will need Combat 15 and",
-        "completion of the previous floor.",
-        "Going for this with your friends is",
-        "probably the best option or you",
-        "could use party finder."
-      ]
-    },
-    "Revenant Horror (Community Goal)": {
+    "Agricultural Revolution (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Kill T2 Zombie Bosses"
+        "Harvest crops"
+      ],
+      "guide": [
+        "You can get easy contribution for",
+        "this by breaking some Wheat in the Hub.",
+        "If you want faster contribution,",
+        "make a Sugar Cane farm in your Garden."
+      ]
+    },
+    "Tarantula Broodfather (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Kill T2 Spider Bosses"
       ],
       "guide": [
         "Once you acquire a Void Sword and a decent",
         "armor like Ender or Glacite this should be",
-        "fairly easy to do. You might get a little",
-        "progress in this from doing the Slayer Goal."
+        "fairly easy to do."
       ]
     },
-    "Operation: Ore (Community Goal)": {
+    "Enderman Slayer (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Mine Ores"
+        "Kill Endermen"
       ],
       "guide": [
-        "You will get passive progress for this",
-        "while going for other goals. If you want",
-        "to specifically go for this, use a",
-        "Cobblestone Generator on your island."
+        "You will need Combat 12 for this.",
+        "Getting a Void Sword and Ender Armor",
+        "will make progress in this easier."
       ]
     },
-    "Slayer": {
+    "Relic Researcher": {
+      "difficulty": "Medium",
+      "note": [
+        "Find 10 Relics"
+      ],
+      "guide": [
+        "You can find Relic Coordinates in Skytils",
+        "or the Wiki. You will need Ender Pearls",
+        "to reach some of them."
+      ]
+
+    },
+    "Farmer": {
       "difficulty": "Easy",
       "note": [
-        "Reach Slayer Level 2"
+        "Obtain Farming Level 5"
       ],
       "guide": [
-        "Do 3 Tier 1 Revenant Horror Bosses ",
-        "and claim the rewards by talking to Maddox."
+        "Farm some Wheat in the Hub."
       ]
     },
-    "Brewer": {
+    "Minion Machine": {
       "difficulty": "Easy",
       "note": [
-        "Obtain Alchemy Level 5"
+        "25 unique Minions"
       ],
       "guide": [
-        "Use Enchanted Sugar that you get from",
-        "killing pests in The Garden or from",
-        "farming some Sugar Cane to brew",
-        "Speed Potions (you will also need",
-        "some nether warts for Awkward Potions first)"
+        "Craft some easy minions while also getting",
+        "those that will help with this Bingo."
       ]
     },
-    "Iron Ingot Collector": {
+    "Clay Collector": {
       "difficulty": "Hard",
       "note": [
-        "100k Iron Collection"
+        "150k Clay Collection"
       ],
       "guide": [
-        "Mine 50 Iron in the Gold Mine",
-        "to unlock Iron Minions. Then buy",
-        "Iron from the Mine Merchant in The Hub",
-        "and Iron Forger in the Gold Mine and",
-        "craft as many minions as you can.",
+        "Unlock Clay Minions by fishing in the Hub",
+        "in the Fishermans Pond. Then use the Clay Trade",
+        "to get enough Clay for minions.",
         "Give them the best fuel and storage you",
-        "have access to and don't forget Auto Smelters.",
-        "Remember to collect in time."
-      ]
-    },
-    "Fashionable": {
-      "difficulty": "Easy",
-      "note": [
-        "7 Armor Sets"
-      ],
-      "guide": [
-        "Craft Leather, Iron, Gold, Diamond, Mushroom",
-        "and Leaflet Armor. Grind Glacite Armor",
-        "for the goal I've got Chills!",
-        "and equip them all in one lobby."
+        "have access to. Using Compactors is strongly",
+        "recommended. Remember to collect in time."
       ]
     },
     "Skill Average": {
-      "difficulty": "Easy",
+      "difficulty": "Hard",
       "note": [
-        "Skill Average of 8"
+        "Skill Average of 17"
       ],
       "guide": [
         "To help with this, try to make bigger crafts",
@@ -128,7 +118,7 @@
     "High Score!": {
       "difficulty": "Medium",
       "note": [
-        "230+ Score in Floor 1"
+        "270+ Score in Floor 1"
       ],
       "guide": [
         "This requires Catacombs Level 1 and ",
@@ -137,59 +127,51 @@
         "or friends for this."
       ]
     },
-    "Obsidian Treasure": {
+    "Friend Of The Seas": {
       "difficulty": "Medium",
       "note": [
-        "Open an Obsidian Dungeon Chest"
+        "Equip a Common+ Dolphin"
       ],
       "guide": [
-        "Save your coins from Meiser and ideally",
-        "you get a score of 270+ in your run for",
-        "High Score! You may need more coins than",
-        "250k if you do drop rarer loot.",
-        "Remember you can open chests at Croesus",
-        "in the Dungeon Hub up to 48h after the run."
+        "Fish with an Enchanted Chum Rod in the Rain",
+        "in the Park. Use the best bait you can."
       ]
     },
-    "Bone Collector": {
+    "Raw Chicken Collector": {
       "difficulty": "Hard",
       "note": [
-        "47.5k Bone Collection"
+        "47.5k Raw Chicken Collection"
       ],
       "guide": [
-        "Unlock Skeleton Minions by killing skeletons you",
-        "run into along your way. Then buy",
-        "Bones from the Adventurer in The Hub",
-        "and craft as many minions as you can.",
+        "Unlock Chicken Minions by killing Chickens",
+        "in the Barn and craft as many minions as you can.",
         "Give them the best fuel and storage you",
         "have access to.",
         "Remember to collect in time."
       ]
     },
-    "Podium Position": {
+    "Love Is All Around": {
       "difficulty": "Easy",
       "note": [
-        "Get Bronze or higher in a contest"
+        "Obtain a Mediocre Ring of Love"
       ],
       "guide": [
-        "For this you will need Farming 10.",
-        "Your best options for this will probably be",
-        "Wheat/Potato/Carrot in the Garden or Mushroom",
-        "if you use an Efficiency 5 Silk Touch Gold Axe",
-        "in the Desert."
+        "Follow the Romero Questline until you ",
+        "get this. You will only need",
+        "1 Yellow Rock, 15 poppies and 64 Emerald."
       ]
     },
-    "Oak Wood Collector": {
+    "Dark Oak Wood Collector": {
       "difficulty": "Hard",
       "note": [
-        "100k Oak Wood collection"
+        "165k Dark Oak Wood collection"
       ],
       "guide": [
         "Optimal tool:",
         "Golden Axe with Efficiency 5",
         "Reforges: Double-Bit or Lush",
         "Get Haste 3 from a splash to instamine wood",
-        "Forage in the Hub.",
+        "Forage in the Dark Thicket in the Park.",
         "Place as many minions as you can,",
         "give them a medium storage and the best fuel",
         "you can. Collect them in time."
@@ -198,7 +180,7 @@
     "Strongman": {
       "difficulty": "Medium",
       "note": [
-        "140 strength"
+        "180 strength"
       ],
       "guide": [
         "Get yourself a splash, equip a Bingo Pet",
@@ -211,7 +193,7 @@
     "Healthy": {
       "difficulty": "Easy",
       "note": [
-        "750 Health"
+        "500 Health"
       ],
       "guide": [
         "Wear armor enchanted with Growth 5 ",
@@ -223,28 +205,35 @@
         "armor to Titanic."
       ]
     },
-    "I've got Chills!": {
-      "difficulty": "Medium",
-      "note": [
-        "Wear a full set of Glacite"
-      ],
-      "guide": [
-        "You will need Mining 12 for this as you",
-        "need to enter the Dwarven Mines for this.",
-        "Remember that Glacite Walkers take more",
-        "damage from pickaxes."
-      ]
-    },
-    "Dirty Reforger": {
+    "Titanic Reforger": {
       "difficulty": "Easy",
       "note": [
-        "Apply the Dirty Reforge"
+        "Apply the Titanic Reforge"
       ],
       "guide": [
-        "Buy a Dirt Bottle (100k) from the Smithmonger",
-        "in the Hub and reforge a weapon with it.",
-        "§4Make sure to NOT shift-click it out",
-        "§4of the menu after applying!"
+        "Talk to the Blacksmith in the Hub",
+        "and gamble Reforges on an armor piece",
+        "until you get the Titanic Reforge.",
+        "You might need to bring some money for this."
+      ]
+    },
+    "Bedazzled": {
+      "difficulty": "Medium",
+      "note": [
+        "12 unique Accessories"
+      ],
+      "guide": [
+        "List of more than 12 talismans:",
+        "Buy all 6 Talismans for 26k from the Adventurer in The Hub",
+        "Collection Talismans:",
+        "Farming Talisman, Vaccine Talisman,",
+        "Gravity Talisman, Talisman of Coins, Magnetic Talisman,",
+        "Wood Affinity Talisman, Speed Talisman, Potion Affinity Talisman",
+        "Other:",
+        "Archaeologists Compass, Mediocre Ring of Love, King Talisman,",
+        "Campfire Initiate Badge, Cat Talisman, Spider Talisman,",
+        "Don't forget to take the 4 Bonus accessory bag slots from",
+        "the Redstone Miner, he needs 1920 Redstone in total."
       ]
     },
     "Collector": {
@@ -260,71 +249,56 @@
         "Sand, Wheat, Iron and Seeds."
       ]
     },
-    "Critical": {
+    "Hard Worker": {
+      "difficulty": "Medium",
+      "note": [
+        "Craft a t11 Minion"
+      ],
+      "guide": [
+        "You can save all your Dark Oak Wood",
+        "to craft a t11 Minion from this (164k Wood)",
+        "or go for something quick like a Wheat Minion."
+      ]
+    },
+    "Experienced": {
       "difficulty": "Easy",
       "note": [
-        "Reach 100 Crit Damage"
+        "Obtain a Grand Experience Bottle"
       ],
       "guide": [
-        "Reforge your Void Sword to Sharp",
-        "at the Blacksmith in the Hub,",
-        "or enchant any weapon with Critical 5",
-        "(costs 50 Levels)."
+        "Mine Ender Nodes in the End,",
+        "fish one up while going for Dolphin,",
+        "or get some from the Experimentation Table."
       ]
     },
-    "Rock Solid": {
-      "difficulty": "Medium",
-      "note": [
-        "Equip an Umcommon+ Rock Pet"
-      ],
-      "guide": [
-        "Get the common Rock from mining",
-        "2.5k Ores and hand it to Kat in The Hub",
-        "(takes a day and 100k coins) or mine",
-        "5k more Ores to get the uncommon Rock.",
-        "Remember to equip it!"
-      ]
-    },
-    "Meiser": {
+    "Pair Up!": {
       "difficulty": "Easy",
       "note": [
-        "250k coins in the bank"
+        "Find 3 Pairs in the Experimentation Table"
       ],
       "guide": [
-        "You will most likely get this from",
-        "leveling up skills.",
-        "Remember to actually put the money",
-        "you get in the Bank :)"
+        "Get Enchanting Level 10 and play",
+        "the first tier in the Experimentation Table."
       ]
     },
-    "Pet Hoarder": {
+    "Quick Reel": {
       "difficulty": "Medium",
       "note": [
-        "Obtain 12 unique pets"
+        "Summon 3 Sea Creatures in 75s"
       ],
       "guide": [
-        "§nNo eggs:§r",
-        "Bingo, Endermen, Grandma Wolf, Armadillo,",
-        "Squid, Guardian, Bee, Dolphin, Reindeer,",
-        "Rock, Tarantula, Owl and Zoo",
-        "§nEggs:§r",
-        "Jerry, Silverfish, Pig, Rabbit, Endermite and Bat",
-        "If you do eggs you will need 2.5k Chicken Collection",
-        "and you'll want a Chicken Minion that can create more",
-        "Enchanted Eggs for you once you put your first one in."
+        "Use an Enchanted Chum Rod in the Rain",
+        "in the Park and use the best bait you can."
       ]
     },
-    "Ender Menace": {
-      "difficulty": "Medium",
+    "Strange Effects": {
+      "difficulty": "Easy",
       "note": [
-        "Kill 10 Endermen in 8s"
+        "Kill a Runic Mob"
       ],
       "guide": [
-        "Hit 10 Endermen in The End",
-        "so they follow you, then kill them",
-        "all as quickly as you can.",
-        "You most likely want to use Ender Armor",
-        "and a Void Sword for this."
+        "Look for a mob with a purple name",
+        "and kill it."
       ]
     }
   }

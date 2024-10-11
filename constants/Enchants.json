@@ -258,6 +258,12 @@
       "goodLevel": 2,
       "maxLevel": 2
     },
+    "lapidary": {
+      "loreName": "Lapidary",
+      "nbtName": "lapidary",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "lethality": {
       "loreName": "Lethality",
       "nbtName": "lethality",
@@ -348,8 +354,8 @@
       "goodLevel": 5,
       "maxLevel": 7
     },
-    "pristine": {
-      "loreName": "Pristine",
+    "prismatic": {
+      "loreName": "Prismatic",
       "nbtName": "pristine",
       "goodLevel": 0,
       "maxLevel": 5
@@ -667,6 +673,12 @@
       "nbtName": "ultimate_flash",
       "goodLevel": 0,
       "maxLevel": 5
+    },
+    "flowstate": {
+      "loreName": "Flowstate",
+      "nbtName": "ultimate_flowstate",
+      "goodLevel": 0,
+      "maxLevel": 3
     },
     "last stand": {
       "loreName": "Last Stand",

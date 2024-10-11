@@ -1,12 +1,12 @@
 {
   "0": {
     "Position": "-279.0:83.0:-14.0",
-    "Name": "Spawn",
+    "Name": "/Warp park",
     "Tags": [
-      "dev"
+      "teleport"
     ],
     "Neighbours": {
-      "247": 4.0,
+      "304": 2.0,
       "274": 5.39,
       "14": 5.83,
       "1": 7.21
@@ -92,29 +92,29 @@
     "Neighbours": {
       "282": 3.61,
       "2": 7.21,
-      "11": 10.3
+      "11": 10.0
     }
   },
   "11": {
-    "Position": "-305.0:83.0:-33.0",
+    "Position": "-304.0:83.0:-34.0",
     "Neighbours": {
-      "12": 6.71,
-      "10": 10.3
+      "12": 5.83,
+      "10": 10.0
     }
   },
   "12": {
-    "Position": "-311.0:83.0:-36.0",
+    "Position": "-309.0:83.0:-37.0",
     "Neighbours": {
-      "13": 6.0,
-      "11": 6.71,
-      "26": 7.07
+      "11": 5.83,
+      "13": 8.06,
+      "26": 8.06
     }
   },
   "13": {
     "Position": "-317.0:83.0:-36.0",
     "Neighbours": {
       "26": 5.1,
-      "12": 6.0,
+      "12": 8.06,
       "19": 8.49
     }
   },
@@ -183,7 +183,7 @@
       "area"
     ],
     "Neighbours": {
-      "99": 8.6,
+      "99": 8.25,
       "22": 10.63,
       "20": 10.77
     }
@@ -223,7 +223,7 @@
     "Neighbours": {
       "13": 5.1,
       "27": 5.83,
-      "12": 7.07
+      "12": 8.06
     }
   },
   "27": {
@@ -249,9 +249,6 @@
   },
   "30": {
     "Position": "-322.0:92.0:-55.0",
-    "Tags": [
-      "area"
-    ],
     "Neighbours": {
       "31": 3.16,
       "29": 5.83
@@ -783,10 +780,14 @@
     }
   },
   "99": {
-    "Position": "-333.0:90.0:-16.0",
+    "Position": "-330.0:91.0:-16.0",
+    "Name": "no_area",
+    "Tags": [
+      "area"
+    ],
     "Neighbours": {
-      "100": 6.0,
-      "21": 8.6
+      "21": 8.25,
+      "100": 9.06
     }
   },
   "100": {
@@ -797,7 +798,7 @@
     ],
     "Neighbours": {
       "101": 4.12,
-      "99": 6.0
+      "99": 9.06
     }
   },
   "101": {
@@ -886,6 +887,10 @@
   },
   "112": {
     "Position": "-340.0:88.0:57.0",
+    "Name": "no_area",
+    "Tags": [
+      "area"
+    ],
     "Neighbours": {
       "111": 4.47,
       "113": 6.0
@@ -965,7 +970,7 @@
     "Neighbours": {
       "102": 6.0,
       "101": 11.18,
-      "132": 15.65
+      "305": 12.0
     }
   },
   "121": {
@@ -1035,9 +1040,9 @@
   },
   "130": {
     "Position": "-386.0:90.0:51.0",
-    "Name": "Woods Racing",
+    "Name": "Start",
     "Tags": [
-      "poi"
+      "race"
     ],
     "Neighbours": {
       "131": 3.0,
@@ -1056,9 +1061,13 @@
   },
   "132": {
     "Position": "-354.0:104.0:-20.0",
+    "Name": "no_area",
+    "Tags": [
+      "area"
+    ],
     "Neighbours": {
       "133": 4.0,
-      "120": 15.65
+      "305": 7.28
     }
   },
   "133": {
@@ -1096,15 +1105,19 @@
       "area"
     ],
     "Neighbours": {
-      "135": 9.22,
-      "137": 9.22
+      "306": 6.0,
+      "135": 9.22
     }
   },
   "137": {
     "Position": "-378.0:111.0:-20.0",
+    "Name": "no_area",
+    "Tags": [
+      "area"
+    ],
     "Neighbours": {
       "138": 4.12,
-      "136": 9.22
+      "306": 6.08
     }
   },
   "138": {
@@ -1158,14 +1171,18 @@
     ],
     "Neighbours": {
       "142": 5.0,
-      "144": 12.81
+      "307": 10.2
     }
   },
   "144": {
     "Position": "-407.0:121.0:-37.0",
+    "Name": "no_area",
+    "Tags": [
+      "area"
+    ],
     "Neighbours": {
       "145": 5.0,
-      "143": 12.81
+      "307": 6.0
     }
   },
   "145": {
@@ -1402,8 +1419,7 @@
     "Name": "Romeo/Juliette",
     "Tags": [
       "npc",
-      "poi",
-      "dev"
+      "romeo"
     ],
     "Neighbours": {
       "174": 7.14
@@ -1984,10 +2000,10 @@
     "Position": "-275.0:83.0:-14.0",
     "Name": "Hub",
     "Tags": [
-      "launch"
+      "teleport"
     ],
     "Neighbours": {
-      "0": 4.0
+      "304": 2.0
     }
   },
   "248": {
@@ -2069,7 +2085,7 @@
   },
   "259": {
     "Position": "-448.0:87.0:12.0",
-    "Name": "End of Parcour",
+    "Name": "Start",
     "Tags": [
       "poi"
     ],
@@ -2086,7 +2102,7 @@
   },
   "261": {
     "Position": "-333.0:91.0:-56.0",
-    "Name": "Crackd Wall",
+    "Name": "Cracked Wall",
     "Tags": [
       "dev"
     ],
@@ -2178,9 +2194,9 @@
   },
   "274": {
     "Position": "-276.0:87.0:-16.0",
-    "Name": "Hoppiy",
+    "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "0": 5.39
@@ -2220,7 +2236,7 @@
     "Position": "-285.0:82.0:-42.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "277": 2.45
@@ -2235,9 +2251,9 @@
   },
   "281": {
     "Position": "-311.0:83.0:-72.0",
-    "Name": "Hopity",
+    "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "9": 1.73
@@ -2261,7 +2277,7 @@
     "Position": "-381.0:61.0:35.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "88": 4.58,
@@ -2279,7 +2295,7 @@
     "Position": "-327.0:104.0:-112.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "285": 2.24
@@ -2297,7 +2313,7 @@
     "Position": "-309.0:82.0:17.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "287": 2.24
@@ -2307,7 +2323,7 @@
     "Position": "-400.0:110.0:34.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "183": 1.73
@@ -2317,7 +2333,7 @@
     "Position": "-464.0:110.0:-11.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "221": 2.0
@@ -2327,7 +2343,7 @@
     "Position": "-455.0:94.0:-2.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "257": 2.45,
@@ -2336,9 +2352,9 @@
   },
   "292": {
     "Position": "-407.0:129.0:-119.0",
-    "Name": "Parcour Milestone",
+    "Name": "Stop",
     "Tags": [
-      "dev"
+      "race"
     ],
     "Neighbours": {
       "293": 3.0,
@@ -2349,7 +2365,7 @@
     "Position": "-407.0:129.0:-122.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "292": 3.0
@@ -2366,7 +2382,7 @@
     "Position": "-362.0:92.0:75.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "294": 2.24
@@ -2384,7 +2400,7 @@
     "Position": "-454.0:138.0:-120.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "296": 5.39
@@ -2409,7 +2425,7 @@
     "Position": "-406.0:120.0:-89.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "299": 4.24
@@ -2419,7 +2435,7 @@
     "Position": "-442.0:125.0:-109.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "171": 5.1,
@@ -2430,7 +2446,7 @@
     "Position": "-440.0:110.0:-39.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "203": 5.48,
@@ -2446,6 +2462,50 @@
     "Neighbours": {
       "32": 3.0,
       "261": 3.16
+    }
+  },
+  "304": {
+    "Position": "-277.0:83.0:-14.0",
+    "Name": "Birch Park",
+    "Tags": [
+      "area"
+    ],
+    "Neighbours": {
+      "0": 2.0,
+      "247": 2.0
+    }
+  },
+  "305": {
+    "Position": "-354.0:102.0:-13.0",
+    "Name": "no_area",
+    "Tags": [
+      "area"
+    ],
+    "Neighbours": {
+      "132": 7.28,
+      "120": 12.0
+    }
+  },
+  "306": {
+    "Position": "-372.0:110.0:-20.0",
+    "Name": "no_area",
+    "Tags": [
+      "area"
+    ],
+    "Neighbours": {
+      "136": 6.0,
+      "137": 6.08
+    }
+  },
+  "307": {
+    "Position": "-407.0:121.0:-31.0",
+    "Name": "no_area",
+    "Tags": [
+      "area"
+    ],
+    "Neighbours": {
+      "144": 6.0,
+      "143": 10.2
     }
   }
 }

@@ -1,14 +1,14 @@
 {
   "0": {
-    "Position": "4.0:158.0:80.0",
-    "Name": "Spawn",
+    "Position": "4.0:158.0:79.0",
+    "Name": "/warp deep",
     "Tags": [
-      "dev"
+      "teleport"
     ],
     "Neighbours": {
-      "1": 4.0,
-      "314": 4.47,
-      "270": 9.0
+      "1": 5.0,
+      "314": 5.0,
+      "270": 8.0
     }
   },
   "1": {
@@ -18,9 +18,9 @@
       "area"
     ],
     "Neighbours": {
-      "0": 4.0,
       "333": 4.0,
-      "314": 4.47
+      "314": 4.47,
+      "0": 5.0
     }
   },
   "2": {
@@ -110,7 +110,7 @@
     "Position": "43.0:151.0:15.0",
     "Name": "Lift Gunpowder Mines",
     "Tags": [
-      "launch"
+      "teleport"
     ],
     "Neighbours": {
       "12": 7.0,
@@ -505,15 +505,15 @@
   "60": {
     "Position": "25.0:156.0:11.0",
     "Neighbours": {
+      "61": 7.28,
       "59": 7.35,
-      "61": 7.87,
       "62": 8.06
     }
   },
   "61": {
-    "Position": "30.0:157.0:17.0",
+    "Position": "29.0:157.0:17.0",
     "Neighbours": {
-      "60": 7.87
+      "60": 7.28
     }
   },
   "62": {
@@ -1574,7 +1574,7 @@
     "Position": "44.0:14.0:15.0",
     "Name": "Lift Obsidian Sanctuary",
     "Tags": [
-      "launch"
+      "teleport"
     ],
     "Neighbours": {
       "301": 3.32
@@ -1584,7 +1584,7 @@
     "Position": "43.0:122.0:15.0",
     "Name": "Lift Lapis Qarry",
     "Tags": [
-      "launch"
+      "teleport"
     ],
     "Neighbours": {
       "421": 3.74,
@@ -1621,7 +1621,7 @@
     "Position": "45.0:102.0:17.0",
     "Name": "Lift Pigmen\u0027s Den",
     "Tags": [
-      "launch"
+      "teleport"
     ],
     "Neighbours": {
       "429": 4.12
@@ -1829,7 +1829,7 @@
     "Position": "43.0:67.0:15.0",
     "Name": "Lift Slimehill",
     "Tags": [
-      "launch"
+      "teleport"
     ],
     "Neighbours": {
       "225": 6.48,
@@ -2006,7 +2006,7 @@
     "Position": "43.0:39.0:16.0",
     "Name": "Lift Diamond Reserve",
     "Tags": [
-      "launch"
+      "teleport"
     ],
     "Neighbours": {
       "245": 5.39,
@@ -2163,7 +2163,7 @@
     "Position": "10.0:176.0:58.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "266": 3.61,
@@ -2202,8 +2202,8 @@
   "270": {
     "Position": "4.0:158.0:71.0",
     "Neighbours": {
-      "2": 8.0,
-      "0": 9.0
+      "0": 8.0,
+      "2": 8.0
     }
   },
   "271": {
@@ -2246,7 +2246,7 @@
     "Position": "24.0:156.0:-37.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "68": 2.83
@@ -2274,7 +2274,7 @@
     "Position": "-11.0:121.0:36.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "411": 2.24
@@ -2284,7 +2284,7 @@
     "Position": "1.0:110.0:44.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "128": 3.16,
@@ -2302,7 +2302,7 @@
     "Position": "22.0:104.0:17.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "209": 3.32,
@@ -2350,7 +2350,7 @@
     "Position": "45.0:38.0:22.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "287": 4.12
@@ -2367,7 +2367,7 @@
     "Position": "31.0:12.0:12.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "193": 2.45,
@@ -2444,7 +2444,7 @@
     "Position": "20.0:68.0:42.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "298": 4.58
@@ -2454,7 +2454,7 @@
     "Position": "38.0:12.0:20.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "258": 3.16,
@@ -2561,8 +2561,8 @@
   "314": {
     "Position": "8.0:158.0:82.0",
     "Neighbours": {
-      "0": 4.47,
       "1": 4.47,
+      "0": 5.0,
       "315": 5.39
     }
   },
@@ -2591,7 +2591,7 @@
     "Position": "5.0:148.0:88.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "317": 2.24
@@ -2651,7 +2651,7 @@
     "Position": "-33.0:207.0:38.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "325": 5.39
@@ -2689,7 +2689,7 @@
     "Position": "2.0:153.0:37.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "35": 2.24,
@@ -2701,7 +2701,7 @@
     "Position": "7.0:157.0:64.0",
     "Name": "Hoppity",
     "Tags": [
-      "dev"
+      "hoppity"
     ],
     "Neighbours": {
       "2": 3.32
@@ -2711,7 +2711,7 @@
     "Position": "4.0:158.0:88.0",
     "Name": "Gold Mines",
     "Tags": [
-      "launch"
+      "teleport"
     ],
     "Neighbours": {
       "1": 4.0
@@ -2783,6 +2783,10 @@
   },
   "343": {
     "Position": "41.0:156.0:25.0",
+    "Name": "aote",
+    "Tags": [
+      "teleport"
+    ],
     "Neighbours": {
       "342": 6.16,
       "344": 8.06
@@ -5961,8 +5965,8 @@
   "766": {
     "Position": "-10.0:12.0:22.0",
     "Neighbours": {
-      "765": 5.0,
-      "186": 5.0
+      "186": 5.0,
+      "765": 5.0
     }
   },
   "767": {
@@ -5975,8 +5979,8 @@
   "768": {
     "Position": "-4.0:13.0:42.0",
     "Neighbours": {
-      "761": 3.16,
       "758": 3.16,
+      "761": 3.16,
       "771": 4.47
     }
   },
