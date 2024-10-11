@@ -38,14 +38,15 @@
     "PHANTOM_ROD"
   ],
   "dungeon_secret_items": [
-    "DUNGEON_TRAP",
-    "TRAINING_WEIGHTS",
-    "SPIRIT_LEAP",
-    "INFLATABLE_JERRY",
-    "DUNGEON_CHEST_KEY",
-    "TREASURE_TALISMAN",
     "DEFUSE_KIT",
-    "POTION_HEALING;8"
+    "DUNGEON_CHEST_KEY",
+    "DUNGEON_DECOY",
+    "DUNGEON_TRAP",
+    "INFLATABLE_JERRY",
+    "POTION_HEALING;8",
+    "SPIRIT_LEAP",
+    "TRAINING_WEIGHTS",
+    "TREASURE_TALISMAN"
   ],
   "enchant_multiplier": {
     "infinite_quiver": 0.03
