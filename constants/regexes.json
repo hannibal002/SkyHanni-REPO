@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "3293490",
+  "sourceLabel": "5fd54d5",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -1072,6 +1072,10 @@
     "slayer.rngmeter.inventoryname": "(?\u003cname\u003e.*) RNG Meter",
     "slayer.rngmeter.inventoryname.slayer": "Slayer",
     "slayer.rngmeter.update": " {3}§dRNG Meter §f- §d(?\u003cexp\u003e.*) Stored XP",
+    "stash.compact.differing.materials.count": "§f *§8\\(This totals (?\u003ccount\u003e[\\d,]+) types? of (?\u003ctype\u003eitem|material)s? stashed!\\).*",
+    "stash.compact.generic": "§eOne or more (?:item|material)s? didn\u0027t fit in your inventory and were added to your (?:item|material) stash! §6Click here §eto pick them up!",
+    "stash.compact.material.count": "§f *§7You have §3(?\u003ccount\u003e[\\d,]+) (?:§.)+(?\u003ctype\u003eitem|material)s? stashed away!.*",
+    "stash.compact.pickup.stash": "§f *§3§l\u003e\u003e\u003e §3§lCLICK HERE§b to pick (?:them|it) up! §3§l\u003c\u003c\u003c.*",
     "stats.menu.ability.damage": " §c๑ Ability Damage §f(?\u003cvalue\u003e.*)",
     "stats.menu.alchemy.wisdom": " §3☯ Alchemy Wisdom §f(?\u003cvalue\u003e.*)",
     "stats.menu.block.fortune": " §6☘ Block Fortune §f(?\u003cvalue\u003e.*)",
