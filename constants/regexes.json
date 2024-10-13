@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "ee5b8b2",
+  "sourceLabel": "c5915be",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -245,6 +245,7 @@
     "diana.waypoints.died": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.*)§f: §rInquisitor dead!",
     "diana.waypoints.inquisitor.dug": ".* §r§eYou dug out a §r§2Minos Inquisitor§r§e!",
     "diana.waypoints.party.inquisitorchecker": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.+)§f: §rA MINOS INQUISITOR has spawned near \\[(?\u003carea\u003e.*)] at Coords (?\u003cx\u003e[^ ]+) (?\u003cy\u003e[^ ]+) (?\u003cz\u003e[^ ]+)",
+    "diana.waypoints.party.odin": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.+)§f: §rx: (?\u003cx\u003e[^ ]+), y: (?\u003cy\u003e[^ ]+), z: (?\u003cz\u003e[^ ]+) I dug up an inquisitor come over here!",
     "diana.waypoints.party.onlycoords": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.+)§f: §rx: (?\u003cx\u003e[^ ,]+),? y: (?\u003cy\u003e[^ ,]+),? z: (?\u003cz\u003e[^ ,]+)",
     "dungeon.architectsdraft.puzzle.fail.normal": "(?:§c§lPUZZLE FAIL!|§4) §.§.(?\u003cname\u003e\\S*) .*",
     "dungeon.architectsdraft.puzzle.fail.quiz": "§4\\[STATUE] Oruo the Omniscient§r§f: (?:§.)*(?\u003cname\u003e\\S*) (?:§.)*chose the wrong .*",
