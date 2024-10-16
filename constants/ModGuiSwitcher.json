@@ -135,6 +135,15 @@
         "codes.biscuit.skyblockaddons.gui.SkyblockAddonsGui"
       ]
     },
+    "SkyblockTweaks": {
+      "description": [
+        "Auction Stuff!"
+      ],
+      "command": "sbt config",
+      "guiPath": [
+        "mrfast.sbt.config.ConfigGui"
+      ]
+    },
     "SkyGuide": {
       "description": [
         "Idk what this does"
