@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "359ba9d",
+  "sourceLabel": "aaaa020",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -184,6 +184,7 @@
     "data.island.navigation.glacitetunnels": "(Glacite Tunnels|Dwarven Base Camp|Great Glacite Lake|Fossil Research Center)",
     "data.itemmanager.diceroll": "§eYour §r§(5|6High Class )Archfiend Dice §r§erolled a §r§.(?\u003cnumber\u003e.)§r§e! Bonus: §r§.(?\u003chearts\u003e.*)❤",
     "data.kuudra.chat.complete": "§.\\s*(?:§.)*KUUDRA DOWN!",
+    "data.kuudra.internalname.armor": "(?\u003ctier\u003eHOT|BURNING|FIERY|INFERNAL|)_?(?\u003ctype\u003eAURORA|CRIMSON|TERROR|HOLLOW|FERVOR)_(?:HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
     "data.kuudra.scoreboard.tier": " §7⏣ §cKuudra\u0027s Hollow §8\\(T(?\u003ctier\u003e.*)\\)",
     "data.maxwell.chat.power": "§eYou selected the §a(?\u003cpower\u003e.*) §e(power )?for your §aAccessory Bag§e!",
     "data.maxwell.chat.power.unlocked": "§eYour selected power was set to (?:§r)*§a(?\u003cpower\u003e.*)(?:§r)*§e!",
@@ -658,7 +659,7 @@
     "inventory.item.overlay.masterskull.id": "MASTER_SKULL_TIER_(?\u003ctier\u003e\\d)",
     "inventory.item.overlay.skyblocklevel": "§7Your SkyBlock Level: §8\\[(?\u003clevel\u003e§.\\d+)§8]",
     "inventory.item.overlay.vacuum": "§7Vacuum Bag: §6(?\u003camount\u003e\\d*) Pests?",
-    "inventory.itemstars.stars": "(.*)§.✪(.*)",
+    "inventory.itemstars.stars": "^(?\u003cname\u003e.+) (?\u003cstars\u003e(?:(?:§.)?✪)+)",
     "inventory.masks.timers.bonzo": "Your .*Bonzo\u0027s Mask saved your life!",
     "inventory.masks.timers.spirit": "Second Wind Activated! Your Spirit Mask saved your life!",
     "inventory.maxpurse.createinstant": "§aBuy Instantly",
