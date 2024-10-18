@@ -1,0 +1,5 @@
+{
+  "refreshTimeMinutes": 10,
+  "disableFetchingWhenPassed": false,
+  "disableRefreshCommand": false
+}
