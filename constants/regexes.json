@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "83efbb3",
+  "sourceLabel": "aa3f82c",
   "regexes": {
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
@@ -1097,7 +1097,7 @@
     "stats.menu.enchanting.wisdom": " §3☯ Enchanting Wisdom §f(?\u003cvalue\u003e.*)",
     "stats.menu.farming.fortune": " (?:§7§m|§6)☘ Farming Fortune (?:§f)?(?\u003cvalue\u003e.*)",
     "stats.menu.farming.wisdom": " §3☯ Farming Wisdom §f(?\u003cvalue\u003e.*)",
-    "stats.menu.fear": "",
+    "stats.menu.fear": " §5☠ Fear §f(?\u003cvalue\u003e.*)",
     "stats.menu.ferocity": " §c⫽ Ferocity §f(?\u003cvalue\u003e.*)",
     "stats.menu.fishing.speed": " §b☂ Fishing Speed §f(?\u003cvalue\u003e.*)",
     "stats.menu.fishing.wisdom": " §3☯ Fishing Wisdom §f(?\u003cvalue\u003e.*)",
@@ -1156,7 +1156,7 @@
     "stats.tablist.enchanting.wisdom": " Enchanting Wisdom: §r§3☯(?\u003cvalue\u003e.*)",
     "stats.tablist.farming.fortune": " (?:§r§7§m)?Farming Fortune: (?:§r§6)?☘(?\u003cvalue\u003e.*)",
     "stats.tablist.farming.wisdom": " Farming Wisdom: §r§3☯(?\u003cvalue\u003e.*)",
-    "stats.tablist.fear": "",
+    "stats.tablist.fear": " Fear: §r§5☠(?\u003cvalue\u003e.*)",
     "stats.tablist.ferocity": " Ferocity: §r§c⫽(?\u003cvalue\u003e.*)",
     "stats.tablist.fishing.speed": " Fishing Speed: §r§b☂(?\u003cvalue\u003e.*)",
     "stats.tablist.fishing.wisdom": " Fishing Wisdom: §r§3☯(?\u003cvalue\u003e.*)",
