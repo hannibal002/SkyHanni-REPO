@@ -79,7 +79,9 @@
       "spinny": true,
       "upsideDown": true
     },
-    "Skyblock_Lobby": {},
+    "Skyblock_Lobby": {
+      "suffix": "§Z§l✦"
+    },
     "SkyHanni": {
       "suffix": "§3§l:O",
       "spinny": true,
