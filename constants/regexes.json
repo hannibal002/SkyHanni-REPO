@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8bee426",
+  "sourceLabel": "c1f2281",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -376,14 +376,14 @@
     "features.gui.customscoreboard.scoreboard.combat.killmagmasbar": "(?:(?:§.)*▎+)+.*",
     "features.gui.customscoreboard.scoreboard.combat.magmaboss": "§7Boss: §[c6e]\\d+%",
     "features.gui.customscoreboard.scoreboard.combat.magmabosshealth": "§7Boss Health:",
-    "features.gui.customscoreboard.scoreboard.combat.magmabosshealthbar": "§.(?:\\d+(?:\\.\\d)?M|\\d+k)§f/§a10M§c❤",
+    "features.gui.customscoreboard.scoreboard.combat.magmabosshealthbar": "§.[\\w,.]+§f/§a10M§c❤",
     "features.gui.customscoreboard.scoreboard.combat.magmachamber": "Magma Chamber",
     "features.gui.customscoreboard.scoreboard.combat.magmareforming": "§cThe boss is (?:re)?forming!",
     "features.gui.customscoreboard.scoreboard.combat.slayerquest": "Slayer Quest",
     "features.gui.customscoreboard.scoreboard.dungeon.cleared": "(?:§.)*Cleared: (?:§.)*(?\u003cpercent\u003e[\\w,.]+)% (?:§.)*\\((?:§.)*(?\u003cscore\u003e[\\w,.]+)(?:§.)*\\)",
     "features.gui.customscoreboard.scoreboard.dungeon.floor3guardians": "§. - §.(?:Healthy|Reinforced|Laser|Chaos)§a [\\w,.]*(?:§c❤)?",
     "features.gui.customscoreboard.scoreboard.dungeon.keys": "Keys: §.■ §.[✗✓] §.■ §a.x",
-    "features.gui.customscoreboard.scoreboard.dungeon.m7dragons": "§cNo Alive Dragons|§8- (?:§.)+[\\w\\s]+Dragon§a [\\w,.]+§.❤",
+    "features.gui.customscoreboard.scoreboard.dungeon.m7dragons": "§cNo Alive Dragons|§8- (?:§.)+[\\w\\s]+Dragon§a [\\w,.]+(?:§.❤)?",
     "features.gui.customscoreboard.scoreboard.dungeon.solo": "§3§lSolo",
     "features.gui.customscoreboard.scoreboard.dungeon.teammates": "(?:§.)*(?\u003cclassAbbv\u003e\\[\\w]) (?:§.)*(?\u003cusername\u003e\\w{2,16}) ((?:§.)*(?\u003cclassLevel\u003e\\[Lvl?(?\u003clevel\u003e[\\w,.]+)?]?)|(?:§.)*(?\u003chealth\u003e[\\w,.]+)(?:§.)*.?)",
     "features.gui.customscoreboard.scoreboard.events.newyear": "§dNew Year Event!§f \\d*?:?\\d+",
