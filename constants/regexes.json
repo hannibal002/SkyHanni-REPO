@@ -1,6 +1,7 @@
 {
-  "sourceLabel": "6f43bc1",
+  "sourceLabel": "8bee426",
   "regexes": {
+    "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
     "actionbar.mana": ".*§b(?\u003cmana\u003e[\\d,]+)/[\\d,]+✎.*",
