@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "564c5da",
+  "sourceLabel": "f1c370d",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -923,6 +923,7 @@
     "misc.chocolatefactory.stray.caught": "^(?:§.)*(?\u003cname\u003e.*) §d§lCAUGHT!",
     "misc.chocolatefactory.stray.dorado": ".*§6El Dorado(?:.*?§6\\+?(?\u003camount\u003e[\\d,]+) Chocolate)?.*",
     "misc.chocolatefactory.stray.doradoduplicate": "(?:§.)*already have captured him before.*",
+    "misc.chocolatefactory.stray.doradoescape": "(?:§.)*(?:but he escaped and left behind|Legend of (?:§.)*El Dorado (?:§.)*grows!)",
     "misc.chocolatefactory.stray.fish": "§7You caught a stray (?\u003ccolor\u003e§.)Fish the Rabbit§7! §7You have already found (?:§.)?Fish the (?:§.)?Rabbit§7, so you received §6(?\u003camount\u003e[\\d,]*) (?:§6)?Chocolate§7!",
     "misc.chocolatefactory.stray.goldenclick": "§7You caught a stray §6§lGolden Rabbit§7! §7You gained §6\\+5 Chocolate §7until the §7end of the SkyBlock year!",
     "misc.chocolatefactory.stray.goldenrawchoc": "§7You caught a stray §6§lGolden Rabbit§7! §7You gained §6\\+(?\u003camount\u003e[\\d,]*) Chocolate§7!",
