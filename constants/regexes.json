@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "51dc464",
+  "sourceLabel": "fa3ffae",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1043,6 +1043,8 @@
     "skyblockguide.highlight.abiphone.inventory": "Miscellaneous ➜ Abiphone Contac",
     "skyblockguide.highlight.bank.inventory": "Core ➜ Bank Upgrades",
     "skyblockguide.highlight.belt.inventory": "Miscellaneous ➜ The Dojo",
+    "skyblockguide.highlight.carnival.overviewinventories": "(?:§.)*(?:Souvenir Shop|Carnival Perks)",
+    "skyblockguide.highlight.carnival.tokens.current": ".*§7Your Tokens: §a(?\u003ctokens\u003e[\\d,]*)",
     "skyblockguide.highlight.collections.condition": "§7Progress to .*|§7Find this item to add it to your|§7Kill this boss once to view collection|§7(?:Boss )?Collections (?:Unlocked|Maxed Out): §e.*",
     "skyblockguide.highlight.collections.inventory": "\\w+ Collections|Collections",
     "skyblockguide.highlight.condition.category": "§7Progress to Complete Category: §6\\d{1,2}(?:\\.\\d)?%",
@@ -1054,7 +1056,11 @@
     "skyblockguide.highlight.dungeon.floor.condition": "§7§eThis task can only be completed once!|§7§7You have not unlocked the content",
     "skyblockguide.highlight.dungeon.floor.inventory": "Complete Dungeons ➜.*",
     "skyblockguide.highlight.dungeon.layers.inventory": "Dungeon ➜ Complete Dungeons",
+    "skyblockguide.highlight.essence.current": ".*§7Your (?\u003cessence\u003e.*) Essence: §.(?\u003ccount\u003e[\\d,]*)",
     "skyblockguide.highlight.essence.inventory": "Essence Shop ➜.*",
+    "skyblockguide.highlight.essence.maxedupgrade": ".*§a§lUNLOCKED",
+    "skyblockguide.highlight.essence.shop": "(?:§.)*(?\u003cessence\u003e.*) Essence Shop",
+    "skyblockguide.highlight.essence.upgrade": "§.(?\u003cupgrade\u003e.*) (?\u003ctier\u003e[IVXLCDM]*)",
     "skyblockguide.highlight.harp.inventory": "Miscellaneous ➜ Harp Songs",
     "skyblockguide.highlight.jacob.inventory": "Event ➜ Jacob\u0027s Farming Contest",
     "skyblockguide.highlight.level.guide.inventory": ".*Guide ➜.*",
