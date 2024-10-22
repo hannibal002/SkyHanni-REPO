@@ -67,6 +67,11 @@
       "suffix": "§d:3"
     },
     "oxsss": {},
+    "PlasticEating": {
+      "suffix": "§d§l:3",
+      "spinny": true,
+      "upsideDown": true
+    },
     "ReyMaratov": {},
     "RobotHanzo": {
       "suffix": "§6§l:P"
