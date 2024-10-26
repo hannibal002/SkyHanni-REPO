@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "ceba80c",
+  "sourceLabel": "69e74cc",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -651,7 +651,7 @@
     "inventory.hidenotclickable.seeds": "SEEDS|CARROT_ITEM|POTATO_ITEM|PUMPKIN_SEEDS|SUGAR_CANE|MELON_SEEDS|CACTUS|INK_SACK-3",
     "inventory.item.overlay.bestiarystack": "§7Progress to Tier (?\u003ctier\u003e[\\dIVXC]+): §b[\\d.]+%",
     "inventory.item.overlay.bingogoalrank": "(§.)*You were the (§.)*(?\u003crank\u003e[\\w]+)(?\u003cordinal\u003e(st|nd|rd|th)) (§.)*to",
-    "inventory.item.overlay.dungeonpotion": "Dungeon (?\u003clevel\u003e.*) Potion",
+    "inventory.item.overlay.dungeonpotion": "Dungeon (?\u003clevel\u003e.*) Potion(?: x1)?",
     "inventory.item.overlay.enchantingexp": "(?\u003cexp\u003e.*)k Enchanting Exp",
     "inventory.item.overlay.glacitepowder": "Glacite Powder x(?\u003camount\u003e.*)",
     "inventory.item.overlay.harvest": "§7§7You may harvest §6(?\u003camount\u003e.).*",
