@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "69e74cc",
+  "sourceLabel": "6b4f3a3",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -98,10 +98,8 @@
     "chat.garden.no.pest": "§cThere are not any Pests on your Garden right now! Keep farming!",
     "chat.garden.teleport": "§aTeleported you to .*",
     "chat.jacobevent.accessory": "§e\\[NPC] Jacob§f: §rYour §9Anita\u0027s \\w+ §fis giving you §6\\+\\d{1,2}☘ .+ Fortune §fduring the contest!",
-    "chat.math": "§d§lQUICK MATHS! §r§7Solve: §r§e(?\u003cmath\u003e.*)",
     "chat.player.death": "§c ☠ §r§7§r§.(?\u003cname\u003e.+)§r§7 (?\u003creason\u003e.+)",
     "chat.skymall.perk": "§eNew buff§r§r§r:(.*)",
-    "chat.speaking": "§4\\[FEAR] Public Speaking Demon§r§f: (Speak|Say something interesting) (?\u003cname\u003e.*)!",
     "clicktoset": "§7§eClick to set the location of this NPC!",
     "clicktospawn": "§elocation!",
     "color.item.hex.lore.code": ".*(?:Color:|Hex|to) (?:§.)?(?\u003chex\u003e#[0-9a-fA-F]{1,6}).*",
@@ -333,6 +331,9 @@
     "event.diana.mythological.tracker.minosinquisitor": ".* §r§eYou dug out a §r§2Minos Inquisitor§r§e!",
     "event.diana.mythological.tracker.minotaur": ".* §r§eYou dug out a §r§2Minotaur§r§e!",
     "event.diana.mythological.tracker.siameselynxes": ".* §r§eYou dug out §r§2Siamese Lynxes§r§e!",
+    "event.greatspook.chat.math": "§d§lQUICK MATHS! §r§7Solve: §r§e(?\u003cmath\u003e.*)",
+    "event.greatspook.chat.speaking": "§4\\[FEAR] Public Speaking Demon§r§f: (Speak|Say something interesting) (?\u003cname\u003e.*)!",
+    "event.greatspook.mob.spawn": "§5§lFEAR\\. §r§eA §r§dPrimal Fear §r§ehas been summoned!",
     "event.jerry.frozentreasure.compact": "COMPACT! You found an Enchanted Ice!",
     "event.jerry.frozentreasure.item.einaryredhoodie": "FROZEN TREASURE! You found Einary\u0027s Red Hoodie!",
     "event.jerry.frozentreasure.item.enchantedice": "FROZEN TREASURE! You found Enchanted Ice!",
