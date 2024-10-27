@@ -210,6 +210,12 @@
       "goodLevel": 5,
       "maxLevel": 7
     },
+    "great spook": {
+      "loreName": "Great Spook",
+      "nbtName": "great_spook",
+      "goodLevel": 0,
+      "maxLevel": 1
+    },
     "green thumb": {
       "loreName": "Green Thumb",
       "nbtName": "green_thumb",
