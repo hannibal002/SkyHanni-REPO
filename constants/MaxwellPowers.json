@@ -1,4 +1,103 @@
 {
+  "maxwell_powers": {
+    "NO_POWER": {
+      "name": "No Power"
+    },
+    "FORTUITOUS": {
+      "name": "Fortuitous"
+    },
+    "PRETTY": {
+      "name": "Pretty"
+    },
+    "PROTECTED": {
+      "name": "Protected"
+    },
+    "SIMPLE": {
+      "name": "Simple"
+    },
+    "WARRIOR": {
+      "name": "Warrior"
+    },
+    "COMMANDO": {
+      "name": "Commando"
+    },
+    "DISCIPLINED": {
+      "name": "Disciplined"
+    },
+    "INSPIRED": {
+      "name": "Inspired"
+    },
+    "OMINOUS": {
+      "name": "Ominous"
+    },
+    "PREPARED": {
+      "name": "Prepared"
+    },
+    "SILKY": {
+      "name": "Silky"
+    },
+    "SWEET": {
+      "name": "Sweet"
+    },
+    "BLOODY": {
+      "name": "Bloody"
+    },
+    "ITCHY": {
+      "name": "Itchy"
+    },
+    "SIGHTED": {
+      "name": "Sighted"
+    },
+    "ADEPT": {
+      "name": "Adept"
+    },
+    "MYTHICAL": {
+      "name": "Mythical"
+    },
+    "FORCEFUL": {
+      "name": "Forceful"
+    },
+    "SHADED": {
+      "name": "Shaded"
+    },
+    "STRONG": {
+      "name": "Strong"
+    },
+    "DEMONIC": {
+      "name": "Demonic"
+    },
+    "PLEASANT": {
+      "name": "Pleasant"
+    },
+    "HURTFUL": {
+      "name": "Hurtful"
+    },
+    "BIZARRE": {
+      "name": "Bizarre"
+    },
+    "HEALTHY": {
+      "name": "Healthy"
+    },
+    "SLENDER": {
+      "name": "Slender"
+    },
+    "SCORCHING": {
+      "name": "Scorching"
+    },
+    "CRUMBLY": {
+      "name": "Crumbly"
+    },
+    "BUBBA": {
+      "name": "Bubba"
+    },
+    "SANGUISUGE": {
+      "name": "Sanguisuge"
+    },
+    "FROZEN": {
+      "name": "Frozen"
+    }
+  },
+  "__comment__": "the 'powers' list is deprecated, edit 'maxwell_powers' instead",
   "powers": [
     "No Power",
     "Fortuitous",
