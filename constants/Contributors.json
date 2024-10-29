@@ -67,6 +67,9 @@
       "suffix": "§d:3"
     },
     "oxsss": {},
+    "PlasticEating": {
+      "suffix": "§d§l:3"
+    },
     "ReyMaratov": {},
     "RobotHanzo": {
       "suffix": "§6§l:P"
@@ -147,6 +150,9 @@
       "spinny": true,
       "upsideDown": true,
       "external_mod": "SBA"
+    },
+    "NeoNyaa": {
+      "suffix": "§d❤"
     }
   }
 }

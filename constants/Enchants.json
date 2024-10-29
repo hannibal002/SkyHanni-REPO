@@ -210,6 +210,12 @@
       "goodLevel": 5,
       "maxLevel": 7
     },
+    "great spook": {
+      "loreName": "Great Spook",
+      "nbtName": "great_spook",
+      "goodLevel": 0,
+      "maxLevel": 1
+    },
     "green thumb": {
       "loreName": "Green Thumb",
       "nbtName": "green_thumb",
@@ -257,6 +263,12 @@
       "nbtName": "knockback",
       "goodLevel": 2,
       "maxLevel": 2
+    },
+    "lapidary": {
+      "loreName": "Lapidary",
+      "nbtName": "lapidary",
+      "goodLevel": 0,
+      "maxLevel": 5
     },
     "lethality": {
       "loreName": "Lethality",

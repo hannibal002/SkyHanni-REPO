@@ -1,0 +1,16 @@
+{
+  "changed_error_messages": [
+    {
+      "message_exact": [
+        "Error while running command /shtestwaypoint"
+      ],
+      "message_starts_with": [
+      ],
+      "custom_message": "Usage: /shtestwaypoint <x> <y> <z>",
+      "affected_versions": [
+        "0.27.Beta.15",
+        "0.27.Beta.16"
+      ]
+    }
+  ]
+}

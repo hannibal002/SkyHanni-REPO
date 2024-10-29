@@ -16,7 +16,8 @@
     "STARTER_LAVA_ROD",
     "INFERNO_ROD",
     "MAGMA_ROD",
-    "HELLFIRE_ROD"
+    "HELLFIRE_ROD",
+    "POLISHED_TOPAZ_ROD"
   ],
   "water_fishing_rods": [
     "FISHING_ROD",
@@ -36,6 +37,17 @@
     "GIANT_FISHING_ROD",
     "THE_SHREDDER",
     "PHANTOM_ROD"
+  ],
+  "dungeon_secret_items": [
+    "DEFUSE_KIT",
+    "DUNGEON_CHEST_KEY",
+    "DUNGEON_DECOY",
+    "DUNGEON_TRAP",
+    "INFLATABLE_JERRY",
+    "POTION_HEALING;8",
+    "SPIRIT_LEAP",
+    "TRAINING_WEIGHTS",
+    "TREASURE_TALISMAN"
   ],
   "enchant_multiplier": {
     "infinite_quiver": 0.03
