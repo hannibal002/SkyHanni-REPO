@@ -30,6 +30,10 @@
         [
           "mana_regeneration",
           "magic_find"
+        ],
+        [
+          "mana_pool",
+          "undead_resistance"
         ]
       ]
     },
@@ -54,13 +58,19 @@
       "regex": "(?:(?:HOT|BURNING|FIERY|INFERNAL)_)?TERROR_(?:HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
       "list": [
         [
-          "mending",
+          "mana_pool",
           "dominance"
         ],
         [
-          "mana_pool",
+          "dominance",
           "lifeline"
+        [
+          "mana_pool",
+          "lifeline",
         ]
+        [
+          "mana_pool",
+          "mana_regeneration"
       ]
     },
     "Lava Sea Creature Armor": {
