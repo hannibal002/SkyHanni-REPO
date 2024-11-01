@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4224ecb",
+  "sourceLabel": "81df969",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -353,6 +353,11 @@
     "event.lobby.waypoint.presents.found": "§aYou found a.*present! §r§e\\(§r§b\\d+§r§e/§r§b\\d+§r§e\\)",
     "event.lobby.waypoint.presents.foundall": "§aCongratulations! You found all the presents in every lobby!",
     "event.lobby.waypoint.presents.foundalready": "§cYou have already found this present!",
+    "event.lobbywaypoints.basket": "^((?:§.)+You found a Candy Basket! (?:(?:§.)+\\((?:§.)+(?\u003ccurrent\u003e\\d+)(?:§.)+/(?:§.)+(?\u003cmax\u003e\\d+)(?:§.)+\\))?|(?:§.)+You already found this Candy Basket!)$",
+    "event.lobbywaypoints.basket.allfound": "^§a§lCongratulations! You found all Candy Baskets!$",
+    "event.lobbywaypoints.main.scoreboard.basket": "^Baskets Found: §a\\d+§f/§a\\d+$",
+    "event.lobbywaypoints.main.scoreboard.halloween": "^§6Halloween \\d+$",
+    "event.lobbywaypoints.main.scoreboard.title": "^HYPIXEL$",
     "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!",
     "event.winter.newyearcake.reminder.sidebar": "§dNew Year Event!§f (?\u003ctime\u003e.*)",
     "event.winter.reindrakewarphelper.spawn.message": "§c§lWOAH! (?:§r)?§cA (?:§r)?§4Reindrake (?:§r)?§cwas summoned from the depths!",
