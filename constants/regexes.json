@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "81df969",
+  "sourceLabel": "73dd41d",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -220,7 +220,7 @@
     "diana.waypoints.party.inquisitorchecker": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.+)§f: §rA MINOS INQUISITOR has spawned near \\[(?\u003carea\u003e.*)] at Coords (?\u003cx\u003e[^ ]+) (?\u003cy\u003e[^ ]+) (?\u003cz\u003e[^ ]+)",
     "diana.waypoints.party.odin": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.+)§f: §rx: (?\u003cx\u003e[^ ]+), y: (?\u003cy\u003e[^ ]+), z: (?\u003cz\u003e[^ ]+) I dug up an inquisitor come over here!",
     "diana.waypoints.party.onlycoords": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.+)§f: §rx: (?\u003cx\u003e[^ ,]+),? y: (?\u003cy\u003e[^ ,]+),? z: (?\u003cz\u003e[^ ,]+)",
-    "diana.waypoints.party.sbo": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.+)§f: §rx: (?\u003cx\u003e[^ ]+), y: (?\u003cy\u003e[^ ]+), z: (?\u003cz\u003e[^ ]+) \\| Minos Inquisitor spawned at (?\u003carea\u003e.*)!",
+    "diana.waypoints.party.volc": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.+)§f: §rx: (?\u003cx\u003e[^ ]+), y: (?\u003cy\u003e[^ ]+), z: (?\u003cz\u003e[^ ]+) \\| Minos Inquisitor spawned at (?\u003carea\u003e.*)!",
     "dungeon.architectsdraft.puzzle.fail.normal": "(?:§c§lPUZZLE FAIL!|§4) §.§.(?\u003cname\u003e\\S*) .*",
     "dungeon.architectsdraft.puzzle.fail.quiz": "§4\\[STATUE] Oruo the Omniscient§r§f: (?:§.)*(?\u003cname\u003e\\S*) (?:§.)*chose the wrong .*",
     "dungeon.blessings": "§r§r§fBlessing of (?\u003ctype\u003e\\w+) (?\u003camount\u003e\\w+)§r",
