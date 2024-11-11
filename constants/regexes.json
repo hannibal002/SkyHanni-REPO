@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "d152908",
+  "sourceLabel": "c69d3b7",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1019,7 +1019,7 @@
     "pet.nametag": "(?\u003cstart\u003e§8\\[§7Lv(?\u003clvl\u003e\\d+)§8]) (?\u003crarity\u003e§.)(?\u003cpet\u003e[\\w\\s]+)(?\u003cskin\u003e§. ✦)?",
     "rabbit.requirement.factory": "§6Factory Milestones§7.",
     "rabbit.requirement.shop": "§6Shop Milestones§7.",
-    "rabbit.requirement.stray": "§7§7Obtained by finding the §aStray Rabbit",
+    "rabbit.requirement.stray": "(?:§.)+Obtained by finding a §6Golden Stray",
     "rarity.repocheck": "COMMON|UNCOMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|SUPREME|SPECIAL|VERY_SPECIAL|ULTIMATE",
     "reforge.chat.fail": "§cWait a moment before reforging again!|§cWhoa! Slow down there!",
     "reforge.chat.success": "§aYou reforged your .* §r§ainto a .*!|§aYou applied a .* §r§ato your .*!",
