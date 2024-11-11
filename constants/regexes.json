@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "c69d3b7",
+  "sourceLabel": "db1e2fc",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -929,6 +929,7 @@
     "misc.chocolatefactory.rabbit.milestone": "(?:§.)*?(?\u003cmilestone\u003e\\d{1,2})[a-z]{2} Chocolate Milestone",
     "misc.chocolatefactory.rabbit.sidedish": "(?:§.)*?Golden Rabbit (?:§.)?- (?:§.)?Side Dish",
     "misc.chocolatefactory.rabbit.stray": "(?:§.)*(?:Rabbit§7, so )?(?:[Yy]ou )?(?:gained |received )?§6\\+?(?\u003camount\u003e[\\d,]+)(?: Chocolate§7!)?",
+    "misc.chocolatefactory.rabbit.thefish": "(?:§.)*HOPPITY\u0027S HUNT (?:§.)*You found (?:§.)*Rabbit the Fish(?:§.)*!.*",
     "misc.chocolatefactory.rabbit.unemployed": "Rabbit \\w+ - Unemployed",
     "misc.chocolatefactory.shop.bought": "§aYou bought §r§.(?\u003citem\u003e[\\w ]+)§r(?:§8 x(?\u003camount\u003e\\d+)§r)?§a!",
     "misc.chocolatefactory.shop.spent": "§7Chocolate Spent: §6(?\u003camount\u003e[\\d,]+)",
