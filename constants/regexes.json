@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8e3d8f7",
+  "sourceLabel": "7ef7d49",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -104,6 +104,7 @@
     "data.bits.chat.rankup.bits": "§eYou gained §3(?\u003camount\u003e.*) Bits Available §ecompounded from all your §epreviously eaten §6cookies§e! Click here to open §6cookie menu§e!",
     "data.bits.chat.rankup.rank": "[§\\w\\s]+FAME RANK UP (?:§.)+(?\u003crank\u003e.*)",
     "data.bits.gui.availablemenu": "§7Bits Available: §b(?\u003ctoClaim\u003e[\\d,]+)(§3.+)?",
+    "data.bits.gui.bitsmenu": "^§7Bits Purse: §b(?\u003camount\u003e[\\d,.]+)",
     "data.bits.gui.bitsstack": "§bBits",
     "data.bits.gui.communityshopfamerank": "§7Fame Rank: §e(?\u003crank\u003e.*)",
     "data.bits.gui.cookieduration": "\\s*§7Duration: §a(?\u003ctime\u003e.*)",
