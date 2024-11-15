@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a20c43d",
+  "sourceLabel": "352afc4",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1059,8 +1059,13 @@
     "rift.punchcard.new": "§5§lPUNCHCARD! §r§eYou punched §r§.(?:.*?)?(?\u003cname\u003e\\w+)§r§. §r§eand both regained §r§a\\+25ф Rift Time§r§e!",
     "rift.punchcard.repeat": "§c§lAWKWARD! §r§cThis player has already been punched by you\\.\\.\\. somehow!",
     "skyblockguide.highlight.abiphone.inventory": "Miscellaneous ➜ Abiphone Contac",
+    "skyblockguide.highlight.auction.cakesearch": "Auctions: \"New Year C.*",
+    "skyblockguide.highlight.auction.search": "Auctions Browser|Auctions: \".*",
     "skyblockguide.highlight.bank.inventory": "Core ➜ Bank Upgrades",
     "skyblockguide.highlight.belt.inventory": "Miscellaneous ➜ The Dojo",
+    "skyblockguide.highlight.cake.container": "Ender Chest \\(\\d{1,2}/\\d{1,2}\\)|.*Backpack(?:§r)? \\(Slot #\\d{1,2}\\)|New Year Cake Bag|(Large )?Chest",
+    "skyblockguide.highlight.cake.name": "(?:§f§f)?§cNew Year Cake \\(Year (?\u003cyear\u003e[\\d,]+)\\)",
+    "skyblockguide.highlight.cake.purchased": "§eYou purchased (?:§.)*New Year Cake \\(Year (?\u003cyear\u003e[\\d,]+)\\) (?:§.)*for (?:§.)+(?\u003ccoins\u003e[\\d,]+) coins(?:§.)+!",
     "skyblockguide.highlight.carnival.overviewinventories": "(?:§.)*(?:Souvenir Shop|Carnival Perks)",
     "skyblockguide.highlight.carnival.tokens.current": ".*§7Your Tokens: §a(?\u003ctokens\u003e[\\d,]*)",
     "skyblockguide.highlight.collections.condition": "§7Progress to .*|§7Find this item to add it to your|§7Kill this boss once to view collection|§7(?:Boss )?Collections (?:Unlocked|Maxed Out): §e.*",
