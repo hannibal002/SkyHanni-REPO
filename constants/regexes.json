@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7ef7d49",
+  "sourceLabel": "a20c43d",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -881,6 +881,7 @@
     "minion.item.collect": "^§aCollect All$",
     "minion.title": "Minion [^➜]",
     "misc.chocolatefactory.barn.amount": "§7Your Barn: §.(?\u003crabbits\u003e\\d+)§7/§.(?\u003cmax\u003e\\d+) Rabbits",
+    "misc.chocolatefactory.cf.inventory": "Hoppity\u0027s Collection|Chocolate (?:Factory|Shop) Milestones",
     "misc.chocolatefactory.chocolate.alltime": "§7All-time Chocolate: §6(?\u003camount\u003e[\\d,]+)",
     "misc.chocolatefactory.chocolate.amount": "(?\u003camount\u003e[\\d,]+) Chocolate",
     "misc.chocolatefactory.chocolate.forprestige": "§7§cRequires (?\u003camount\u003e\\w+) Chocolate this.*",
