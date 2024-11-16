@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7c9089a",
+  "sourceLabel": "ab16028",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -899,7 +899,7 @@
     "misc.chocolatefactory.collection.rabbits.found": "§.§l§m[ §a-z]+§r §.(?\u003ccurrent\u003e[0-9]+)§./§.(?\u003ctotal\u003e[0-9]+)",
     "misc.chocolatefactory.egg.alreadycollected": "§cYou have already collected this Chocolate (?\u003cmeal\u003e\\w+) Egg§r§c! Try again when it respawns!",
     "misc.chocolatefactory.egg.bought": "§aYou bought §r(?\u003crabbitname\u003e.*?) §r§afor §r§6((\\d|,)*) Coins§r§a!",
-    "misc.chocolatefactory.egg.found": "§d§lHOPPITY\u0027S HUNT §r§dYou found a §r§.Chocolate (?\u003cmeal\u003e\\w+) Egg §r§d(?\u003cnote\u003e.*)§r§d!",
+    "misc.chocolatefactory.egg.found": "§d§lHOPPITY\u0027S HUNT §r§dYou found a §r§.Chocolate (?\u003cmeal\u003e[\\wé]+) Egg §r§d(?\u003cnote\u003e.*)§r§d!",
     "misc.chocolatefactory.egg.noneleft": "§cThere are no hidden Chocolate Rabbit Eggs nearby! Try again later!",
     "misc.chocolatefactory.egg.notevent": "§cThis only works during Hoppity\u0027s Hunt!",
     "misc.chocolatefactory.egg.shared": ".*\\[SkyHanni] (?\u003cmeal\u003e\\w+) Chocolate Egg located at x: (?\u003cx\u003e-?\\d+), y: (?\u003cy\u003e-?\\d+), z: (?\u003cz\u003e-?\\d+)(?: \\((?\u003cnote\u003e.*)\\))?",
@@ -909,8 +909,8 @@
     "misc.chocolatefactory.hoppity.call.pickup.outgoing": "\\/selectnpcoption hoppity r_2_1",
     "misc.chocolatefactory.hoppity.call.ring": "§a✆ (?:RING\\.{3} ?){1,3}(?:§r §r§2§l\\[PICK UP])?",
     "misc.chocolatefactory.inventory.mealegg.continue": "(?:§.)*Click to open Chocolate Factory!",
-    "misc.chocolatefactory.inventory.mealegg.name": "(?:§.)*Chocolate (?:Breakfast|Lunch|Dinner) Egg.*",
-    "misc.chocolatefactory.inventory.misc": "(?:§.)*Chocolate (?:Shop |(?:Factory|Breakfast|Lunch|Dinner) ?)(?:Milestones|Egg)?",
+    "misc.chocolatefactory.inventory.mealegg.name": "(?:§.)*Chocolate (?:Breakfast|Lunch|Dinner|Brunch|Déjeuner|Supper) Egg.*",
+    "misc.chocolatefactory.inventory.misc": "(?:§.)*Chocolate (?:Shop |(?:Factory|Breakfast|Lunch|Dinner|Brunch|Déjeuner|Supper) ?)(?:Milestones|Egg)?",
     "misc.chocolatefactory.inventory.name": "Hoppity|Chocolate Factory Milestones",
     "misc.chocolatefactory.item.lore.upgrade": "§a§l(?:UPGRADE|PROMOTE) §8➜ (?:§7\\[(?\u003cnextlevel\u003e\\d+)§7] )?(?\u003cupgradename\u003e.*?) ?(?\u003cnextlevelalt\u003e[IVXLCDM]*)$",
     "misc.chocolatefactory.item.name.employee": "(?\u003cemployee\u003e(?:§.+)+Rabbit .*)§8 - §7\\[\\d*§7] .*",
