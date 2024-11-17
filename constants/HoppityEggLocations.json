@@ -242,6 +242,86 @@
   "specialRabbits": [
     "ewogICJ0aW1lc3RhbXAiIDogMTcxNDk1ODk5MjUzNywKICAicHJvZmlsZUlkIiA6ICI4YmM3MjdlYThjZjA0YWUzYTI4MDVhY2YzNjRjMmQyNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3RpbnZlbnRpdmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGI4Yzc3ODllYzkzNmQxMWU1NDFjNjk1Y2U1M2QwNWNmODNmOGMwNGMxNDhhMGIwZDg1Njc5Y2NhMTE0YTBmOSIKICAgIH0KICB9Cn0="
   ],
+  "residentLocations": {
+    "HUB": [
+      "Castle",
+      "Towny",
+      "Oakly",
+      "Hubby",
+      "Rogue"
+    ],
+    "CRIMSON_ISLE": [
+      "Ember",
+      "Albus",
+      "Attila",
+      "Sulfur",
+      "Dojo"
+    ],
+    "GOLD_MINES": [
+      "Lazy",
+      "Picky",
+      "Brick",
+      "Boulder",
+      "Hole"
+    ],
+    "DEEP_CAVERNS": [
+      "Eisen",
+      "Carmine",
+      "Azure",
+      "Caverns",
+      "Emma"
+    ],
+    "DUNGEON_HUB": [
+      "Krys",
+      "Mush Mush",
+      "Ruina",
+      "Morty",
+      "Soon"
+    ],
+    "SPIDER_DEN": [
+      "Harland",
+      "Striker",
+      "Webb",
+      "Gravler",
+      "Maxima"
+    ],
+    "DWARVEN_MINES": [
+      "Octavia",
+      "Kalumdai",
+      "Halmenrog",
+      "Mimi",
+      "Motfer"
+    ],
+    "THE_END": [
+      "Pearl",
+      "Egg",
+      "Ender",
+      "Mite",
+      "Zea"
+    ],
+    "THE_PARK": [
+      "The Park",
+      "Savannah",
+      "Canopus",
+      "Orchid",
+      "Jacqueline",
+      "Woody"
+    ],
+    "CRYSTAL_HOLLOWS": [
+      "Violet",
+      "Coltron",
+      "Grog",
+      "Jade",
+      "Kronk"
+    ],
+    "THE_FARMING_ISLANDS": [
+      "Rochie",
+      "Mutonio",
+      "Melon",
+      "Potato",
+      "Stinky"
+    ]
+  },
   "apiEggLocations": {
     "THE_PARK": {
       "foraging_birch_launch_pad": "-276:87:-17",
