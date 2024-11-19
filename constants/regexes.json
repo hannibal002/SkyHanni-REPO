@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9634dfb",
+  "sourceLabel": "60ce9a8",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -667,7 +667,7 @@
     "inventory.item.overlay.harvest": "§7§7You may harvest §6(?\u003camount\u003e.).*",
     "inventory.item.overlay.masterskull.id": "MASTER_SKULL_TIER_(?\u003ctier\u003e\\d)",
     "inventory.item.overlay.skyblocklevel": "§7Your SkyBlock Level: §8\\[(?\u003clevel\u003e§.\\d+)§8]",
-    "inventory.item.overlay.vacuum": "§7Vacuum Bag: §6(?\u003camount\u003e\\d*) Pests?",
+    "inventory.item.overlay.vacuum": "§7Vacuum Bag: §2(?\u003camount\u003e\\d*) Pests?",
     "inventory.itemstars.stars": "^(?\u003cname\u003e.+) (?\u003cstars\u003e(?:(?:§.)?✪)+)",
     "inventory.masks.timers.bonzo": "Your Bonzo\u0027s Mask saved your life!",
     "inventory.masks.timers.spirit": "Second Wind Activated! Your Spirit Mask saved your life!",
