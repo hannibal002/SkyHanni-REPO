@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "113349e",
+  "sourceLabel": "9634dfb",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -596,7 +596,7 @@
     "garden.pests.spawn.onebarn": "§6§l.*! §7A §6Pest §7has appeared in §a(?\u003cplot\u003eThe Barn)§7!",
     "garden.pests.tracker.raredrop": "§6§l(?:RARE|PET) DROP! (?:§r)?(?\u003citem\u003e.+) §6\\(§6\\+.*☘\\)",
     "garden.pestsapi.chat.nopests": "§cThere are not any Pests on your Garden right now! Keep farming!",
-    "garden.pestsapi.chat.pestdeath": "§eYou received §a(?\u003camount\u003e[0-9]*)x (?\u003citem\u003e.*) §efor killing an? §6(?\u003cpest\u003e.*)§e!",
+    "garden.pestsapi.chat.pestdeath": "§eYou received §a(?\u003camount\u003e[0-9]*)x (?\u003citem\u003e.*) §efor killing an? §2(?\u003cpest\u003e.*)§e!",
     "garden.pestsapi.inventory": "§4§lൠ §cThis plot has §6(?\u003camount\u003e\\d) Pests?§c!",
     "garden.pestsapi.scoreboard.nopests": " §7⏣ §a(?:The Garden|Plot §7- §b.+)$",
     "garden.pestsapi.scoreboard.pests": " §7⏣ §[ac]The Garden §4§lൠ§7 x(?\u003cpests\u003e.*)",
