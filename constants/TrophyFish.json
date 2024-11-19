@@ -2,7 +2,7 @@
   "trophy_fish": {
     "sulphurskitter": {
       "displayName": "§fSulphur Skitter",
-      "description": "§7Caught when standing within §a8 blocks§7 of a Sulphur Ore.",
+      "description": "§7Caught when standing within §a4 blocks§7 of a Sulphur Ore.",
       "rate": 30,
       "fillet": {
         "bronze": 40,
