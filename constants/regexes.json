@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "60ce9a8",
+  "sourceLabel": "7a1987d",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -589,11 +589,9 @@
     "garden.nextcontest.crop": "§(e○|6☘) §7(?\u003ccrop\u003e.*)",
     "garden.nextcontest.day": "§aDay (?\u003cday\u003e.*)",
     "garden.nextcontest.month": "(?\u003cmonth\u003e(?:\\w+ )?(?:Summer|Spring|Winter|Autumn)), Year (?\u003cyear\u003e\\d+)",
-    "garden.pests.spawn.multiple": "§6§l.*! §6(?\u003camount\u003e\\d) Pests §7have spawned in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
-    "garden.pests.spawn.multiplebarn": "§6§l.*! §6(?\u003camount\u003e\\d) Pests §7have spawned in §a(?\u003cplot\u003eThe Barn)§7!",
-    "garden.pests.spawn.offline": "§6§l.*! §7While you were offline, §6Pests §7spawned in §aPlots (?\u003cplots\u003e.*)!",
-    "garden.pests.spawn.one": "§6§l.*! §7A §6Pest §7has appeared in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
-    "garden.pests.spawn.onebarn": "§6§l.*! §7A §6Pest §7has appeared in §a(?\u003cplot\u003eThe Barn)§7!",
+    "garden.pests.spawn.multiple": "§6§l.*! §2(?\u003camount\u003e\\d) Pests §7have spawned in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
+    "garden.pests.spawn.offline": "§6§l.*! §7While you were offline, §2Pests §7spawned in §aPlots (?\u003cplots\u003e.*)!",
+    "garden.pests.spawn.one": "§6§l.*! §7A §2Pest §7has appeared in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
     "garden.pests.tracker.raredrop": "§6§l(?:RARE|PET) DROP! (?:§r)?(?\u003citem\u003e.+) §6\\(§6\\+.*☘\\)",
     "garden.pestsapi.chat.nopests": "§cThere are not any Pests on your Garden right now! Keep farming!",
     "garden.pestsapi.chat.pestdeath": "§eYou received §a(?\u003camount\u003e[0-9]*)x (?\u003citem\u003e.*) §efor killing an? §2(?\u003cpest\u003e.*)§e!",
