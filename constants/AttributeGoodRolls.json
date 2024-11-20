@@ -274,14 +274,6 @@
       "regex": "MOLTEN_NECKLACE",
       "list": [
         [
-          "veteran",
-          "magic_find"
-        ],
-        [
-          "magic_find",
-          "mending"
-        ],
-        [
           "dominance",
           "speed"
         ],
