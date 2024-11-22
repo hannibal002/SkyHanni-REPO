@@ -196,6 +196,7 @@
       {
         "rabbits": [
           "Ace",
+          "Krys",
           "Quince Quark",
           "Thor"
         ],
@@ -206,6 +207,7 @@
       {
         "rabbits": [
           "Achilles",
+          "Eisen",
           "Kappa"
         ],
         "texture_value_b64": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTYzNDkzMDc1NCwKICAicHJvZmlsZUlkIiA6ICI2NGRiNmMwNTliOTk0OTM2YTY0M2QwODEwODE0ZmJkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVTaWx2ZXJEcmVhbXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTg5ODkxNjRkZmM2MDQ3YjQ3ZjRkNjlmMGZmMjM4NmE0YmJhNGUxYjA4ZWE3NmIzNzc3N2JkMDhiOWMxZjVjOSIKICAgIH0KICB9Cn0=",
@@ -229,10 +231,12 @@
         "rabbits": [
           "Angel",
           "Comet",
+          "Maxima",
           "Necron",
           "Peppermint Pearl",
           "Toffee Tulip",
-          "Trix"
+          "Trix",
+          "Violet"
         ],
         "texture_value_b64": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTYzNDg2ODU1OCwKICAicHJvZmlsZUlkIiA6ICIyMWNjMzkxZmNkMjc0NzY5OTg5Y2M3M2VjYWRiNTE3YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHT1NUTFk5NyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMWIwMzUzYWVhMzdkYzQ1MTRkZGYxZjY0MWY1ZTRjZDIwMjhkN2FmODU4NGZhNGM2ZWE1YjA5ZmQ0ODliZGEwIgogICAgfQogIH0KfQ==",
         "skull_id": "585c3f61-915b-3a51-a4f5-22043510bb9c",
@@ -241,9 +245,11 @@
       {
         "rabbits": [
           "Calypso",
+          "Castle",
           "Kiera",
           "Prince",
-          "Punch"
+          "Punch",
+          "Rochie"
         ],
         "texture_value_b64": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTYzNDg1MTg3NSwKICAicHJvZmlsZUlkIiA6ICJkZTU3MWExMDJjYjg0ODgwOGZlN2M5ZjQ0OTZlY2RhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSEZfTWluZXNraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzdiY2Q2YTAwZjgxNGIyNWQ2YjI1ZTFhMmI3YzhkN2NjOWY3N2NlZmM2ZjBjMWJhM2Q1OWVkOGRiYWIyMjY3NSIKICAgIH0KICB9Cn0=",
         "skull_id": "407f7b1a-d0a8-31c3-8cf8-e60bbddab1f1",
@@ -252,6 +258,7 @@
       {
         "rabbits": [
           "Delta",
+          "Hole",
           "Ken",
           "Kodo",
           "Merlin",
@@ -284,8 +291,10 @@
           "Draco",
           "Elvis",
           "Gamma",
+          "Gravler",
           "Gremlin",
           "Jynx",
+          "Mush Mush",
           "Phantom",
           "Snowball"
         ],
@@ -304,6 +313,7 @@
           "Orange Obsidian",
           "Pride",
           "Spooky",
+          "Sulfur",
           "Sunny",
           "Widget"
         ],
@@ -332,7 +342,9 @@
       {
         "rabbits": [
           "Bishop",
+          "Egg",
           "Iota",
+          "Kalumdai",
           "Murphy",
           "Neptune",
           "Omicron",
@@ -374,6 +386,8 @@
       },
       {
         "rabbits": [
+          "Canopus",
+          "Carmine",
           "Crystal",
           "Favor",
           "Frodo",
@@ -425,6 +439,7 @@
           "Dandelion",
           "Darla",
           "Demetrious",
+          "Ender",
           "Fitch",
           "Gee-Gee",
           "Goofy",
@@ -500,6 +515,7 @@
         "rabbits": [
           "Alpaca",
           "Arachno",
+          "Attila",
           "Bambam",
           "Candi",
           "Chubby",
@@ -544,8 +560,10 @@
           "Dash",
           "Forrest",
           "Mediocrity",
+          "Melon",
           "Morgan",
           "Ringo",
+          "Ruina",
           "Una"
         ],
         "texture_value_b64": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTYzNTM2MzM0NCwKICAicHJvZmlsZUlkIiA6ICI0MzFhMmRlYTQ4YTE0NTMxYjEyZDU5MzY0NDUxNmIyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJpQ2FwdGFpbk5lbW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjgxMDdjNTIwMWVhMjFiYWE4OTU1MTc1MTBiMDA3ZjVmNjE1ZTNjNjYxNWRmNjk2YjkwNmFiOThlNmY5ZjA2IgogICAgfQogIH0KfQ==",
@@ -597,6 +615,7 @@
           "Natalie",
           "Ollie",
           "Razzie",
+          "Rogue",
           "Rolf",
           "Ryder",
           "Skippe",
@@ -625,6 +644,7 @@
           "Ember",
           "Frank",
           "Ginger",
+          "Harland",
           "Hefner",
           "Hondo",
           "Hubby",
@@ -633,7 +653,9 @@
           "Jazmin",
           "Milly",
           "Molly",
+          "Morty",
           "Pinky",
+          "Potato",
           "Reginald",
           "Selene",
           "Smokey",
@@ -688,10 +710,12 @@
       },
       {
         "rabbits": [
+          "Albus",
           "Alice",
           "Bagel",
           "Beatrice",
           "Bertha",
+          "Carrot",
           "Cave",
           "Chester",
           "Cricket",
@@ -811,9 +835,11 @@
           "Gunther",
           "Hershey",
           "Huck",
+          "Lazy",
           "Lone Ranger",
           "Lotte",
           "Louie",
+          "Mite",
           "Mookie",
           "Mopsy",
           "Ned",
@@ -821,6 +847,7 @@
           "Niza",
           "Pickles",
           "Riley",
+          "Soon",
           "Thumper"
         ],
         "texture_value_b64": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTYzNTE3Nzk1MCwKICAicHJvZmlsZUlkIiA6ICI3ZjU2ZjY1MDI2NjY0ZmM1OWFjNWYyYjVjMTNlZGY3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXhBbnRvbnkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmIzOGZhMGE2MjExMzUzOWIxOGZjMzFkMWUwNGJlMzRkNDdiN2Q1MDBlZjc5MGI1M2Y4M2Q4MWM0NzllZDI5ZCIKICAgIH0KICB9Cn0",
