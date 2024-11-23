@@ -116,6 +116,14 @@
         "texture_value_b64": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTYzNDYxMTA4NywKICAicHJvZmlsZUlkIiA6ICI4NDM2OTk1ZDhkZDM0NDVjYjk1ZGM2MDVjYWY3ZWIwOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJraXR0eWNhdGtvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI0MGIxYWQ1YWU0ZmM0ZDA5MjMyMTQwMzljY2IyMGVkMDM3ZTM3NzNjYzc4ZTRjMmU4NTE2YzA3NDI2NDg4ZDIiCiAgICB9CiAgfQp9",
         "skull_id": "58b79405-719d-3ae4-ad88-d70d61f0495d",
         "texture_id": "240b1ad5ae4fc4d0923214039ccb20ed037e3773cc78e4c2e8516c07426488d2"
+      },
+      {
+        "rabbits": [
+          "Omega"
+        ],
+        "texture_value_b64": "ewogICJ0aW1lc3RhbXAiIDogMTcxNTEwMzQwOTg0MiwKICAicHJvZmlsZUlkIiA6ICIzZGE2ZDgxOTI5MTY0MTNlODhlNzg2MjQ3NzA4YjkzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGZXJTdGlsZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MGRlZTQxOTc2ZTVkOTk1NDA4ODcwYmQ5ZmU1MDA1NmVlYzQzYmNiNGU3YjEyMjJmNTk5YzFlNmZhYjU5NzczIgogICAgfQogIH0KfQ==",
+        "skull_id": "98134e00-334d-3ea3-8fe7-43aa7b7cf57b",
+        "texture_id": "60dee41976e5d995408870bd9fe50056eec43bcb4e7b1222f599c1e6fab59773"
       }
     ],
     "legendary": [
@@ -158,6 +166,7 @@
         "rabbits": [
           "Epsilon",
           "Houdini",
+          "Psi",
           "Shadow"
         ],
         "texture_value_b64": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTYzNDgwOTM2MSwKICAicHJvZmlsZUlkIiA6ICJmYmFkNTg0ZmEyYTA0MjZhODZmMzgyMGFhZGEwOWVkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xpZFRvYXN0ZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zYTE1YzA0Yjk5YmZkNWRjODUxMWM2NGQ5MWY0MzkzMDc0ZGNmMTlhMTY4OWQ4M2MzZjg4ZTMwOTM2ODU5ZWUiCiAgICB9CiAgfQp9",
@@ -232,6 +241,7 @@
         "rabbits": [
           "Angel",
           "Comet",
+          "Dojo",
           "Maxima",
           "Necron",
           "Peppermint Pearl",
@@ -289,6 +299,7 @@
           "Aladdin",
           "Blackjack",
           "Cajun",
+          "Coltron",
           "Dallas",
           "Draco",
           "Elvis",
@@ -434,6 +445,7 @@
           "Alexa",
           "Asterix",
           "Average",
+          "Azure",
           "Benji",
           "Beta",
           "Blossom",
@@ -452,6 +464,7 @@
           "Jazz",
           "Jelly Bean",
           "Leopold",
+          "Orchid",
           "Patches",
           "Rusty",
           "Sweetpea",
@@ -584,6 +597,7 @@
           "Cassidy",
           "Gadget",
           "Oakley",
+          "Oakly",
           "Otto",
           "Polka Dot",
           "Prudent",
@@ -695,6 +709,7 @@
           "Heidie",
           "Hopper",
           "Indie",
+          "Jacqueline",
           "Jake",
           "Jasmine",
           "Joey",
