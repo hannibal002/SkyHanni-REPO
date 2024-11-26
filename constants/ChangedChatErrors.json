@@ -11,6 +11,17 @@
         "0.27.Beta.15",
         "0.27.Beta.16"
       ]
+    },
+    {
+      "message_exact": [
+      ],
+      "message_starts_with": [
+        "Caught a IllegalStateException in HoppityEggsManager at LorenzChatEvent: Unknown meal:"
+      ],
+      "custom_message": "Update your SkyHanni version to the beta so the Hoppity features work correctly, you can use /shupdate beta",
+      "affected_versions": [
+        "0.27"
+      ]
     }
   ]
 }
