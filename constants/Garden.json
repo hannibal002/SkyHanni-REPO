@@ -1231,16 +1231,16 @@
     "OIL_BARREL": 10000
   },
   "personal_best_increment": {
-    "CACTUS": 20000,
-    "CARROT": 30000,
-    "COCOA_BEANS": 30000,
-    "MELON": 50000,
-    "MUSHROOM": 10000,
-    "NETHER_WART": 30000,
-    "POTATO": 30000,
-    "PUMPKIN": 10000,
-    "SUGAR_CANE": 20000,
-    "WHEAT": 10000
+    "CACTUS": 200,
+    "CARROT": 300,
+    "COCOA_BEANS": 300,
+    "MELON": 500,
+    "MUSHROOM": 100,
+    "NETHER_WART": 300,
+    "POTATO": 300,
+    "PUMPKIN": 100,
+    "SUGAR_CANE": 200,
+    "WHEAT": 100
   }
 }
 
