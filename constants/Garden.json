@@ -1229,6 +1229,18 @@
     "BIOFUEL": 3000,
     "VOLTA": 10000,
     "OIL_BARREL": 10000
+  },
+  "personal_best_increment": {
+    "CACTUS": 200,
+    "CARROT": 300,
+    "COCOA_BEANS": 300,
+    "MELON": 500,
+    "MUSHROOM": 100,
+    "NETHER_WART": 300,
+    "POTATO": 300,
+    "PUMPKIN": 100,
+    "SUGAR_CANE": 200,
+    "WHEAT": 100
   }
 }
 
