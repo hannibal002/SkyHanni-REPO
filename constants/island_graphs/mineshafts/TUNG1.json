@@ -70,6 +70,10 @@
   },
   "9": {
     "Position": "-179.0:12.0:-170.0",
+    "Name": "Corpse 5",
+    "Tags": [
+      "poi"
+    ],
     "Neighbours": {
       "8": 8.54
     }
@@ -159,7 +163,7 @@
   },
   "21": {
     "Position": "-186.0:3.0:-194.0",
-    "Name": "Corpse",
+    "Name": "Corpse 1",
     "Tags": [
       "poi"
     ],
@@ -292,7 +296,7 @@
   },
   "38": {
     "Position": "-114.0:21.0:-167.0",
-    "Name": "Corpse",
+    "Name": "Corpse 3",
     "Tags": [
       "poi"
     ],
@@ -367,7 +371,7 @@
   },
   "48": {
     "Position": "-112.0:17.0:-187.0",
-    "Name": "Corpse",
+    "Name": "Corpse 4",
     "Tags": [
       "poi"
     ],
@@ -386,7 +390,7 @@
   },
   "50": {
     "Position": "-127.0:9.0:-170.0",
-    "Name": "Corpse",
+    "Name": "Corpse 2",
     "Tags": [
       "poi"
     ],
