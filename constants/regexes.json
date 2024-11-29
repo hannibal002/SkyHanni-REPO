@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "96a4fae",
+  "sourceLabel": "b649a0e",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -917,7 +917,7 @@
     "misc.chocolatefactory.hoppity.call.ring": "§a✆ (?:RING\\.{3} ?){1,3}(?:§r §r§2§l\\[PICK UP])?",
     "misc.chocolatefactory.inventory.mealegg.continue": "(?:§.)*Click to open Chocolate Factory!",
     "misc.chocolatefactory.inventory.mealegg.name": "(?:§.)*Chocolate (?:Breakfast|Lunch|Dinner|Brunch|Déjeuner|Supper) Egg.*",
-    "misc.chocolatefactory.inventory.misc": "(?:§.)*Chocolate (?:Shop |(?:Factory|Breakfast|Lunch|Dinner) ?)(?:Milestones|Egg)?",
+    "misc.chocolatefactory.inventory.misc": "(?:§.)*Chocolate (?:Shop |Factory ?)(?:Milestones)?",
     "misc.chocolatefactory.inventory.name": "Hoppity|Chocolate Factory Milestones",
     "misc.chocolatefactory.item.lore.upgrade": "§a§l(?:UPGRADE|PROMOTE) §8➜ (?:§7\\[(?\u003cnextlevel\u003e\\d+)§7] )?(?\u003cupgradename\u003e.*?) ?(?\u003cnextlevelalt\u003e[IVXLCDM]*)$",
     "misc.chocolatefactory.item.name.employee": "(?\u003cemployee\u003e(?:§.+)+Rabbit .*)§8 - §7\\[\\d*§7] .*",
@@ -934,7 +934,7 @@
     "misc.chocolatefactory.rabbit.clickme.golden": "§6§lGolden Rabbit §8- §a(?\u003cname\u003e.*)",
     "misc.chocolatefactory.rabbit.crushed": "§c§lBARN FULL! §f\\D+ §7got §ccrushed§7! §6\\+(?\u003camount\u003e[\\d,]+) Chocolate",
     "misc.chocolatefactory.rabbit.duplicate": "§7§lDUPLICATE RABBIT! §6\\+(?\u003camount\u003e[\\d,]+) Chocolate",
-    "misc.chocolatefactory.rabbit.found": "§D§LHOPPITY\u0027S HUNT §7You found (?\u003cname\u003e.*) §7\\((?\u003crarity\u003e.*)§7\\)!",
+    "misc.chocolatefactory.rabbit.found": "§D§LHOPPITY\u0027S HUNT §7You found (?\u003cname\u003e.*) §7\\(§.§L(?\u003crarity\u003e.*)§7\\)!",
     "misc.chocolatefactory.rabbit.found.new": "§d§lNEW RABBIT! (?:(?:§6\\+(?\u003cchocolate\u003e.*) Chocolate §7and )?§6\\+(?\u003cperSecond\u003e.*)x Chocolate §7per second!|(?\u003cother\u003e.*))",
     "misc.chocolatefactory.rabbit.milestone": "(?:§.)*?(?\u003cmilestone\u003e\\d{1,2})[a-z]{2} Chocolate Milestone",
     "misc.chocolatefactory.rabbit.sidedish": "(?:§.)*?Golden Rabbit (?:§.)?- (?:§.)?Side Dish",
