@@ -1242,7 +1242,7 @@
     "SUGAR_CANE": 200,
     "WHEAT": 100
   },
-  "pestRareDrops": {
+  "pest_rare_drops": {
     "FLY": {
       "ENCHANTED_HAY_BALE_ITEM": 3
     },
