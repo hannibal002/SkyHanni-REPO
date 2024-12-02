@@ -1241,6 +1241,38 @@
     "PUMPKIN": 100,
     "SUGAR_CANE": 200,
     "WHEAT": 100
+  },
+  "pestRareDrops": {
+    "FLY": {
+      "ENCHANTED_HAY_BALE_ITEM": 3
+    },
+    "RAT": {
+      "POLISHED_PUMPKIN": 3
+    },
+    "SLUG": {
+      "ENCHANTED_HUGE_MUSHROOM_1": 15,
+      "ENCHANTED_HUGE_MUSHROOM_2": 15
+    },
+    "MITE": {
+      "ENCHANTED_CACTUS": 6
+    },
+    "MOSQUITO": {
+      "ENCHANTED_SUGAR_CANE": 6
+    },
+    "MOTH": {
+      "ENCHANTED_COOKIE": 11
+    },
+    "BEETLE": {
+      "MUTANT_NETHER_STALK": 9
+    },
+    "CRICKET": {
+      "ENCHANTED_GOLDEN_CARROT": 12
+    },
+    "LOCUST": {
+      "ENCHANTED_BAKED_POTATO": 10
+    },
+    "EARTHWORM": {
+      "ENCHANTED_MELON_BLOCK": 15
+    }
   }
 }
-
