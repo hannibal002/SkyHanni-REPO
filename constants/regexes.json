@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "b649a0e",
+  "sourceLabel": "654c659",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -955,6 +955,7 @@
     "misc.chocolatefactory.stray.loreinfo": "§7You caught a stray (?\u003crabbit\u003e(?\u003cname\u003e§[^§]*)) .* (?:§7)?§6\\+(?\u003camount\u003e[\\d,]*) Chocolate§7!",
     "misc.chocolatefactory.stray.pseudoduplicate": "(?:§.)*You have already found.*",
     "misc.chocolatefactory.timetower.amount": "§7Charges: §.(?\u003cuses\u003e\\d+)§7/§a(?\u003cmax\u003e\\d+)",
+    "misc.chocolatefactory.timetower.amount.empty": "§7What does it do\\? Nobody knows\\.\\.\\.",
     "misc.chocolatefactory.timetower.recharge": "§7Next Charge: §a(?\u003cduration\u003e\\w+)",
     "misc.chocolatefactory.timetower.status": "§7Status: §.§l(?\u003cstatus\u003eINACTIVE|ACTIVE)(?: §f)?(?\u003cacitveTime\u003e\\w*)",
     "misc.chocolatefactory.unclaimedrewards": "§7§aYou have \\d+ unclaimed rewards?!",
