@@ -607,7 +607,7 @@
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
     "garden.plot.spray.cleared.portablewasher": "§9§lSPLASH! §r§6Your §r§[ba]Garden §r§6was cleared of all active §r§aSprayonator §r§6effects!",
     "garden.plot.spray.target": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§7with §r§a(?\u003cspray\u003e.*)§r§7!",
-    "garden.plot.tablist.spray": " Spray: §r§[7a](?\u003cspray\u003e\\w+)(?: §r§7\\(((?\u003cminutes\u003e\\d+)m)?( )?((?\u003cseconds\u003e\\d+)s)?\\))?.*",
+    "garden.plot.tablist.spray": " Spray: §r§[7a](?\u003cspray\u003e\\w+)(?: §r§7\\(((?\u003cminutes\u003e\\d+)m)? ?(?:(?\u003cseconds\u003e\\d+)s)?\\))?.*",
     "garden.plot.uncleaned": "§7Cleanup: .* (?:§.)*Completed",
     "garden.spray.material": "§a§lSPRAYONATOR! §r§7Your selected material is now §r§a(?\u003cspray\u003e.*)§r§7!",
     "garden.vinyl.select": "§aYou are now playing §r§e(?\u003ctype\u003e.*)§r§a!",
