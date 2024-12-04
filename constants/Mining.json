@@ -1,5 +1,5 @@
 {
-  "blockStrengths": {
+  "block_strengths": {
     "LOW_TIER_MITHRIL": 500,
     "MID_TIER_MITHRIL": 800,
     "HIGH_TIER_MITHRIL": 1500,
