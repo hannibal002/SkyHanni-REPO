@@ -25,7 +25,7 @@
     "steaminghotflounder": {
       "displayName": "§fSteaming-Hot Flounder",
       "description": "§7Caught when the bobber is within §a2 blocks§7 of a geyser in the §6Blazing Volcano§7.",
-      "rate": 20,
+      "rate": 25,
       "fillet": {
         "bronze": 20,
         "silver": 28,
@@ -36,7 +36,7 @@
     "obfuscatedfish2": {
       "displayName": "§aObfuscated 2",
       "description": "§7Caught with §fObfuscated 1 §7bait.",
-      "rate": 20,
+      "rate": 25,
       "fillet": {
         "bronze": 40,
         "silver": 60,
@@ -47,7 +47,7 @@
     "gusher": {
       "displayName": "§fGusher",
       "description": "§7Caught everywhere between §a7-16 minutes §7after a §6Blazing Volcano§7 eruption.",
-      "rate": 15,
+      "rate": 20,
       "fillet": {
         "bronze": 32,
         "silver": 48,
@@ -58,7 +58,7 @@
     "blobfish": {
       "displayName": "§fBlobfish",
       "description": "§7Caught everywhere.",
-      "rate": 15,
+      "rate": 25,
       "fillet": {
         "bronze": 4,
         "silver": 8,
@@ -69,7 +69,7 @@
     "slugfish": {
       "displayName": "§aSlugfish",
       "description": "§7Caught when the bobber has been active for at least §a20 seconds.§7",
-      "rate": 10,
+      "rate": 15,
       "fillet": {
         "bronze": 40,
         "silver": 60,
@@ -135,7 +135,7 @@
     "vanille": {
       "displayName": "§9Vanille",
       "description": "§7Caught when using a §aStarter Lava Rod §7with no Enchantments.",
-      "rate": 3,
+      "rate": 8,
       "fillet": {
         "bronze": 80,
         "silver": 120,
