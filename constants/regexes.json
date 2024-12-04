@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "0e8f0b8",
+  "sourceLabel": "79d45de",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1176,7 +1176,7 @@
     "stats.menu.sugar.cane.fortune": " §7(?:§m)☘ Sugar Cane Fortune (?\u003cvalue\u003e.*)",
     "stats.menu.swing.range": " §eⓈ Swing Range §f(?\u003cvalue\u003e.*)",
     "stats.menu.taming.wisdom": " §3☯ Taming Wisdom §f(?\u003cvalue\u003e.*)",
-    "stats.menu.true.defence": " §f❂ True Defense §f(?\u003cvalue\u003e.*)",
+    "stats.menu.true.defense": " §f❂ True Defense §f(?\u003cvalue\u003e.*)",
     "stats.menu.unknown": "",
     "stats.menu.vitality": " §4♨ Vitality §f(?\u003cvalue\u003e.*)",
     "stats.menu.wheat.fortune": " §7(?:§m)☘ Wheat Fortune (?\u003cvalue\u003e.*)",
@@ -1235,7 +1235,7 @@
     "stats.tablist.sugar.cane.fortune": "",
     "stats.tablist.swing.range": " Swing Range: §r§eⓈ(?\u003cvalue\u003e.*)",
     "stats.tablist.taming.wisdom": " Taming Wisdom: §r§3☯(?\u003cvalue\u003e.*)",
-    "stats.tablist.true.defence": " True Defense: §r§f❂(?\u003cvalue\u003e.*)",
+    "stats.tablist.true.defense": " True Defense: §r§f❂(?\u003cvalue\u003e.*)",
     "stats.tablist.unknown": "",
     "stats.tablist.vitality": " Vitality: §r§4♨(?\u003cvalue\u003e.*)",
     "stats.tablist.wheat.fortune": "",
