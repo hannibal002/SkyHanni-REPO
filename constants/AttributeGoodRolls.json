@@ -257,10 +257,6 @@
           "mending"
         ],
         [
-          "dominance",
-          "mana_pool"
-        ],
-        [
           "breeze",
           "mana_pool"
         ],
@@ -280,6 +276,10 @@
         [
           "mana_pool",
           "mana_regeneration"
+        ],
+        [
+          "dominance",
+          "mana_pool"
         ],
         [
           "veteran",
