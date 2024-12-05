@@ -25,7 +25,7 @@
     "steaminghotflounder": {
       "displayName": "§fSteaming-Hot Flounder",
       "description": "§7Caught when the bobber is within §a2 blocks§7 of a geyser in the §6Blazing Volcano§7.",
-      "rate": 25,
+      "rate": 20,
       "fillet": {
         "bronze": 20,
         "silver": 28,
