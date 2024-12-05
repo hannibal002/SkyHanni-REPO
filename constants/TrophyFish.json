@@ -189,7 +189,7 @@
     },
     "goldenfish": {
       "displayName": "§6Golden Fish",
-      "description": "§7Has a chance to spawn after §a15 minutes §7of fishing, increasing linearly §7until reaching 100% at §a20 minutes§7.",
+      "description": "§7Has a chance to spawn after §a8 minutes §7of fishing, increasing linearly §7until reaching 100% at §a12 minutes§7.",
       "rate": null,
       "fillet": {
         "bronze": 400,
