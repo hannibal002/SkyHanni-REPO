@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "18f94eb",
+  "sourceLabel": "ecf34db",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1288,6 +1288,7 @@
     "tab.widget.enum.north.stars": "\\s*North Stars: (?:§.)*(?\u003camount\u003e\\d+)",
     "tab.widget.enum.old.pet.sitter": "\\s*Pet Sitter:.*",
     "tab.widget.enum.party": "\\s*(?:§.)*Party:.*",
+    "tab.widget.enum.pest.traps": "\\s*(?:§.)*Pest Traps: (?:§.)*(?\u003ccount\u003e\\d+)/(?\u003cmax\u003e\\d+)",
     "tab.widget.enum.pests": "\\s*(?:§.)*Pests:",
     "tab.widget.enum.pet": "\\s*(?:§.)*Pet:",
     "tab.widget.enum.pet.sitter": "\\s*Kat: .*",
