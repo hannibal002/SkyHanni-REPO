@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "79d45de",
+  "sourceLabel": "a88812c",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -984,8 +984,8 @@
     "misc.items.enchantparsing.grayenchants": "^(?:Respiration|Aqua Affinity|Depth Strider|Efficiency).*",
     "misc.kickduration.kicked": "§c(?:You were kicked while joining that server!|An? (?:kick|exception) occurred in your connection, so you were put in the SkyBlock [lL]obby!)",
     "misc.kickduration.problemjoining": "§cThere was a problem joining SkyBlock, try again in a moment!",
-    "misc.limbo.tooltip.hours": "§5§o§b(?\u003chours\u003e[\\d.,])+ hours.*$",
-    "misc.limbo.tooltip.minutes": "§5§o§a(?\u003cminutes\u003e[\\d.,])+ minutes.*$",
+    "misc.limbo.tooltip.hours": "§5§o§b(?\u003chours\u003e[\\d.,]+) hours.*$",
+    "misc.limbo.tooltip.minutes": "§5§o§a(?\u003cminutes\u003e[\\d.,]+) minutes.*$",
     "misc.nongodpot.effects": "§7You have §e(?\u003cname\u003e\\d+) §7non-god effects\\.",
     "misc.patchercoords.coords": "(?\u003cplayerName\u003e.*): [xX]: (?\u003cx\u003e[0-9.-]+),? [yY]: (?\u003cy\u003e[0-9.-]+),? [zZ]: (?\u003cz\u003e[0-9.-]+(?: .*)?)",
     "misc.pet.item.name": "(?\u003cfavorite\u003e(?:§.)*⭐ )?(?:§.)*\\[Lvl (?\u003clevel\u003e\\d+)] (?\u003cname\u003e.*)",
