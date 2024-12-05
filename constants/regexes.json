@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a88812c",
+  "sourceLabel": "18f94eb",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1073,6 +1073,7 @@
     "skyblockguide.highlight.auction.search": "Auctions Browser|Auctions: \".*",
     "skyblockguide.highlight.bank.inventory": "Core ➜ Bank Upgrades",
     "skyblockguide.highlight.belt.inventory": "Miscellaneous ➜ The Dojo",
+    "skyblockguide.highlight.cake.baker.claimed": "§aYou claimed a (?:§.)*New Year Cake(?:§.)*!",
     "skyblockguide.highlight.cake.container": "Ender Chest \\(\\d{1,2}/\\d{1,2}\\)|.*Backpack(?:§r)? \\(Slot #\\d{1,2}\\)|New Year Cake Bag|(?:Large )?Chest",
     "skyblockguide.highlight.cake.name": "(?:§f§f)?§cNew Year Cake \\(Year (?\u003cyear\u003e[\\d,]+)\\)",
     "skyblockguide.highlight.cake.purchased": "§eYou purchased (?:§.)*New Year Cake \\(Year (?\u003cyear\u003e[\\d,]+)\\) (?:§.)*for (?:§.)+(?\u003ccoins\u003e[\\d,]+) coins(?:§.)+!",
