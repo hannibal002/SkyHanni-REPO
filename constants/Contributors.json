@@ -15,6 +15,9 @@
       "spinny": true,
       "upsideDown": true
     },
+    "Chissl": {
+      "suffix": "§2§l:D"
+    },
     "cimbraien": {},
     "Conutik": {
       "suffix": "§c§lツ"
@@ -61,6 +64,9 @@
     "NetheriteMiner": {},
     "oBlazin": {
       "suffix": "§d§l^^"
+    },
+    "NeoNyaa": {
+      "suffix": "§d❤"
     },
     "Obsidianninja11": {
       "suffix": "§z(:"
@@ -152,9 +158,6 @@
       "spinny": true,
       "upsideDown": true,
       "external_mod": "SBA"
-    },
-    "NeoNyaa": {
-      "suffix": "§d❤"
     }
   }
 }
