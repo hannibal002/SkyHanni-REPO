@@ -13,7 +13,8 @@
     },
     "KUUDRA_ARENA": {
       "name": "Kuudra",
-      "api_name": "kuudra"
+      "api_name": "kuudra",
+      "max_players": 4
     },
     "CRIMSON_ISLE": {
       "name": "Crimson Isle",
@@ -26,7 +27,8 @@
     },
     "DUNGEON_HUB": {
       "name": "Dungeon Hub",
-      "api_name": "dungeon_hub"
+      "api_name": "dungeon_hub",
+      "max_players": 24
     },
     "CATACOMBS": {
       "name": "Catacombs",
@@ -39,7 +41,8 @@
     },
     "DARK_AUCTION": {
       "name": "Dark Auction",
-      "api_name": "dark_auction"
+      "api_name": "dark_auction",
+      "max_players": 30
     },
     "THE_FARMING_ISLANDS": {
       "name": "The Farming Islands",
