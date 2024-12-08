@@ -95,5 +95,7 @@
     "UNKNOWN": {
       "name": "???"
     }
-  }
+  },
+  "max_players": 26,
+  "max_players_mega": 80
 }
