@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "f183083",
+  "sourceLabel": "8bda4be",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -463,6 +463,7 @@
     "features.gui.customscoreboard.scoreboard.misc.queued": "Queued:.*",
     "features.gui.customscoreboard.scoreboard.misc.queueposition": "Position: (?:§.)*#\\d+ (?:§.)*Since: .*",
     "features.gui.customscoreboard.scoreboard.misc.queuetier": "Tier: §e.*",
+    "features.gui.customscoreboard.scoreboard.misc.queuewaitingforleader": "§aWaiting on party leader!",
     "features.gui.customscoreboard.scoreboard.misc.redstone": "\\s*(?:§.)*⚡ §cRedstone: (?:§.)*\\d+%",
     "features.gui.customscoreboard.scoreboard.misc.thirdobjectiveline": "§eProtect Elle §7\\(§.\\d+%§7\\)|\\s*§.\\(§.\\w+§.\\/§.\\w+§.\\)|§f Mages.*|§f Barbarians.*|§edefeat Kuudra|§eand stun him|§.Fish \\d .*[fF]ish §.[✖✔]",
     "features.gui.customscoreboard.scoreboard.misc.visiting": "\\s*§a✌ §7\\(§.\\d+(?:§.)?/\\d+(?:§.)?\\)",
