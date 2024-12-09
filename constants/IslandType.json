@@ -18,8 +18,7 @@
     },
     "CRIMSON_ISLE": {
       "name": "Crimson Isle",
-      "api_name": "crimson_isle",
-      "max_players": 24
+      "api_name": "crimson_isle"
     },
     "DWARVEN_MINES": {
       "name": "Dwarven Mines",
@@ -27,8 +26,7 @@
     },
     "DUNGEON_HUB": {
       "name": "Dungeon Hub",
-      "api_name": "dungeon_hub",
-      "max_players": 24
+      "api_name": "dungeon_hub"
     },
     "CATACOMBS": {
       "name": "Catacombs",
@@ -37,7 +35,8 @@
     },
     "HUB": {
       "name": "Hub",
-      "api_name": "hub"
+      "api_name": "hub",
+      "max_players": 26
     },
     "DARK_AUCTION": {
       "name": "Dark Auction",
@@ -50,8 +49,7 @@
     },
     "CRYSTAL_HOLLOWS": {
       "name": "Crystal Hollows",
-      "api_name": "crystal_hollows",
-      "max_players": 24
+      "api_name": "crystal_hollows"
     },
     "THE_PARK": {
       "name": "The Park",
@@ -99,6 +97,6 @@
       "name": "???"
     }
   },
-  "max_players": 26,
+  "max_players": 24,
   "max_players_mega": 80
 }
