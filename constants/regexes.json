@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "c9f8b8c",
+  "sourceLabel": "e67c258",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -59,6 +59,7 @@
     "chat.arachne.damage": "§f +§r§eYour Damage: §r§a[0-9,]+ §r§7\\(Position #[0-9,]+\\)",
     "chat.arachne.dead": "§f.*§r§6§lARACHNE DOWN!",
     "chat.arachne.spawn": "§c\\[BOSS] Arachne§r§f: (?:The Era of Spiders begins now\\.|Ahhhh\\.\\.\\.A Calling\\.\\.\\.)",
+    "chat.arachne.venom": "§dArachne(?:\u0027s (?:Keeper|Brood))? used §r§2Venom Shot §r§don you hitting you for §r§c[\\d.,]+ damage §r§dand infecting you with venom\\.",
     "chat.experiments.compact.drop": "^(?:§8 \\+| §r§8\\+)(?\u003creward\u003e.*)$",
     "chat.experiments.compact.inventories": "(?:Superpairs|Chronomatron|Ultrasequencer) (?:\\(.+\\)|➜ Stakes|Rewards)|Experimentation Table",
     "chat.experiments.compact.message": "(?\u003cmessage\u003e§eYou claimed the §r§.\\S+ §r§erewards!)",
