@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6442565",
+  "sourceLabel": "bd58e6d",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -937,6 +937,7 @@
     "misc.chocolatefactory.other.upgrade": "Rabbit Shrine|Coach Jackrabbit",
     "misc.chocolatefactory.prestige.level": "§6Chocolate Factory (?\u003cprestige\u003e[IVX]+)",
     "misc.chocolatefactory.rabbit.amount": "Rabbit \\S+ - \\[(?\u003camount\u003e\\d+)].*",
+    "misc.chocolatefactory.rabbit.caught": ".*§7You caught.*",
     "misc.chocolatefactory.rabbit.clickme": "§e§lCLICK ME!",
     "misc.chocolatefactory.rabbit.clickme.golden": "§6§lGolden Rabbit §8- §a(?\u003cname\u003e.*)",
     "misc.chocolatefactory.rabbit.crushed": "§c§lBARN FULL! §f\\D+ §7got §ccrushed§7! §6\\+(?\u003camount\u003e[\\d,]+) Chocolate",
