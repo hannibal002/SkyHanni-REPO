@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "50d877d",
+  "sourceLabel": "6442565",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -914,6 +914,7 @@
     "misc.chocolatefactory.hitman.allslotscooldown": "§7All slots in: §a(?\u003cduration\u003e[\\w ]+)",
     "misc.chocolatefactory.hitman.availableeggs": "§7Available eggs: §a(?\u003camount\u003e\\d+)",
     "misc.chocolatefactory.hitman.inventory": "(?:§.)*Rabbit Hitman",
+    "misc.chocolatefactory.hitman.purchasedslots": "§7Purchased slots: §.(?\u003camount\u003e\\d+)§7\\/§a\\d+",
     "misc.chocolatefactory.hitman.slotcooldown": "§7Slot cooldown: §a(?\u003cduration\u003e[\\w ]+)",
     "misc.chocolatefactory.hitman.slotcost": ".*§7Cost §6(?\u003ccost\u003e[\\d,]+) Coins.*",
     "misc.chocolatefactory.hitman.slotoncooldown": "§cEgg Slot",
