@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "ad2ef78",
+  "sourceLabel": "50d877d",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -474,6 +474,7 @@
     "features.gui.customscoreboard.scoreboard.multiuse.timeelapsed": "(?:§.)*Time Elapsed: (?:§.)*(?\u003ctime\u003e(?:\\w+[ydhms] ?)+)",
     "features.gui.customscoreboard.scoreboard.multiuse.timeleft": "(?:§.)*Time Left: (?:§.)*[\\w:,.\\s]+",
     "features.gui.customscoreboard.scoreboard.rift.aveikx": "Time spent sitting|with Ävaeìkx: .*",
+    "features.gui.customscoreboard.scoreboard.rift.bigdamage": "\\s*Big damage in: §d[\\w\\s]+",
     "features.gui.customscoreboard.scoreboard.rift.clues": "Clues: §.\\d+/\\d+",
     "features.gui.customscoreboard.scoreboard.rift.dimension": "\\s*§fRift Dimension",
     "features.gui.customscoreboard.scoreboard.rift.hayeaten": "Hay Eaten: §.[\\d,.]+/[\\d,.]+",
@@ -481,6 +482,7 @@
     "features.gui.customscoreboard.scoreboard.rift.hotdogtitle": "§6Hot Dog Contest",
     "features.gui.customscoreboard.scoreboard.rift.protestors.handled": "Protestors handled: §b\\d+\\/\\d+",
     "features.gui.customscoreboard.scoreboard.rift.protestors.quest": "§eFirst Up|Find and talk with Barry",
+    "features.gui.customscoreboard.scoreboard.rift.timesliced": "§c§lTIME SLICED!",
     "features.gui.customscoreboard.tablist.eventtime": "\\s+Ends In: §r§e(?\u003ctime\u003e.*)",
     "features.gui.customscoreboard.tablist.eventtimestarts": "\\s+Starts In: §r§e(?\u003ctime\u003e.*)",
     "features.mining.deepcavernsguide.notunlocked": "§e\\[NPC] §bLift Operator§f: §rVenture down into the Lapis Quarry to unlock my Lift Menu!",
