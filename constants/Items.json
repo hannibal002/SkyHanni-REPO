@@ -91,14 +91,14 @@
       "hecatomb",
       "toxophilite"
     ],
-    "only_tier_one_price": [
+    "only_tier_one_prices": [
       "ultimate_chimera",
       "ultimate_fatal_tempo",
       "smoldering",
       "ultimate_flash",
       "divine_gift"
     ],
-    "only_tier_five_price": [
+    "only_tier_five_prices": [
       "ferocious_mana",
       "hardened_mana",
       "mana_vampire",
