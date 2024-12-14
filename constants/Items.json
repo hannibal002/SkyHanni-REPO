@@ -83,14 +83,6 @@
         ]
       }
     },
-    "tiered_enchants": [
-      "compact",
-      "cultivating",
-      "champion",
-      "expertise",
-      "hecatomb",
-      "toxophilite"
-    ],
     "only_tier_one_prices": [
       "ultimate_chimera",
       "ultimate_fatal_tempo",
