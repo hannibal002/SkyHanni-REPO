@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "bd58e6d",
+  "sourceLabel": "2b542b3",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -7,8 +7,7 @@
     "actionbar.mana": ".*§b(?\u003cmana\u003e[\\d,]+)/[\\d,]+✎.*",
     "actionbar.rift.time": "§[a7](?\u003criftTime\u003e[\\dms ]+)ф.*",
     "actionbar.skyblock.xp": ".*(§b\\+\\d+ SkyBlock XP §.\\([^()]+\\)§b \\(\\d+/\\d+\\)).*",
-    "api.skilldisplay.skill": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e\\w+) \\((?\u003ccurrent\u003e[\\d.,]+)/(?\u003cneeded\u003e[\\d.,]+)\\)",
-    "api.skilldisplay.skill.multiplier": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e.+) \\((?\u003ccurrent\u003e[\\d.,]+)/(?\u003cneeded\u003e[\\d,.]+[kmb])\\)",
+    "api.skilldisplay.skill.multiplier": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e.+) \\((?\u003ccurrent\u003e[\\d.,]+)\\/(?\u003cneeded\u003e[\\d,.]+[kmb]?)\\)",
     "api.skilldisplay.skill.percent": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e.+) \\((?\u003cprogress\u003e[\\d.]+)%\\)",
     "api.skilldisplay.skill.tab": " (?\u003ctype\u003e\\w+)(?: (?\u003clevel\u003e\\d+))?: §r§a(?\u003cprogress\u003e[0-9.]+)%",
     "api.skilldisplay.skill.tab.max": " (?\u003ctype\u003e\\w+) (?\u003clevel\u003e\\d+): §r§c§lMAX",
