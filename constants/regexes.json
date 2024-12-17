@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2b542b3",
+  "sourceLabel": "5d2b9bb",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -95,7 +95,7 @@
     "crimson.miniboss.spawn": "§c§lBEWARE - (?\u003cname\u003e.+) Is Spawning\\.",
     "crimson.reputationhelper.quest.clicktostart": "(?:§.)*Click to start!",
     "crimson.reputationhelper.quest.complete": "(?:§.)*COMPLETE",
-    "crimson.reputationhelper.quest.minibossamount": "(?:§7Kill the §c.+ §7|.*)miniboss §a(?\u003camount\u003e\\d) §7times?!",
+    "crimson.reputationhelper.quest.minibossamount": "(?:§7Kill the §c.+ §7|.*)miniboss §a(?\u003camount\u003e\\d)(?: §7times?!)?",
     "crimson.reputationhelper.tablist.quest": " (?:§.*)?(?\u003cstatus\u003e[✖✔]) (?\u003cname\u003e.+?)(?: (?:§.)*?x(?\u003camount\u003e\\d+))?",
     "crimson.volcano.tablistline": " *Volcano: (?\u003cstatus\u003e(?:§.)*\\S+)",
     "data.abiphone.contacts": "Your contacts: (?\u003ccontacts\u003e\\d+)\\/\\d+",
