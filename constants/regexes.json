@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7e64df4",
+  "sourceLabel": "9b56006",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -670,7 +670,7 @@
     "inventory.item.overlay.harvest": "§7§7You may harvest §6(?\u003camount\u003e.).*",
     "inventory.item.overlay.masterskull.id": "MASTER_SKULL_TIER_(?\u003ctier\u003e\\d)",
     "inventory.item.overlay.skyblocklevel": "§7Your SkyBlock Level: §8\\[(?\u003clevel\u003e§.\\d+)§8]",
-    "inventory.item.overlay.vacuum": "§7Vacuum Bag: §2(?\u003camount\u003e\\d*) Pests?",
+    "inventory.item.overlay.vacuum": "§7Vacuum Bag: §2(?\u003camount\u003e[\\d.,]*) Pests?",
     "inventory.itemstars.stars": "^(?\u003cname\u003e.+) (?\u003cstars\u003e(?:(?:§.)?✪)+)",
     "inventory.masks.timers.bonzo": "Your Bonzo\u0027s Mask saved your life!",
     "inventory.masks.timers.spirit": "Second Wind Activated! Your Spirit Mask saved your life!",
@@ -1052,6 +1052,9 @@
     "relay.chat.7th": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe next relay is on top of the shack next to the shady inn right here close to the pond.",
     "relay.chat.8th": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe next relay is on top of a statue in the dungeon hub.",
     "relay.chat.9th": "§e[NPC] §dTia the Fairy§f: §b✆ §f§r§fThe next relay is on top of the Auction House.",
+    "replace.roman.allowedcharactersafter": "[➜):]?",
+    "replace.roman.findroman": "[ ➜](?\u003d[MDCLXVI])(?\u003croman\u003eM*(?:C[MD]|D?C{0,3})(?:X[CL]|L?X{0,3})(?:I[XV]|V?I{0,3}))(?\u003cextra\u003e.?)",
+    "replace.roman.findword": "^[\\w-\u0027]",
     "rift.area.dreadfarm.buttons.hit": "§eYou have hit §r§b\\d+/56 §r§eof the wooden buttons!",
     "rift.area.stillgore.effegies.heart": "Effigies: (?\u003chearts\u003e(?:(?:§[7c])?⧯)*)",
     "rift.area.stillgore.effegies.respawn": "§eRespawn §c(?\u003ctime\u003e.*) §7\\(or click!\\)",
@@ -1109,7 +1112,6 @@
     "skyblockguide.highlight.slaying.inventory": "Slaying ➜ .*",
     "skyblockguide.highlight.spooky.inventory": "Event ➜ Spooky Festival",
     "skyblockguide.highlight.story.inventory": "Story ➜ Complete Objectives",
-    "skyblockguide.highlight.string.isselectoption": "§eSelect an option: .*",
     "skyblockguide.highlight.tasks.inventory": "Tasks ➜ .*",
     "skyblockguide.highlight.tasks.skill.inventory": "Skill Related Tasks",
     "skyblockguide.highlight.travel.inventory": "Core ➜ Fast Travels Unlocked",
