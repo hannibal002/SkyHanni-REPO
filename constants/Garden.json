@@ -1244,7 +1244,7 @@
   },
   "pest_rare_drops": {
     "FLY": {
-      "ENCHANTED_HAY_BALE_ITEM": 3
+      "ENCHANTED_HAY_BALE": 3
     },
     "RAT": {
       "POLISHED_PUMPKIN": 3
