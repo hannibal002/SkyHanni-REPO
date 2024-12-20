@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "72103be",
+  "sourceLabel": "82060fc",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -524,6 +524,7 @@
     "fishing.trophyfishing.armor": "(?:BRONZE|SILVER|GOLD|DIAMOND)_HUNTER_(?:HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
     "garden.armordrops.armor": "(?:FERMENTO|CROPIE|SQUASH|MELON)_(?:LEGGINGS|CHESTPLATE|BOOTS|HELMET)",
     "garden.barn.skin.change": "§aChanging Barn skin to §r.*",
+    "garden.carrolyn.lore": "§7Bring §63,000 §7of these to §5Carrolyn §7in",
     "garden.composter.inventory.numbers.amount": "§7§7Compost Available: §a(?\u003camount\u003e.*)",
     "garden.composter.inventory.numbers.value": ".* §e(?\u003chaving\u003e.*)§6/(?\u003ctotal\u003e.*)",
     "garden.contest.personal.best.collection.new": "§e\\[NPC] Jacob§f: §rYou collected §e(?\u003ccollected\u003e.*) §fitems! §d§lPERSONAL BEST§f!",
