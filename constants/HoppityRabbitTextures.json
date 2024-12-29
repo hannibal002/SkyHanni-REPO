@@ -210,7 +210,8 @@
         "rabbits": [
           "Achilles",
           "Eisen",
-          "Kappa"
+          "Kappa",
+          "Pearl"
         ],
         "texture_value_b64": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTYzNDkzMDc1NCwKICAicHJvZmlsZUlkIiA6ICI2NGRiNmMwNTliOTk0OTM2YTY0M2QwODEwODE0ZmJkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVTaWx2ZXJEcmVhbXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTg5ODkxNjRkZmM2MDQ3YjQ3ZjRkNjlmMGZmMjM4NmE0YmJhNGUxYjA4ZWE3NmIzNzc3N2JkMDhiOWMxZjVjOSIKICAgIH0KICB9Cn0=",
         "skull_id": "65fd4886-8b37-394d-8ad4-6cc0ab850c10",
