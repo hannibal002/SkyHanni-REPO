@@ -79,14 +79,6 @@
       },
       {
         "rabbits": [
-          "Omega"
-        ],
-        "texture_value_b64": "",
-        "skull_id": "",
-        "texture_id": ""
-      },
-      {
-        "rabbits": [
           "Sigma"
         ],
         "texture_value_b64": "ewogICJ0aW1lc3RhbXAiIDogMTcxNTEwMzM5MDU1NywKICAicHJvZmlsZUlkIiA6ICI5NTQ1NGYzOTkwNGE0MDg0OTcxMTQ0Y2Q5MmRhY2MyYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHcDA4MTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmNjODY1NWY4MTI0NWUzMGZiN2Y4YzI4MjcwZTY4NTIzYzBjMDhhNzE1Y2IyNDgwMmJjM2NkY2M5YmVhOGIxNSIKICAgIH0KICB9Cn0",
