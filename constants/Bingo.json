@@ -1,194 +1,198 @@
 {
   "bingo_tips": {
-    "Poseidon (Community Goal)": {
-      "difficulty": "Easy",
+    "Goblin's Treasure (Community Goal)": {
+      "difficulty": "Medium",
       "note": [
-        "Summon Sea Creatures"
+        "Kill Golden Goblins"
       ],
       "guide": [
-        "Use the best fishing rod, bait and armor that you",
-        "have access to and fish in The Park during rain.",
-        "Recommended is a Chum Rod with Angler Armor and Fish Bait."
+        "Throw Goblin Eggs that you get from killing Goblins",
+        "or opening chests in the Crystal Hollows",
+        "in the Dwarven Mines and kill what spawns from it.",
+        "Some HOTM perks, such as Sky Mall, Efficient Miner,",
+        "Luck of the Cave, Mining Speed and Anomalous Desires",
+        "may be helpful for this."
       ]
     },
     "Skilled (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Gain Farming experience"
+        "Gain Mining experience"
       ],
       "guide": [
         "You will gain progress on this by going for",
-        "the farming collection goals. Garden Milestones",
-        "will be a decent help here."
+        "the Iron Collector goal. Doing Mining Commissions",
+        "will be a good help with this."
       ]
     },
-    "Let The StarFall (Community Goal)": {
-      "difficulty": "Medium",
-      "note": [
-        "Kill Team Treasurite members."
-      ],
-      "guide": [
-        "Kill Team Treasurite members in the Crystal Hollows.",
-        "They spawn in the Mithril Deposits and you will need",
-        "Heart of the Mountain 4 to go there."
-      ]
-    },
-    "Cave Commodity (Community Goal)": {
+    "Scavenger (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Gain HotM-XP"
+        "Gain coins from the Scavenger Enchantment"
       ],
       "guide": [
-        "Do your daily mining commissions.",
-        "A higher level Bingo Pet will benefit you here."
+        "Kill mobs with a weapon that you have",
+        "Scavenger 3+ applied to."
       ]
     },
-    "Enderman Slayer (Community Goal)": {
+    "Operation: Ore (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Kill Endermen"
+        "Break Ore Blocks"
       ],
       "guide": [
-        "You will need Combat 12 for this.",
-        "Getting a Void Sword and Ender Armor",
-        "will make progress in this easier."
+        "Mine normal or Pure Ores in the Dwarven Mines.",
+        "You will gain passive progress in this if you",
+        "manual the Gold Collector Goal."
       ]
     },
-    "Pair Up!": {
+    "Lucky Looter (Community Goal)": {
+      "difficulty": "Medium",
+      "note": [
+        "Collect rare drops"
+      ],
+      "guide": [
+        "Carrots and potatoes from killing",
+        "Zombies in graveyard do count."
+      ]
+    },
+    "Minion Machine": {
       "difficulty": "Easy",
       "note": [
-        "Find 1 pair in the Experimentation table"
+        "15 unique Minions"
       ],
       "guide": [
-        "Get Enchanting Level 10 and play",
-        "the first tier in the Experimentation Table."
+        "Craft some easy minions while also getting",
+        "those that will help with this Bingo."
       ]
     },
-    "Diamond Collector": {
+    "Iron Ingot Collector": {
       "difficulty": "Medium",
       "note": [
-        "52.5k Diamond Collection"
+        "100k Diamond Collection"
       ],
       "guide": [
-        "Mine Pure Diamonds in the Dwarven Mines",
-        "with a Fortune 3+ pickaxe. You can also",
-        "use Diamond Spreadings and Compactors",
-        "in your minions to gain passive progress."
+        "Mine Pure Iron in the Dwarven Mines",
+        "with a Fortune 3+ pickaxe.",
+        "You might want to use as many minions",
+        "as you have access to for this.",
+        "Remember to put a compactor in the minions",
+        "when you plan on leaving for a while.",
+        "Don't forget to fuel the minions,",
+        "give them storages and collect them in time."
       ]
     },
-    "Slayer": {
+    "Meiser": {
       "difficulty": "Easy",
       "note": [
-        "Reach Slayer Level 2"
+        "50k coins in the bank"
       ],
       "guide": [
-        "Do 3 Tier 1 Revenant Horror Bosses ",
-        "and claim the rewards by talking to Maddox."
+        "You will most likely get this from leveling up",
+        "skills for the Skill Average goal.",
+        "Remember to actually put the money",
+        "you get in the Bank :)"
       ]
     },
-    "Obsidian Treasure": {
+    "Strongman": {
       "difficulty": "Medium",
       "note": [
-        "Unlock an Obsidian Dungeon Chest"
+        "200 strength"
       ],
       "guide": [
-        "Complete a Floor 1 with a score of 270+",
-        "and buy the chest afterwards. If you can't buy",
-        "it on the spot, either save money and buy it",
-        "from Croesus within the next 2 days or do another run.",
-        "You will probably need help with this."
+        "Get yourself a splash, equip a Bingo Pet",
+        "and get the cake buff by eating the cakes",
+        "on skyerzz's, nightlibra's or prtl's island.",
+        "If this doesn't finish it, get a Void Sword (200k) in the End",
+        "and hold it while some Ender Armor and/or Equipment."
       ]
     },
-    "Melon Collector": {
+    "Diversity": {
       "difficulty": "Medium",
       "note": [
-        "175k Melon Collection"
+        "40 unique Collections"
       ],
       "guide": [
-        "For this you should utilize the Garden.",
-        "Melons will unlock at Garden Level 6, so do",
-        "Sugar Cane Collector and Potatorific before this.",
-        "Use the Gardening Axe and its upgrade once you",
-        "unlock Melons. You might want to save some copper",
-        "to enchant the axe with Sunder."
+        "You can unlock 17/17 Farming Collections,",
+        "6/11 Combat Collections, 6/6 Foraging Collections,",
+        "14/22 Mining Collections for a total of 43 collections.",
+        "You will also get some Fishing Collections."
       ]
     },
-    "Sugar Cane Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "175k Sugar Cane Collector"
-      ],
-      "guide": [
-        "For this you should utilize the Garden.",
-        "Sugar Cane will unlock at Garden Level 5, so do",
-        "Potatorific before this. Use the Gardening Hoe",
-        "and its upgrade for this."
-      ]
-    },
-    "Dwarves Defender": {
-      "difficulty": "Medium",
-      "note": [
-        "Kill 25 Goblins during a Goblin Raid"
-      ],
-      "guide": [
-        "Kill Goblins in the Goblin Burrows (-100 163 150)",
-        "while an event is going on.",
-        "You need Mining Level 12 to visit the required island."
-      ]
-    },
-    "Petsitter": {
+    "Critical": {
       "difficulty": "Easy",
       "note": [
-        "Upgrade a pet with Kat"
+        "Reach 150% Crit Damage"
       ],
       "guide": [
-        "Buy a common Bee from Bea (4999 coins, 2 Blocks",
-        "of Gold and Coal) and upgrade it with Kat.",
-        "This is gonna cost 10k coins and 128 Coalblocks",
-        "and take 1 hour to complete."
+        "Reforge your Void Sword to Sharp",
+        "at the Blacksmith in the Hub or",
+        "enchant any weapon with Critical 5 (50 Levels)."
       ]
     },
-    "An Axe To Grind": {
+    "High Score!": {
       "difficulty": "Medium",
       "note": [
-        "10 Enchantments on a Raider Axe"
+        "230+ Score in Floor 1"
       ],
       "guide": [
-        "Buy a Raider Axe for 130k coins",
-        "from the Melancholic Viking in The Park.",
-        "Remember: Level 1 Enchantments do count."
+        "This requires Catacombs Level 1 and ",
+        "a completion of the previous floor.",
+        "You may need help from party finder",
+        "or friends for this."
       ]
     },
-    "Extra Storage": {
-      "difficulty": "Hard",
+    "Skill Average": {
+      "difficulty": "Medium",
       "note": [
-        "Craft a Large Storage"
+        "Skill Average of 11"
       ],
       "guide": [
-        "Optimal tool:",
-        "Golden Axe with Efficiency 5",
-        "Reforges: Double-Bit or Lush",
-        "Get Haste 3 from a splash to instamine wood",
-        "Costs 256 Enchanted Oak Wood to craft and",
-        "unlocks at Oak Wood Collection 9 (30k).",
-        "Use Diaz' 10x daily shop limit for this."
+        "To help with this, try to make bigger crafts",
+        "by hand for Carpentry levels.",
+        "Also do your daily experiments and make sure",
+        "to have a pet active at all times",
+        "(any pet works, even level 100)."
       ]
     },
-    "Search And Rescue": {
+    "Now We're In Business": {
       "difficulty": "Easy",
       "note": [
-        "Give Fetchur what he desires"
+        "Craft a Diamond Spreading"
       ],
       "guide": [
-        "Use the wiki to figure out what Fetchur asks for.",
-        "You will need to get into Dwarven Mines to be",
-        "able to even talk to him."
+        "This unlocks at 5k Diamond Collection. Use Pure Ores",
+        "in the Dwarven Mines for this. Craft it with",
+        "1 Enchanted Diamond and 8 Vines (costs 40 Jungle Leaves,",
+        "requires Jungle Wood Collection 4 to unlock it in /trades.)"
+      ]
+    },
+    "Setting a Trap": {
+      "difficulty": "Medium",
+      "note": [
+        "Kill a Trapper Animal"
+      ],
+      "guide": [
+        "You should use SkyHanni's Trapper features",
+        "to make this easier. Use /warp trapper",
+        "to get back to Trevor whenever you want.",
+        "You will need a bow for this."
+      ]
+    },
+    "Friend of the Seas": {
+      "difficulty": "Medium",
+      "note": [
+        "Equip a Common+ Dolphin"
+      ],
+      "guide": [
+        "Fish with an Enchanted Chum Rod in the Rain",
+        "in the Park. Use the best bait you can."
       ]
     },
     "Collecting Data": {
       "difficulty": "Easy",
       "note": [
-        "Bestiary Milestone 5"
+        "Bestiary Milestone 3"
       ],
       "guide": [
         "You will most likely get this passively.",
@@ -208,86 +212,107 @@
         "Buy Squire, Rosetta's, Celeste and Starlight Armor from Rosetta"
       ]
     },
-    "Sea Summoner": {
+    "Healthy": {
       "difficulty": "Easy",
       "note": [
-        "30% sea creature chance"
+        "500 Health"
       ],
       "guide": [
-        "Claim your cake buff (visit skyerzz, nightlibra or prtl),",
-        "hold an angler 4+ rod and visit someone with a",
-        "Sea Creature Chance beacon (visit PrincessVictra or ReyMaratov)."
+        "Wear armor enchanted with Growth 5 ",
+        "(Enchanting Level 5), preferably Ender Armor",
+        "while you're in The End or Mushroom Armor",
+        "during the night.",
+        "Applying Growth 5 costs 50 Levels each.",
+        "If you still struggle, reforge your",
+        "armor to Titanic."
       ]
     },
-    "Relic Researcher": {
-      "difficulty": "Medium",
-      "note": [
-        "28 Relics"
-      ],
-      "guide": [
-        "You can find Relic Coordinates in Skytils or the Wiki.",
-        "You will need Ender Pearls to reach some of them."
-      ]
-    },
-    "Potatorific": {
-      "difficulty": "Medium",
-      "note": [
-        "Craft a Hot Potato Book"
-      ],
-      "guide": [
-        "For this you should utilize the Garden.",
-        "Potato will unlock at Garden Level 3.",
-        "Use the Gardening Hoe and its upgrade for this.",
-        "The recipe will unlock at Potato Collection VIII",
-        "(craft with 3 paper and 1 Enchanted Baked Potato)"
-      ]
-    },
-    "The Dragon Bow": {
-      "difficulty": "Medium",
-      "note": [
-        "Obtain a Dragon Shortbow"
-      ],
-      "guide": [
-        "Follow the Lone Adventurer Questline",
-        "in the End until he asks you to kill",
-        "Watchers to get the Dragon Shortbow."
-      ]
-    },
-    "Critical": {
+    "Lumberjack": {
       "difficulty": "Easy",
       "note": [
-        "Reach 150% Crit Damage"
+        "Foraging 10"
       ],
       "guide": [
-        "Reforge your Void Sword to Sharp",
-        "at the Blacksmith in the Hub or",
-        "enchant any weapon with Critical 5 (50 Levels)."
+        "Optimal tool:",
+        "Golden Axe with Efficiency 5",
+        "Reforges: Lumberjack's or Moil",
+        "Get Haste 3 from a splash to instamine wood"
       ]
     },
-    "Warrior": {
-      "difficulty": "Easy",
-      "note": [
-        "Reach Combat 5"
-      ],
-      "guide": [
-        "You will get this passively because you need",
-        "higher combat levels for other goals.",
-        "You should use the combat xp rewards from",
-        "the Bestiary to help with this."
-      ]
-    },
-    "King Of The... Seas?": {
+    "Powder Collector": {
       "difficulty": "Medium",
       "note": [
-        "Fish up a Carrot King"
+        "25k Mithril Powder"
+      ],
+      "guide": [
+        "Do commissions and events in The Dwarven Mines,",
+        "claim your daily powder from the Puzzler and",
+        "from giving Fetchur the items he asks for.",
+        "Fetchurs items are all listed in the Wiki.",
+        "Try to do those while a '2x Powder' event is active.",
+        "You might want to use the Royal Reforge on your",
+        "equipment to gain more powder from events."
+      ]
+    },
+    "Pet Hoarder": {
+      "difficulty": "Medium",
+      "note": [
+        "12 unique pets"
+      ],
+      "guide": [
+        "§lNo eggs:",
+        "Dolphin, Bee, Grandma Wolf, Bingo, Rock, Owl,",
+        "Enderman, Tarantula and Oringo pets",
+        "§lEggs needed:",
+        "Jerry, Rabbit, Pig, Chicken, Bat, Silverfish",
+        "To get the Enchanted Eggs needed, kill Chickens",
+        "in The Barn till you get the Chicken Head recipe.",
+        "Once you get your first Enchanted Egg, put it into",
+        "one Chicken Minion to generate more of those over time."
+      ]
+    },
+    "Ink Sac Collector": {
+      "difficulty": "Hard",
+      "note": [
+        "1k Ink Sac Collection"
       ],
       "guide": [
         "Use the best fishing rod, bait and armor that you",
         "have access to and fish in The Park during rain.",
-        "Recommended is a Chum Rod with Angler Armor and Carrot Bait.",
-        "You will need Fishing 15 to be able to fish him up.",
-        "Place Fishing Minions and give them the best storage",
-        "(and fuel) you have access to."
+        "Recommended is a Chum Rod with Angler Armor and Dark/Fish Bait.",
+        "Make sure to have Looting 3+ applied to your",
+        "weapon and rod. You might want to use the Squid Head too."
+      ]
+    },
+    "Is This Safe?": {
+      "difficulty": "Medium",
+      "note": [
+        "Consume a Mushed Glowy Tonic Potion"
+      ],
+      "guide": [
+        "Save all the Chum you gather from the other",
+        "fishing goals and fill 8 Chum Buckets with it.",
+        "In total you will need 90 Glowing Mushrooms",
+        "and 16k coins to buy this from Moby on the Desert Island."
+      ]
+    },
+    "Prismarine Shard Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "900 Prismarine Shard Collection"
+      ],
+      "guide": [
+        "You will get some progress in this by going for",
+        "the Ink Sac Collector, Is This Safe? and",
+        "Friend Of The Seas goal.",
+        "Use the best fishing rod, bait and armor that you",
+        "have access to and fish in The Park during rain.",
+        "Recommended is a Chum Rod with Angler Armor and Dark/Fish Bait.",
+        "Make sure to have Looting 3+ applied to your",
+        "weapon and rod.",
+        "You can also use fishing minions to help with this.",
+        "Remember to give them the best fuel and storage",
+        "you have access to and collect in time."
       ]
     }
   }
