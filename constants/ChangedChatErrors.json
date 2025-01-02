@@ -10,7 +10,8 @@
       "affected_versions": [
         "0.27.Beta.15",
         "0.27.Beta.16"
-      ]
+      ],
+      "fixed_in": "1.0.0"
     },
     {
       "message_exact": [
@@ -21,7 +22,8 @@
       "custom_message": "Update your SkyHanni version to the beta so the Hoppity features work correctly, you can use /shupdate beta",
       "affected_versions": [
         "0.27"
-      ]
+      ],
+      "fixed_in": "1.0.0"
     }
   ]
 }
