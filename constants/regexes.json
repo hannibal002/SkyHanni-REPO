@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "47e5c55",
+  "sourceLabel": "808ccd9",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -883,6 +883,7 @@
     "minion.chat.upgrade": "§aYou have upgraded your Minion to Tier (?\u003ctier\u003e.*)",
     "minion.infernominiontitle": "Inferno Minion .*",
     "minion.item.collect": "^§aCollect All$",
+    "minion.items.upgrade": "§7§cYou need §6(?\u003camount\u003e\\d+) §cmore (?\u003citemName\u003e.+)\\.",
     "minion.title": "Minion [^➜]",
     "misc.chocolatefactory.barn.amount": "§7Your Barn: §.(?\u003crabbits\u003e\\d+)§7/§.(?\u003cmax\u003e\\d+) Rabbits",
     "misc.chocolatefactory.cf.inventory": "Hoppity\u0027s Collection|Chocolate (?:Factory|Shop) Milestones|Rabbit Hitman",
