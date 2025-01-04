@@ -1,0 +1,51 @@
+{
+  "boosts": [
+    {
+      "name": "MINIONS",
+      "display_name": "Minions",
+      "usage_string": "minions",
+      "color": "AQUA",
+      "display_slot": 10,
+      "status_slot": 19
+    },
+    {
+      "name": "CHOCOLATE_FACTORY",
+      "display_name": "Chocolate Factory",
+      "color": "GOLD",
+      "display_slot": 11,
+      "status_slot": 20
+    },
+    {
+      "name": "PET_TRAINING",
+      "display_name": "Pet Training",
+      "usage_string": "training pets",
+      "color": "LIGHT_PURPLE",
+      "display_slot": 12,
+      "status_slot": 21
+    },
+    {
+      "name": "PET_SITTER",
+      "display_name": "Pet Sitter",
+      "usage_string": "pets being taken care of by Kat",
+      "color": "AQUA",
+      "display_slot": 14,
+      "status_slot": 23
+    },
+    {
+      "name": "AGING_ITEMS",
+      "display_name": "Aging Items",
+      "usage_string": "aging items",
+      "color": "YELLOW",
+      "display_slot": 15,
+      "status_slot": 24
+    },
+    {
+      "name": "FORGE",
+      "display_name": "Forge",
+      "usage_string": "forges",
+      "color": "GOLD",
+      "display_slot": 16,
+      "status_slot": 25
+    }
+  ]
+}
