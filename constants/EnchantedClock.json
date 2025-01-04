@@ -2,50 +2,50 @@
   "boosts": [
     {
       "name": "MINIONS",
-      "displayName": "Minions",
-      "usageString": "minions",
+      "display_name": "Minions",
+      "usage_string": "minions",
       "color": "AQUA",
-      "displaySlot": 10,
-      "statusSlot": 19
+      "display_slot": 10,
+      "status_slot": 19
     },
     {
       "name": "CHOCOLATE_FACTORY",
-      "displayName": "Chocolate Factory",
+      "display_name": "Chocolate Factory",
       "color": "GOLD",
-      "displaySlot": 11,
-      "statusSlot": 20
+      "display_slot": 11,
+      "status_slot": 20
     },
     {
       "name": "PET_TRAINING",
-      "displayName": "Pet Training",
-      "usageString": "training pets",
+      "display_name": "Pet Training",
+      "usage_string": "training pets",
       "color": "LIGHT_PURPLE",
-      "displaySlot": 12,
-      "statusSlot": 21
+      "display_slot": 12,
+      "status_slot": 21
     },
     {
       "name": "PET_SITTER",
-      "displayName": "Pet Sitter",
-      "usageString": "pets being taken care of by Kat",
+      "display_name": "Pet Sitter",
+      "usage_string": "pets being taken care of by Kat",
       "color": "AQUA",
-      "displaySlot": 14,
-      "statusSlot": 23
+      "display_slot": 14,
+      "status_slot": 23
     },
     {
       "name": "AGING_ITEMS",
-      "displayName": "Aging Items",
-      "usageString": "aging items",
+      "display_name": "Aging Items",
+      "usage_string": "aging items",
       "color": "YELLOW",
-      "displaySlot": 15,
-      "statusSlot": 24
+      "display_slot": 15,
+      "status_slot": 24
     },
     {
       "name": "FORGE",
-      "displayName": "Forge",
-      "usageString": "forges",
+      "display_name": "Forge",
+      "usage_string": "forges",
       "color": "GOLD",
-      "displaySlot": 16,
-      "statusSlot": 25
+      "display_slot": 16,
+      "status_slot": 25
     }
   ]
 }
