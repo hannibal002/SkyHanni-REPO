@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6110790",
+  "sourceLabel": "8c03a5b",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1358,6 +1358,8 @@
     "utils.item.name.enchanted.book": "(?:§.)+Enchanted Book",
     "utils.item.name.potion": ".*Potion",
     "utils.item.neuitems.enchantmentname": "^(?\u003cformat\u003e(?:§.)*)(?\u003cname\u003e[^§]+) (?\u003clevel\u003e[IVXL]+)(?: Book)?$",
+    "utils.item.rift.exportable": "§5§kX§5 Rift-Export(?:able|ed) §kX",
+    "utils.item.rift.transferable": "§5§kX§5 Rift-Transferable §kX",
     "utils.item.sack": ".*Sack",
     "utils.skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
     "utils.string.chatusername": "^(?:§\\w\\[§\\w\\d+§\\w] )?(?:(?:§\\w)+\\S )?(?\u003crankedName\u003e(?:§\\w\\[\\w.+] )?(?:§\\w)?(?\u003cusername\u003e\\w+))(?: (?:§\\w)?\\[.+?])?",
