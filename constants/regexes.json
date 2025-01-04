@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8c03a5b",
+  "sourceLabel": "e440dad",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -156,7 +156,7 @@
     "data.itemmanager.diceroll": "§eYour §r§(?:5|6High Class )Archfiend Dice §r§erolled a §r§.(?\u003cnumber\u003e.)§r§e! Bonus: §r§.(?\u003chearts\u003e.*)❤",
     "data.kuudra.chat.complete": "§.\\s*(?:§.)*KUUDRA DOWN!",
     "data.kuudra.internalname.armor": "(?\u003ctier\u003eHOT|BURNING|FIERY|INFERNAL|)_?(?\u003ctype\u003eAURORA|CRIMSON|TERROR|HOLLOW|FERVOR)_(?:HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
-    "data.kuudra.scoreboard.tier": " §7⏣ §cKuudra\u0027s Hollow §8\\(T(?\u003ctier\u003e.*)\\)",
+    "data.kuudra.scoreboard.tier": " §7⏣ §cKuudra\u0027s Hollow §8\\(T(?\u003ctier\u003e\\d+)\\)",
     "data.maxwell.chat.power": "§eYou selected the §a(?\u003cpower\u003e.*) §e(?:power )?for your §aAccessory Bag§e!",
     "data.maxwell.chat.power.unlocked": "§eYour selected power was set to (?:§r)*§a(?\u003cpower\u003e.*)(?:§r)*§e!",
     "data.maxwell.collection.redstone.requirement": "(?:§.)*Requires (?:§.)*Redstone Collection I+(?:§.)*\\.",
