@@ -314,7 +314,7 @@
   "PLHLEGBLAST": {
     "chat_color": "§c",
     "sea_creatures": {
-      "Phlhlegblast": {
+      "Plhlegblast": {
         "chat_message": "§aWOAH! A Plhlegblast appeared.",
         "fishing_experience": 5000,
         "rarity": "COMMON",
