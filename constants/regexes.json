@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8f79ba7",
+  "sourceLabel": "e720e9f",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -93,7 +93,6 @@
     "craftableitemlist.craftitem": "Craft Item",
     "crimson.miniboss.down": "§f\\s*§r§6§l(?\u003cname\u003e.+) DOWN!",
     "crimson.miniboss.spawn": "§c§lBEWARE - (?\u003cname\u003e.+) Is Spawning\\.",
-    "crimson.reputationhelper.quest.clicktostart": "(?:§.)*Click to start!",
     "crimson.reputationhelper.quest.complete": "(?:§.)*COMPLETE",
     "crimson.reputationhelper.quest.minibossamount": "(?:§7Kill the §c.+ §7|.*)miniboss §a(?\u003camount\u003e\\d)(?: §7times?!)?",
     "crimson.reputationhelper.tablist.quest": " (?:§.*)?(?\u003cstatus\u003e[✖✔]) (?\u003cname\u003e.+?)(?: (?:§.)*?x(?\u003camount\u003e\\d+))?",
