@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "5fcd021",
+  "sourceLabel": "ae98e95",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -613,6 +613,7 @@
     "garden.plot.spray.target": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§7with §r§a(?\u003cspray\u003e.*)§r§7!",
     "garden.plot.uncleaned": "§7Cleanup: .* (?:§.)*Completed",
     "garden.spray.material": "§a§lSPRAYONATOR! §r§7Your selected material is now §r§a(?\u003cspray\u003e.*)§r§7!",
+    "garden.tooltip.farmingfortune": "§7Farming Fortune: §a",
     "garden.vinyl.select": "§aYou are now playing §r§e(?\u003ctype\u003e.*)§r§a!",
     "garden.vinyl.unselect": "§aYou are no longer playing §r§e.*§r§a!",
     "garden.visitor.api.visitor.count": "§b§lVisitors: §r§f\\((?\u003cinfo\u003e.*)\\)",
