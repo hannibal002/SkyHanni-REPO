@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7d4e044",
+  "sourceLabel": "d154001",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -67,6 +67,12 @@
     "chat.jacobevent.accessory": "§e\\[NPC] Jacob§f: §rYour §9Anita\u0027s \\w+ §fis giving you §6\\+\\d{1,2}☘ .+ Fortune §fduring the contest!",
     "chat.player.death": "§c ☠ §r§7§r§.(?\u003cname\u003e.+)§r§7 (?\u003creason\u003e.+)",
     "chat.skymall.perk": "§eNew buff§r§r§r:.*",
+    "chat.sound.responsecat": "(?:^|^.* )(?: |§.)*(?i)(?:meow)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
+    "chat.sound.responsechicken": "(?:^|^.* )(?: |§.)*(?i)(?:cluck)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
+    "chat.sound.responsecow": "(?:^|^.* )(?: |§.)*(?i)(?:moo+)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
+    "chat.sound.responsedog": "(?:^|^.* )(?: |§.)*(?i)(?:bark|arf|woof)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
+    "chat.sound.responsepig": "(?:^|^.* )(?: |§.)*(?i)(?:oink)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
+    "chat.sound.responsesheep": "(?:^|^.* )(?: |§.)*(?i)(?:baa+h*)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
     "clicktoset": "§7§eClick to set the location of this NPC!",
     "clicktospawn": "§elocation!",
     "color.item.hex.lore.code": ".*(?:Color:|Hex|to) (?:§.)?(?\u003chex\u003e#[0-9a-fA-F]{1,6}).*",
