@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "ae98e95",
+  "sourceLabel": "b2544ac",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -370,6 +370,9 @@
     "fame.upgrades.profile": "§8Profile Upgrade",
     "fame.upgrades.started": "§eYou started the §r§a(?\u003cupgrade\u003e.+) §r§eupgrade!",
     "fame.upgrades.upgrade": "§eClick to start upgrade!",
+    "features.gui.customscoreboard.broken.0": "\\s*§.§l⚡ §cRedston",
+    "features.gui.customscoreboard.broken.1": "\\s*§ce: §e§b0%",
+    "features.gui.customscoreboard.broken.2": "\\s*Starting in: §a0 §c[\\d:]+",
     "features.gui.customscoreboard.scoreboard.carnival.accuracy": "(?:§f)?Accuracy: §.\\d+(?:\\.\\d+)?%",
     "features.gui.customscoreboard.scoreboard.carnival.carnival": "§eCarnival§f (?:\\d+:?)*",
     "features.gui.customscoreboard.scoreboard.carnival.catchstreak": "(?:§f)?Catch Streak: §.\\d+",
