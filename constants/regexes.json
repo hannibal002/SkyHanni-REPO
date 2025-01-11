@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "b2544ac",
+  "sourceLabel": "7d4e044",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1205,6 +1205,7 @@
     "stats.menu.sugar.cane.fortune": " §7§m☘ Sugar Cane Fortune (?\u003cvalue\u003e\\d+)(?: .*)?",
     "stats.menu.swing.range": " §eⓈ Swing Range §f(?\u003cvalue\u003e\\d+)(?: .*)?",
     "stats.menu.taming.wisdom": " §3☯ Taming Wisdom §f(?\u003cvalue\u003e\\d+)(?: .*)?",
+    "stats.menu.trophy.fish.chance": " §6♔ Trophy Fish Chance §f(?\u003cvalue\u003e\\d+)%",
     "stats.menu.true.defense": " §f❂ True Defense §f(?\u003cvalue\u003e\\d+)(?: .*)?",
     "stats.menu.unknown": "",
     "stats.menu.vitality": " §4♨ Vitality §f(?\u003cvalue\u003e\\d+)(?: .*)?",
@@ -1264,6 +1265,7 @@
     "stats.tablist.sugar.cane.fortune": "",
     "stats.tablist.swing.range": " Swing Range: §r§eⓈ(?\u003cvalue\u003e\\d+)(?: .*)?",
     "stats.tablist.taming.wisdom": " Taming Wisdom: §r§3☯(?\u003cvalue\u003e\\d+)(?: .*)?",
+    "stats.tablist.trophy.fish.chance": "Trophy Fish Chance: §r§6♔(?\u003cvalue\u003e\\d+)(?: .*)?",
     "stats.tablist.true.defense": " True Defense: §r§f❂(?\u003cvalue\u003e\\d+)(?: .*)?",
     "stats.tablist.unknown": "",
     "stats.tablist.vitality": " Vitality: §r§4♨(?\u003cvalue\u003e\\d+)(?: .*)?",
