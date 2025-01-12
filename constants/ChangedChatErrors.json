@@ -24,6 +24,12 @@
         "0.27"
       ],
       "fixed_in": "1.0.0"
+    },
+    {
+      "message_starts_with": [
+        "Error in Hitman Time, PLEASE report this on discord"
+      ],
+      "fixed_in": "1.5.0"
     }
   ]
 }
