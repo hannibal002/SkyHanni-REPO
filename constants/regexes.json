@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "d154001",
+  "sourceLabel": "7e71ee3",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -258,7 +258,7 @@
     "dungeon.finder.check.if.party": ".*\u0027s Party",
     "dungeon.finder.detect.dungeon.class": "§7View and select a dungeon class\\.",
     "dungeon.finder.entrance": ".*Entrance",
-    "dungeon.finder.floor": "Floor .*",
+    "dungeon.finder.floor": "Floor:? .*",
     "dungeon.finder.floor.any": "Any",
     "dungeon.finder.floor.dungeon": "Dungeon: .*",
     "dungeon.finder.floor.mastermode": "(?:MM|.*Master Mode) The Catacombs.*",
