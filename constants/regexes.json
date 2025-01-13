@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7e71ee3",
+  "sourceLabel": "823351a",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1336,7 +1336,7 @@
     "tab.widget.enum.profile": "\\s*(?:§.)+Profile: §r§a(?\u003cprofile\u003e[\\w\\s]+[^ §]).*",
     "tab.widget.enum.protector": "\\s*Protector: (?:§.)*(?\u003ctime\u003e.*)",
     "tab.widget.enum.rain": "\\s*(?\u003ctype\u003eThunder|Rain): (?:§.)*(?\u003ctime\u003e.*)",
-    "tab.widget.enum.reputation": "\\s*(?:§.)*(Barbarian|Mage) Reputation:",
+    "tab.widget.enum.reputation": "\\s*(?:§.)*(?\u003cfaction\u003eBarbarian|Mage) Reputation:",
     "tab.widget.enum.rift.barry": "\\s*(?:§.)*Advertisement:",
     "tab.widget.enum.rift.info": "\\s*(?:§.)*Good to know:",
     "tab.widget.enum.rift.shen": "\\s*(?:§.)*Shen: (?:§.)*\\((?\u003ctime\u003e[^)])\\)",
