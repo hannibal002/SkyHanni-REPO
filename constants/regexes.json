@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "823351a",
+  "sourceLabel": "6fbff31",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -439,6 +439,7 @@
     "features.gui.customscoreboard.scoreboard.main.yearvotes": "§6Year \\d+ Votes",
     "features.gui.customscoreboard.scoreboard.mining.fortunatefreezing.bonus": "Event Bonus: §6\\+\\d+☘",
     "features.gui.customscoreboard.scoreboard.mining.fossildust": "Fossil Dust: §f[\\d.,]+.*",
+    "features.gui.customscoreboard.scoreboard.mining.goblinguseless": "§7Kill goblins!",
     "features.gui.customscoreboard.scoreboard.mining.mineshaft.notstarted": "(?:§.)*Not started.*",
     "features.gui.customscoreboard.scoreboard.mining.miningevent": "Event: §.§L.*",
     "features.gui.customscoreboard.scoreboard.mining.miningeventzone": "Zone: §.*",
@@ -452,7 +453,6 @@
     "features.gui.customscoreboard.scoreboard.mining.raffletickets": "Tickets: §a\\d+ §7\\(\\d+(?:\\.\\d)?%\\)",
     "features.gui.customscoreboard.scoreboard.mining.raffleuseless": "Find tickets on the|ground and bring them|to the raffle box",
     "features.gui.customscoreboard.scoreboard.mining.remaininggoblin": "Remaining: §a\\d+ goblins?",
-    "features.gui.customscoreboard.scoreboard.mining.uselessgoblin": "§7Kill goblins!",
     "features.gui.customscoreboard.scoreboard.mining.windcompass": "§9Wind Compass",
     "features.gui.customscoreboard.scoreboard.mining.windcompassarrow": "\\s*(?:§.|[⋖⋗≈])+\\s*(?:§.|[⋖⋗≈])*\\s*",
     "features.gui.customscoreboard.scoreboard.mining.yourgoblin": "Your kills: §c\\d+ ☠(?: §a\\(\\+\\d+\\))?",
