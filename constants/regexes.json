@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "effbc85",
+  "sourceLabel": "af8552f",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1148,6 +1148,7 @@
     "slayer.blaze.dagger.attunement": "§cStrike using the §r.+ §r§cattunement on your dagger!",
     "slayer.blaze.firepillar.entityname": "§6§l(?\u003cseconds\u003e.*)s §c§l8 hits",
     "slayer.bosswarning.progress": " \\(?(?\u003cprogress\u003e[0-9.,k]+)/(?\u003ctotal\u003e[0-9.,k]+)\\)?.*",
+    "slayer.notspawnable": "§c(?:Only inside The Rift!|Doesn\u0027t exist here!)",
     "slayer.rngmeter.book.format": "§aEnchanted Book \\((?\u003cname\u003e.*)§a\\)",
     "slayer.rngmeter.changeditem": "§aYou set your §r.* RNG Meter §r§ato drop §r.*§a!",
     "slayer.rngmeter.inventoryname": "(?\u003cname\u003e.*) RNG Meter",
