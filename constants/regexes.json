@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6e2e096",
+  "sourceLabel": "b8d4c50",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -118,7 +118,6 @@
     "data.bits.gui.cookiemenucookieactive": "§7§cYou do not currently have a|§cBooster Cookie active!",
     "data.bits.gui.famerankmenuname": "^Community Shop|Booster Cookie$",
     "data.bits.gui.famerankmenustack": "^§aCommunity Shop|§eFame Rank$",
-    "data.bits.gui.mainmenuname": "^SkyBlock Menu$",
     "data.bits.gui.mainmenustack": "^§6Booster Cookie$",
     "data.bits.gui.sbmenufamerank": "§7Your rank: §e(?\u003crank\u003e.*)",
     "data.bits.gui.sbmenunocookieactive": " §7Status: §cNot active!",
@@ -1145,6 +1144,9 @@
     "skyblockguide.highlight.tasks.inventory": "Tasks ➜ .*",
     "skyblockguide.highlight.tasks.skill.inventory": "Skill Related Tasks",
     "skyblockguide.highlight.travel.inventory": "Core ➜ Fast Travels Unlocked",
+    "skyblockxpapi.inventory.itemname": "§aSkyBlock Leveling",
+    "skyblockxpapi.inventory.level": "§7Your SkyBlock Level: §8\\[§.(?\u003clevel\u003e\\d+)§8\\]",
+    "skyblockxpapi.inventory.xp": "[§\\w\\s]+§b(?\u003cxp\u003e\\d+)§3\\/§b100 §bXP",
     "slayer.autoslayer.bank.chat": "§7Took (?\u003ccoins\u003e.+) coins from your bank for auto-slayer\\.\\.\\.",
     "slayer.blaze.dagger.attunement": "§cStrike using the §r.+ §r§cattunement on your dagger!",
     "slayer.blaze.firepillar.entityname": "§6§l(?\u003cseconds\u003e.*)s §c§l8 hits",
@@ -1368,6 +1370,7 @@
     "test.dev.copyrng.slayer": "§7Slayer XP: §d.*§5/§d(?\u003cxp\u003e.*)",
     "thunderbottle.charged": "§e\u003e Your bottle of thunder has fully charged!",
     "utils.inventory.shopoptions": "Shop Trading Options",
+    "utils.inventory.skyblockmenu": "SkyBlock Menu",
     "utils.item.amount.behind": "(?\u003cname\u003e(?:§.)*(?:[^§] ?)+)(?:§8x(?\u003camount\u003e[\\d,]+))?",
     "utils.item.amount.front": "(?: +§8(?:\\+§.)?(?\u003camount\u003e[\\d.,]+[km]?)x? )?(?\u003cname\u003e.*)",
     "utils.item.cost.line": "(?:§5§o)?§7Cost.*",
