@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "b8d4c50",
+  "sourceLabel": "b0909a0",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -379,6 +379,7 @@
     "features.gui.customscoreboard.broken.0": "\\s*§.§l⚡ §cRedston",
     "features.gui.customscoreboard.broken.1": "\\s*§ce: §e§b0%",
     "features.gui.customscoreboard.broken.2": "\\s*Starting in: §a0 §c[\\d:]+",
+    "features.gui.customscoreboard.broken.3": "(?:§.)*᠅ §.(?\u003ctype\u003eGemstone|Mithril|Glacite)(?: Powder)?.*",
     "features.gui.customscoreboard.scoreboard.carnival.accuracy": "(?:§f)?Accuracy: §.\\d+(?:\\.\\d+)?%",
     "features.gui.customscoreboard.scoreboard.carnival.carnival": "§eCarnival§f (?:\\d+:?)*",
     "features.gui.customscoreboard.scoreboard.carnival.catchstreak": "(?:§f)?Catch Streak: §.\\d+",
@@ -448,7 +449,6 @@
     "features.gui.customscoreboard.scoreboard.mining.mithrilyourmithril": "Your Tasty Mithril: §c\\d+.*",
     "features.gui.customscoreboard.scoreboard.mining.nearbyplayers": "Nearby Players: §.(?:\\d+|N/A)",
     "features.gui.customscoreboard.scoreboard.mining.powder": "(?:§.)*᠅ §.(?\u003ctype\u003eGemstone|Mithril|Glacite)(?: Powder)?(?:§.)*:? (?:§.)*(?\u003camount\u003e[\\d,.]*)",
-    "features.gui.customscoreboard.scoreboard.mining.powdergreedy": "(?:§.)*᠅ §.(?\u003ctype\u003eGemstone|Mithril|Glacite)(?: Powder)?.*",
     "features.gui.customscoreboard.scoreboard.mining.rafflepool": "Pool: §6\\d+",
     "features.gui.customscoreboard.scoreboard.mining.raffletickets": "Tickets: §a\\d+ §7\\(\\d+(?:\\.\\d)?%\\)",
     "features.gui.customscoreboard.scoreboard.mining.raffleuseless": "Find tickets on the|ground and bring them|to the raffle box",
