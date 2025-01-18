@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "b0909a0",
+  "sourceLabel": "a634642",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -125,7 +125,7 @@
     "data.chat.player.coop": "§bCo-op \u003e (?\u003cauthor\u003e[^:]+)§f: (?\u003cmessage\u003e.*)",
     "data.chat.player.global": "^(?:\\[(?\u003clevel\u003e\\d+)] )?(?\u003cauthor\u003e(?:[^ ] )?(?:(?:§.)?\\[[^\\]]+\\] )?[^ ]+?)(?\u003cchatColor\u003e§f|§7|): (?\u003cmessage\u003e.*)$",
     "data.chat.player.guild": "§2Guild \u003e (?\u003cauthor\u003e.+?) ?(?\u003cguildRank\u003e§e\\[\\w*])?§f: (?\u003cmessage\u003e.*)",
-    "data.chat.player.itemshow": "(?:§8\\[(?\u003clevelColor\u003e§.)(?\u003clevel\u003e\\d+)§8] )?(?\u003cauthor\u003e.*)§f§7 (?\u003caction\u003eis (?:holding|friends with a|wearing)|has) (?\u003citemName\u003e.*)",
+    "data.chat.player.itemshow": "(?:§8\\[(?\u003clevelColor\u003e§.)(?\u003clevel\u003e\\d+)§8] )?(?\u003cauthor\u003e.*)§.(?: §7♲)*?§7 (?\u003caction\u003eis (?:holding|friends with a|wearing)|has) (?\u003citemName\u003e.*)",
     "data.chat.player.name.emblem": "(?\u003cemblem\u003e(?:§.){0,2}.) (?\u003cauthor\u003e.*)",
     "data.chat.player.party": "§9Party §8\u003e (?\u003cauthor\u003e[^:]*)§f: (?\u003cmessage\u003e.*)",
     "data.chat.player.privateislandguest": "(?\u003cprefix\u003e.*)(?\u003cguest\u003e§a\\[✌] )(?\u003csuffix\u003e.*)",
