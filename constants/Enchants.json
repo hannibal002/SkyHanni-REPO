@@ -341,7 +341,7 @@
       "nbtName": "pesterminator",
       "goodLevel": 0,
       "maxLevel": 6,
-      "endpointItem": "PESTHUNTING_GUIDE"
+      "endpoint_item": "PESTHUNTING_GUIDE"
     },
     "piercing": {
       "loreName": "Piercing",
@@ -444,7 +444,7 @@
       "nbtName": "scavenger",
       "goodLevel": 3,
       "maxLevel": 6,
-      "endpointItem": "GOLDEN_BOUNTY"
+      "endpoint_item": "GOLDEN_BOUNTY"
     },
     "sharpness": {
       "loreName": "Sharpness",
