@@ -213,22 +213,22 @@
     "sea_creatures": {
       "Small Mithril Grubber": {
         "chat_message": "§aA leech of the mines surfaces... you've caught a Mithril Grubber.",
-        "fishing_experience": 25,
+        "fishing_experience": 245,
         "rarity": "UNCOMMON"
       },
       "Medium Mithril Grubber": {
         "chat_message": "§aA leech of the mines surfaces... you've caught a Medium Mithril Grubber.",
-        "fishing_experience": 25,
+        "fishing_experience": 245,
         "rarity": "UNCOMMON"
       },
       "Large Mithril Grubber": {
         "chat_message": "§aA leech of the mines surfaces... you've caught a Large Mithril Grubber.",
-        "fishing_experience": 25,
+        "fishing_experience": 245,
         "rarity": "UNCOMMON"
       },
       "Bloated Mithril Grubber": {
         "chat_message": "§aA leech of the mines surfaces... you've caught a Bloated Mithril Grubber.",
-        "fishing_experience": 25,
+        "fishing_experience": 245,
         "rarity": "UNCOMMON"
       }
     }
