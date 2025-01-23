@@ -42,6 +42,12 @@
         "Island check comparison with HypixelModAPI failed. Please report in discord."
       ],
       "fixed_in": "1.7.0"
+    },
+    {
+      "message_starts_with": [
+        "Error in Estimated Item Value renderer"
+      ],
+      "fixed_in": "1.7.0"
     }
   ]
 }
