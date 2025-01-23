@@ -30,6 +30,18 @@
         "Error in Hitman Time, PLEASE report this on discord"
       ],
       "fixed_in": "1.5.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in PestAPI at LorenzChatEvent: Can not remove nearest pest: No infested plots detected."
+      ],
+      "fixed_in": "1.7.0"
+    },
+    {
+      "message_starts_with": [
+        "Island check comparison with HypixelModAPI failed. Please report in discord."
+      ],
+      "fixed_in": "1.7.0"
     }
   ]
 }
