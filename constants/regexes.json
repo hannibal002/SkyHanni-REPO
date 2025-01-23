@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "0d4f11a",
+  "sourceLabel": "2a22db8",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1005,10 +1005,10 @@
     "misc.currentpet.inventory.selected": "§7§7Selected pet: (?\u003cpet\u003e.*)",
     "misc.draconicsacrifice.bonus": "§c§lBONUS LOOT! §r§eYou also received §r(?:§\\w(?\u003camount\u003e\\d+)?x)?(?: §r)?(?\u003citem\u003e.*) §r§efrom your sacrifice!",
     "misc.draconicsacrifice.sacrifice": "§c§lSACRIFICE! §r§eYou turned §r(?\u003citem\u003e.*) §r§einto §r§d(?\u003camount\u003e\\d+) Dragon Essence§r§e!",
+    "misc.eclock.boost.cooldown": "(?:§.)*On cooldown: (?\u003ccount\u003e[\\d,]+) (?\u003ctype\u003e[A-Za-z]+?)s?\\b",
+    "misc.eclock.boost.status": "§7Status: §(?\u003ccolor\u003e[a-f])§l(?\u003cstatus\u003e.+)",
     "misc.eclock.chat.boostused": "§6§lTIME WARP! §r§aYou have successfully warped time for your (?\u003cusagestring\u003e.+?)!",
-    "misc.eclock.inventory.cooldown": "(?:§.)*On cooldown: (?\u003ccount\u003e[\\d,]+) (?\u003ctype\u003e[A-Za-z]+?)s?\\b",
     "misc.eclock.inventory.name": "Enchanted Time Clock",
-    "misc.eclock.inventory.status": "§7Status: §(?\u003ccolor\u003e[a-f])§l(?\u003cstatus\u003e.+)",
     "misc.frogmask.description.active": "§7Today\u0027s region: (?\u003cregion\u003e.+)",
     "misc.ingametime.date": ".*(?:(?:Early|Late) )?(?:Winter|Spring|Summer|Autumn) [0-9]{1,2}(?:nd|rd|th|st)?.*",
     "misc.ingametime.symbols": "[☀☽࿇]",
