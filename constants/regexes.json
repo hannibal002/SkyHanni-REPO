@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6a31970",
+  "sourceLabel": "18fcadb",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1120,6 +1120,8 @@
     "rift.area.westvillage.vermintracker.fly": ".*§eYou vacuumed a §.*Fly.*",
     "rift.area.westvillage.vermintracker.silverfish": ".*§eYou vacuumed a §.*Silverfish.*",
     "rift.area.westvillage.vermintracker.spider": ".*§eYou vacuumed a §.*Spider.*",
+    "rift.colosseum.bacte.chat.name": "§a(?\u003cpreviousName\u003e.*) §r§eis growing into §r§a(?\u003cname\u003e.*)§r§e!",
+    "rift.colosseum.bacte.name": "§2﴾ §8\\[§7Lv\\d+§8\\] §l§a(?\u003cname\u003e.*)§r §.[\\d.,]+§f\\/§a[\\d.,]+§c❤ §2﴿",
     "rift.everywhere.burger": ".*(?:§\\w)+You have (?:§\\w)+(?\u003camount\u003e\\d) Grubber Stacks.*",
     "rift.everywhere.crux.progress": ".*(?\u003ctier\u003e§[0-9a-z][IV1-4-]+)\\s+(?\u003cname\u003e§[0-9a-z]\\w+)§[0-9a-z]:\\s*(?\u003cprogress\u003e§[0-9a-z](?:§[0-9a-z])?MAXED|§[0-9a-z]\\d+§[0-9a-z]/§[0-9a-z]\\d+).*",
     "rift.everywhere.motes.lifetime": "\\s+Lifetime Motes: §r§d(?\u003cmotes\u003e[\\d,.]+)",
