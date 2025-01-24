@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "c9fac1f",
+  "sourceLabel": "6a31970",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1054,6 +1054,8 @@
     "misc.trevor.start.dialogue": "\\[NPC] Trevor: You will have 10 minutes to find the mob from when you accept the task\\.",
     "misc.trevor.trapper": "\\[NPC] Trevor: You can find your (?\u003crarity\u003e.*) animal near the (?\u003clocation\u003e.*)\\.",
     "misc.trevor.zone": "Location: (?\u003czone\u003e.*)",
+    "misc.xp-in-inventory.exp-levels.0": "(?:§.)*(?\u003cxp\u003e\\d+) Exp Levels",
+    "misc.xp-in-inventory.exp-levels.1": "(?:§.)*Starting cost: §b(?\u003cxp\u003e\\d+) XP Levels",
     "mob.detection.displaynpc.name": "[a-z0-9]{10}",
     "mob.detection.filter.basic": "(?:\\[\\w+(?\u003clevel\u003e\\d+)\\] )?(?\u003ccorrupted\u003e.Corrupted )?(?\u003cname\u003e[^ᛤ]*)(?: ᛤ)? [\\dBMk.,❤]+",
     "mob.detection.filter.boss": "^. (?:\\[Lv(?\u003clevel\u003e\\d+)\\] )?(?\u003cname\u003e[^ᛤ\n]*?)(?: ᛤ)?(?: [\\d\\/BMk.,❤]+| █+)? .$",
