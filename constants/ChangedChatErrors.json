@@ -54,6 +54,12 @@
         "Caught a IllegalArgumentException in at.hannibal2.skyhanni.features.misc.EnchantedClockHelper.onInventoryOpen(at.hannibal2.skyhanni.events.InventoryOpenEvent) at InventoryFullyOpenedEvent: No group with name"
       ],
       "fixed_in": "1.7.0"
+    },
+    {
+      "message_starts_with": [
+        "Loaded 1 item not in a fishing category"
+      ],
+      "fixed_in": "1.8.0"
     }
   ]
 }
