@@ -5801,7 +5801,7 @@
   },
   "673": {
     "Position": "-135.0:76.0:113.0",
-    "Name": "Argofay Threebrother",
+    "Name": "Argofay Threebrother #1",
     "Tags": [
       "npc"
     ],
@@ -6412,7 +6412,7 @@
   },
   "753": {
     "Position": "-100.0:77.0:152.0",
-    "Name": "Argofay Threebrother",
+    "Name": "Argofay Threebrother #2",
     "Tags": [
       "npc",
       "dev"
@@ -11071,7 +11071,7 @@
   },
   "1337": {
     "Position": "-92.0:77.0:108.0",
-    "Name": "Argofay Threebrother",
+    "Name": "Argofay Threebrother #3",
     "Tags": [
       "dev",
       "npc"
