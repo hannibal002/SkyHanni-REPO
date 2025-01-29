@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "983df22",
+  "sourceLabel": "41c02e8",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -472,7 +472,7 @@
     "features.gui.customscoreboard.scoreboard.misc.redstone": "\\s*(?:§.)*⚡ §cRedstone: (?:§.)*\\d+%",
     "features.gui.customscoreboard.scoreboard.misc.thirdobjectiveline": "§eProtect Elle §7\\(§.\\d+%§7\\)|\\s*§.\\(§.\\w+§.\\/§.\\w+§.\\)|§f Mages.*|§f Barbarians.*|§edefeat Kuudra|§eand stun him|§.Fish \\d .*[fF]ish §.[✖✔]",
     "features.gui.customscoreboard.scoreboard.misc.visiting": "\\s*§a✌ §7\\(§.\\d+(?:§.)?/\\d+(?:§.)?\\)",
-    "features.gui.customscoreboard.scoreboard.misc.wtfarethoselines": "§eMine \\d+ .*|§eKill 100 Automatons|§eFind a Jungle Key|§eFind the \\d+ Missing Pieces?|§eTalk to the Goblin King",
+    "features.gui.customscoreboard.scoreboard.misc.wtfarethoselines": "§eMine \\d+ .*|§eKill 100 Automatons|§eFind a Jungle Key|§eFind the \\d+ Missing Pieces?|§eTalk to the Goblin King|§eBring items to Moby| Glowing Mushroom §8x\\d",
     "features.gui.customscoreboard.scoreboard.multiuse.autoclosing": "(?:§.)*Auto-closing in: §c(?:\\d+:)?\\d+",
     "features.gui.customscoreboard.scoreboard.multiuse.instanceshutdown": "(?:§.)*Instance Shutdown In: (?:§.)*(?\u003ctime\u003e(?:\\w+[ydhms] ?)+)",
     "features.gui.customscoreboard.scoreboard.multiuse.startingin": "(?:§.)*Starting in: §.(?:\\d+:)?\\d+",
