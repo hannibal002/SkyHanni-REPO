@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "41c02e8",
+  "sourceLabel": "bce4a48",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -292,7 +292,7 @@
     "enchanting.experiments.guardianpet": "§[956d]Guardian.*",
     "enchanting.experiments.inventories": "(?:Superpairs|Chronomatron|Ultrasequencer) (?:\\(.+\\)|➜ Stakes|Rewards)|Experimentation Table",
     "enchanting.experiments.powerups": "Gained \\+\\d Clicks?|Instant Find|\\+\\S* XP",
-    "enchanting.experiments.renew": "^☕ You renewed the experiment table! \\((?\u003ccurrent\u003e\\d)/3\\)$",
+    "enchanting.experiments.renew": "§d☕ §r§eYou bought a bonus charge for the Experimentation Table! §r§b\\((?\u003ccurrent\u003e\\d)/3\\)",
     "enchanting.experiments.rewards": "\\d{1,3}k Enchanting Exp|Enchanted Book|(?:Titanic |Grand |\\b)Experience Bottle|Metaphysical Serum|Experiment the Fish",
     "enchanting.experiments.superpairs": "Superpairs \\((?\u003cexperiment\u003e\\w+)\\)",
     "enchanting.experiments.ultrarare": "§d§kXX§5 ULTRA-RARE BOOK! §d§kXX",
