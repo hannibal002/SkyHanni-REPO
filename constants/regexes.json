@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "bce4a48",
+  "sourceLabel": "11a5ec8",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -119,6 +119,9 @@
     "data.bits.gui.famerankmenuname": "^Community Shop|Booster Cookie$",
     "data.bits.gui.famerankmenustack": "^§aCommunity Shop|§eFame Rank$",
     "data.bits.gui.mainmenustack": "^§6Booster Cookie$",
+    "data.bits.gui.museumguiname": "Your Museum",
+    "data.bits.gui.museummilestone": "(?:§.)*Milestone: §e(?\u003cmilestone\u003e\\d+)§6/§e30",
+    "data.bits.gui.museumrewardstack": "§6Museum Rewards",
     "data.bits.gui.sbmenufamerank": "§7Your rank: §e(?\u003crank\u003e.*)",
     "data.bits.gui.sbmenunocookieactive": " §7Status: §cNot active!",
     "data.bits.scoreboard": "^Bits: §b(?\u003camount\u003e[\\d,.]+).*$",
