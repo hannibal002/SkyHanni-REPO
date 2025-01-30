@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "11a5ec8",
+  "sourceLabel": "8a4e355",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1049,6 +1049,7 @@
     "misc.limbo.tooltip.hours": "§5§o§b(?\u003chours\u003e[\\d.,]+) hours.*$",
     "misc.limbo.tooltip.minutes": "§5§o§a(?\u003cminutes\u003e[\\d.,]+) minutes.*$",
     "misc.nongodpot.effects": "§7You have §e(?\u003cname\u003e\\d+) §7non-god effects\\.",
+    "misc.nongodpot.repellant": " Repellent: §r§[97a](?\u003ctier\u003e\\w+)?(?: §r§7\\((?\u003ctime\u003e\\d)s\\))?",
     "misc.patchercoords.coords": "(?\u003cplayerName\u003e.*): [xX]: (?\u003cx\u003e[0-9.-]+),? [yY]: (?\u003cy\u003e[0-9.-]+),? [zZ]: (?\u003cz\u003e[0-9.-]+(?: .*)?)",
     "misc.pet.item.name": "(?\u003cfavorite\u003e(?:§.)*⭐ )?(?:§.)*\\[Lvl (?\u003clevel\u003e\\d+)] (?\u003cname\u003e.*)",
     "misc.pet.item.name.neu.format": "(?:§f§f)?§7\\[Lvl (?:1➡(?:100|200)|\\{LVL})] (?\u003cname\u003e.*)",
