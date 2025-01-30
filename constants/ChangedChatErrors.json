@@ -10,7 +10,8 @@
       "affected_versions": [
         "0.27.Beta.15",
         "0.27.Beta.16"
-      ]
+      ],
+      "fixed_in": "1.0.0"
     },
     {
       "message_exact": [
@@ -21,7 +22,50 @@
       "custom_message": "Update your SkyHanni version to the beta so the Hoppity features work correctly, you can use /shupdate beta",
       "affected_versions": [
         "0.27"
-      ]
+      ],
+      "fixed_in": "1.0.0"
+    },
+    {
+      "message_starts_with": [
+        "Error in Hitman Time, PLEASE report this on discord"
+      ],
+      "fixed_in": "1.5.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in PestAPI at LorenzChatEvent: Can not remove nearest pest: No infested plots detected."
+      ],
+      "fixed_in": "1.7.0"
+    },
+    {
+      "message_starts_with": [
+        "Island check comparison with HypixelModAPI failed. Please report in discord."
+      ],
+      "fixed_in": "1.7.0"
+    },
+    {
+      "message_starts_with": [
+        "Error in Estimated Item Value renderer"
+      ],
+      "fixed_in": "1.7.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalArgumentException in at.hannibal2.skyhanni.features.misc.EnchantedClockHelper.onInventoryOpen(at.hannibal2.skyhanni.events.InventoryOpenEvent) at InventoryFullyOpenedEvent: No group with name"
+      ],
+      "fixed_in": "1.7.0"
+    },
+    {
+      "message_starts_with": [
+        "Loaded 1 item not in a fishing category"
+      ],
+      "fixed_in": "1.8.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.utils.ComputerTimeOffset.onDebug(at.hannibal2.skyhanni.events.DebugDataCollectEvent) at DebugDataCollectEvent: Title not set"
+      ],
+      "fixed_in": "1.9.0"
     }
   ]
 }

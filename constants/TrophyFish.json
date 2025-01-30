@@ -36,7 +36,7 @@
     "obfuscatedfish2": {
       "displayName": "§aObfuscated 2",
       "description": "§7Caught with §fObfuscated 1 §7bait.",
-      "rate": 25,
+      "rate": 20,
       "fillet": {
         "bronze": 40,
         "silver": 60,
@@ -112,8 +112,8 @@
     },
     "manaray": {
       "displayName": "§9Mana Ray",
-      "description": "§7Caught when you have at least §b1200 ✎ Mana§7.",
-      "rate": 4,
+      "description": "§7Caught when you have at least §b1200 ✎ Mana§7. The catch chance is your §b✎ Mana§7 divided by 1000 (e.g. 1.2% at §b1200 ✎ Mana§7).",
+      "rate": null,
       "fillet": {
         "bronze": 40,
         "silver": 60,
@@ -179,7 +179,7 @@
     "karatefish": {
       "displayName": "§5Karate Fish",
       "description": "§7Caught in the §eDojo§7.",
-      "rate": 1,
+      "rate": 2,
       "fillet": {
         "bronze": 40,
         "silver": 60,

@@ -227,6 +227,7 @@
   "rabbitHitmanIndex": 51,
   "maxRabbits": 503,
   "maxPrestige": 6,
+  "cf_shortcut_index": 16,
   "maxMilestoneChocolate": 700000000000,
   "chocolateMilestones": [
     50000000000,

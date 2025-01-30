@@ -208,6 +208,31 @@
       }
     }
   },
+  "ABANDONED_QUARRY": {
+    "chat_color": "§a",
+    "sea_creatures": {
+      "Small Mithril Grubber": {
+        "chat_message": "§aA leech of the mines surfaces... you've caught a Mithril Grubber.",
+        "fishing_experience": 245,
+        "rarity": "UNCOMMON"
+      },
+      "Medium Mithril Grubber": {
+        "chat_message": "§aA leech of the mines surfaces... you've caught a Medium Mithril Grubber.",
+        "fishing_experience": 245,
+        "rarity": "UNCOMMON"
+      },
+      "Large Mithril Grubber": {
+        "chat_message": "§aA leech of the mines surfaces... you've caught a Large Mithril Grubber.",
+        "fishing_experience": 245,
+        "rarity": "UNCOMMON"
+      },
+      "Bloated Mithril Grubber": {
+        "chat_message": "§aA leech of the mines surfaces... you've caught a Bloated Mithril Grubber.",
+        "fishing_experience": 245,
+        "rarity": "UNCOMMON"
+      }
+    }
+  },
   "MAGMA_FIELDS": {
     "chat_color": "§c",
     "sea_creatures": {
@@ -314,7 +339,7 @@
   "PLHLEGBLAST": {
     "chat_color": "§c",
     "sea_creatures": {
-      "Phlhlegblast": {
+      "Plhlegblast": {
         "chat_message": "§aWOAH! A Plhlegblast appeared.",
         "fishing_experience": 5000,
         "rarity": "COMMON",
