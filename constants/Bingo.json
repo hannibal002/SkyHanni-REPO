@@ -1,6 +1,6 @@
 {
   "bingo_tips": {
-    "Let The StarFall (Community Goal)": {
+    "Let the StarFall (Community Goal)": {
       "difficulty": "Medium",
       "note": [
         "Kill Team Treasurite members."
@@ -32,7 +32,7 @@
         "Scavenger 3+ applied to."
       ]
     },
-    "Essence of Dragons (Community Goal)": {
+    "Essence Of Dragons (Community Goal)": {
       "difficulty": "Easy",
       "note": [
         "Collect Dragon Essence"
@@ -195,7 +195,10 @@
         "750 Health"
       ],
       "guide": [
-        "Wear Ender Armor enchanted with Growth 5.",
+        "Wear Ender Armor enchanted with Growth 5",
+        "and wear it in The End.",
+        "You can also enchant Mushroom Armor like that",
+        "and wear it in The Garden.",
         "Growth 5 requires Enchanting Level 5",
         "and costs 50 Experience Levels per piece.",
         "Reforge your armor to Titanic if needed."
