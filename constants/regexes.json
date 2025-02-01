@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4558c66",
+  "sourceLabel": "e2a8e40",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -300,6 +300,8 @@
     "enchanting.experiments.superpairs": "Superpairs \\((?\u003cexperiment\u003e\\w+)\\)",
     "enchanting.experiments.ultrarare": "§d§kXX§5 ULTRA-RARE BOOK! §d§kXX",
     "enchanting.experiments.xpbottle": "(?:COLOSSAL_|TITANIC_|GRAND_|\\b)EXP_BOTTLE",
+    "event.anniversary-celebration.400.team-finder.player-color-nametag": ".* §(?\u003ccolor\u003e.)⛃.*",
+    "event.anniversary-celebration.400.team-finder.player-full-message": "This person has had too much cake today!",
     "event.carnival.goals.chat.catch.a.fish.play": "(§8 - §r)?§7Play §r§a3 games §r§7of §r§3Catch a Fish§r§7.",
     "event.carnival.goals.chat.catch.a.fish.score": "(§8 - §r)?§7Reach §r§a3,000 score §r§7in a single game of §r§3Catch a Fish§r§7.",
     "event.carnival.goals.chat.catch.fish": "(§8 - §r)?§7Catch §r§a30 Fish §r§7in a single game of §r§3Catch a Fish§r§7.",
