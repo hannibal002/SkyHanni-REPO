@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6e176ae",
+  "sourceLabel": "a3f8ad8",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -459,7 +459,7 @@
     "features.gui.customscoreboard.scoreboard.mining.windcompass": "§9Wind Compass",
     "features.gui.customscoreboard.scoreboard.mining.windcompassarrow": "\\s*(?:§.|[⋖⋗≈])+\\s*(?:§.|[⋖⋗≈])*\\s*",
     "features.gui.customscoreboard.scoreboard.mining.yourgoblin": "Your kills: §c\\d+ ☠(?: §a\\(\\+\\d+\\))?",
-    "features.gui.customscoreboard.scoreboard.misc.anniversary": "§d\\d+(?:st|nd|rd|th) Anniversary§f (?:\\d|:)+",
+    "features.gui.customscoreboard.scoreboard.misc.anniversary": "(?:§d\\d+(?:st|nd|rd|th) Anniversary|§bCentury Raffle)§f (?:\\d|:)+",
     "features.gui.customscoreboard.scoreboard.misc.darkauction.currentitem": "Current Item:",
     "features.gui.customscoreboard.scoreboard.misc.dojochallenge": "(?:§.)*Challenge: (?:§.)*(?\u003cchallenge\u003e.+)",
     "features.gui.customscoreboard.scoreboard.misc.dojodifficulty": "(?:§.)*Difficulty: (?:§.)*(?\u003cdifficulty\u003e.+)",
