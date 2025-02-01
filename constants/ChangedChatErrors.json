@@ -66,6 +66,12 @@
         "Caught a IllegalStateException in at.hannibal2.skyhanni.utils.ComputerTimeOffset.onDebug(at.hannibal2.skyhanni.events.DebugDataCollectEvent) at DebugDataCollectEvent: Title not set"
       ],
       "fixed_in": "1.9.0"
+    },
+    {
+      "message_starts_with": [
+        "CustomScoreboard detected a unknown line: 'Century Raffle"
+      ],
+      "fixed_in": "1.10.0"
     }
   ]
 }
