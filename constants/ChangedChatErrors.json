@@ -72,6 +72,13 @@
         "CustomScoreboard detected a unknown line: 'Century Raffle"
       ],
       "fixed_in": "1.10.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in BazaarCancelledBuyOrderClipboard at LorenzChatEvent: last clicked bz item is null"
+      ],
+      "custom_message": "Cancelled Buy Order Clipboard doesnt worth with Soopy's SBMENU setting. Please disable one of both. If you do not use this feature, please report it on SkyHanni discord!",
+      "fixed_in": "1.11.0"
     }
   ]
 }
