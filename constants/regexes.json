@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "78753cb",
+  "sourceLabel": "4558c66",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1155,6 +1155,8 @@
     "skyblockguide.highlight.abiphone.inventory": "Miscellaneous ➜ Abiphone Contac",
     "skyblockguide.highlight.bank.inventory": "Core ➜ Bank Upgrades",
     "skyblockguide.highlight.belt.inventory": "Miscellaneous ➜ The Dojo",
+    "skyblockguide.highlight.century.condition": "§c§lINCOMPLETE",
+    "skyblockguide.highlight.century.inventory": "Daily Tasks",
     "skyblockguide.highlight.collections.condition": "§7Progress to .*|§7Find this item to add it to your|§7Kill this boss once to view collection|§7(?:Boss )?Collections (?:Unlocked|Maxed Out): §e.*",
     "skyblockguide.highlight.collections.inventory": "\\w+ Collections|Collections",
     "skyblockguide.highlight.condition.category": "§7Progress to Complete Category: §6\\d{1,2}(?:\\.\\d)?%",
