@@ -456,6 +456,12 @@
       "goodLevel": 1,
       "maxLevel": 1
     },
+    "small brain": {
+      "loreName": "Small Brain",
+      "nbtName": "small_brain",
+      "goodLevel": 2,
+      "maxLevel": 5
+    },
     "smarty pants": {
       "loreName": "Smarty Pants",
       "nbtName": "smarty_pants",
