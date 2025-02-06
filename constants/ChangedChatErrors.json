@@ -85,6 +85,12 @@
         "Unknown slice of cake color"
       ],
       "fixed_in": "1.1.0"
+    },
+    {
+      "message_starts_with": [
+        "TPS calculation got an error"
+      ],
+      "fixed_in": "1.12.0"
     }
   ]
 }
