@@ -1,0 +1,102 @@
+{
+  "islands": {
+    "PRIVATE_ISLAND": {
+      "name": "Private Island",
+      "api_name": "dynamic"
+    },
+    "PRIVATE_ISLAND_GUEST": {
+      "name": "Private Island Guest"
+    },
+    "THE_END": {
+      "name": "The End",
+      "api_name": "combat_3"
+    },
+    "KUUDRA_ARENA": {
+      "name": "Kuudra",
+      "api_name": "kuudra",
+      "max_players": 4
+    },
+    "CRIMSON_ISLE": {
+      "name": "Crimson Isle",
+      "api_name": "crimson_isle"
+    },
+    "DWARVEN_MINES": {
+      "name": "Dwarven Mines",
+      "api_name": "mining_3"
+    },
+    "DUNGEON_HUB": {
+      "name": "Dungeon Hub",
+      "api_name": "dungeon_hub"
+    },
+    "CATACOMBS": {
+      "name": "Catacombs",
+      "api_name": "dungeon",
+      "max_players": 5
+    },
+    "HUB": {
+      "name": "Hub",
+      "api_name": "hub",
+      "max_players": 26
+    },
+    "DARK_AUCTION": {
+      "name": "Dark Auction",
+      "api_name": "dark_auction",
+      "max_players": 30
+    },
+    "THE_FARMING_ISLANDS": {
+      "name": "The Farming Islands",
+      "api_name": "farming_1"
+    },
+    "CRYSTAL_HOLLOWS": {
+      "name": "Crystal Hollows",
+      "api_name": "crystal_hollows"
+    },
+    "THE_PARK": {
+      "name": "The Park",
+      "api_name": "foraging_1"
+    },
+    "DEEP_CAVERNS": {
+      "name": "Deep Caverns",
+      "api_name": "mining_2"
+    },
+    "GOLD_MINES": {
+      "name": "Gold Mine",
+      "api_name": "mining_1"
+    },
+    "GARDEN": {
+      "name": "Garden",
+      "api_name": "garden"
+    },
+    "GARDEN_GUEST": {
+      "name": "Garden Guest"
+    },
+    "SPIDER_DEN": {
+      "name": "Spider's Den",
+      "api_name": "combat_1"
+    },
+    "WINTER": {
+      "name": "Jerry's Workshop",
+      "api_name": "winter"
+    },
+    "THE_RIFT": {
+      "name": "The Rift",
+      "api_name": "rift"
+    },
+    "MINESHAFT": {
+      "name": "Mineshaft",
+      "api_name": "mineshaft",
+      "max_players": 4
+    },
+    "NONE": {
+      "name": ""
+    },
+    "ANY": {
+      "name": ""
+    },
+    "UNKNOWN": {
+      "name": "???"
+    }
+  },
+  "max_players": 24,
+  "max_players_mega": 60
+}
