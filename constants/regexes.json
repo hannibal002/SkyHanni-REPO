@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "5d1596b",
+  "sourceLabel": "79af90b",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -949,6 +949,10 @@
     "minion.item.collect": "^§aCollect All$",
     "minion.items.upgrade": "§7§cYou need §6(?\u003camount\u003e\\d+) §cmore (?\u003citemName\u003e.+)\\.",
     "minion.title": "Minion [^➜]",
+    "misc.century-party-invitation.chat-message.party-add": "§aYou had already gained the bonus, so\\.\\.\\. at least everyone is now invited!",
+    "misc.century-party-invitation.item-lore.missing-color-line": "§8\\[.*\\] - \\[.*\\] §(?\u003ccolor\u003e.).*",
+    "misc.century-party-invitation.item-lore.missing-color-separator": "§7Level colors? missing:",
+    "misc.century-party-invitation.nametag.player-color": ".*\\[§(?\u003ccolor\u003e.).*\\] .*",
     "misc.chocolatefactory.barn.amount": "§7Your Barn: §.(?\u003crabbits\u003e\\d+)§7/§.(?\u003cmax\u003e\\d+) Rabbits",
     "misc.chocolatefactory.cf.inventory": "Hoppity\u0027s Collection|Chocolate (?:Factory|Shop) Milestones|Rabbit Hitman",
     "misc.chocolatefactory.chocolate.alltime": "§7All-time Chocolate: §6(?\u003camount\u003e[\\d,]+)",
