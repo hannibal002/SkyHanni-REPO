@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2fb3c96",
+  "sourceLabel": "5be5ecc",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -770,6 +770,7 @@
     "itempickuplog.banneditems.4": "ELLE_SUPPLIES",
     "itempickuplog.banneditems.5": "ELLE_FUEL_CELL",
     "itempickuplog.shoppattern": "^(?\u003citemName\u003e.+?)(?: x\\d+)?$",
+    "jerry.highlight": "(?\u003ccolor\u003e\\w+) Jerry",
     "mayorapi.calendar.gui": "Calendar and Events",
     "mayorapi.election.over": "§eThe election room is now closed\\. Clerk Seraphine is doing a final count of the votes\\.\\.\\.",
     "mayorapi.foxy.extraevent": "Schedules an extra §.(?\u003cevent\u003e.*) §.event during the year\\.",
