@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "5be5ecc",
+  "sourceLabel": "55da225",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -298,7 +298,7 @@
     "enchanting.experiments.guardianpet": "§[956d]Guardian.*",
     "enchanting.experiments.inventories": "(?:Superpairs|Chronomatron|Ultrasequencer) (?:\\(.+\\)|➜ Stakes|Rewards)|Experimentation Table",
     "enchanting.experiments.powerups": "Gained \\+\\d Clicks?|Instant Find|\\+\\S* XP",
-    "enchanting.experiments.renew": "§d☕ §r§eYou bought a bonus charge for the Experimentation Table! §r§b\\((?\u003ccurrent\u003e\\d)/3\\)",
+    "enchanting.experiments.renew": "☕ You bought a bonus charge for the Experimentation Table! \\((?\u003ccurrent\u003e\\d)/3\\)",
     "enchanting.experiments.rewards": "\\d{1,3}k Enchanting Exp|Enchanted Book|(?:Titanic |Grand |\\b)Experience Bottle|Metaphysical Serum|Experiment the Fish",
     "enchanting.experiments.superpairs": "Superpairs \\((?\u003cexperiment\u003e\\w+)\\)",
     "enchanting.experiments.ultrarare": "§d§kXX§5 ULTRA-RARE BOOK! §d§kXX",
@@ -1136,6 +1136,9 @@
     "replace.roman.numerals.allowed.patterns.11": ".*Heart of the Mountain (?\u003croman\u003e[IVXLCDM]+) ?.*",
     "replace.roman.numerals.string.isselectoption": "§eSelect an option: .*",
     "rift.area.dreadfarm.buttons.hit": "§eYou have hit §r§b\\d+/56 §r§eof the wooden buttons!",
+    "rift.area.mountaintop.sun-gecko.actionbar": "(?\u003cfirstHalf\u003e§[ac]\\[.*) §e§lx(?\u003ccombo\u003e\\d+) (?\u003csecondHalf\u003e§[ac].*)]",
+    "rift.area.mountaintop.sun-gecko.chatline": "§6§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+    "rift.area.mountaintop.sun-gecko.modifiers": "§f {27}§r§c§lACTIVE MODIFIERS!",
     "rift.area.stillgore.effegies.break": "§eBreak it!",
     "rift.area.stillgore.effegies.heart": "Effigies: (?\u003chearts\u003e(?:(?:§[7c])?⧯)*)",
     "rift.area.stillgore.effegies.respawn": "§eRespawn §c(?\u003ctime\u003e.*) §7\\(or click!\\)",
