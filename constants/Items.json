@@ -53,12 +53,15 @@
     "infinite_quiver": 0.03
   },
   "book_bundle_amount": {
-    "vicious": 5,
     "big_brain": 5,
-    "reflection": 3,
+    "pristine": 5,
     "quantum": 1,
+    "rainbow": 1,
+    "reflection": 3,
+    "small_brain": 1,
+    "ultimate_chimera": 1,
     "ultimate_the_one": 1,
-    "rainbow": 1
+    "vicious": 5
   },
   "value_calculation_data": {
     "always_active_enchants": {
