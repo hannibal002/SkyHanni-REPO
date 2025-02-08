@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "d1e47b1",
+  "sourceLabel": "750e22c",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1100,7 +1100,7 @@
     "mob.detection.filter.dungeon": "^(?:(?\u003cstar\u003e✯)\\s)?(?:(?\u003cattribute\u003eFlaming|Stormy|Speedy|Fortified|Healthy|Healing|Boomer|Golden|Stealth)\\s)?(?:\\[[\\w\\d]+\\]\\s)?(?\u003cname\u003e[^ᛤ]+)(?: ᛤ)?\\s[^\\s]+$",
     "mob.detection.filter.slayer": "^. (?\u003cname\u003e.*) (?\u003ctier\u003e[IV]+) \\d+.*",
     "mob.detection.filter.summon": "^(?\u003cowner\u003e\\w+)\u0027s (?\u003cname\u003e.*) \\d+.*",
-    "mob.detection.jerry": "(?:\\[\\w+(?\u003clevel\u003e\\d+)\\] )?(?\u003cowner\u003e\\w+)\u0027s (?\u003cname\u003e\\w+ Jerry) \\d+ Hits",
+    "mob.detection.jerry": "(?:\\[\\w+(?\u003clevel\u003e\\d+)\\] )?(?:(?:a(?\u003da ))?(?\u003cowner\u003e\\w+)\u0027s (?\u003cname\u003e\\w+ Jerrya?)) \\d+ Hits",
     "mob.detection.pattern.dungeon.woke.golem": "(?:§c§lWoke|§5§lSleeping) Golem§r",
     "mob.detection.pattern.heavypearl.collect": "§.§lCOLLECT!",
     "mob.detection.pattern.jerry.magma.cube": "§c(?:Cubie|Maggie|Cubert|Cübe|Cubette|Magmalene|Lucky 7|8ball|Mega Cube|Super Cube)(?: ᛤ)? §a\\d+§8\\/§a\\d+§c❤",
