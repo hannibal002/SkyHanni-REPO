@@ -24,7 +24,9 @@
       "DYE_AQUAMARINE",
       "SULPHUR_ORE",
       "CORRUPTED_FRAGMENT",
-      "DYE_FLAME"
+      "DYE_FLAME",
+      "BOUNCY_BEACH_BALL",
+      "GIANT_BOUNCY_BEACH_BALL"
     ],
     "Water": [
       "FAIRY_HELMET",
