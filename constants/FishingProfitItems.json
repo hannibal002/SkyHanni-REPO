@@ -24,9 +24,7 @@
       "DYE_AQUAMARINE",
       "SULPHUR_ORE",
       "CORRUPTED_FRAGMENT",
-      "DYE_FLAME",
-      "BOUNCY_BEACH_BALL",
-      "GIANT_BOUNCY_BEACH_BALL"
+      "DYE_FLAME"
     ],
     "Water": [
       "FAIRY_HELMET",
@@ -117,7 +115,9 @@
       "SQUID;3",
       "SQUID;4",
       "DYE_NADESHIKO",
-      "DYE_BONE"
+      "DYE_BONE",
+      "BOUNCY_BEACH_BALL",
+      "GIANT_BOUNCY_BEACH_BALL"
     ],
     "Lava": [
       "MAGMA_FISH",
