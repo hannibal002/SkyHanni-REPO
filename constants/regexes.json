@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "750e22c",
+  "sourceLabel": "1dfefbe",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1423,8 +1423,8 @@
     "tab.widget.setting.sub": "§eClick to .*",
     "tablist.firesaletitle": "§.§lFire Sales: §r§f\\([0-9]+\\)",
     "test.bestiary.type": "\\[Lv(?\u003clvl\u003e.*)] (?\u003ctext\u003e.*)",
-    "test.dev.copyrng.dungeon": "§7Dungeon Score: §d.*§5/§d(?\u003cxp\u003e.*)",
-    "test.dev.copyrng.slayer": "§7Slayer XP: §d.*§5/§d(?\u003cxp\u003e.*)",
+    "test.dev.copyrng.dungeon": "§7§7Dungeon Score: §d.*§5/§d(?\u003cxp\u003e.*)",
+    "test.dev.copyrng.slayer": "§7§7Slayer XP: §d.*§5/§d(?\u003cxp\u003e.*)",
     "thunderbottle.charged": "§e\u003e Your bottle of thunder has fully charged!",
     "utils.inventory.shopoptions": "Shop Trading Options",
     "utils.inventory.skyblockmenu": "SkyBlock Menu",
