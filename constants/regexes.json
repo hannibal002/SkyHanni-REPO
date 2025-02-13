@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1dfefbe",
+  "sourceLabel": "ff4a460",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -379,6 +379,7 @@
     "event.winter.uniquegifts.gifted": "§6\\+1 Unique Gift given! To (?\u003cplayer\u003e[^§]+)§r§6!",
     "event.winter.uniquegifts.giftname": "(?:WHITE|RED|GREEN)_GIFT$",
     "event.winter.uniqugifts.counter.amount": "§7Unique Players Gifted: §a(?\u003camount\u003e.*)",
+    "event.year-of-the-seal.fishy-treat.coins": "§6(?\u003ccoins\u003e.*) Coins",
     "excavator.dirt.name": "§6Dirt",
     "fame.projects.completed": "§aProject is (?:being built|released)!",
     "fame.projects.contribute": "§7Contribute again: §e(?\u003ctime\u003e.*)",
