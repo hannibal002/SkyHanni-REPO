@@ -1,0 +1,78 @@
+{
+    "main_table": {
+        "TWILIGHT_ARROW_POISON":{
+            "xp_needed": 3300,
+            "weight": 1800
+        },
+        "SUMMONING_EYE": {
+            "xp_needed": 74250,
+            "weight": 80
+        },
+        "MANA_STEAL;1": {
+            "xp_needed": 11183,
+            "weight": 600
+        },
+        "TRANSMISSION_TUNER": {
+            "xp_needed": 22366,
+            "weight": 300
+        },
+        "NULL_ATOM": {
+            "xp_needed": 10120,
+            "weight": 700
+        },
+        "HAZMAT_ENDERMAN": {
+            "xp_needed": 32202,
+            "weight": 200
+        },
+        "POCKET_ESPRESSO_MACHINE": {
+            "xp_needed": 128809,
+            "weight": 55
+        },
+        "SMARTY_PANTS;1": {
+            "xp_needed": 28338,
+            "weight": 250
+        },
+        "HANDY_BLOOD_CHALICE": {
+            "xp_needed": 283380,
+            "weight": 25
+        },
+        "SINFUL_DICE": {
+            "xp_needed": 108992,
+            "weight": 65
+        },
+        "EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER": {
+            "xp_needed": 1771125,
+            "weight": 4
+        },
+        "ETHERWARP_MERGER": {
+            "xp_needed": 118075,
+            "weight": 60
+        },
+        "JUDGEMENT_CORE": {
+            "xp_needed": 885562,
+            "weight": 8
+        },
+        "ENDER_SLAYER;7": {
+            "xp_needed": 3542250,
+            "weight": 2
+        }
+    },
+    "extra_table": {
+        "ENDERSNAKE_RUNE;1": {
+            "xp_needed": 9438,
+            "weight": 800
+        },
+        "DRAGON_RUNE;1": {
+            "xp_needed": 75505,
+            "weight": 100
+        },
+        "PET_SKIN_ENDERMAN_SLAYER": {
+            "xp_needed": 302020,
+            "weight": 25
+        },
+        "ENCHANT_RUNE;1": {
+            "xp_needed": 1078642,
+            "weight": 7
+        }
+    }
+}
