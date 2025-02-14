@@ -1,5 +1,5 @@
 {
-    "disabledBazaar": false,
-    "disabledMoulberryLowestBin": false,
-    "disabledNpcPrices": false
+    "disabled_bazaar": false,
+    "disabled_moulberry_lowest_bin": false,
+    "disabled_npc_prices": false
 }
