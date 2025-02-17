@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9970d98",
+  "sourceLabel": "370e534",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -298,6 +298,7 @@
     "enchanting.experiments.claim": "You claimed the \\S+ rewards!",
     "enchanting.experiments.clicks": "Remaining Clicks: (?\u003cclicks\u003e\\d+)",
     "enchanting.experiments.drop": "^ \\+(?\u003creward\u003e.*)$",
+    "enchanting.experiments.enchantingxp": "§3(?\u003cxp\u003e[\\d.]+)k Enchanting Exp",
     "enchanting.experiments.exp": "(?\u003camount\u003e\\d+|\\d+,\\d+)k? Enchanting Exp",
     "enchanting.experiments.guardianpet": "§[956d]Guardian.*",
     "enchanting.experiments.inventories": "(?:Superpairs|Chronomatron|Ultrasequencer) (?:\\(.+\\)|➜ Stakes|Rewards)|Experimentation Table",
