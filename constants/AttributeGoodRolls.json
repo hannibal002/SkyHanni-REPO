@@ -89,7 +89,7 @@
       ]
     },
     "Magma Lord Armor": {
-      "regex": "MAGMA_LORD_(?:HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
+      "regex": "MAGMA_LORD_(?:HELMET|CHESTPLATE|LEGGINGS|BOOTS|GAUNTLET)",
       "list": [
         [
           "fishing_experience",
@@ -106,6 +106,10 @@
         [
           "mana_pool",
           "fishing_experience"
+        ],
+        [
+          "mana_pool",
+          "mana_regeneration"
         ]
       ]
     },
