@@ -41,7 +41,13 @@
       "message_starts_with": [
         "Island check comparison with HypixelModAPI failed. Please report in discord."
       ],
-      "fixed_in": "1.11.0"
+      "fixed_in": "1.99.0"
+    },
+    {
+      "message_starts_with": [
+        "ServerId check comparison with HypixelModAPI failed. Please report in discord."
+      ],
+      "fixed_in": "1.99.0"
     },
     {
       "message_starts_with": [
