@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "370e534",
+  "sourceLabel": "9065e86",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -957,7 +957,7 @@
     "misc.century-party-invitation.item-lore.missing-color-separator": "§7Level colors? missing:",
     "misc.century-party-invitation.nametag.player-color": ".*\\[§(?\u003ccolor\u003e.).*\\] .*",
     "misc.chocolatefactory.barn.amount": "§7Your Barn: §.(?\u003crabbits\u003e\\d+)§7/§.(?\u003cmax\u003e\\d+) Rabbits",
-    "misc.chocolatefactory.cf.inventory": "Hoppity\u0027s Collection|Chocolate (?:Factory|Shop) Milestones|Rabbit Hitman",
+    "misc.chocolatefactory.cf.inventory": "(?:\\(\\d*\\/\\d*\\) )?Hoppity\u0027s Collection|Chocolate (?:Factory|Shop) Milestones|Rabbit Hitman",
     "misc.chocolatefactory.chocolate.alltime": "§7All-time Chocolate: §6(?\u003camount\u003e[\\d,]+)",
     "misc.chocolatefactory.chocolate.amount": "(?\u003camount\u003e[\\d,]+) Chocolate",
     "misc.chocolatefactory.chocolate.forprestige": "§7§cRequires (?\u003camount\u003e\\w+) Chocolate this.*",
