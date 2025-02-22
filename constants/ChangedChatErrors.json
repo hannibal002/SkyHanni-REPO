@@ -53,7 +53,7 @@
       "message_starts_with": [
         "HypixelData check comparison with HypixelModAPI failed. Please report in discord."
       ],
-      "fixed_in": "1.18.0"
+      "fixed_in": "9.9.9"
     },
     {
       "message_starts_with": [
