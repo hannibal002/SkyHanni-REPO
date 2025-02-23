@@ -106,6 +106,35 @@
         [
           "mana_pool",
           "fishing_experience"
+        ],
+        [
+          "mana_pool",
+          "mana_regeneration"
+        ]
+      ]
+    },
+    "Magma Lord Gauntlet": {
+      "regex": "MAGMA_LORD_GAUNTLET",
+      "list": [
+        [
+          "fishing_experience",
+          "blazing_fortune"
+        ],
+        [
+          "fishing_experience",
+          "magic_find"
+        ],
+        [
+          "blazing_fortune",
+          "magic_find"
+        ],
+        [
+          "mana_pool",
+          "fishing_experience"
+        ],
+        [
+          "lifeline",
+          "mana_pool"
         ]
       ]
     },
