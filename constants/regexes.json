@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "565875a",
+  "sourceLabel": "08f2ea7",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -727,7 +727,6 @@
     "inventory.item.overlay.bestiarystack": "§7Progress to Tier (?\u003ctier\u003e[\\dIVXC]+): §b[\\d.]+%",
     "inventory.item.overlay.bingogoalrank": "(?:§.)*You were the (?:§.)*(?\u003crank\u003e\\w+)(?\u003cordinal\u003est|nd|rd|th) (?:§.)*to",
     "inventory.item.overlay.dungeonpotion": "Dungeon (?\u003clevel\u003e.*) Potion(?: x1)?",
-    "inventory.item.overlay.enchantingexp": "(?\u003cexp\u003e.*)k Enchanting Exp",
     "inventory.item.overlay.glacitepowder": "Glacite Powder x(?\u003camount\u003e.*)",
     "inventory.item.overlay.harvest": "§7§7You may harvest §6(?\u003camount\u003e.).*",
     "inventory.item.overlay.masterskull.id": "MASTER_SKULL_TIER_(?\u003ctier\u003e\\d)",
