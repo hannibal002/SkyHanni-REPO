@@ -1,0 +1,96 @@
+{
+    "main_table": {
+        "TWILIGHT_ARROW_POISON":{
+            "xp_needed": 3300,
+            "weight": 1800,
+            "magic_find": false
+        },
+        "SUMMONING_EYE": {
+            "xp_needed": 74250,
+            "weight": 80,
+            "magic_find": true
+        },
+        "MANA_STEAL;1": {
+            "xp_needed": 11183,
+            "weight": 600,
+            "magic_find": true
+        },
+        "TRANSMISSION_TUNER": {
+            "xp_needed": 22366,
+            "weight": 300,
+            "magic_find": true
+        },
+        "NULL_ATOM": {
+            "xp_needed": 10120,
+            "weight": 700,
+            "magic_find": true
+        },
+        "HAZMAT_ENDERMAN": {
+            "xp_needed": 32202,
+            "weight": 200,
+            "magic_find": true
+        },
+        "POCKET_ESPRESSO_MACHINE": {
+            "xp_needed": 128809,
+            "weight": 55,
+            "magic_find": true
+        },
+        "SMARTY_PANTS;1": {
+            "xp_needed": 28338,
+            "weight": 250,
+            "magic_find": true
+        },
+        "HANDY_BLOOD_CHALICE": {
+            "xp_needed": 283380,
+            "weight": 25,
+            "magic_find": true
+        },
+        "SINFUL_DICE": {
+            "xp_needed": 108992,
+            "weight": 65,
+            "magic_find": true
+        },
+        "EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER": {
+            "xp_needed": 1771125,
+            "weight": 4,
+            "magic_find": true
+        },
+        "ETHERWARP_MERGER": {
+            "xp_needed": 118075,
+            "weight": 60,
+            "magic_find": true
+        },
+        "JUDGEMENT_CORE": {
+            "xp_needed": 885562,
+            "weight": 8,
+            "magic_find": true
+        },
+        "ENDER_SLAYER;7": {
+            "xp_needed": 3542250,
+            "weight": 2,
+            "magic_find": true
+        }
+    },
+    "extra_table": {
+        "ENDERSNAKE_RUNE;1": {
+            "xp_needed": 9438,
+            "weight": 800,
+            "magic_find": false
+        },
+        "DRAGON_RUNE;1": {
+            "xp_needed": 75505,
+            "weight": 100,
+            "magic_find": true
+        },
+        "PET_SKIN_ENDERMAN_SLAYER": {
+            "xp_needed": 302020,
+            "weight": 25,
+            "magic_find": true
+        },
+        "ENCHANT_RUNE;1": {
+            "xp_needed": 1078642,
+            "weight": 7,
+            "magic_find": true
+        }
+    }
+}
