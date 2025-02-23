@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9065e86",
+  "sourceLabel": "565875a",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1121,7 +1121,7 @@
     "rabbit.requirement.factory": "§6Factory Milestones§7.",
     "rabbit.requirement.shop": "§6Shop Milestones§7.",
     "rabbit.requirement.stray": "(?:§.)+Obtained by finding a §6Golden Stray",
-    "raredrop.enchantedbook": "(?\u003cstart\u003e(?:§.)+RARE DROP!) (?\u003ccolor\u003e(?:§.)*)Enchanted Book (?\u003cend\u003e§r§b\\([+](?:§.)*(?\u003cmf\u003e\\d*)% §r§b✯ Magic Find§r§b\\)).*",
+    "raredrop.enchantedbook": "(?\u003cstart\u003e(?:§.)+RARE DROP!) (?\u003ccolor\u003e(?:§.)*)Enchanted Book(?\u003cend\u003e §r§b\\([+](?:§.)*(?\u003cmf\u003e\\d*)% §r§b✯ Magic Find§r§b\\))?.*",
     "raredrop.pet.claimedmessage": "(?\u003cstart\u003e(?:§.)*You claimed a )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*You can manage your Pets.*)",
     "raredrop.pet.droppedmessage": "(?\u003cstart\u003e(?:§.)*PET DROP! )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e .*)",
     "raredrop.pet.fishedmessage": "(?\u003cstart\u003e(?:§.)*GREAT CATCH! (?:§.)*You found a (?:§.)*\\[Lvl 1] )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*)",
