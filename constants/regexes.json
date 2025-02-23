@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "08f2ea7",
+  "sourceLabel": "5324531",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -22,7 +22,6 @@
     "bazaar.cancelledorder.cancelledmessage": "§6\\[Bazaar] §r§7§r§cCancelled! §r§7Refunded §r§6(?\u003ccoins\u003e.*) coins §r§7from cancelling Buy Order!",
     "bazaar.cancelledorder.inventorytitle": "Order options",
     "bazaar.cancelledorder.lastamount": "(?:§6coins §7from |§6§7from |§7)§a(?\u003camount\u003e.*)§7x §7missing items\\.",
-    "bazaar.cancelledorder.lastitemclicked": "§a§lBUY (?\u003cname\u003e.*)",
     "bazaar.orderhelper.filled": "§7Filled: §[a6].*§7/.* §a§l100%!",
     "bazaar.orderhelper.itemname": "§.§l(?\u003ctype\u003eBUY|SELL) (?\u003cname\u003e.*)",
     "bazaar.orderhelper.price": "§7Price per unit: §6(?\u003cnumber\u003e.*) coins",
