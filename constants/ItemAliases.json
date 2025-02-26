@@ -1,5 +1,5 @@
 {
-	"global":[
+	"global":{
 		"agaricus": "agaricus_cap",
 		"cacti": "cactus",
 		"caducous": "caducous_stem",
@@ -19,5 +19,5 @@
 		"seed": "seeds",
 		"wart": "nether_stalk",
 		"warts": "nether_stalk"
-	]
+	}
 }
