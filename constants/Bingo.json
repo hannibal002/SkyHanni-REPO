@@ -14,85 +14,81 @@
     "Skilled (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Gain Taming experience"
+        "Gain Farming experience"
       ],
       "guide": [
-        "You will gain passive progress in this",
-        "by having a pet equipped at all times.",
-        "Even a Lvl 100 pet counts for this."
+        "You will gain progress on this by going for",
+        "the farming collection goal. Garden Milestones",
+        "will be a decent help here."
       ]
     },
-    "Scavenger (Community Goal)": {
+    "Poseidon (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Gain coins from the Scavenger Enchantment"
+        "Summon Sea Creatures"
       ],
       "guide": [
-        "Kill mobs with a weapon that you have",
-        "Scavenger 3+ applied to."
+        "Use the best fishing rod, bait and armor that you",
+        "have access to and fish in The Park during rain.",
+        "Recommended is a Chum Rod with Angler Armor and Fish Bait."
       ]
     },
-    "Essence Of Dragons (Community Goal)": {
+    "Pet (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Collect Dragon Essence"
+        "Gain Pet XP"
       ],
       "guide": [
-        "To progress in this you can:",
-        "- Participate in Dragon Fights",
-        "- Salvage Ender Pieces at the Draconic Altar",
-        "- Kill Lost Adventurers",
-        "- Collect secrets in dungeons"
+        "To gain passively progress in this",
+        "you should have a pet equipped at all times.",
+        "Don't forget to use pet items that boost",
+        "their XP-gain. Things like Milestone Rewards",
+        "(Commission, Garden, Bestiary Milestones)",
+        "and Pet Candies will be a good help here."
       ]
     },
-    "Bait (Community Goal)": {
+    "KABOOM! (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Deposit Chum in Chum Buckets"
+        "Blow up crypts in dungeons"
       ],
       "guide": [
-        "For this you need to place down a Chum Bucket",
-        "while fishing. It's recommended to use a Chum Rod",
-        "as this will gain quicker progress.",
-        "Purchase it from Moby on the Desert Island.",
-        "§cDon't forget to actually deposit the Chum you fish ;)"
+        "For this you will need Combat 15.",
+        "To blow up crypts you can use",
+        "class abilities (Tank, Archer, Mage)",
+        "and/or Superboom TNTs that drop",
+        "from slaying Minibosses in dungeons",
+        "and can be bought from Walther in",
+        "The Deep Caverns or Ophelia in",
+        "The Dungeon Hub."
       ]
     },
-    "Trouble is Brewing...": {
+    "Rock Solid": {
       "difficulty": "Easy",
       "note": [
-        "Brew any t4 potion"
+        "Equip a Common+ Rock Pet"
       ],
       "guide": [
-        "Brew a Speed Potion by using either Enchanted Sugar",
-        "or an Enchanted Sugar Cane. If you use the Sugar, you'll",
-        "need to combine the brewed potion with a Glowstone.",
-        "You can get that Glowstone by buying one block",
-        "from the Builder and breaking it on your island.",
-        "You can get the Enchanted Sugar (Cane) from farming",
-        "Sugar Cane or killing pests in the Garden."
+        "You will get the Rock Pet by mining 2.5k",
+        "Ore Blocks. Keep in mind that Stone doesn't",
+        "count for this. Don't forget to equip the pet ;)"
       ]
     },
-    "Hot Trails": {
-      "difficulty": "Easy",
+    "An Axe To Grind": {
+      "difficulty": "Medium",
       "note": [
-        "Obtain a Campfire Cultist Badge I"
+        "10 Enchantments on a Raider Axe"
       ],
       "guide": [
-        "Visit the Campfire in The Park and do",
-        "the Trial of Fire. (140 dps over 10s)",
-        "You will need 160 Dark Oak and 1k Spruce",
-        "in the progress of this.",
-        "Enchant your Ender Armor with Growth 5",
-        "and if you still struggle, reforge it",
-        "to Titanic at the Blacksmith.",
-        "You can also use the Wand of Healing."
+        "Buy a Raider Axe for 130k coins",
+        "from the Melancholic Viking in The Park.",
+        "Remember: Level 1 Enchantments do count."
       ]
     },
     "Meiser": {
       "difficulty": "Easy",
       "note": [
-        "500k coins in the bank"
+        "250k coins in the bank"
       ],
       "guide": [
         "You will most likely get this from leveling up",
@@ -101,42 +97,47 @@
         "you get in the Bank :)"
       ]
     },
-    "Melon Collector": {
+    "Wooden Treasure": {
+      "difficulty": "Easy",
+      "note": [
+        "Open a Wooden Treasure Chest"
+      ],
+      "guide": [
+        "For this you will need Combat 15.",
+        "All you need to do for this is to",
+        "complete one Floor I in the Catacombs",
+        "and open the Free Chest at the end of it.",
+        "(will stay available at Croesus in the",
+        "Dungeon Hub for 48h in case you forget to",
+        "open it.) You will need a completion",
+        "of the previous floor."
+      ]
+    },
+    "Potatorific": {
       "difficulty": "Medium",
       "note": [
-        "250k Melon Collection"
+        "Craft a Hot Potato Book"
       ],
       "guide": [
         "For this you should utilize the Garden.",
-        "Melons will unlock at Garden Level 6.",
-        "Use the Gardening Axe and its upgrade once you",
-        "unlock Melons. You might want to save some copper",
-        "to enchant the axe with Sunder."
+        "Potato will unlock at Garden Level 3.",
+        "Use the Gardening Hoe and its upgrade for this.",
+        "The recipe will unlock at Potato Collection VIII",
+        "(craft with 3 paper and 1 Enchanted Baked Potato)"
       ]
     },
-    "Diversity": {
+    "Cocoa Beans Collector": {
       "difficulty": "Medium",
       "note": [
-        "40 unique Collections"
+        "185k Cocoa Beans collection"
       ],
       "guide": [
-        "You can unlock 17/17 Farming Collections,",
-        "6/11 Combat Collections, 6/6 Foraging Collections,",
-        "14/22 Mining Collections for a total of 43 collections.",
-        "You will also get some Fishing Collections."
-      ]
-    },
-    "Eagle-Eyed": {
-      "difficulty": "Easy",
-      "note": [
-        "Complete a timed Target Practice"
-      ],
-      "guide": [
-        "Talk to Jax in the Hub",
-        "under the Weaponsmith",
-        "and complete on of his challenges.",
-        "You should buy an Artisanal Shortbow",
-        "for this."
+        "Optimal tool:",
+        "Advanced Gardening Axe (25 copper)",
+        "Make a full plot of Cocoa Beans (16716 needed)",
+        "in The Garden (SkyBlock Level 5).",
+        "You will need Garden Level 8.",
+        "Get the Cocoa Beans to plant from The Desert Island."
       ]
     },
     "Warrior": {
@@ -154,60 +155,59 @@
         "Combat XP from Bestiary Miletones for this."
       ]
     },
-    "Experienced": {
-      "difficulty": "Medium",
-      "note": [
-        "Obtain a Grand Experience Bottle"
-      ],
-      "guide": [
-        "Can be made from Lapis Lazuli Collection 5 (10k),",
-        "a drop from fishing, from the Experimentation Table,",
-        "and dropped from Ender Nodes in the End (11-13% chance)."
-      ]
-    },
-    "Now We're In Business": {
+    "Pair Up!": {
       "difficulty": "Easy",
       "note": [
-        "Craft a Diamond Spreading"
+        "Find 3 pairs in the Experimentation Table"
       ],
       "guide": [
-        "This unlocks at 5k Diamond Collection. Use Pure Ores",
-        "in the Dwarven Mines for this. Craft it with",
-        "1 Enchanted Diamond and 8 Vines (costs 40 Jungle Leaves,",
-        "requires Jungle Wood Collection 4 to unlock it in /trades.)"
+        "Get Enchanting Level 10 and play",
+        "the first tier in the Experimentation Table",
+        "and get as many pairs as you can."
       ]
     },
-    "Setting a Trap": {
+    "Weird Flex": {
       "difficulty": "Medium",
       "note": [
-        "Kill a Trapper Animal"
+        "Gain 5 Strength from a Training Weight"
       ],
       "guide": [
-        "You should use SkyHanni's Trapper features",
-        "to make this easier. Use /warp trapper",
-        "to get back to Trevor whenever you want.",
-        "You will need a bow for this."
+        "For this you'll want to grab a Training Weight",
+        "from a secret in dungeons and keep it in your",
+        "inventory till it shows a Strength bonus of +5.",
+        "Drop it once it reached that point."
       ]
     },
-    "Healthy": {
-      "difficulty": "Easy",
+    "e=m²": {
+      "difficulty": "Medium",
       "note": [
-        "750 Health"
+        "Obtain a Mathematical Hoe Blueprint"
       ],
       "guide": [
-        "Wear Ender Armor enchanted with Growth 5",
-        "and wear it in The End.",
-        "You can also enchant Mushroom Armor like that",
-        "and wear it in The Garden.",
-        "Growth 5 requires Enchanting Level 5",
-        "and costs 50 Experience Levels per piece.",
-        "Reforge your armor to Titanic if needed."
+        "You can buy this for a Gold Medal and",
+        "32 Jacob's Tickets from Anita. To get the",
+        "Gold Medal, you'll need 8 Bronze Medals",
+        "or 4 Silver Medals from Jacob's Farming Contests.",
+        "You will need Farming 10 to participate.",
+        "Use the Garden and its pests to your advantage."
+      ]
+    },
+    "Rotten Flesh Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "47.5k Rotten Flesh Collection"
+      ],
+      "guide": [
+        "Kill Zombies in The Hub to unlock Zombie Minions.",
+        "Buy the daily Rotten Flesh from the Adventurer in The Hub",
+        "and place them on your island. Give them the best fuel",
+        "and storage that you have access to and collect in time."
       ]
     },
     "Collecting Data": {
       "difficulty": "Easy",
       "note": [
-        "Bestiary Milestone 3"
+        "Bestiary Milestone 5"
       ],
       "guide": [
         "You will most likely get this passively.",
@@ -215,44 +215,48 @@
         "Use /be ingame to view your progress once you did that."
       ]
     },
-    "Mutton Collector": {
+    "Commission Master": {
+      "difficulty": "Easy",
+      "note": [
+        "Complete 4 Commissions"
+      ],
+      "guide": [
+        "Do your daily commissions in the Dwarven Mines",
+        "(4 per day). You will need Mining 12 to go there.",
+        "Can also be completed in the Crystal Hollows,",
+        "though it might be harder to do so."
+      ]
+    },
+    "Carry-On": {
+      "difficulty": "Easy",
+      "note": [
+        "Craft a Small Backpack"
+      ],
+      "guide": [
+        "You'll unlock this recipe passively",
+        "(250 leather collection)",
+        "if you chose to do Exterminator in Barn.",
+        "Craft it with 80 Leather.",
+        "You can also use Cow Minions for this."
+      ]
+    },
+    "Raw Salmon Collector": {
       "difficulty": "Hard",
       "note": [
-        "50k Mutton Collection"
+        "9k Salmon Collection"
       ],
       "guide": [
-        "Kill Sheeps in the Desert Island (/warp desert)",
-        "place as many Sheep Minions as you can and",
-        "give them the best fuel and storage you have",
-        "access to. Remember to collect them in time."
-      ]
-    },
-    "Fairy Finder": {
-      "difficulty": "Easy",
-      "note": [
-        "25 Fairy Souls"
-      ],
-      "guide": [
-        "Grab the Fairy Souls you run across while",
-        "doing this Bingo. You can use NEU (/neusouls on)",
-        "or TimeDeo's Tutorials on YouTube for help."
-      ]
-    },
-    "Slaughterer": {
-      "difficulty": "Easy",
-      "note": [
-        "Kill a t2 Slayer Boss under 80s"
-      ],
-      "guide": [
-        "Recommended for this either Revenant Horror II",
-        "or Tarantula Broodfather II. Use your Ender Armor",
-        "and Void Sword (200k) for this."
+        "Fish in the Hub until you unlock Fishing Minions.",
+        "Buy the daily Raw Fish from the Fisherman in The Hub",
+        "and craft Fishing Minions. Place them on your island,",
+        "give them the best fuel and storage you have access",
+        "to and don't forget to collect in time."
       ]
     },
     "Powder Collector": {
       "difficulty": "Medium",
       "note": [
-        "50k Mithril Powder"
+        "25k Mithril Powder"
       ],
       "guide": [
         "Do commissions and events in The Dwarven Mines,",
@@ -266,56 +270,57 @@
         "in the Abandoned Quarry (Fishing 6)."
       ]
     },
-    "Pet Hoarder": {
-      "difficulty": "Easy",
-      "note": [
-        "3 unique pets"
-      ],
-      "guide": [
-        "§fNo eggs:",
-        "Dolphin, Bee, Grandma Wolf, Bingo, Rock, Owl,",
-        "Enderman, Tarantula and Oringo pets",
-        "§fEggs needed:",
-        "Jerry, Rabbit, Pig, Chicken, Bat, Silverfish",
-        "To get the Enchanted Eggs needed, kill Chickens",
-        "in The Barn till you get the Chicken Head recipe.",
-        "Once you get your first Enchanted Egg, put it into",
-        "one Chicken Minion to generate more of those over time."
-      ]
-    },
-    "Search And Rescue": {
-      "difficulty": "Easy",
-      "note": [
-        "Give Fetchur what he desires"
-      ],
-      "guide": [
-        "Use the wiki to figure out what Fetchur asks for.",
-        "You will need to get into Dwarven Mines to be",
-        "able to even talk to him."
-      ]
-    },
-    "Gemstone Collector": {
-      "difficulty": "Hard",
-      "note": [
-        "50k Gemstone Collection"
-      ],
-      "guide": [
-        "For this you'll want to open structure chests",
-        "in the Crystal Hollows, do a Nucleus Run",
-        "(you will need a Small Gemstone Sack for this to count)",
-        "or kill Worms/Scathas."
-      ]
-    },
-    "Cheetah": {
+    "Strange Eggs": {
       "difficulty": "Medium",
       "note": [
-        "Obtain a Cheetah Talisman"
+        "Spawn a Golden Goblin"
       ],
       "guide": [
-        "Talk to Guildford in the Dungeon Hub",
-        "and complete 4/4 objectives for 3 races.",
-        "Don't forget to talk to Guildford",
-        "after each run you do."
+        "Kill goblins or open loot chests in the Crystal Hollows,",
+        "then just throw them until you get a Golden Goblin.",
+        "Higher level eggs have higher chances of spawning,",
+        "but are also rarer to get."
+      ]
+    },
+    "Spider Queen": {
+      "difficulty": "Easy",
+      "note": [
+        "Summon Arachne"
+      ],
+      "guide": [
+        "For this you'll need to kill 1+ Arachne's Keepers",
+        "(/warp arachne) and place the Calling in the Altar",
+        "there. To summon it, a total of 4 Callings are needed."
+      ]
+    },
+    "Minion Machine": {
+      "difficulty": "Easy",
+      "note": [
+        "15 unique Minions"
+      ],
+      "guide": [
+        "Craft some easy minions while also getting",
+        "those that will help with this Bingo."
+      ]
+    },
+    "Divan's Chance": {
+      "difficulty": "Hard",
+      "note": [
+        "Do a Nucleus Run"
+      ],
+      "guide": [
+        "For this you will need 1 of each of the following Crystals:",
+        "Amethyst: Jungle Key and Temple Run",
+        "     (the key can be obtained from Odawa as Garden Visitor,",
+        "      or be bought from her in the Crystal Hollows)",
+        "Jade: Divan Mines and find all the tools",
+        "Amber: Find King, give him 1 goblin egg and find the Queen",
+        "Sapphire Crystal: 6 Robot Parts , give them to Professor Robot",
+        "     (Electron Transmitter, FTX 3070, Robotron Reflector,",
+        "      Superlite Motor, Control Switch, Synthetic Heart)",
+        "Topaz: Kill the Bal and get the Crystal after it dies,",
+        "       you need to hit it at least once",
+        "§lFor all of this you will need HotM 4."
       ]
     }
   }
