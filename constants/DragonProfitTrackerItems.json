@@ -101,6 +101,9 @@
     },
     "DRAGON_NEST_TRAVEL_SCROLL": {
       "weight": 250
+    },
+    "ASPECT_OF_THE_DRAGON": {
+      "weight": 450
     }
   }
 }
