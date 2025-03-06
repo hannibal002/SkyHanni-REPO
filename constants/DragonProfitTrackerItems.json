@@ -1,0 +1,109 @@
+{
+  "items": {
+    "ENDER_DRAGON;3": {
+      "weight": 450
+    },
+    "ENDER_DRAGON;4": {
+      "weight": 450
+    },
+    "UNSTABLE_DRAGON_HELMET": {
+      "weight": 295
+    },
+    "OLD_DRAGON_HELMET": {
+    "weight": 295
+    },
+    "PROTECTOR_DRAGON_HELMET": {
+      "weight": 295
+    },
+    "YOUNG_DRAGON_HELMET": {
+      "weight": 295
+    },
+    "STRONG_DRAGON_HELMET": {
+      "weight": 295
+    },
+    "WISE_DRAGON_HELMET": {
+      "weight": 295
+    },
+    "SUPERIOR_DRAGON_HELMET": {
+      "weight": 295
+    },
+    "OLD_DRAGON_CHESTPLATE": {
+      "weight": 410
+    },
+    "PROTECTOR_DRAGON_CHESTPLATE": {
+      "weight": 410
+    },
+    "YOUNG_DRAGON_CHESTPLATE": {
+      "weight": 410
+    },
+    "STRONG_DRAGON_CHESTPLATE": {
+      "weight": 410
+    },
+    "WISE_DRAGON_CHESTPLATE": {
+      "weight": 410
+    },
+    "SUPERIOR_DRAGON_CHESTPLATE": {
+      "weight": 410
+    },
+    "UNSTABLE_DRAGON_CHESTPLATE": {
+      "weight": 410
+    },
+    "OLD_DRAGON_LEGGINGS": {
+      "weight": 360
+    },
+    "PROTECTOR_DRAGON_LEGGINGS": {
+      "weight": 360
+    },
+    "YOUNG_DRAGON_LEGGINGS": {
+      "weight": 360
+    },
+    "STRONG_DRAGON_LEGGINGS": {
+      "weight": 360
+    },
+    "WISE_DRAGON_LEGGINGS": {
+      "weight": 360
+    },
+    "SUPERIOR_DRAGON_LEGGINGS": {
+      "weight": 360
+    },
+    "UNSTABLE_DRAGON_LEGGINGS": {
+      "weight": 360
+    },
+    "OLD_DRAGON_BOOTS": {
+      "weight": 290
+    },
+    "PROTECTOR_DRAGON_BOOTS": {
+      "weight": 290
+    },
+    "YOUNG_DRAGON_BOOTS": {
+      "weight": 290
+    },
+    "STRONG_DRAGON_BOOTS": {
+      "weight": 290
+    },
+    "WISE_DRAGON_BOOTS": {
+      "weight": 290
+    },
+    "SUPERIOR_DRAGON_BOOTS": {
+      "weight": 290
+    },
+    "UNSTABLE_DRAGON_BOOTS": {
+      "weight": 290
+    },
+    "DRAGON_HORN": {
+      "weight": 452
+    },
+    "DRAGON_CLAW": {
+      "weight": 451
+    },
+    "DRAGON_SCALE": {
+      "weight": 295
+    },
+    "DRAGON_NEST_TRAVEL_SCROLL": {
+      "weight": 250
+    },
+    "ASPECT_OF_THE_DRAGON": {
+      "weight": 450
+    }
+  }
+}
