@@ -2,7 +2,7 @@
   "garden_exp": [
     0,
     70,
-    100,
+    70,
     140,
     240,
     600,
@@ -546,6 +546,15 @@
       "position": "52:71:-136",
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1MzY3NTkzMzY3NjQsInByb2Zp\nbGVJZCI6IjQ2N2NmOTRkY2UyYjQ1ZTY4YmRhNTJlNTUwMmU3M2U4IiwicHJvZ\nmlsZU5hbWUiOiJMaWxpeWFfIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsIn\nRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmV\njcmFmdC5uZXQvdGV4dHVyZS9jYzJlODE5OTA2ZWIxNzk0MzliOGRkNTU1MTEz\nMmU1NGViNDcxNzNlMGY0NTg4NjFhZDJhOGM5Mzc5MTgzODkxIn19fQ=="
     },
+   "Baker": {
+      "rarity": "legendary",
+      "need_items": [
+        "Fine Flour"
+      ],
+      "mode": "hub",
+      "position": "-6:70:-47",
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NTgzOTc2NDAyMjIsInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTA4YjdiNWFhZTUzNTc5NzY5YzAxM2EyNjU2YTMzZDJmYjgzMTg2ODVkNzRhY2UxYTFjNjY1YWQ2N2E4M2IzOCJ9fX0="
+    },
     "Banker Broadjaw": {
       "rarity": "uncommon",
       "need_items": [
@@ -938,6 +947,28 @@
         "Wheat"
       ]
     },
+    "Pest Wrangler": {
+      "rarity": "uncommon",
+      "need_items": [
+        "Compost",
+        "Dung",
+        "Honey Jar",
+        "Plant Matter",
+        "Tasty Cheese"
+      ],
+      "mode": null,
+      "position": null,
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTcxMDg1MTUyNDUyMSwKICAicHJvZmlsZUlkIiA6ICJmNzcxMDI1NGMzYWY0YjA5YmRjY2NiNDRjNjg1NjFiMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDZXJ1c1YyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQzMWM2Y2I2MjE0MTJhYjRlODUxYWZjYTNmNDNlNWVkZWJkOGZjZGRkYjQwNGZhMjMxMGJlMjlkMmNiZDIyNzYiCiAgICB9CiAgfQp9"
+    },
+    "Pest Wrangler?": {
+      "rarity": "legendary",
+      "need_items": [
+        "Tasty Cheese"
+      ],
+      "mode": null,
+      "position": null,
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTcxMDg1MDM5MDU1NiwKICAicHJvZmlsZUlkIiA6ICJmNzcxMDI1NGMzYWY0YjA5YmRjY2NiNDRjNjg1NjFiMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDZXJ1c1YyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q3Nzg0NTcwNTA1NWQ3ZGZkNGZhMmVkMzg5MTYyOGQzMDJhZTg1YzExODdlNGRmYTE5N2YyNGU3Nzc5MDE2ZDgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ"
+    },
     "Pete": {
       "rarity": "rare",
       "need_items": [
@@ -968,6 +999,17 @@
       "mode": "mining_3",
       "position": "127:195:196",
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxNTIzMTU0OSwK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvNmY3MDM4NWY0NzJjMDM4MjVjMGU4OTRkOTRhYzIwM\nWUxYjY0MmQxMDMyMjAyZDRiZjMzMzcyZmEzYWEyOWZiYSIKICAgIH0KICB9Cn\n0="
+    },
+    "Ravenous Rhino": {
+      "rarity": "legendary",
+      "new_rarity": "mythic",
+      "need_items": [
+        "Bread",
+        "Cake"
+      ],
+      "mode": null,
+      "position": null,
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTcxNTA5MzAzOTAxMCwKICAicHJvZmlsZUlkIiA6ICJmNzcxMDI1NGMzYWY0YjA5YmRjY2NiNDRjNjg1NjFiMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDZXJ1c1YyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjNGRmZmE5ZGMxZTc0YWJmNDk2Zjc1ODA4MzA0NTkwMTU1NDA4MWFhNTE0NzYzZTU2M2Q2N2Y5MGJkMTQzODIiCiAgICB9CiAgfQp9"
     },
     "Rhys": {
       "rarity": "uncommon",
@@ -1117,6 +1159,15 @@
       "position": "-17:70:-82",
       "skinOrType": "EntityVillager"
     },
+    "Vinyl Collector": {
+      "rarity": "rare",
+      "need_items": [
+        "Music Disc"
+      ],
+      "mode": null,
+      "position": null,
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTcxMDg1MDI2NTA2OCwKICAicHJvZmlsZUlkIiA6ICJmNzcxMDI1NGMzYWY0YjA5YmRjY2NiNDRjNjg1NjFiMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDZXJ1c1YyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhN2VmM2FlNTAxZGZhZGZhMWU2ODUxZTRkMjgwNGM3OGJjNWU1ZGQ0N2Y1YjI5MWEzMWM3NDJlYTRmNjZlMDIiCiAgICB9CiAgfQp9"
+    },
     "Weaponsmith": {
       "rarity": "uncommon",
       "need_items": [
@@ -1178,6 +1229,50 @@
     "BIOFUEL": 3000,
     "VOLTA": 10000,
     "OIL_BARREL": 10000
+  },
+  "personal_best_increment": {
+    "CACTUS": 200,
+    "CARROT": 300,
+    "COCOA_BEANS": 300,
+    "MELON": 500,
+    "MUSHROOM": 100,
+    "NETHER_WART": 300,
+    "POTATO": 300,
+    "PUMPKIN": 100,
+    "SUGAR_CANE": 200,
+    "WHEAT": 100
+  },
+  "pest_rare_drops": {
+    "FLY": {
+      "ENCHANTED_HAY_BALE": 3
+    },
+    "RAT": {
+      "POLISHED_PUMPKIN": 3
+    },
+    "SLUG": {
+      "ENCHANTED_HUGE_MUSHROOM_1": 15,
+      "ENCHANTED_HUGE_MUSHROOM_2": 15
+    },
+    "MITE": {
+      "ENCHANTED_CACTUS": 6
+    },
+    "MOSQUITO": {
+      "ENCHANTED_SUGAR_CANE": 6
+    },
+    "MOTH": {
+      "ENCHANTED_COOKIE": 11
+    },
+    "BEETLE": {
+      "MUTANT_NETHER_STALK": 9
+    },
+    "CRICKET": {
+      "ENCHANTED_GOLDEN_CARROT": 12
+    },
+    "LOCUST": {
+      "ENCHANTED_BAKED_POTATO": 10
+    },
+    "EARTHWORM": {
+      "ENCHANTED_MELON_BLOCK": 15
+    }
   }
 }
-

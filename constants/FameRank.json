@@ -101,6 +101,48 @@
       "fame_required": 230000000,
       "bits_multiplier": 2.26,
       "votes": 100
+    },
+    "OVERSEER": {
+      "name": "Overseer",
+      "fame_required": 250000000,
+      "bits_multiplier": 2.28,
+      "votes": 100
+    },
+    "REGENT": {
+      "name": "Regent",
+      "fame_required": 290000000,
+      "bits_multiplier": 2.3,
+      "votes": 100
+    },
+    "VICEROY": {
+      "name": "Viceroy",
+      "fame_required": 330000000,
+      "bits_multiplier": 2.32,
+      "votes": 100
+    },
+    "SOVEREIGN": {
+      "name": "Sovereign",
+      "fame_required": 370000000,
+      "bits_multiplier": 2.34,
+      "votes": 100
+    },
+    "ARCHON": {
+      "name": "Archon",
+      "fame_required": 410000000,
+      "bits_multiplier": 2.36,
+      "votes": 100
+    },
+    "IMPERATOR": {
+      "name": "Imperator",
+      "fame_required": 450000000,
+      "bits_multiplier": 2.38,
+      "votes": 100
+    },
+    "PARAGON": {
+      "name": "Paragon",
+      "fame_required": 500000000,
+      "bits_multiplier": 2.4,
+      "votes": 100
     }
   }
 }

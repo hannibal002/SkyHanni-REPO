@@ -7,14 +7,23 @@
       "spinny": true,
       "upsideDown": true
     },
+    "catgirlasuka": {
+      "suffix": "§d§l:3"
+    },
     "catgirlseraid": {
       "suffix": "§d:3",
       "spinny": true,
       "upsideDown": true
     },
+    "Chissl": {
+      "suffix": "§2§l:D"
+    },
     "cimbraien": {},
     "Conutik": {
       "suffix": "§c§lツ"
+    },
+    "hijiol": {
+      "suffix": "§c§l:>"
     },
     "Cuz_Im_Clicks": {},
     "Eisengolem": {},
@@ -22,6 +31,9 @@
       "suffix": "§d:3"
     },
     "Erymanthus": {},
+    "EstrogenEnjoyer": {
+      "suffix": "§d:3"
+    },
     "Fix3dll": {},
     "Frost19": {},
     "Gillsplash": {},
@@ -29,7 +41,7 @@
       "suffix": "§3§l:O"
     },
     "HiZe_": {
-      "suffix": "&5&l:3",
+      "suffix": "§5§l:3",
       "spinny": true,
       "upsideDown": true
     },
@@ -37,14 +49,25 @@
       "suffix": "§d;3"
     },
     "JTAG": {},
-    "Ke5o": {},
+    "Ke5o": {
+      "suffix": "§7I can't think of anything funny"
+    },
     "lrg89": {
       "suffix": "§Z<3",
       "upsideDown": true
     },
     "martimavocado": {},
     "Mikecraft1224": {},
+    "minhperry02": {
+      "suffix": "§9:D"
+    },
     "NetheriteMiner": {},
+    "oBlazin": {
+      "suffix": "§d§l^^"
+    },
+    "not_a_cowfr": {
+      "suffix": "§c:3"
+    },
     "Obsidianninja11": {
       "suffix": "§z(:"
     },
@@ -52,12 +75,23 @@
       "suffix": "§d:3"
     },
     "oxsss": {},
+    "Parsers": {
+      "suffix": "§1§l:O"
+    },
+    "PlasticEating": {
+      "suffix": "§d§l:3"
+    },
     "ReyMaratov": {},
     "RobotHanzo": {
       "suffix": "§6§l:P"
     },
+    "Sayonara": {
+      "suffix": "§cc:"
+    },
     "Skirtwearer": {
-      "suffix": "§d:3"
+      "suffix": "§d:3",
+      "spinny": true,
+      "upsideDown": true
     },
     "Skyblock_Lobby": {},
     "SkyHanni": {
@@ -65,6 +99,9 @@
       "spinny": true,
       "upsideDown": true,
       "alt from": "hannibal2"
+    },
+    "Solde": {
+      "suffix": "§b;C"
     },
     "ThatGravyBoat": {
       "suffix": "§d:3",
@@ -78,6 +115,9 @@
       "upsideDown": true
     },
     "Thunderblade73": {},
+    "Tryp0MC": {
+      "suffix": "§6B)"
+    },
     "Vahvl": {
       "suffix": "§d:3"
     },

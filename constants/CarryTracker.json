@@ -1,0 +1,42 @@
+{
+  "slayer_names": {
+    "REVENANT": [
+      "rev",
+      "revenant",
+      "zomb",
+      "zombie"
+    ],
+    "TARANTULA": [
+      "tara",
+      "tarantula",
+      "spider",
+      "brood",
+      "broodfather"
+    ],
+    "SVEN": [
+      "sven",
+      "wolf",
+      "packmaster"
+    ],
+    "VOID": [
+      "voidling",
+      "void",
+      "voidgloom",
+      "eman",
+      "enderman"
+    ],
+    "INFERNO": [
+      "inferno",
+      "demon",
+      "demonlord",
+      "blaze"
+    ],
+    "VAMPIRE": [
+      "blood",
+      "bloodfiend",
+      "vamp",
+      "vampire",
+      "riftstalker"
+    ]
+  }
+}

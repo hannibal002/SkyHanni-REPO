@@ -16,7 +16,8 @@
     "STARTER_LAVA_ROD",
     "INFERNO_ROD",
     "MAGMA_ROD",
-    "HELLFIRE_ROD"
+    "HELLFIRE_ROD",
+    "POLISHED_TOPAZ_ROD"
   ],
   "water_fishing_rods": [
     "FISHING_ROD",
@@ -37,15 +38,67 @@
     "THE_SHREDDER",
     "PHANTOM_ROD"
   ],
+  "dungeon_secret_items": [
+    "DEFUSE_KIT",
+    "DUNGEON_CHEST_KEY",
+    "DUNGEON_DECOY",
+    "DUNGEON_TRAP",
+    "INFLATABLE_JERRY",
+    "POTION_HEALING;8",
+    "SPIRIT_LEAP",
+    "TRAINING_WEIGHTS",
+    "TREASURE_TALISMAN"
+  ],
   "enchant_multiplier": {
     "infinite_quiver": 0.03
   },
   "book_bundle_amount": {
-    "vicious": 5,
     "big_brain": 5,
-    "reflection": 3,
+    "pristine": 1,
     "quantum": 1,
+    "rainbow": 1,
+    "reflection": 3,
+    "small_brain": 1,
+    "ultimate_chimera": 1,
     "ultimate_the_one": 1,
-    "rainbow": 1
+    "vicious": 5
+  },
+  "value_calculation_data": {
+    "always_active_enchants": {
+      "scavenger": {
+        "level": 5,
+        "items": [
+          "CRYPT_DREADLORD_SWORD",
+          "ZOMBIE_SOLDIER_CUTLASS",
+          "CONJURING_SWORD",
+          "EARTH_SHARD",
+          "ZOMBIE_KNIGHT_SWORD",
+          "SILENT_DEATH",
+          "ZOMBIE_COMMANDER_WHIP",
+          "ICE_SPRAY_WAND"
+        ]
+      },
+      "replenish": {
+        "level": 1,
+        "items": [
+          "ADVANCED_GARDENING_HOE",
+          "ADVANCED_GARDENING_AXE"
+        ]
+      }
+    },
+    "only_tier_one_prices": [
+      "ultimate_chimera",
+      "ultimate_fatal_tempo",
+      "smoldering",
+      "ultimate_flash",
+      "divine_gift",
+      "ice_cold"
+    ],
+    "only_tier_five_prices": [
+      "ferocious_mana",
+      "hardened_mana",
+      "mana_vampire",
+      "strong_mana"
+    ]
   }
 }

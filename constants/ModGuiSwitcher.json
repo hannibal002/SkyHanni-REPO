@@ -18,6 +18,16 @@
         "dev.meyi.bn.gui.SettingsGui"
       ]
     },
+    "Dulkirs Mod": {
+      "description": [
+        "Customizable animations and SkyBlock utilities"
+      ],
+      "command": "dulkir",
+      "guiPath": [
+        "dulkirmod.DulkirMod",
+        "cc.polyfrost.oneconfig.gui.OneConfigGui:DulkirMod"
+      ]
+    },
     "Chat Triggers": {
       "description": [
         "Chat Triggers Modules"
@@ -75,6 +85,15 @@
         "io.github.moulberry.notenoughupdates.commands.help.SettingsCommand$createConfigScreen$1"
       ]
     },
+    "Odin": {
+      "description": [
+        "Mod with features"
+      ],
+      "command": "od",
+      "guiPath": [
+        "me.odinmain.ui.clickgui.ClickGUI"
+      ]
+    },
     "OneConfig": {
       "description": [
         "Multiple Mods in OneConfig"
@@ -84,13 +103,26 @@
         "cc.polyfrost.oneconfig.gui.OneConfigGui"
       ]
     },
+    "Partly Sane Skies": {
+      "description": [
+        "Includes some stuff"
+      ],
+      "command": "pssc",
+      "guiPath": [
+        "me.partlysanestudios.partlysaneskies.config.OneConfigScreen",
+        "cc.polyfrost.oneconfig.gui.OneConfigGui:PartlySaneSkies"
+      ]
+    },
     "Patcher": {
       "description": [
         "Performance boost!"
       ],
       "command": "patcher",
       "guiPath": [
-        "club.sk1er.patcher.config.PatcherConfig"
+        "club.sk1er.patcher.config.PatcherConfig",
+        "cc.polyfrost.oneconfig.gui.OneConfigGui:PolyPatcher",
+        "cc.polyfrost.oneconfig.gui.OneConfigGui:Patcher Sounds",
+        "club.sk1er.patcher.PolyPatcher"
       ]
     },
     "SkyBlockAddons": {
@@ -109,7 +141,8 @@
       ],
       "command": "skyguide",
       "guiPath": [
-        "dev.dediamondpro.skyguide.config.Config"
+        "dev.dediamondpro.skyguide.config.Config",
+        "cc.polyfrost.oneconfig.gui.OneConfigGui:SkyGuide"
       ]
     },
     "SkyHanni": {
@@ -120,7 +153,8 @@
       "command": "sh",
       "guiPath": [
         "at.hannibal2.skyhanni.deps.moulconfig.gui.GuiScreenElementWrapper",
-        "io.github.moulberry.moulconfig.gui.GuiScreenElementWrapper"
+        "io.github.moulberry.moulconfig.gui.GuiScreenElementWrapper",
+        "io.github.notenoughupdates.moulconfig.gui.GuiScreenElementWrapper"
       ]
     },
     "SkyBlock Personalized": {

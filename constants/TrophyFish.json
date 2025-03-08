@@ -2,7 +2,7 @@
   "trophy_fish": {
     "sulphurskitter": {
       "displayName": "§fSulphur Skitter",
-      "description": "§7Caught when standing within §a8 blocks§7 of a Sulphur Ore.",
+      "description": "§7Caught when standing within §a4 blocks§7 of a Sulphur Ore.",
       "rate": 30,
       "fillet": {
         "bronze": 40,
@@ -47,7 +47,7 @@
     "gusher": {
       "displayName": "§fGusher",
       "description": "§7Caught everywhere between §a7-16 minutes §7after a §6Blazing Volcano§7 eruption.",
-      "rate": 15,
+      "rate": 20,
       "fillet": {
         "bronze": 32,
         "silver": 48,
@@ -58,7 +58,7 @@
     "blobfish": {
       "displayName": "§fBlobfish",
       "description": "§7Caught everywhere.",
-      "rate": 15,
+      "rate": 25,
       "fillet": {
         "bronze": 4,
         "silver": 8,
@@ -69,7 +69,7 @@
     "slugfish": {
       "displayName": "§aSlugfish",
       "description": "§7Caught when the bobber has been active for at least §a20 seconds.§7",
-      "rate": 10,
+      "rate": 15,
       "fillet": {
         "bronze": 40,
         "silver": 60,
@@ -112,8 +112,8 @@
     },
     "manaray": {
       "displayName": "§9Mana Ray",
-      "description": "§7Caught when you have at least §b1200 ✎ Mana§7.",
-      "rate": 4,
+      "description": "§7Caught when you have at least §b1200 ✎ Mana§7. The catch chance is your §b✎ Mana§7 divided by 1000 (e.g. 1.2% at §b1200 ✎ Mana§7).",
+      "rate": null,
       "fillet": {
         "bronze": 40,
         "silver": 60,
@@ -135,7 +135,7 @@
     "vanille": {
       "displayName": "§9Vanille",
       "description": "§7Caught when using a §aStarter Lava Rod §7with no Enchantments.",
-      "rate": 3,
+      "rate": 8,
       "fillet": {
         "bronze": 80,
         "silver": 120,
@@ -179,7 +179,7 @@
     "karatefish": {
       "displayName": "§5Karate Fish",
       "description": "§7Caught in the §eDojo§7.",
-      "rate": 1,
+      "rate": 2,
       "fillet": {
         "bronze": 40,
         "silver": 60,
@@ -189,7 +189,7 @@
     },
     "goldenfish": {
       "displayName": "§6Golden Fish",
-      "description": "§7Has a chance to spawn after §a15 minutes §7of fishing, increasing linearly §7until reaching 100% at §a20 minutes§7.",
+      "description": "§7Has a chance to spawn after §a8 minutes §7of fishing, increasing linearly §7until reaching 100% at §a12 minutes§7.",
       "rate": null,
       "fillet": {
         "bronze": 400,

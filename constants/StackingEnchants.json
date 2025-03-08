@@ -74,6 +74,21 @@
         3000000
       ],
       "statName": "champion_combat_xp"
+    },
+    "toxophilite": {
+      "levels": [
+        0,
+        50000,
+        100000,
+        250000,
+        500000,
+        1000000,
+        1500000,
+        2000000,
+        2500000,
+        3000000
+      ],
+      "statName": "toxophilite_combat_xp"
     }
   }
 }

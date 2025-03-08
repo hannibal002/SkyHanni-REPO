@@ -18,7 +18,8 @@
       "GOLD_INGOT",
       "GOLDEN_POWDER",
       "GHOUL;3",
-      "GHOUL;4"
+      "GHOUL;4",
+      "DYE_MATCHA"
     ],
     "Tarantula Broodfather": [
       "TARANTULA_WEB",
@@ -36,7 +37,8 @@
       "TARANTULA;4",
       "SPIDERS_DEN_TOP_TRAVEL_SCROLL",
       "ARACHNE_KEEPER_FRAGMENT",
-      "BURNING_EYE"
+      "BURNING_EYE",
+      "DYE_BRICK_RED"
     ],
     "Sven Packmaster": [
       "WOLF_TOOTH",
@@ -51,8 +53,8 @@
       "BONE",
       "WOLF_TALISMAN",
       "PARK_CAVE_TRAVEL_SCROLL",
-      "HOUND,3",
-      "HOUND,4",
+      "HOUND;3",
+      "HOUND;4",
       "WEAK_WOLF_CATALYST",
       "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
       "DYE_CELESTE"
@@ -84,7 +86,8 @@
       "ENDERMAN;1",
       "ENDERMAN;2",
       "ENDERMAN;3",
-      "ENDERMAN;4"
+      "ENDERMAN;4",
+      "DYE_BYZANTIUM"
     ],
     "Inferno Demonlord": [
       "DERELICT_ASHE",
@@ -128,7 +131,8 @@
       "UNFANGED_VAMPIRE_PART",
       "ENCHANTED_BOOK_BUNDLE_THE_ONE",
       "HEMOVIBE",
-      "VAMPIRIC_MELON"
+      "VAMPIRIC_MELON",
+      "DYE_SANGRIA"
     ]
   }
 }

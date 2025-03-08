@@ -1,0 +1,108 @@
+{
+  "changed_error_messages": [
+    {
+      "message_exact": [
+        "Error while running command /shtestwaypoint"
+      ],
+      "message_starts_with": [
+      ],
+      "custom_message": "Usage: /shtestwaypoint <x> <y> <z>",
+      "affected_versions": [
+        "0.27.Beta.15",
+        "0.27.Beta.16"
+      ],
+      "fixed_in": "1.0.0"
+    },
+    {
+      "message_exact": [
+      ],
+      "message_starts_with": [
+        "Caught a IllegalStateException in HoppityEggsManager at LorenzChatEvent: Unknown meal:"
+      ],
+      "custom_message": "Update your SkyHanni version to the beta so the Hoppity features work correctly, you can use /shupdate beta",
+      "affected_versions": [
+        "0.27"
+      ],
+      "fixed_in": "1.0.0"
+    },
+    {
+      "message_starts_with": [
+        "Error in Hitman Time, PLEASE report this on discord"
+      ],
+      "fixed_in": "1.5.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in PestAPI at LorenzChatEvent: Can not remove nearest pest: No infested plots detected."
+      ],
+      "fixed_in": "1.7.0"
+    },
+    {
+      "message_starts_with": [
+        "Island check comparison with HypixelModAPI failed. Please report in discord."
+      ],
+      "fixed_in": "1.17.0"
+    },
+    {
+      "message_starts_with": [
+        "ServerId check comparison with HypixelModAPI failed. Please report in discord."
+      ],
+      "fixed_in": "1.17.0"
+    },
+    {
+      "message_starts_with": [
+        "HypixelData check comparison with HypixelModAPI failed. Please report in discord."
+      ],
+      "fixed_in": "9.9.9"
+    },
+    {
+      "message_starts_with": [
+        "Error in Estimated Item Value renderer"
+      ],
+      "fixed_in": "1.7.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalArgumentException in at.hannibal2.skyhanni.features.misc.EnchantedClockHelper.onInventoryOpen(at.hannibal2.skyhanni.events.InventoryOpenEvent) at InventoryFullyOpenedEvent: No group with name"
+      ],
+      "fixed_in": "1.7.0"
+    },
+    {
+      "message_starts_with": [
+        "Loaded 1 item not in a fishing category"
+      ],
+      "fixed_in": "1.8.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.utils.ComputerTimeOffset.onDebug(at.hannibal2.skyhanni.events.DebugDataCollectEvent) at DebugDataCollectEvent: Title not set"
+      ],
+      "fixed_in": "1.9.0"
+    },
+    {
+      "message_starts_with": [
+        "CustomScoreboard detected a unknown line: 'Century Raffle"
+      ],
+      "fixed_in": "1.10.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in BazaarCancelledBuyOrderClipboard at LorenzChatEvent: last clicked bz item is null"
+      ],
+      "custom_message": "Cancelled Buy Order Clipboard doesn't work with Soopy's SBMENU setting. Please disable one of them. If you do not use this feature, please report it on the SkyHanni Discord!",
+      "fixed_in": "9.9.9"
+    },
+    {
+      "message_starts_with": [
+        "Unknown slice of cake color"
+      ],
+      "fixed_in": "1.1.0"
+    },
+    {
+      "message_starts_with": [
+        "TPS calculation got an error"
+      ],
+      "fixed_in": "1.12.0"
+    }
+  ]
+}

@@ -210,6 +210,12 @@
       "goodLevel": 5,
       "maxLevel": 7
     },
+    "great spook": {
+      "loreName": "Great Spook",
+      "nbtName": "great_spook",
+      "goodLevel": 0,
+      "maxLevel": 1
+    },
     "green thumb": {
       "loreName": "Green Thumb",
       "nbtName": "green_thumb",
@@ -257,6 +263,12 @@
       "nbtName": "knockback",
       "goodLevel": 2,
       "maxLevel": 2
+    },
+    "lapidary": {
+      "loreName": "Lapidary",
+      "nbtName": "lapidary",
+      "goodLevel": 0,
+      "maxLevel": 5
     },
     "lethality": {
       "loreName": "Lethality",
@@ -328,7 +340,7 @@
       "loreName": "Pesterminator",
       "nbtName": "pesterminator",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 6
     },
     "piercing": {
       "loreName": "Piercing",
@@ -348,8 +360,8 @@
       "goodLevel": 5,
       "maxLevel": 7
     },
-    "pristine": {
-      "loreName": "Pristine",
+    "prismatic": {
+      "loreName": "Prismatic",
       "nbtName": "pristine",
       "goodLevel": 0,
       "maxLevel": 5
@@ -430,7 +442,7 @@
       "loreName": "Scavenger",
       "nbtName": "scavenger",
       "goodLevel": 3,
-      "maxLevel": 5
+      "maxLevel": 6
     },
     "sharpness": {
       "loreName": "Sharpness",
@@ -443,6 +455,12 @@
       "nbtName": "silk_touch",
       "goodLevel": 1,
       "maxLevel": 1
+    },
+    "small brain": {
+      "loreName": "Small Brain",
+      "nbtName": "small_brain",
+      "goodLevel": 2,
+      "maxLevel": 5
     },
     "smarty pants": {
       "loreName": "Smarty Pants",
@@ -520,13 +538,19 @@
       "loreName": "Thunderbolt",
       "nbtName": "thunderbolt",
       "goodLevel": 5,
-      "maxLevel": 6
+      "maxLevel": 7
     },
     "thunderlord": {
       "loreName": "Thunderlord",
       "nbtName": "thunderlord",
       "goodLevel": 5,
       "maxLevel": 7
+    },
+    "tidal": {
+      "loreName": "Tidal",
+      "nbtName": "tidal",
+      "goodLevel": 0,
+      "maxLevel": 3
     },
     "titan killer": {
       "loreName": "Titan Killer",
@@ -668,6 +692,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "flowstate": {
+      "loreName": "Flowstate",
+      "nbtName": "ultimate_flowstate",
+      "goodLevel": 0,
+      "maxLevel": 3
+    },
     "last stand": {
       "loreName": "Last Stand",
       "nbtName": "ultimate_last_stand",
@@ -803,6 +833,15 @@
       "goodLevel": 0,
       "maxLevel": 10,
       "statLabel": "championCombatXp",
+      "stackLevel": [0, 50000, 100000, 250000, 500000, 1000000, 1500000, 2000000, 2500000, 3000000]
+    },
+    "toxophilite": {
+      "loreName": "Toxophilite",
+      "nbtName": "toxophilite",
+      "nbtNum": "toxophilite_combat_xp",
+      "goodLevel": 0,
+      "maxLevel": 10,
+      "statLabel": "toxophileCombatXp",
       "stackLevel": [0, 50000, 100000, 250000, 500000, 1000000, 1500000, 2000000, 2500000, 3000000]
     }
   }
