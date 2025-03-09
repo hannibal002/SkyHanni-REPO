@@ -76,7 +76,8 @@
     },
     "WINTER": {
       "name": "Jerry's Workshop",
-      "api_name": "winter"
+      "api_name": "winter",
+      "max_players": 27
     },
     "THE_RIFT": {
       "name": "The Rift",
