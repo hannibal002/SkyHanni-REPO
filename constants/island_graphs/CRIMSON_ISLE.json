@@ -4265,6 +4265,10 @@
   },
   "498": {
     "Position": "-247.0:76.0:-681.0",
+    "Name": "Mushroom Bull",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "499": 8.54,
       "497": 9.49
@@ -12495,6 +12499,10 @@
   },
   "1493": {
     "Position": "-194.0:75.0:-705.0",
+    "Name": "Mushroom Bull",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "1494": 5.48,
       "1492": 12.65,
@@ -12536,6 +12544,10 @@
   },
   "1498": {
     "Position": "-188.0:76.0:-734.0",
+    "Name": "Mushroom Bull",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "1503": 8.54,
       "1497": 11.22,
@@ -12579,6 +12591,10 @@
   },
   "1504": {
     "Position": "-193.0:77.0:-750.0",
+    "Name": "Mushroom Bull",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "3124": 4.12,
       "1503": 8.31,
