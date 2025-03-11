@@ -1,24 +1,24 @@
 {
   "kuudra_prestige_cost": {
     "HOT": {
-      "crimson_essence": 150,
-      "kuudra_teeth": 10,
-      "skyblock_coins": 2000000
+      "CRIMSON_ESSENCE": 150,
+      "KUUDRA_TEETH": 10,
+      "SKYBLOCK_COIN": 2000000
     },
     "BURNING": {
-      "crimson_essence": 800,
-      "kuudra_teeth": 20,
-      "skyblock_coins": 5000000
+      "CRIMSON_ESSENCE": 800,
+      "KUUDRA_TEETH": 20,
+      "SKYBLOCK_COIN": 5000000
     },
     "FIERY": {
-      "crimson_essence": 4500,
-      "kuudra_teeth": 50,
-      "skyblock_coins": 10000000
+      "CRIMSON_ESSENCE": 4500,
+      "KUUDRA_TEETH": 50,
+      "SKYBLOCK_COIN": 10000000
     },
     "INFERNAL": {
-      "crimson_essence": 25500,
-      "kuudra_teeth": 80,
-      "skyblock_coins": 20000000
+      "CRIMSON_ESSENCE": 25500,
+      "KUUDRA_TEETH": 80,
+      "SKYBLOCK_COIN": 20000000
     }
   }
 }
