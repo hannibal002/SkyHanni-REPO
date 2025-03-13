@@ -103,6 +103,12 @@
         "TPS calculation got an error"
       ],
       "fixed_in": "1.12.0"
+    },
+    {
+      "message_starts_with": [
+        "Could not read category for item"
+      ],
+      "fixed_in": "2.1.0"
     }
   ]
 }
