@@ -88,10 +88,6 @@
       "api_name": "mineshaft",
       "max_players": 4
     },
-    "BACKWATER_BAYOU": {
-      "name": "Backwater Bayou",
-      "api_name": "fishing_1"
-    }
     "NONE": {
       "name": ""
     },
