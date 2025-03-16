@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "3dc6bfb",
+  "sourceLabel": "01b760e",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1242,7 +1242,7 @@
     "stats.menu.crit.damage": " §9☠ Crit Damage §f(?\u003cvalue\u003e\\d+)(?: .*)?",
     "stats.menu.damage": "",
     "stats.menu.defense": " §a❈ Defense §f(?\u003cvalue\u003e\\d+)(?: .*)?",
-    "stats.menu.double.hook.chance": "",
+    "stats.menu.double.hook.chance": " §9⚓ Double Hook Chance §f(?\u003cvalue\u003e\\d+(?:\\.\\d+)?)%",
     "stats.menu.dwarven.metal.fortune": " §6☘ Dwarven Metal Fortune §f(?\u003cvalue\u003e\\d+)(?: .*)?",
     "stats.menu.enchanting.wisdom": " §3☯ Enchanting Wisdom §f(?\u003cvalue\u003e\\d+)(?: .*)?",
     "stats.menu.farming.fortune": " (?:§7§m|§6)☘ Farming Fortune (?:§f)?(?\u003cvalue\u003e\\d+)(?: .*)?",
@@ -1281,6 +1281,7 @@
     "stats.menu.sugar.cane.fortune": " §7§m☘ Sugar Cane Fortune (?\u003cvalue\u003e\\d+)(?: .*)?",
     "stats.menu.swing.range": " §eⓈ Swing Range §f(?\u003cvalue\u003e\\d+)(?: .*)?",
     "stats.menu.taming.wisdom": " §3☯ Taming Wisdom §f(?\u003cvalue\u003e\\d+)(?: .*)?",
+    "stats.menu.treasure.chance": " §6⛃ Treasure Chance §f(?\u003cvalue\u003e\\d+(?:\\.\\d+)?)%",
     "stats.menu.trophy.fish.chance": " §6♔ Trophy Fish Chance §f(?\u003cvalue\u003e\\d+)%",
     "stats.menu.true.defense": " §f❂ True Defense §f(?\u003cvalue\u003e\\d+)(?: .*)?",
     "stats.menu.unknown": "",
@@ -1341,6 +1342,7 @@
     "stats.tablist.sugar.cane.fortune": "",
     "stats.tablist.swing.range": " Swing Range: §r§eⓈ(?\u003cvalue\u003e\\d+)(?: .*)?",
     "stats.tablist.taming.wisdom": " Taming Wisdom: §r§3☯(?\u003cvalue\u003e\\d+)(?: .*)?",
+    "stats.tablist.treasure.chance": " Treasure Chance: §r§6⛃(?\u003cvalue\u003e\\d+(?:\\.\\d+)?)",
     "stats.tablist.trophy.fish.chance": "Trophy Fish Chance: §r§6♔(?\u003cvalue\u003e\\d+)(?: .*)?",
     "stats.tablist.true.defense": " True Defense: §r§f❂(?\u003cvalue\u003e\\d+)(?: .*)?",
     "stats.tablist.unknown": "",
