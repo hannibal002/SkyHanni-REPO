@@ -525,7 +525,7 @@
     "tabasco": {
       "loreName": "Tabasco",
       "nbtName": "tabasco",
-      "goodLevel": 0,
+      "goodLevel": 1,
       "maxLevel": 3
     },
     "thorns": {
