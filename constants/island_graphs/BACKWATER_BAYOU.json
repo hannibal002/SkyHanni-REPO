@@ -359,7 +359,7 @@
     "Position": "62.0:88.0:-3.0",
     "Name": "Fishing Hotspot",
     "Tags": [
-      "poi"
+      "fishing_hotspot"
     ],
     "Neighbours": {
       "42": 5.1,
@@ -382,7 +382,7 @@
     "Position": "62.0:88.0:8.0",
     "Name": "Fishing Hotspot",
     "Tags": [
-      "poi"
+      "fishing_hotspot"
     ],
     "Neighbours": {
       "44": 3.32,
@@ -702,7 +702,7 @@
     "Position": "49.0:68.0:-1.9999999999999998",
     "Name": "Fishing Hotspot",
     "Tags": [
-      "poi"
+      "fishing_hotspot"
     ],
     "Neighbours": {
       "83": 3.61,
@@ -1390,7 +1390,7 @@
     "Position": "15.0:71.0:12.0",
     "Name": "Fishing Hotspot",
     "Tags": [
-      "poi"
+      "fishing_hotspot"
     ],
     "Neighbours": {
       "125": 2.45,
@@ -1559,7 +1559,7 @@
     "Position": "35.0:70.0:8.0",
     "Name": "Fishing Hotspot",
     "Tags": [
-      "poi"
+      "fishing_hotspot"
     ],
     "Neighbours": {
       "194": 2.45
@@ -1577,7 +1577,7 @@
     "Position": "56.0:68.0:-7.0",
     "Name": "Fishing Hotspot",
     "Tags": [
-      "poi"
+      "fishing_hotspot"
     ],
     "Neighbours": {
       "82": 8.6
@@ -1587,7 +1587,7 @@
     "Position": "28.0:72.0:23.0",
     "Name": "Fishing Hotspot",
     "Tags": [
-      "poi"
+      "fishing_hotspot"
     ],
     "Neighbours": {
       "24": 3.61,
@@ -1599,7 +1599,7 @@
     "Position": "43.0:69.0:-22.0",
     "Name": "Fishing Hotspot",
     "Tags": [
-      "poi"
+      "fishing_hotspot"
     ],
     "Neighbours": {
       "50": 2.45
@@ -1609,7 +1609,7 @@
     "Position": "41.0:71.0:7.0",
     "Name": "Fishing Hotspot",
     "Tags": [
-      "poi"
+      "fishing_hotspot"
     ],
     "Neighbours": {
       "199": 2.24,
@@ -1666,7 +1666,7 @@
     "Position": "32.0:71.0:24.0",
     "Name": "Fishing Hotspot",
     "Tags": [
-      "poi"
+      "fishing_hotspot"
     ],
     "Neighbours": {
       "25": 4.24,
@@ -1677,7 +1677,7 @@
     "Position": "39.0:71.0:16.0",
     "Name": "Fishing Hotspot",
     "Tags": [
-      "poi"
+      "fishing_hotspot"
     ],
     "Neighbours": {
       "26": 3.74,
