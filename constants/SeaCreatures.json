@@ -401,6 +401,11 @@
         "chat_message": "§aSmells of burning. Must be a Fried Chicken.",
         "fishing_experience": 400,
         "rarity": "COMMON"
+      },
+      "Fiery Scuttler": {
+        "chat_message": "§cA Fiery Scuttler inconspicuously waddles up to you, friends in tow.",
+        "fishing_experience": 15000,
+        "rarity": "LEGENDARY"
       }
     }
   },
