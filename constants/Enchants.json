@@ -402,6 +402,12 @@
       "goodLevel": 2,
       "maxLevel": 5
     },
+    "quick bite": {
+      "loreName": "Quick Bite",
+      "nbtName": "quick_bite",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "rainbow": {
       "loreName": "Rainbow",
       "nbtName": "rainbow",
