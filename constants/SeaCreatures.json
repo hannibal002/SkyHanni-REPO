@@ -362,5 +362,40 @@
         "rare": true
       }
     }
+  },
+  "BACKWATER_BAYOU": {
+    "chat_color": "§2",
+    "sea_creatures": {
+      "Trash Gobbler": {
+        "chat_message": "§aThe Trash Gobbler is hungry for you!",
+        "fishing_experience": 175,
+        "rarity": "COMMON"
+      },
+      "Banshee": {
+        "chat_message": "§aThe desolate wail of a Banshee breaks the silence.",
+        "fishing_experience": 1000,
+        "rarity": "RARE"
+      },
+      "Alligator": {
+        "chat_message": "§aA long snout breaks the surface of the water. It's an Alligator!",
+        "fishing_experience": 1250,
+        "rarity": "RARE"
+      },
+      "Frog Man": {
+        "chat_message": "§aIs it a frog? Is it a man? Well, yes, sorta, IT'S FROG MAN!!!!!!",
+        "fishing_experience": 200,
+        "rarity": "COMMON"
+      },
+      "Snapping Turtle": {
+        "chat_message": "§aA Snapping Turtle is coming your way, and it's ANGRY!",
+        "fishing_experience": 500,
+        "rarity": "RARE"
+      },
+      "Dumpster Diver": {
+        "chat_message": "§aA Dumpster Diver has emerged from the swamp!",
+        "fishing_experience": 250,
+        "rarity": "UNCOMMON"
+      }
+    }
   }
 }
