@@ -383,7 +383,7 @@
       }
     }
   },
-  "HOTSPOT_LAVA": {
+  "LAVA_HOTSPOT": {
     "chat_color": "§d",
     "sea_creatures": {
       "Ragnarok": {
@@ -404,7 +404,7 @@
       }
     }
   },
-  "HOTSPOT_WATER": {
+  "WATER_HOTSPOT": {
     "chat_color": "§d",
     "sea_creatures": {
       "Wiki Tiki": {
