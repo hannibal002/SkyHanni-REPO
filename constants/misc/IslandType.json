@@ -76,7 +76,8 @@
     },
     "WINTER": {
       "name": "Jerry's Workshop",
-      "api_name": "winter"
+      "api_name": "winter",
+      "max_players": 27
     },
     "THE_RIFT": {
       "name": "The Rift",
@@ -86,6 +87,11 @@
       "name": "Mineshaft",
       "api_name": "mineshaft",
       "max_players": 4
+    },
+    "BACKWATER_BAYOU": {
+      "name": "Backwater Bayou",
+      "api_name": "fishing_1",
+      "max_players": 16
     },
     "NONE": {
       "name": ""

@@ -1,8 +1,10 @@
 {
   "warpCommands": [
     "arachne",
+    "backwater",
     "basecamp",
     "barn",
+    "bayou",
     "camp",
     "carnival",
     "castle",
@@ -45,6 +47,7 @@
     "nether",
     "nucleus",
     "park",
+    "rift",
     "sepulture",
     "smold",
     "smoldering",

@@ -82,7 +82,7 @@
       "loreName": "Charm",
       "nbtName": "charm",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 6
     },
     "corruption": {
       "loreName": "Corruption",
@@ -298,7 +298,7 @@
       "loreName": "Luck of the Sea",
       "nbtName": "luck_of_the_sea",
       "goodLevel": 5,
-      "maxLevel": 6
+      "maxLevel": 7
     },
     "lure": {
       "loreName": "Lure",
@@ -352,7 +352,7 @@
       "loreName": "Piscary",
       "nbtName": "piscary",
       "goodLevel": 5,
-      "maxLevel": 6
+      "maxLevel": 7
     },
     "power": {
       "loreName": "Power",
@@ -400,6 +400,12 @@
       "loreName": "Quantum",
       "nbtName": "quantum",
       "goodLevel": 2,
+      "maxLevel": 5
+    },
+    "quick bite": {
+      "loreName": "Quick Bite",
+      "nbtName": "quick_bite",
+      "goodLevel": 0,
       "maxLevel": 5
     },
     "rainbow": {
@@ -490,7 +496,7 @@
       "loreName": "Spiked Hook",
       "nbtName": "spiked_hook",
       "goodLevel": 5,
-      "maxLevel": 6
+      "maxLevel": 7
     },
     "sugar rush": {
       "loreName": "Sugar Rush",
@@ -525,7 +531,7 @@
     "tabasco": {
       "loreName": "Tabasco",
       "nbtName": "tabasco",
-      "goodLevel": 0,
+      "goodLevel": 1,
       "maxLevel": 3
     },
     "thorns": {
@@ -545,6 +551,12 @@
       "nbtName": "thunderlord",
       "goodLevel": 5,
       "maxLevel": 7
+    },
+    "tidal": {
+      "loreName": "Tidal",
+      "nbtName": "tidal",
+      "goodLevel": 0,
+      "maxLevel": 3
     },
     "titan killer": {
       "loreName": "Titan Killer",
