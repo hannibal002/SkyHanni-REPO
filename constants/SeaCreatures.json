@@ -345,7 +345,7 @@
         "rare": true
       },
       "Ragnarok": {
-        "chat_message": "§c§lThe sky darkens and the air thickens. The end times are upon us: Ragnarok is here.",
+        "chat_message": "§c§r§c§lThe sky darkens and the air thickens. The end times are upon us: Ragnarok is here.",
         "fishing_experience": 20000,
         "rarity": "MYTHIC",
         "rare": true
@@ -405,6 +405,16 @@
         "chat_message": "§aA swampy mass of slime emerges, the Bayou Sludge!",
         "fishing_experience": 1000,
         "rarity": "EPIC"
+      },
+      "Titanoboa": {
+        "chat_message": "§a§r§c§lA massive Titanoboa surfaces. It's body stretches as far as the eye can see.",
+        "fishing_experience": 4500,
+        "rarity": "MYTHIC"
+      },
+      "Wiki Tiki": {
+        "chat_message": "§c§r§c§lThe water bubbles and froths. A massive form emerges- you have disturbed the Wiki Tiki! You shall pay the price.",
+        "fishing_experience": 7500,
+        "rarity": "MYTHIC"
       }
     }
   }
