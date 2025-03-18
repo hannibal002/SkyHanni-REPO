@@ -287,6 +287,11 @@
   "LAVA_CRIMSON_ISLE": {
     "chat_color": "§c",
     "sea_creatures": {
+      "Fried Chicken": {
+        "chat_message": "§aSmells of burning. Must be a Fried Chicken.",
+        "fishing_experience": 400,
+        "rarity": "COMMON"
+      },
       "Moogma": {
         "chat_message": "§aYou hear a faint Moo from the lava... A Moogma appears.",
         "fishing_experience": 950,
@@ -300,6 +305,11 @@
       "Pyroclastic Worm": {
         "chat_message": "§aYou feel the heat radiating as a Pyroclastic Worm surfaces.",
         "fishing_experience": 1100,
+        "rarity": "RARE"
+      },
+      "Fireproof Witch": {
+        "chat_message": "§aTrouble's brewing, it's a Fireproof Witch!",
+        "fishing_experience": 1250,
         "rarity": "RARE"
       },
       "Lava Flame": {
@@ -331,6 +341,12 @@
       "Lord Jawbus": {
         "chat_message": "§c§lYou have angered a legendary creature... Lord Jawbus has arrived.",
         "fishing_experience": 40000,
+        "rarity": "MYTHIC",
+        "rare": true
+      },
+      "Ragnarok": {
+        "chat_message": "§c§lThe sky darkens and the air thickens. The end times are upon us: Ragnarok is here.",
+        "fishing_experience": 20000,
         "rarity": "MYTHIC",
         "rare": true
       }
