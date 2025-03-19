@@ -75,9 +75,6 @@
       "suffix": "§d:3"
     },
     "oxsss": {},
-    "Parsers": {
-      "suffix": "§1§l:O"
-    },
     "PlasticEating": {
       "suffix": "§d§l:3"
     },
@@ -117,6 +114,9 @@
     "Thunderblade73": {},
     "Tryp0MC": {
       "suffix": "§6B)"
+    },
+    "typename": {
+      "suffix": "§1§l:O"
     },
     "Vahvl": {
       "suffix": "§d:3"
