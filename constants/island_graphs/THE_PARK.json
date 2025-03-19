@@ -3414,6 +3414,10 @@
   },
   "409": {
     "Position": "-294.0:85.0:32.0",
+    "Name": "Fairy Soul",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
       "412": 3.32
     }
@@ -3472,6 +3476,10 @@
   },
   "417": {
     "Position": "-315.0:91.0:-72.0",
+    "Name": "Fairy Soul",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
       "418": 3.0,
       "416": 4.58
@@ -3535,6 +3543,10 @@
   },
   "426": {
     "Position": "-357.0:101.0:79.0",
+    "Name": "Fairy Soul",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
       "425": 5.2
     }
@@ -3549,6 +3561,10 @@
   },
   "428": {
     "Position": "-404.0:137.0:6.0",
+    "Name": "Fairy Soul",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
       "427": 7.35
     }
@@ -3602,14 +3618,18 @@
   "435": {
     "Position": "-381.0:104.0:-72.0",
     "Neighbours": {
-      "436": 5.74,
+      "436": 6.16,
       "433": 7.14
     }
   },
   "436": {
-    "Position": "-386.0:106.0:-70.0",
+    "Position": "-386.0:107.0:-70.0",
+    "Name": "Fairy Soul",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
-      "435": 5.74
+      "435": 6.16
     }
   },
   "437": {
@@ -3636,6 +3656,10 @@
   },
   "440": {
     "Position": "-455.0:121.0:-58.0",
+    "Name": "Fairy Soul",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
       "439": 2.45
     }
@@ -3678,6 +3702,10 @@
   },
   "446": {
     "Position": "-452.0:113.0:-87.0",
+    "Name": "Fairy Soul",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
       "445": 15.0
     }
@@ -3700,6 +3728,10 @@
   },
   "449": {
     "Position": "-410.0:123.0:-92.0",
+    "Name": "Fairy Soul",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
       "451": 2.24
     }
@@ -3768,6 +3800,10 @@
   },
   "458": {
     "Position": "-370.0:112.0:-119.0",
+    "Name": "Fairy Soul",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
       "459": 6.32
     }
@@ -3816,6 +3852,10 @@
   },
   "465": {
     "Position": "-472.0:133.0:-125.0",
+    "Name": "Fairy Soul",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
       "466": 2.24
     }
@@ -3848,6 +3888,10 @@
   },
   "470": {
     "Position": "-390.0:61.0:-5.0",
+    "Name": "Fairy Soul",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
       "98": 11.05
     }

@@ -821,7 +821,7 @@
     "Position": "33.0:62.0:-41.0",
     "Name": "Gear Fairy Soul",
     "Tags": [
-      "poi"
+      "fairy_soul"
     ],
     "Neighbours": {
       "96": 6.4
@@ -897,7 +897,7 @@
     "Position": "72.0:116.0:-12.0",
     "Name": "Chimney Fairy Soul",
     "Tags": [
-      "poi"
+      "fairy_soul"
     ],
     "Neighbours": {
       "109": 2.83
@@ -979,7 +979,7 @@
     "Position": "0.9999999999999999:68.0:9.0",
     "Name": "Behind Hut Fairy Soul",
     "Tags": [
-      "poi"
+      "fairy_soul"
     ],
     "Neighbours": {
       "117": 1.41
@@ -1180,7 +1180,7 @@
     "Position": "64.0:76.0:5.0",
     "Name": "Small Pipe Fairy Soul",
     "Tags": [
-      "poi"
+      "fairy_soul"
     ],
     "Neighbours": {
       "142": 6.0,
@@ -1340,7 +1340,7 @@
     "Position": "15.0:60.0:-7.0",
     "Name": "Tunnel Fairy Soul",
     "Tags": [
-      "poi"
+      "fairy_soul"
     ],
     "Neighbours": {
       "163": 2.24
