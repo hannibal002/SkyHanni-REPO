@@ -108,7 +108,7 @@
       "message_starts_with": [
         "Could not find gemstone slot price for"
       ],
-      "fixed_in: "2.3.0"
+      "fixed_in": "2.3.0"
     }
   ]
 }
