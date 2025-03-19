@@ -363,7 +363,8 @@
       "Alligator": {
         "chat_message": "§aA long snout breaks the surface of the water. It's an Alligator!",
         "fishing_experience": 1250,
-        "rarity": "LEGENDARY"
+        "rarity": "LEGENDARY",
+        "rare": true
       },
       "Dumpster Diver": {
         "chat_message": "§aA Dumpster Diver has emerged from the swamp!",
