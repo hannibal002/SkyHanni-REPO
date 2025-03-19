@@ -346,5 +346,96 @@
         "rare": true
       }
     }
+  },
+  "BACKWATER_BAYOU": {
+    "chat_color": "§2",
+    "sea_creatures": {
+      "Trash Gobbler": {
+        "chat_message": "§aThe Trash Gobbler is hungry for you!",
+        "fishing_experience": 175,
+        "rarity": "COMMON"
+      },
+      "Banshee": {
+        "chat_message": "§aThe desolate wail of a Banshee breaks the silence.",
+        "fishing_experience": 1000,
+        "rarity": "RARE"
+      },
+      "Alligator": {
+        "chat_message": "§aA long snout breaks the surface of the water. It's an Alligator!",
+        "fishing_experience": 1250,
+        "rarity": "LEGENDARY",
+        "rare": true
+      },
+      "Dumpster Diver": {
+        "chat_message": "§aA Dumpster Diver has emerged from the swamp!",
+        "fishing_experience": 250,
+        "rarity": "UNCOMMON"
+      },
+      "Bayou Sludge": {
+        "chat_message": "§aA swampy mass of slime emerges, the Bayou Sludge!",
+        "fishing_experience": 1000,
+        "rarity": "EPIC"
+      },
+      "Titanoboa": {
+        "chat_message": "§a§r§c§lA massive Titanoboa surfaces. It's body stretches as far as the eye can see.",
+        "fishing_experience": 4500,
+        "rarity": "MYTHIC",
+        "rare": true
+      }
+    }
+  },
+  "LAVA_HOTSPOT": {
+    "chat_color": "§d",
+    "sea_creatures": {
+      "Ragnarok": {
+        "chat_message": "§c§r§c§lThe sky darkens and the air thickens. The end times are upon us: Ragnarok is here.",
+        "fishing_experience": 20000,
+        "rarity": "MYTHIC",
+        "rare": true
+      },
+      "Fireproof Witch": {
+        "chat_message": "§aTrouble's brewing, it's a Fireproof Witch!",
+        "fishing_experience": 1250,
+        "rarity": "RARE"
+      },
+      "Fried Chicken": {
+        "chat_message": "§aSmells of burning. Must be a Fried Chicken.",
+        "fishing_experience": 400,
+        "rarity": "COMMON"
+      },
+      "Fiery Scuttler": {
+        "chat_message": "§cA Fiery Scuttler inconspicuously waddles up to you, friends in tow.",
+        "fishing_experience": 15000,
+        "rarity": "LEGENDARY",
+        "rare": true
+      }
+    }
+  },
+  "WATER_HOTSPOT": {
+    "chat_color": "§d",
+    "sea_creatures": {
+      "Wiki Tiki": {
+        "chat_message": "§c§r§c§lThe water bubbles and froths. A massive form emerges- you have disturbed the Wiki Tiki! You shall pay the price.",
+        "fishing_experience": 7500,
+        "rarity": "MYTHIC",
+        "rare": true
+      },
+      "Blue Ringed Octopus": {
+        "chat_message": "§aA garish set of tentacles arise. It's a Blue Ringed Octopus!",
+        "fishing_experience": 5000,
+        "rarity": "LEGENDARY",
+        "rare": true
+      },
+      "Snapping Turtle": {
+        "chat_message": "§aA Snapping Turtle is coming your way, and it's ANGRY!",
+        "fishing_experience": 500,
+        "rarity": "RARE"
+      },
+      "Frog Man": {
+        "chat_message": "§aIs it a frog? Is it a man? Well, yes, sorta, IT'S FROG MAN!!!!!!",
+        "fishing_experience": 200,
+        "rarity": "COMMON"
+      }
+    }
   }
 }
