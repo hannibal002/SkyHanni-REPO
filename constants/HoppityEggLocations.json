@@ -191,6 +191,23 @@
       "557:117:463",
       "553:100:489",
       "513:70:513"
+    ],
+    "BACKWATER_BAYOU": [
+      "26:79:-29",
+      "35:75:-25",
+      "14:68:4",
+      "28:60:-35",
+      "56:82:-7",
+      "75:88:-0",
+      "4:68:7",
+      "61:87:23",
+      "-11:73:-4",
+      "36:73:18",
+      "70:81:-14",
+      "59:80:3",
+      "24:68:-10",
+      "17:72:21",
+      "15:71:-16"
     ]
   },
   "rabbitSlots": {
@@ -225,7 +242,7 @@
   "shrineIndex": 41,
   "coachRabbitIndex": 42,
   "rabbitHitmanIndex": 51,
-  "maxRabbits": 503,
+  "maxRabbits": 508,
   "maxPrestige": 6,
   "cf_shortcut_index": 16,
   "maxMilestoneChocolate": 700000000000,
@@ -350,6 +367,13 @@
       "Melon",
       "Potato",
       "Stinky"
+    ],
+    "BACKWATER_BAYOU": [
+      "Nearquaad",
+      "Sherk",
+      "Donkey",
+      "Onion",
+      "Bayou"
     ]
   },
   "apiEggLocations": {
@@ -541,6 +565,23 @@
       "dungeon_hub_precursor_ruins": "-138:21:-7",
       "dungeon_hub_catacombs": "-52:156:0",
       "dungeon_hub_entrance": "0:108:0"
+    },
+    "BACKWATER_BAYOU": {
+      "bayou_wheel": "75:88:-0",
+      "bayou_path": "15:71:-16",
+      "bayou_dock": "14:68:4",
+      "bayou_smokestacks": "70:81:-14",
+      "bayou_bridge": "36:73:18",
+      "bayou_vines": "56:82:-7",
+      "bayou_hattie": "17:72:21",
+      "bayou_waterfall": "35:75:-25",
+      "bayou_lilypad": "24:68:-10",
+      "bayou_ship": "-11:73:-4",
+      "bayou_roddy": "4:68:7",
+      "bayou_joel": "26:79:-29",
+      "bayou_cave": "28:60:-35",
+      "bayou_pipe": "59:80:3",
+      "bayou_gear": "61:87:23"
     }
   },
   "chocolateFactoryMilestones": [
