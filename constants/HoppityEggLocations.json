@@ -567,7 +567,7 @@
       "dungeon_hub_entrance": "0:108:0"
     },
     "BACKWATER_BAYOU": {
-      "bayou_wheel": "75:88:0",
+      "bayou_wheel": "75:88:-0",
       "bayou_path": "15:71:-15",
       "bayou_dock": "14:68:4",
       "bayou_smokestacks": "70:81:-13",
