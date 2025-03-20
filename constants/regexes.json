@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1752d52",
+  "sourceLabel": "60bbab2",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -569,7 +569,7 @@
     "fishing.totemofcorruption.timeremaining": "§7Remaining: §e(?:(?\u003cmin\u003e\\d+)m )?(?\u003csec\u003e\\d+)s",
     "fishing.totemofcorruption.totemname": "§5§lTotem of Corruption",
     "fishing.tracker.chat.coins": ".* CATCH! §r§bYou found §r§6(?\u003ccoins\u003e.*) Coins§r§b\\.",
-    "fishing.trophy.trophyfish": "§6§lTROPHY FISH! §r§bYou caught an? §r(?\u003cdisplayName\u003e§[0-9a-f](?:§k)?[\\w -]+) §r(?\u003cdisplayRarity\u003e§[0-9a-f]§l\\w+)§r§b\\.",
+    "fishing.trophy.trophyfish": "§6♔ §r§6§lTROPHY FISH! §r§fYou caught an? §r(?\u003cdisplayName\u003e§[0-9a-f](?:§k)?[\\w -]+) §r(?\u003cdisplayRarity\u003e§[0-9a-f]§l\\w+)§r§f!",
     "fishing.trophyfish.odger.rank": "§.(?\u003crarity\u003e.*) §a✔§7 \\((?\u003camount\u003e.*)\\)",
     "fishing.trophyfish.odger.rank.empty": "§.(?\u003crarity\u003e.*) §c✖",
     "fishing.trophyfishing.armor": "(?:BRONZE|SILVER|GOLD|DIAMOND)_HUNTER_(?:HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
