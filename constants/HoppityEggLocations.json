@@ -207,7 +207,7 @@
       "59:80:3",
       "24:68:-9",
       "17:72:21",
-      "15:71:-15"
+      "15:71:-16"
     ]
   },
   "rabbitSlots": {
@@ -568,7 +568,7 @@
     },
     "BACKWATER_BAYOU": {
       "bayou_wheel": "75:88:-0",
-      "bayou_path": "15:71:-15",
+      "bayou_path": "15:71:-16",
       "bayou_dock": "14:68:4",
       "bayou_smokestacks": "70:81:-13",
       "bayou_bridge": "36:73:18",
