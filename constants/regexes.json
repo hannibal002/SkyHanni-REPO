@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9487d90",
+  "sourceLabel": "b906734",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1074,6 +1074,9 @@
     "misc.eclock.boost.status": "§7Status: §(?\u003ccolor\u003e[a-f])§l(?\u003cstatus\u003e.+)",
     "misc.eclock.chat.boostused": "§6§lTIME WARP! §r§aYou have successfully warped time for your (?\u003cusagestring\u003e.+?)!",
     "misc.eclock.inventory.name": "Enchanted Time Clock",
+    "misc.fairy-souls.chat.duplicat": "§dYou have already found that Fairy Soul!",
+    "misc.fairy-souls.chat.new": "§d§lSOUL! §fYou found a §r§dFairy Soul§r§f!",
+    "misc.fairy-souls.new": "§7Fairy Souls: §e(?\u003chave\u003e.*)§7\\/§d(?\u003ctotal\u003e.*)",
     "misc.frogmask.description.active": "§7Today\u0027s region: (?\u003cregion\u003e.+)",
     "misc.gifting.reward.boostpotion": "§.§l.*! §r§.(?\u003cskill\u003e[\\w ]+) XP Boost (?\u003ctier\u003e[IVXLCDM]+) Potion §r§egift with §r.*",
     "misc.gifting.reward.coins": "§.§l.*! §r§.\\+(?\u003camount\u003e[\\d,]+) Coins §r§egift with §r.*",
