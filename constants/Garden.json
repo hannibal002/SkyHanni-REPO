@@ -691,13 +691,13 @@
       "position": "-26:68:-104",
       "skinOrType": "EntityVillager"
     },
-    "Fisherman": {
+    "Fisherman Gerald": {
       "rarity": "uncommon",
       "need_items": [
         "Carrot"
       ],
       "mode": "hub",
-      "position": "155.6:68:47.5",
+      "position": "153:68:55",
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NTk1NzQ0MjU3OTEsInByb2ZpbGVJZCI6ImZkNjBmMzZmNTg2MTRmMTJiM2NkNDdjMmQ4NTUyOTlhIiwicHJvZmlsZU5hbWUiOiJSZWFkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNjc1ZjA3MWVmYjBjZjI3YmYxNjA4MWUzZjgyZjliNWY4YWU4OGVjYTllZTk1MjNiNjIxNmU2MTdmNmY0NWM5In19fQ=="
     },
     "Fragilis": {
