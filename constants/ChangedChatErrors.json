@@ -109,6 +109,12 @@
         "Could not find gemstone slot price for"
       ],
       "fixed_in": "2.3.0"
+    },
+    {
+      "message_starts_with": [
+        "No path to fishing hotspot found"
+      ],
+      "fixed_in": "2.5.0"
     }
   ]
 }
