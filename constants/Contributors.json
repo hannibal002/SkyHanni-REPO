@@ -2,14 +2,10 @@
   "contributors": {
     "Alea1337": {},
     "aphased": {
-      "suffix": "§9:D"
+      "suffix": "§9:D",
+      "upsideDown": true
     },
     "appable": {},
-    "bphased": {
-      "suffix": "§9§l^^",
-      "upsideDown": true,
-      "alt from": "aphased"
-    },
     "CalMWolfs": {
       "suffix": "§e:)",
       "spinny": true,
