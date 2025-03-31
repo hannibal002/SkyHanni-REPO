@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1a667a1",
+  "sourceLabel": "bb9808a",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -391,7 +391,7 @@
     "event.lobbywaypoints.main.scoreboard.basket": "^Baskets Found: §a\\d+§f/§a\\d+$",
     "event.lobbywaypoints.main.scoreboard.halloween": "^§6Halloween \\d+$",
     "event.lobbywaypoints.main.scoreboard.title": "^HYPIXEL$",
-    "event.winter.drank.jyrre": "§aYou drank a §r§6Refined Bottle of Jyrre §r§aand gained §r§b\\+300✎ Intelligence §r§afor §r§b60 minutes§r§a!",
+    "event.winter.drank.jyrre": "§7You consumed a §r§6Refined Bottle of Jyrre §r§7and gained §r§b\\+300✎ Intelligence §r§7for §r§a60m§r§7!",
     "event.winter.giftapi.giftname": "(?:WHITE|RED|GREEN)_GIFT$",
     "event.winter.newyearcake.reminder.sidebar": "§dNew Year Event!§f (?\u003ctime\u003e.*)",
     "event.winter.reindrakewarphelper.spawn.message": "§c§lWOAH! (?:§r)?§cA (?:§r)?§4Reindrake (?:§r)?§cwas summoned from the depths!",
