@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8247976",
+  "sourceLabel": "410fd83",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -971,6 +971,7 @@
     "minion.item.collect": "^§aCollect All$",
     "minion.items.upgrade": "§7§cYou need §6(?\u003camount\u003e\\d+) §cmore (?\u003citemName\u003e.+)\\.",
     "minion.title": "Minion [^➜]",
+    "misc.abiphone.call.ring": "§a✆ (?:RING\\.{3} ?){1,3}(?:§r §r§2§l\\[PICK UP])?",
     "misc.century-party-invitation.chat-message.found-all": "§aYou had already gained the bonus, so\\.\\.\\. at least everyone is now invited!",
     "misc.century-party-invitation.chat-message.party-add": "§d§lPARTY! .* SkyBlock level color is .*\\[.*\\] - \\[.*\\] §r§(?\u003ccolor\u003e.).*§e!",
     "misc.century-party-invitation.item-lore.missing-color-line": "§8\\[.*\\] - \\[.*\\] §(?\u003ccolor\u003e.).*",
@@ -1012,7 +1013,6 @@
     "misc.chocolatefactory.hoppity.call.init": "§e✆ §r(?:§a|§b)Hoppity§r§e ✆.*",
     "misc.chocolatefactory.hoppity.call.pickup": "§e\\[NPC] §aHoppity§f: §b✆ §f§rWhat\u0027s up, .*§f\\?",
     "misc.chocolatefactory.hoppity.call.pickup.outgoing": "\\/selectnpcoption hoppity r_2_1",
-    "misc.chocolatefactory.hoppity.call.ring": "§a✆ (?:RING\\.{3} ?){1,3}(?:§r §r§2§l\\[PICK UP])?",
     "misc.chocolatefactory.inventory.mealegg.continue": "(?:§.)*Click to open Chocolate Factory!",
     "misc.chocolatefactory.inventory.mealegg.name": "(?:§.)*Chocolate (?:Breakfast|Lunch|Dinner|Brunch|Déjeuner|Supper) Egg.*",
     "misc.chocolatefactory.inventory.misc": "(?:§.)*Chocolate (?:Shop |Factory ?)(?:Milestones)?",
