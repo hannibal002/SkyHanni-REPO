@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "5e17f93",
+  "sourceLabel": "952dfca",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -437,7 +437,7 @@
     "features.gui.customscoreboard.scoreboard.dungeon.keys": "Keys: §.■ §.[✗✓] §.■ §a.x",
     "features.gui.customscoreboard.scoreboard.dungeon.m7dragons": "§cNo Alive Dragons|§8- (?:§.)+[\\w\\s]+Dragon§a [\\w,.]+(?:§.❤)?",
     "features.gui.customscoreboard.scoreboard.dungeon.solo": "§3§lSolo",
-    "features.gui.customscoreboard.scoreboard.dungeon.teammates": "(?:§.)*(?\u003cclassAbbv\u003e\\[\\w]) (?:§.)*(?\u003cusername\u003e\\w{2,16}) (?:(?:§.)*(?\u003cclassLevel\u003e\\[Lvl?(?\u003clevel\u003e[\\w,.]+)?]?)|(?:§.)*(?\u003chealth\u003e[\\w,.]+)(?:§.)*.?)",
+    "features.gui.customscoreboard.scoreboard.dungeon.teammates": "(?:§.)*(?\u003cclassAbbv\u003e\\[\\w]) (?:§.)*(?\u003cusername\u003e\\w{2,16}) (?:(?:§.)*(?\u003cclassLevel\u003e\\[Lvl?(?\u003clevel\u003e[\\w,.]+)?]?)|(?:§(?\u003ccolor\u003e.))*(?\u003chealth\u003e[\\w,.]+)(?:§.)*.?)",
     "features.gui.customscoreboard.scoreboard.events.newyear": "§dNew Year Event!§f \\d*?:?\\d+",
     "features.gui.customscoreboard.scoreboard.events.spooky": "§6Spooky Festival§f \\d*?:?\\d+",
     "features.gui.customscoreboard.scoreboard.events.travelingzoo": "§aTraveling Zoo§f \\d*:\\d+",
