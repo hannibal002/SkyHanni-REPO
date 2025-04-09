@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "952dfca",
+  "sourceLabel": "bfa3b0c",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1140,6 +1140,8 @@
     "mob.detection.pattern.petcare": "^\\[\\w+ (?\u003clevel\u003e\\d+)\\] (?\u003cname\u003e.*)",
     "mob.detection.pattern.summon.owner": ".*Spawned by: (?\u003cname\u003e.*).*",
     "ownplayer.death.chat": "§c ☠ §r§7You (?\u003creason\u003e.+)",
+    "party.invite.expired": "§eThe party invite from §r§.(?:\\[.*].)?(?\u003cplayer\u003e\\S+) §r§ehas expired\\.",
+    "party.invite.received": "§r§.(?:\\[.*].)?(?\u003cplayer\u003e\\S+) §r§ehas invited you to join their party!",
     "pet.nametag": "(?\u003cstart\u003e§8\\[§7Lv(?\u003clvl\u003e\\d+)§8]) (?\u003crarity\u003e§.)(?\u003cpet\u003e[\\w\\s]+)(?\u003cskin\u003e§. ✦)?",
     "rabbit.requirement.factory": "§6Factory Milestones§7.",
     "rabbit.requirement.shop": "§6Shop Milestones§7.",
