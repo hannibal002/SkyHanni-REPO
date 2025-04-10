@@ -115,6 +115,12 @@
         "No path to fishing hotspot found"
       ],
       "fixed_in": "2.5.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a InvocationTargetException in at.hannibal2.skyhanni.features.event.hoppity.HoppityEventSummary.onSecondPassed"
+      ],
+      "fixed_in": "2.10.0"
     }
   ]
 }
