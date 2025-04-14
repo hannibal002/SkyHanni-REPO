@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "403ed52",
+  "sourceLabel": "cb83ed5",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1094,6 +1094,12 @@
     "misc.fairy-souls.chat.new": "§d§lSOUL! §fYou found a §r§dFairy Soul§r§f!",
     "misc.fairy-souls.new": "§7Fairy Souls: §e(?\u003chave\u003e.*)§7\\/§d(?\u003ctotal\u003e.*)",
     "misc.frogmask.description.active": "§7Today\u0027s region: (?\u003cregion\u003e.+)",
+    "misc.fruit-bowl.chat-message.clicked-player": "FRUIT BOWL! (?\u003cplayer\u003e.*) profile name is (?\u003cprofile\u003e[a-zA-Z]*)!",
+    "misc.fruit-bowl.chat-message.duplicate": "You already found this profile name in your bowl!",
+    "misc.fruit-bowl.chat-message.found-all": "§2§lFRUITALICIOUS! §r§aYou completed your fruit bowl!",
+    "misc.fruit-bowl.chat-message.found-missing": "(?\u003cprofile\u003e[a-zA-Z]*) has been added to the fruit bowl!",
+    "misc.fruit-bowl.item-lore.missing-name-line": "§b(?\u003cname\u003e[a-zA-Z]*)",
+    "misc.fruit-bowl.item-lore.missing-names-separator": "§7Names? missing:",
     "misc.gifting.reward.boostpotion": "§.§l.*! §r§.(?\u003cskill\u003e[\\w ]+) XP Boost (?\u003ctier\u003e[IVXLCDM]+) Potion §r§egift with §r.*",
     "misc.gifting.reward.coins": "§.§l.*! §r§.\\+(?\u003camount\u003e[\\d,]+) Coins §r§egift with §r.*",
     "misc.gifting.reward.enchantmentbook": "§9§lRARE! §r§9(?\u003cenchantment\u003e.+) (?\u003ctier\u003e[IVXLCDM]+) §r§egift with .*",
