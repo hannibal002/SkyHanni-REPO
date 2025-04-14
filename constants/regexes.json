@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4fbf53d",
+  "sourceLabel": "403ed52",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -305,7 +305,7 @@
     "dungeon.noblessings": "§r§r§7No Buffs active\\. Find them by exploring the Dungeon!§r",
     "dungeon.race.active": "§.§.(?\u003crace\u003e[\\w ]+) RACE §.[\\d:.]+",
     "dungeon.room": "§7\\d+/\\d+/\\d+ §\\w+ (?\u003croomId\u003e[\\w,-]+)",
-    "dungeon.tablist.rank": "^(?:§.)*(?\u003csbLevel\u003e\\[(?:§.)*\\d+(?:§.)*]) (?\u003crank\u003e(?:§.)*\\[(?:§.)*[^]]+(?:§.)*])? ?(?\u003cplayerName\u003e\\S+) (?\u003csymbols\u003e[^(]*)\\((?:§.)*(?\u003cclassName\u003e\\S+) (?\u003cclassLevel\u003e[CLXVI]+)(?:§.)*\\)(?:§.)*$",
+    "dungeon.tablist.playerteam": "^(?:§.)*(?\u003csbLevel\u003e\\[(?:§.)*\\d+(?:§.)*]) (?\u003crank\u003e(?:§.)*\\[(?:§.)*[^]]+(?:§.)*])? ?(?\u003cplayerName\u003e\\S+) (?\u003csymbols\u003e[^(]*)\\((?:§.)*(?:(?\u003cclassName\u003e\\S+) (?\u003cclassLevel\u003e[CLXVI0]+)|(?\u003cplayerDead\u003eDEAD))(?:§.)*\\)(?:§.)*$",
     "dungeon.terracotta.end": "§c\\[BOSS] Sadan§r§f: ENOUGH!",
     "dungeon.terracotta.start": "§c\\[BOSS] Sadan§r§f: So you made it all the way here... Now you wish to defy me\\? Sadan\\?!",
     "dungeon.time": "Time Elapsed: §.(?:(?\u003cminutes\u003e\\d+)m )?(?\u003cseconds\u003e\\d+)s",
