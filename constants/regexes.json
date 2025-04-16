@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "cb83ed5",
+  "sourceLabel": "3b049cd",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -60,6 +60,9 @@
     "chat.arachne.spawn": "§c\\[BOSS] Arachne§r§f: (?:The Era of Spiders begins now\\.|Ahhhh\\.\\.\\.A Calling\\.\\.\\.)",
     "chat.arachne.venom": "§dArachne(?:\u0027s (?:Keeper|Brood))? used §r§2Venom Shot §r§don you hitting you for §r§c[\\d.,]+ damage §r§dand infecting you with venom\\.",
     "chat.coins.format": "§6(?\u003camount\u003e\\d[\\d,.]+)(?![\\d.,kMB])",
+    "chat.current-chat.all": "§cYou are not in a party and were moved to the ALL channel\\.|§cThe conversation you were in expired and you have been moved back to the ALL channel\\.",
+    "chat.current-chat.changed": "§aYou are now in the §r§6(?\u003cchat\u003e.+)§r§a channel",
+    "chat.current-chat.private.open": "^§aOpened a chat conversation with (?:§.)*(?:\\[.+])?(?:§.|\\s)*(?\u003cplayer\u003e.*)§r§a for the next 5 minutes\\. Use §r§b\\/chat a§r§a to leave",
     "chat.experiments.compact.drop": "^(?:§8 \\+| §r§8\\+)(?\u003creward\u003e.*)$",
     "chat.experiments.compact.inventories": "(?:Superpairs|Chronomatron|Ultrasequencer) (?:\\(.+\\)|➜ Stakes|Rewards)|Experimentation Table",
     "chat.experiments.compact.message": "(?\u003cmessage\u003e§eYou claimed the §r§.\\S+ §r§erewards!)",
