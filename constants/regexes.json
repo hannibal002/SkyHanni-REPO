@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "3b049cd",
+  "sourceLabel": "801c9e9",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -68,6 +68,12 @@
     "chat.experiments.compact.message": "(?\u003cmessage\u003e§eYou claimed the §r§.\\S+ §r§erewards!)",
     "chat.firesale": "§6§k§lA§r §c§lFIRE SALE §r§6§k§lA(?:\\n|.)*",
     "chat.garden.teleport": "§aTeleported you to .*",
+    "chat.jacobcompact.bits": " {4}§r§8\\+§r§b(?\u003camount\u003e[\\d,]+) Bits",
+    "chat.jacobcompact.book": " {4}§r§7§8(?\u003camount\u003e[\\d,]+)x §9Turbo-(?\u003ccrop\u003e[^ ]+) I Book",
+    "chat.jacobcompact.medals": " {4}§r§7§8\\+§e(?\u003camount\u003e[\\d,]+) §7(?\u003ctype\u003e[^ ]+) medals?",
+    "chat.jacobcompact.opening": " {2}§r§6§lFARMING CONTEST REWARDS CLAIMED",
+    "chat.jacobcompact.rewards": " {2}§r§a§lREWARDS",
+    "chat.jacobcompact.tickets": " {4}§r§7§a(?\u003ctype\u003eJacob\u0027s|Carnival) Ticket §8x(?\u003camount\u003e[\\d,]+)",
     "chat.jacobevent.accessory": "§e\\[NPC] Jacob§f: §rYour §9Anita\u0027s \\w+ §fis giving you §6\\+\\d{1,2}☘ .+ Fortune §fduring the contest!",
     "chat.player.death": "§c ☠ §r§7§r§.(?\u003cname\u003e.+)§r§7 (?\u003creason\u003e.+)",
     "chat.skymall.perk": "§eNew buff§r§r§r:.*",
