@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "649b15c",
+  "sourceLabel": "2a8216f",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -62,6 +62,7 @@
     "chat.coins.format": "§6(?\u003camount\u003e\\d[\\d,.]+)(?![\\d.,kMB])",
     "chat.current-chat.all": "§cYou are not in a party and were moved to the ALL channel\\.|§cThe conversation you were in expired and you have been moved back to the ALL channel\\.",
     "chat.current-chat.changed": "§aYou are now in the §r§6(?\u003cchat\u003e.+)§r§a channel",
+    "chat.current-chat.guild": "§cYou cannot send guild chat with your guild chat disabled! Use \\/g toggle to enable it!",
     "chat.current-chat.private.open": "^§aOpened a chat conversation with (?:§.)*(?:\\[.+])?(?:§.|\\s)*(?\u003cplayer\u003e.*)§r§a for the next 5 minutes\\. Use §r§b\\/chat a§r§a to leave",
     "chat.experiments.compact.drop": "^(?:§8 \\+| §r§8\\+)(?\u003creward\u003e.*)$",
     "chat.experiments.compact.inventories": "(?:Superpairs|Chronomatron|Ultrasequencer) (?:\\(.+\\)|➜ Stakes|Rewards)|Experimentation Table",
