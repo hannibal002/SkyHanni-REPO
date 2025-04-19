@@ -70,6 +70,11 @@
     "minhperry02": {
       "suffix": "§9:D"
     },
+    "NeoNyaa": {
+      "spinny": true,
+      "upsideDown": true,
+      "suffix": "§d§l:3"
+    },
     "NetheriteMiner": {},
     "oBlazin": {
       "suffix": "§d§l^^"
@@ -173,11 +178,6 @@
       "spinny": true,
       "upsideDown": true,
       "external_mod": "SBA"
-    },
-    "NeoNyaa": {
-      "spinny": true,
-      "upsideDown": true,
-      "suffix": "§d§l:3"
     }
   }
 }
