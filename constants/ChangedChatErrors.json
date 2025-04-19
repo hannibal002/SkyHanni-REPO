@@ -126,7 +126,7 @@
       "message_starts_with": [
         "Caught a IndexOutOfBoundsException in at.hannibal2.skyhanni.utils.KeyboardManager.onTick() at SkyHanniTickEvent: null"
       ],
-      "fixed_in": "9.9.9"
+      "fixed_in": "3.18.0"
     }
   ]
 }
