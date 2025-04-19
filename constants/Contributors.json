@@ -99,7 +99,8 @@
       "suffix": "§6§l:P"
     },
     "rueblimaster": {
-      "suffix": "§6§r&z"
+      "suffix": "§6§r&z",
+      "spinny": false
     }
     "Sayonara": {
       "suffix": "§cc:"
