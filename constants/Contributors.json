@@ -173,6 +173,11 @@
       "spinny": true,
       "upsideDown": true,
       "external_mod": "SBA"
+    },
+    "NeoNyaa": {
+      "spinny": true,
+      "upsideDown": true,
+      "suffix": "§d§l:3"
     }
   }
 }
