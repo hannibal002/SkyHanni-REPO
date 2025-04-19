@@ -121,6 +121,12 @@
         "Caught a InvocationTargetException in at.hannibal2.skyhanni.features.event.hoppity.HoppityEventSummary.onSecondPassed"
       ],
       "fixed_in": "2.10.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IndexOutOfBoundsException in at.hannibal2.skyhanni.utils.KeyboardManager.onTick() at SkyHanniTickEvent: null"
+      ],
+      "fixed_in": "2.18.0"
     }
   ]
 }
