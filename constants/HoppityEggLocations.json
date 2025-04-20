@@ -231,6 +231,14 @@
     13,
     39
   ],
+  "strayTimerDestructiveSlots": [
+    47,
+    48,
+    49,
+    50,
+    51,
+    53
+  ],
   "barnIndex": 35,
   "infoIndex": 13,
   "productionInfoIndex": 45,
