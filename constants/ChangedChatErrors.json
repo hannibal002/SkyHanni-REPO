@@ -124,7 +124,7 @@
     },
     {
       "message_starts_with": [
-        "Caught a IndexOutOfBoundsException in at.hannibal2.skyhanni.utils.KeyboardManager.onTick() at SkyHanniTickEvent: null"
+        "Caught a IndexOutOfBoundsException in at.hannibal2.skyhanni.utils.KeyboardManager.onTick() at SkyHanniTickEvent: "
       ],
       "fixed_in": "2.18.0"
     }
