@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2a8216f",
+  "sourceLabel": "1fad4be",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -457,9 +457,9 @@
     "features.gui.customscoreboard.scoreboard.events.wintereventstart": "(?:§.)*Event Start: §.[\\d:]+$",
     "features.gui.customscoreboard.scoreboard.events.wintereventtotaldmg": "(?:§.)*Your Total Damage: §.[\\d+,.]+.*$",
     "features.gui.customscoreboard.scoreboard.events.wintereventwave": "(?:§.)*Wave \\d+",
-    "features.gui.customscoreboard.scoreboard.farming.cleanup": "\\s*(?:§.)*Cleanup(?:§.)*: (?:§.)*[\\d,.]*%?",
+    "features.gui.customscoreboard.scoreboard.farming.cleanup": "\\s*(?:§.)*Cleanup(?:§.)*: (?:§.)*.*",
     "features.gui.customscoreboard.scoreboard.farming.jacobscontest": "§eJacob\u0027s Contest",
-    "features.gui.customscoreboard.scoreboard.farming.locked": "\\s*§cLocked",
+    "features.gui.customscoreboard.scoreboard.farming.locked": "\\s*§cLocked.*",
     "features.gui.customscoreboard.scoreboard.farming.medals": "§[6fc]§l(?:GOLD|SILVER|BRONZE) §fmedals: §[6fc][\\d.,]+",
     "features.gui.customscoreboard.scoreboard.farming.moblocation": "(?:§.)*Tracker Mob Location:",
     "features.gui.customscoreboard.scoreboard.farming.pasting": "\\s*§f(?:Barn )?Pasting§7: (?:§.)*[\\d,.]+%?",
