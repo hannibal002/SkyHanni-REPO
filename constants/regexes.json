@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1fad4be",
+  "sourceLabel": "19c0e6d",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -125,8 +125,9 @@
     "craftableitemlist.craftitem": "Craft Item",
     "crimson.miniboss.down": "§f\\s*§r§6§l(?\u003cname\u003e.+) DOWN!",
     "crimson.miniboss.spawn": "§c§lBEWARE - (?\u003cname\u003e.+) Is Spawning\\.",
-    "crimson.reputationhelper.quest.complete": "(?:§.)*COMPLETE",
-    "crimson.reputationhelper.quest.minibossamount": "(?:§7Kill the §c.+ §7|.*)miniboss §a(?\u003camount\u003e\\d)(?: §7times?!)?",
+    "crimson.reputationhelper.quest.chat.completed": "§aYou completed your (?\u003ctype\u003e\\w+) quest! Visit the Town Board to claim the rewards.*",
+    "crimson.reputationhelper.quest.townboard.completed": "(?:§.)*COMPLETE",
+    "crimson.reputationhelper.quest.townboard.minibossamount": "(?:§7Kill the §c.+ §7|.*)miniboss §a(?\u003camount\u003e\\d)(?: §7times?!)?",
     "crimson.reputationhelper.tablist.quest": " (?:§.*)?(?\u003cstatus\u003e[✖✔]) (?\u003cname\u003e.+?)(?: (?:§.)*?x(?\u003camount\u003e\\d+))?",
     "crimson.rescue.cancel.afraid": "§e\\[NPC] §eUndercover Agent§f: §rIt\u0027s too dangerous for you\\?",
     "crimson.rescue.cancel.run-away": "§cYou left the area and failed your rescue mission\\.",
