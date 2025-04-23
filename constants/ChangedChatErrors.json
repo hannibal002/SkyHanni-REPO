@@ -124,9 +124,15 @@
     },
     {
       "message_starts_with": [
-        "Caught a IndexOutOfBoundsException in at.hannibal2.skyhanni.utils.KeyboardManager.onTick() at SkyHanniTickEvent: null"
+        "Caught a IndexOutOfBoundsException in at.hannibal2.skyhanni.utils.KeyboardManager.onTick() at SkyHanniTickEvent: "
       ],
       "fixed_in": "2.18.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.misc.AuctionHousePriceComparison.onInventoryOpen"
+      ],
+      "fixed_in": "2.19.0"
     }
   ]
 }
