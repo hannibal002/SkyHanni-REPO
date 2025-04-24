@@ -1,0 +1,32 @@
+{
+    "enforced_config_values": [
+        {
+            "notificationPSA": [
+                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 1. Update SH from discord.gg/moulberry to fix this and other bugs.",
+                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 2. Update SH from discord.gg/moulberry to fix this and other bugs.",
+                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 3. Update SH from discord.gg/moulberry to fix this and other bugs.",
+                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 4. Update SH from discord.gg/moulberry to fix this and other bugs.",
+                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 5. Update SH from discord.gg/moulberry to fix this and other bugs."
+            ],
+            "chatPSA": [
+                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 1. Update SH from discord.gg/moulberry to fix this and other bugs.",
+                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 2. Update SH from discord.gg/moulberry to fix this and other bugs.",
+                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 3. Update SH from discord.gg/moulberry to fix this and other bugs.",
+                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 4. Update SH from discord.gg/moulberry to fix this and other bugs.",
+                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 5. Update SH from discord.gg/moulberry to fix this and other bugs."
+            ],
+            "enforcedValues": [
+                {
+                    "path": "misc.showTimeInLimbo",
+                    "value": false
+                }
+            ],
+            "affectedVersion": "2.6.0",
+            "affectedMinecraftVersions": [
+                "1.8.9",
+                "1.7.10",
+                "1.12.2"
+            ]
+        }
+    ]
+}
