@@ -101,7 +101,7 @@
     "chat_color": "§f",
     "sea_creatures": {
       "Frozen Steve": {
-        "chat_message": "§aFrozen Steve fell into the pond long ago, never to §r§aresurface...until§r§a now!",
+        "chat_message": "§aFrozen Steve fell into the pond long ago, never to resurface...until now!",
         "fishing_experience": 101,
         "rarity": "COMMON"
       },
@@ -130,7 +130,7 @@
       "Reindrake": {
         "chat_message": "§aA Reindrake forms from the depths.",
         "fishing_experience": 0,
-        "rarity": "LEGENDARY",
+        "rarity": "MYTHIC",
         "rare": true
       }
     }
@@ -342,7 +342,7 @@
       "Plhlegblast": {
         "chat_message": "§aWOAH! A Plhlegblast appeared.",
         "fishing_experience": 5000,
-        "rarity": "COMMON",
+        "rarity": "MYTHIC",
         "rare": true
       }
     }
