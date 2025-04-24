@@ -1,0 +1,12 @@
+{
+  "global": {
+    "Mushroom": "red_mushroom",
+    "Bonzo": "bonzo_boss",
+    "Scarf": "scarf_boss",
+    "The Professor": "professor_boss",
+    "Thorns": "thorns",
+    "Livid": "livid_boss",
+    "Sadan": "sadan_boss",
+    "Necron": "necron_boss",
+  }
+}
