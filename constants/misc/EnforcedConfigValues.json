@@ -1,27 +1,21 @@
 {
     "enforced_config_values": [
         {
-            "notificationPSA": [
-                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 1. Update SH from discord.gg/moulberry to fix this and other bugs.",
-                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 2. Update SH from discord.gg/moulberry to fix this and other bugs.",
-                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 3. Update SH from discord.gg/moulberry to fix this and other bugs.",
-                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 4. Update SH from discord.gg/moulberry to fix this and other bugs.",
-                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 5. Update SH from discord.gg/moulberry to fix this and other bugs."
-            ],
             "chatPSA": [
-                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 1. Update SH from discord.gg/moulberry to fix this and other bugs.",
-                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 2. Update SH from discord.gg/moulberry to fix this and other bugs.",
-                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 3. Update SH from discord.gg/moulberry to fix this and other bugs.",
-                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 4. Update SH from discord.gg/moulberry to fix this and other bugs.",
-                "§c[NEU] We have disabled the SH show in limbo due to a conflict with the new Gemstones added in Mining v3. Line 5. Update SH from discord.gg/moulberry to fix this and other bugs."
+                "§cWe have disabled the real time show seconds option due to time zones being more confusing than first thought",
+                "Supports multiple lines!!"
+            ],
+            "notificationPSA": [
+                "§cWARNING: this is a warning but its in a notification popup",
+                "Also supports multiple lines!!"
             ],
             "enforcedValues": [
                 {
-                    "path": "misc.showTimeInLimbo",
+                    "path": "gui.realTimeShowSeconds",
                     "value": false
                 }
             ],
-            "affectedVersion": "2.6.0",
+            "affectedVersion": "1.2.0",
             "affectedMinecraftVersions": [
                 "1.8.9",
                 "1.7.10",
