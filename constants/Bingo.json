@@ -36,14 +36,16 @@
         "You can also try to utilize pests to help here."
       ]
     },
-    "Cave Commodity (Community Goal)": {
+    "Hunter (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Gain HotM-XP"
+        "Collect pelts"
       ],
       "guide": [
-        "Do your daily mining commissions.",
-        "A higher level Bingo Pet will benefit you here."
+        "You should use SkyHanni's Trapper features",
+        "to make this easier. Use /warp trapper",
+        "to get back to Trevor whenever you want.",
+        "You will need a bow for this."
       ]
     },
     "Operation: Ore (Community Goal)": {
@@ -69,149 +71,147 @@
         "and kill it."
       ]
     },
-    "An Axe To Grind": {
+    "Minion Machine": {
       "difficulty": "Medium",
       "note": [
-        "10 Enchantments on a Raider Axe"
+        "60 unique Minions"
       ],
       "guide": [
-        "Buy a Raider Axe for 130k coins",
-        "from the Melancholic Viking in The Park.",
-        "Remember: Level 1 Enchantments do count."
+        "Craft some easy minions while also getting",
+        "those that will help with this Bingo.",
+        "Use NPC shops to buy materials for easy crafts."
       ]
     },
-    "Meiser": {
-      "difficulty": "Easy",
-      "note": [
-        "1m coins in the bank"
-      ],
-      "guide": [
-        "You will most likely get this from leveling up",
-        "skills and selling crops from Farming.",
-        "Remember to actually put the money",
-        "you get in the Bank :)"
-      ]
-    },
-    "Ferocious": {
-      "difficulty": "Easy",
-      "note": [
-        "Reach 3 Ferocity"
-      ],
-      "guide": [
-        "Buy a Dirt Bottle (100k) from the Smithmonger in the Hub",
-        "and reforge an uncommon or higher rarity weapon with it.",
-        "Also don't forget to grab your Cake Buff for extra Ferocity",
-        "(visit xMeru, nightlibra or Yadi)"
-      ]
-    },
-    "Pet Hoarder": {
+    "Relic Researcher": {
       "difficulty": "Medium",
       "note": [
-        "12 unique pets"
+        "10 Relics"
       ],
       "guide": [
-        "§fNo eggs:",
-        "Dolphin, Bee, Grandma Wolf, Bingo, Rock, Owl,",
-        "Enderman, Tarantula, Hermit Crab and Oringo pets",
-        "§fEggs needed:",
-        "Jerry, Rabbit, Pig, Chicken, Bat, Silverfish",
-        "To get the Enchanted Eggs needed, kill Chickens",
+        "You can find Relic Coordinates in Skytils or the Wiki.",
+        "You will need Ender Pearls to reach some of them."
+      ]
+    },
+    "String Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "77.5k String Collection"
+      ],
+      "guide": [
+        "Kill Spiders in the Spider's Den (/warp spider)",
+        "place a few Spider Minions and participate",
+        "in killing Arachne in Arachne's Sanctuary.",
+        "Recommended to wear a Cow Head to avoid the poison.",
+        "For the Minions, dont forget to give them the best",
+        "fuel and storage you have access to. Collect in time!"
+      ]
+    },
+    "A Best Friend": {
+      "difficulty": "Easy",
+      "note": [
+        "Craft any pet"
+      ],
+      "guide": [
+        "The easiest solution for this is the Jerry pet.",
+        "To get the Enchanted Egg needed, kill Chickens",
         "in The Barn till you get the Chicken Head recipe.",
-        "Once you get your first Enchanted Egg, put it into",
-        "one Chicken Minion to generate more of those over time."
+        "Once you get your first Enchanted Egg, use it",
+        "to craft your pet."
       ]
     },
-    "Obsidian Collector": {
+    "Emerald Treasure": {
       "difficulty": "Medium",
       "note": [
-        "33k Obsidian collection"
+        "Unlock an Emerald Dungeon Chest"
       ],
       "guide": [
-        "Mine Nodes in The End and kill Obsidian Defenders",
-        "down in the Dragons Nest to craft some Obsidian Minions.",
-        "Place them on your island and give them the best fuel",
-        "and storage that you have access to and collect in time."      ]
-    },
-    "Diversity": {
-      "difficulty": "Medium",
-      "note": [
-        "40 unique Collections"
-      ],
-      "guide": [
-        "You can unlock §e17/17 §7Farming Collections,",
-        "§e6/11 §7Combat Collections, §e6/6 §7Foraging Collections,",
-        "§e14/22 §7Mining Collections for a total of §e43 §7collections.",
-        "You will also get some Fishing Collections."
+        "Complete a Floor 1 with a score of 230+",
+        "and buy the chest afterwards. If you can't buy",
+        "it on the spot, either save money and buy it",
+        "from Croesus within the next 2 days or do another run.",
+        "You will probably need help with this."
       ]
     },
-    "Brewer": {
-      "difficulty": "Easy",
-      "note": [
-        "Reach Alchemy 14"
-      ],
-      "guide": [
-        "For this you can either use ~95 Enchanted Sugar/Gold",
-        "or 1 Enchanted Sugar Cane. Utilize the Garden for",
-        "those materials if you decide to go the Sugar Cane route."
-      ]
-    },
-    "Sea Summoner": {
-      "difficulty": "Easy",
-      "note": [
-        "Reach 30 Sea Creature Chance"
-      ],
-      "guide": [
-        "Claim your cake buff (visit xMeru, nightlibra or Yadi)",
-        "hold an angler 4/5 rod and visit someone with",
-        "a Sea Creature Chance beacon",
-        "(visit PrincessVictra, ReyMaratov or SakuraPaul).",
-        "Marinas Minister Perk will help a lot for this."
-      ]
-    },
-    "New Savings": {
+    "Oak Wood Collector": {
       "difficulty": "Hard",
       "note": [
-        "Obtain a Piggy Bank"
+        "100k Oak Wood collection"
       ],
       "guide": [
-        "This unlocks at 2.5k Raw Porkchop collection and",
-        "requires 40 Enchanted Porkchop to craft.",
-        "You'll probably gain a bunch of progress for this",
-        "if you decide to do Exterminator in Barn. Else",
-        "you can run Pig Minions, if you have the capacity",
-        "for it. Give them the best fuel and storage",
-        "that you have access to and collect in time."
+        "Optimal tool:",
+        "Golden Axe with Efficiency 5",
+        "Reforges: Double-Bit or Lush",
+        "Get Haste 3 from a splash to instamine wood",
+        "Forage in the Hub for this.",
+        "Place as many minions as you can",
+        "give them a medium storage and the best fuel",
+        "you can. Collect them in time."
       ]
     },
-    "Setting a Trap": {
-      "difficulty": "Medium",
+    "Slaughterer": {
+      "difficulty": "Easy",
       "note": [
-        "Kill a Trapper Animal"
+        "Kill a t2 Slayer Boss under 80s"
       ],
       "guide": [
-        "You should use SkyHanni's Trapper features",
-        "to make this easier. Use /warp trapper",
-        "to get back to Trevor whenever you want.",
-        "You will need a bow for this."
+        "Recommended for this either Revenant Horror II",
+        "or Tarantula Broodfather II. Use your Ender Armor",
+        "and Void Sword (200k) for this."
       ]
     },
-    "Taking Flight": {
-      "difficulty": "Medium",
+    "Esteemed Enchanter": {
+      "difficulty": "Easy",
       "note": [
-        "Consume a Magical Mushroom Soup"
+        "Obtain a t6 book"
       ],
       "guide": [
-        "Farm Mushroom Blocks in the Desert",
-        "with an Efficiency 5 Silk Touch 1 Gold Axe.",
-        "Obtain the needed Glowstone by buying a",
-        "Glowstone Block from the Builder and breaking",
-        "it on your island."
+        "You will most likely be able to complete this",
+        "from doing the Emerald Treasure Goal as there",
+        "is a high chance for a t6 Enchanted Book to be",
+        "in the given Reward Chests."
+      ]
+    },
+    "Hard Worker": {
+      "difficulty": "Medium",
+      "note": [
+        "Craft a t11 Minion"
+      ],
+      "guide": [
+        "The easiest solution here would be",
+        "to craft a Wheat Minion t11 (83.232 Wheat).",
+        "Utilize the Garden and its pests",
+        "to obtain the needed resources."
+      ]
+    },
+    "Trouble is Brewing...": {
+      "difficulty": "Easy",
+      "note": [
+        "Brew any t4 potion"
+      ],
+      "guide": [
+        "Brew an Absorption IV potion with an",
+        "Enchanted Gold and combine it with a Glowstone.",
+        "You can get that Glowstone by buying one block",
+        "from the Builder and breaking it on your island."
+      ]
+    },
+    "A Lost Cause": {
+      "difficulty": "Medium",
+      "note": [
+        "Kill a Lost Adventurer"
+      ],
+      "guide": [
+        "Start an Entrance floor and play Mage/Tank/Berserker to use",
+        "the classes abilities to kill a Lost Adventurer.",
+        "You only need to get the last hit",
+        "on it to count, so you can get help from your team.",
+        "You need Combat Level 15 to join a Dungeon."
       ]
     },
     "Commission Master": {
       "difficulty": "Easy",
       "note": [
-        "Complete 15 Commissions"
+        "Complete 4 Commissions"
       ],
       "guide": [
         "Do your daily commissions in the Dwarven Mines",
@@ -220,43 +220,50 @@
         "though it might be harder to do so."
       ]
     },
-    "Now We're In Business": {
+    "Skill Average": {
+      "difficulty": "Medium",
+      "note": [
+        "Skill Average of 14"
+      ],
+      "guide": [
+        "To help with this, try to make bigger crafts",
+        "by hand for Carpentry levels.",
+        "Use the Enchanted Sugar that you may get from",
+        "pests/the Garden to brew Speed Potions.",
+        "Also do your daily experiments and make sure",
+        "to have a pet active at all times",
+        "(any pet works, even level 100)."
+      ]
+    },
+    "Healthy": {
       "difficulty": "Easy",
       "note": [
-        "Obtain a Diamond Spreading"
+        "500 Health"
       ],
       "guide": [
-        "This unlocks at 5k Diamond Collection and",
-        "needs 1 Enchanted Diamond and 8 Vines (costs 40 Jungle Leaves,",
-        "needs Jungle Wood Collection 4 to unlock in /trades).",
-        "You should probably mine Pure Diamonds",
-        "in the Dwarven Mines for this."
+        "Wear armor enchanted with Growth 5 ",
+        "(Enchanting Level 5), preferably Ender Armor",
+        "while you're in The End or Mushroom Armor",
+        "during the night.",
+        "Applying Growth 5 costs 50 Levels each.",
+        "If you still struggle, reforge your",
+        "armor to Titanic."
       ]
     },
-    "Sponge Collector": {
+    "Strongman": {
       "difficulty": "Medium",
       "note": [
-        "900 Sponge Collection"
+        "140 strength"
       ],
       "guide": [
-        "Fish in the Backwater Bayou until you can craft",
-        "a few Fishing Minions. Place them on your island,",
-        "give them the best fuel and storage you have access",
-        "to and don't forget to collect in time."
+        "Get yourself a splash, equip a Bingo Pet",
+        "and get the cake buff by eating the cakes",
+        "on xMeru's, skyerzz's or prtl's island.",
+        "If this doesn't finish it, get a Void Sword (200k) in the End",
+        "and hold it while some Ender Armor and/or Equipment."
       ]
     },
-    "Clownfish Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "300 Clownfish Collection"
-      ],
-      "guide": [
-        "Fish in the Backwater Bayou until you can craft",
-        "a few Fishing Minions. Place them on your island,",
-        "give them the best fuel and storage you have access",
-        "to and don't forget to collect in time."
-      ]
-    },
+
     "Strange Eggs": {
       "difficulty": "Medium",
       "note": [
@@ -269,41 +276,45 @@
         "but are also rarer to get."
       ]
     },
-    "Fairy Finder": {
-      "difficulty": "Easy",
-      "note": [
-        "25 Fairy Souls"
-      ],
-      "guide": [
-        "Collect those that you run across",
-        "while doing other goals. If you need assistance",
-        "you can use TimeDeo's guides on YouTube or",
-        "/neusouls on/off for waypoints in game."
-      ]
-    },
-    "Lapis Warrior": {
+    "Experienced": {
       "difficulty": "Medium",
       "note": [
-        "Wear full Lapis Armor"
+        "Obtain a Grand XP Bottle"
       ],
       "guide": [
-        "This drops from Lapis Zombies in the Deep Caverns",
-        "(1% dropchance). To help with this, use a Looting 3+",
-        "and Luck 5+ weapon to kill them."
+        "Can be made from Lapis Lazuli Collection 5 (10k),",
+        "a drop from fishing, from the Experimentation Table,",
+        "and dropped from Ender Nodes in the End (11-13% chance)."
       ]
     },
-    "Exterminator": {
-      "difficulty": "Hard",
+    "Carrot Collector": {
+      "difficulty": "Medium",
       "note": [
-        "Kill 15k mobs"
+        "200k Carrot collection"
       ],
       "guide": [
-        "Kill farm animals in the Barn with a Cleaver",
-        "with Cleave 5 and Sharpness 5",
-        "or spiders in Arachne's Burrow (-309 92 -209)",
-        "in the Spider's Den with a Dreadlord Sword.",
-        "You can also kill Endermen in The End to",
-        "have a chance for an Enderman Pet."
+        "Optimal tool:",
+        "Advanced Gardening Hoe (25 copper)",
+        "Make a full plot of carrots (7896 needed)",
+        "in The Garden (SkyBlock Level 5)",
+        "Get the carrots to plant from The Barn",
+        "or from the cave under the mountain in The Hub."
+      ]
+    },
+    "Slayer": {
+      "difficulty": "Medium",
+      "note": [
+        "Reach Slayer Level 5"
+      ],
+      "guide": [
+        "Recommended for this is either Zombie",
+        "or Spider Slayer. You will need a total",
+        "of 6220 XP for that Slayer.",
+        "(T1-T3: 1 each, T4: 13) or",
+        "(T1 & T2: 1 each, T3: 62)",
+        "Recommended gear for this is Ender Armor",
+        "and a Void Sword or you can rely",
+        "on help from friends."
       ]
     }
   }
