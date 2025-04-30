@@ -1,6 +1,10 @@
 {
   "0": {
     "Position": "15.0:70.0:2.0",
+    "Name": "Entrance",
+    "Tags": [
+      "dungeon_entrance"
+    ],
     "Neighbours": {
       "1": 5.0
     }
