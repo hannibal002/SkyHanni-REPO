@@ -55,9 +55,10 @@
       ],
       "guide": [
         "For this pretty much all ores count, just",
-        "things like Cobblestone/Stone don't. To get faster",
-        "progress here you'll want to use as much Mining Speed",
-        "and Spread as possible and pair it with the Pickobulus",
+        "things like Cobblestone/Stone don't. For faster",
+        "progress here you'll want to use as much",
+        "Mining Speed and Spread as possible",
+        "and pair it with the Pickobulus",
         "pickaxe ability that unlocks at HotM 3."
       ]
     },
@@ -88,12 +89,13 @@
         "10 Relics"
       ],
       "guide": [
-        "You can find Relic Coordinates in Skytils or the Wiki.",
-        "You will need Ender Pearls to reach some of them."
+        "You can find Relic Coordinates in Skytils",
+        "or the Wiki. Some of them will require",
+        "the use of some Ender Pearls."
       ]
     },
     "String Collector": {
-      "difficulty": "Medium",
+      "difficulty": "Hard",
       "note": [
         "77.5k String Collection"
       ],
@@ -127,8 +129,8 @@
       "guide": [
         "Complete a Floor 1 with a score of 230+",
         "and buy the chest afterwards. If you can't buy",
-        "it on the spot, either save money and buy it",
-        "from Croesus within the next 2 days or do another run.",
+        "immediately, either save money and buy it from",
+        "Croesus within the next 2 days or do another run.",
         "You will probably need help with this."
       ]
     },
@@ -201,11 +203,12 @@
         "Kill a Lost Adventurer"
       ],
       "guide": [
-        "Start an Entrance floor and play Mage/Tank/Berserker to use",
-        "the classes abilities to kill a Lost Adventurer.",
-        "You only need to get the last hit",
-        "on it to count, so you can get help from your team.",
-        "You need Combat Level 15 to join a Dungeon."
+        "Start an Entrance floor and",
+        "play Mage/Tank/Berserker to use",
+        "their abilities to kill a Lost Adventurer.",
+        "You only need to get the last hit,",
+        "so you can get help from your team.",
+        "You need Combat Level 15 for this."
       ]
     },
     "Commission Master": {
@@ -215,7 +218,7 @@
       ],
       "guide": [
         "Do your daily commissions in the Dwarven Mines",
-        "(4 per day). You will need Mining 12 to go there.",
+        "(4 per day). You will need Mining 12 for this.",
         "Can also be completed in the Crystal Hollows,",
         "though it might be harder to do so."
       ]
@@ -259,8 +262,9 @@
         "Get yourself a splash, equip a Bingo Pet",
         "and get the cake buff by eating the cakes",
         "on xMeru's, skyerzz's or prtl's island.",
-        "If this doesn't finish it, get a Void Sword (200k) in the End",
-        "and hold it while some Ender Armor and/or Equipment."
+        "If this doesn't finish it,",
+        "get a Void Sword (200k) in the End",
+        "and hold it while wearing Ender Gear."
       ]
     },
 
@@ -270,10 +274,11 @@
         "Spawn a Golden Goblin"
       ],
       "guide": [
-        "Kill goblins or open loot chests in the Crystal Hollows,",
-        "then just throw them until you get a Golden Goblin.",
-        "Higher level eggs have higher chances of spawning,",
-        "but are also rarer to get."
+        "Kill goblins or open loot chests in",
+        "the Crystal Hollows and throw the eggs",
+        "until you get a Golden Goblin.",
+        "Higher level eggs have higher chances of",
+        "spawning, but are also rarer to get."
       ]
     },
     "Experienced": {
@@ -282,9 +287,11 @@
         "Obtain a Grand XP Bottle"
       ],
       "guide": [
-        "Can be made from Lapis Lazuli Collection 5 (10k),",
-        "a drop from fishing, from the Experimentation Table,",
-        "and dropped from Ender Nodes in the End (11-13% chance)."
+        "Ways to obtain:",
+        "Craft (Lapis Lazuli Collection 5),",
+        "a drop from fishing,",
+        "from the Experimentation Table,",
+        "drop from Ender Nodes in the End (11-13%)."
       ]
     },
     "Carrot Collector": {
