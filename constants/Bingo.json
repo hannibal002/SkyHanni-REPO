@@ -180,21 +180,24 @@
       ],
       "guide": [
         "The easiest solution here would be",
-        "to craft a Wheat Minion t11 (83.232 Wheat).",
+        "to craft a Wheat Minion t11 (163.632 Wheat).",
         "Utilize the Garden and its pests",
         "to obtain the needed resources."
       ]
     },
     "Trouble is Brewing...": {
-      "difficulty": "Easy",
+      "difficulty": "Medium",
       "note": [
-        "Brew any t4 potion"
+        "Brew any t6 potion"
       ],
       "guide": [
-        "Brew an Absorption IV potion with an",
-        "Enchanted Gold and combine it with a Glowstone.",
-        "You can get that Glowstone by buying one block",
-        "from the Builder and breaking it on your island."
+        "Brew a potion with an Enchanted Sugar Cane/",
+        "Enchanted Gold Block/Enchanted Fermented Spider Eye",
+        "and add Glowstone to it. You can get that Glowstone",
+        "by buying one block from the Builder and",
+        "breaking it on your island.",
+        "You can also brew a Health VIII potion",
+        "from dungeon secrets with a Fermented Spider Eye."
       ]
     },
     "A Lost Cause": {
