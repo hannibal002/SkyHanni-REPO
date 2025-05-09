@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "32af202",
+  "sourceLabel": "6d45234",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1151,7 +1151,6 @@
     "misc.trevor.mob.died": "§aReturn to the Trapper soon to get a new animal to hunt!",
     "misc.trevor.outoftime": "You ran out of time and the animal disappeared!",
     "misc.trevor.selfkill": "§aYour mob died randomly, you are rewarded §r§5(?\u003cpelts\u003e.*) pelts§r§a.",
-    "misc.trevor.start.dialogue": "\\[NPC] Trevor: You will have 10 minutes to find the mob from when you accept the task\\.",
     "misc.trevor.trapper": "\\[NPC] Trevor: You can find your (?\u003crarity\u003e.*) animal near the (?\u003clocation\u003e.*)\\.",
     "misc.trevor.zone": "Location: (?\u003czone\u003e.*)",
     "misc.xp-in-inventory.exp-levels.0": "(?:§.)*(?\u003cxp\u003e\\d+) (Exp|XP) Levels",
