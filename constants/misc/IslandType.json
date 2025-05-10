@@ -137,7 +137,13 @@
     "WINTER": {
       "name": "Jerry's Workshop",
       "api_name": "winter",
-      "max_players": 27
+      "max_players": 27,
+      "bounds": {
+        "max_x": 127, 
+        "min_x": -142,
+        "max_z": 143,
+        "min_z": -140
+      }
     },
     "THE_RIFT": {
       "name": "The Rift",
@@ -156,7 +162,7 @@
         "max_x": 100,
         "min_x": -45,
         "max_z": 65,
-        "mix_z": -75
+        "min_z": -75
       }
     },
     "NONE": {
