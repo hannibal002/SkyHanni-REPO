@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "bca953c",
+  "sourceLabel": "6d45234",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -423,7 +423,7 @@
     "fame.upgrades.started": "§eYou started the §r§a(?\u003cupgrade\u003e.+) §r§eupgrade!",
     "fame.upgrades.upgrade": "§eClick to start upgrade!",
     "features.gui.customscoreboard.broken.0": "\\s*§.§l⚡ §cRedston",
-    "features.gui.customscoreboard.broken.1": "\\s*§ce: §e§b0%",
+    "features.gui.customscoreboard.broken.1": "\\s*§ce: §e§b\\d+%",
     "features.gui.customscoreboard.broken.2": "\\s*Starting in: §a0 §c[\\d:]+",
     "features.gui.customscoreboard.broken.3": "(?:§.)*᠅ §.(?\u003ctype\u003eGemstone|Mithril|Glacite)(?: Powder)?.*",
     "features.gui.customscoreboard.scoreboard.carnival.accuracy": "(?:§f)?Accuracy: §.\\d+(?:\\.\\d+)?%",
@@ -748,7 +748,7 @@
     "inventory.chocolate.factory.chat.hide.1": "§cYou don\u0027t have the required items!",
     "inventory.chocolate.factory.chat.hide.2": "§cYou must collect (.*) all-time Chocolate!",
     "inventory.chocolate.factory.milestone.cost": "§cRequires (?\u003camount\u003e.*) all-time Chocolate!",
-    "inventory.chocolatefactory.opencommand": "\\/(?:cf|(?:chocolate)?factory)(?: .*)?",
+    "inventory.chocolatefactory.opencommand": "(?i)\\/(?:cf|(?:chocolate)?factory)(?: .*)?",
     "inventory.chocolatefactory.openitem": "§6(?:Open )?Chocolate Factory",
     "inventory.dojo.rankdisplay.name": "(?\u003ccolor\u003e§\\w)Test of (?\u003cname\u003e.*)",
     "inventory.dojo.rankdisplay.rank": "(?:§\\w)+Your Rank: (?\u003crank\u003e§\\w.) §8\\((?\u003cscore\u003e\\d+)\\)",
@@ -1151,7 +1151,6 @@
     "misc.trevor.mob.died": "§aReturn to the Trapper soon to get a new animal to hunt!",
     "misc.trevor.outoftime": "You ran out of time and the animal disappeared!",
     "misc.trevor.selfkill": "§aYour mob died randomly, you are rewarded §r§5(?\u003cpelts\u003e.*) pelts§r§a.",
-    "misc.trevor.start.dialogue": "\\[NPC] Trevor: You will have 10 minutes to find the mob from when you accept the task\\.",
     "misc.trevor.trapper": "\\[NPC] Trevor: You can find your (?\u003crarity\u003e.*) animal near the (?\u003clocation\u003e.*)\\.",
     "misc.trevor.zone": "Location: (?\u003czone\u003e.*)",
     "misc.xp-in-inventory.exp-levels.0": "(?:§.)*(?\u003cxp\u003e\\d+) (Exp|XP) Levels",
