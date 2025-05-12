@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6d45234",
+  "sourceLabel": "223c2d8",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1168,6 +1168,7 @@
     "mob.detection.pattern.jerry.magma.cube": "§c(?:Cubie|Maggie|Cubert|Cübe|Cubette|Magmalene|Lucky 7|8ball|Mega Cube|Super Cube)(?: ᛤ)? §a\\d+§8\\/§a\\d+§c❤",
     "mob.detection.pattern.pet.entities": "^§8\\[§7Lv\\d+§8] §.(?\u003cname\u003eHorse|Armadillo|Skeleton Horse|Pig|Rat)$",
     "mob.detection.pattern.petcare": "^\\[\\w+ (?\u003clevel\u003e\\d+)\\] (?\u003cname\u003e.*)",
+    "mob.detection.pattern.shiny": "SHINY PIG",
     "mob.detection.pattern.summon.owner": ".*Spawned by: (?\u003cname\u003e.*).*",
     "ownplayer.death.chat": "§c ☠ §r§7You (?\u003creason\u003e.+)",
     "party.invite.expired": "§eThe party invite from §r§.(?:\\[.*].)?(?\u003cplayer\u003e\\S+) §r§ehas expired\\.",
