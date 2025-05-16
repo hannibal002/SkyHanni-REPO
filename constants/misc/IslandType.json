@@ -10,6 +10,7 @@
     "THE_END": {
       "name": "The End",
       "api_name": "combat_3",
+      "max_players": 28,
       "bounds": { 
         "max_x": -369, 
         "min_x": -800,
