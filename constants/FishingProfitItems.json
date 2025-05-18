@@ -116,6 +116,7 @@
       "FLYING_FISH;4",
       "BLESSING;6",
       "THE_SHREDDER",
+      "SHREDDED_LINE",
       "CHUM",
       "SQUID;0",
       "SQUID;1",
@@ -233,6 +234,7 @@
       "ENCHANTED_PACKED_ICE",
       "WHITE_GIFT",
       "ICE_ROD",
+      "ICY_SINKER",
       "SNOW_BLOCK",
       "CARROT_ITEM",
       "RED_GIFT",
@@ -254,6 +256,7 @@
       "WEREWOLF_SKIN",
       "DEEP_SEA_ORB",
       "PHANTOM_ROD",
+      "PHANTOM_HOOK",
       "SOUL_FRAGMENT",
       "PET_ITEM_VAMPIRE_FANG"
     ],
