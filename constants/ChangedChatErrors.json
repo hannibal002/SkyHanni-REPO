@@ -133,6 +133,12 @@
         "Caught a IllegalStateException in at.hannibal2.skyhanni.features.misc.AuctionHousePriceComparison.onInventoryOpen"
       ],
       "fixed_in": "2.19.0"
+    },
+    {
+      "message_starts_with": [
+        "Could not find gemstone slot price for Pitchin' Giant Fishing Rod"
+      ],
+      "fixed_in": "99.99.99"
     }
   ]
 }
