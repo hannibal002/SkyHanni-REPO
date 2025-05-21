@@ -139,6 +139,12 @@
         "Could not find gemstone slot price for Pitchin' Giant Fishing Rod"
       ],
       "fixed_in": "99.99.99"
+    },
+    {
+      "message_starts_with": [
+        "Error sending data to Elitebot Farming Contests API!"
+      ],
+      "fixed_in": "3.1.0"
     }
   ]
 }
