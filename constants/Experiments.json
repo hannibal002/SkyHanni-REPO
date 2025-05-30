@@ -1,7 +1,13 @@
 {
   "miscRewards": [
+    "EXP_BOTTLE",
     "GRAND_EXP_BOTTLE",
     "TITANIC_EXP_BOTTLE",
+    "GUARDIAN;0",
+    "GUARDIAN;1",
+    "GUARDIAN;2",
+    "GUARDIAN;3",
+    "GUARDIAN;4",
     "EXPERIMENT_THE_FISH",
     "METAPHYSICAL_SERUM",
     "PESTHUNTING_GUIDE",
