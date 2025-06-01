@@ -79,6 +79,19 @@
         "you get in the Bank :)"
       ]
     },
+    "Reinforced Reforger": {
+      "difficulty": "Easy",
+      "note": [
+        "Apply the Rare Diamond Reforge Stone"
+      ],
+      "guide": [
+        "Mine Diamonds in the Deep Caverns until",
+        "you get a Rare Diamond to apply.",
+        "A safe spot to do this is between the Diamond Reserve",
+        "and the Obsidian Sanctuary (-20 27 70).",
+        "Mobs don't spawn there."
+      ]
+    },
     "Ender Pearl Collector": {
       "difficulty": "Hard",
       "note": [
