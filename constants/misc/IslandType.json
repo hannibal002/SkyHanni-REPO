@@ -166,6 +166,10 @@
         "min_z": -75
       }
     },
+    "GALATEA": {
+      "name": "Galatea",
+      "api_name": "foraging_2"
+    },
     "NONE": {
       "name": ""
     },
