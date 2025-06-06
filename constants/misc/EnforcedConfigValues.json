@@ -1,0 +1,26 @@
+{
+    "enforced_config_values": [
+        {
+            "chatPSA": [
+                "§cWe have disabled the real time show seconds option due to time zones being more confusing than first thought",
+                "Supports multiple lines!!"
+            ],
+            "notificationPSA": [
+                "§cWARNING: this is a warning but its in a notification popup",
+                "Also supports multiple lines!!"
+            ],
+            "enforcedValues": [
+                {
+                    "path": "gui.realTimeShowSeconds",
+                    "value": false
+                }
+            ],
+            "affectedVersion": "1.2.0",
+            "affectedMinecraftVersions": [
+                "1.8.9",
+                "1.7.10",
+                "1.12.2"
+            ]
+        }
+    ]
+}
