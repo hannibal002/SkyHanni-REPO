@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9badf19",
+  "sourceLabel": "319d6e3",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1415,6 +1415,7 @@
     "summoning.mobs.despawn": "§cYou have despawned your monsters?!",
     "summoning.mobs.seraphrecall": "§cThe Seraph recalled your \\d+ summoned allies!",
     "summoning.mobs.spawn": "§aYou have spawned your .+ §r§asoul! §r§d\\(\\d+ Mana\\)",
+    "tab.effects": " *(?:§.)*(?\u003ceffect\u003e§.[\\w\\-\u0027 ]+ (?\u003ctier\u003e[IVXLC]+)) ?(?:§.|[: ])+(?\u003ctime\u003e[dhms0-9 ]+)(?:§.)*",
     "tab.widget.enum.active.effects": "\\s*(?:§.)*Active Effects: (?:§.)*\\((?\u003camount\u003e\\d+)\\)",
     "tab.widget.enum.area": "\\s*(?:§.)*(Area|Dungeon): (?:§.)*(?\u003cisland\u003e.*)",
     "tab.widget.enum.bank": "\\s*Bank: (?:§.)*(?\u003camount\u003e[^§]+)(?:(?:§.)* \\/ (?:§.)*(?\u003cpersonal\u003e.*))?",
