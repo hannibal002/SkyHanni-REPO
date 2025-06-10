@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "0f0d0bb",
+  "sourceLabel": "05fb4c1",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -474,7 +474,6 @@
     "features.gui.customscoreboard.scoreboard.main.copper": "(?:§.)*Copper: (?:§.)*(?\u003ccopper\u003e[\\d,]+).*",
     "features.gui.customscoreboard.scoreboard.main.date": "\\s*(?:(?:Late|Early) )?(?:Spring|Summer|Autumn|Winter) \\d+(?:st|nd|rd|th)?.*",
     "features.gui.customscoreboard.scoreboard.main.footer": "§e(?:www|alpha)\\.hypixel\\.net",
-    "features.gui.customscoreboard.scoreboard.main.heat": "Heat: (?\u003cheat\u003e.*)",
     "features.gui.customscoreboard.scoreboard.main.lobbycode": "\\s*§.(?:\\d{2}/?){3} §8(?\u003ccode\u003e.*)",
     "features.gui.customscoreboard.scoreboard.main.location": "\\s*(?\u003clocation\u003e(?:§7⏣|§5ф) .*)",
     "features.gui.customscoreboard.scoreboard.main.motes": "(?:§.)*Motes: (?:§.)*(?\u003cmotes\u003e[\\d,]+).*",
