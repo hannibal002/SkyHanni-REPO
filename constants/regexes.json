@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "05fb4c1",
+  "sourceLabel": "cf92ea4",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -468,6 +468,9 @@
     "features.gui.customscoreboard.scoreboard.farming.pasting": "\\s*§f(?:Barn )?Pasting§7: (?:§.)*[\\d,.]+%?",
     "features.gui.customscoreboard.scoreboard.farming.pelts": "(?:§.)*Pelts: (?:§.)*[\\d,]+.*",
     "features.gui.customscoreboard.scoreboard.farming.plot": "\\s*§aPlot §7-.*",
+    "features.gui.customscoreboard.scoreboard.galatea.agathas-contest": "§eAgatha\u0027s Contest §a.*",
+    "features.gui.customscoreboard.scoreboard.galatea.hotf": "\\s*§aHOTF§f: §a[\\w,.]+.*",
+    "features.gui.customscoreboard.scoreboard.galatea.whispers": "Whispers: §3[\\w,.]+.*",
     "features.gui.customscoreboard.scoreboard.kuudra.submerges": "(?:§.)*Submerges In: (?:§.)*[\\w\\s?]+",
     "features.gui.customscoreboard.scoreboard.kuudra.tokens": "(?:§.)*Tokens: §.[\\w,]+",
     "features.gui.customscoreboard.scoreboard.kuudra.wave": "(?:§.)*Wave: (?:§.)*\\d+(?:§.)*(?: §.- §.\\d+:\\d+)?",
