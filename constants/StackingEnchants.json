@@ -30,6 +30,21 @@
       ],
       "statName": "farmed_cultivating"
     },
+    "absorb": {
+      "levels": [
+        0,
+        1000,
+        5000,
+        25000,
+        100000,
+        300000,
+        1500000,
+        5000000,
+        20000000,
+        100000000
+      ],
+      "statName": "absorb_logs_chopped"
+    },
     "expertise": {
       "levels": [
         0,
