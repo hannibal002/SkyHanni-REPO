@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "ff83776",
+  "sourceLabel": "d8c08a5",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -172,6 +172,7 @@
     "data.collection.api.singlecounter": "§7Total [c|C]ollected: §e(?\u003camount\u003e.*)",
     "data.collection.api.tierzero": "§7Progress to .* I: .*",
     "data.entity.warping": "§7(?:Warping|Warping you to your SkyBlock island|Warping using transfer token|Finding player|Sending a visit request)\\.\\.\\.",
+    "data.equipment.chat.equip": "§aYou equipped a (?\u003citem\u003e.+)§r§a!",
     "data.friends.add": "§aYou are now friends with (?\u003cname\u003e.*)",
     "data.friends.addbest": ".*\n(?\u003cname\u003e.*)§a is now a best friend!§r§9§m\n.*",
     "data.friends.rawname": "\n§eClick here to view §.(?\u003cname\u003e.*)§e\u0027s profile",
