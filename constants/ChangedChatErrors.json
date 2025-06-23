@@ -127,6 +127,12 @@
         "Caught a IndexOutOfBoundsException in at.hannibal2.skyhanni.utils.KeyboardManager.onTick() at SkyHanniTickEvent: null"
       ],
       "fixed_in": "2.18.0"
+    },
+    {
+      "message_starts_with": [
+        "Found unknown skyblock stats on items"
+      ],
+      "fixed_in": "3.10.0"
     }
   ]
 }
