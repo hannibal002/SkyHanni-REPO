@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1ab2670",
+  "sourceLabel": "066efd7",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -593,6 +593,10 @@
     "fishing.trophyfish.odger.rank": "§.(?\u003crarity\u003e.*) §a✔§7 \\((?\u003camount\u003e.*)\\)",
     "fishing.trophyfish.odger.rank.empty": "§.(?\u003crarity\u003e.*) §c✖",
     "fishing.trophyfishing.armor": "(?:BRONZE|SILVER|GOLD|DIAMOND)_HUNTER_(?:HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
+    "foraging.moonglade.beacon.available": " §r§fCooldown: §r§7§r§aAVAILABLE",
+    "foraging.moonglade.beacon.color": "§7Current color: §a(?\u003ccolor\u003e.+)",
+    "foraging.moonglade.beacon.pitch": "§7Current pitch: §a(?\u003cpitch\u003e.+)",
+    "foraging.moonglade.beacon.speed": "§7Current speed: §a(?\u003cspeed\u003e\\d)",
     "garden.armordrops.armor": "(?:FERMENTO|CROPIE|SQUASH|MELON)_(?:LEGGINGS|CHESTPLATE|BOOTS|HELMET)",
     "garden.barn.skin.change": "§aChanging Barn skin to §r.*",
     "garden.bonuspestchance.widget": "\\s+(?:§.)*?(?\u003cdisabled\u003e§m)?Bonus Pest Chance: (?:§.)*ൠ(?\u003camount\u003e[\\d,.]+)",
