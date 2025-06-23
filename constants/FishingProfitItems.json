@@ -116,6 +116,7 @@
       "FLYING_FISH;4",
       "BLESSING;6",
       "THE_SHREDDER",
+      "SHREDDED_LINE",
       "CHUM",
       "SQUID;0",
       "SQUID;1",
@@ -208,7 +209,10 @@
       "SCUTTLER_SHELL",
       "BRIMSTONE_HANDLE",
       "BURNT_TEXTS",
-      "CHAIN_END_TIMES"
+      "CHAIN_END_TIMES",
+      "THUNDER_IN_A_BOTTLE",
+      "STORM_IN_A_BOTTLE",
+      "HURRICANE_IN_A_BOTTLE"
     ],
     "Fishing Festival": [
       "SHARK_FIN",
@@ -230,6 +234,7 @@
       "ENCHANTED_PACKED_ICE",
       "WHITE_GIFT",
       "ICE_ROD",
+      "ICY_SINKER",
       "SNOW_BLOCK",
       "CARROT_ITEM",
       "RED_GIFT",
@@ -251,6 +256,7 @@
       "WEREWOLF_SKIN",
       "DEEP_SEA_ORB",
       "PHANTOM_ROD",
+      "PHANTOM_HOOK",
       "SOUL_FRAGMENT",
       "PET_ITEM_VAMPIRE_FANG"
     ],
