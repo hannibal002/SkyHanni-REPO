@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "066efd7",
+  "sourceLabel": "5a0f392",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -816,12 +816,6 @@
     "item.abilities.cooldown.alignedother": "§eYou aligned §r§a.* §r§eother players?!",
     "item.abilities.cooldown.buffedyourself": "§aYou buffed yourself for §r§c\\+\\d+❁ Strength",
     "itemcategory.repocheck": "SWORD|LONGSWORD|BOW|SHORT_BOW|WAND|FISHING_WEAPON|FISHING_ROD|ROD_PART|AXE|GAUNTLET|HOE|PICKAXE|SHOVEL|DRILL|SHEARS|DEPLOYABLE|VACUUM|ABIPHONE|BELT|NECKLACE|CLOAK|GLOVES|BRACELET|HELMET|CHESTPLATE|LEGGINGS|BOOTS|HATCESSORY|ACCESSORY|CARNIVAL_MASK|POWER_STONE|TRAVEL_SCROLL|REFORGE_STONE|BAIT|PET|TROPHY_FISH|ARROW|ARROW_POISON|ITEM|PET_ITEM|ENCHANTED_BOOK|FISHING_BAIT|POTION|RIFT_TIMECHARM|COSMETIC|MEMENTO|PORTAL|SACK|CHISEL|DYE|ORE|BLOCK|DWARVEN_METAL|GEMSTONE|LASSO|FISHING_NET|SALT|TRAP|BOOSTER|WATER_SHARD|FOREST_SHARD|COMBAT_SHARD|NONE",
-    "itempickuplog.banneditems.0": "SKYBLOCK_MENU",
-    "itempickuplog.banneditems.1": "CANCEL_PARKOUR_ITEM",
-    "itempickuplog.banneditems.2": "CANCEL_RACE_ITEM",
-    "itempickuplog.banneditems.3": "MAXOR_ENERGY_CRYSTAL",
-    "itempickuplog.banneditems.4": "ELLE_SUPPLIES",
-    "itempickuplog.banneditems.5": "ELLE_FUEL_CELL",
     "itempickuplog.shoppattern": "^(?\u003citemName\u003e.+?)(?: x\\d+)?$",
     "itemresoultionquery.item.name.attribute.shard": "§6(?\u003cname\u003e.+?) ?(?\u003ctier\u003e[IVXL]+)?$",
     "jerry.highlight": "(?\u003ccolor\u003e\\w+) Jerry",
