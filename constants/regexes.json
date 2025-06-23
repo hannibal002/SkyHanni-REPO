@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7190ae3",
+  "sourceLabel": "1ab2670",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -530,7 +530,7 @@
     "features.gui.customscoreboard.scoreboard.rift.aveikx": "Time spent sitting|with Ävaeìkx: .*",
     "features.gui.customscoreboard.scoreboard.rift.bigdamage": "\\s*Big damage in: §d[\\w\\s]+",
     "features.gui.customscoreboard.scoreboard.rift.clues": "Clues: §.\\d+/\\d+",
-    "features.gui.customscoreboard.scoreboard.rift.dimension": "\\s*§fRift Dimension",
+    "features.gui.customscoreboard.scoreboard.rift.dimension": "\\s*(?:§f)?Rift Dimension",
     "features.gui.customscoreboard.scoreboard.rift.hayeaten": "Hay Eaten: §.[\\d,.]+/[\\d,.]+",
     "features.gui.customscoreboard.scoreboard.rift.hotdogeaten": "Eaten: §.\\d+/\\d+",
     "features.gui.customscoreboard.scoreboard.rift.hotdogtitle": "§6Hot Dog Contest",
