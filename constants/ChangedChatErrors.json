@@ -157,6 +157,12 @@
         "Found unknown skyblock stats on items"
       ],
       "fixed_in": "3.10.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalArgumentException in at.hannibal2.skyhanni.features.pets."
+      ],
+      "fixed_in": "3.12.0"
     }
   ]
 }
