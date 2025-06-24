@@ -36,6 +36,7 @@
     "DWARVEN_MINES": {
       "name": "Dwarven Mines",
       "api_name": "mining_3",
+      "max_players": 26,
       "bounds": {
         "max_x": 351, 
         "min_x": -240,
@@ -169,6 +170,7 @@
     "GALATEA": {
       "name": "Galatea",
       "api_name": "foraging_2"
+      "max_players": 12
     },
     "NONE": {
       "name": ""
