@@ -151,6 +151,12 @@
         "Caught a NoSuchElementException in at.hannibal2.skyhanni.features.mining.powdertracker.PowderChestTimer.onRenderWorld(at.hannibal2.skyhanni.events.minecraft.SkyHanniRenderWorldEvent) at SkyHanniRenderWorldEvent: null"
       ],
       "fixed_in": "3.10.0"
+    },
+    {
+      "message_starts_with": [
+        "Found unknown skyblock stats on items"
+      ],
+      "fixed_in": "3.10.0"
     }
   ]
 }
