@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "5a0f392",
+  "sourceLabel": "ae5e4af",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1507,6 +1507,7 @@
     "tab.widget.enum.sb.level": "\\s*(?:SB Level(?:§.)*: (?:§.)*\\[(?:§.)*(?\u003clevel\u003e\\d+)(?:§.)*\\] (?:§.)*(?\u003cxp\u003e\\d+).*)",
     "tab.widget.enum.scrap": "\\s*(?:Scrap: (?:§.)*(?\u003camount\u003e\\d)(?:§.)*/(?:§.)*\\d)",
     "tab.widget.enum.server": "\\s*(?:Server: (?:§.)*(?\u003cserverid\u003e.*))",
+    "tab.widget.enum.shard.traps": "\\s*(?:(?:§.)*Shard Traps)",
     "tab.widget.enum.skills": "\\s*(?:(?:§.)*Skills: ?(?:§.)*(?\u003cavg\u003e[\\d.]*))",
     "tab.widget.enum.slayer": "\\s*(?:(?:§.)*Slayer:)",
     "tab.widget.enum.soulflow": "\\s*(?:Soulflow: (?:§.)*(?\u003camount\u003e.*))",
