@@ -88,12 +88,6 @@
         "fishing_experience": 4050,
         "rarity": "LEGENDARY",
         "rare": true
-      },
-      "The Sea Emperor": {
-        "chat_message": "§aThe Sea Emperor arises from the depths.",
-        "fishing_experience": 3375,
-        "rarity": "LEGENDARY",
-        "rare": true
       }
     }
   },
@@ -435,6 +429,34 @@
         "chat_message": "§aIs it a frog? Is it a man? Well, yes, sorta, IT'S FROG MAN!!!!!!",
         "fishing_experience": 200,
         "rarity": "COMMON"
+      }
+    }
+  },
+  "WATER_GALATEA": {
+    "chat_color": "§2",
+    "sea_creatures": {
+      "Ent": {
+        "rarity": "EPIC"
+      },
+      "Tadgang": {
+        "rarity": "RARE"
+      },
+      "The Loch Emperor": {
+        "chat_message": "§aThe Loch Emperor arises from the depths.",
+        "fishing_experience": 3375,
+        "rarity": "LEGENDARY",
+        "rare": true
+      },
+      "Wetwing":  {
+        "rarity": "UNCOMMON"
+      }
+    }
+   },
+  "LAVA_GALATEA":{
+    "chat_color": "§5",
+    "sea_creatures": {
+      "Stridersurfer": {
+        "rarity": "RARE"
       }
     }
   }
