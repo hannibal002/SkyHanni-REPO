@@ -160,7 +160,9 @@
     },
     {
       "message_starts_with": [
-        "Caught a IllegalArgumentException in at.hannibal2.skyhanni.features.pets."
+        "Caught a IllegalArgumentException in at.hannibal2.skyhanni.features.pets.",
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.pets.",
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.misc.items.EstimatedItemValue"
       ],
       "fixed_in": "3.13.0"
     }
