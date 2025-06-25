@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e72aee1",
+  "sourceLabel": "b905947",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1556,6 +1556,7 @@
     "tab.widget.enum.skills": "\\s*(?:(?:§.)*Skills: ?(?:§.)*(?\u003cavg\u003e[\\d.]*))",
     "tab.widget.enum.slayer": "\\s*(?:(?:§.)*Slayer:)",
     "tab.widget.enum.soulflow": "\\s*(?:Soulflow: (?:§.)*(?\u003camount\u003e.*))",
+    "tab.widget.enum.starborn.temple": "\\s*(?:§9§lStarborn Temple:)",
     "tab.widget.enum.stats": "\\s*(?:(?:§.)*Stats:)",
     "tab.widget.enum.timers": "\\s*(?:(?:§.)*Timers:)",
     "tab.widget.enum.trapper": "\\s*(?:(?:§.)*Trapper:)",
