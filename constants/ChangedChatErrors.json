@@ -165,6 +165,12 @@
         "Caught a IllegalStateException in at.hannibal2.skyhanni.features.misc.items.EstimatedItemValue"
       ],
       "fixed_in": "3.13.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.garden.GardenNextJacobContest.onWidgetUpdate"
+      ],
+      "fixed_in": "3.13.0"
     }
   ]
 }
