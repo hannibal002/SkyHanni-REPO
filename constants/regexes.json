@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "745e644",
+  "sourceLabel": "e72aee1",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -714,6 +714,7 @@
     "garden.nextcontest.crop": " ?(?:§.)*(?:○|(?\u003cboosted\u003e☘)) (?:§.)*(?\u003ccrop\u003e.*)",
     "garden.nextcontest.day": "§aDay (?\u003cday\u003e.*)",
     "garden.nextcontest.month": "(?\u003cmonth\u003e(?:\\w+ )?(?:Summer|Spring|Winter|Autumn)), Year (?\u003cyear\u003e\\d+)",
+    "garden.nextcontest.time-left": "(?:§.)+Jacob\u0027s Contest: (?:§.)+(?\u003ctimeleft\u003e\\d+[smh]+) left",
     "garden.pests.cooldown": "\\sCooldown: §r§.(?:§.)?(?:(?\u003cminutes\u003e\\d+)m)? ?(?:(?\u003cseconds\u003e\\d+)s)?(?\u003cready\u003eREADY)?(?\u003cmaxPests\u003eMAX PESTS)?.*",
     "garden.pests.pesthunter.garden.pests.pesthunter.cost": "§2(?\u003cpests\u003e[\\d,]+) Pests",
     "garden.pests.spawn.multiple": "§6§l.*! §2(?\u003camount\u003e\\d) Pests §7have spawned in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
