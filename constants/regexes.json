@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "b905947",
+  "sourceLabel": "894f1dd",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -641,6 +641,15 @@
     "foraging.moonglade.beacon.color": "§7Current color: §a(?\u003ccolor\u003e.+)",
     "foraging.moonglade.beacon.pitch": "§7Current pitch: §a(?\u003cpitch\u003e.+)",
     "foraging.moonglade.beacon.speed": "§7Current speed: §a(?\u003cspeed\u003e\\d)",
+    "foraging.treegift.bonus-gift.enchanted-book": "(?:§.)+Enchanted Book \\((?:§.)+(?\u003cbook\u003e.*) (?\u003ctier\u003e[IVCLX])(?:§.)+\\)",
+    "foraging.treegift.bonus-gift.reward": " *(?:§.)*§r(?\u003citem\u003e.*) §r§8\\((?:§.)+(?\u003cpercentage\u003e[\\d.]+)%(?:§.)+\\)",
+    "foraging.treegift.bonus-gift.separator": " *(?:§.)+BONUS GIFT",
+    "foraging.treegift.contribution-percentage": " *(?:§.)+You helped cut (?\u003cpercentColor\u003e§.)+(?\u003cpercentage\u003e[\\d.]+)% (?:§.)+of the (?:§.)+(?\u003ctype\u003e.*) Tree(?:§.)+\\.",
+    "foraging.treegift.header": " *(?:§.)+TREE GIFT",
+    "foraging.treegift.hover-reward": "(?:§.)*(?\u003citem\u003e.*) (?:§.)*§8x(?\u003camount\u003e[\\d,-]+)",
+    "foraging.treegift.log-internal-name": "(?\u003cenchanted\u003eENCHANTED_)?(?\u003ctreeType\u003e.*)_LOG",
+    "foraging.treegift.open-close-reward": "§9§l▬{64}",
+    "foraging.treegift.rewards-gained": "(?:§.)* *(?:§.)+\\+(?\u003ccount\u003e[\\d,]+) rewards gained!(?: (?:§.)+\\(hover\\))?",
     "garden.armordrops.armor": "(?:FERMENTO|CROPIE|SQUASH|MELON)_(?:LEGGINGS|CHESTPLATE|BOOTS|HELMET)",
     "garden.barn.skin.change": "§aChanging Barn skin to §r.*",
     "garden.bonuspestchance.widget": "\\s+(?:§.)*?(?\u003cdisabled\u003e§m)?Bonus Pest Chance: (?:§.)*ൠ(?\u003camount\u003e[\\d,.]+)",
