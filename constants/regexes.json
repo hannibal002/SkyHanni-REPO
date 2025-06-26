@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e380bda",
+  "sourceLabel": "ac4386e",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -426,6 +426,14 @@
     "fame.upgrades.profile": "§8Profile Upgrade",
     "fame.upgrades.started": "§eYou started the §r§a(?\u003cupgrade\u003e.+) §r§eupgrade!",
     "fame.upgrades.upgrade": "§eClick to start upgrade!",
+    "fann.inventory.bits": "(?:§.)+(?\u003cbits\u003e[^ ]+) Bits",
+    "fann.inventory.coin": "(?:§.)+(?\u003ccoins\u003e[^ ]+) Coins(?: (?:§.)+\\((?\u003cpercentOff\u003e[\\d.]+)% off\\))?",
+    "fann.inventory.exp.daily": "(?:§.)+EXP Per Day: (?:§.)+(?\u003cexpDaily\u003e\\d[\\d,]*)(?: (?:§.)+\\(\\+(?\u003cextraPercent\u003e[\\d.]+)%\\))?",
+    "fann.inventory.exp.total": "(?:§.)+Will earn a total of (?\u003cexpEarned\u003e.*) EXP\\.?",
+    "fann.inventory.lore.day-user-input": "(?:§.)+▶ (?\u003cdays\u003e\\d+) Days?",
+    "fann.inventory.lore.training-mode": "(?:§.)+▶ (?\u003cselection\u003e.*)",
+    "fann.inventory.lore.training-type": "(?:§.)+▶ (?\u003ctype\u003e.*)",
+    "fann.inventory.training.duration.pattern": "(?:§.)+Will take: (?:§.)+(?\u003ctime\u003e.*)",
     "features.gui.customscoreboard.broken.0": "\\s*§.§l⚡ §cRedston",
     "features.gui.customscoreboard.broken.1": "\\s*§ce: §e§b\\d+%",
     "features.gui.customscoreboard.broken.2": "\\s*Starting in: §a0 §c[\\d:]+",
