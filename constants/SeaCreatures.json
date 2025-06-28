@@ -90,7 +90,7 @@
         "rare": true
       },
       "The Sea Emperor": {
-        "chat_message": "§aThe Sea Emperor arises from the depths.",
+        "chat_message": "§aThe Loch Emperor arises from the depths.",
         "fishing_experience": 3375,
         "rarity": "LEGENDARY",
         "rare": true
@@ -435,6 +435,42 @@
         "chat_message": "§aIs it a frog? Is it a man? Well, yes, sorta, IT'S FROG MAN!!!!!!",
         "fishing_experience": 200,
         "rarity": "COMMON"
+      }
+    }
+  },
+  "WATER_GALETEA": {
+    "chat_color": "§2",
+    "sea_creatures": {
+      "Wetwing": {
+        "chat_message": "§aLook! A Wetwing emerges!",
+        "fishing_experience": 0,
+        "rarity": "UNCOMMON"
+      },
+      "Ent": {
+        "chat_message": "§aYou've hooked an Ent, as ancient as the forest itself.",
+        "fishing_experience": 0,
+        "rarity": "EPIC",
+        "rare": true
+      },
+      "Tadgang": {
+        "chat_message": "§aA gang of Liltads!",
+        "fishing_experience": 0,
+        "rarity": "RARE"
+      },
+      "Stridersurfer": {
+        "chat_message": "§aYou caught a Stridersurfer.",
+        "fishing_experience": 0,
+        "rarity": "RARE"
+      }
+    }
+  },
+  "LAVA_GALETEA": {
+    "chat_color": "§5",
+    "sea_creatures": {
+      "Stridersurfer": {
+        "chat_message": "§aYou caught a Stridersurfer.",
+        "fishing_experience": 0,
+        "rarity": "RARE"
       }
     }
   }
