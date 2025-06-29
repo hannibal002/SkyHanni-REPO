@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "65c3758",
+  "sourceLabel": "10b84d5",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1307,6 +1307,8 @@
     "rift.punchcard.repeat": "§c§lAWKWARD! §r§cThis player has already been punched by you\\.\\.\\. somehow!",
     "rngmeterinventory.floor.name": "(?:§.)*Catacombs \\((?\u003cfloor\u003e.*)\\)",
     "skyblockguide.highlight.abiphone.inventory": "Miscellaneous ➜ Abiphone Contac",
+    "skyblockguide.highlight.attribute.disable.condition": "§7Enabled: §cNo",
+    "skyblockguide.highlight.attribute.disable.inventory": "Attribute Menu",
     "skyblockguide.highlight.bank.inventory": "Core ➜ Bank Upgrades",
     "skyblockguide.highlight.belt.inventory": "Miscellaneous ➜ The Dojo",
     "skyblockguide.highlight.century.condition": "§c§lINCOMPLETE",
