@@ -171,6 +171,12 @@
         "Caught a IllegalStateException in at.hannibal2.skyhanni.features.garden.GardenNextJacobContest.onWidgetUpdate"
       ],
       "fixed_in": "3.13.0"
+    },
+    {
+      "message_starts_with": [
+        "Could not read the skymall effect from chat"
+      ],
+      "fixed_in": "3.15.0"
     }
   ]
 }
