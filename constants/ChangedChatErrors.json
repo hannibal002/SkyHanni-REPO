@@ -171,6 +171,12 @@
         "Caught a IllegalStateException in at.hannibal2.skyhanni.features.garden.GardenNextJacobContest.onWidgetUpdate"
       ],
       "fixed_in": "3.13.0"
+    },
+    {
+      "message_starts_with": [
+        "Error fetching data from NEU Lowest Bin API!"
+      ],
+      "fixed_in": "5.0.0"
     }
   ]
 }
