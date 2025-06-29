@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "10b84d5",
+  "sourceLabel": "2d6ece1",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -649,6 +649,7 @@
     "foraging.moonglade.beacon.color": "§7Current color: §a(?\u003ccolor\u003e.+)",
     "foraging.moonglade.beacon.pitch": "§7Current pitch: §a(?\u003cpitch\u003e.+)",
     "foraging.moonglade.beacon.speed": "§7Current speed: §a(?\u003cspeed\u003e\\d)",
+    "foraging.tree.progress": "(?\u003ctreeType\u003e§.§l\\w+) TREE §r§b§l(?\u003cpercent\u003e\\d+)%",
     "foraging.treegift.bonus-gift.enchanted-book": "(?:§.)+Enchanted Book \\((?:§.)+(?\u003cbook\u003e.*) (?\u003ctier\u003e[IVCLX])(?:§.)+\\)",
     "foraging.treegift.bonus-gift.reward": " *(?:§.)*§r(?\u003citem\u003e.*) §r§8\\((?:§.)+(?\u003cpercentage\u003e[\\d.]+)%(?:§.)+\\)",
     "foraging.treegift.bonus-gift.separator": " *(?:§.)+BONUS GIFT",
