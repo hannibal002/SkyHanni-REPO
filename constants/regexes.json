@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "811b2bf",
+  "sourceLabel": "aaff7aa",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -787,7 +787,7 @@
     "gui.beaconpower.nostat": "TODO",
     "gui.beaconpower.stat": "§7Current Stat: (?\u003cstat\u003e.+)",
     "gui.beaconpower.time": "§7Power Remaining: §e(?\u003ctime\u003e.+)",
-    "harp.inventory": "Harp -.*",
+    "harp.inventory": "Harp.*",
     "harp.menu": "Melody",
     "harp.song.selected": "§aSong is selected!",
     "inv.acceptable": "^(?:Accessory Bag(?: \\(\\d+\\/\\d+\\))?|Auctions Browser|Manage Auctions|Auctions: \".*\"?)$",
