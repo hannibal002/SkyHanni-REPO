@@ -463,15 +463,5 @@
         "rarity": "RARE"
       }
     }
-  },
-  "LAVA_GALETEA": {
-    "chat_color": "§5",
-    "sea_creatures": {
-      "Stridersurfer": {
-        "chat_message": "§aYou caught a Stridersurfer.",
-        "fishing_experience": 0,
-        "rarity": "RARE"
-      }
-    }
   }
 }
