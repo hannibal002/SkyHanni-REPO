@@ -177,6 +177,12 @@
         "Error fetching data from NEU Lowest Bin API!"
       ],
       "fixed_in": "5.0.0"
+    },
+    {
+      "message_starts_with": [
+        "Could not read the skymall effect from chat"
+      ],
+      "fixed_in": "3.15.0"
     }
   ]
 }
