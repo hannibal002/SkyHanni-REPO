@@ -61,7 +61,9 @@
         "Apply/Use the highest tier of Scavenger",
         "that you can get your hands on and put it",
         "on your main weapon. Gifts from the Jerry Island",
-        "can be a way to obtain Scavenger IV books."
+        "can be a way to obtain Scavenger IV books.",
+        "You can also use the weapon drops from dungeon mobs",
+        "as those have guaranteed Scavenger 5." 
       ]
     },
     "Yummers": {
@@ -108,7 +110,7 @@
     "The Mirror Dimension": {
       "difficulty": "Hard",
       "note": [
-        "1.000s Rift Time"
+        "1,000s Rift Time"
       ],
       "guide": [
         "Theres a couple different ways to achieve this.",
@@ -246,7 +248,7 @@
       ],
       "guide": [
         "There's a couple ways to achieve this:",
-        "  Mining Level (4 each), Fortune 3+ Enchant(45),",
+        "  Mining Level (4 each), Fortune 3+ Enchant (45),",
         "  Mithril Equipment (25), Mining Tool Base Stat (2+),",
         "  Century Cake (5 from /visit skyerzz),",
         "  Mining Fortune HotM2 Perk (2/tier),",
@@ -275,7 +277,13 @@
         "Recommended for this is any rod with the best",
         "Fishing Speed you can get and Blessing 5+ Enchant.",
         "If you want, you can further boost your chances",
-        "by using a Rare+ Hermit Crab Pet."
+        "by using a Rare+ Hermit Crab Pet.",
+        "You might also want to do this in the Tomb Floodway",
+        "on Galatea as you won't catch Sea Creatures there.",
+        "If you fish in the Backwater Bayou, use the Junk Sinker",
+        "from Joel as it awards Treasure Chance. You can go even",
+        "further and buy a Junk Talisman or better from Joel",
+        "in case you have those resources as spare."
       ]
     },
     "Chocolatier": {
@@ -311,12 +319,12 @@
     "Who needs friends?": {
       "difficulty": "Hard",
       "note": [
-        "Solo a f1 with 270+"
+        "Solo a f1 with 270+ Score"
       ],
       "guide": [
         "This will heavily rely on your gear and Catacombs Level.",
         "Ideally you'll want to buy the best tier of Goggles from",
-        "Ophelia that you can. Use End Armor to the remaining 3 pieces",
+        "Ophelia that you can. Use End Armor for the remaining 3 pieces",
         "but replace them with better Dungeon Armor drops.",
         "Reforge your Armor to Wise or Necrotic if you can",
         "and your Dreadlord Sword to Heroic. Star your Dungeon Gear.",
