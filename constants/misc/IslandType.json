@@ -169,7 +169,7 @@
     },
     "GALATEA": {
       "name": "Galatea",
-      "api_name": "foraging_2"
+      "api_name": "foraging_2",
       "max_players": 12
     },
     "NONE": {
