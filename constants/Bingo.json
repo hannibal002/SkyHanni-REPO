@@ -319,7 +319,7 @@
     "Who needs friends?": {
       "difficulty": "Hard",
       "note": [
-        "Solo a f1 with 270+ Score"
+        "Solo a F1 with 270+ Score"
       ],
       "guide": [
         "This will heavily rely on your gear and Catacombs Level.",
@@ -336,12 +336,13 @@
     "Bayou Bobbin'": {
       "difficulty": "Medium",
       "note": [
-        "4/4 Backwater Armor"
+        "4/8 Backwater Armor"
       ],
       "guide": [
         "For this you'll need to fish in the Backwater Bayou.",
-        "This requires Angler Armor (bought in The Hub) and",
-        "48 Rusty Coins (Junk catch that requires the Junk Sinker",
+        "Any 4 pieces will do, the equipment is the cheapest.",
+        "This requires Angler Armor (bought in the Hub) and at least",
+        "32 Rusty Coins (Junk catch that requires the Junk Sinker",
         "from Joel to be applied to your rod)"
       ]
     },
