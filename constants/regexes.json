@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "68f6ad4",
+  "sourceLabel": "85cf672",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -688,6 +688,9 @@
     "garden.farming.contest.bulkclaim": "§7Claim multiple farming contest",
     "garden.farming.contest.crop": "§8(?\u003ccrop\u003e.*) Contest",
     "garden.farming.contest.sidebarcrop": "\\s*(?:§e○|§6☘) §f(?\u003ccrop\u003e.*) §a.*",
+    "garden.farming.contest.tablist.contest.active": " §r§.(?\u003cboost\u003e[☘○]) §r§f(?\u003ccrop\u003e.+) §r§f◆ Top §r§.(?\u003cplacement\u003e\\S+)%",
+    "garden.farming.contest.tablist.contest.active.info": " (?:§r§.§l(?\u003cbracket\u003e\\S+)|Collected) (?:§r§fwith )?§r§e(?\u003cfarmed\u003e\\S+)",
+    "garden.farming.contest.tablistcrop": " §r§6☘ §r§f(?\u003ccrop\u003e.+)",
     "garden.farming.contest.time": "§a(?\u003cmonth\u003e.*) (?\u003cday\u003e.*)(?:rd|st|nd|th), Year (?\u003cyear\u003e.*)",
     "garden.ff.carrolyn.complete.carrot": "CARROTS EXPORTATION COMPLETE!",
     "garden.ff.carrolyn.complete.cocoa.beans": "COCOA BEANSS EXPORTATION COMPLETE!",
@@ -1495,7 +1498,7 @@
     "stats.tablist.unknown": "",
     "stats.tablist.vitality": " *Vitality: §r§4♨(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.wheat.fortune": "",
-    "stats.tabpatterns.godpot": "(?:§.)*God Potion(?:§.)*: (?:§.)*(?\u003ctime\u003e[dhms0-9 ]+)(?:§.)*",
+    "stats.tabpatterns.godpot": "\\s?(?:§.)*God Potion(?:§.)*: (?:§.)*(?\u003ctime\u003e[dhms0-9 ]+)(?:§.)*",
     "stranded.highlightplacement.clicktoset": "§7§eClick to set the location of this NPC!",
     "stranded.highlightplacement.clicktospawn": "§elocation!",
     "stranded.highlightplacement.location": "§7Location: §f\\[§e\\d+§f, §e\\d+§f, §e\\d+§f]",
@@ -1613,6 +1616,7 @@
     "utils.string.playerchat": "(?\u003cimportant\u003e.*?)(?:§[f7r])*: .*",
     "utils.string.playername": "[a-zA-Z0-9_]{2,16}",
     "utils.tablist.profile": "(?:§.)+Profile: §r§a(?\u003cprofile\u003e[\\w\\s]+[^ §]).*",
-    "utils.time.amount": "(?:(?\u003cy\u003e\\d+) ?y(?:\\w* ?)?)?(?:(?\u003cd\u003e\\d+) ?d(?:\\w* ?)?)?(?:(?\u003ch\u003e\\d+) ?h(?:\\w* ?)?)?(?:(?\u003cm\u003e\\d+) ?m(?:\\w* ?)?)?(?:(?\u003cs\u003e\\d+) ?s(?:\\w* ?)?)?"
+    "utils.time.amount": "(?:(?\u003cy\u003e\\d+) ?y(?:\\w* ?)?)?(?:(?\u003cd\u003e\\d+) ?d(?:\\w* ?)?)?(?:(?\u003ch\u003e\\d+) ?h(?:\\w* ?)?)?(?:(?\u003cm\u003e\\d+) ?m(?:\\w* ?)?)?(?:(?\u003cs\u003e\\d+) ?s(?:\\w* ?)?)?",
+    "utils.webhook.webhook": "^https:\\/\\/discord\\.com\\/api\\/webhooks\\/\\d+\\/[^\\/?\\s]+(?:\\/messages\\/\\d+)?(?:\\?thread_id\u003d\\d+)?(?:[?\u0026]wait\u003dtrue)?$"
   }
 }
