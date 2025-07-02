@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "85cf672",
+  "sourceLabel": "a96e838",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -481,7 +481,7 @@
     "features.gui.customscoreboard.scoreboard.farming.plot": "\\s*§aPlot §7-.*",
     "features.gui.customscoreboard.scoreboard.galatea.agathas-contest": "§eAgatha\u0027s Contest §a.*",
     "features.gui.customscoreboard.scoreboard.galatea.hotf": "\\s*§aHOTF§f: §a[\\w,.]+.*",
-    "features.gui.customscoreboard.scoreboard.galatea.whispers": "Whispers: §3[\\w,.]+.*",
+    "features.gui.customscoreboard.scoreboard.galatea.whispers": "(?:§f)?Whispers: §3[\\w,.]+.*",
     "features.gui.customscoreboard.scoreboard.kuudra.submerges": "(?:§.)*Submerges In: (?:§.)*[\\w\\s?]+",
     "features.gui.customscoreboard.scoreboard.kuudra.tokens": "(?:§.)*Tokens: §.[\\w,]+",
     "features.gui.customscoreboard.scoreboard.kuudra.wave": "(?:§.)*Wave: (?:§.)*\\d+(?:§.)*(?: §.- §.\\d+:\\d+)?",
