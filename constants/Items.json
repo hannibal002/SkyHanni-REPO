@@ -47,7 +47,8 @@
     "CHAMP_ROD",
     "LEGEND_ROD",
     "ROD_OF_THE_SEA",
-    "GIANT_FISHING_ROD"
+    "GIANT_FISHING_ROD",
+    "BINGO_ROD"
   ],
   "dungeon_secret_items": [
     "DEFUSE_KIT",
