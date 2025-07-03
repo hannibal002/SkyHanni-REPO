@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "836a0fc",
+  "sourceLabel": "7e8ed7e",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -609,6 +609,12 @@
     "foraging.hotf.inventory.heart.token": "§7Tokens of the Forest: §a(?\u003ctoken\u003e\\d+)",
     "foraging.hotf.inventory.reset": "§cReset Heart of the Forest",
     "foraging.hotf.inventory.reset.token": "\\s*§8- §a(?\u003ctoken\u003e\\d+) §aToken of the Forest",
+    "foraging.hotf.lottery.chat.fig.fortune": "§r§fGain §r§a\\+50 §r§6☘ Fig Fortune§r§f\\.",
+    "foraging.hotf.lottery.chat.mangrove.fortune": "§r§fGain §r§a\\+50 §r§6☘ Mangrove Fortune§r§f\\.",
+    "foraging.hotf.lottery.chat.sweep": "§r§fGain §r§a\\+5% §r§2∮ Sweep§r§f\\.",
+    "foraging.hotf.lottery.item.fig.fortune": "Gain §a\\+50 §6☘ Fig Fortune§7\\.",
+    "foraging.hotf.lottery.item.mangrove.fortune": "Gain §a\\+50 §6☘ Mangrove Fortune§7\\.",
+    "foraging.hotf.lottery.item.sweep": "Gain §a\\+5% §2∮ Sweep§7\\.",
     "foraging.hotf.perk.enable": "§a§lENABLED|(?:§.)*SELECTED",
     "foraging.hotf.perk.level": "(?:§.)*Level (?\u003clevel\u003e\\d+).*",
     "foraging.hotf.perk.name.axetoss": "§.Axe Toss",
