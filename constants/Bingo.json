@@ -1,330 +1,361 @@
 {
   "bingo_tips": {
-    "Agricultural Revolution (Community Goal)": {
-      "difficulty": "Easy",
+    "Dilmun Trader (Community Goal)": {
+      "difficulty": "Medium",
       "note": [
-        "Harvest crops"
+        "Copper from Visitors"
       ],
       "guide": [
-        "You can get easy contribution for",
-        "this by breaking some Wheat in the Hub.",
-        "If you want faster contribution,",
-        "make a Sugar Cane farm in your Garden."
+        "You will gain passive progress in this",
+        "by doing the At your service goal.",
+        "Higher Rarity Visitors grant more Copper",
+        "but are also harder to complete."
+      ]
+    },
+    "Deep Sea Angler (Community Goal)": {
+      "difficulty": "Medium",
+      "note": [
+        "Fish up Rare+ Sea Creatures"
+      ],
+      "guide": [
+        "You'll want to use any kind of bait",
+        "that boosts chances for rarer Sea Creatures",
+        "such as Dark/Light Bait and others. Some of",
+        "them have conditions for the boost to work.",
+        "Probably the best idea to do this once you have",
+        "Bayou Bobbin' done. Use the best rod you",
+        "have access to."
       ]
     },
     "Skilled (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Gain Fishing experience"
+        "Gain Combat XP"
       ],
       "guide": [
-        "Recommended for this is to fish in the ",
-        "Backwater Bayou with the best rod you have",
-        "access to and full Angler Set or better."
+        "You will gain passive progress in the while doing",
+        "various other goals. Recommended for this are",
+        "Endermen. Don't forget to unlock Combat Wisdom",
+        "perks in the related Essence Shop."
       ]
     },
-    "A Hard Day's Work (Community Goal)": {
+    "Commissioned (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Collect Jacobs Tickets from contests"
+        "Complete Mining Commissions"
       ],
       "guide": [
-        "To get easy progress in this do",
-        "contests like Wheat, Potato",
-        "or Carrot as those are easy",
-        "Bronze or Silver Medals to get.",
-        "You can also try to utilize pests to help here."
+        "You can do Dwarven Mines/Crystal Hollows/Glacite Tunnel",
+        "Commissions for that, while some may be harder than others.",
+        "Make sure to not miss Active Event related goals",
+        "in the Dwarven Mines, as those are rather quick and will",
+        "also help towards the Dwarven Cereals."
       ]
     },
-    "Hunter (Community Goal)": {
+    "Scavenger (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Collect pelts"
+        "Gain coins from the Scavenger Enchant"
       ],
       "guide": [
-        "You should use SkyHanni's Trapper features",
-        "to make this easier. Use /warp trapper",
-        "to get back to Trevor whenever you want.",
-        "You will need a bow for this."
+        "Apply/Use the highest tier of Scavenger",
+        "that you can get your hands on and put it",
+        "on your main weapon. Gifts from the Jerry Island",
+        "can be a way to obtain Scavenger IV books.",
+        "You can also use the weapon drops from dungeon mobs",
+        "as those have guaranteed Scavenger 5." 
       ]
     },
-    "Operation: Ore (Community Goal)": {
+    "Yummers": {
       "difficulty": "Easy",
       "note": [
-        "Mine Ores"
+        "15 Cans of Worms"
       ],
       "guide": [
-        "For this pretty much all ores count, just",
-        "things like Cobblestone/Stone don't. For faster",
-        "progress here you'll want to use as much",
-        "Mining Speed and Spread as possible",
-        "and pair it with the Pickobulus",
-        "pickaxe ability that unlocks at HotM 3."
+        "Those have a 20% drop chance from Trash Gobblers",
+        "in the Backwater Bayou (11.3% base catch chance)",
+        "and require Fishing Level 5+ to fish up.",
+        "Use the best Fishing Gear you have access to."
       ]
     },
-    "Strange Effects": {
-      "difficulty": "Easy",
-      "note": [
-        "Kill a Runic Mob"
-      ],
-      "guide": [
-        "Look for mobs with a purple name",
-        "and kill it."
-      ]
-    },
-    "Minion Machine": {
+    "Exterminator": {
       "difficulty": "Medium",
       "note": [
-        "60 unique Minions"
+        "Vacuum 100 Pests"
       ],
       "guide": [
-        "Craft some easy minions while also getting",
-        "those that will help with this Bingo.",
-        "Use NPC shops to buy materials for easy crafts."
+        "Pest spawns have a cooldown of 5 minutes while online",
+        "and an hour while offline. While actively farming, there's",
+        "a 0.2% chance of a pest spawn each broken mature crop.",
+        "Bonus Pest Chance can increase the amount of spawned pests",
+        "at once while actively farming. You can also use up to 3",
+        "Pest Traps (purchased from Philip in the Garden) to get Pests",
+        "while doing other goals. Pests unlock from Garden Level 5.",
+        "Use the Vacuum Philip hands you when talking to him."
       ]
     },
-    "Relic Researcher": {
+    "Spider Squisher": {
       "difficulty": "Medium",
       "note": [
-        "10 Relics"
+        "75 Spiders in 90s"
       ],
       "guide": [
-        "You can find Relic Coordinates in Skytils",
-        "or the Wiki. Some of them will require",
-        "the use of some Ender Pearls."
+        "Use a Super Cleaver from Ophelia in the Dungeon Hub",
+        "(80k coins + Cleaver to buy)",
+        "or a Dreadlord Sword from Dungeons to achieve this.",
+        "Make sure to apply Cleave 5 on your Cleaver.",
+        "§cSpiders on your Private Island don't count!"
       ]
     },
-    "String Collector": {
+    "The Mirror Dimension": {
       "difficulty": "Hard",
       "note": [
-        "77.5k String Collection"
+        "1,000s Rift Time"
       ],
       "guide": [
-        "Kill Spiders in the Spider's Den (/warp spider)",
-        "place a few Spider Minions and participate",
-        "in killing Arachne in Arachne's Sanctuary.",
-        "Recommended to wear a Cow Head to avoid the poison.",
-        "For the Minions, dont forget to give them the best",
-        "fuel and storage you have access to. Collect in time!"
+        "Theres a couple different ways to achieve this.",
+        "You'll start with a base of 480s Rift Time and things like:",
+        "  Wyld Armor (60s), Crux Talisman (10s), Rift Necklace (60s),",
+        "  Montezuma Pet (15s), Enigma Cloak (100-200s, depending on",
+        "  how many souls you get), Rift Time Century Cake (10s,",
+        "  /visit skyerzz to get this), Scarf's Studies (10s)",
+        "can increase that time."
       ]
     },
-    "A Best Friend": {
-      "difficulty": "Easy",
-      "note": [
-        "Craft any pet"
-      ],
-      "guide": [
-        "The easiest solution for this is the Jerry pet.",
-        "To get the Enchanted Egg needed, kill Chickens",
-        "in The Barn till you get the Chicken Head recipe.",
-        "Once you get your first Enchanted Egg, use it",
-        "to craft your pet."
-      ]
-    },
-    "Emerald Treasure": {
+    "End All, Be Al": {
       "difficulty": "Medium",
       "note": [
-        "Unlock an Emerald Dungeon Chest"
+        "Kill a Zealot Bruiser"
       ],
       "guide": [
-        "Complete a Floor 1 with a score of 230+",
-        "and buy the chest afterwards. If you can't buy",
-        "immediately, either save money and buy it from",
-        "Croesus within the next 2 days or do another run.",
-        "You will probably need help with this."
+        "You only need to get the final hit on it",
+        "for this to count, so ideally you team up",
+        "with other Bingo Players or get your friends",
+        "to lower it. You need Combat 20 to enter the",
+        "portal under the entrance plattform in the",
+        "Dragon Area in the End. If you want to kill one",
+        "entirely by yourself, get 6+/8 pieces of the Ender Gear,",
+        "a Void Sword with Ender Slayer 5+ and an elevated spot."
       ]
     },
-    "Oak Wood Collector": {
+    "Old School": {
       "difficulty": "Hard",
       "note": [
-        "100k Oak Wood collection"
+        "Craft a Runaan's Bow"
       ],
       "guide": [
-        "Optimal tool:",
-        "Golden Axe with Efficiency 5",
-        "Reforges: Double-Bit or Lush",
-        "Get Haste 3 from a splash to instamine wood",
-        "Forage in the Hub for this.",
-        "Place as many minions as you can",
-        "give them a medium storage and the best fuel",
-        "you can. Collect them in time."
+        "This unlocks at 50k Bone Collection.",
+        "Kill Skeletons in The Deep Caverns",
+        "to unlock Skeleton Minions. Craft as many",
+        "as you can and place them on your island.",
+        "Give them the best fuel and storage",
+        "that you have access to and collect in time.",
+        "Don't forget to buy your daily bones from",
+        "The Adventurer in The Hub.",
+        "You'll need 192 Enchanted Bones and Enchanted String",
+        "to craft this, so you'll want to also run Spider Minions."
       ]
     },
-    "Slaughterer": {
+    "Pair Up!": {
       "difficulty": "Easy",
       "note": [
-        "Kill a t2 Slayer Boss under 80s"
+        "20 pairs in the experimentation table"
       ],
       "guide": [
-        "Recommended for this either Revenant Horror II",
-        "or Tarantula Broodfather II. Use your Ender Armor",
-        "and Void Sword (200k) for this."
+        "Do your daily Experimentation Tables after getting",
+        "Enchanting Level 10 and don't forget to make use",
+        "of the Minigames that unlock after Enchanting 20."
       ]
     },
-    "Esteemed Enchanter": {
+    "Shh...": {
       "difficulty": "Easy",
       "note": [
-        "Obtain a t6 book"
+        "100 Secrets in Dungeons"
       ],
       "guide": [
-        "You will most likely be able to complete this",
-        "from doing the Emerald Treasure Goal as there",
-        "is a high chance for a t6 Enchanted Book to be",
-        "in the given Reward Chests."
+        "This will need Combat 15 to enter any Dungeon.",
+        "Almost all Dungeon Rooms have a couple secrets,",
+        "some of the may require Ender Pearls to reach.",
+        "The Secret Tracker 3000 from Malik can help",
+        "if you have trouble finding secrets."
       ]
     },
-    "Hard Worker": {
+    "Collector": {
       "difficulty": "Medium",
       "note": [
-        "Craft a t11 Minion"
+        "50 Collections to t2+"
       ],
       "guide": [
-        "The easiest solution here would be",
-        "to craft a Wheat Minion t11 (163.632 Wheat).",
-        "Utilize the Garden and its pests",
-        "to obtain the needed resources."
+        "You can easily get t2 in the following:",
+        "  17x Farming, 16x Mining,",
+        "  7x Combat and 12x Foraging"
       ]
     },
-    "Trouble is Brewing...": {
+    "Bedazzled": {
       "difficulty": "Medium",
       "note": [
-        "Brew any t6 potion"
+        "30 unique Accessories"
       ],
       "guide": [
-        "Brew a potion with an Enchanted Sugar Cane/",
-        "Enchanted Gold Block/Enchanted Fermented Spider Eye",
-        "and add Glowstone to it. You can get that Glowstone",
-        "by buying one block from the Builder and",
-        "breaking it on your island.",
-        "You can also brew a Health VIII potion",
-        "from dungeon secrets with a Fermented Spider Eye."
+        "List of more than 30 talismans:",
+        "  Buy all 6 Talismans from the Adventurer in The Hub (26k)",
+        "Collection Talismans:",
+        "  Farming Talisman, Vaccine Talisman,",
+        "  Gravity Talisman, Talisman of Coins, Magnetic Talisman,",
+        "  Wood Affinity Talisman, Speed Talisman, Potion Affinity Talisman,",
+        "  Small Fish Bowl, Pressure Talisman, Talisman of Power,",
+        "  Haste Ring, Emerald Ring",
+        "Others:",
+        "  Archaeologists Compass, Shiny Yellow Rock, King Talisman,",
+        "  Campfire Initiate Badge, Cat Talisman, Spider Talisman,",
+        "  Soul Campfire Initiate Badge, Runeblade Talisman,",
+        "  Moonglade Talisman, New Year Cake Bag, Candy Talisman,",
+        "  Pig's Foot, Wolf Paw, Pesthunter Talisman",
+        "Don't forget to take the 4 Bonus accessory bag slots from",
+        "the Redstone Miner, he needs 1920 Redstone in total."
       ]
     },
-    "A Lost Cause": {
-      "difficulty": "Medium",
-      "note": [
-        "Kill a Lost Adventurer"
-      ],
-      "guide": [
-        "Start an Entrance floor and",
-        "play Mage/Tank/Berserker to use",
-        "their abilities to kill a Lost Adventurer.",
-        "You only need to get the last hit,",
-        "so you can get help from your team.",
-        "You need Combat Level 15 for this."
-      ]
-    },
-    "Commission Master": {
+    "Lighter than steel": {
       "difficulty": "Easy",
       "note": [
-        "Complete 4 Commissions"
+        "4/4 Mithril Equipment"
       ],
       "guide": [
-        "Do your daily commissions in the Dwarven Mines",
-        "(4 per day). You will need Mining 12 for this.",
-        "Can also be completed in the Crystal Hollows,",
-        "though it might be harder to do so."
+        "This will need Heart of the Mountain Tier 2",
+        "and 12 Enchanted Mithril to forge all 4 pieces.",
+        "Each piece has only a forge time of an hour."
       ]
     },
-    "Skill Average": {
+    "Oh Captain, My Captain": {
       "difficulty": "Medium",
       "note": [
-        "Skill Average of 14"
+        "2x Bronze Ship Parts"
       ],
       "guide": [
-        "To help with this, try to make bigger crafts",
-        "by hand for Carpentry levels.",
-        "Use the Enchanted Sugar that you may get from",
-        "pests/the Garden to brew Speed Potions.",
-        "Also do your daily experiments and make sure",
-        "to have a pet active at all times",
-        "(any pet works, even level 100)."
+        "For this you'll need to fish in the Backwater Bayou.",
+        "Recommended to go for is:",
+        "  Bronze Ship Helm: 64 Dark Oak Wood + 4 Bronze Bowl",
+        "    (Bronze Bowl is a 1/23 drop from Dumpster Divers)",
+        "  Bronze Engine: 64 Rusty Coins + 8 Busted Belt Buckles",
+        "    (You'll need Junker Joels Junk Sinker for this and",
+        "    he's also the one that's selling the part.)"
       ]
     },
-    "Healthy": {
+    "Legal Duplication": {
       "difficulty": "Easy",
       "note": [
-        "500 Health"
+        "270 Mining Fortune"
       ],
       "guide": [
-        "Wear armor enchanted with Growth 5 ",
-        "(Enchanting Level 5), preferably Ender Armor",
-        "while you're in The End or Mushroom Armor",
-        "during the night.",
-        "Applying Growth 5 costs 50 Levels each.",
-        "If you still struggle, reforge your",
-        "armor to Titanic."
+        "There's a couple ways to achieve this:",
+        "  Mining Level (4 each), Fortune 3+ Enchant (45),",
+        "  Mithril Equipment (25), Mining Tool Base Stat (2+),",
+        "  Century Cake (5 from /visit skyerzz),",
+        "  Mining Fortune HotM2 Perk (2/tier),",
+        "  Better Together Dwarven Event (50, if 1+ person near),",
+        "  Goblin/Lapis Armor (8/16)"
       ]
     },
-    "Strongman": {
-      "difficulty": "Medium",
+    "Forgery": {
+      "difficulty": "Hard",
       "note": [
-        "140 strength"
+        "Forge a Drill"
       ],
       "guide": [
-        "Get yourself a splash, equip a Bingo Pet",
-        "and get the cake buff by eating the cakes",
-        "on xMeru's, skyerzz's or prtl's island.",
-        "If this doesn't finish it,",
-        "get a Void Sword (200k) in the End",
-        "and hold it while wearing Ender Gear."
+        "You'll want to forge a Ruby Drill TX-15 (HotM4),",
+        "which needs 6 Fine Ruby Gems, a Fuel Canister (10h Forge Time)",
+        "and a Drill Motor (44h total Forge time). Once you gathered",
+        "all the materials, it needs 4h Forge Time."
       ]
     },
-
-    "Strange Eggs": {
-      "difficulty": "Medium",
+    "Fisherman's Folly": {
+      "difficulty": "Hard",
       "note": [
-        "Spawn a Golden Goblin"
+        "OUTSTANDING treasure/junk catch"
       ],
       "guide": [
-        "Kill goblins or open loot chests in",
-        "the Crystal Hollows and throw the eggs",
-        "until you get a Golden Goblin.",
-        "Higher level eggs have higher chances of",
-        "spawning, but are also rarer to get."
+        "Recommended for this is any rod with the best",
+        "Fishing Speed you can get and Blessing 5+ Enchant.",
+        "If you want, you can further boost your chances",
+        "by using a Rare+ Hermit Crab Pet.",
+        "You might also want to do this in the Tomb Floodway",
+        "on Galatea as you won't catch Sea Creatures there.",
+        "If you fish in the Backwater Bayou, use the Junk Sinker",
+        "from Joel as it awards Treasure Chance. You can go even",
+        "further and buy a Junk Talisman or better from Joel",
+        "in case you have those resources as spare."
       ]
     },
-    "Experienced": {
-      "difficulty": "Medium",
+    "Chocolatier": {
+      "difficulty": "Easy",
       "note": [
-        "Obtain a Grand XP Bottle"
+        "25m Chocolate"
       ],
       "guide": [
-        "Ways to obtain:",
-        "Craft (Lapis Lazuli Collection 5),",
-        "a drop from fishing,",
-        "from the Experimentation Table,",
-        "drop from Ender Nodes in the End (11-13%)."
+        "Open the Chocolate Factory Menu with /cf,",
+        "get your first 50 Chocolate by clicking the button",
+        "in the middle of it and buy your first Level of",
+        "Rabbit Bro. Remember to check in every once in a while",
+        "and upgrade your workers. You can also grab",
+        "Chocolate Meal Eggs that spawn while Hoppity's Hunt is",
+        "around to further speed this up."
       ]
     },
-    "Carrot Collector": {
+    "At your service": {
       "difficulty": "Medium",
       "note": [
-        "200k Carrot collection"
+        "50 completed Garden Visitor offers"
       ],
       "guide": [
-        "Optimal tool:",
-        "Advanced Gardening Hoe (25 copper)",
-        "Make a full plot of carrots (7896 needed)",
-        "in The Garden (SkyBlock Level 5)",
-        "Get the carrots to plant from The Barn",
-        "or from the cave under the mountain in The Hub."
+        "Easy Visitors to go for are Jotraeline Greatforge",
+        "and Gold Forger as they don't ask for much each visit.",
+        "Other good choices to go for is the Librarian and any",
+        "visitor that wants Wheat like Jacob does.",
+        "(check the Wiki for more insight) Those can queue up to",
+        "5 visitors total at a time without you",
+        "needing to be online."
       ]
     },
-    "Slayer": {
-      "difficulty": "Medium",
+    "Who needs friends?": {
+      "difficulty": "Hard",
       "note": [
-        "Reach Slayer Level 5"
+        "Solo a F1 with 270+ Score"
       ],
       "guide": [
-        "Recommended for this is either Zombie",
-        "or Spider Slayer. You will need a total",
-        "of 6220 XP for that Slayer.",
-        "(T1-T3: 1 each, T4: 13) or",
-        "(T1 & T2: 1 each, T3: 62)",
-        "Recommended gear for this is Ender Armor",
-        "and a Void Sword or you can rely",
-        "on help from friends."
+        "This will heavily rely on your gear and Catacombs Level.",
+        "Ideally you'll want to buy the best tier of Goggles from",
+        "Ophelia that you can. Use End Armor for the remaining 3 pieces",
+        "but replace them with better Dungeon Armor drops.",
+        "Reforge your Armor to Wise or Necrotic if you can",
+        "and your Dreadlord Sword to Heroic. Star your Dungeon Gear.",
+        "You should also use the Power Stone that grants the most",
+        "Intelligence that you have access to.",
+        "§cDon't forget to use your Class Abilities!"
+      ]
+    },
+    "Bayou Bobbin'": {
+      "difficulty": "Medium",
+      "note": [
+        "4/8 Backwater Armor"
+      ],
+      "guide": [
+        "For this you'll need to fish in the Backwater Bayou.",
+        "Any 4 pieces will do, the equipment is the cheapest.",
+        "This requires Angler Armor (bought in the Hub) and at least",
+        "32 Rusty Coins (Junk catch that requires the Junk Sinker",
+        "from Joel to be applied to your rod)"
+      ]
+    },
+    "They're Prrrrrretty good": {
+      "difficulty": "Medium",
+      "note": [
+        "Consume 4 Dwarven Cereals"
+      ],
+      "guide": [
+        "Those have a 20% chance to drop if you participate",
+        "in Active Dwarven Mines Events such as Goblin Raid,",
+        "Raffle or Mithril Gourmand.",
+        "The chance goes up to 36% if you get the personal bonus."
       ]
     }
   }

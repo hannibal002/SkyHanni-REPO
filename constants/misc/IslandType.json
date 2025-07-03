@@ -10,6 +10,7 @@
     "THE_END": {
       "name": "The End",
       "api_name": "combat_3",
+      "max_players": 28,
       "bounds": { 
         "max_x": -369, 
         "min_x": -800,
@@ -35,6 +36,7 @@
     "DWARVEN_MINES": {
       "name": "Dwarven Mines",
       "api_name": "mining_3",
+      "max_players": 26,
       "bounds": {
         "max_x": 351, 
         "min_x": -240,
@@ -137,7 +139,13 @@
     "WINTER": {
       "name": "Jerry's Workshop",
       "api_name": "winter",
-      "max_players": 27
+      "max_players": 27,
+      "bounds": {
+        "max_x": 127, 
+        "min_x": -142,
+        "max_z": 143,
+        "min_z": -140
+      }
     },
     "THE_RIFT": {
       "name": "The Rift",
@@ -156,8 +164,13 @@
         "max_x": 100,
         "min_x": -45,
         "max_z": 65,
-        "mix_z": -75
+        "min_z": -75
       }
+    },
+    "GALATEA": {
+      "name": "Galatea",
+      "api_name": "foraging_2",
+      "max_players": 12
     },
     "NONE": {
       "name": ""
