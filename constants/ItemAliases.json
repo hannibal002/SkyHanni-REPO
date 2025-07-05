@@ -1,0 +1,23 @@
+{
+  "global": {
+    "agaricus": "agaricus_cap",
+    "cacti": "cactus",
+    "caducous": "caducous_stem",
+    "carrots": "carrot",
+    "cocoa": "cocoa_beans",
+    "cocoa bean": "cocoa_beans",
+    "gemstones": "gemstone",
+    "glowstone": "glowstone_dust",
+    "gold": "gold_ingot",
+    "iron": "iron_ingot",
+    "lapis": "lapis_lazuli",
+    "melons": "melon",
+    "nether warts": "nether_stalk",
+    "potatoes": "potato",
+    "pumpkins": "pumpkin",
+    "quartz": "nether_quartz",
+    "seed": "seeds",
+    "wart": "nether_stalk",
+    "warts": "nether_stalk"
+  }
+}

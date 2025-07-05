@@ -9,7 +9,14 @@
     },
     "THE_END": {
       "name": "The End",
-      "api_name": "combat_3"
+      "api_name": "combat_3",
+      "max_players": 28,
+      "bounds": { 
+        "max_x": -369, 
+        "min_x": -800,
+        "max_z": -113,
+        "min_z": -433
+      }
     },
     "KUUDRA_ARENA": {
       "name": "Kuudra",
@@ -18,15 +25,34 @@
     },
     "CRIMSON_ISLE": {
       "name": "Crimson Isle",
-      "api_name": "crimson_isle"
+      "api_name": "crimson_isle",
+      "bounds": {
+        "max_x": 63, 
+        "min_x": -768,
+        "max_z": -337,
+        "min_z": -1104
+      }
     },
     "DWARVEN_MINES": {
       "name": "Dwarven Mines",
-      "api_name": "mining_3"
+      "api_name": "mining_3",
+      "max_players": 26,
+      "bounds": {
+        "max_x": 351, 
+        "min_x": -240,
+        "max_z": 500,
+        "min_z": -208
+      }
     },
     "DUNGEON_HUB": {
       "name": "Dungeon Hub",
-      "api_name": "dungeon_hub"
+      "api_name": "dungeon_hub",
+      "bounds": {
+        "max_x": 31, 
+        "min_x": -144,
+        "max_z": 143,
+        "min_z": -96
+      }
     },
     "CATACOMBS": {
       "name": "Catacombs",
@@ -36,7 +62,13 @@
     "HUB": {
       "name": "Hub",
       "api_name": "hub",
-      "max_players": 26
+      "max_players": 26,
+      "bounds": {
+        "max_x": 207, 
+        "min_x": -296,
+        "max_z": 223,
+        "min_z": -272
+      }
     },
     "DARK_AUCTION": {
       "name": "Dark Auction",
@@ -45,7 +77,13 @@
     },
     "THE_FARMING_ISLANDS": {
       "name": "The Farming Islands",
-      "api_name": "farming_1"
+      "api_name": "farming_1",
+      "bounds": {
+        "max_x": 415, 
+        "min_x": 65,
+        "max_z": -178,
+        "min_z": -650
+      }
     },
     "CRYSTAL_HOLLOWS": {
       "name": "Crystal Hollows",
@@ -53,15 +91,33 @@
     },
     "THE_PARK": {
       "name": "The Park",
-      "api_name": "foraging_1"
+      "api_name": "foraging_1",
+      "bounds": {
+        "max_x": -209, 
+        "min_x": -496,
+        "max_z": 95,
+        "min_z": -160
+      }
     },
     "DEEP_CAVERNS": {
       "name": "Deep Caverns",
-      "api_name": "mining_2"
+      "api_name": "mining_2",
+      "bounds": {
+        "max_x": 93, 
+        "min_x": -272,
+        "max_z": 191,
+        "min_z": -96
+      }
     },
     "GOLD_MINES": {
       "name": "Gold Mine",
-      "api_name": "mining_1"
+      "api_name": "mining_1",
+      "bounds": {
+        "max_x": 47, 
+        "min_x": -112,
+        "max_z": -178,
+        "min_z": -496
+      }
     },
     "GARDEN": {
       "name": "Garden",
@@ -72,12 +128,24 @@
     },
     "SPIDER_DEN": {
       "name": "Spider's Den",
-      "api_name": "combat_1"
+      "api_name": "combat_1",
+      "bounds": { 
+        "max_x": -113, 
+        "min_x": -512,
+        "max_z": -113,
+        "min_z": -433
+      }
     },
     "WINTER": {
       "name": "Jerry's Workshop",
       "api_name": "winter",
-      "max_players": 27
+      "max_players": 27,
+      "bounds": {
+        "max_x": 127, 
+        "min_x": -142,
+        "max_z": 143,
+        "min_z": -140
+      }
     },
     "THE_RIFT": {
       "name": "The Rift",
@@ -90,7 +158,19 @@
     },
     "BACKWATER_BAYOU": {
       "name": "Backwater Bayou",
-      "api_name": "fishing_1"
+      "api_name": "fishing_1",
+      "max_players": 16,
+      "bounds": {
+        "max_x": 100,
+        "min_x": -45,
+        "max_z": 65,
+        "min_z": -75
+      }
+    },
+    "GALATEA": {
+      "name": "Galatea",
+      "api_name": "foraging_2",
+      "max_players": 12
     },
     "NONE": {
       "name": ""

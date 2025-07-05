@@ -1,7 +1,17 @@
 {
+  "__info__": "If you have contributed to SkyHanni feel free to add yourself here.",
+  "__info__1": "We are not currently adding upside down, spinny or chroma (§Z).",
+  "__info__2": "Please also limit your suffixes to 2 visible characters.",
+  "__info__3": "Make sure you add yourself in alphabetically (excluding the external mod devs).",
   "contributors": {
     "Alea1337": {},
+    "aphased": {
+      "suffix": "§9:D"
+    },
     "appable": {},
+    "Bloxigus": {
+      "suffix": "§d§l:3"
+    },
     "CalMWolfs": {
       "suffix": "§e:)",
       "spinny": true,
@@ -52,6 +62,9 @@
     "Ke5o": {
       "suffix": "§7I can't think of anything funny"
     },
+    "ksndq": {
+      "suffix": "§3§lツ"
+    },
     "lrg89": {
       "suffix": "§Z<3",
       "upsideDown": true
@@ -60,6 +73,9 @@
     "Mikecraft1224": {},
     "minhperry02": {
       "suffix": "§9:D"
+    },
+    "NeoNyaa": {
+      "suffix": "§d§l:3"
     },
     "NetheriteMiner": {},
     "oBlazin": {
@@ -75,9 +91,6 @@
       "suffix": "§d:3"
     },
     "oxsss": {},
-    "Parsers": {
-      "suffix": "§1§l:O"
-    },
     "PlasticEating": {
       "suffix": "§d§l:3"
     },
@@ -118,6 +131,9 @@
     "Tryp0MC": {
       "suffix": "§6B)"
     },
+    "typename": {
+      "suffix": "§1§l:O"
+    },
     "Vahvl": {
       "suffix": "§d:3"
     },
@@ -131,6 +147,9 @@
       "spinny": true,
       "upsideDown": true,
       "alt from": "CalMWolfs"
+    },
+    "YoGoUrT_20": {
+      "suffix": "§1§l:3"
     },
     "Zickles": {},
     "Biscut": {

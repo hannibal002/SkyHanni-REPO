@@ -103,6 +103,86 @@
         "TPS calculation got an error"
       ],
       "fixed_in": "1.12.0"
+    },
+    {
+      "message_starts_with": [
+        "Could not find gemstone slot price for"
+      ],
+      "fixed_in": "2.3.0"
+    },
+    {
+      "message_starts_with": [
+        "No path to fishing hotspot found"
+      ],
+      "fixed_in": "2.5.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a InvocationTargetException in at.hannibal2.skyhanni.features.event.hoppity.HoppityEventSummary.onSecondPassed"
+      ],
+      "fixed_in": "2.10.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IndexOutOfBoundsException in at.hannibal2.skyhanni.utils.KeyboardManager.onTick() at SkyHanniTickEvent: "
+      ],
+      "fixed_in": "2.18.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.misc.AuctionHousePriceComparison.onInventoryOpen"
+      ],
+      "fixed_in": "2.19.0"
+    },
+    {
+      "message_starts_with": [
+        "Could not find gemstone slot price for Pitchin' Giant Fishing Rod"
+      ],
+      "fixed_in": "99.99.99"
+    },
+    {
+      "message_starts_with": [
+        "Error sending data to Elitebot Farming Contests API!"
+      ],
+      "fixed_in": "3.1.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a NoSuchElementException in at.hannibal2.skyhanni.features.mining.powdertracker.PowderChestTimer.onRenderWorld(at.hannibal2.skyhanni.events.minecraft.SkyHanniRenderWorldEvent) at SkyHanniRenderWorldEvent: null"
+      ],
+      "fixed_in": "3.10.0"
+    },
+    {
+      "message_starts_with": [
+        "Found unknown skyblock stats on items"
+      ],
+      "fixed_in": "3.10.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalArgumentException in at.hannibal2.skyhanni.features.pets.",
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.pets.",
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.misc.items.EstimatedItemValue"
+      ],
+      "fixed_in": "3.13.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.garden.GardenNextJacobContest.onWidgetUpdate"
+      ],
+      "fixed_in": "3.13.0"
+    },
+    {
+      "message_starts_with": [
+        "Error fetching data from NEU Lowest Bin API!"
+      ],
+      "fixed_in": "5.0.0"
+    },
+    {
+      "message_starts_with": [
+        "Could not read the skymall effect from chat"
+      ],
+      "fixed_in": "3.15.0"
     }
   ]
 }

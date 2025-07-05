@@ -21,6 +21,8 @@
       "Cobblestone Slab",
       "Condensed Fermento",
       "Corrupted Fragment",
+      "Crown of Greed",
+      "Deep Root",
       "Defuse Kit",
       "Doubloon of the Family",
       "Enchanted Brown Mushroom",
@@ -61,6 +63,7 @@
       "Spruce Wood Slab",
       "Squid Boots",
       "Stone Brick Slab",
+      "Stretching Sticks",
       "Sulphur",
       "Superboom TNT",
       "Toxic Arrow Poison",
@@ -69,8 +72,7 @@
       "Twilight Arrow Poison",
       "White Wool",
       "Winter Disc",
-      "Wishing Compass",
-      "Crown of Greed"
+      "Wishing Compass"
     ],
     "startsWith": [
       "Music Disc",
