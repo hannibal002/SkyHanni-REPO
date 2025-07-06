@@ -4,6 +4,10 @@
   "__info__2": "Please also limit your suffixes to 2 visible characters.",
   "__info__3": "Make sure you add yourself in alphabetically (excluding the external mod devs).",
   "contributors": {
+    "AfkUser": {
+      "suffix": "§4>:3"
+      "upsideDown": true
+    },
     "Alea1337": {},
     "aphased": {
       "suffix": "§9:D"
