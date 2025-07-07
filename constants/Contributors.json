@@ -82,7 +82,9 @@
     },
     "NetheriteMiner": {},
     "oBlazin": {
-      "suffix": "§d§l^^"
+      "suffix": "§d§l^^",
+      "spinny": true,
+      "upsideDown": true
     },
     "not_a_cowfr": {
       "suffix": "§c:3"
