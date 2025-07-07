@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9a47993",
+  "sourceLabel": "b2f2a95",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -988,7 +988,7 @@
     "mining.hotm.perk.name.titaniuminsanium": "§.Titanium Insanium",
     "mining.hotm.perk.name.vanguardseeker": "§.Vanguard Seeker",
     "mining.hotm.perk.name.warmheart": "§.Warm Heart",
-    "mining.hotm.perk.notunlocked": "(?:§.)*Requires.*|.*Mountain!|(?:§.)*Click to unlock!|",
+    "mining.hotm.perk.notunlocked": "(?:§.)*Requires.*|.*Mountain(?:§.)*!|(?:§.)*Click to unlock!",
     "mining.hotm.reset.chat": "§aReset your §r§5Heart of the Mountain§r§a! Your Perks and Abilities have been reset\\.",
     "mining.hotm.skymall.chat.ability.cooldown": "§r§a-20%§r§f Pickaxe Ability cooldowns\\.",
     "mining.hotm.skymall.chat.extra.powder": "Gain §r§a\\+15% §r§fmore Powder while mining\\.",
