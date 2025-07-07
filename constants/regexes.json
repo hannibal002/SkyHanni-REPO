@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "b2f2a95",
+  "sourceLabel": "af04063",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -12,7 +12,6 @@
     "api.skilldisplay.skill.tab": " (?\u003ctype\u003e\\w+)(?: (?\u003clevel\u003e\\d+))?: §r§a(?\u003cprogress\u003e[0-9.]+)%",
     "api.skilldisplay.skill.tab.max": " (?\u003ctype\u003e\\w+) (?\u003clevel\u003e\\d+): §r§c§lMAX",
     "api.skilldisplay.skill.tab.nopercent": " §r§a(?\u003ctype\u003e\\w+)(?: (?\u003clevel\u003e\\d+))?: §r§e(?\u003ccurrent\u003e[0-9,.]+)§r§6/§r§e(?\u003cneeded\u003e[0-9kmb]+)",
-    "armorstand.default": "Armou?r Stand",
     "ashfang.freeze.cryogenic": "§cAshfang Follower\u0027s Cryogenic Blast hit you for .* damage!",
     "auction.outbid": "§6\\[Auction].*§eoutbid you by.*§e§lCLICK",
     "auctions.highlight.auction": "§7(?:Starting bid|Top bid): §6(?\u003ccoins\u003e.*) coins",
