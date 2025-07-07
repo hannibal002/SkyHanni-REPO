@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "af04063",
+  "sourceLabel": "2c1da11",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -505,7 +505,7 @@
     "features.gui.customscoreboard.scoreboard.main.waitingforvote": "§7Waiting for|§7your vote\\.\\.\\.",
     "features.gui.customscoreboard.scoreboard.main.yearvotes": "§6Year \\d+ Votes",
     "features.gui.customscoreboard.scoreboard.mining.fortunatefreezing.bonus": "Event Bonus: §6\\+\\d+☘",
-    "features.gui.customscoreboard.scoreboard.mining.fossildust": "Fossil Dust: §f[\\d.,]+.*",
+    "features.gui.customscoreboard.scoreboard.mining.fossildust": "Fossil Dust: (?:§f)*[\\d.,]+.*",
     "features.gui.customscoreboard.scoreboard.mining.goblinguseless": "§7Kill goblins!",
     "features.gui.customscoreboard.scoreboard.mining.mineshaft.notstarted": "(?:§.)*Not started.*",
     "features.gui.customscoreboard.scoreboard.mining.miningevent": "Event: §.§[lL].*",
@@ -536,7 +536,6 @@
     "features.gui.customscoreboard.scoreboard.misc.queuetier": "Tier: §e.*",
     "features.gui.customscoreboard.scoreboard.misc.queuewaitingforleader": "§aWaiting on party leader!",
     "features.gui.customscoreboard.scoreboard.misc.redstone": "\\s*(?:§.)*⚡ §cRedstone: (?:§.)*\\d+%",
-    "features.gui.customscoreboard.scoreboard.misc.tempfix": "§bCentury Raffle§f (?:\\d|:)+",
     "features.gui.customscoreboard.scoreboard.misc.thirdobjectiveline": "§eProtect Elle §7\\(§.\\d+%§7\\)|\\s*§.\\(§.\\w+§.\\/§.\\w+§.\\)|§f Mages.*|§f Barbarians.*|§edefeat Kuudra|§eand stun him|§.Fish \\d .*[fF]ish §.[✖✔]",
     "features.gui.customscoreboard.scoreboard.misc.visiting": "\\s*§a✌ §7\\(§.\\d+(?:§.)?/\\d+(?:§.)?\\)",
     "features.gui.customscoreboard.scoreboard.misc.wtfarethoselines": "§eMine \\d+ .*|§eKill 100 Automatons|§eFind a Jungle Key|§eFind the \\d+ Missing Pieces?|§eTalk to the Goblin King|§eBring items to Moby| Glowing Mushroom §8x\\d",
