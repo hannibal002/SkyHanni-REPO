@@ -210,7 +210,8 @@
         "  Campfire Initiate Badge, Cat Talisman, Spider Talisman,",
         "  Soul Campfire Initiate Badge, Runeblade Talisman,",
         "  Moonglade Talisman, New Year Cake Bag, Candy Talisman,",
-        "  Pig's Foot, Wolf Paw, Pesthunter Talisman",
+        "  Pig's Foot, Wolf Paw, Pesthunter Talisman.",
+        "  You can also do the Rift Mirrorverse for a few talismans.",
         "Don't forget to take the 4 Bonus accessory bag slots from",
         "the Redstone Miner, he needs 1920 Redstone in total."
       ]
@@ -253,7 +254,9 @@
         "  Century Cake (5 from /visit skyerzz),",
         "  Mining Fortune HotM2 Perk (2/tier),",
         "  Better Together Dwarven Event (50, if 1+ person near),",
-        "  Goblin/Lapis Armor (8/16)"
+        "  Goblin/Lapis Armor (8/16)",
+        "You can also make this easier by getting",
+        "your Bingonimbus by completing 12 goals."
       ]
     },
     "Forgery": {
@@ -264,8 +267,12 @@
       "guide": [
         "You'll want to forge a Ruby Drill TX-15 (HotM4),",
         "which needs 6 Fine Ruby Gems, a Fuel Canister (10h Forge Time)",
-        "and a Drill Motor (44h total Forge time). Once you gathered",
-        "all the materials, it needs 4h Forge Time."
+        "and a Drill Motor (44h total Forge time).",
+        "You can also go for a Mithril Drill SX-R226 (HotM2),",
+        "which needs 3 Refined Mithril (160 Enchanted Mithril",
+        "and 6h Forge time each) instead of the Fine Ruby.",
+        "Once you gathered all the materials, it needs 4h Forge Time.",
+        "Make use of the Quick Forge HotM perk to make this faster."
       ]
     },
     "Fisherman's Folly": {
@@ -309,7 +316,7 @@
       "guide": [
         "Easy Visitors to go for are Jotraeline Greatforge",
         "and Gold Forger as they don't ask for much each visit.",
-        "Other good choices to go for is the Librarian and any",
+        "Other good choices to go for are the Librarian and any",
         "visitor that wants Wheat like Jacob does.",
         "(check the Wiki for more insight) Those can queue up to",
         "5 visitors total at a time without you",
@@ -330,6 +337,9 @@
         "and your Dreadlord Sword to Heroic. Star your Dungeon Gear.",
         "You should also use the Power Stone that grants the most",
         "Intelligence that you have access to.",
+        "You can also choose the Archer Class with your BingBow",
+        "(obtained at 8 completed goals) and 3/4 Skeleton",
+        "Grunt/Soldier Armor reforged to Fierce.",
         "§cDon't forget to use your Class Abilities!"
       ]
     },
@@ -342,7 +352,7 @@
         "For this you'll need to fish in the Backwater Bayou.",
         "Any 4 pieces will do, the equipment is the cheapest.",
         "This requires Angler Armor (bought in the Hub) and at least",
-        "32 Rusty Coins (Junk catch that requires the Junk Sinker",
+        "16 Rusty Coins (Junk catch that requires the Junk Sinker",
         "from Joel to be applied to your rod)"
       ]
     },
