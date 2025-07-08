@@ -9,6 +9,13 @@
         ]
       ]
     },
+    "Crimson Helmet": {
+      "regex": "(?:(?:HOT|BURNING|FIERY|INFERNAL)_)?CRIMSON_HELMET",
+      "list": [
+        "veteran",
+        "magic_find"
+      ]
+    },
     "Crimson Armor": {
       "regex": "(?:(?:HOT|BURNING|FIERY|INFERNAL)_)?CRIMSON_(?:CHESTPLATE|LEGGINGS|BOOTS)",
       "list": [
@@ -24,13 +31,6 @@
           "veteran",
           "magic_find"
         ]
-      ]
-    },
-    "Crimson Helmet": {
-      "regex": "(?:(?:HOT|BURNING|FIERY|INFERNAL)_)?CRIMSON_HELMET",
-      "list": [
-        "veteran",
-        "magic_find"
       ]
     },
     "Terror Armor": {
