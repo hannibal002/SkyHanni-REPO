@@ -377,7 +377,7 @@
         "rarity": "EPIC"
       },
       "Titanoboa": {
-        "chat_message": "§a§r§c§lA massive Titanoboa surfaces. It's body stretches as far as the eye can see.",
+        "chat_message": "§a§r§c§lA massive Titanoboa surfaces. Its body stretches as far as the eye can see.",
         "fishing_experience": 4500,
         "rarity": "MYTHIC",
         "rare": true
