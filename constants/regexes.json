@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e19cfa1",
+  "sourceLabel": "5fa4df0",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -327,6 +327,10 @@
     "dungeon.time": "Time Elapsed: §.(?:(?\u003cminutes\u003e\\d+)m )?(?\u003cseconds\u003e\\d+)s",
     "dungeons.highlightclickedblock.lever": "§cYou hear the sound of something opening\\.\\.\\.",
     "dungeons.highlightclickedblock.locked": "§cThat chest is locked!",
+    "enchanting.experiments.addons.chronomatron.read-item": "(?:minecraft:)?(?:stained_hardened_clay|\\w+_terracotta)",
+    "enchanting.experiments.addons.read-phase-item": "§aRemember the pattern!",
+    "enchanting.experiments.addons.replicate-phase-item": "§7Timer: §a\\d+s",
+    "enchanting.experiments.addons.round-item": "§7Round: §e(?\u003cround\u003e\\d+)",
     "enchanting.experiments.book": "§9(?\u003cenchant\u003e.*)",
     "enchanting.experiments.chat.xpbottle": "(?:Colossal |Titanic |Grand |\\b)Experience Bottle",
     "enchanting.experiments.claim": "You claimed the \\S+ rewards!",
@@ -347,6 +351,7 @@
     "enchanting.experiments.powerups.instantfind.name": "Instant Find",
     "enchanting.experiments.renew": "☕ You bought a bonus charge for the Experimentation Table! \\((?\u003ccurrent\u003e\\d)/3\\)",
     "enchanting.experiments.rewards": "\\d{1,3}k Enchanting Exp|Enchanted Book|\\[Lvl \\d+] Guardian|(?:Grand |Titanic )?Experience Bottle",
+    "enchanting.experiments.superpairs.unknown-click": "(?:§.)+(?:\\?|(?:Click a(?: seco)?n[dy]|Next) button(?: is instantly rewarded)?!?)",
     "enchanting.experiments.ultrarare": "§d§kXX§5 ULTRA-RARE BOOK! §d§kXX",
     "enchanting.experiments.waiting.messages": "Click any button!|Click a second button!|Next button is instantly rewarded!",
     "enchanting.experiments.xpbottle": "(?:COLOSSAL_|TITANIC_|GRAND_|\\b)EXP_BOTTLE",
