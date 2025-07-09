@@ -2694,6 +2694,10 @@
   },
   "299": {
     "Position": "-598.0:90.0:-15.0",
+    "Name": "Chillshot",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "773": 8.0,
       "711": 9.85,
@@ -6323,6 +6327,10 @@
   },
   "734": {
     "Position": "-586.0:92.0:2.0",
+    "Name": "Chillshot",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "733": 3.16,
       "41": 4.0,
@@ -6708,6 +6716,10 @@
   },
   "781": {
     "Position": "-581.0:81.0:-6.0",
+    "Name": "Chillblade",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "780": 6.0,
       "782": 8.0
