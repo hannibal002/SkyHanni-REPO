@@ -183,6 +183,12 @@
         "Could not read the skymall effect from chat"
       ],
       "fixed_in": "3.15.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a NoSuchElementException in at.hannibal2.skyhanni.features.mining.powdertracker"
+      ],
+      "fixed_in": "5.0.0"
     }
   ]
 }
