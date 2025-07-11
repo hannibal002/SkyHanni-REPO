@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "f7d72e9",
+  "sourceLabel": "10b54ce",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1228,6 +1228,7 @@
     "misc.kickduration.problemjoining": "§cThere was a problem joining SkyBlock, try again in a moment!",
     "misc.limbo.tooltip.hours": "(?:§5§o)?§b(?\u003chours\u003e[\\d.,]+) hours.*$",
     "misc.limbo.tooltip.minutes": "(?:§5§o)?§a(?\u003cminutes\u003e[\\d.,]+) minutes.*$",
+    "misc.markedplayer.tabplayername": "§8\\[§r(?\u003clevel\u003e.*)§r§8] §r§\\w(?\u003cname\u003e[A-z0-9_]+)(?\u003csymbol\u003e.*)?",
     "misc.nongodpot.effects": "§7You have §e(?\u003cname\u003e\\d+) §7non-god effects\\.",
     "misc.nongodpot.repellant": " Repellent: §r§[97a](?\u003ctier\u003e\\w+)?(?: §r§7\\((?\u003ctime\u003e\\d)s\\))?",
     "misc.patchercoords.coords": "(?\u003cplayerName\u003e.*): [xX]: (?\u003cx\u003e[0-9.-]+),? [yY]: (?\u003cy\u003e[0-9.-]+),? [zZ]: (?\u003cz\u003e[0-9.-]+(?: .*)?)",
