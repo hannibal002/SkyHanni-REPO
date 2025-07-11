@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4ee3348",
+  "sourceLabel": "3409791",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -249,7 +249,7 @@
     "data.party.you.joined": "§eYou have joined (?\u003cname\u003e.*)\u0027s? §eparty!",
     "data.party.you.kicked": "§eYou have been kicked from the party by .* §e",
     "data.purse.coins": "(?:§.)*(?:Piggy|Purse): §6(?\u003ccoins\u003e[\\d,.]+)(?: ?(?:§.)*\\([+-](?\u003cearned\u003e[\\d,.]+)\\)?|.*)?$",
-    "data.purse.piggy": "Piggy: (?\u003ccoins\u003e.*)",
+    "data.purse.piggy": "(?:§.)*Piggy: (?\u003ccoins\u003e.*)",
     "data.quiver.chat.addedtoquiver": "(?:§.)*You\u0027ve added (?:§.)*(?\u003ctype\u003e.*) x(?\u003camount\u003e.*) (?:§.)*to your quiver!",
     "data.quiver.chat.arrowreset": "§cYour favorite arrow has been reset!",
     "data.quiver.chat.cleared": "§aCleared your quiver!|§c§lYour quiver is now completely empty!",
