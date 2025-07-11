@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4249ce9",
+  "sourceLabel": "73b7453",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -115,6 +115,7 @@
     "combat.mobs.spawntime.arachne.crystal": "^☄ [a-z0-9_]{2,22} placed an arachne crystal! something is awakening!$",
     "combat.mobs.spawntime.arachne.fragment": "^☄ [a-z0-9_]{2,22} placed an arachne\u0027s calling! something is awakening! \\(4/4\\)$",
     "combat.spidersden.broodmother": "§4Broodmother§7: §[e64](?:Slain|Dormant|Soon|Awakening|Imminent|Alive!)",
+    "commands.cooldown": "§cYou may only use this command after (?\u003ccooldown\u003e\\d+)s on the server!",
     "commands.viewrecipe": "\\/viewrecipe (?\u003citem\u003e.*)",
     "cookie.bits.amount": "(?:§5§o)?(?:§6Booster Cookie §8x|§7Amount: §a)(?\u003camount\u003e\\d+).*",
     "cookie.bits.time": "(?:§5§o)?§7§b4 §7days:",
