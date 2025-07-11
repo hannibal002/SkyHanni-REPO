@@ -36,7 +36,7 @@
     {
       "enforcedValues": [
         {
-          "path": "inventory.experimentationTable.superpairs.enabled",
+          "path": "inventory.experimentationTable.superpairs.clickedItemsVisible.enabled",
           "value": false
         }
       ],
