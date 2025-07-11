@@ -2,24 +2,22 @@
     "enforced_config_values": [
         {
             "chatPSA": [
-                "§cWe have disabled the real time show seconds option due to time zones being more confusing than first thought",
-                "Supports multiple lines!!"
+                "§cYou have downloaded the very first Skyhanni 1.21 version, it has §lmany many bugs§r§c and you should update right now! https://modrinth.com/mod/skyhanni "
             ],
             "notificationPSA": [
-                "§cWARNING: this is a warning but its in a notification popup",
-                "Also supports multiple lines!!"
+                "§cYou have downloaded the very first Skyhanni 1.21 version!",
+                "§cIt has §lmany many bugs§r§c and you should update right now!",
+                "§chttps://modrinth.com/mod/skyhanni"
             ],
             "enforcedValues": [
                 {
-                    "path": "gui.realTimeShowSeconds",
+                    "path": "gui.customScoreboard.background.useCustomBackgroundImage",
                     "value": false
                 }
             ],
-            "affectedVersion": "1.2.0",
+            "affectedVersion": "3.10.0",
             "affectedMinecraftVersions": [
-                "1.8.9",
-                "1.7.10",
-                "1.12.2"
+                "1.21.5"
             ]
         }
     ]
