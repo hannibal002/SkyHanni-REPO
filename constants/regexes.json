@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "064a628",
+  "sourceLabel": "07b0dbd",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -621,6 +621,7 @@
     "fishing.trophyfish.odger.rank": "§.(?\u003crarity\u003e.*) §a✔§7 \\((?\u003camount\u003e.*)\\)",
     "fishing.trophyfish.odger.rank.empty": "§.(?\u003crarity\u003e.*) §c✖",
     "fishing.trophyfishing.armor": "(?:BRONZE|SILVER|GOLD|DIAMOND)_HUNTER_(?:HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
+    "fishing.trophyfishing.emberarmor": "EMBER_(?:HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
     "foraging.hotf.inventory": "Heart of the Forest",
     "foraging.hotf.inventory.heart": "§aHeart of the Forest",
     "foraging.hotf.inventory.heart.token": "§7Tokens of the Forest: §a(?\u003ctoken\u003e\\d+)",
