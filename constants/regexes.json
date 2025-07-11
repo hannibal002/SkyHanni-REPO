@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "5fa4df0",
+  "sourceLabel": "4249ce9",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -122,6 +122,10 @@
     "craftableitemlist.craftitem": "Craft Item",
     "crimson.miniboss.down": "§f\\s*§r§6§l(?\u003cname\u003e.+) DOWN!",
     "crimson.miniboss.spawn": "§c§lBEWARE - (?\u003cname\u003e.+) Is Spawning\\.",
+    "crimson.pablo.helper.0": "\\[NPC] Pablo: (?:✆ )?Are you available\\? I desperately need an? (?\u003cflower\u003e[\\w ]+) today\\.",
+    "crimson.pablo.helper.1": "\\[NPC] Pablo: (?:✆ )?Bring me that (?\u003cflower\u003e[\\w ]+) as soon as you can!",
+    "crimson.pablo.helper.2": "\\[NPC] Pablo: (?:✆ )?Could you bring me an? (?\u003cflower\u003e[\\w ]+)\\?",
+    "crimson.pablo.helper.3": "\\[NPC] Pablo: (?:✆ )?I really need an? (?\u003cflower\u003e[\\w ]+) today, do you have one you could spare\\?",
     "crimson.reputationhelper.quest.chat.completed": "§aYou completed your (?\u003ctype\u003e\\w+) quest! Visit the Town Board to claim the rewards.*",
     "crimson.reputationhelper.quest.townboard.completed": "(?:§.)*COMPLETE",
     "crimson.reputationhelper.quest.townboard.minibossamount": "(?:§7Kill the §c.+ §7|.*)miniboss §a(?\u003camount\u003e\\d)(?: §7times?!)?",
@@ -134,6 +138,7 @@
     "crimson.rescue.recruiter": "§e\\[NPC] §eRescue Recruiter§f: §rYou want to help us rescue a hostage from those filthy brutes over there\\?",
     "crimson.rescue.start": "\\[NPC] Undercover Agent: Here\u0027s what you need to do.",
     "crimson.rescue.tier": "§.(?\u003ctier\u003e.) §.Rescue Mission",
+    "crimson.sirih.helper": "§e\\[NPC] §dSirih§f: §rOink\\.",
     "crimson.volcano.tablistline": " *Volcano: (?\u003cstatus\u003e(?:§.)*\\S+)",
     "data.abiphone.contacts": "Your contacts: (?\u003ccontacts\u003e\\d+)\\/\\d+",
     "data.abiphone.name": "Abiphone .*",
