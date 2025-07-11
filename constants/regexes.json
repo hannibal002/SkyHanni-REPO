@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "73b7453",
+  "sourceLabel": "064a628",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -902,6 +902,7 @@
     "inventory.stockofstonks.item": "§dStonks Auction",
     "inventory.stockofstonks.top": "(?:§5§o)?§7§.▶ §.§lTOP (?\u003crank\u003e[\\d,]+)§7 - §5Stock of Stonks §8x(?\u003camount\u003e\\d+)",
     "inventory.supercrafting.craft.new": "§eYou Supercrafted §r§r§r§.(?\u003citem\u003e[^§]+)(?:§r§8x(?\u003camount\u003e[\\d,]+))?§r§e!",
+    "inventory.tradevalue.coins": "§(?\u003ctype\u003e[87])\\(?(?\u003cnumber\u003e[^)]*)\\)?",
     "inventory.wardrobe.equippedslot": "§7Slot \\d+: §aEquipped",
     "inventory.wardrobe.inventory.name": "Wardrobe \\((?\u003ccurrentPage\u003e\\d+)/\\d+\\)",
     "inventory.warpmenu.island.name": "§[ab](?\u003cname\u003e[\\w \u0027]+)(?:§7 - §b.*)?",
