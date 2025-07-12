@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "10b54ce",
+  "sourceLabel": "7420fd2",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -226,6 +226,7 @@
     "data.maxwell.tuningpoints.chat.autoassigned": "§aYour §r§eTuning Points §r§awere auto-assigned as convenience!",
     "data.miningapi.area.basecamp": "Dwarven Base Camp",
     "data.miningapi.area.glacite": "Glacite Tunnels|Great Glacite Lake",
+    "data.miningapi.area.minesofdivan": "Mines of Divan",
     "data.miningapi.cold": "(?:§.)*Cold: §.(?\u003ccold\u003e-?\\d+)❄",
     "data.miningapi.cold.reset": "§6The warmth of the campfire reduced your §r§b❄ Cold §r§6to §r§a0§r§6!|§c ☠ §r§7You froze to death§r§7\\.",
     "data.miningapi.heat.scoreboard": "^Heat: (?\u003cscoreboard\u003e§.(?\u003cheat\u003e\\d+|IMMUNE)♨?)$",
@@ -930,6 +931,8 @@
     "mining.commisson.reward.glacite": "§7- §b[\\d,]+ Glacite Powder",
     "mining.crystalnucleus.loot.end": "§3§l▬{64}",
     "mining.crystalnucleus.loot.start": " \\s*§r§5§lCRYSTAL NUCLEUS LOOT BUNDLE.*",
+    "mining.crystalnucleus.metaldetector.treasure": ".*§3§lTREASURE: §b(?\u003cdistance\u003e.*)m",
+    "mining.crystalnucleus.metaldetector.treasurefound": "§aYou found .*with your §r§cMetal Detector§r§a!",
     "mining.crystalnucleus.tracker.bal.obtained": "(?:(?:§.)*\\[.*(?:§.)*\\+*(?:§.)*\\] )?(?\u003cplayer\u003e.*)§r§f §r§ehas obtained §r§a§r§7\\[Lvl 1\\] §r§(?\u003craritycolor\u003e[65])Bal§r§e!",
     "mining.eventtracker.bossbar.active": "§e§lEVENT (?\u003cevent\u003e.+) §e§lACTIVE IN (?\u003carea\u003e.+) §e§lfor §a§l(?\u003ctime\u003e\\S+)§r",
     "mining.eventtracker.bossbar.passive": "§e§lPASSIVE EVENT (?\u003cevent\u003e.+) §e§lRUNNING FOR §a§l(?\u003ctime\u003e\\S+)§r",
