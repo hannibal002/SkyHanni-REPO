@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "c2c270d",
+  "sourceLabel": "8cc3149",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1090,6 +1090,8 @@
     "mining.powder.tracker.reward.wishingcompass.new": " {4}§r§aWishing Compass(?: §r§8x(?\u003camount\u003e.*))?",
     "mining.powder.tracker.reward.yellowgoblinegg.new": " {4}§r§9§r§eYellow Goblin Egg(?: §r§8x(?\u003camount\u003e.*))?",
     "mining.powder.tracker.reward.yoggie.new": " {4}§r§aYoggie(?: §r§8x(?\u003camount\u003e.*))?",
+    "mining.pristine": "§d§lPRISTINE! §r§fYou found §r§a. Flawed (?\u003cgemstone\u003e\\w+) Gemstone §r§8x(?\u003camount\u003e\\d+)§r§f!",
+    "mining.roughgemstone": "rough (?\u003cgemstone\u003e\\w+) gem",
     "mining.tunnels.maps.gem.new": ".*(?:Aquamarine|Onyx|Citrine|Peridot).*",
     "mining.tunnels.maps.gem.old": ".*(?:Ruby|Amethyst|Jade|Sapphire|Amber|Topaz).*",
     "minion.chat.coin": "§aYou received §r§6.* coins§r§a!",
