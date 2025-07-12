@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7420fd2",
+  "sourceLabel": "c2c270d",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -50,6 +50,13 @@
     "carnival.tickets.claimed": "§aYou claimed §r§aCarnival Ticket §r§8x25§r§a!",
     "carry.trade.coins.gained": " §r§a§l\\+ §r§6(?\u003ccoins\u003e.*) coins",
     "carry.trade.completed": "§6Trade completed with (?\u003cname\u003e.*)§r§6!",
+    "chat-filter.foraging.unmineable-tree.0": "(?:§.)*You cannot damage a tree while it is regenerating!",
+    "chat-filter.foraging.unmineable-tree.1": "(?:§.)*The toughness of this tree is way too high!",
+    "chat-filter.hunting.redundant-comments.0": "(?:§.)*Mochibear ate too much and passed out! You caught it!",
+    "chat-filter.hunting.redundant-comments.1": "(?:§.)*You caught yourself an invisibug! The shard was sent to your Hunting Box!",
+    "chat-filter.hunting.redundant-comments.2": "(?:§.)*The Frog is exhausted\\.\\.\\.",
+    "chat-filter.hypixel-misc.seasonal-bundles.0": "(?:§.)*You haven\u0027t claimed your (?:§.)*\\w+ Rewards (?:§.)*yet!",
+    "chat-filter.hypixel-misc.seasonal-bundles.1": "(?:§.)*Talk to the (?:§.)*.+(?:§.)*in the (?:§.)*.+(?:§.)*!",
     "chat.arachne.calling": "§4☄ §r.* §r§eplaced an §r§9Arachne\u0027s Calling§r§e!.*",
     "chat.arachne.calling.spawned": "§c\\[BOSS] Arachne§r§f: A befitting welcome!",
     "chat.arachne.crystal": "§4☄ §r.* §r§eplaced an Arachne Crystal! Something is awakening!",
