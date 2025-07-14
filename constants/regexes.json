@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6321d2a",
+  "sourceLabel": "d49e2e0",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1247,7 +1247,7 @@
     "misc.items.enchantparsing.enchants.new": "(?:§7§l|§d§l|§9|§7)(?\u003cenchant\u003e[A-Za-z][A-Za-z \u0027-]+) (?\u003clevelNumeral\u003e[IVXLCDM]+|[0-9]+)(?\u003cstacking\u003e(?:§r)?§9, |$| §8\\d{1,3}(?:[,.]\\d{1,3})*[kKmMbB]?)",
     "misc.items.enchantparsing.exclusive": "^(?:(?:§.)+[A-Za-z][A-Za-z \u0027-]+ (?:[IVXLCDM]+|[0-9]+)(?:(?:§r)?§9, |$| §8\\d{1,3}(?:[,.]\\d{1,3})*)[kKmMbB]?)+$",
     "misc.items.enchantparsing.grayenchants": "^(?:Respiration|Aqua Affinity|Depth Strider|Efficiency).*",
-    "misc.itemstats.generic": "§7(?\u003cstat\u003e[a-zA-Z ]+): (?\u003coldColor\u003e§[0-9a-f])(?\u003cbonus\u003e[-+]?[\\d.%]+)",
+    "misc.itemstats.generic": "§7(?\u003cstat\u003e[a-zA-Z ]+): (?\u003coldColor\u003e§[0-9a-f])(?\u003cbonus\u003e[-+]?[\\d.,%]+)",
     "misc.kickduration.kicked": "§c(?:You were kicked while joining that server!|An? (?:kick|exception) occurred in your connection, so you were put in the SkyBlock [lL]obby!)",
     "misc.kickduration.problemjoining": "§cThere was a problem joining SkyBlock, try again in a moment!",
     "misc.limbo.tooltip.hours": "(?:§5§o)?§b(?\u003chours\u003e[\\d.,]+) hours.*$",
