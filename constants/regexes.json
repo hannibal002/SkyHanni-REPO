@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "66561fd",
+  "sourceLabel": "597b7da",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -446,6 +446,11 @@
     "event.winter.reindrakewarphelper.spawn.message": "§c§lWOAH! (?:§r)?§cA (?:§r)?§4Reindrake (?:§r)?§cwas summoned from the depths!",
     "event.winter.uniquegifts.gifted": "§6\\+1 Unique Gift given! To (?\u003cplayer\u003e[^§]+)§r§6!",
     "event.winter.uniqugifts.counter.amount": "§7Unique Players Gifted: §a(?\u003camount\u003e.*)",
+    "event.year-of-the-pig.chat.orb.charged": "§6§lSHINY! §r§eThe orb is charged! Click on it for loot!",
+    "event.year-of-the-pig.chat.orb.expired": "§cYour Shiny Orb and associated pig expired and disappeared\\.",
+    "event.year-of-the-pig.chat.orb.looted": "§6§lSHINY! §r§eYou extracted (?:§.)+(?\u003creward\u003e.*) §r§efrom the piglet\u0027s orb!",
+    "event.year-of-the-pig.orb.reward.coins": "\\+(?\u003camount\u003e[\\d,]+) Coins",
+    "event.year-of-the-pig.orb.reward.skillxp": "\\+(?\u003camount\u003e[\\d,]+) (?\u003cskill\u003e.*) XP",
     "event.year-of-the-seal.fishy-treat.coins": "§6(?\u003ccoins\u003e.*) Coins",
     "excavator.dirt.name": "§6Dirt",
     "fame.projects.completed": "§aProject is (?:being built|released)!",
@@ -1658,7 +1663,7 @@
     "utils.inventory.shopoptions": "Shop Trading Options",
     "utils.inventory.skyblockmenu": "SkyBlock Menu",
     "utils.item.amount.behind": "(?\u003cname\u003e(?:§.)*(?:[^§] ?)+)(?:§8x(?\u003camount\u003e[\\d,]+))?",
-    "utils.item.amount.front": "(?: +§8(?:\\+§.)?(?\u003camount\u003e[\\d.,]+[km]?)x? )?(?\u003cname\u003e.*)",
+    "utils.item.amount.front": "(?:(?: +§8)?(?:\\+§.)?(?\u003camount\u003e[\\d.,]+[km]?)x? )?(?\u003cname\u003e.*)",
     "utils.item.cost.line": "(?:§5§o)?§7Cost.*",
     "utils.item.enchantment.clean.name": "(?i)(?\u003cname\u003e.*) (?\u003clevel\u003e[IVXL]+|[0-9]+)",
     "utils.item.lore.rarity.line": "^(?:§7Rarity: )?(?:§.){2,3}(?:.§. (?:§.){2})?(?:SHINY )?(?\u003crarity\u003eCOMMON|UNCOMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|SUPREME|SPECIAL|VERY SPECIAL|ULTIMATE) ?(?:DUNGEON )?(?\u003citemCategory\u003e[^§]*)(?: (?:§.){3}.)?(?: §8\\(ID \\w\\d+\\))?$",
