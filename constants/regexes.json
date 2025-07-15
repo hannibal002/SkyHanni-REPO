@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "c8d1833",
+  "sourceLabel": "2f60758",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -124,6 +124,11 @@
     "combat.ghosttracker.killcombo.end": "§cYour Kill Combo has expired! You reached a (?\u003ckill\u003e[\\d,.]+) Kill Combo!",
     "combat.ghosttracker.tablist.bestiary": "\\s*Ghost (?\u003clevel\u003e\\d+|[XVI]+)(?:§.)*: (?:§.)*(?\u003ckills\u003e[\\d,.]+)\\/(?\u003ckillsToNext\u003e[\\d,.]+)",
     "combat.ghosttracker.tablist.bestiarymax": "\\s*Ghost (?\u003clevel\u003e\\d+|[XVI]+)(?:§.)*: (?:§.)*MAX",
+    "combat.instance-chest-profit.attributeshard": "§.(?\u003cname\u003e\\w+ Shard) §.x(?\u003ccount\u003e\\d+)",
+    "combat.instance-chest-profit.coins": "§6(?\u003camount\u003e.*) Coins",
+    "combat.instance-chest-profit.dungeonchestkey": "§9Dungeon Chest Key",
+    "combat.instance-chest-profit.essence": "§.(?\u003cname\u003e\\w+ Essence) §.x(?\u003ccount\u003e\\d+)",
+    "combat.instance-chest-profit.kuudrachestkey": "§.\\w+ Kuudra Key",
     "combat.mobs.spawntime.arachne.crystal": "^☄ [a-z0-9_]{2,22} placed an arachne crystal! something is awakening!$",
     "combat.mobs.spawntime.arachne.fragment": "^☄ [a-z0-9_]{2,22} placed an arachne\u0027s calling! something is awakening! \\(4/4\\)$",
     "combat.spidersden.broodmother": "§4Broodmother§7: §[e64](?:Slain|Dormant|Soon|Awakening|Imminent|Alive!)",
