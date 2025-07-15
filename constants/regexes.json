@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7a7a4f8",
+  "sourceLabel": "8ed5b76",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1353,8 +1353,7 @@
     "rift.area.westvillage.riftrace.cancel": "§3§lRIFT RACING §r§cRace cancelled!.*",
     "rift.area.westvillage.riftrace.finish": "§3§lRIFT RACING §r§eRace finished in (?:§.)*\\d+:\\d+.\\d+(?:§.)*!.*",
     "rift.area.westvillage.riftrace.start": "§3§lRIFT RACING §r§eRace started! Good luck!",
-    "rift.area.westvillage.vermintracker.bagline": "§fVacuum Bag: §\\w(?\u003ccount\u003e\\d+) (?\u003cvermin\u003e\\w+)",
-    "rift.area.westvillage.vermintracker.binline": "§fVermin Bin: §\\w(?\u003ccount\u003e\\d+) (?\u003cvermin\u003e\\w+)",
+    "rift.area.westvillage.vermintracker.binline-nocolor": "Vermin Bin: (?\u003ccount\u003e\\d+) (?\u003cvermin\u003e\\w+)",
     "rift.area.westvillage.vermintracker.fly": ".*§eYou vacuumed a §.*Fly.*",
     "rift.area.westvillage.vermintracker.silverfish": ".*§eYou vacuumed a §.*Silverfish.*",
     "rift.area.westvillage.vermintracker.spider": ".*§eYou vacuumed a §.*Spider.*",
