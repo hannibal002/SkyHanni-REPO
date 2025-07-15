@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "623e5ef",
+  "sourceLabel": "c8d1833",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -827,6 +827,7 @@
     "garden.visitor.visitorarrive": ".* §r§ehas arrived on your §r§[ba]Garden§r§e!",
     "garden.visitor.visitorchat": "§e\\[NPC] (?\u003ccolor\u003e§.)?(?\u003cname\u003e.*)§f: §r.*",
     "garden.warpcommand.tpplot": "/tp (?\u003cplot\u003e.*)",
+    "george.taming-sixty.needed-pet.loreline": "(?i) *(?\u003cfullThing\u003e(?\u003ctierColorCodes\u003e§.)*(?\u003ctier\u003e(?:un)?common|rare|epic|legendary|mythic) (?\u003cpet\u003e[\\S ]+))",
     "gfs.chat.from": "§aMoved §r§e(?\u003camount\u003e\\d+) (?\u003citem\u003e.+)§r§a from your Sacks to your inventory.",
     "gfs.chat.missing": "§cYou have no (?\u003citem\u003e.+) in your Sacks!",
     "gui.beaconpower.deactivated": "§7Beacon Deactivated §8- §cNo Power Remaining",
