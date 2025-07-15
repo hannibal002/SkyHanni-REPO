@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8ed5b76",
+  "sourceLabel": "623e5ef",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1562,6 +1562,9 @@
     "stats.tablist.vitality": " *Vitality: §r§4♨(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.wheat.fortune": "",
     "stats.tabpatterns.godpot": "(?:§.)*God Potion(?:§.)*: (?:§.)*(?\u003ctime\u003e[dhms0-9 ]+)(?:§.)*",
+    "storage.backpack": ".* Backpack§r \\(Slot #(?\u003cpage\u003e\\d+)\\)",
+    "storage.enderchest": "Ender Chest(?: \\((?\u003cpage\u003e\\d+)/\\d+\\))?",
+    "storage.rift": "Rift Storage(?: \\((?\u003cpage\u003e\\d+)/\\d+\\))?",
     "stranded.highlightplacement.clicktoset": "§7§eClick to set the location of this NPC!",
     "stranded.highlightplacement.clicktospawn": "§elocation!",
     "stranded.highlightplacement.location": "§7Location: §f\\[§e\\d+§f, §e\\d+§f, §e\\d+§f]",
