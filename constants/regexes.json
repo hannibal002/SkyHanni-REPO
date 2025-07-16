@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2f60758",
+  "sourceLabel": "e222fe7",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1272,7 +1272,7 @@
     "misc.pet.storage.menu.selected.progress": "(?:§.)+(?:MAX LEVEL|Progress to Level (?\u003cnext\u003e\\d+): (?:§.)+(?\u003cpercentage\u003e[\\d.]+)%)",
     "misc.pet.storage.menu.selected.xp": "(?:§.|▸| )+(?\u003ccurrent\u003e[\\d,.kM]+)(?: XP|(?:§.|\\/)+(?\u003cnext\u003e[\\d,.kM]+))",
     "misc.pet.storage.tab.name": " (?:§.)+\\[Lvl (?\u003clevel\u003e[\\d,]+)] (?:(?:§.)+\\[(?:§.)+\\d+(?\u003caltskin\u003e§.✦)\\] )?(?:§.)+§(?\u003crarity\u003e.)?(?\u003cpet\u003e[\\w ]+)(?:§r(?\u003cskin\u003e§. ✦))?",
-    "misc.pet.storage.tab.xp": " (?:§.)+(?:(?\u003cmax\u003eMAX LEVEL)|(?:\\+(?:§.)+)?(?\u003ccurrent\u003e[\\d,.kM]+)(?:§.|\\/)*(?\u003cnext\u003e[\\d,.kM]*) XP(?: (?:§.)+\\((?\u003cpercentage\u003e[\\d.]+)%\\))?)",
+    "misc.pet.storage.tab.xp": " (?:§.)+(?:(?\u003cmax\u003eMAX LEVEL)|(?:\\+(?:§.)+)?(?\u003ccurrent\u003e[\\d,.kM]+)(?:(?:§.|\\/)*(?\u003cnext\u003e[\\d,.kM]+))? XP(?: (?:§.)+\\((?\u003cpercentage\u003e[\\d.]+)%\\))?)",
     "misc.piggybank.broke": "§cYou died, lost [\\d.,]* coins and your piggy bank broke!",
     "misc.piggybank.cracked": "§cYou died and your piggy bank cracked!",
     "misc.restore.wizard.portal.earned": "§7Earned by:.*",
