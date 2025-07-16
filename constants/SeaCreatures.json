@@ -112,6 +112,9 @@
       },
       "Grinch": {
         "chat_message": "§aThe Grinch stole Jerry's §r§aGifts...get§r§a them back!",
+        "alternate_messages": [
+          "§aThe Grinch stole Jerry's §rGifts...get§r them back!"
+        ],
         "fishing_experience": 405,
         "rarity": "UNCOMMON"
       },
