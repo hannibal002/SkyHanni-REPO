@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e222fe7",
+  "sourceLabel": "6ad28db",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -55,6 +55,7 @@
     "chat-filter.hunting.redundant-comments.0": "(?:§.)*Mochibear ate too much and passed out! You caught it!",
     "chat-filter.hunting.redundant-comments.1": "(?:§.)*You caught yourself an invisibug! The shard was sent to your Hunting Box!",
     "chat-filter.hunting.redundant-comments.2": "(?:§.)*The Frog is exhausted\\.\\.\\.",
+    "chat-filter.hunting.swoop-axe-message": "§e\\[NPC] §bSwoop§f: §rWow! I forgot to tell you, monsters around here can only take damage from Axes!",
     "chat-filter.hypixel-misc.seasonal-bundles.0": "(?:§.)*You haven\u0027t claimed your (?:§.)*\\w+ Rewards (?:§.)*yet!",
     "chat-filter.hypixel-misc.seasonal-bundles.1": "(?:§.)*Talk to the (?:§.)*.+(?:§.)*in the (?:§.)*.+(?:§.)*!",
     "chat.arachne.calling": "§4☄ §r.* §r§eplaced an §r§9Arachne\u0027s Calling§r§e!.*",
