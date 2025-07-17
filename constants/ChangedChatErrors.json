@@ -189,6 +189,26 @@
         "Caught a NoSuchElementException in at.hannibal2.skyhanni.features.mining.powdertracker"
       ],
       "fixed_in": "5.0.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IndexOutOfBoundsException in at.hannibal2.skyhanni.features.inventory.attribute.HuntingBoxValue"
+      ],
+      "custom_message": "Update your SkyHanni version to fix the hunting box menu, you can use /shupdate beta",
+      "fixed_in": "4.6.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IndexOutOfBoundsException in at.hannibal2.skyhanni.api.pet.PetStorageApi",
+        "Failed to calculate XP for pet level"
+      ],
+      "fixed_in": "4.6.0"
+    },
+    {
+      "message_starts_with": [
+        "Internal Server Error"
+      ],
+      "fixed_in": "4.7.0"
     }
   ]
 }
