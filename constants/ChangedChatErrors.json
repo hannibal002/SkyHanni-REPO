@@ -202,12 +202,6 @@
         "Caught a IndexOutOfBoundsException in at.hannibal2.skyhanni.api.pet.PetStorageApi",
         "Failed to calculate XP for pet level"
       ],
-      "fixed_in": "4.6.0"
-    },
-    {
-      "message_starts_with": [
-        "Internal Server Error"
-      ],
       "fixed_in": "4.7.0"
     }
   ]
