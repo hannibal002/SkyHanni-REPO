@@ -203,6 +203,12 @@
         "Failed to calculate XP for pet level"
       ],
       "fixed_in": "4.7.0"
+    },
+    {
+      "message_starts_with": [
+        "Failed to load pet levels from NEU repo."
+      ],
+      "fixed_in": "4.8.0"
     }
   ]
 }
