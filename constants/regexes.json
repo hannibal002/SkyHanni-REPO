@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "112f8e1",
+  "sourceLabel": "8bc6c42",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -861,6 +861,7 @@
     "inventory.attributeshards.sent.to.hunting.box": "§7You sent §a(?:an?|(?\u003camount\u003e\\d+)) §.(?\u003cshardName\u003e.+) Shards? §7to your §aHunting Box§7.",
     "inventory.attributeshards.syphon.amount": "§7Syphon §b(?\u003camount\u003e\\d+) §7(?:more to level up|shard to unlock)!",
     "inventory.auctionhouse.title.search": "Auctions: \"(?\u003csearchTerm\u003e.*)\"?",
+    "inventory.bazaar.instantsell.tax": "§8Current tax: (?\u003ctax\u003e[\\d.]+)%",
     "inventory.bazaar.inventory-bazaar-orders.0": "Your Bazaar Orders",
     "inventory.bazaar.inventory-bazaar-orders.1": "Co-op Bazaar Orders",
     "inventory.bazaar.inventory-name.0": "Bazaar ➜ .*",
@@ -871,7 +872,7 @@
     "inventory.bazaar.inventory-name.5": "At what price are you selling\\?",
     "inventory.bazaar.inventory-name.6": "Confirm Sell Offer",
     "inventory.bazaar.inventory-name.7": "Order options",
-    "inventory.bazaar.reset-current-search": "\\[Bazaar] (?:Buy Order Setup!|Bought) \\d+x (?\u003citem\u003e.*) for .*",
+    "inventory.bazaar.transaction": "\\[Bazaar] (?\u003ctype\u003eBought|Buy Order Setup!|Sold|Sell Offer Setup!|Order Flipped!) [\\d,]+x (?\u003citem\u003e.*) for (?\u003ccoins\u003e[\\d,.]+) coins.*",
     "inventory.cake-tracker.auction.cakesearch": "Auctions: \"New Year C.*",
     "inventory.cake-tracker.auction.search": "Auctions Browser|Auctions: \".*",
     "inventory.cake-tracker.cake.baker.claimed": "§aYou claimed a (?:§.)*New Year Cake(?:§.)*!",
