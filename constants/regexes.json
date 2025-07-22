@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4e71abe",
+  "sourceLabel": "6bb9924",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -648,6 +648,14 @@
     "fishing.trophyfish.odger.rank.empty": "§.(?\u003crarity\u003e.*) §c✖",
     "fishing.trophyfishing.armor": "(?:BRONZE|SILVER|GOLD|DIAMOND)_HUNTER_(?:HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
     "fishing.trophyfishing.emberarmor": "EMBER_(?:HELMET|CHESTPLATE|LEGGINGS|BOOTS)",
+    "foraging.agatha.claim-rewards": "(?:§.)*\\[NPC] (?\u003cforagingSister\u003e[\\S ]+)(?:§.)*: (?:§.)*Come see me at (?\u003clocation\u003e(?:§.)*.+) (?:§.)*to claim your rewards!",
+    "foraging.agatha.coll-pb-during-contest": "(?:§.)*\\[NPC] (?\u003cforagingSister\u003e(?:§.)*[\\w ]+)(?:§.)*: (?:§.)*PERSONAL BEST(?:§.)*! You\u0027ve surpassed your previous record of (?:§.)*§e(?\u003cpreviousRecord\u003e[\\d,]+) (?:§.)*(?\u003cwoodType\u003e[\\S ]+) logs collected in my Contest(?:§.)*!",
+    "foraging.agatha.collection-personal-best": "(?:§.)*PERSONAL BEST(?:§.)*: You increased your (?\u003cwoodTypeDisplay\u003e(?:§.)*(?\u003cwoodType\u003e\\w+)) (?:§.)*Collection by (?\u003cduringContestDisplay\u003e(?:§.)*(?\u003cduringContest\u003e[\\d,]+)) (?:§.)*during the contest! That\u0027s (?\u003caLotMore\u003e(?:§.)*(?\u003cbyHowMuch\u003e[\\d,]+)) (?:§.)*more than your previous best!",
+    "foraging.agatha.keep-it-up-during-contest": "(?:§.)*\\[NPC] (?\u003cforagingSister\u003e(?:§.)*[\\w ]+)(?:§.)*: (?:§.)*Keep it up!",
+    "foraging.agatha.points-earned": "§e\\[NPC] (?\u003cforagingSister\u003e[\\S ]+)§f: §rYou earned a total of (?\u003cpointsString\u003e§.(?\u003cpointsInteger\u003e[\\d,]+)) §fpoints!(?\u003cpersonalBest\u003e That\u0027s a new (?:§.)*PERSONAL BEST(?:§.)?!)?",
+    "foraging.agatha.previous-best": "(?:§.)*\\[NPC] (?\u003cforagingSister\u003e[\\S ]+)(?:§.)*: (?:§.)*Your previous Personal Best was (?\u003cpreviousBest\u003e(?:§.)*(?\u003cprevBestInt\u003e[\\d,]+))(?:§.)*\\.",
+    "foraging.agatha.start-results": "§e\\[NPC] (?\u003cforagingSister\u003e[\\S ]+)§f: §rYou reached the (?\u003cformattingCode\u003e§.)(?:§.)?(?\u003cbracket\u003e\\w+) §fBracket in my contest!",
+    "foraging.agatha.sweep-from-collection-pb": "(?:§.)*Your total (?:§.)*. Sweep (?:§.)*is now increased by (?\u003csweepIncreaseDisplay\u003e(?:§.)*(?\u003csweepIncreasePercent\u003e[\\d.]+)%)(?:§.)*!",
     "foraging.hotf.inventory": "Heart of the Forest",
     "foraging.hotf.inventory.heart": "§aHeart of the Forest",
     "foraging.hotf.inventory.heart.token": "§7Tokens of the Forest: §a(?\u003ctoken\u003e\\d+)",
