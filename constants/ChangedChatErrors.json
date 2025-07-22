@@ -87,7 +87,8 @@
     },
     {
       "message_starts_with": [
-        "Caught a IllegalStateException in BazaarCancelledBuyOrderClipboard at LorenzChatEvent: last clicked bz item is null"
+        "Caught a IllegalStateException in BazaarCancelledBuyOrderClipboard at LorenzChatEvent: last clicked bz item is null",
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.inventory.bazaar.BazaarCancelledBuyOrderClipboard.onChat(at.hannibal2.skyhanni.events.chat.SkyHanniChatEvent) at SkyHanniChatEvent: Cancel buy order clipboard could not detect the last bazaar product."
       ],
       "custom_message": "Cancelled Buy Order Clipboard doesn't work with Soopy's SBMENU setting. Please disable one of them. If you do not use this feature, please report it on the SkyHanni Discord!",
       "fixed_in": "9.9.9"
