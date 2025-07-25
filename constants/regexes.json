@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "cfb463c",
+  "sourceLabel": "c004a88",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -753,10 +753,14 @@
     "garden.farming.contest.time": "§a(?\u003cmonth\u003e.*) (?\u003cday\u003e.*)(?:rd|st|nd|th), Year (?\u003cyear\u003e.*)",
     "garden.ff.carrolyn.complete.carrot": "CARROTS EXPORTATION COMPLETE!",
     "garden.ff.carrolyn.complete.cocoa.beans": "COCOA BEANSS EXPORTATION COMPLETE!",
+    "garden.ff.carrolyn.complete.mushroom": "MUSHROOMS EXPORTATION COMPLETE!",
+    "garden.ff.carrolyn.complete.nether.wart": "WARTYS EXPORTATION COMPLETE!",
     "garden.ff.carrolyn.complete.pumpkin": "PUMPKINS EXPORTATION COMPLETE!",
     "garden.ff.carrolyn.complete.wheat": "FINE FLOURS EXPORTATION COMPLETE!",
     "garden.ff.carrolyn.thx.carrot": "[NPC] Carrolyn: Thank you for the carrots.",
     "garden.ff.carrolyn.thx.cocoa.beans": "[NPC] Carrolyn: Thank you for the chocolate.",
+    "garden.ff.carrolyn.thx.mushroom": "[NPC] Carrolyn: Thank you for the mushrooms.",
+    "garden.ff.carrolyn.thx.nether.wart": "[NPC] Carrolyn: Thank you for the warts.",
     "garden.ff.carrolyn.thx.pumpkin": "[NPC] Carrolyn: Thank you for the pumpkins.",
     "garden.ff.carrolyn.thx.wheat": "[NPC] Carrolyn: Thank you for the flour.",
     "garden.fortunedisplay.armorability": "Tiered Bonus: .* [(](?\u003cpieces\u003e.*)/4[)]",
