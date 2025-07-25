@@ -45,7 +45,7 @@
   },
   "5": {
     "Position": "-313.0:82.0:-10.0",
-    "Name": "Birch Wood",
+    "Name": "Birch Park",
     "Tags": [
       "area"
     ],
@@ -1039,6 +1039,10 @@
   },
   "123": {
     "Position": "-415.0:110.0:58.0",
+    "Name": "Savanna Woodland",
+    "Tags": [
+      "area"
+    ],
     "Neighbours": {
       "183": 6.08,
       "120": 10.0
@@ -1527,6 +1531,10 @@
   },
   "183": {
     "Position": "-414.0:110.0:64.0",
+    "Name": "Melody\u0027s Plateau",
+    "Tags": [
+      "small_area"
+    ],
     "Neighbours": {
       "182": 5.0,
       "252": 5.1,
