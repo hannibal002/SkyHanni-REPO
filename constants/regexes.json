@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "c004a88",
+  "sourceLabel": "19e9b6e",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -139,6 +139,7 @@
     "cookie.bits.time": "(?:§5§o)?§7§b4 §7days:",
     "cookie.bits.wrong": "§[de]Booster Cookie",
     "craftableitemlist.craftitem": "Craft Item",
+    "crimson.kuudra.quest.identifier": "Kill Kuudra (?\u003ctier\u003e\\w+) Tier",
     "crimson.miniboss.down": "§f\\s*§r§6§l(?\u003cname\u003e.+) DOWN!",
     "crimson.miniboss.spawn": "§c§lBEWARE - (?\u003cname\u003e.+) Is Spawning\\.",
     "crimson.pablo.helper.0": "\\[NPC] Pablo: (?:✆ )?Are you available\\? I desperately need an? (?\u003cflower\u003e[\\w ]+) today\\.",
