@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "06090ad",
+  "sourceLabel": "5450390",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1389,7 +1389,7 @@
     "rift.colosseum.bacte.chat.name": "§a(?\u003cpreviousName\u003e.*) §r§eis growing into §r§a(?\u003cname\u003e.*)§r§e!",
     "rift.colosseum.bacte.name": "§2﴾ §8\\[§7Lv\\d+§8\\] §l§a(?\u003cname\u003e.*)§r §.[\\d.,]+§f\\/§a[\\d.,]+§c❤ §2﴿",
     "rift.everywhere.burger": ".*(?:§\\w)+You have (?:§\\w)+(?\u003camount\u003e\\d) Grubber Stacks.*",
-    "rift.everywhere.crux.progress": ".*(?\u003ctier\u003e§[0-9a-z][IV1-4-]+)\\s+(?\u003cname\u003e§[0-9a-z]\\w+)§[0-9a-z]:\\s*(?\u003cprogress\u003e§[0-9a-z](?:§[0-9a-z])?MAXED|§[0-9a-z]\\d+§[0-9a-z]/§[0-9a-z]\\d+).*",
+    "rift.everywhere.crux.progress": ".*(?\u003ctier\u003e(?:§.)?[IV1-4-]+)\\s+(?\u003cname\u003e(?:§.)?\\w+)§.:\\s*(?\u003cprogress\u003e(?:§.)*MAXED|§.\\d+§./§.\\d+).*",
     "rift.everywhere.enigma-souls.found": "SOUL! You unlocked an Enigma Soul!|You have already found that Enigma Soul!",
     "rift.everywhere.enigma-souls.guide-area": "To Rift Guide ➜ (?\u003carea\u003e.+)",
     "rift.everywhere.enigma-souls.not-completed": "✖ Not completed yet!",
