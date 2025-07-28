@@ -5,7 +5,8 @@
     "at at.hannibal2.skyhanni.mixins.hooks.NetHandlerPlayClientHookKt.onSendPacket",
     "at net.minecraft.client.main.Main.main",
     "at.hannibal2.skyhanni.api.event.EventListeners.createZeroParameterConsumer",
-    "at.hannibal2.skyhanni.api.event.EventListeners.createSingleParameterConsumer"
+    "at.hannibal2.skyhanni.api.event.EventListeners.createSingleParameterConsumer",
+    "at.hannibal2.skyhanni.api.event.SkyHanniEvent.post"
   ],
   "replacements": {
     "at.hannibal2.skyhanni.": "SH.",
