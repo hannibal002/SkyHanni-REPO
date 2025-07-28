@@ -38,5 +38,8 @@
       ],
       "flagged": true
     }
+  ],
+  "genericStacks": [
+    "net.fabricmc.loader.impl.launch.knot.KnotClient.main"
   ]
 }
