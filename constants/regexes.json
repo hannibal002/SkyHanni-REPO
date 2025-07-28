@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "19e9b6e",
+  "sourceLabel": "06090ad",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1289,7 +1289,7 @@
     "misc.pet.neu.pet.lore": "§7§eRight-click to add this pet to(?: your)?",
     "misc.pet.neu.pet.skin": "PET_SKIN_(?\u003cpet\u003e[A-Z])_?(?\u003cskin\u003e[A-Z_]+)?",
     "misc.pet.storage.autopet.hover.helditem": "§aHeld Item: (?\u003citem\u003e.*)",
-    "misc.pet.storage.autopet.message": "§cAutopet §eequipped your §7\\[Lvl (?\u003clevel\u003e\\d+)] (?:(?:§.)+\\[(?:§.)+\\d+(?\u003caltskin\u003e§.✦)\\] )?(?:§.)*§(?\u003crarity\u003e.)(?\u003cpet\u003e[^§]+)(?\u003cskin\u003e§. ✦)?§e! §a§lVIEW RULE",
+    "misc.pet.storage.autopet.message": "§cAutopet §eequipped your §7\\[Lvl (?\u003clevel\u003e\\d+)] (?:(?:§.)+\\[(?:§.)*\\d+(?:§.)*(?\u003caltskin\u003e§.✦)(?:§.)*\\] )?(?:§.)*§(?\u003crarity\u003e.)(?\u003cpet\u003e[^§]+)(?\u003cskin\u003e§. ✦)?§e! §a§lVIEW RULE",
     "misc.pet.storage.menu.gui.name": "Pets(?:: \"(?\u003csearch\u003e.*)\")?(?: \\((?\u003ccurrentpage\u003e\\d+)\\/(?\u003cmaxpage\u003e\\d+)\\))? ?",
     "misc.pet.storage.menu.selected.name": "(?:§.)+Selected pet: §(?\u003crarity\u003e[^c])(?\u003cpet\u003e[\\w ]+)(?\u003cskin\u003e§. ✦)?",
     "misc.pet.storage.menu.selected.progress": "(?:§.)+(?:MAX LEVEL|Progress to Level (?\u003cnext\u003e\\d+): (?:§.)+(?\u003cpercentage\u003e[\\d.]+)%)",
