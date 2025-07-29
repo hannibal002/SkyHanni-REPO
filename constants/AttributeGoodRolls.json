@@ -12,8 +12,10 @@
     "Crimson Helmet": {
       "regex": "(?:(?:HOT|BURNING|FIERY|INFERNAL)_)?CRIMSON_HELMET",
       "list": [
-        "veteran",
-        "magic_find"
+        [
+          "veteran",
+          "magic_find"
+        ]
       ]
     },
     "Crimson Armor": {
