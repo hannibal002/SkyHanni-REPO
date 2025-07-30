@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "198e60f",
+  "sourceLabel": "1684d47",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -25,6 +25,7 @@
     "bazaar.orderhelper.itemname": "§.§l(?\u003ctype\u003eBUY|SELL) (?\u003cname\u003e.*)",
     "bazaar.orderhelper.price": "§7Price per unit: §6(?\u003cnumber\u003e.*) coins",
     "bingo.boop": "§dFrom.*§d§lBoop!",
+    "bingo.card.display.inventory": "Bingo Card",
     "bingo.card.goalcomplete": "§6§lBINGO GOAL COMPLETE! §r§e(?\u003cname\u003e.*)",
     "bingo.card.hiddengoal": ".*§7§eThe next hint will unlock in (?\u003ctime\u003e.*)",
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
