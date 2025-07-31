@@ -1274,5 +1274,13 @@
     "EARTHWORM": {
       "ENCHANTED_MELON_BLOCK": 15
     }
-  }
+  },
+  "extra_farming_tools": [
+    "BASIC_GARDENING_HOE",
+    "ADVANCED_GARDENING_HOE",
+    "BASIC_GARDENING_AXE",
+    "ADVANCED_GARDENING_AXE",
+    "ROOKIE_HOE",
+    "BINGHOE"
+  ]
 }
