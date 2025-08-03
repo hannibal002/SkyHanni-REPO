@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e059287",
+  "sourceLabel": "52a4653",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1345,6 +1345,7 @@
     "raredrop.pet.fishedmessage": "(?\u003cstart\u003e(?:§.)*GREAT CATCH! (?:§.)*You found a (?:§.)*\\[Lvl 1] )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*)",
     "raredrop.pet.obtainedmessage": "(?\u003cstart\u003e.*has obtained (?:§.)*\\[Lvl 1] )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*)",
     "raredrop.pet.oringomessage": "(?\u003cstart\u003e§e\\[NPC] Oringo§f: §b✆ §f§r§8• )§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e Pet)",
+    "raredrop.slayerbook": "SMITE;(?:6|7)|ENDER_SLAYER;(?:6|7)|MANA_STEAL;1|SMARTY_PANTS;1|BANE_OF_ARTHROPODS;6|CRITIAL;6|FIRE_ASPECT;3|ULTIMATE_REITERATE;1",
     "rarity.repocheck": "COMMON|UNCOMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|SUPREME|SPECIAL|VERY_SPECIAL|ULTIMATE",
     "reforge.chat.fail": "§cWait a moment before reforging again!|§cWhoa! Slow down there!",
     "reforge.chat.success": "§aYou reforged your .* §r§ainto a .*!|§aYou applied a .* §r§ato your .*!",
