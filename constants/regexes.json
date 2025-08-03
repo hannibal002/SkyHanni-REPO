@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a127e50",
+  "sourceLabel": "40e8a41",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -865,7 +865,7 @@
     "inventory.activebeaconeffect.slot.active": "§aActive stat boost!",
     "inventory.attributeshards.advanced.mode": "§7§cAdvanced Mode unlocked at 30",
     "inventory.attributeshards.caught.shards": "§aYou caught(?: [an]+)?(?: §7x(?\u003camount\u003e\\d+))? §.(?\u003cshardName\u003e.+) §aShard(?:s§a)?!",
-    "inventory.attributeshards.charmed.shard": "§.§l(?:CHARM|SALT)§7 You charmed an? §.(?\u003cshardName\u003e.+)§7 and captured (?:§.(?\u003camount\u003e\\d+) Shards §7from it|its §9Shard§7)\\.(?:§.)*",
+    "inventory.attributeshards.charmed.shard": "§.§l(?:CHARM|SALT|NAGA)§7 You charmed an? §.(?\u003cshardName\u003e.+)§7 and captured (?:§.(?\u003camount\u003e\\d+) Shards §7from it|its §9Shard§7)\\.(?:§.)*",
     "inventory.attributeshards.chat.and.more": "§aand (?\u003camount\u003e\\d+) more\\.\\.\\.",
     "inventory.attributeshards.chat.syphoned": "§a\\+(?\u003camount\u003e\\d+) (?\u003cattributeName\u003e.+) Attribute §r§7\\(Level (?\u003clevel\u003e\\d+)\\) - (?\u003cuntilNext\u003e\\d+) more to upgrade!",
     "inventory.attributeshards.chat.syphoned.maxed": "§a\\+(?\u003camount\u003e\\d+) (?\u003cattributeName\u003e.+) Attribute §r§7\\(Level (?\u003clevel\u003e\\d+)\\) §r§a§lMAXED",
