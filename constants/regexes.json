@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1684d47",
+  "sourceLabel": "6a4b505",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -122,7 +122,7 @@
     "combat.endernodetracker.chat.multi": "§5§lENDER NODE! §r§fYou found §r§8(?\u003camount\u003e\\d+)x §r(?\u003cname\u003e.*)§r§f!",
     "combat.endernodetracker.chat.one": "§5§lENDER NODE! §r§fYou found §r(?:§8§r)?(?\u003cname\u003e.*)§r§f!",
     "combat.ghosttracker.bagofcash": "§eThe ghost\u0027s death materialized §r§61,000,000 coins §r§efrom the mists!",
-    "combat.ghosttracker.itemdrop": "§6§lRARE DROP! §r§9(?\u003citem\u003e[^§]*) §r§b\\([+](?:§.)*(?\u003cmf\u003e\\d*)% §r§b✯ Magic Find§r§b\\)",
+    "combat.ghosttracker.itemdrop": "§6§lRARE DROP! §r§9(?\u003citem\u003e[^§]*) §r§b\\([+](?:§.)*(?\u003cmf\u003e\\d*)%? §r§b✯ Magic Find§r§b\\)",
     "combat.ghosttracker.killcombo.end": "§cYour Kill Combo has expired! You reached a (?\u003ckill\u003e[\\d,.]+) Kill Combo!",
     "combat.ghosttracker.tablist.bestiary": "\\s*Ghost (?\u003clevel\u003e\\d+|[XVI]+)(?:§.)*: (?:§.)*(?\u003ckills\u003e[\\d,.]+)\\/(?\u003ckillsToNext\u003e[\\d,.]+)",
     "combat.ghosttracker.tablist.bestiarymax": "\\s*Ghost (?\u003clevel\u003e\\d+|[XVI]+)(?:§.)*: (?:§.)*MAX",
