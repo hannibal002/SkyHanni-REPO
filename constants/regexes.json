@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "40e8a41",
+  "sourceLabel": "9077757",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -282,9 +282,9 @@
     "data.quiver.fakebows": "BOSS_SPIRIT_BOW|CRYPT_BOW",
     "data.quiver.quiver.inventory": "§7Active Arrow: §.(?\u003ctype\u003e.*) §7\\(§e(?\u003camount\u003e.*)§7\\)",
     "data.quiver.quivername": "Quiver",
-    "data.sacks.gemstone.count": " §[0-9a-f](?\u003cquality\u003e[A-z]*): §[0-9a-f](?\u003cstored\u003e\\d+(?:\\.\\d+)?(?:(?:,\\d+)?)+[kKmM]?)(?: §[0-9a-f]\\(\\d+(?:\\.\\d+)?(?:(?:,\\d+)?)+[kKmM]?\\))?",
+    "data.sacks.gemstone.count": " (?:§.)?(?\u003cquality\u003e[A-z]*): §[0-9a-f](?\u003cstored\u003e\\d+(?:\\.\\d+)?(?:(?:,\\d+)?)+[kKmM]?)(?: §[0-9a-f]\\(\\d+(?:\\.\\d+)?(?:(?:,\\d+)?)+[kKmM]?\\))?",
     "data.sacks.gemstone.filter": "(?:§.)+▶ (?\u003cquality\u003e.*)",
-    "data.sacks.gemstone.name": "(?:§.)+(?:[❤❈☘⸕✎✧❁☠❂☂] )?(?:(?:Rough|Flawed|Fine) )?(?\u003cgem\u003e[^ ]+) Gemstones?",
+    "data.sacks.gemstone.name": "(?:(?:§.)?[❤❈☘⸕✎✧❁☠❂☂] |§.)(?:(?:Rough|Flawed|Fine) )?(?\u003cgem\u003e[^ ]+) Gemstones?",
     "data.sacks.number": "(?:(?:§[0-9a-f](?\u003clevel\u003eI{1,3})§7:)?|(?:§7Stored:)?) (?\u003ccolor\u003e§[0-9a-f])(?\u003cstored\u003e[0-9.,kKmMbB]+)§7/(?\u003ctotal\u003e\\d+(?:[0-9.,]+)?[kKmMbB]?)",
     "data.sacks.sack": "^(?:.* Sack|Enchanted .* Sack)$",
     "data.skill.actionbar": ".*§3\\+.* (?\u003cskill\u003e.*) \\((?\u003coverflow\u003e.*)/(?\u003cneeded\u003e.*)\\).*",
