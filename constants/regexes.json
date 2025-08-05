@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6feb080",
+  "sourceLabel": "2a44a63",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1321,7 +1321,7 @@
     "mob.detection.filter.basic": "(?:\\[\\w+(?\u003clevel\u003e\\d+)\\] )?(?\u003ccorrupted\u003e.Corrupted )?(?\u003cname\u003e[^ᛤ]*)(?: ᛤ)? [\\dBMk.,❤]+",
     "mob.detection.filter.boss": "^. (?:\\[Lv(?\u003clevel\u003e\\d+)\\] )?(?\u003cname\u003e[^ᛤ\n]*?)(?: ᛤ)?(?: [\\d\\/BMk.,❤]+| █+)? .$",
     "mob.detection.filter.dojo": "^(?:(?\u003cpoints\u003e\\d+) pts|(?\u003cempty\u003e\\w+))$",
-    "mob.detection.filter.dungeon": "^(?:(?\u003cstar\u003e✯)\\s)?(?:(?\u003cattribute\u003eFlaming|Stormy|Speedy|Fortified|Healthy|Healing|Boomer|Golden|Stealth)\\s)?(?:\\[[\\w\\d]+\\]\\s)?(?\u003cname\u003e[^ᛤ]+)(?: ᛤ)?\\s[^\\s]+$",
+    "mob.detection.filter.dungeon": "^(?\u003cmobType\u003e(§..)+ )?(?:(?\u003cstar\u003e§6✯)\\s)?(?:(?\u003cattribute\u003eFlaming|Stormy|Speedy|Fortified|Healthy|Healing|Boomer|Golden|Stealth)\\s)?(?:\\[[\\w\\d]+\\]\\s)?(?\u003cname\u003e[^ᛤ]+)(?: ᛤ)?\\s[^\\s]+$",
     "mob.detection.filter.slayer": "^. (?\u003cname\u003e.*) (?\u003ctier\u003e[IV]+) \\d+.*",
     "mob.detection.filter.summon": "^(?\u003cowner\u003e\\w+)\u0027s (?\u003cname\u003e.*) \\d+.*",
     "mob.detection.jerry": "(?:\\[\\w+(?\u003clevel\u003e\\d+)\\] )?(?:(?:a(?\u003da ))?(?\u003cowner\u003e\\w+)\u0027s (?\u003cname\u003e\\w+ Jerrya?)) \\d+ Hits",
