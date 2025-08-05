@@ -261,8 +261,8 @@
     "impaling": {
       "loreName": "Impaling",
       "nbtName": "impaling",
-      "goodLevel": 3,
-      "maxLevel": 3
+      "goodLevel": 5,
+      "maxLevel": 5,
     },
     "infinite quiver": {
       "loreName": "Infinite Quiver",
