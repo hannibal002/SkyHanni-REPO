@@ -49,8 +49,8 @@
         "rarity": "COMMON"
       },
       "Sea Archer": {
-        "chat_message": "§aYou reeled in a Sea Archer.",
-        "fishing_experience": 169,
+        "chat_message": "§aYou've hooked a Bogged!",
+        "fishing_experience": 225,
         "rarity": "UNCOMMON"
       },
       "Rider of the Deep": {
