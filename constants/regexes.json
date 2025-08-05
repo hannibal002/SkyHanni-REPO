@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "d32405f",
+  "sourceLabel": "6feb080",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -802,9 +802,9 @@
     "garden.nextcontest.time-left": "(?:§.)+Jacob\u0027s Contest: (?:§.)+(?\u003ctimeleft\u003e\\d+[smh]+) left",
     "garden.pests.cooldown": "\\sCooldown: §r§.(?:§.)?(?:(?\u003cminutes\u003e\\d+)m)? ?(?:(?\u003cseconds\u003e\\d+)s)?(?\u003cready\u003eREADY)?(?\u003cmaxPests\u003eMAX PESTS)?.*",
     "garden.pests.pesthunter.garden.pests.pesthunter.cost": "§2(?\u003cpests\u003e[\\d,]+) Pests",
-    "garden.pests.spawn.multiple": "§6§l.*! §2(?\u003camount\u003e\\d) Pests §7have spawned in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
-    "garden.pests.spawn.offline": "§6§l.*! §7While you were offline, §2Pests §7spawned in §aPlots (?\u003cplots\u003e.*)!",
-    "garden.pests.spawn.one": "§6§l.*! §7A §2Pest §7has appeared in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
+    "garden.pests.spawn.multiple": "§6§l.*! §2(?\u003camount\u003e\\d) §2ൠ Pests? §7have spawned in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
+    "garden.pests.spawn.offline": "§6§l.*! §7While you were offline, §2ൠ §2Pests? §7spawned in §aPlots (?\u003cplots\u003e.*)!",
+    "garden.pests.spawn.one": "§6§l.*! §7A §2ൠ §2Pest §7has appeared in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
     "garden.pests.tracker.raredrop": "§6§l(?:RARE|PET) DROP! (?:§r)?(?\u003citem\u003e.+) §6\\(§6\\+.*☘\\)",
     "garden.pests.tracker.sprayonator": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- .* §r§7with §r§.(?\u003cspray\u003e.*)§r§7!",
     "garden.pestsapi.chat.nopests": "§cThere are not any Pests on your Garden right now! Keep farming!",
