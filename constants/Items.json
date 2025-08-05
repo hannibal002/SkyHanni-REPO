@@ -160,5 +160,18 @@
     "Great White Shark Tooth": "GWS Tooth",
     "Bane of Arthropods": "Bane of Arthro",
     "Steaming-Hot Flounder": "Hot Flounder"
+  },
+  "renamed_enchantments": {
+    "Turbo-Cocoa": "Turbo-Coco",
+    "Turbo-Cacti": "Turbo-Cactus",
+    "Prismatic": "Pristine",
+    "Dragon Tracer": "Aiming",
+    "Drain": "Syphon"
+  },
+  "shard_name_overrides": {
+    "STRIDERSURFER": "STRIDER_SURFER",
+    "ABYSSAL_LANTERNFISH": "ABYSSAL_LANTERN",
+    "CINDERBAT": "CINDER_BAT",
+    "BOGGED": "SEA_ARCHER"
   }
 }
