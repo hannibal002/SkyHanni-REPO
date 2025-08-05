@@ -51,7 +51,7 @@
       "Sea Archer": {
         "chat_message": "§aYou've hooked a Bogged!",
         "fishing_experience": 225,
-        "rarity": "UNCOMMON"
+        "rarity": "COMMON"
       },
       "Rider of the Deep": {
         "chat_message": "§aThe Rider of the Deep has emerged.",
