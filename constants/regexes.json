@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "15541b3",
+  "sourceLabel": "56bb761",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1318,7 +1318,7 @@
     "misc.xp-in-inventory.exp-levels.0": "(?:§.)*(?\u003cxp\u003e\\d+) (Exp|XP) Levels",
     "misc.xp-in-inventory.exp-levels.1": "(?:§.)*Starting cost: §b(?\u003cxp\u003e\\d+) XP Levels",
     "mob.detection.displaynpc.name": "[a-z0-9]{10}",
-    "mob.detection.filter.basic": "(?:\\[\\w+(?\u003clevel\u003e\\d+)\\] )?(?\u003ccorrupted\u003e.Corrupted )?(?\u003cname\u003e[^ᛤ]*)(?: ᛤ)? [\\dBMk.,❤]+",
+    "mob.detection.filter.basic": "(?:\\[Lv(?\u003clevel\u003e\\d+)\\] )?(?\u003cmobType\u003e[^\\s✯]+)? ?(?\u003ccorrupted\u003e.Corrupted )?(?\u003cname\u003e[^ᛤ]*)(?: ᛤ)? [\\dBMk.,❤]+",
     "mob.detection.filter.boss": "^. (?:\\[Lv(?\u003clevel\u003e\\d+)\\] )?(?\u003cname\u003e[^ᛤ\n]*?)(?: ᛤ)?(?: [\\d\\/BMk.,❤]+| █+)? .$",
     "mob.detection.filter.dojo": "^(?:(?\u003cpoints\u003e\\d+) pts|(?\u003cempty\u003e\\w+))$",
     "mob.detection.filter.dungeon": "^(?\u003cmobType\u003e[^\\s✯]+ )?(?:(?\u003cstar\u003e✯)\\s)?(?:(?\u003cattribute\u003eFlaming|Stormy|Speedy|Fortified|Healthy|Healing|Boomer|Golden|Stealth)\\s)?(?:\\[[\\w\\d]+\\]\\s)?(?\u003cname\u003e[^ᛤ]+)(?: ᛤ)?\\s[^\\s]+$",
