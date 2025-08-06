@@ -463,7 +463,7 @@
       "Bogged": {
         "chat_message": "§aYou've hooked a Bogged!",
         "fishing_experience": 225,
-        "rarity": "COMMON",
+        "rarity": "COMMON"
       },
       "Stridersurfer": {
         "chat_message": "§aYou caught a Stridersurfer.",
