@@ -6,12 +6,6 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
-    "arcane": {
-      "loreName": "Arcane",
-      "nbtName": "arcane",
-      "goodLevel": 0,
-      "maxLevel": 5
-    },
     "aqua affinity": {
       "loreName": "Aqua Affinity",
       "nbtName": "aqua_affinity",
@@ -120,12 +114,6 @@
       "goodLevel": 0,
       "maxLevel": 3
     },
-    "dragon hunter": {
-      "loreName": "Dragon Hunter",
-      "nbtName": "dragon_hunter",
-      "goodLevel": 0,
-      "maxLevel": 5
-    },
     "dragon tracer": {
       "loreName": "Dragon Tracer",
       "nbtName": "aiming",
@@ -228,6 +216,12 @@
       "goodLevel": 5,
       "maxLevel": 7
     },
+    "gravity": {
+      "loreName": "Gravity",
+      "nbtName": "dragon_hunter",
+      "goodLevel": 5,
+      "maxLevel": 6
+    },
     "great spook": {
       "loreName": "Great Spook",
       "nbtName": "great_spook",
@@ -267,8 +261,8 @@
     "impaling": {
       "loreName": "Impaling",
       "nbtName": "impaling",
-      "goodLevel": 3,
-      "maxLevel": 3
+      "goodLevel": 5,
+      "maxLevel": 5
     },
     "infinite quiver": {
       "loreName": "Infinite Quiver",
@@ -894,6 +888,12 @@
       "maxLevel": 10,
       "statLabel": "toxophileCombatXp",
       "stackLevel": [0, 50000, 100000, 250000, 500000, 1000000, 1500000, 2000000, 2500000, 3000000]
+    },
+    "woodsplitter": {
+      "loreName": "Woodsplitter",
+      "nbtName": "arcane",
+      "goodLevel": 5,
+      "maxLevel": 6
     }
   }
 }

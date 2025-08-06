@@ -125,7 +125,18 @@
       "SQUID;4",
       "DYE_BONE",
       "BOUNCY_BEACH_BALL",
-      "GIANT_BOUNCY_BEACH_BALL"
+      "GIANT_BOUNCY_BEACH_BALL",
+      "SEA_LUMIES",
+      "ENCHANTED_SEA_LUMIES",
+      "MANGCORE",
+      "GILL_MEMBRANE",
+      "MANGROVE_LOG",
+      "ENCHANTED_MANGROVE_LOG",
+      "WET_BOOK",
+      "GILL_MEMBRANE",
+      "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
+      "FLEXBONE",
+      "FISH_THE_FISH"
     ],
     "Lava": [
       "MAGMA_FISH",
@@ -212,7 +223,9 @@
       "CHAIN_END_TIMES",
       "THUNDER_IN_A_BOTTLE",
       "STORM_IN_A_BOTTLE",
-      "HURRICANE_IN_A_BOTTLE"
+      "HURRICANE_IN_A_BOTTLE",
+      "GILL_MEMBRANE",
+      "STURDY_BONE"
     ],
     "Fishing Festival": [
       "SHARK_FIN",

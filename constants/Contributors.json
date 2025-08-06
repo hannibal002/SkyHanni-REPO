@@ -4,6 +4,9 @@
   "__info__2": "Please also limit your suffixes to 2 visible characters.",
   "__info__3": "Make sure you add yourself in alphabetically (excluding the external mod devs).",
   "contributors": {
+    "AfkUser": {
+      "suffix": "§4:3"
+    },
     "Alea1337": {},
     "aphased": {
       "suffix": "§9:D"
@@ -44,6 +47,9 @@
     "EstrogenEnjoyer": {
       "suffix": "§d:3"
     },
+    "Fazfoxy": {
+      "suffix": "§d:3"
+    },
     "Fix3dll": {},
     "Frost19": {},
     "Gillsplash": {},
@@ -79,7 +85,9 @@
     },
     "NetheriteMiner": {},
     "oBlazin": {
-      "suffix": "§d§l^^"
+      "suffix": "§d§l^^",
+      "spinny": true,
+      "upsideDown": true
     },
     "not_a_cowfr": {
       "suffix": "§c:3"
@@ -91,7 +99,7 @@
       "suffix": "§d:3"
     },
     "oxsss": {},
-    "PlasticEating": {
+    "Helium9": {
       "suffix": "§d§l:3"
     },
     "ReyMaratov": {},
