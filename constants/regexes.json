@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8d4b786",
+  "sourceLabel": "47b43b0",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -610,6 +610,7 @@
     "filter.crystalnucleus.npc.keeper": "§e\\[NPC\\] §6Keeper of (?\u003ckeepertype\u003e.*)§f: §r(?\u003cmessage\u003e.*)",
     "filter.crystalnucleus.precursor.submitted": "(?:Wait a minute. This will work just fine.|You\u0027ve brought me all|me the (?\u003ccomponent\u003e.*)§r! Bring me (?\u003cremaining\u003e\\d|one) more).*",
     "filter.crystalnucleus.run.completed": "§3§l▬{64}",
+    "filter.crystalnucleus.run.enchantedbook": "§fEnchanted Book \\((?\u003ctype\u003e\\S*).*\\)",
     "filter.powdermining.lootchest.collected": ".*§r§5§lLOOT CHEST COLLECTED.*",
     "filter.powdermining.powder.chestwrapper": "^§[ed]§l▬{64}$",
     "filter.powdermining.powder.picked": ".*§r§6§lCHEST LOCKPICKED.*",
