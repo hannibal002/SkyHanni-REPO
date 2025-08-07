@@ -167,8 +167,8 @@
     "Prismatic": "Pristine",
     "Dragon Tracer": "Aiming",
     "Drain": "Syphon",
-    "Dragon Hunter": "Gravity",
-    "Arcane": "Woodsplitter"
+    "Gravity": "Dragon Hunter",
+    "Woodsplitter": "Arcane"
   },
   "shard_name_overrides": {
     "STRIDERSURFER": "STRIDER_SURFER",
