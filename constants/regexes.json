@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "47b43b0",
+  "sourceLabel": "82c838e",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -875,7 +875,7 @@
     "inventory.attributeshards.name": "§6(?\u003cname\u003e.+?) ?(?\u003ctier\u003e[IVXL]+)?$",
     "inventory.attributeshards.name.lore": "§6(?\u003cname\u003e.+?) ?(?\u003ctier\u003e[IVXL]+)? §8\\(\\w+\\)$",
     "inventory.attributeshards.owned": "§7Owned: §b(?\u003camount\u003e[\\d,]+) Shards?",
-    "inventory.attributeshards.sent.to.hunting.box": "§7You sent §a(?:an?|(?\u003camount\u003e\\d+)) §.(?\u003cshardName\u003e.+) Shards? §7to your §aHunting Box§7.",
+    "inventory.attributeshards.sent.to.hunting.box": "§7You sent (?:§a)?(?:an?|(?\u003camount\u003e\\d+)) §.(?\u003cshardName\u003e.+) Shards? §7to your §aHunting Box§7.",
     "inventory.attributeshards.syphon.amount": "§7Syphon §b(?\u003camount\u003e\\d+) §7(?:more to level up|shard to unlock)!",
     "inventory.auctionhouse.title.search": "Auctions: \"(?\u003csearchTerm\u003e.*)\"?",
     "inventory.bazaar.instantsell.tax": "§8Current tax: (?\u003ctax\u003e[\\d.]+)%",
