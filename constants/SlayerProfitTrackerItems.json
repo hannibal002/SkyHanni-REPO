@@ -25,7 +25,8 @@
       "ATTRIBUTE_SHARD_MIDAS_TOUCH;1",
       "ATTRIBUTE_SHARD_EXPERIENCE;1",
       "ATTRIBUTE_SHARD_ROTTEN_PICKAXE;1",
-      "FESTERING_MAGGOT"
+      "FESTERING_MAGGOT",
+      "SEVERED_HAND"
     ],
     "Tarantula Broodfather": [
       "TARANTULA_WEB",
@@ -106,7 +107,8 @@
       "ENDERMAN;4",
       "DYE_BYZANTIUM",
       "ATTRIBUTE_SHARD_ENDER;1",
-      "ATTRIBUTE_SHARD_ENDER_RESISTANCE;1"
+      "ATTRIBUTE_SHARD_ENDER_RESISTANCE;1",
+      "ENDSTONE_IDL"
     ],
     "Inferno Demonlord": [
       "DERELICT_ASHE",
