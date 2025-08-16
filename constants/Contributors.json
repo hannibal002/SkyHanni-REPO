@@ -96,11 +96,15 @@
       "suffix": "§z(:"
     },
     "owoLuna": {
-      "suffix": "§d:3"
+      "suffix": "§5:3"
     },
     "oxsss": {},
     "Helium9": {
       "suffix": "§d§l:3"
+    },
+    "qtLuna": {
+      "suffix": "§5:3",
+      "alt from": "owoLuna"
     },
     "ReyMaratov": {},
     "RobotHanzo": {
