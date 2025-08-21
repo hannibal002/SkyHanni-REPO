@@ -452,8 +452,7 @@
       "Ent": {
         "chat_message": "§aYou've hooked an Ent, as ancient as the forest itself.",
         "fishing_experience": 0,
-        "rarity": "EPIC",
-        "rare": true
+        "rarity": "EPIC"
       },
       "Tadgang": {
         "chat_message": "§aA gang of Liltads!",
