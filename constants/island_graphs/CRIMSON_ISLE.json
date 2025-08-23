@@ -10268,7 +10268,7 @@
   },
   "1200": {
     "Position": "-533.0:118.0:-904.0",
-    "Name": "Barbaria Duke",
+    "Name": "Barbarian Duke",
     "Tags": [
       "crimson_miniboss"
     ],
@@ -11410,7 +11410,7 @@
   },
   "1341": {
     "Position": "-531.0:41.0:-888.0",
-    "Name": "The Matriach",
+    "Name": "The Matriarch",
     "Tags": [
       "poi"
     ],
@@ -16696,7 +16696,7 @@
   },
   "2001": {
     "Position": "-17.0:115.0:-916.0",
-    "Name": "Scholar Alluim",
+    "Name": "Scholar Alluin",
     "Tags": [
       "npc"
     ],
@@ -22188,7 +22188,7 @@
   },
   "2678": {
     "Position": "-38.0:123.0:-954.0",
-    "Name": "The Altar in the Catedral",
+    "Name": "The Altar in the Cathedral",
     "Tags": [
       "poi"
     ],

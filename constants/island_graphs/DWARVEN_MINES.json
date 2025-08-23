@@ -3844,7 +3844,7 @@
   },
   "437": {
     "Position": "-113.0:151.0:81.0",
-    "Name": "Gobin Raid",
+    "Name": "Goblin Raid",
     "Tags": [
       "dev"
     ],
@@ -3871,7 +3871,7 @@
   },
   "439": {
     "Position": "-133.0:153.0:91.0",
-    "Name": "Gobin Raid",
+    "Name": "Goblin Raid",
     "Tags": [
       "dev"
     ],
@@ -8164,7 +8164,7 @@
   },
   "920": {
     "Position": "-112.0:143.0:102.0",
-    "Name": "Gobin Raid",
+    "Name": "Goblin Raid",
     "Tags": [
       "dev"
     ],
@@ -21408,7 +21408,7 @@
   },
   "2487": {
     "Position": "-159.0:150.0:-15.0",
-    "Name": "Quard Gornum",
+    "Name": "Guard Gornum",
     "Tags": [
       "npc"
     ],

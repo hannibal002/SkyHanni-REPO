@@ -1846,7 +1846,7 @@
   },
   "222": {
     "Position": "371.0:85.0:-371.0",
-    "Name": "Shephed\u0027s Keep",
+    "Name": "Shepherd\u0027s Keep",
     "Tags": [
       "small_area"
     ],
@@ -6558,7 +6558,7 @@
   },
   "826": {
     "Position": "387.0:86.0:-373.0",
-    "Name": "Shephed",
+    "Name": "Shepherd",
     "Tags": [
       "npc"
     ],
@@ -6595,7 +6595,7 @@
   },
   "830": {
     "Position": "383.0:85.0:-383.0",
-    "Name": "Shephed\u0027s Keep",
+    "Name": "Shepherd\u0027s Keep",
     "Tags": [
       "small_area"
     ],
@@ -6614,7 +6614,7 @@
   },
   "832": {
     "Position": "375.0:84.0:-362.0",
-    "Name": "Shephed\u0027s Keep",
+    "Name": "Shepherd\u0027s Keep",
     "Tags": [
       "small_area"
     ],
@@ -8211,7 +8211,7 @@
   },
   "1035": {
     "Position": "228.0:42.0:-579.0",
-    "Name": "Musroom",
+    "Name": "Mushroom",
     "Tags": [
       "grind_crops"
     ],
