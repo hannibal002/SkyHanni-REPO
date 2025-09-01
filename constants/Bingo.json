@@ -307,6 +307,34 @@
         "Some of them require certain",
         "collections and materials to craft."
       ]
+    },
+    "Eagle-Eyed": {
+      "difficulty": "Easy",
+      "note": [
+        "Complete a timed Target Practice"
+      ],
+      "guide": [
+        "Talk to Jax in the Hub",
+        "under the Weaponsmith",
+        "and complete on of his challenges.",
+        "You should buy an Artisanal Shortbow",
+        "for this."
+      ]
+    },
+    "Lumberjack": {
+      "difficulty": "Hard",
+      "note": [
+        "Reach Foraging 20"
+      ],
+      "guide": [
+        "Optimal tool:",
+        "Golden Axe with Efficiency 5",
+        "Reforges: Double-Bit or Lush",
+        "Get Haste 3 from a splash to instamine wood",
+        "You should consider getting gear from",
+        "Galatea like Canopy Armor (requires 1.21.5",
+        "to enter that island)"
+      ]
     }
   }
 }
