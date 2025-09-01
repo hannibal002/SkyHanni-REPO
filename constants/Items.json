@@ -115,43 +115,43 @@
     "endcap_enchants": {
       "pesterminator": {
         "required_level": 5,
-        "endcap_item":"PESTHUNTING_GUIDE"
+        "endcap_item": "PESTHUNTING_GUIDE"
       },
       "charm": {
         "required_level": 5,
-        "endcap_item":"CHAIN_END_TIMES"
+        "endcap_item": "CHAIN_END_TIMES"
       },
       "ender_slayer": {
         "required_level": 6,
-        "endcap_item":"ENDSTONE_IDOL"
+        "endcap_item": "ENDSTONE_IDOL"
       },
       "bane_of_arthropods": {
         "required_level": 6,
-        "endcap_item":"ENSNARED_SNAIL"
+        "endcap_item": "ENSNARED_SNAIL"
       },
       "luck_of_the_sea": {
         "required_level": 6,
-        "endcap_item":"GOLD_BOTTLE_CAP"
+        "endcap_item": "GOLD_BOTTLE_CAP"
       },
       "scavenger": {
         "required_level": 5,
-        "endcap_item":"GOLDEN_BOUNTY"
+        "endcap_item": "GOLDEN_BOUNTY"
       },
       "spiked_hook": {
         "required_level": 6,
-        "endcap_item":"OCTOPUS_TENDRIL"
+        "endcap_item": "OCTOPUS_TENDRIL"
       },
       "smite": {
         "required_level": 6,
-        "endcap_item":"SEVERED_HAND"
+        "endcap_item": "SEVERED_HAND"
       },
       "frail": {
         "required_level": 6,
-        "endcap_item":"SEVERED_PINCER"
+        "endcap_item": "SEVERED_PINCER"
       },
       "piscary": {
         "required_level": 6,
-        "endcap_item":"TROUBLED_BUBBLE"
+        "endcap_item": "TROUBLED_BUBBLE"
       }
     }
   },
