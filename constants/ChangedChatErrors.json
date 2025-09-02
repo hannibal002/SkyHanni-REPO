@@ -204,6 +204,12 @@
         "Failed to calculate XP for pet level"
       ],
       "fixed_in": "4.7.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.garden.inventory.GardenInventoryTooltipOverflow.onToolTip(at.hannibal2.skyhanni.events.minecraft.ToolTipEvent) at ToolTipEvent: No valid crop type 'Melon Slice'"
+      ],
+      "fixed_in": "4.16.0"
     }
   ]
 }
