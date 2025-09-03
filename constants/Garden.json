@@ -604,7 +604,7 @@
     "Dusk": {
       "rarity": "uncommon",
       "need_items": [
-        "Melon"
+        "Melon Slice"
       ],
       "mode": "hub",
       "position": "-37:69:-125",
@@ -631,7 +631,7 @@
     "Emissary Fraiser": {
       "rarity": "uncommon",
       "need_items": [
-        "Melon"
+        "Melon Slice"
       ],
       "mode": "mines_3",
       "position": "-132:174:-50",
@@ -872,7 +872,7 @@
       "need_items": [
         "Carrot",
         "Potato",
-        "Melon",
+        "Melon Slice",
         "Pumpkin",
         "Red Mushroom Block"
       ],
@@ -1086,7 +1086,7 @@
     "Shifty": {
       "rarity": "rare",
       "need_items": [
-        "Melon"
+        "Melon Slice"
       ],
       "mode": "hub",
       "position": "115:73:175",
@@ -1128,7 +1128,7 @@
     "Terry": {
       "rarity": "uncommon",
       "need_items": [
-        "Melon"
+        "Melon Slice"
       ]
     },
     "Tia the Fairy": {
@@ -1195,7 +1195,7 @@
     "Zog": {
       "rarity": "rare",
       "need_items": [
-        "Melon",
+        "Melon Slice",
         "Cactus"
       ],
       "mode": "hub",
