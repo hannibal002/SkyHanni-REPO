@@ -712,7 +712,7 @@
     "Friendly Hiker": {
       "rarity": "uncommon",
       "need_items": [
-        "Mutton",
+        "Raw Mutton",
         "Raw Porkchop",
         "Raw Rabbit"
       ],
@@ -908,7 +908,7 @@
     "Mason": {
       "rarity": "uncommon",
       "need_items": [
-        "Mutton",
+        "Raw Mutton",
         "Potato",
         "Carrot",
         "Red Mushroom Block"
