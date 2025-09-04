@@ -207,7 +207,8 @@
     },
     {
       "message_starts_with": [
-        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.garden.inventory.GardenInventoryTooltipOverflow.onToolTip(at.hannibal2.skyhanni.events.minecraft.ToolTipEvent) at ToolTipEvent: No valid crop type 'Melon Slice'"
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.garden.inventory.GardenInventoryTooltipOverflow.onToolTip(at.hannibal2.skyhanni.events.minecraft.ToolTipEvent) at ToolTipEvent: No valid crop type 'Melon Slice'",
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.garden.FarmingFortuneDisplay.onTabListUpdate(at.hannibal2.skyhanni.events.TabListUpdateEvent) at TabListUpdateEvent: No valid crop type 'Melon Slice'"
       ],
       "custom_message": "Update your SkyHanni version to fix errors related to melons being renamed, you can use /shupdate beta",
       "fixed_in": "4.16.0"
