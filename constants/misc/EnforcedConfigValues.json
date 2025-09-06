@@ -64,7 +64,7 @@
     {
       "enforcedValues": [
         {
-          "path": "SkyHanniMod.feature.garden.pests.pestWaypoint.enabled",
+          "path": "garden.pests.pestWaypoint.enabled",
           "value": false
         }
       ],
