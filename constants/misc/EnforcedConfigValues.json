@@ -60,6 +60,21 @@
         "1.21.8"
       ],
       "extraMessage": "Will be re-enabled next beta"
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "SkyHanniMod.feature.garden.pests.pestWaypoint.enabled",
+          "value": false
+        }
+      ],
+      "affectedVersion": "4.16.0",
+      "affectedMinecraftVersions": [
+        "1.21.5",
+        "1.21.7",
+        "1.21.8"
+      ],
+      "extraMessage": "Will be re-enabled on version 4.17.0 and later"
     }
   ]
 }
