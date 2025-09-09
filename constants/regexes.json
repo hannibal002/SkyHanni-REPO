@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "236a260",
+  "sourceLabel": "90dc9fe",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1288,7 +1288,7 @@
     "misc.nongodpot.repellant": " Repellent: §r§[97a](?\u003ctier\u003e\\w+)?(?: §r§7\\((?\u003ctime\u003e\\d)s\\))?",
     "misc.patchercoords.coords": "(?\u003cplayerName\u003e.*): [xX]: (?\u003cx\u003e[0-9.-]+),? [yY]: (?\u003cy\u003e[0-9.-]+),? [zZ]: (?\u003cz\u003e[0-9.-]+(?: .*)?)",
     "misc.pet.chat.summon": "§aYou summoned your §r§(?\u003crarity\u003e.)(?\u003cpet\u003e[^§]+)(?:§r(?\u003cskin\u003e§. ✦))?§r§a!",
-    "misc.pet.neu.pet.lore": "§7§eRight-click to add this pet to(?: your)?",
+    "misc.pet.neu.pet.lore": "(?:§7)?§eRight-click to add this pet to(?: your)?",
     "misc.pet.neu.pet.skin": "PET_SKIN_(?\u003cpet\u003e[A-Z])_?(?\u003cskin\u003e[A-Z_]+)?",
     "misc.pet.storage.autopet.hover.helditem": "§aHeld Item: (?\u003citem\u003e.*)",
     "misc.pet.storage.autopet.message": "§cAutopet §eequipped your §7\\[Lvl (?\u003clevel\u003e\\d+)] (?:(?:§.)+\\[(?:§.)*\\d+(?:§.)*(?\u003caltskin\u003e§.✦)(?:§.)*\\] )?(?:§.)*§(?\u003crarity\u003e.)(?\u003cpet\u003e[^§]+)(?\u003cskin\u003e§. ✦)?§e! §a§lVIEW RULE",
