@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "90dc9fe",
+  "sourceLabel": "1e1208a",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1069,7 +1069,6 @@
     "mining.hotm.skymall.item.mining.speed": "Gain §6\\+100⸕ Mining Speed§7\\.",
     "mining.hotm.skymall.item.titanium": "Gain §a5x §9Titanium §7drops\\.",
     "mining.hotm.widget.powder": "\\s*(?\u003ctype\u003e\\w+): (?:§.)+(?\u003camount\u003e[\\d,.]+)",
-    "mining.kingtalisman.king": "§6§lKing (?\u003cname\u003e.*)",
     "mining.kingtalisman.talisman": "§7You have received a §r§fKing Talisman§r§7!",
     "mining.mineshaft.chat.end": "§a§l▬{64}",
     "mining.mineshaft.chat.item": " {4}§r(?\u003citem\u003e.+)",
