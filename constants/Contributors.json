@@ -52,6 +52,9 @@
     },
     "Fix3dll": {},
     "Frost19": {},
+    "fursiv": {
+      "suffix": "§d§l:3"
+    },
     "Gillsplash": {},
     "hannibal2": {
       "suffix": "§3§l:O"
@@ -99,9 +102,6 @@
       "suffix": "§5:3"
     },
     "oxsss": {},
-    "Helium9": {
-      "suffix": "§d§l:3"
-    },
     "qtLuna": {
       "suffix": "§5:3",
       "alt from": "owoLuna"
