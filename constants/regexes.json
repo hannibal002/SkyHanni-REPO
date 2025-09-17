@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "c08496d",
+  "sourceLabel": "00c5b00",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1318,11 +1318,11 @@
     "misc.xp-in-inventory.exp-levels.0": "(?:§.)*(?\u003cxp\u003e\\d+) (Exp|XP) Levels",
     "misc.xp-in-inventory.exp-levels.1": "(?:§.)*Starting cost: §b(?\u003cxp\u003e\\d+) XP Levels",
     "mob.detection.displaynpc.name": "[a-z0-9]{10}",
-    "mob.detection.filter.basic": "(?:\\[Lv(?\u003clevel\u003e\\d+)\\] )?(?\u003cmobType\u003e[^\\s✯]+ )?(?\u003ccorrupted\u003e.Corrupted )?(?\u003cname\u003e[^ᛤ]*)(?: ᛤ)? [\\dBMk.,❤]+",
-    "mob.detection.filter.boss": "^. (?:\\[Lv(?\u003clevel\u003e\\d+)\\] )?(?\u003cmobType\u003e[^\\s✯]+ )?(?\u003cname\u003e[^ᛤ\n]*?)(?: ᛤ)?(?: [\\d\\/BMk.,❤]+| █+)? .$",
+    "mob.detection.filter.basic": "(?:\\[Lv(?\u003clevel\u003e\\d+)\\] )?(?\u003cmobType\u003e[^\\w\\s✯\\-]+ )?(?\u003ccorrupted\u003e.Corrupted )?(?\u003cname\u003e[^ᛤ]*)(?: ᛤ)? [\\dBMk.,❤]+",
+    "mob.detection.filter.boss": "^. (?:\\[Lv(?\u003clevel\u003e\\d+)\\] )?(?\u003cmobType\u003e[^\\w\\s✯\\-]+ )?(?\u003cname\u003e[^ᛤ\n]*?)(?: ᛤ)?(?: [\\d\\/BMk.,❤]+| █+)? .$",
     "mob.detection.filter.dojo": "^(?:(?\u003cpoints\u003e\\d+) pts|(?\u003cempty\u003e\\w+))$",
-    "mob.detection.filter.dungeon": "^(?:\\[Lv(?\u003clevel\u003e\\d+)\\] )?(?\u003cmobType\u003e[^\\s✯]+ )?(?:(?\u003cstar\u003e✯)\\s)?(?:(?\u003cattribute\u003eFlaming|Stormy|Speedy|Fortified|Healthy|Healing|Boomer|Golden|Stealth)\\s)?(?:\\[[\\w\\d]+\\]\\s)?(?\u003cname\u003e[^ᛤ]+)(?: ᛤ)?\\s[^\\s]+$",
-    "mob.detection.filter.slayer": "^(?\u003cmobType\u003e[^\\s✯]+ )?. (?\u003cname\u003e.*)(?: (?\u003ctier\u003e[IV]+)|(?\u003c\u003dAtoned Horror|Conjoined Brood)) \\d+.*",
+    "mob.detection.filter.dungeon": "^(?:\\[Lv(?\u003clevel\u003e\\d+)\\] )?(?\u003cmobType\u003e[^\\w\\s✯\\-]+ )?(?:(?\u003cstar\u003e✯)\\s)?(?:(?\u003cattribute\u003eFlaming|Stormy|Speedy|Fortified|Healthy|Healing|Boomer|Golden|Stealth)\\s)?(?:\\[[\\w\\d]+\\]\\s)?(?\u003cname\u003e[^ᛤ]+)(?: ᛤ)?\\s[^\\s]+$",
+    "mob.detection.filter.slayer": "^(?\u003cmobType\u003e[^\\w\\s✯\\-]+ )?. (?\u003cname\u003e.*)(?: (?\u003ctier\u003e[IV]+)|(?\u003c\u003dAtoned Horror|Conjoined Brood)) \\d+.*",
     "mob.detection.filter.summon": "^(?\u003cowner\u003e\\w+)\u0027s (?\u003cname\u003e.*) \\d+.*",
     "mob.detection.jerry": "(?:\\[\\w+(?\u003clevel\u003e\\d+)\\] )?(?:(?:a(?\u003da ))?(?\u003cowner\u003e\\w+)\u0027s (?\u003cname\u003e\\w+ Jerrya?)) \\d+ Hits",
     "mob.detection.pattern.dungeon.woke.golem": "(?:§c§lWoke|§5§lSleeping) Golem§r",
