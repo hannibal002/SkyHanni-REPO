@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6944533",
+  "sourceLabel": "06adc8f",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1376,7 +1376,7 @@
     "rift.area.dreadfarm.buttons.hit": "§eYou have hit §r§b\\d+/56 §r§eof the wooden buttons!",
     "rift.area.mountaintop.sun-gecko.actionbar": "(?\u003cfirstHalf\u003e§[ac]\\[.*) §e§lx(?\u003ccombo\u003e\\d+) (?\u003csecondHalf\u003e§[ac].*)]",
     "rift.area.mountaintop.sun-gecko.chatline": "§6§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
-    "rift.area.mountaintop.sun-gecko.modifiers": "§f {27}§r§c§lACTIVE MODIFIERS!",
+    "rift.area.mountaintop.sun-gecko.modifiers": "(?:§.)* {27}§r§c§lACTIVE MODIFIERS!",
     "rift.area.stillgore.effegies.break": "§eBreak it!",
     "rift.area.stillgore.effegies.heart": "Effigies: (?\u003chearts\u003e(?:(?:§[7c])?⧯)*)",
     "rift.area.stillgore.effegies.respawn": "§eRespawn §c(?\u003ctime\u003e.*) §7\\(or click!\\)",
