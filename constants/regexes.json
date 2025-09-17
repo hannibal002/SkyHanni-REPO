@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "06adc8f",
+  "sourceLabel": "d563459",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1443,6 +1443,7 @@
     "slayer.blaze.dagger.attunement": "§cStrike using the §r.+ §r§cattunement on your dagger!",
     "slayer.blaze.firepillar.entityname": "§6§l(?\u003cseconds\u003e.*)s §c§l8 hits",
     "slayer.bosswarning.progress": " \\(?(?\u003cprogress\u003e[0-9.,k]+)/(?\u003ctotal\u003e[0-9.,k]+)\\)?.*",
+    "slayer.cocooned": "\\s+§r§c§lYOU COCOONED YOUR SLAYER BOSS",
     "slayer.notspawnable": "§c(?:Only inside The Rift!|Doesn\u0027t exist here!)",
     "slayer.rngmeter.book.format": "§aEnchanted Book \\((?\u003cname\u003e.*)§a\\)",
     "slayer.rngmeter.changeditem": "§aYou set your §r.* RNG Meter §r§ato drop §r.*§a!",
