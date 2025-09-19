@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "586c418",
+  "sourceLabel": "248e1e9",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -800,7 +800,7 @@
     "garden.nextcontest.day": "§aDay (?\u003cday\u003e.*)",
     "garden.nextcontest.month": "(?\u003cmonth\u003e(?:\\w+ )?(?:Summer|Spring|Winter|Autumn)), Year (?\u003cyear\u003e\\d+)",
     "garden.nextcontest.time-left": "(?:§.)+Jacob\u0027s Contest: (?:§.)+(?\u003ctimeleft\u003e\\d+[smh]+) left",
-    "garden.pests.cooldown": "\\sCooldown: §r§.(?:§.)?(?\u003ctime\u003e\\d{1,2}[ms](?: \\d{1,2}s?)?)?(?\u003cready\u003eREADY)?(?\u003cmaxPests\u003eMAX PESTS)?.*",
+    "garden.pests.cooldowntime": "\\sCooldown: §r§.(?:§.)?(?\u003ctime\u003e\\d{1,2}[ms](?: \\d{1,2}s?)?)?(?\u003cready\u003eREADY)?(?\u003cmaxPests\u003eMAX PESTS)?.*",
     "garden.pests.pesthunter.garden.pests.pesthunter.cost": "§2(?\u003cpests\u003e[\\d,]+) Pests",
     "garden.pests.spawn.multiple": "§6§l.*! §2(?\u003camount\u003e\\d) §2ൠ Pests? §7have spawned in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
     "garden.pests.spawn.offline": "§6§l.*! §7While you were offline, §2ൠ §2Pests? §7spawned in §aPlots (?\u003cplots\u003e.*)!",
@@ -823,7 +823,7 @@
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
     "garden.plot.spray.cleared.portablewasher": "§9§lSPLASH! §r§6Your §r§[ba]Garden §r§6was cleared of all active §r§aSprayonator §r§6effects!",
     "garden.plot.spray.target": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§7with §r§a(?\u003cspray\u003e.*)§r§7!",
-    "garden.plot.tablist.spray": "Spray: §r§[7a](?\u003cspray\u003e[\\w\\s]+)(?:§r§7\\((?\u003ctime\u003e.*)\\))?",
+    "garden.plot.tablist.spraytime": "Spray: §r§[7a](?\u003cspray\u003e[\\w\\s]+)(?:§r§7\\((?\u003ctime\u003e.*)\\))?",
     "garden.plot.uncleaned": "§7Cleanup: .* (?:§.)*Completed",
     "garden.spray.material": "§a§lSPRAYONATOR! §r§7Your selected material is now §r§a(?\u003cspray\u003e.*)§r§7!",
     "garden.tooltip.farmingfortune": "§7Farming Fortune: §a",
