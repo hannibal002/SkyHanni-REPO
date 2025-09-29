@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9091db1",
+  "sourceLabel": "e538942",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -218,7 +218,7 @@
     "data.hypixeldata.playeramount.guesting": "^\\s*(?:§.)*Guests (?:§.)*\\((?\u003camount\u003e\\d+)\\)\\s*$",
     "data.hypixeldata.playeramount.onisland": "^§.\\[[§\\w]{6,11}] §r.*",
     "data.hypixeldata.scoreboard.title": "SK[YI]BLOCK(?: CO-OP| GUEST)?",
-    "data.hypixeldata.scoreboard.visiting.amount": "\\s+§.✌ §.\\(§.(?\u003ccurrentamount\u003e\\d+)(?:§.)?/(?\u003cmaxamount\u003e\\d+)(?:§.)?\\)",
+    "data.hypixeldata.scoreboard.visiting.amount": "\\s+§.✌ §.\\(§.(?\u003ccurrentamount\u003e\\d+)§./(?\u003cmaxamount\u003e\\d+)\\)",
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.servername.connection": "(?\u003cprefix\u003e.+\\.)?hypixel\\.net",
     "data.hypixeldata.servername.scoreboard": "§e(?\u003cprefix\u003e.+\\.)?hypixel\\.net",
