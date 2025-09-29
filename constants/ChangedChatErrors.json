@@ -219,6 +219,12 @@
         "Estimated Item value failed to properly show"
       ],
       "fixed_in": "4.17.0"
+    },
+    {
+      "message_starts_with": [
+        "Coroutine timed out"
+      ],
+      "fixed_in": "4.21.0"
     }
   ]
 }
