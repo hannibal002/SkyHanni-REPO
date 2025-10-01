@@ -181,9 +181,7 @@
       "guide": [
         "This unlocks at 2.5k Raw Porkchop Collection",
         "and requires 40 Enchanted Pork to make.",
-        "You can use Minions for this and/or pair",
-        "it with the Exterminator Grind if you do",
-        "that in Barn."
+        "You can use Minions for this."
       ]
     },
     "Spider Queen": {
@@ -227,8 +225,6 @@
         "1m coins in the bank"
       ],
       "guide": [
-        "You will most likely get this from leveling up",
-        "skills for the Skill Average goal.",
         "Remember to actually put the money",
         "you get in the Bank :)"
       ]
@@ -296,7 +292,7 @@
       ]
     },
     "Sugar Cane Collector": {
-      "difficulty": "Medium",
+      "difficulty": "Hard",
       "note": [
         "300k Sugar Cane Collector"
       ],
