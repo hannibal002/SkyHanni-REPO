@@ -296,13 +296,14 @@
     "Sugar Cane Collector": {
       "difficulty": "Hard",
       "note": [
-        "300k Sugar Cane Collector"
+        "300k Sugar Cane Collection"
       ],
       "guide": [
         "For this you should utilize the Garden.",
         "Sugar Cane will unlock at Garden Level 5.",
-        "Use the Gardening Hoe",
-        "and its upgrade for this.",
+        "Use the Basic or Advanced Gardening Hoe,",
+        "enchant it with Harvesting 5,",
+        "and get a Common Chicken Pet.",
         "You can also utilize pests to help with it."
       ]
     }
