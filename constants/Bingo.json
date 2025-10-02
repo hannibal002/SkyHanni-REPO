@@ -199,7 +199,7 @@
     "Ferocious": {
       "difficulty": "Easy",
       "note": [
-        "get 3 Ferocity"
+        "3 Ferocity"
       ],
       "guide": [
         "Buy a Dirt Bottle (100k) from",
@@ -225,6 +225,8 @@
         "1m coins in the bank"
       ],
       "guide": [
+        "You'll most likely get this from",
+        "leveling up skills during this Bingo.",
         "Remember to actually put the money",
         "you get in the Bank :)"
       ]
@@ -236,8 +238,8 @@
       ],
       "guide": [
         "For this you can either do:",
-        " - 1 t1, t2 and t3 or",
-        " - 1 t1 and 9 t2",
+        " - 1 t1, t2 and 2 t3 or",
+        " - 1 t1 and 8 t2",
         "and claim the rewards by talking to Maddox."
       ]
     },
@@ -300,7 +302,8 @@
         "For this you should utilize the Garden.",
         "Sugar Cane will unlock at Garden Level 5.",
         "Use the Gardening Hoe",
-        "and its upgrade for this."
+        "and its upgrade for this.",
+        "You can also utilize pests to help with it."
       ]
     }
   }
