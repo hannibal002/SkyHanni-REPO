@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7984bda",
+  "sourceLabel": "e30d27f",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -769,6 +769,7 @@
     "garden.fortunedisplay.armorabilityfortune": "§7.*§7Grants §6(?\u003cbonus\u003e.*)☘.*",
     "garden.fortunedisplay.collection": "§7You have §6\\+(?\u003cff\u003e\\d{1,3})☘ .*",
     "garden.fortunedisplay.lotusability": "§7Piece Bonus: §6+(?\u003cbonus\u003e.*)☘",
+    "garden.fortunedisplay.pestfortunebuff": " Bonus: §r§.(?\u003cinactive\u003e§lINACTIVE)?(?:\\+(?\u003cfortune\u003e\\d+)☘ §r§b(?\u003ctime\u003e.*))?.*",
     "garden.fortunedisplay.tablist.cropspecific": " (?\u003ccrop\u003eWheat|Carrot|Potato|Pumpkin|Sugar Cane|Melon Slice|Cactus|Cocoa Beans|Mushroom|Nether Wart) Fortune: §r§6☘(?\u003cfortune\u003e\\d+)",
     "garden.fortunedisplay.tablist.universal": " Farming Fortune: §r§6☘(?\u003cfortune\u003e\\d+)",
     "garden.fortunedisplay.tooltip.new": "^§7Farming Fortune: §a\\+(?\u003cdisplay\u003e[\\d.]+)(?: §2\\(\\+\\d\\))?(?: §9\\(\\+(?\u003creforge\u003e\\d+)\\))?(?: §d\\(\\+(?\u003cgemstone\u003e\\d+)\\))?$",
