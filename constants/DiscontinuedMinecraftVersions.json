@@ -1,4 +1,9 @@
 {
   "versions": {
+    "1.21.7": {
+      "extra_info": [
+        "Most, if not all, of your mods should work on 1.21.8"
+      ]
+    }
   }
 }
