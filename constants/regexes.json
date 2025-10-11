@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9a077e1",
+  "sourceLabel": "ca48a36",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1672,6 +1672,8 @@
     "tab.widget.enum.pet": "\\s*(?:(?:§.)*Pet:)",
     "tab.widget.enum.pet.sitter": "\\s*(?:Kat: .*)",
     "tab.widget.enum.pet.training": "\\s*(?:(?:§.)*Pet Training:)",
+    "tab.widget.enum.pickaxe.cooldown": "\\s*(?:§9§lPickaxe Ability:)",
+    "tab.widget.enum.pity": "\\s*(?:§d§lPity:)",
     "tab.widget.enum.player.list": "\\s*(?:(?:§.)*Players (?:§.)*\\(\\d+\\))",
     "tab.widget.enum.powder": "\\s*(?:(?:§.)*Powders:)",
     "tab.widget.enum.private.island.crystals": "\\s*(?:Crystals: (?:§.)*(?\u003ccount\u003e\\d+))",
