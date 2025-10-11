@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "ca48a36",
+  "sourceLabel": "db9ed24",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -37,6 +37,7 @@
     "bingo.compactchat.health": " {3}§r§7§8\\+§a.* §c❤ Health",
     "bingo.compactchat.strength": " {3}§r§7§8\\+§a. §c❁ Strength",
     "bingo.detection.scoreboard": " §.Ⓑ §.Bingo",
+    "bingo.detection.scoreboardtitle": "SKYBLOCK Ⓑ",
     "bingo.minion.name": "(?\u003cname\u003e.*) Minion (?\u003cnumber\u003e.*)",
     "bingo.steps.collection": "Reach (?\u003camount\u003e[0-9]+(?:,\\d+)*) (?\u003cname\u003e.*) Collection\\.",
     "bingo.steps.crystal.found": " *§r§5§l✦ CRYSTAL FOUND §r§7\\(.§r§7/5§r§7\\)",
