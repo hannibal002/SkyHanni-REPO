@@ -219,5 +219,16 @@
     "END_STONE_PROTECTOR": "ENDSTONE_PROTECTOR",
     "LOCH_EMPEROR": "SEA_EMPEROR",
     "BOGGED": "SEA_ARCHER"
-  }
+  },
+  "hunting_blackholes": [
+    "SMALL_POCKET_BLACK_HOLE",
+    "MEDIUM_POCKET_BLACK_HOLE"
+  ],
+  "hunting_axes": [
+    "VENATOR_GENESIS",
+    "SILVA_DOMINUS",
+    "CURSUS_FERAE",
+    "APEX_PRAEDATOR",
+    "NEX_TITANIUM"
+  ]
 }
