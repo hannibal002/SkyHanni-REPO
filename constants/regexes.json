@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "dc9e290",
+  "sourceLabel": "b9af44c",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -977,6 +977,7 @@
     "mayorapi.mayor.head": "§.Mayor (?\u003cname\u003e.*)",
     "mayorapi.perkpocalypse": "§9Perkpocalypse Perks:",
     "mineshaft.corpse.coords": "x: (?\u003cx\u003e-?\\d+), y: (?\u003cy\u003e-?\\d+), z: (?\u003cz\u003e-?\\d+)(?:.+)?",
+    "mineshaft.pity.tablist": " Glacite Mineshafts: (?\u003cpity\u003e[\\d,]+)/2,000",
     "mining.commission.inventory": "Commissions",
     "mining.commissions.complete": "§a§l(?\u003cname\u003e.*) §r§eCommission Complete! Visit the King §r§eto claim your rewards!",
     "mining.commisson.collector": "§9(?\u003cwhat\u003e\\w+(?: \\w+)?) Collector",
