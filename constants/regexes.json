@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6617415",
+  "sourceLabel": "dc9e290",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -805,6 +805,7 @@
     "garden.pests.spawn.multiple": "§6§l.*! §2(?\u003camount\u003e\\d) §2ൠ Pests? §7have spawned in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
     "garden.pests.spawn.offline": "§6§l.*! §7While you were offline, §2ൠ §2Pests? §7spawned in §aPlots (?\u003cplots\u003e.*)!",
     "garden.pests.spawn.one": "§6§l.*! §7A §2ൠ Pest §7has appeared in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
+    "garden.pests.spawn.teleport": "\\s*§r§e§lCLICK HERE §eto teleport to the plot!",
     "garden.pests.tracker.raredrop": "§6§l(?:RARE|PET) DROP! (?:§r)?(?\u003citem\u003e.+) §6\\(§6\\+.*☘\\)",
     "garden.pests.tracker.sprayonator": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- .* §r§7with §r§.(?\u003cspray\u003e.*)§r§7!",
     "garden.pestsapi.chat.nopests": "§cThere are not any Pests on your Garden right now! Keep farming!",
