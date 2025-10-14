@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "ba9ff83",
+  "sourceLabel": "6617415",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -771,7 +771,7 @@
     "garden.fortunedisplay.pestfortunebuff": " Bonus: §r§.(?\u003cinactive\u003e§lINACTIVE)?(?:\\+(?\u003cfortune\u003e\\d+)☘ §r§b(?\u003ctime\u003e.*))?.*",
     "garden.fortunedisplay.tablist.cropspecific": " (?\u003ccrop\u003eWheat|Carrot|Potato|Pumpkin|Sugar Cane|Melon Slice|Cactus|Cocoa Beans|Mushroom|Nether Wart) Fortune: §r§6☘(?\u003cfortune\u003e\\d+)",
     "garden.fortunedisplay.tablist.universal": " Farming Fortune: §r§6☘(?\u003cfortune\u003e\\d+)",
-    "garden.fortunedisplay.tooltip.new": "^§7Farming Fortune: §a\\+(?\u003cdisplay\u003e[\\d.]+)(?: §2\\(\\+\\d\\))?(?: §9\\(\\+(?\u003creforge\u003e\\d+)\\))?(?: §d\\(\\+(?\u003cgemstone\u003e\\d+)\\))?$",
+    "garden.fortunedisplay.tooltip.new": "^§7Farming Fortune: §6\\+(?\u003cdisplay\u003e[\\d.]+)(?: §2\\(\\+\\d\\))?(?: §9\\(\\+(?\u003creforge\u003e\\d+)\\))?(?: §d\\(\\+(?\u003cgemstone\u003e\\d+)\\))?$",
     "garden.fortuneguide.capture.anitabuff": "You tiered up the Extra Farming Drops upgrade to [+](?\u003clevel\u003e.*)%!",
     "garden.fortuneguide.capture.anitamenu": "§7You have: §6\\+(?\u003clevel\u003e.*)☘ Farming Fortune",
     "garden.fortuneguide.capture.bestiary": ".*§6+(?\u003cfortune\u003e.*)☘ Farming Fortune.*",
@@ -826,7 +826,7 @@
     "garden.plot.tablist.spraytime": "Spray: §r§[7a](?\u003cspray\u003e[\\w\\s]+)(?:§r§7\\((?\u003ctime\u003e.*)\\))?",
     "garden.plot.uncleaned": "§7Cleanup: .* (?:§.)*Completed",
     "garden.spray.material": "§a§lSPRAYONATOR! §r§7Your selected material is now §r§a(?\u003cspray\u003e.*)§r§7!",
-    "garden.tooltip.farmingfortune": "§7Farming Fortune: §a",
+    "garden.tooltip.farmingfortune": "§7Farming Fortune: §6",
     "garden.vinyl.select": "§aYou are now playing §r§e(?\u003ctype\u003e.*)§r§a!",
     "garden.vinyl.unselect": "§aYou are no longer playing §r§e.*§r§a!",
     "garden.visitor.api.visitor.count": "§b§lVisitors: §r§f\\((?\u003cinfo\u003e.*)\\)",
