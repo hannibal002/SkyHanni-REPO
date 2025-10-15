@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "b9af44c",
+  "sourceLabel": "3444502",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -212,7 +212,6 @@
     "data.garden.milestonefix.amount": ".*§e(?\u003chaving\u003e.*)§6/§e(?\u003cmax\u003e.*)",
     "data.hiddenmembers.inventory.historic": "Historic Members",
     "data.hypixeldata.guesting.scoreboard": "SKYBLOCK GUEST",
-    "data.hypixeldata.islandname": "(?:§.)*(?:Area|Dungeon): (?:§.)*(?\u003cisland\u003e.*)",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
     "data.hypixeldata.playeramount": "^\\s*(?:§.)+Players (?:§.)+\\((?\u003camount\u003e\\d+)\\)\\s*$",
     "data.hypixeldata.playeramount.dungeonparty": "^\\s*(?:§.)+Party (?:§.)+\\((?\u003camount\u003e\\d+)\\)\\s*$",
@@ -1680,7 +1679,7 @@
     "tab.widget.enum.player.list": "\\s*(?:(?:§.)*Players (?:§.)*\\(\\d+\\))",
     "tab.widget.enum.powder": "\\s*(?:(?:§.)*Powders:)",
     "tab.widget.enum.private.island.crystals": "\\s*(?:Crystals: (?:§.)*(?\u003ccount\u003e\\d+))",
-    "tab.widget.enum.profile": "\\s*(?:(?:§.)+Profile: §r§a(?\u003cprofile\u003e[\\w\\s]+[^ §]).*)",
+    "tab.widget.enum.profile": "\\s*(?:(?:§.)+Profile: §r§.(?\u003cprofile\u003e[\\w\\s]+[^ §]).*)",
     "tab.widget.enum.protector": "\\s*(?:Protector: (?:§.)*(?\u003ctime\u003e.*))",
     "tab.widget.enum.rain": "\\s*(?:(?\u003ctype\u003eThunder|Rain): (?:§.)*(?\u003ctime\u003e.*))",
     "tab.widget.enum.reputation": "\\s*(?:(?:§.)*(?\u003cfaction\u003eBarbarian|Mage) Reputation:)",
