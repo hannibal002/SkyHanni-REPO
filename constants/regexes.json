@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "3444502",
+  "sourceLabel": "e977723",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -119,7 +119,7 @@
     "combat.end-dragon-fight.chat.death": "§r§f {27}§r§6§l(?\u003ctype\u003e.*) DOWN!§r",
     "combat.end-dragon-fight.chat.spawn": "§5☬ §r§d§lThe §r§5§c§l(?\u003ctype\u003e.*)§r§d§l has spawned!§r",
     "combat.end-dragon-fight.scoreboard.hp": "Dragon HP: (?\u003chp\u003e.*) ❤",
-    "combat.end-dragon-fight.scoreboard.your-damage": "Your Damage: (?\u003cdamage\u003e.*)",
+    "combat.end-dragon-fight.scoreboard.your-damage": "Your Damage: (?\u003cdamage\u003e[\\d.,]+)",
     "combat.endernodetracker.chat.multi": "§5§lENDER NODE! §r§fYou found §r§8(?\u003camount\u003e\\d+)x §r(?\u003cname\u003e.*)§r§f!",
     "combat.endernodetracker.chat.one": "§5§lENDER NODE! §r§fYou found §r(?:§8§r)?(?\u003cname\u003e.*)§r§f!",
     "combat.ghosttracker.bagofcash": "§eThe ghost\u0027s death materialized §r§61,000,000 coins §r§efrom the mists!",
