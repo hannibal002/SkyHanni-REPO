@@ -104,6 +104,12 @@
     },
     "ASPECT_OF_THE_DRAGON": {
       "weight": 450
+    },
+    "ATTRIBUTE_SHARD_DRAGON_ESSENCE;1": {
+      "weight": -1
+    },
+    "DYE_PEARLESCENT": {
+      "weight": -1
     }
   }
 }

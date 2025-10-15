@@ -114,16 +114,16 @@
       "goodLevel": 0,
       "maxLevel": 3
     },
-    "dragon hunter": {
-      "loreName": "Dragon Hunter",
-      "nbtName": "dragon_hunter",
-      "goodLevel": 0,
-      "maxLevel": 5
-    },
     "dragon tracer": {
       "loreName": "Dragon Tracer",
       "nbtName": "aiming",
       "goodLevel": 5,
+      "maxLevel": 5
+    },
+    "drain": {
+      "loreName": "Drain",
+      "nbtName": "syphon",
+      "goodLevel": 3,
       "maxLevel": 5
     },
     "efficiency": {
@@ -190,7 +190,7 @@
       "loreName": "Frail",
       "nbtName": "frail",
       "goodLevel": 5,
-      "maxLevel": 6
+      "maxLevel": 7
     },
     "frost walker": {
       "loreName": "Frost Walker",
@@ -204,11 +204,23 @@
       "goodLevel": 0,
       "maxLevel": 10
     },
+    "forest pledge": {
+      "loreName": "Forest Pledge",
+      "nbtName": "forest_pledge",
+      "goodLevel": 2,
+      "maxLevel": 5
+    },
     "giant killer": {
       "loreName": "Giant Killer",
       "nbtName": "giant_killer",
       "goodLevel": 5,
       "maxLevel": 7
+    },
+    "gravity": {
+      "loreName": "Gravity",
+      "nbtName": "dragon_hunter",
+      "goodLevel": 5,
+      "maxLevel": 6
     },
     "great spook": {
       "loreName": "Great Spook",
@@ -249,8 +261,8 @@
     "impaling": {
       "loreName": "Impaling",
       "nbtName": "impaling",
-      "goodLevel": 3,
-      "maxLevel": 3
+      "goodLevel": 5,
+      "maxLevel": 5
     },
     "infinite quiver": {
       "loreName": "Infinite Quiver",
@@ -436,7 +448,7 @@
       "loreName": "Respiration",
       "nbtName": "respiration",
       "goodLevel": 3,
-      "maxLevel": 3
+      "maxLevel": 4
     },
     "respite": {
       "loreName": "Respite",
@@ -449,6 +461,12 @@
       "nbtName": "scavenger",
       "goodLevel": 3,
       "maxLevel": 6
+    },
+    "scuba": {
+      "loreName": "Scuba",
+      "nbtName": "scuba",
+      "goodLevel": 0,
+      "maxLevel": 5
     },
     "sharpness": {
       "loreName": "Sharpness",
@@ -510,17 +528,17 @@
       "goodLevel": 0,
       "maxLevel": 6
     },
-    "syphon": {
-      "loreName": "Syphon",
-      "nbtName": "syphon",
-      "goodLevel": 3,
-      "maxLevel": 5
-    },
     "smoldering": {
       "loreName": "Smoldering",
       "nbtName": "smoldering",
       "goodLevel": 0,
       "maxLevel": 5
+    },
+    "stealth": {
+      "loreName": "Stealth",
+      "nbtName": "stealth",
+      "goodLevel": 0,
+      "maxLevel": 1
     },
     "strong mana": {
       "loreName": "Strong Mana",
@@ -692,6 +710,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "first impression": {
+      "loreName": "First Impression",
+      "nbtName": "ultimate_first_impression",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "flash": {
       "loreName": "Flash",
       "nbtName": "ultimate_flash",
@@ -737,6 +761,12 @@
     "legion": {
       "loreName": "Legion",
       "nbtName": "ultimate_legion",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "missile": {
+      "loreName": "Missile",
+      "nbtName": "ultimate_missile",
       "goodLevel": 0,
       "maxLevel": 5
     },
@@ -796,6 +826,15 @@
     }
   },
   "STACKING": {
+    "absorb": {
+      "loreName": "Absorb",
+      "nbtName": "absorb",
+      "nbtNum": "absorb_logs_chopped",
+      "goodLevel": 0,
+      "maxLevel": 10,
+      "statLabel": "absorbLogsChopped",
+      "stackLevel": [0, 1000, 5000, 25000, 100000, 300000, 1500000, 5000000, 20000000, 100000000]
+    },
     "compact": {
       "loreName": "Compact",
       "nbtName": "compact",
@@ -849,6 +888,12 @@
       "maxLevel": 10,
       "statLabel": "toxophileCombatXp",
       "stackLevel": [0, 50000, 100000, 250000, 500000, 1000000, 1500000, 2000000, 2500000, 3000000]
+    },
+    "woodsplitter": {
+      "loreName": "Woodsplitter",
+      "nbtName": "arcane",
+      "goodLevel": 5,
+      "maxLevel": 6
     }
   }
 }

@@ -90,7 +90,7 @@
         "rare": true
       },
       "The Sea Emperor": {
-        "chat_message": "§aThe Sea Emperor arises from the depths.",
+        "chat_message": "§aThe Loch Emperor arises from the depths.",
         "fishing_experience": 3375,
         "rarity": "LEGENDARY",
         "rare": true
@@ -112,6 +112,9 @@
       },
       "Grinch": {
         "chat_message": "§aThe Grinch stole Jerry's §r§aGifts...get§r§a them back!",
+        "alternate_messages": [
+          "§aThe Grinch stole Jerry's §rGifts...get§r them back!"
+        ],
         "fishing_experience": 405,
         "rarity": "UNCOMMON"
       },
@@ -377,7 +380,7 @@
         "rarity": "EPIC"
       },
       "Titanoboa": {
-        "chat_message": "§a§r§c§lA massive Titanoboa surfaces. It's body stretches as far as the eye can see.",
+        "chat_message": "§a§r§c§lA massive Titanoboa surfaces. Its body stretches as far as the eye can see.",
         "fishing_experience": 4500,
         "rarity": "MYTHIC",
         "rare": true
@@ -435,6 +438,36 @@
         "chat_message": "§aIs it a frog? Is it a man? Well, yes, sorta, IT'S FROG MAN!!!!!!",
         "fishing_experience": 200,
         "rarity": "COMMON"
+      }
+    }
+  },
+  "GALETEA": {
+    "chat_color": "§2",
+    "sea_creatures": {
+      "Wetwing": {
+        "chat_message": "§aLook! A Wetwing emerges!",
+        "fishing_experience": 0,
+        "rarity": "UNCOMMON"
+      },
+      "Ent": {
+        "chat_message": "§aYou've hooked an Ent, as ancient as the forest itself.",
+        "fishing_experience": 0,
+        "rarity": "EPIC"
+      },
+      "Tadgang": {
+        "chat_message": "§aA gang of Liltads!",
+        "fishing_experience": 0,
+        "rarity": "RARE"
+      },
+      "Bogged": {
+        "chat_message": "§aYou've hooked a Bogged!",
+        "fishing_experience": 225,
+        "rarity": "COMMON"
+      },
+      "Stridersurfer": {
+        "chat_message": "§aYou caught a Stridersurfer.",
+        "fishing_experience": 0,
+        "rarity": "RARE"
       }
     }
   }

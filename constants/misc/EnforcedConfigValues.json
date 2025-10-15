@@ -1,0 +1,81 @@
+{
+  "enforced_config_values": [
+    {
+      "chatPSA": [
+        "§cYou have downloaded the very first Skyhanni 1.21 version, it has §lmany many bugs§r§c and you should update right now! https://modrinth.com/mod/skyhanni "
+      ],
+      "notificationPSA": [
+        "§cYou have downloaded the very first Skyhanni 1.21 version!",
+        "§cIt has §lmany many bugs§r§c and you should update right now!",
+        "§chttps://modrinth.com/mod/skyhanni"
+      ],
+      "enforcedValues": [
+        {
+          "path": "gui.customScoreboard.background.useCustomBackgroundImage",
+          "value": false
+        }
+      ],
+      "affectedVersion": "3.10.0",
+      "affectedMinecraftVersions": [
+        "1.21.5"
+      ]
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "inventory.experimentationTable.addons.preventMisclicks",
+          "value": false
+        }
+      ],
+      "affectedVersion": "4.0.0",
+      "affectedMinecraftVersions": [
+        "1.8.9",
+        "1.21.5"
+      ]
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "inventory.experimentationTable.superpairs.clickedItemsVisible.enabled",
+          "value": false
+        }
+      ],
+      "affectedVersion": "5.0.0",
+      "affectedMinecraftVersions": [
+        "1.8.9"
+      ]
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "rift.area.mountaintop.ubikReminder",
+          "value": false
+        }
+      ],
+      "affectedVersion": "4.9.0",
+      "affectedMinecraftVersions": [
+        "1.8.9",
+        "1.21.5",
+        "1.21.7",
+        "1.21.8"
+      ],
+      "extraMessage": "Will be re-enabled next beta"
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "garden.pests.pestWaypoint.enabled",
+          "value": false
+        }
+      ],
+      "affectedVersion": "4.16.0",
+      "affectedMinecraftVersions": [
+        "1.8.9",
+        "1.21.5",
+        "1.21.7",
+        "1.21.8"
+      ],
+      "extraMessage": "Will be re-enabled on version 4.17.0 and later"
+    }
+  ]
+}

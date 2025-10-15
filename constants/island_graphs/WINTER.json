@@ -161,7 +161,7 @@
   },
   "19": {
     "Position": "52.0:82.0:95.0",
-    "Name": "Clacial Cave",
+    "Name": "Glacial Cave",
     "Tags": [
       "area"
     ],
@@ -977,7 +977,7 @@
   },
   "121": {
     "Position": "68.0:106.0:34.0",
-    "Name": "Guliver",
+    "Name": "Gulliver",
     "Tags": [
       "npc"
     ],
@@ -1096,7 +1096,7 @@
   },
   "135": {
     "Position": "65.0:87.0:15.0",
-    "Name": "Clacial Cave",
+    "Name": "Glacial Cave",
     "Tags": [
       "area"
     ],
@@ -1662,7 +1662,7 @@
   },
   "207": {
     "Position": "35.0:77.0:55.0",
-    "Name": "Clacial Cave",
+    "Name": "Glacial Cave",
     "Tags": [
       "area"
     ],
@@ -1722,7 +1722,7 @@
   },
   "214": {
     "Position": "48.0:82.0:24.0",
-    "Name": "Clacial Cave",
+    "Name": "Glacial Cave",
     "Tags": [
       "area"
     ],
