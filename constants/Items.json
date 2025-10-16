@@ -111,7 +111,49 @@
       "hardened_mana",
       "mana_vampire",
       "strong_mana"
-    ]
+    ],
+    "endcap_enchants": {
+      "pesterminator": {
+        "required_level": 5,
+        "endcap_item": "PESTHUNTING_GUIDE"
+      },
+      "charm": {
+        "required_level": 5,
+        "endcap_item": "CHAIN_END_TIMES"
+      },
+      "ender_slayer": {
+        "required_level": 6,
+        "endcap_item": "ENDSTONE_IDOL"
+      },
+      "bane_of_arthropods": {
+        "required_level": 6,
+        "endcap_item": "ENSNARED_SNAIL"
+      },
+      "luck_of_the_sea": {
+        "required_level": 6,
+        "endcap_item": "GOLD_BOTTLE_CAP"
+      },
+      "scavenger": {
+        "required_level": 5,
+        "endcap_item": "GOLDEN_BOUNTY"
+      },
+      "spiked_hook": {
+        "required_level": 6,
+        "endcap_item": "OCTOPUS_TENDRIL"
+      },
+      "smite": {
+        "required_level": 6,
+        "endcap_item": "SEVERED_HAND"
+      },
+      "frail": {
+        "required_level": 6,
+        "endcap_item": "SEVERED_PINCER"
+      },
+      "piscary": {
+        "required_level": 6,
+        "endcap_item": "TROUBLED_BUBBLE"
+      }
+    }
   },
   "compact_names": {
     "Enchanted": "Ench",
@@ -160,5 +202,22 @@
     "Great White Shark Tooth": "GWS Tooth",
     "Bane of Arthropods": "Bane of Arthro",
     "Steaming-Hot Flounder": "Hot Flounder"
+  },
+  "renamed_enchantments": {
+    "Turbo-Cocoa": "Turbo-Coco",
+    "Turbo-Cacti": "Turbo-Cactus",
+    "Prismatic": "Pristine",
+    "Dragon Tracer": "Aiming",
+    "Drain": "Syphon",
+    "Gravity": "Dragon Hunter",
+    "Woodsplitter": "Arcane"
+  },
+  "shard_name_overrides": {
+    "STRIDERSURFER": "STRIDER_SURFER",
+    "ABYSSAL_LANTERNFISH": "ABYSSAL_LANTERN",
+    "CINDERBAT": "CINDER_BAT",
+    "END_STONE_PROTECTOR": "ENDSTONE_PROTECTOR",
+    "LOCH_EMPEROR": "SEA_EMPEROR",
+    "BOGGED": "SEA_ARCHER"
   }
 }

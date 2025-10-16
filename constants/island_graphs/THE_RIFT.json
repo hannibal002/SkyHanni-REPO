@@ -6682,7 +6682,7 @@
   },
   "784": {
     "Position": "-15.0:72.0:-102.0",
-    "Name": "Tranfigurd Seraphine",
+    "Name": "Transfigured Seraphine",
     "Tags": [
       "npc"
     ],
@@ -7441,7 +7441,7 @@
   },
   "883": {
     "Position": "-70.0:79.0:42.0",
-    "Name": "Parcour",
+    "Name": "Parkour",
     "Tags": [
       "poi"
     ],
@@ -8861,7 +8861,7 @@
   },
   "1058": {
     "Position": "-15.0:72.0:-174.0",
-    "Name": "The Baby Yaga",
+    "Name": "The Baba Yaga",
     "Tags": [
       "rift_eye"
     ],
@@ -10256,7 +10256,7 @@
   },
   "1229": {
     "Position": "253.0:124.0:86.0",
-    "Name": "Faiylosopher Cult",
+    "Name": "Fairylosopher Cult",
     "Tags": [
       "poi"
     ],
@@ -11229,7 +11229,7 @@
   },
   "1356": {
     "Position": "-187.0:68.0:59.0",
-    "Name": "Laloon Hut",
+    "Name": "Lagoon Hut",
     "Tags": [
       "small_area"
     ],
@@ -11463,7 +11463,7 @@
   },
   "1384": {
     "Position": "-136.0:51.0:121.0",
-    "Name": "Prssurized Soul",
+    "Name": "Pressurized Soul",
     "Tags": [
       "rift_enigma"
     ],
@@ -11851,7 +11851,7 @@
   },
   "1437": {
     "Position": "-169.0:81.0:12.0",
-    "Name": "Mushrom Guy Soul",
+    "Name": "Mushroom Guy Soul",
     "Tags": [
       "rift_enigma"
     ],
@@ -12381,7 +12381,7 @@
   },
   "1508": {
     "Position": "-38.0:45.0:130.0",
-    "Name": "Dolthin Parkour",
+    "Name": "Dolphin Parkour",
     "Tags": [
       "rift_enigma"
     ],
@@ -15453,7 +15453,7 @@
   },
   "1891": {
     "Position": "24.0:108.0:54.0",
-    "Name": "Spinning Questionmarks",
+    "Name": "Spinning question marks",
     "Tags": [
       "poi",
       "dev"
@@ -16022,7 +16022,7 @@
   },
   "1957": {
     "Position": "7.0:114.0:73.0",
-    "Name": "New Soul with Bloons",
+    "Name": "New Soul with Balloons",
     "Tags": [
       "rift_enigma",
       "dev"

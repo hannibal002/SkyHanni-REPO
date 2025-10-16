@@ -1,0 +1,8 @@
+{
+  "excludedIslands": [
+      "KUUDRA_ARENA"
+  ],
+  "excludedGraphAreas": [
+      "Tomb Floodway"
+  ]
+}

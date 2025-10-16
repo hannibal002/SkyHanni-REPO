@@ -87,7 +87,8 @@
     },
     {
       "message_starts_with": [
-        "Caught a IllegalStateException in BazaarCancelledBuyOrderClipboard at LorenzChatEvent: last clicked bz item is null"
+        "Caught a IllegalStateException in BazaarCancelledBuyOrderClipboard at LorenzChatEvent: last clicked bz item is null",
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.inventory.bazaar.BazaarCancelledBuyOrderClipboard.onChat(at.hannibal2.skyhanni.events.chat.SkyHanniChatEvent) at SkyHanniChatEvent: Cancel buy order clipboard could not detect the last bazaar product."
       ],
       "custom_message": "Cancelled Buy Order Clipboard doesn't work with Soopy's SBMENU setting. Please disable one of them. If you do not use this feature, please report it on the SkyHanni Discord!",
       "fixed_in": "9.9.9"
@@ -183,6 +184,47 @@
         "Could not read the skymall effect from chat"
       ],
       "fixed_in": "3.15.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a NoSuchElementException in at.hannibal2.skyhanni.features.mining.powdertracker"
+      ],
+      "fixed_in": "5.0.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IndexOutOfBoundsException in at.hannibal2.skyhanni.features.inventory.attribute.HuntingBoxValue"
+      ],
+      "custom_message": "Update your SkyHanni version to fix the hunting box menu, you can use /shupdate beta",
+      "fixed_in": "4.6.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IndexOutOfBoundsException in at.hannibal2.skyhanni.api.pet.PetStorageApi",
+        "Failed to calculate XP for pet level"
+      ],
+      "fixed_in": "4.7.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.garden.inventory.GardenInventoryTooltipOverflow.onToolTip(at.hannibal2.skyhanni.events.minecraft.ToolTipEvent) at ToolTipEvent: No valid crop type 'Melon Slice'",
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.garden.FarmingFortuneDisplay.onTabListUpdate(at.hannibal2.skyhanni.events.TabListUpdateEvent) at TabListUpdateEvent: No valid crop type 'Melon Slice'",
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.garden.contest.FarmingPersonalBestGain.onChat(at.hannibal2.skyhanni.events.chat.SkyHanniChatEvent) at SkyHanniChatEvent: No valid crop type 'Melon Slice'"
+      ],
+      "custom_message": "Update your SkyHanni version to fix errors related to melons being renamed, you can use /shupdate beta",
+      "fixed_in": "4.16.0"
+    },
+    {
+      "message_starts_with": [
+        "Estimated Item value failed to properly show"
+      ],
+      "fixed_in": "4.17.0"
+    },
+    {
+      "message_starts_with": [
+        "Coroutine timed out"
+      ],
+      "fixed_in": "4.21.0"
     }
   ]
 }

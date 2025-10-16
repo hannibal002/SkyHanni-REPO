@@ -47,8 +47,14 @@
     "EstrogenEnjoyer": {
       "suffix": "§d:3"
     },
+    "Fazfoxy": {
+      "suffix": "§d:3"
+    },
     "Fix3dll": {},
     "Frost19": {},
+    "fursiv": {
+      "suffix": "§d§l:3"
+    },
     "Gillsplash": {},
     "hannibal2": {
       "suffix": "§3§l:O"
@@ -93,11 +99,12 @@
       "suffix": "§z(:"
     },
     "owoLuna": {
-      "suffix": "§d:3"
+      "suffix": "§5:3"
     },
     "oxsss": {},
-    "PlasticEating": {
-      "suffix": "§d§l:3"
+    "qtLuna": {
+      "suffix": "§5:3",
+      "alt from": "owoLuna"
     },
     "ReyMaratov": {},
     "RobotHanzo": {

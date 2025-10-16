@@ -132,8 +132,8 @@
       "-360:85:-356",
       "-353:124:-250",
       "-293:36:-271",
-      "-181:61:-312",
-      "-217:75:-345",
+      "-165:70:-306",
+      "-209:74:-322",
       "-202:83:-238",
       "-299:97:-167",
       "-280:115:-181",
@@ -247,6 +247,14 @@
   "noPickblockSlots": [
     13,
     39
+  ],
+  "destructiveSlots": [
+    47,
+    48,
+    49,
+    50,
+    51,
+    53
   ],
   "barnIndex": 35,
   "infoIndex": 13,
@@ -391,6 +399,12 @@
       "Donkey",
       "Onion",
       "Bayou"
+    ],
+    "GALATEA": [
+      "Marshall",
+      "Figgy",
+      "Lumie",
+      "Grove"
     ]
   },
   "apiEggLocations": {
@@ -540,11 +554,11 @@
       "spiders_den_haymitch": "-202:83:-238",
       "spiders_den_sanctuary_egg": "-266:72:-191",
       "spiders_den_boulder": "-299:97:-167",
-      "spiders_den_mushroom": "-217:75:-345",
+      "spiders_den_mushroom": "-165:70:-306",
       "spiders_den_spiders": "-280:115:-181",
       "spiders_den_house": "-283:129:-185",
       "spiders_den_sanctuary_high": "-303:65:-182",
-      "spiders_den_fossil": "-181:61:-312",
+      "spiders_den_fossil": "-209:74:-322",
       "spiders_den_den": "-155:86:-351",
       "spiders_den_relic": "-293:36:-271",
       "spiders_den_fairy_soul": "-398:139:-250"
