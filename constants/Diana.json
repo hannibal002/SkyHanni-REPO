@@ -24,9 +24,6 @@
     "Minos Hunter": {
       "name": "§2Minos Hunter"
     },
-    "Minos Inquisitor": {
-      "name": "§cMinos Inquisitor"
-    },
     "Cretan Bull": {
       "name": "§2Cretan Bull"
     },
@@ -39,11 +36,17 @@
     "Sphinx": {
       "name": "§2Sphinx"
     },
-    "King Minos": {
-      "name": "§cKing Minos"
+    "Minos Inquisitor": {
+      "name": "§cMinos Inquisitor",
+      "rare": true
     },
-    "Manticode": {
-      "name": "§cManticore"
+    "King Minos": {
+      "name": "§cKing Minos",
+      "rare": true
+    },
+    "Manticore": {
+      "name": "§cManticore",
+      "rare": true
     }
   }
 }
