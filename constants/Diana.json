@@ -1,0 +1,49 @@
+{
+  "spade_types": [
+    "ANCESTRAL_SPADE",
+    "ARCHAIC_SPADE",
+    "DEIFIC_SPADE"
+  ],
+  "sphinx_questions": {
+    "Which type of Gemstone has the lowest Breaking Power?": "Ruby",
+    "What item do you use to kill Pests?": "Vacuum"
+  },
+  "mythological_mobs": {
+    "Gaia Construct": {
+      "name": "§2Gaia Construct"
+    },
+    "Minotaur": {
+      "name": "§2Minotaur"
+    },
+    "Minos Champion": {
+      "name": "§2Minos Champion"
+    },
+    "Siamese Lynxes": {
+      "name": "§2Siamese Lynxes"
+    },
+    "Minos Hunter": {
+      "name": "§2Minos Hunter"
+    },
+    "Minos Inquisitor": {
+      "name": "§cMinos Inquisitor"
+    },
+    "Cretan Bull": {
+      "name": "§2Cretan Bull"
+    },
+    "Harpy": {
+      "name": "§2Harpy"
+    },
+    "Stranded Nymph": {
+      "name": "§2Stranded Nymph"
+    },
+    "Sphinx": {
+      "name": "§2Sphinx"
+    },
+    "King Minos": {
+      "name": "§cKing Minos"
+    },
+    "Manticode": {
+      "name": "§cManticore"
+    }
+  }
+}
