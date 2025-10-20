@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "67ddbf5",
+  "sourceLabel": "7c2870d",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -715,7 +715,7 @@
     "foraging.treegift.bonus-gift.separator": " *(?:§.)+BONUS GIFT",
     "foraging.treegift.contribution-percentage": " *(?:§.)+You helped cut (?\u003cpercentColor\u003e§.)+(?\u003cpercentage\u003e[\\d.]+)% (?:§.)+of the (?:§.)+(?\u003ctype\u003e.*) Tree(?:§.)+\\.",
     "foraging.treegift.header": " *(?:§.)+TREE GIFT",
-    "foraging.treegift.hover-reward": "(?:§.)*(?\u003citem\u003e.*) (?:§.)*§8x?(?:(?\u003camount\u003e[\\d,-]+)|\\((?:§.)*(?\u003cpercentage\u003e[\\d.]+)%(?:§.)*\\))",
+    "foraging.treegift.hover-reward": "(?:§.)*(?\u003citem\u003e[^§]+)\\s*(?:§.)*\\s*(?:§.)*§8\\s*x?(?:(?:0-)?(?\u003camount\u003e[\\d,]+)|\\((?:§.)*(?\u003cpercentage\u003e[\\d.]+)%(?:§.)*\\))",
     "foraging.treegift.log-internal-name": "(?\u003cenchanted\u003eENCHANTED_)?(?\u003ctreeType\u003e.*)_LOG",
     "foraging.treegift.open-close-reward": "§2§l▬{64}",
     "foraging.treegift.rewards-gained": "(?:§.)* *(?:§.)+\\+(?\u003ccount\u003e[\\d,]+) rewards gained!(?: (?:§.)+\\(hover\\))?",
