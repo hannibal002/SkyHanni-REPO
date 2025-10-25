@@ -219,5 +219,17 @@
     "END_STONE_PROTECTOR": "ENDSTONE_PROTECTOR",
     "LOCH_EMPEROR": "SEA_EMPEROR",
     "BOGGED": "SEA_ARCHER"
-  }
+  },
+    "distance_enchant_data": {
+        "LEGION": {
+            "distance": "30",
+            "max_amount": "20",
+            "per_multiplier": "20.07"
+        },
+        "BOBBIN": {
+            "distance": "30",
+            "max_amount": "5",
+            "per_multiplier": "0.2"
+        }
+    }
 }
