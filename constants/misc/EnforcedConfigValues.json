@@ -84,7 +84,7 @@
           "value": false
         }
       ],
-      "affectedVersion": "4.24.0",
+      "affectedVersion": "6.0.0",
       "affectedMinecraftVersions": [
         "1.21.5",
         "1.21.7",
