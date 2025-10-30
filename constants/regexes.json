@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "eb789ad",
+  "sourceLabel": "94c8665",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -816,6 +816,8 @@
     "garden.pestsapi.scoreboard.plot.nopests": "\\s*(?:§.)*Plot (?:§.)*- (?:§.)*(?\u003cplot\u003e.{1,3})$",
     "garden.pestsapi.scoreboard.plot.pests": "\\s*(?:§.)*Plot (?:§.)*- (?:§.)*(?\u003cplot\u003e.+) (?:§.)*ൠ(?:§.)* x(?\u003cpests\u003e\\d+)",
     "garden.pestsapi.stereo.inventory": "Stereo Harmony",
+    "garden.pestsapi.stereo.playing": "§7Now Playing: (?:§.)*(?\u003cvinyl\u003e[^§]+).*",
+    "garden.pestsapi.stereo.playing.item": "§a§lPLAYING",
     "garden.pestsapi.tablist.infectedplots": "\\sPlots: (?\u003cplots\u003e.*)",
     "garden.plot.barnname": "§.(?\u003cname\u003eThe Barn)",
     "garden.plot.chat.clean": "§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§ais now clean!",
@@ -827,8 +829,6 @@
     "garden.plot.uncleaned": "§7Cleanup: .* (?:§.)*Completed",
     "garden.spray.material": "§a§lSPRAYONATOR! §r§7Your selected material is now §r§a(?\u003cspray\u003e.*)§r§7!",
     "garden.tooltip.farmingfortune": "§7Farming Fortune: §6",
-    "garden.vinyl.select": "§aYou are now playing §r§e(?\u003ctype\u003e.*)§r§a!",
-    "garden.vinyl.unselect": "§aYou are no longer playing §r§e.*§r§a!",
     "garden.visitor.api.visitor.count": "§b§lVisitors: §r§f\\((?\u003cinfo\u003e.*)\\)",
     "garden.visitor.api.visitor.name": " (?:§.)+(?\u003cname\u003e§.[^§]+).*",
     "garden.visitor.compact.disregardrewardname": "^(?:Copper|Farming XP|Farming Experience|Garden Experience|Bits)$",
