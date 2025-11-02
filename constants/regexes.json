@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1922e44",
+  "sourceLabel": "2cf3763",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -30,7 +30,7 @@
     "bingo.card.hiddengoal": ".*§7§eThe next hint will unlock in (?\u003ctime\u003e.*)",
     "bingo.card.percentage": " {2}§8Top §.(?\u003cpercentage\u003e.*)%",
     "bingo.card.tips.card": "Bingo Card",
-    "bingo.card.tips.reward": "(?:§.)+Reward",
+    "bingo.card.tips.reward": "(?:§.)+Reward(?:§.)?",
     "bingo.card.tips.reward.contribution": "(?:§.)+Contribution Rewards.*",
     "bingo.card.tips.row.name": "(?:§.)+Row #.*",
     "bingo.compactchat.border": "§[e3]§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
