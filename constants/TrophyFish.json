@@ -2,7 +2,7 @@
   "trophy_fish": {
     "sulphurskitter": {
       "displayName": "§fSulphur Skitter",
-      "description": "§7Caught when standing within §a4 blocks§7 of a Sulphur Ore.",
+      "description": "§7Caught when standing within §a4 blocks§7 of a Sulphur block.",
       "rate": 30,
       "fillet": {
         "bronze": 40,
@@ -12,8 +12,8 @@
       }
     },
     "obfuscatedfish1": {
-      "displayName": "§fObfuscated 1",
-      "description": "§7Caught with Corrupted Bait.",
+      "displayName": "§fObfuscated-1",
+      "description": "§7Caught with Corrupted Bait or from killing corrupted Sea Creatures.",
       "rate": 25,
       "fillet": {
         "bronze": 16,
@@ -34,8 +34,8 @@
       }
     },
     "obfuscatedfish2": {
-      "displayName": "§aObfuscated 2",
-      "description": "§7Caught with §fObfuscated 1 §7bait.",
+      "displayName": "§aObfuscated-2",
+      "description": "§7Caught with §fObfuscated-1 §7bait.",
       "rate": 20,
       "fillet": {
         "bronze": 40,
@@ -78,8 +78,8 @@
       }
     },
     "obfuscatedfish3": {
-      "displayName": "§9Obfuscated 3",
-      "description": "§7Caught with §aObfuscated 2 §7bait.",
+      "displayName": "§9Obfuscated-3",
+      "description": "§7Caught with §aObfuscated-2 §7bait.",
       "rate": 10,
       "fillet": {
         "bronze": 400,
@@ -189,7 +189,7 @@
     },
     "goldenfish": {
       "displayName": "§6Golden Fish",
-      "description": "§7Has a chance to spawn after §a8 minutes §7of fishing, increasing linearly §7until reaching 100% at §a12 minutes§7.",
+      "description": "§7Has a chance to spawn after §a8 minutes §7of fishing, increasing linearly §7until reaching 100% at §a12 minutes§7 (can be sped up by the §6Gold Bait §7attribute).",
       "rate": null,
       "fillet": {
         "bronze": 400,
