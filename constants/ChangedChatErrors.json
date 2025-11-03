@@ -177,7 +177,7 @@
       "message_starts_with": [
         "Error fetching data from NEU Lowest Bin API!"
       ],
-      "fixed_in": "5.0.0"
+      "fixed_in": "9.9.9"
     },
     {
       "message_starts_with": [
@@ -189,7 +189,7 @@
       "message_starts_with": [
         "Caught a NoSuchElementException in at.hannibal2.skyhanni.features.mining.powdertracker"
       ],
-      "fixed_in": "5.0.0"
+      "fixed_in": "9.9.9"
     },
     {
       "message_starts_with": [
