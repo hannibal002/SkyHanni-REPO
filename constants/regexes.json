@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2cf3763",
+  "sourceLabel": "09b7b56",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -448,6 +448,7 @@
     "event.lobby.waypoint.presents.found": "§aYou found a.*present! §r§e\\(§r§b\\d+§r§e/§r§b\\d+§r§e\\)",
     "event.lobby.waypoint.presents.foundall": "§aCongratulations! You found all the presents in every lobby!",
     "event.lobby.waypoint.presents.foundalready": "§cYou have already found this present!",
+    "event.spooky.chat.chest": "§[6c]§l(?\u003ctype\u003eSPOOKY|PARTY)! §r§7A §r§(?\u003ccolor\u003e[6c])(?\u003cchest\u003eTrick or Treat Chest|Party Chest) §r§7has appeared!",
     "event.winter.drank.jyrre": "§7You consumed a §r§6Refined Bottle of Jyrre §r§7and gained §r§b\\+300✎ Intelligence §r§7for §r§a60m§r§7!",
     "event.winter.giftapi.giftname": "(?:WHITE|RED|GREEN)_GIFT$",
     "event.winter.newyearcake.reminder.sidebar": "§dNew Year Event!§f (?\u003ctime\u003e.*)",
