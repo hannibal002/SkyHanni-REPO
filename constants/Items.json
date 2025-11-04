@@ -224,12 +224,12 @@
     "LEGION": {
       "distance": "30",
       "max_amount": "20",
-      "per_multiplier": "20.07"
+      "per_stack_multiplier": "20.07"
     },
     "BOBBIN": {
       "distance": "30",
-      "maxAmount": "5",
-      "perStackMultiplier": "0.2"
+      "max_amount": "5",
+      "per_stack_multiplier": "0.2"
     }
   }
 }
