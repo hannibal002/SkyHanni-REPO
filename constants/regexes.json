@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "41b1207",
+  "sourceLabel": "a65d0ac",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -314,9 +314,9 @@
     "dungeon.copilot.wither.door": ".* opened a §r§8§lWITHER §r§adoor!",
     "dungeon.croesus.chest.floor": "§7Tier: §eFloor (?\u003cfloor\u003e[IV]+)",
     "dungeon.croesus.chest.master": ".*Master.*",
-    "dungeon.croesus.chest.state.keyused": "§aNo more Chests to open!",
-    "dungeon.croesus.chest.state.opened": "§8Opened Chest:.*",
-    "dungeon.croesus.chest.state.unopened": "§8No Chests Opened!",
+    "dungeon.croesus.chest.state.keyused": "§aNo more chests to open!",
+    "dungeon.croesus.chest.state.opened": "§.Opened [cC]hest:.*",
+    "dungeon.croesus.chest.state.unopened": "§cNo chests opened yet!",
     "dungeon.croesus.empty": "§cNo treasures!",
     "dungeon.croesus.inventory": "Croesus",
     "dungeon.croesus.kismet.reroll": "§aReroll Chest",
