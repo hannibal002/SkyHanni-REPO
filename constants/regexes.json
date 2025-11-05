@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "09b7b56",
+  "sourceLabel": "41b1207",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1529,6 +1529,7 @@
     "stats.menu.sweep": " *§2∮ Sweep §f(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.swing.range": " *§eⓈ Swing Range §f(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.taming.wisdom": " *§3☯ Taming Wisdom §f(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
+    "stats.menu.tracking": " *§d❃ Tracking §f(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.treasure.chance": " *§6⛃ Treasure Chance §f(?\u003cvalue\u003e\\d+(?:\\.\\d+)?)%",
     "stats.menu.trophy.fish.chance": " *§6♔ Trophy Fish Chance §f(?\u003cvalue\u003e\\d+)%",
     "stats.menu.true.defense": " *§f❂ True Defense §f(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
@@ -1602,6 +1603,7 @@
     "stats.tablist.sweep": " *Sweep: §r§2∮(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.swing.range": " *Swing Range: §r§eⓈ(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.taming.wisdom": " *Taming Wisdom: §r§3☯(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
+    "stats.tablist.tracking": " *Tracking: §r§d❃(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.treasure.chance": " *Treasure Chance: §r§6⛃(?\u003cvalue\u003e\\d+(?:\\.\\d+)?)",
     "stats.tablist.trophy.fish.chance": "Trophy Fish Chance: §r§6♔(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.true.defense": " *True Defense: §r§f❂(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
