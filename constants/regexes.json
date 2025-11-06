@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a65d0ac",
+  "sourceLabel": "4d5f56d",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -312,7 +312,7 @@
     "dungeon.copilot.blood.door": "§cThe §r§c§lBLOOD DOOR§r§c has been opened!",
     "dungeon.copilot.countdown": ".* has started the dungeon countdown. The dungeon will begin in 1 minute.",
     "dungeon.copilot.wither.door": ".* opened a §r§8§lWITHER §r§adoor!",
-    "dungeon.croesus.chest.floor": "§7Tier: §eFloor (?\u003cfloor\u003e[IV]+)",
+    "dungeon.croesus.chest.floor": "§eFloor (?\u003cfloor\u003e[IV]+)",
     "dungeon.croesus.chest.master": ".*Master.*",
     "dungeon.croesus.chest.state.keyused": "§aNo more chests to open!",
     "dungeon.croesus.chest.state.opened": "§.Opened [cC]hest:.*",
