@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4d5f56d",
+  "sourceLabel": "632d915",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -418,12 +418,8 @@
     "event.carnival.goals.lore.zombie.shootout.score": "§7Reach §a3,000 score §7in a single game",
     "event.carnival.shootout.end": " {29}Zombie Shootout",
     "event.carnival.shootout.start": "\\[NPC] Carnival Cowboy: Good luck, pal!",
-    "event.diana.mythological.tracker.gaiaconstruct": ".* §r§eYou dug out a §r§2Gaia Construct§r§e!",
-    "event.diana.mythological.tracker.minoschampion": ".* §r§eYou dug out a §r§2Minos Champion§r§e!",
-    "event.diana.mythological.tracker.minoshunter": ".* §r§eYou dug out a §r§2Minos Hunter§r§e!",
-    "event.diana.mythological.tracker.minosinquisitor": ".* §r§eYou dug out a §r§2Minos Inquisitor§r§e!",
-    "event.diana.mythological.tracker.minotaur": ".* §r§eYou dug out a §r§2Minotaur§r§e!",
-    "event.diana.mythological.tracker.siameselynxes": ".* §r§eYou dug out §r§2Siamese Lynxes§r§e!",
+    "event.diana.mythological.burrows.chain-finished": "§eYou finished the Griffin burrow chain! §r§7\\(\\d+/\\d+\\)",
+    "event.diana.mythological.tracker.generic-spawn": "§c§l(?:Oh|Uh oh|Yikes|Oi|Good Grief)! §r§eYou dug out (?:a )?(?:§[a-f0-9r])*(?\u003ccreatureType\u003e[\\w\\s]+)§r§e!",
     "event.greatspook.chat.math": "§d§lQUICK MATHS! §r§7Solve: §r§e(?\u003cmath\u003e.*)",
     "event.greatspook.chat.speaking": "§4\\[FEAR] Public Speaking Demon§r§f: (?:Speak|Say something interesting) (?\u003cname\u003e.*)!",
     "event.greatspook.mob.spawn": "§5§lFEAR\\. §r§eA §r§dPrimal Fear §r§ehas been summoned!",
