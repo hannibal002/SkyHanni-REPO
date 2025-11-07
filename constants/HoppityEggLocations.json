@@ -101,6 +101,7 @@
       "16:125:3",
       "-18:87:-27",
       "-51:125:20",
+      "-52:120:-10",
       "-31:126:44"
     ],
     "DWARVEN_MINES": [
@@ -581,6 +582,7 @@
       "dungeon_hub_croesus": "-31:126:44",
       "dungeon_hub_hub_portal": "16:125:3",
       "dungeon_hub_other_idk": "-51:125:20",
+      "dungeon_hub_ophelia": "-52:120:-10",
       "dungeon_hub_statue": "0:146:-78",
       "dungeon_hub_race": "-23:86:-3",
       "dungeon_hub_mushroom": "-5:23:98",
