@@ -96,6 +96,7 @@
       "-23:86:-3",
       "-52:156:0",
       "0:108:0",
+      "-34:119:9",
       "-5:23:98",
       "-138:21:-7",
       "16:125:3",
@@ -589,7 +590,8 @@
       "dungeon_hub_crystal_core": "5:11:-1",
       "dungeon_hub_precursor_ruins": "-138:21:-7",
       "dungeon_hub_catacombs": "-52:156:0",
-      "dungeon_hub_entrance": "0:108:0"
+      "dungeon_hub_entrance": "0:108:0",
+      "dungeon_hub_selector": "-34:119:9"
     },
     "BACKWATER_BAYOU": {
       "bayou_wheel": "74:89:-1",
