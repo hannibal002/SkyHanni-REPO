@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "632d915",
+  "sourceLabel": "805c7a4",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -293,8 +293,8 @@
     "diana.chat.coins": "§6§lWow! §r§eYou dug out §r§6(?\u003ccoins\u003e.*) coins§r§e!",
     "diana.waypoints.inquisitor.coords.0": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.+)§f: §rx: (?\u003cx\u003e[^ ,]+),? y: (?\u003cy\u003e[^ ,]+),? z: (?\u003cz\u003e[^ ,]+).*",
     "diana.waypoints.inquisitor.coords.1": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.+)§f: §rA MINOS INQUISITOR has spawned near \\[(?\u003carea\u003e.*)] at Coords (?\u003cx\u003e[^ ]+) (?\u003cy\u003e[^ ]+) (?\u003cz\u003e[^ ]+)",
-    "diana.waypoints.inquisitor.died": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.*)§f: §rInquisitor dead!",
-    "diana.waypoints.inquisitor.dug": ".* §r§eYou dug out a §r§2Minos Inquisitor§r§e!",
+    "diana.waypoints.inquisitor.died": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.*)§f: §r(?:Inquisitor|Rare Diana Mob) dead!",
+    "diana.waypoints.inquisitor.dug": ".* §r§eYou dug out a §.§.(?:Minos Inquisitor|Sphinx|King Minos|Manticore)§.§.!",
     "dungeon.architectsdraft.puzzle.fail.normal": "(?:§c§lPUZZLE FAIL!|§4) §.§.(?\u003cname\u003e\\S*) .*",
     "dungeon.architectsdraft.puzzle.fail.quiz": "§4\\[STATUE] Oruo the Omniscient§r§f: (?:§.)*(?\u003cname\u003e\\S*) (?:§.)*chose the wrong .*",
     "dungeon.blessings": "§r§r§fBlessing of (?\u003ctype\u003e\\w+) (?\u003camount\u003e\\w+)§r",
@@ -382,6 +382,7 @@
     "enchanting.experiments.ultrarare": "§d§kXX§5 ULTRA-RARE BOOK! §d§kXX",
     "enchanting.experiments.waiting.messages": "Click any button!|Click a second button!|Next button is instantly rewarded!",
     "enchanting.experiments.xpbottle": "(?:COLOSSAL_|TITANIC_|GRAND_|\\b)EXP_BOTTLE",
+    "event-diana.rare-mob-name": "Minos Inquisitor|Sphinx|King Minos|Manticore",
     "event.anniversary-celebration.400.team-finder.player-color-nametag": ".* §(?\u003ccolor\u003e.)⛃.*",
     "event.anniversary-celebration.400.team-finder.player-full-message": "This person has had too much cake today!",
     "event.carnival.goals.chat.catch.a.fish.play": "(§8 - §r)?§7Play §r§a3 games §r§7of §r§3Catch a Fish§r§7.",
