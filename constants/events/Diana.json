@@ -6,7 +6,10 @@
   ],
   "sphinx_questions": {
     "Which type of Gemstone has the lowest Breaking Power?": "Ruby",
-    "What item do you use to kill Pests?": "Vacuum"
+    "What item do you use to kill Pests?": "Vacuum",
+    "Which of these is NOT a type of Gemstone?": "Prismite",
+    "Who runs the Chocolate Factory?": "Hoppity",
+    "Which item rarity comes after Mythic?": "Divine"
   },
   "mythological_mobs": {
     "Gaia Construct": {
