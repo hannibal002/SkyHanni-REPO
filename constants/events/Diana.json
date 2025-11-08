@@ -37,7 +37,8 @@
       "name": "§2Stranded Nymph"
     },
     "Sphinx": {
-      "name": "§2Sphinx"
+      "name": "§2Sphinx",
+      "rare": true
     },
     "Minos Inquisitor": {
       "name": "§cMinos Inquisitor",
