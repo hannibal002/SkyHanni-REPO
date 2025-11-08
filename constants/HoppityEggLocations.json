@@ -585,6 +585,9 @@
       "dungeon_hub_croesus": "-31:126:44",
       "dungeon_hub_hub_portal": "16:125:3",
       "dungeon_hub_never_arriving": "-51:125:20",
+      "dungeon_hub_mort": "-61:123:4",
+      "dungeon_hub_blacksmith": "-53:120:8",
+      "dungeon_hub_selector": "-34:119:9",
       "dungeon_hub_ophelia": "-52:120:-10",
       "dungeon_hub_statue": "0:146:-78",
       "dungeon_hub_race": "-23:86:-3",
@@ -592,10 +595,7 @@
       "dungeon_hub_crystal_core": "5:11:-1",
       "dungeon_hub_precursor_ruins": "-138:21:-7",
       "dungeon_hub_catacombs": "-52:156:0",
-      "dungeon_hub_entrance": "0:108:0",
-      "dungeon_hub_selector": "-34:119:9",
-      "dungeon_hub_blacksmith": "-53:120:8",
-      "dungeon_hub_mort": "-61:123:4"
+      "dungeon_hub_entrance": "0:108:0"
     },
     "BACKWATER_BAYOU": {
       "bayou_wheel": "74:89:-1",
