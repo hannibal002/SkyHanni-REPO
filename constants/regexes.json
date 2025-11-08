@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "805c7a4",
+  "sourceLabel": "4e10780",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -420,7 +420,7 @@
     "event.carnival.shootout.end": " {29}Zombie Shootout",
     "event.carnival.shootout.start": "\\[NPC] Carnival Cowboy: Good luck, pal!",
     "event.diana.mythological.burrows.chain-finished": "§eYou finished the Griffin burrow chain! §r§7\\(\\d+/\\d+\\)",
-    "event.diana.mythological.tracker.generic-spawn": "§c§l(?:Oh|Uh oh|Yikes|Oi|Good Grief)! §r§eYou dug out (?:a )?(?:§[a-f0-9r])*(?\u003ccreatureType\u003e[\\w\\s]+)§r§e!",
+    "event.diana.mythological.tracker.generic-spawn": "§c§l(?:Oh|Uh oh|Yikes|Oi|Good Grief|Danger|Woah)! §r§eYou dug out (?:a )?(?:§[a-f0-9r])*(?\u003ccreatureType\u003e[\\w\\s]+)§r§e!",
     "event.greatspook.chat.math": "§d§lQUICK MATHS! §r§7Solve: §r§e(?\u003cmath\u003e.*)",
     "event.greatspook.chat.speaking": "§4\\[FEAR] Public Speaking Demon§r§f: (?:Speak|Say something interesting) (?\u003cname\u003e.*)!",
     "event.greatspook.mob.spawn": "§5§lFEAR\\. §r§eA §r§dPrimal Fear §r§ehas been summoned!",
