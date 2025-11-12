@@ -152,6 +152,10 @@
       "piscary": {
         "required_level": 6,
         "endcap_item": "TROUBLED_BUBBLE"
+      },
+      "venomous": {
+        "required_level": 6,
+        "endcap_item": "FATEFUL_STINGER"
       }
     }
   },
