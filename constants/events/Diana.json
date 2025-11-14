@@ -53,15 +53,27 @@
     },
     "Minos Inquisitor": {
       "name": "§cMinos Inquisitor",
-      "rare": true
+      "rare": true,
+      "short_names": [
+        "inquisitor",
+        "inq"
+      ]
     },
     "King Minos": {
       "name": "§cKing Minos",
-      "rare": true
+      "rare": true,
+      "short_names": [
+        "king",
+        "minos"
+      ]
     },
     "Manticore": {
       "name": "§cManticore",
-      "rare": true
+      "rare": true,
+      "short_names": [
+        "manti",
+        "core"
+      ]
     }
   }
 }
