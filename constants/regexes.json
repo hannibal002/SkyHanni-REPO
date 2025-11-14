@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "102be87",
+  "sourceLabel": "70e9f01",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -52,6 +52,8 @@
     "carnival.tickets.claimed": "§aYou claimed §r§aCarnival Ticket §r§8x25§r§a!",
     "carry.trade.coins.gained": " §r§a§l\\+ §r§6(?\u003ccoins\u003e.*) coins",
     "carry.trade.completed": "§6Trade completed with (?\u003cname\u003e.*)§r§6!",
+    "chat-filter.event.hoppity-begin": "§dHoppity\u0027s Hunt §r§ehas begun! Help §r§aHoppity §r§efind his §r§6Chocolate Rabbit Eggs §r§eacross SkyBlock each day during the §r§aSpring§r§e!",
+    "chat-filter.event.hoppity-egg-appear": "§d§lHOPPITY\u0027S HUNT §r§dA .* §r§dhas appeared!",
     "chat-filter.foraging.unmineable-tree.0": "(?:§.)*You cannot damage a tree while it is regenerating!",
     "chat-filter.foraging.unmineable-tree.1": "(?:§.)*The toughness of this tree is way too high!",
     "chat-filter.hunting.redundant-comments.0": "(?:§.)*Mochibear ate too much and passed out! You caught it!",
