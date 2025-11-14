@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "25d416b",
+  "sourceLabel": "102be87",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -315,6 +315,7 @@
     "dungeon.croesus.chest.floor": "§eFloor (?\u003cfloor\u003e[IV]+)",
     "dungeon.croesus.chest.master": ".*Master.*",
     "dungeon.croesus.chest.state.keyused": "§aNo more chests to open!",
+    "dungeon.croesus.chest.state.kismet.used": " §8§mKismet Feather",
     "dungeon.croesus.chest.state.opened": "§.Opened [cC]hest:.*",
     "dungeon.croesus.chest.state.unopened": "§cNo chests opened yet!",
     "dungeon.croesus.empty": "§cNo treasures!",
