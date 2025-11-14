@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "063fe62",
+  "sourceLabel": "659a608",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -353,6 +353,8 @@
     "dungeon.noblessings": "§r§r§7No Buffs active\\. Find them by exploring the Dungeon!§r",
     "dungeon.race.active": "§.§.(?\u003crace\u003e[\\w ]+) RACE §.[\\d:.]+",
     "dungeon.room": "§7\\d+/\\d+/\\d+ §\\w+ (?\u003croomId\u003e[\\w,-]+)",
+    "dungeon.secrettracker.message": "There\u0027s a secret (?:§.)*(?\u003cdistance\u003e\\d+) blocks(?:.+and (?\u003cdistance2\u003e\\d+) blocks)?",
+    "dungeon.secrettracker.no.missing": "§cThere are no missing secrets near you!",
     "dungeon.tablist.playerteam": "^(?:§.)*(?\u003csbLevel\u003e\\[(?:§.)*\\d+(?:§.)*]) (?\u003crank\u003e(?:§.)*\\[(?:§.)*[^]]+(?:§.)*])? ?(?\u003cplayerName\u003e\\S+)\\s?(?\u003csymbols\u003e[^(]*) §r§f\\((?:§.)*(?:(?\u003cclassName\u003e\\S+) (?\u003cclassLevel\u003e[CLXVI0]+)|(?\u003cplayerDead\u003eDEAD))(?:§.)*\\)(?:§.)*$",
     "dungeon.terracotta.end": "§c\\[BOSS] Sadan§r§f: ENOUGH!",
     "dungeon.terracotta.start": "§c\\[BOSS] Sadan§r§f: So you made it all the way here... Now you wish to defy me\\? Sadan\\?!",
