@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e99ab7f",
+  "sourceLabel": "37610f6",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -14,6 +14,7 @@
     "api.skilldisplay.skill.tab.max": " (?:§r§a)?(?\u003ctype\u003e\\w+) (?\u003clevel\u003e\\d+): §r§c§lMAX",
     "api.skilldisplay.skill.tab.nopercent": " (?:§r§a)?(?\u003ctype\u003e\\w+)(?: (?\u003clevel\u003e\\d+))?: §r§e(?\u003ccurrent\u003e[0-9,.]+)§r§6/§r§e(?\u003cneeded\u003e[\\d,.]+[kMB]?+)",
     "ashfang.freeze.cryogenic": "§cAshfang Follower\u0027s Cryogenic Blast hit you for .* damage!",
+    "attributeshards.pure-reptile-chat": "^§b§lPURE REPTILE",
     "auction.outbid": "§6\\[Auction].*§eoutbid you by.*§e§lCLICK",
     "auctions.highlight.auction": "§7(?:Starting bid|Top bid): §6(?\u003ccoins\u003e.*) coins",
     "auctions.highlight.buyitnow": "§7Buy it now: §6(?\u003ccoins\u003e.*) coins",
@@ -874,7 +875,7 @@
     "inventory.activebeaconeffect.slot.active": "§aActive stat boost!",
     "inventory.attributeshards.advanced.mode": "§7§cAdvanced Mode unlocked at 30",
     "inventory.attributeshards.caught.shards": "§aYou caught(?: [an]+)?(?: §7x(?\u003camount\u003e\\d+))? §.(?\u003cshardName\u003e.+) §aShard(?:s§a)?!",
-    "inventory.attributeshards.charmed.shard": "§.§l(?:CHARM|SALT|NAGA)§7 You charmed an? §.(?\u003cshardName\u003e.+)§7 and captured (?:§.(?\u003camount\u003e\\d+) Shards §7from it|its §9Shard§7)\\.(?:§.)*",
+    "inventory.attributeshards.charmed.shard": "§.§l(?\u003ccharmType\u003eCHARM|SALT|NAGA)§7 You charmed an? §.(?\u003cshardName\u003e.+)§7 and captured (?:§.(?\u003camount\u003e\\d+) Shards §7from it|its §9Shard§7)\\.(?:§.)*",
     "inventory.attributeshards.chat.and.more": "§aand (?\u003camount\u003e\\d+) more\\.\\.\\.",
     "inventory.attributeshards.chat.disabled": "§6(?\u003cattributeName\u003e.+) §r§cis now disabled!",
     "inventory.attributeshards.chat.enabled": "§6(?\u003cattributeName\u003e.+) §r§ais now enabled!",
