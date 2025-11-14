@@ -1,4 +1,5 @@
 {
+  "//Note": "eggLocations is no longer being updated, use apiEggLocations instead",
   "eggLocations": {
     "HUB": [
       "161:71:157",
