@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "f599cb7",
+  "sourceLabel": "31ee963",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -732,7 +732,7 @@
     "garden.armordrops.armor": "(?:FERMENTO|CROPIE|SQUASH|MELON)_(?:LEGGINGS|CHESTPLATE|BOOTS|HELMET)",
     "garden.barn.skin.change": "§aChanging Barn skin to §r.*",
     "garden.bonuspestchance.widget": "\\s+(?:§.)*?(?\u003cdisabled\u003e§m)?Bonus Pest Chance: (?:§.)*ൠ(?\u003camount\u003e[\\d,.]+)",
-    "garden.burrowingspores.drop": "§6§lVERY RARE CROP! §r§f§r§9Burrowing Spores\\.",
+    "garden.burrowingspores.drop": "§6§lVERY RARE CROP! (?:§.)*§9Burrowing Spores",
     "garden.carrolyn.lore": "§7Bring §63,000 §7of these to §5Carrolyn §7in",
     "garden.composter.inventory.numbers.amount": "§7§7Compost Available: §a(?\u003camount\u003e.*)",
     "garden.composter.inventory.numbers.value": ".* §e(?\u003chaving\u003e.*)§6/(?\u003ctotal\u003e.*)",
