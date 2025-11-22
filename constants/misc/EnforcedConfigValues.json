@@ -84,12 +84,14 @@
           "value": false
         }
       ],
-      "affectedVersion": "6.0.0",
+      "affectedVersion": "5.1.0",
       "affectedMinecraftVersions": [
         "1.21.5",
         "1.21.7",
-        "1.21.8"
-      ]
+        "1.21.8",
+        "1.21.10"
+      ],
+      "extraMessage": "Will be re-enabled on version 5.2.0 and later"
     }
   ]
 }
