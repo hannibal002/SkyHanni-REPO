@@ -133,6 +133,11 @@
       "spinny": true,
       "upsideDown": true
     },
+    "ThatOneDevil":  {
+      "suffix": "§6:D",
+      "spinny": true,
+      "upsideDown": true
+    },
     "thisiscad": {},
     "Throwpo": {
       "suffix": "§b:§dO",
@@ -195,3 +200,4 @@
     }
   }
 }
+
