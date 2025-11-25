@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "629fe43",
+  "sourceLabel": "4ec6a27",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -135,6 +135,7 @@
     "combat.instance-chest-profit.coins": "§6(?\u003camount\u003e.*) Coins",
     "combat.instance-chest-profit.dungeonchestkey": "§9Dungeon Chest Key",
     "combat.instance-chest-profit.essence": "§.(?\u003cname\u003e\\w+ Essence) §.x(?\u003ccount\u003e\\d+)",
+    "combat.instance-chest-profit.fakeitemname": "§aReroll Shard",
     "combat.instance-chest-profit.kuudrachestkey": "§.(?:\\w+ )?Kuudra Key",
     "combat.mobs.spawntime.arachne.crystal": "^☄ [a-z0-9_]{2,22} placed an arachne crystal! something is awakening!$",
     "combat.mobs.spawntime.arachne.fragment": "^☄ [a-z0-9_]{2,22} placed an arachne\u0027s calling! something is awakening! \\(4/4\\)$",
