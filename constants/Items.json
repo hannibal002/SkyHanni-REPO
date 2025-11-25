@@ -152,6 +152,10 @@
       "piscary": {
         "required_level": 6,
         "endcap_item": "TROUBLED_BUBBLE"
+      },
+      "venomous": {
+        "required_level": 6,
+        "endcap_item": "FATEFUL_STINGER"
       }
     }
   },
@@ -219,6 +223,18 @@
     "END_STONE_PROTECTOR": "ENDSTONE_PROTECTOR",
     "LOCH_EMPEROR": "SEA_EMPEROR",
     "BOGGED": "SEA_ARCHER"
+  },
+  "distance_enchant_data": {
+    "LEGION": {
+      "distance": 30,
+      "max_amount": 20,
+      "per_stack_multiplier": 0.07
+    },
+    "BOBBIN": {
+      "distance": 30,
+      "max_amount": 5,
+      "per_stack_multiplier": 0.2
+    }
   },
   "hunting_blackholes": [
     "SMALL_POCKET_BLACK_HOLE",

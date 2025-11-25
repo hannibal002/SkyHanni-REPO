@@ -7,7 +7,9 @@
       ],
       "guide": [
         "Carrots and potatoes from killing",
-        "Zombies in graveyard do count."
+        "Zombies in graveyard do count.",
+        "You can also kill Enderman for this to",
+        "also contribute to the Enderman Slayer goal."
       ]
     },
     "Enderman Slayer (Community Goal)": {
@@ -20,114 +22,181 @@
         "and a Void Sword or Dreadlord Sword."
       ]
     },
-    "Scavenger (Community Goal)": {
+    "Skilled (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Gain coins from the Scavenger Enchant"
+        "Gain Fishing experience"
       ],
       "guide": [
-        "Apply/Use the highest tier of Scavenger",
-        "that you can get your hands on and put it",
-        "on your main weapon. Gifts from the Jerry Island",
-        "can be a way to obtain Scavenger IV books.",
-        "You can also use the weapon drops from dungeon mobs",
-        "as those have guaranteed Scavenger 5." 
+        "Recommended for this is to fish in the ",
+        "Backwater Bayou with the best rod you have",
+        "access to and full Angler Set or better.",
+        "You can also donate any special fish that you",
+        "get to Coral in Galatea (requires 1.21)"
       ]
     },
-    "Agricultural Revolution (Community Goal)": {
+    "Essence Of Spiders (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Harvest crops"
+        "Gain Spider Essence"
       ],
       "guide": [
-        "You can get easy contribution for",
-        "this by breaking some Wheat in the Hub.",
-        "If you want faster contribution,",
-        "make a Sugar Cane farm in your Garden",
-        "which will also be needed for another goal."
+        "For this you can participate in Arachne fights",
+        "in the Spiders Den, salvage Arachne/Spider Gear",
+        "or collect secrets in dungeons."
       ]
     },
-    "Clown Collab (Community Goal)": {
-      "difficulty": "Medium",
+    "Essence Of Dragons (Community Goal)": {
+      "difficulty": "Easy",
       "note": [
-        "Beat Floor 1"
+        "Collect Dragon Essence"
       ],
       "guide": [
-        "For this you need Combat 15 and you'll",
-        "likely want friends or other players",
-        "to help you with it."
+        "To progress in this you can:",
+        "- Participate in Dragon Fights",
+        "- Salvage Ender Pieces at the Draconic Altar",
+        "- Kill Lost Adventurers",
+        "- Collect secrets in dungeons"
       ]
     },
     "Strongman": {
       "difficulty": "Medium",
       "note": [
-        "120 strength"
+        "180 strength"
       ],
       "guide": [
         "Get yourself a splash, equip a Bingo Pet",
         "and get the cake buff by eating the cakes",
-        "on xMeru's, skyerzz's or prtl's island.",
+        "on skyerzz's or prtl's island.",
         "If this doesn't finish it, get a Void Sword (200k) in the End",
         "and hold it while some Ender Armor and/or Equipment."
       ]
     },
-    "Cheetah": {
+    "Cat": {
       "difficulty": "Medium",
       "note": [
-        "Obtain a Cheetah Talisman"
+        "Obtain a Cat Talisman"
       ],
       "guide": [
         "Talk to Guildford in the Dungeon Hub",
-        "and complete 4/4 objectives for 3 races.",
+        "and complete 4/4 objectives for any race.",
         "Don't forget to talk to Guildford",
         "after each run you do."
       ]
     },
-    "A Best Friend": {
+    "Podium Position": {
       "difficulty": "Easy",
       "note": [
-        "Craft any pet"
+        "Obtain a Bronze or higher medal from Jacobs Contest"
       ],
       "guide": [
-        "The easiest solution for this is the Jerry pet.",
-        "For this you only need 8 Move Jerry and an Egg.",
-        "Those drop with a 20% chance from the chicken",
-        "in The Barn."
+        "Do contests like Wheat, Potato or Carrot.",
+        "You can also try to utilize pests to help here."
       ]
     },
-    "Miner": {
+    "Minion Machine": {
+      "difficulty": "Medium",
+      "note": [
+        "100 unique Minions"
+      ],
+      "guide": [
+        "Craft some easy minions while also getting",
+        "those that will help with this Bingo.",
+        "Use NPC shops to buy materials for easy crafts."
+      ]
+    },
+    "Sea Summoner": {
       "difficulty": "Easy",
       "note": [
-        "Reach Mining 20"
+        "30% sea creature chance"
       ],
       "guide": [
-        "For this you'll want to do",
-        "Mining Commissions in the Dwarven Mines",
-        "aswell as the Commission Milestones."
+        "Claim your cake buff (visit skyerzz, nightlibra or prtl),",
+        "hold an angler 4+ rod and visit someone with a",
+        "Sea Creature Chance beacon (visit ReyMaratov)."
       ]
     },
-    "Diversity": {
+    "Relic Researcher": {
       "difficulty": "Medium",
       "note": [
-        "40 unique Collections"
+        "28 Relics"
       ],
       "guide": [
-        "You can unlock 17/17 Farming Collections,",
-        "6/11 Combat Collections, 6/6 Foraging Collections,",
-        "14/22 Mining Collections for a total of 43 collections.",
-        "You will also get some Fishing Collections."
+        "You can find Relic Coordinates in Skytils or the Wiki.",
+        "You will need Ender Pearls to reach some of them."
       ]
     },
-    "Mithril Collector": {
-      "difficulty": "Medium",
+    "Slaughterer": {
+      "difficulty": "Easy",
       "note": [
-        "30k Mithril Collection"
+        "Kill a t2 Slayer Boss under 80s"
       ],
       "guide": [
-        "For this you'll want to do",
-        "Mining Commissions in the Dwarven Mines",
-        "and make use of HotM perks like",
-        "Mining Speed/Spread and Pickobulus."
+        "Recommended for this either Revenant Horror II",
+        "or Tarantula Broodfather II. Use your Ender Armor",
+        "and Void Sword (200k) for this."
+      ]
+    },
+    "Battle-Ready": {
+      "difficulty": "Easy",
+      "note": [
+        "Wear 4/4 pieces of Equipment"
+      ],
+      "guide": [
+        "You can buy and equip the Angler Equipment",
+        "bought from the Fish Merchant in the Hub",
+        "for 400 coins. This will also help",
+        "with the Sea Summoner goal."
+      ]
+    },
+    "End Stone Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "60k End Stone collection"
+      ],
+      "guide": [
+        "Go to The End to mine Ender Nodes and",
+        "kill Nest Mites for Enchanted End Stone.",
+        "You need to be Combat Level 12 to go there."
+      ]
+    },
+    "Collecting Data": {
+      "difficulty": "Easy",
+      "note": [
+        "Bestiary Milestone 5"
+      ],
+      "guide": [
+        "You will most likely get this passively.",
+        "Use /be ingame to view your progress once you",
+        "talked to Bramass Beastslayer in The Spiders Den."
+      ]
+    },
+    "Rock Solid": {
+      "difficulty": "Medium",
+      "note": [
+        "Equip a Rare+ Rock Pet"
+      ],
+      "guide": [
+        "You will get the Rock Pet by mining 20k",
+        "Ore Blocks. Keep in mind that Stone doesn't",
+        "count for this. Don't forget to equip the pet ;)",
+        "You can also upgrade a lower rarity with Kat,",
+        "§cbut keep in mind that this will take up to",
+        "§c3 irl days."
+      ]
+    },
+    "I Am Speed": {
+      "difficulty": "Easy",
+      "note": [
+        "200 Speed"
+      ],
+      "guide": [
+        "Talk to Jamie in the Hub and",
+        "claim the Rogue Sword from him.",
+        "Right click it to gain +100 Speed,",
+        "or just wait for a splash.",
+        "Depending on your Bingo Rank, Alixers",
+        "Splash might also be enough for this."
       ]
     },
     "Emerald Treasure": {
@@ -143,104 +212,28 @@
         "You will probably need help with this."
       ]
     },
-    "Pufferfish Collector": {
+    "Skill Average": {
       "difficulty": "Medium",
       "note": [
-        "3.5k Pufferfish Collection"
+        "Skill Average of 14"
       ],
       "guide": [
-        "Fish in the Hub until you can enter the Backwater Bayou.",
-        "Fish there and lootshare mobs until you unlock",
-        "Fishing Minions. Place as many of them on your island,",
-        "as you can and give them the best fuel and storage",
-        "you have access to and don't forget to collect in time."
+        "To help with this, try to make bigger crafts",
+        "by hand for Carpentry levels.",
+        "Also do your daily experiments and make sure",
+        "to have a pet active at all times",
+        "(any pet works, even level 100).",
+        "Hunting also counts for this."
       ]
     },
-    "Powder Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "50k Mithril Powder"
-      ],
-      "guide": [
-        "Do commissions and events in The Dwarven Mines,",
-        "claim your daily powder from the Puzzler and",
-        "from giving Fetchur the items he asks for.",
-        "Fetchurs items are all listed in the Wiki.",
-        "Try to do those while a '2x Powder' event is active.",
-        "You might want to use the Royal Reforge on your",
-        "equipment to gain more powder from events.",
-        "You can also fish up and kill Mithril Grubbers",
-        "in the Abandoned Quarry (Fishing 6)."
-      ]
-    },
-    "New Savings": {
-      "difficulty": "Medium",
-      "note": [
-        "Craft a Piggy Bank"
-      ],
-      "guide": [
-        "This unlocks at 2.5k Raw Porkchop Collection",
-        "and requires 40 Enchanted Pork to make.",
-        "You can use Minions for this."
-      ]
-    },
-    "Spider Queen": {
+    "Pair Up!": {
       "difficulty": "Easy",
       "note": [
-        "Summon Arachne"
+        "3 pairs in the experimentation table"
       ],
       "guide": [
-        "For this you'll need at least 1 Arachnes Calling",
-        "which drop from Arachnes Keepers. Place them together",
-        "with others in the altar at /warp arachne.",
-        "You can summon it alone with 4 Callings."
-      ]
-    },
-    "Ferocious": {
-      "difficulty": "Easy",
-      "note": [
-        "3 Ferocity"
-      ],
-      "guide": [
-        "Buy a Dirt Bottle (100k) from",
-        "the Smithmonger in the Hub",
-        "and reforge an uncommon+ rarity weapon with it."
-      ]
-    },
-    "Strange Eggs": {
-      "difficulty": "Medium",
-      "note": [
-        "Spawn a Golden Goblin"
-      ],
-      "guide": [
-        "Kill goblins or open loot chests in the Crystal Hollows,",
-        "then just throw them until you get a Golden Goblin.",
-        "Higher level eggs have higher chances of spawning,",
-        "but are also rarer to get."
-      ]
-    },
-    "Meiser": {
-      "difficulty": "Easy",
-      "note": [
-        "1m coins in the bank"
-      ],
-      "guide": [
-        "You'll most likely get this from",
-        "leveling up skills during this Bingo.",
-        "Remember to actually put the money",
-        "you get in the Bank :)"
-      ]
-    },
-    "Slayer": {
-      "difficulty": "Easy",
-      "note": [
-        "Reach Slayer Level 3"
-      ],
-      "guide": [
-        "For this you can either do:",
-        " - 1 t1, t2 and 2 t3 or",
-        " - 1 t1 and 8 t2",
-        "and claim the rewards by talking to Maddox."
+        "Do your daily Experimentation Tables",
+        "after getting Enchanting Level 10."
       ]
     },
     "Love Is All Around": {
@@ -254,57 +247,56 @@
         "1 Yellow Rock, 15 poppies and 64 Emerald."
       ]
     },
-    "A Lost Cause": {
+    "Taking Flight": {
       "difficulty": "Medium",
       "note": [
-        "Kill a Lost Adventurer"
+        "Consume a Magical Mushroom Soup"
       ],
       "guide": [
-        "Start an Entrance floor and play Mage/Tank/Berserker to use",
-        "the classes abilities to kill a Lost Adventurer.",
-        "You only need to get the last hit",
-        "on it to count, so you can get help from your team.",
-        "You need Combat Level 15 to join a Dungeon."
+        "This unlocks at 1k Mushroom Collection.",
+        "You can get that by farming the Mushrooms",
+        "in the Mushroom Desert.",
+        "Obtain the needed Glowstone by buying a",
+        "Glowstone Block from the Builder and breaking",
+        "it on your island."
       ]
     },
-    "Quick Reel": {
+    "Weird Flex": {
       "difficulty": "Medium",
       "note": [
-        "Summon 3 Sea Creatures in 75s"
+        "Gain 5 Strength from a Training Weight"
       ],
       "guide": [
-        "Use the best rod you can in the Backwater Bayou",
-        "and use the Angler Set bought from the Fish Merchant",
-        "in the Hub. Also use the best bait you have access to."
+        "For this you'll want to grab a Training Weight",
+        "from a secret in dungeons and keep it in your",
+        "inventory till it shows a Strength bonus of +5.",
+        "Drop it once it reached that point."
       ]
     },
-    "Healthy": {
+    "Bedazzled": {
       "difficulty": "Easy",
       "note": [
-        "250 Health"
+        "7 unique Accessories"
       ],
       "guide": [
-        "Wear Ender Armor enchanted with Growth 5",
-        "and wear it in The End.",
-        "You can also enchant Mushroom Armor like that",
-        "and wear it in The Garden.",
-        "Growth 5 requires Enchanting Level 5",
-        "and costs 50 Experience Levels per piece.",
-        "Reforge your armor to Titanic if needed."
+        "For this you'll want to buy all 6 Talismans",
+        "from the Adventurer in The Hub (26k)",
+        "and grab the Cat Talisman for the Cat goal."
       ]
     },
-    "Sugar Cane Collector": {
-      "difficulty": "Hard",
+    "Pet Hoarder": {
+      "difficulty": "Medium",
       "note": [
-        "300k Sugar Cane Collection"
+        "12 unique pets"
       ],
       "guide": [
-        "For this you should utilize the Garden.",
-        "Sugar Cane will unlock at Garden Level 5.",
-        "Use the Basic or Advanced Gardening Hoe,",
-        "enchant it with Harvesting 5,",
-        "and get a Common Chicken Pet.",
-        "You can also utilize pests to help with it."
+        "Recommended for this are:",
+        "Bingo, Rock, Grandma Wolf,",
+        "Pig, Enderman, Horse, Jerry,",
+        "Chicken, Silverfish, Bee,",
+        "Owl (2.2m coins) and Tarantula",
+        "Some of them require certain",
+        "collections and materials to craft."
       ]
     }
   }

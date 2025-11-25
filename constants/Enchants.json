@@ -670,7 +670,7 @@
       "loreName": "Venomous",
       "nbtName": "venomous",
       "goodLevel": 5,
-      "maxLevel": 6
+      "maxLevel": 7
     },
     "vicious": {
       "loreName": "Vicious",
@@ -833,7 +833,7 @@
       "goodLevel": 0,
       "maxLevel": 10,
       "statLabel": "absorbLogsChopped",
-      "stackLevel": [0, 1000, 5000, 25000, 100000, 300000, 1500000, 5000000, 20000000, 100000000]
+      "stackLevel": [0, 1000, 5000, 25000, 100000, 300000, 1500000, 5000000, 25000000, 50000000]
     },
     "compact": {
       "loreName": "Compact",
