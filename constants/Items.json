@@ -235,5 +235,16 @@
       "max_amount": 5,
       "per_stack_multiplier": 0.2
     }
-  }
+  },
+  "hunting_blackholes": [
+    "SMALL_POCKET_BLACK_HOLE",
+    "MEDIUM_POCKET_BLACK_HOLE"
+  ],
+  "hunting_axes": [
+    "VENATOR_GENESIS",
+    "SILVA_DOMINUS",
+    "CURSUS_FERAE",
+    "APEX_PRAEDATOR",
+    "NEX_TITANUM"
+  ]
 }
