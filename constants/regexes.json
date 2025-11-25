@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "025e645",
+  "sourceLabel": "629fe43",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -1251,7 +1251,7 @@
     "misc.chocolatefactory.timetower.recharge": "§7Next Charge: §a(?\u003cduration\u003e\\w+)",
     "misc.chocolatefactory.timetower.status": "§7Status: §.§l(?\u003cstatus\u003eINACTIVE|ACTIVE)(?: §f)?(?\u003cacitveTime\u003e\\w*)",
     "misc.chocolatefactory.unclaimedrewards": "§7§aYou have \\d+ unclaimed rewards?!",
-    "misc.chocolatefactory.upgradetier": ".*\\s(?\u003ctier\u003e[IVXLC]+)",
+    "misc.chocolatefactory.upgradetier": "(?\u003cupgrade\u003e.*)\\s(?\u003ctier\u003e[IVXLC]+)",
     "misc.compacttablist.advanced.level": ".*\\[(?\u003clevel\u003e.*)] §r(?\u003cname\u003e.*)",
     "misc.compacttablist.cookie": "Cookie Buff(?:§.)*(?:\\n(?:§.)*§7.+)*",
     "misc.compacttablist.dungeonbuff": "Dungeon Buffs(?:§.)*(?:\\n(?:§.)*§7.+)*",
