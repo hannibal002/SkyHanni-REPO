@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4ec6a27",
+  "sourceLabel": "6bfce1c",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -1406,6 +1406,7 @@
     "rift.area.westvillage.vermintracker.fly": ".*§eYou vacuumed a §.*Fly.*",
     "rift.area.westvillage.vermintracker.silverfish": ".*§eYou vacuumed a §.*Silverfish.*",
     "rift.area.westvillage.vermintracker.spider": ".*§eYou vacuumed a §.*Spider.*",
+    "rift.colosseum.bacte.chat.kill-zone": "§a⚠ §r§cGet back in the arena or you will DIE(?\u003cexclamation\u003e!+) §r§a⚠",
     "rift.colosseum.bacte.chat.name": "§a(?\u003cpreviousName\u003e.*) §r§eis growing into §r§a(?\u003cname\u003e.*)§r§e!",
     "rift.colosseum.bacte.name": "§2﴾ §8\\[§7Lv\\d+§8\\] §l§a(?\u003cname\u003e.*)§r §.[\\d.,]+§f\\/§a[\\d.,]+§c❤ §2﴿",
     "rift.everywhere.burger": ".*(?:§\\w)+You have (?:§\\w)+(?\u003camount\u003e\\d) Grubber Stacks.*",
