@@ -231,6 +231,12 @@
         "Found unknown skyblock stats on items, please report this in discord"
       ],
       "fixed_in": "5.0.1"
+    },
+    {
+      "message_starts_with": [
+        "Unknown mayor found"
+      ],
+      "fixed_in": "5.3.0"
     }
   ]
 }
