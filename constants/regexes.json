@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "c811759",
+  "sourceLabel": "4c00ac6",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -795,6 +795,7 @@
     "garden.fortuneguide.capture.strength": " Strength: §r§c❁(?\u003cstrength\u003e.*)",
     "garden.fortuneguide.capture.uniquevisitors.tier": "§7Progress to Tier (?\u003cnextTier\u003e\\w+):.*",
     "garden.fortuneguide.capture.uniquevisitors.tierprogress": ".* §e(?\u003chaving\u003e.*)§6/(?\u003ctotal\u003e.*)",
+    "garden.fungicutter.mode": "§eFungi Cutter Mode: (?:§.)*(?\u003ccolor\u003e\\w+) Mushrooms",
     "garden.inventory.anita.extrafortune.realamount": "(?:§5§o)?§aJacob\u0027s Ticket §8x(?\u003crealAmount\u003e.*)",
     "garden.inventory.logbook.accepted": "§7Offers Accepted: §a(?\u003ctimesAccepted\u003e[0-9,.]+)",
     "garden.inventory.logbook.page.current": "§ePage (?\u003cpage\u003e\\d)",
