@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6bfce1c",
+  "sourceLabel": "c811759",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -319,6 +319,7 @@
     "dungeon.copilot.countdown": ".* has started the dungeon countdown. The dungeon will begin in 1 minute.",
     "dungeon.copilot.wither.door": ".* opened a §r§8§lWITHER §r§adoor!",
     "dungeon.croesus.chest.floor": "§eFloor (?\u003cfloor\u003e[IV]+)",
+    "dungeon.croesus.chest.kuudra": "§e(?\u003ctier\u003eBasic|Hot|Burning|Fiery|Infernal) Tier",
     "dungeon.croesus.chest.master": ".*Master.*",
     "dungeon.croesus.chest.state.keyused": "§aNo more chests to open!",
     "dungeon.croesus.chest.state.kismet.used": " §8§mKismet Feather",
