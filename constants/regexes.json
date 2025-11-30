@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7908a22",
+  "sourceLabel": "6d1eb56",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -1424,7 +1424,7 @@
     "rift.punchcard.limit": "§c§lUH OH! §r§cYou reached the limit of 20 players you can punch in one session!",
     "rift.punchcard.new": "§5§lPUNCHCARD! §r§eYou punched §r§.(?:.*?)?(?\u003cname\u003e\\w+)§r§. §r§eand both regained §r§a\\+25ф Rift Time§r§e!",
     "rift.punchcard.repeat": "§c§lAWKWARD! §r§cThis player has already been punched by you\\.\\.\\. somehow!",
-    "rift.ubik.reminder": "§6§lROUND [5-9] §r§6\\(§r§lFINAL§r§6\\)§r§l: §r§eYou chose .*",
+    "rift.ubik.reminder": "§6§lROUND [5-9] §r§6\\(§r(?:§6)?§lFINAL§r§6\\)§r(?:§6)?§l: §r§eYou chose .*",
     "rngmeterinventory.floor.name": "(?:§.)*Catacombs \\((?\u003cfloor\u003e.*)\\)",
     "skyblockguide.highlight.abiphone.inventory": "Miscellaneous ➜ Abiphone Contac",
     "skyblockguide.highlight.attribute.disable.condition": "§7Enabled: §cNo",
