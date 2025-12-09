@@ -112,17 +112,16 @@
       "enforcedValues": [
         {
           "path": "dev.debug.alwaysYearOfThePig",
-          "value": true
+          "value": false
         }
       ],
-      "affectedVersion": "6.0.0",
+      "affectedVersion": "5.4.0",
       "affectedMinecraftVersions": [
         "1.8.9",
         "1.21.5",
         "1.21.8",
         "1.21.10"
-      ],
-      "extraMessage": "One of the minister perks enables year of the pig"
+      ]
     }
   ]
 }
