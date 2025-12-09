@@ -94,19 +94,34 @@
       "extraMessage": "Will be re-enabled on version 5.2.0 and later"
     },
     {
-        "enforcedValues": [
-            {
-                "path": "dev.debug.auraPropaganda",
-                "value": false
-            }
-        ],
-        "affectedVersion": "6.0.0",
-        "affectedMinecraftVersions": [
-            "1.8.9",
-            "1.21.5",
-            "1.21.8",
-            "1.21.10"
-        ]
+      "enforcedValues": [
+        {
+          "path": "dev.debug.auraPropaganda",
+          "value": false
+        }
+      ],
+      "affectedVersion": "6.0.0",
+      "affectedMinecraftVersions": [
+        "1.8.9",
+        "1.21.5",
+        "1.21.8",
+        "1.21.10"
+      ]
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "dev.debug.alwaysYearOfThePig",
+          "value": false
+        }
+      ],
+      "affectedVersion": "5.4.0",
+      "affectedMinecraftVersions": [
+        "1.8.9",
+        "1.21.5",
+        "1.21.8",
+        "1.21.10"
+      ]
     }
   ]
 }
