@@ -496,6 +496,18 @@
       9000000,
       9000000,
       9000000
+    ],
+    "MOONFLOWER": [
+      100,
+      100000000
+    ],
+    "SUNFLOWER": [
+      100,
+      100000000
+    ],
+    "WILD_ROSE": [
+      100,
+      100000000
     ]
   },
   "crop_milestone_community_help": {
