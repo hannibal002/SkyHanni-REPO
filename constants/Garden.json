@@ -1253,7 +1253,10 @@
     "POTATO": 300,
     "PUMPKIN": 100,
     "SUGAR_CANE": 200,
-    "WHEAT": 100
+    "WHEAT": 100,
+    "WILD_ROSE": 200,
+    "SUNFLOWER": 200,
+    "MOONFLOWER": 200
   },
   "pest_rare_drops": {
     "FLY": {
