@@ -595,6 +595,9 @@
     "show_wrong_data": true,
     "show_when_all_correct": true
   },
+  "hoe_exp_levels": [
+    1000, 0, 0, 0, 0, 0, 0, 0, 25000, 0, 60000, 0, 0, 120000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1300000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
   "visitors": {
     "Adventurer": {
       "rarity": "uncommon",
