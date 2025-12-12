@@ -1374,6 +1374,15 @@
     },
     "EARTHWORM": {
       "ENCHANTED_MELON_BLOCK": 15
+    },
+    "DRAGONFLY": {
+      "COMPACTED_SUNFLOWER": 6
+    },
+    "FIREFLY": {
+      "COMPACTED_MOONFLOWER": 6
+    },
+    "PRAYING_MANTIS": {
+      "COMPACTED_WILD_ROSE": 6
     }
   },
   "extra_farming_tools": [
