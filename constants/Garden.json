@@ -1322,7 +1322,8 @@
   "fuel": {
     "BIOFUEL": 3000,
     "VOLTA": 10000,
-    "OIL_BARREL": 10000
+    "OIL_BARREL": 10000,
+    "SUNFLOWER_OIL": 20000
   },
   "personal_best_increment": {
     "CACTUS": 200,
