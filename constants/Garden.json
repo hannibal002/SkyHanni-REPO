@@ -499,7 +499,7 @@
     ]
   },
   "crop_milestone_community_help": {
-    "show_wrong_data": false,
+    "show_wrong_data": true,
     "show_when_all_correct": false
   },
   "visitors": {
