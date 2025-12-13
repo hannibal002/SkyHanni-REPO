@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "f2cdb05",
+  "sourceLabel": "008e5df",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -429,6 +429,7 @@
     "event.carnival.goals.lore.zombie.shootout.score": "§7Reach §a3,000 score §7in a single game",
     "event.carnival.shootout.end": " {29}Zombie Shootout",
     "event.carnival.shootout.start": "\\[NPC] Carnival Cowboy: Good luck, pal!",
+    "event.diana.mythological.burrows.burrow-dug-capture": "§eYou (?\u003ctype\u003efinished the Griffin burrow chain!|dug out a Griffin Burrow!) §r§7\\((?\u003ccurrent\u003e\\d+)/(?\u003cmax\u003e\\d+)\\)",
     "event.diana.mythological.burrows.chain-finished": "§eYou finished the Griffin burrow chain! §r§7\\(\\d+/\\d+\\)",
     "event.diana.mythological.tracker.generic-spawn": "§c§l(?:Oh|Uh oh|Yikes|Oi|Good Grief|Danger|Woah)! §r§eYou dug out (?:a )?(?:§[a-f0-9r])*(?\u003ccreatureType\u003e[\\w\\s]+)§r§e!",
     "event.greatspook.chat.math": "§d§lQUICK MATHS! §r§7Solve: §r§e(?\u003cmath\u003e.*)",
