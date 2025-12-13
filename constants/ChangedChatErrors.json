@@ -237,6 +237,12 @@
         "Unknown mayor found"
       ],
       "fixed_in": "5.3.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.misc.UserLuckBreakdown"
+      ],
+      "fixed_in": "6.0.0"
     }
   ]
 }
