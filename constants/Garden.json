@@ -1282,5 +1282,6 @@
     "ADVANCED_GARDENING_AXE",
     "ROOKIE_HOE",
     "BINGHOE"
-  ]
+  ],
+  "dna_solver_allows_ends": true
 }
