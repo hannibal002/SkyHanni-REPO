@@ -660,6 +660,24 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "turbo-rose": {
+      "loreName": "Turbo-Rose",
+      "nbtName": "turbo_rose",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "turbo-moonflower": {
+      "loreName": "Turbo-Moonflower",
+      "nbtName": "turbo_moonflower",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "turbo-sunflower": {
+      "loreName": "Turbo-Sunflower",
+      "nbtName": "turbo_sunflower",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "vampirism": {
       "loreName": "Vampirism",
       "nbtName": "vampirism",
@@ -821,6 +839,12 @@
     "wisdom": {
       "loreName": "Wisdom",
       "nbtName": "ultimate_wisdom",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "crop fever": {
+      "loreName": "Crop Fever",
+      "nbtName": "ultimate_crop_fever",
       "goodLevel": 0,
       "maxLevel": 5
     }
