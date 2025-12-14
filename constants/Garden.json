@@ -643,7 +643,7 @@
     ]
   },
   "crop_milestone_community_help": {
-    "show_wrong_data": true,
+    "show_wrong_data": false,
     "show_when_all_correct": false
   },
   "hoe_exp_levels": [
@@ -1444,5 +1444,6 @@
     "ADVANCED_GARDENING_AXE",
     "ROOKIE_HOE",
     "BINGHOE"
-  ]
+  ],
+  "dna_solver_allows_ends": true
 }
