@@ -122,6 +122,22 @@
         "1.21.8",
         "1.21.10"
       ]
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "garden.fungiCutterWarn",
+          "value": false
+        }
+      ],
+      "affectedVersion": "5.6.0",
+      "affectedMinecraftVersions": [
+        "1.8.9",
+        "1.21.5",
+        "1.21.8",
+        "1.21.10"
+      ],
+      "extraMessage": "Fungi Cutters no longer have a mode"
     }
   ]
 }
