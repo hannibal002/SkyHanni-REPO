@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "008e5df",
+  "sourceLabel": "ac2540f",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -1536,7 +1536,7 @@
     "stats.menu.mining.wisdom": " *§3☯ Mining Wisdom §f(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.moonflower.fortune": " *(?:§7§m|§6)☘ Moonflower Fortune (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.mushroom.fortune": " *(?:§7§m|§6)☘ Mushroom Fortune (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
-    "stats.menu.nether.wart.fortune": " *(?:§7§m|§6)☘ Nether Wart Fortune (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
+    "stats.menu.nether.stalk.fortune": " *(?:§7§m|§6)☘ Nether Wart Fortune (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.ore.fortune": " *§6☘ Ore Fortune §f103",
     "stats.menu.pet.luck": " *§d♣ Pet Luck §f(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.potato.fortune": " *(?:§7§m|§6)☘ Potato Fortune (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
@@ -1613,7 +1613,7 @@
     "stats.tablist.mining.wisdom": " *Mining Wisdom: §r§3☯(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.moonflower.fortune": "",
     "stats.tablist.mushroom.fortune": "",
-    "stats.tablist.nether.wart.fortune": "",
+    "stats.tablist.nether.stalk.fortune": "",
     "stats.tablist.ore.fortune": " *Ore Fortune: §r§6☘(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.pet.luck": " *Pet Luck: §r§d♣(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.potato.fortune": "",
