@@ -1400,211 +1400,263 @@
     },
     "Vincent": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Alchemage": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "An": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Archaeologist": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Bednom": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Bruuh": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Chantelle": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Chief Scorn": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Chunk": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Cold Enjoyer": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Dante Goon": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Dulin": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Duncan": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Elle": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Erihann": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Fann": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Farm Merchant": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Frozen Alex": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Gary": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Gemma": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Hendrik": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Hoppity": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Jacobus": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Lift Operator": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Ludleth": {
       "rarity": "mythic",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Marco": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Marigold": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Master Tactician Funk": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Mayor Aatrox": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Mayor Cole": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Mayor Diana": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Mayor Diaz": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Mayor Finnegan": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Mayor Foxy": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Mayor Marina": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Mayor Paul": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Moby": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Old Shaman Nyko": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Ophelia": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Pearl Dealer": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Queen Nyx": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Romero": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Ryan": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Scout Sardius": {
       "rarity": "uncommon",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Sherry": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Spider Tamer": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "St. Jerry": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Tomioka": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Trinity": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Tyashoi Alchemist": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Tyzoo": {
       "rarity": "rare",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     },
     "Vargul": {
       "rarity": "legendary",
-      "need_items": []
+      "need_items": [],
+      "unknown_rewards": true
     }
   },
   "organic_matter": {
