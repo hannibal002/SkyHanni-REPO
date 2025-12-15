@@ -5,7 +5,13 @@
 	"essence": 10,
 	"foraging_exp": 10000,
 	"hotf_exp": 100,
-	"whispers": [ 2500, 3750, 5000, 6250, 7500 ],
+	"whispers": [
+	  2500,
+	  3750,
+	  5000,
+	  6250,
+	  7500
+	],
 	"prize_chance": 0
   },
   "uncommon": {
@@ -14,7 +20,13 @@
 	"essence": 20,
 	"foraging_exp": 20000,
 	"hotf_exp": 200,
-	"whispers": [ 5000, 7500, 10000, 12500, 15000 ],
+	"whispers": [
+	  5000,
+	  7500,
+	  10000,
+	  12500,
+	  15000
+	],
 	"prize_chance": 0
   },
   "rare": {
@@ -23,7 +35,13 @@
 	"essence": 30,
 	"foraging_exp": 30000,
 	"hotf_exp": 350,
-	"whispers": [ 7500, 11250, 15000, 18750, 22500 ],
+	"whispers": [
+	  7500,
+	  11250,
+	  15000,
+	  18750,
+	  22500
+	],
 	"prize_chance": 0
   },
   "epic": {
@@ -32,7 +50,13 @@
 	"essence": 40,
 	"foraging_exp": 40000,
 	"hotf_exp": 500,
-	"whispers": [ 10500, 15750, 21000, 26250, 31500 ],
+	"whispers": [
+	  10500,
+	  15750,
+	  21000,
+	  26250,
+	  31500
+	],
 	"prize_chance": 0.10
   },
   "legendary": {
@@ -41,7 +65,13 @@
 	"essence": 50,
 	"foraging_exp": 50000,
 	"hotf_exp": 750,
-	"whispers": [ 12500, 18750, 25000, 31250, 37500 ],
+	"whispers": [
+	  12500,
+	  18750,
+	  25000,
+	  31250,
+	  37500
+	],
 	"prize_chance": 0.20
   },
   "mythic": {
@@ -50,7 +80,13 @@
 	"essence": 60,
 	"foraging_exp": 50000,
 	"hotf_exp": 750,
-	"whispers": [ 15000, 22500, 30000, 37500, 45000 ],
+	"whispers": [
+	  15000,
+	  22500,
+	  30000,
+	  37500,
+	  45000
+	],
 	"prize_chance": 0.20
   },
   "divine": {
@@ -59,7 +95,13 @@
 	"essence": 70,
 	"foraging_exp": 50000,
 	"hotf_exp": 750,
-	"whispers": [ 17500, 26250, 35000, 43750, 52500 ],
+	"whispers": [
+	  17500,
+	  26250,
+	  35000,
+	  43750,
+	  52500
+	],
 	"prize_chance": 0.20
   },
   "special": {
@@ -68,7 +110,13 @@
 	"essence": 80,
 	"foraging_exp": 50000,
 	"hotf_exp": 750,
-	"whispers": [ 20000, 30000, 40000, 50000, 60000 ],
+	"whispers": [
+	  20000,
+	  30000,
+	  40000,
+	  50000,
+	  60000
+	],
 	"prize_chance": 0.20
   },
 }
