@@ -647,7 +647,55 @@
     "show_when_all_correct": false
   },
   "hoe_exp_levels": [
-    1000, 2000, 3000, 5000, 8000, 12000, 16000, 20000, 25000, 40000, 60000, 80000, 100000, 120000, 140000, 160000, 180000, 200000, 250000, 300000, 350000, 400000, 450000, 500000, 550000, 600000, 650000, 700000, 750000, 800000, 850000, 900000, 950000, 1000000, 1050000, 1100000, 1150000, 1200000, 1250000, 1300000, 1500000, 2000000, 2500000, 3000000, 3500000, 4000000, 4500000, 5000000, 5500000
+    1000,
+    2000,
+    3000,
+    5000,
+    8000,
+    12000,
+    16000,
+    20000,
+    25000,
+    40000,
+    60000,
+    80000,
+    100000,
+    120000,
+    140000,
+    160000,
+    180000,
+    200000,
+    250000,
+    300000,
+    350000,
+    400000,
+    450000,
+    500000,
+    550000,
+    600000,
+    650000,
+    700000,
+    750000,
+    800000,
+    850000,
+    900000,
+    950000,
+    1000000,
+    1050000,
+    1100000,
+    1150000,
+    1200000,
+    1250000,
+    1300000,
+    1500000,
+    2000000,
+    2500000,
+    3000000,
+    3500000,
+    4000000,
+    4500000,
+    5000000,
+    5500000
   ],
   "hoe_exp_overflow": 200000,
   "visitors": {
@@ -694,7 +742,7 @@
       "position": "52:71:-136",
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1MzY3NTkzMzY3NjQsInByb2Zp\nbGVJZCI6IjQ2N2NmOTRkY2UyYjQ1ZTY4YmRhNTJlNTUwMmU3M2U4IiwicHJvZ\nmlsZU5hbWUiOiJMaWxpeWFfIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsIn\nRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmV\njcmFmdC5uZXQvdGV4dHVyZS9jYzJlODE5OTA2ZWIxNzk0MzliOGRkNTU1MTEz\nMmU1NGViNDcxNzNlMGY0NTg4NjFhZDJhOGM5Mzc5MTgzODkxIn19fQ=="
     },
-   "Baker": {
+    "Baker": {
       "rarity": "legendary",
       "need_items": [
         "Fine Flour"
@@ -1349,6 +1397,214 @@
       "mode": "hub",
       "position": "35:71:-96",
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1ODU1NDUxNzU2NjgsInByb2Zp\nbGVJZCI6IjllOGI4NzQ3YTMxNzQ0ZTY4YTQ4NzEzMzQwM2I0ZDM1IiwicHJvZ\nmlsZU5hbWUiOiJFdmlsRGN0ciIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLC\nJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5\nlY3JhZnQubmV0L3RleHR1cmUvMmJiY2Y3M2E0NjAzYjVhYTU0OTFjZWZjMTU1\nZjc3MGRlMWE4MjQ2NmE1ODUwNjA0YmE1ZWEyNDk4MGNiNTQ3OSJ9fX0="
+    },
+    "Vincent": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Alchemage": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "An": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Archaeologist": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Bednom": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Bruuh": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Chantelle": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Chief Scorn": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Chunk": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Cold Enjoyer": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Dante Goon": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Dulin": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Duncan": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Elle": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Erihann": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Fann": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Farm Merchant": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Frozen Alex": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Gary": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Gemma": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Hendrik": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Hoppity": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Jacobus": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Lift Operator": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Ludleth": {
+      "rarity": "mythic",
+      "need_items": []
+    },
+    "Marco": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Marigold": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Master Tactician Funk": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Mayor Aatrox": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Mayor Cole": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Mayor Diana": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Mayor Diaz": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Mayor Finnegan": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Mayor Foxy": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Mayor Marina": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Mayor Paul": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Moby": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Old Shaman Nyko": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Ophelia": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Pearl Dealer": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Queen Nyx": {
+      "rarity": "legendary",
+      "need_items": []
+    },
+    "Romero": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Ryan": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Scout Sardius": {
+      "rarity": "uncommon",
+      "need_items": []
+    },
+    "Sherry": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Spider Tamer": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "St. Jerry": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Tomioka": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Trinity": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Tyashoi Alchemist": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Tyzoo": {
+      "rarity": "rare",
+      "need_items": []
+    },
+    "Vargul": {
+      "rarity": "legendary",
+      "need_items": []
     }
   },
   "organic_matter": {
