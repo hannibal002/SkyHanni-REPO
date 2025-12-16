@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "bffa682",
+  "sourceLabel": "4ad59f8",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -937,7 +937,7 @@
     "inventory.glacite.heart": "§7Glacite Powder: §a§.(?\u003cpowder\u003e[\\d,]+)",
     "inventory.glacite.reset": "\\s+§8- §.(?\u003cpowder\u003e[\\d,]+) Glacite Powder",
     "inventory.hidenotclickable.clicktosell": "§eClick to sell!",
-    "inventory.hidenotclickable.inventory.hidenotclickable.seeds": "SEEDS|CARROT_ITEM|POTATO_ITEM|PUMPKIN_SEEDS|SUGAR_CANE|MELON_SEEDS|CACTUS|INK_SACK-3",
+    "inventory.hidenotclickable.inventory.hidenotclickable.seeds": "SEEDS|CARROT_ITEM|POTATO_ITEM|PUMPKIN_SEEDS|SUGAR_CANE|MELON_SEEDS|CACTUS|INK_SACK-3|DOUBLE_PLANT|MOONFLOWER|WILD_ROSE",
     "inventory.item.overlay.bestiarystack": "§7Progress to Tier (?\u003ctier\u003e[\\dIVXC]+): §b[\\d.]+%",
     "inventory.item.overlay.bingogoalrank": "(?:§.)*You were the (?:§.)*(?\u003crank\u003e\\w+)(?\u003cordinal\u003est|nd|rd|th) (?:§.)*to",
     "inventory.item.overlay.dungeonpotion": "Dungeon (?\u003clevel\u003e.*) Potion(?: x1)?",
