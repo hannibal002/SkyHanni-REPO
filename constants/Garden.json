@@ -1654,6 +1654,12 @@
       "rarity": "legendary",
       "need_items": [],
       "unknown_rewards": true
+    },
+    "Carpenter": {
+      "rarity": "rare",
+      "need_items": [],
+      "unknown_rewards": true
+
     }
   },
   "organic_matter": {
