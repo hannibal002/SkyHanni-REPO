@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "582c443",
+  "sourceLabel": "53f718b",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -836,6 +836,7 @@
     "garden.plot.barnname": "§.(?\u003cname\u003eThe Barn)",
     "garden.plot.chat.clean": "§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§ais now clean!",
     "garden.plot.chat.unlock": "§aUnlocked Garden §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*)§r§a!",
+    "garden.plot.greenhouse": "§7Greenhouse Plot",
     "garden.plot.name": "§.Plot §7- §b(?\u003cname\u003e.*)",
     "garden.plot.spray.cleared.portablewasher": "§9§lSPLASH! §r§6Your §r§[ba]Garden §r§6was cleared of all active §r§aSprayonator §r§6effects!",
     "garden.plot.spray.target": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§7with §r§a(?\u003cspray\u003e.*)§r§7!",
