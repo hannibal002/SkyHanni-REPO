@@ -87,7 +87,7 @@
       },
       {
         "name": "Present 22",
-        "position": "114:58:-137"
+        "position": "115:58:-175"
       },
       {
         "name": "Present 23",
@@ -127,7 +127,7 @@
       },
       {
         "name": "Present 32",
-        "position": "-22:62:125"
+        "position": "-22:62:-125"
       },
       {
         "name": "Present 33",
@@ -155,7 +155,7 @@
       },
       {
         "name": "Present 39",
-        "position": "11:57:176"
+        "position": "131:55:176"
       },
       {
         "name": "Present 40",
@@ -220,15 +220,15 @@
     ],
     "mcgolobby": [
       {
-        "name": "Present",
+        "name": "Present 1",
         "position": "28:52:7"
       },
       {
-        "name": "Present",
+        "name": "Present 2",
         "position": "61:55:41"
       },
       {
-        "name": "Present",
+        "name": "Present 3",
         "position": "-26:53:32"
       }
     ],
@@ -313,15 +313,15 @@
     "legacylobby": [
       {
         "name": "Present 1",
-        "position": "7:91:-52"
+        "position": "-6:82:-21"
       },
       {
         "name": "Present 2",
-        "position": "64:23:-68"
+        "position": "-55:85:-60"
       },
       {
         "name": "Present 3",
-        "position": "88:28:-120"
+        "position": "-43:77:-182"
       }
     ],
     "prototypelobby": [
@@ -418,5 +418,23 @@
     ]
   },
   "presents_entrances": {
+    "lobby": [
+      {
+        "name": "Present 18 Entrance",
+        "position": "152:63:-25"
+      }
+    ],
+	"bglobby": [
+      {
+        "name": "Present 2 Entrance",
+        "position": "-2576:47:758"
+      }
+	],
+	"prototypelobby": [
+      {
+        "name": "Present 3 Entrance",
+        "position": "-52:75:2"
+      }
+	]
   }
 }
