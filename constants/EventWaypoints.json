@@ -7,271 +7,271 @@
       },
       {
         "name": "Present 2",
-        "position": "-16:75:-24"
+        "position": "15:64:182"
       },
       {
         "name": "Present 3",
-        "position": "18:60:-42"
+        "position": "-6:65:124"
       },
       {
         "name": "Present 4",
-        "position": "26:64:9"
-      },
-      {
-        "name": "Present 5",
-        "position": "8:70:26"
-      },
-      {
-        "name": "Present 6",
-        "position": "-9:64:20"
-      },
-      {
-        "name": "Present 7",
-        "position": "-11:70:38"
-      },
-      {
-        "name": "Present 8",
         "position": "25:66:96"
       },
       {
+        "name": "Present 5",
+        "position": "64:58:106"
+      },
+      {
+        "name": "Present 6",
+        "position": "70:67:151"
+      },
+      {
+        "name": "Present 7",
+        "position": "103:68:140"
+      },
+      {
+        "name": "Present 8",
+        "position": "-60:85:-40"
+      },
+      {
         "name": "Present 9",
-        "position": "-2:69:172"
+        "position": "-19:87:-79"
       },
       {
         "name": "Present 10",
-        "position": "-49:62:124"
+        "position": "-53:83:-87"
       },
       {
         "name": "Present 11",
-        "position": "-105:74:148"
+        "position": "-108:64:-71"
       },
       {
         "name": "Present 12",
-        "position": "-115:62:88"
+        "position": "-51:94:-2"
       },
       {
         "name": "Present 13",
-        "position": "-177:51:143"
+        "position": "-160:57:-102"
       },
       {
         "name": "Present 14",
-        "position": "-169:118:112"
+        "position": "-223:51:-1"
       },
       {
         "name": "Present 15",
-        "position": "89:68:136"
+        "position": "-178:63:39"
       },
       {
         "name": "Present 16",
-        "position": "127:67:105"
+        "position": "35:64:20"
       },
       {
         "name": "Present 17",
-        "position": "96:82:106"
+        "position": "81:75:7"
       },
       {
         "name": "Present 18",
-        "position": "116:83:102"
+        "position": "153:64:-41"
       },
       {
         "name": "Present 19",
-        "position": "-70:120:-5"
+        "position": "105:87:-49"
       },
       {
         "name": "Present 20",
-        "position": "-170:76:-37"
+        "position": "143:80:-103"
       },
       {
         "name": "Present 21",
-        "position": "-121:57:-171"
+        "position": "133:68:-136"
       },
       {
         "name": "Present 22",
-        "position": "68:60:-170"
+        "position": "115:58:-175"
       },
       {
         "name": "Present 23",
-        "position": "86:71:27"
+        "position": "-2:60:174"
       },
       {
         "name": "Present 24",
-        "position": "85:73:7"
+        "position": "12:51:-238"
       },
       {
         "name": "Present 25",
-        "position": "121:68:-15"
+        "position": "59:105:-137"
       },
       {
         "name": "Present 26",
-        "position": "151:64:-34"
+        "position": "57:62:-80"
       },
       {
         "name": "Present 27",
-        "position": "179:68:-10"
+        "position": "-75:128:58"
       },
       {
         "name": "Present 28",
-        "position": "199:58:-41"
+        "position": "-68:120:-3"
       },
       {
         "name": "Present 29",
-        "position": "133:51:-8"
+        "position": "-146:106:22"
       },
       {
         "name": "Present 30",
-        "position": "127:48:5"
+        "position": "-135:69:-13"
       },
       {
         "name": "Present 31",
-        "position": "167:68:28"
+        "position": "11:32:0"
       },
       {
         "name": "Present 32",
-        "position": "157:78:27"
+        "position": "-22:62:-125"
       },
       {
         "name": "Present 33",
-        "position": "100:75:6"
+        "position": "-90:59:-171"
       },
       {
         "name": "Present 34",
-        "position": "92:90:49"
+        "position": "0:55:252"
       },
       {
         "name": "Present 35",
-        "position": "99:110:45"
+        "position": "-131:71:-128"
       },
       {
         "name": "Present 36",
-        "position": "148:97:25"
+        "position": "-98:110:46"
       },
       {
         "name": "Present 37",
-        "position": "154:107:31"
+        "position": "-53:92:22"
       },
       {
         "name": "Present 38",
-        "position": "165:121:25"
+        "position": "-50:85:32"
       },
       {
         "name": "Present 39",
-        "position": "156:110:-15"
+        "position": "131:55:176"
       },
       {
         "name": "Present 40",
-        "position": "103:114:1"
+        "position": "-77:60:169"
       }
     ],
     "tntlobby": [
       {
         "name": "Present 1",
-        "position": "9:73:51"
+        "position": "6:71:-2"
       },
       {
         "name": "Present 2",
-        "position": "-3:72:-32"
+        "position": "7:72:49"
       },
       {
         "name": "Present 3",
-        "position": "40:78:-32"
+        "position": "22:72:-34"
       }
     ],
     "blitzlobby": [
       {
         "name": "Present 1",
-        "position": "-5:50:-36"
+        "position": "18:51:8"
       },
       {
         "name": "Present 2",
-        "position": "35:54:-47"
+        "position": "54:52:16"
       },
       {
         "name": "Present 3",
-        "position": "-19:54:40"
+        "position": "58:54:-45"
       }
     ],
     "megawallslobby": [
       {
         "name": "Present 1",
-        "position": "37:52:21"
+        "position": "37:53:0"
       },
       {
         "name": "Present 2",
-        "position": "32:55:-45"
+        "position": "5:66:38"
       },
       {
         "name": "Present 3",
-        "position": "-10:86:-2"
+        "position": "1:56:-35"
       }
     ],
     "arcadelobby": [
       {
         "name": "Present 1",
-        "position": "19:65:17"
+        "position": "-1:63:9"
       },
       {
         "name": "Present 2",
-        "position": "102:95:5"
+        "position": "99:84:-1"
       },
       {
         "name": "Present 3",
-        "position": "96:69:-53"
+        "position": "-56:63:27"
       }
     ],
     "mcgolobby": [
       {
         "name": "Present 1",
-        "position": "43:52:-10"
+        "position": "28:52:7"
       },
       {
         "name": "Present 2",
-        "position": "-72:52:-55"
+        "position": "61:55:41"
       },
       {
         "name": "Present 3",
-        "position": "-51:52:39"
+        "position": "-26:53:32"
       }
     ],
     "uhclobby": [
       {
         "name": "Present 1",
-        "position": "3:28:5"
+        "position": "-7:28:-20"
       },
       {
         "name": "Present 2",
-        "position": "71:28:20"
+        "position": "28:29:-22"
       },
       {
         "name": "Present 3",
-        "position": "32:28:-33"
+        "position": "-53:29:36"
       }
     ],
     "bglobby": [
       {
         "name": "Present 1",
-        "position": "-2512:52:758"
+        "position": "-2560:48:744"
       },
       {
         "name": "Present 2",
-        "position": "-2533:55:712"
+        "position": "-2601:43:852"
       },
       {
         "name": "Present 3",
-        "position": "-2607:48:729"
+        "position": "-2522:54:779"
       }
     ],
     "smashlobby": [
       {
         "name": "Present 1",
-        "position": "803:43:-6"
+        "position": "811:36:62"
       },
       {
         "name": "Present 2",
-        "position": "768:35:85"
+        "position": "821:36:29"
       },
       {
         "name": "Present 3",
-        "position": "737:31:145"
+        "position": "779:35:127"
       }
     ],
     "housinglobby": [
@@ -281,166 +281,160 @@
       },
       {
         "name": "Present 2",
-        "position": "-57:75:68"
+        "position": "14:65:77"
       },
       {
         "name": "Present 3",
-        "position": "80:89:74"
+        "position": "126:72:17"
       }
     ],
     "swlobby": [
       {
         "name": "Present 1",
-        "position": "-12:61:-8"
+        "position": "37:65:-1"
       },
       {
         "name": "Present 2",
-        "position": "22:65:-47"
+        "position": "50:63:-24"
       },
       {
         "name": "Present 3",
-        "position": "55:66:0"
+        "position": "-4:63:36"
       },
       {
         "name": "Present 4",
-        "position": "27:54:22"
+        "position": "42:65:31"
       },
       {
         "name": "Present 5",
-        "position": "-4:63:36"
+        "position": "-26:63:-24"
       }
     ],
     "legacylobby": [
       {
         "name": "Present 1",
-        "position": "7:91:-52"
+        "position": "-6:82:-21"
       },
       {
         "name": "Present 2",
-        "position": "64:23:-68"
+        "position": "-55:85:-60"
       },
       {
         "name": "Present 3",
-        "position": "88:28:-120"
+        "position": "-43:77:-182"
       }
     ],
     "prototypelobby": [
       {
         "name": "Present 1",
-        "position": "37:74:27"
+        "position": "-6:73:-20"
       },
       {
         "name": "Present 2",
-        "position": "34:96:-14"
+        "position": "-17:84:-51"
       },
       {
         "name": "Present 3",
-        "position": "-45:88:4"
+        "position": "-41:70:4"
       }
     ],
     "bedwarslobby": [
       {
         "name": "Present 1",
-        "position": "-29:67:-7"
+        "position": "5:67:4"
       },
       {
         "name": "Present 2",
-        "position": "3:92:60"
+        "position": "-25:67:7"
       },
       {
         "name": "Present 3",
-        "position": "-64:76:132"
+        "position": "-58:70:-11"
       },
       {
         "name": "Present 4",
-        "position": "102:71:-44"
+        "position": "-55:95:-108"
       },
       {
         "name": "Present 5",
-        "position": "-55:77:-69"
+        "position": "-8:82:93"
       }
     ],
     "mmlobby": [
       {
         "name": "Present 1",
-        "position": "41:75:13"
+        "position": "30:68:0"
       },
       {
         "name": "Present 2",
-        "position": "115:95:35"
+        "position": "-55:71:1"
       },
       {
         "name": "Present 3",
-        "position": "-41:66:-9"
+        "position": "146:107:-43"
       }
     ],
     "bblobby": [
       {
         "name": "Present 1",
-        "position": "60:67:5"
+        "position": "8:67:6"
       },
       {
         "name": "Present 2",
-        "position": "95:85:-57"
+        "position": "-21:69:0"
       },
       {
         "name": "Present 3",
-        "position": "187:108:-8"
+        "position": "113:70:0"
       }
     ],
     "duelslobby": [
       {
         "name": "Present 1",
-        "position": "-8:69:13"
+        "position": "0:69:-5"
       },
       {
         "name": "Present 2",
-        "position": "3:69:70"
+        "position": "-6:70:-18"
       },
       {
         "name": "Present 3",
-        "position": "31:71:-57"
+        "position": "-43:133:12"
       }
     ],
     "woollobby": [
       {
         "name": "Present 1",
-        "position": "19:74:-10"
+        "position": "-24:75:-8"
       },
       {
         "name": "Present 2",
-        "position": "75:89:-74"
+        "position": "-64:107:0"
       },
       {
         "name": "Present 3",
-        "position": "-76:91:31"
+        "position": "34:76:22"
       }
     ]
   },
   "presents_entrances": {
     "lobby": [
       {
-        "name": "Present 26 Entrance",
+        "name": "Present 18 Entrance",
         "position": "152:63:-25"
       }
     ],
-    "legacylobby": [
+	"bglobby": [
       {
-        "name": "Present 2 & 3 Entrance",
-        "position": "38:83:-96"
+        "name": "Present 2 Entrance",
+        "position": "-2576:47:758"
       }
-    ],
-    "prototypelobby": [
+	],
+	"prototypelobby": [
       {
-        "name": "Present 1 Entrance",
-        "position": "48:74:15"
+        "name": "Present 3 Entrance",
+        "position": "-52:75:2"
       }
-    ],
-    "swlobby": [
-      {
-        "name": "Present 4 Entrance",
-        "position": "44:54:26"
-      }
-    ]
+	]
   }
 }
