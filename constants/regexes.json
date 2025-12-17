@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4ad59f8",
+  "sourceLabel": "582c443",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -815,7 +815,7 @@
     "garden.nextcontest.time-left": "(?:§.)+Jacob\u0027s Contest: (?:§.)+(?\u003ctimeleft\u003e\\d+[smh]+) left",
     "garden.pests-api.chat.no-pests": "§cThere are not any Pests on your Garden right now! Keep farming!",
     "garden.pests-api.chat.pest-death": "§eYou received §a(?\u003camount\u003e[0-9]*)x (?\u003citem\u003e.*) §efor killing an? §2(?\u003cpest\u003e.*)§e!",
-    "garden.pests-api.entity.pest-trap": "(?:§.)+§l(?\u003ctype\u003ePEST|MOUSE) TRAP(?: #(?\u003cnumber\u003e\\d+))?(?:§.)*",
+    "garden.pests-api.entity.pest-trap": "(?:§.)+§l(?\u003ctype\u003ePEST|MOUSE|VERMIN) TRAP(?: #(?\u003cnumber\u003e\\d+))?(?:§.)*",
     "garden.pests-api.inventory": "§4§lൠ §cThis plot has §6(?\u003camount\u003e\\d) Pests?§c!",
     "garden.pests-api.scoreboard.no-pests": " §7⏣ §a(?:The Garden|Plot §7- §b.+)$",
     "garden.pests-api.scoreboard.pests": " §7⏣ §[ac]The Garden §4§lൠ§7 x(?\u003cpests\u003e.*)",
