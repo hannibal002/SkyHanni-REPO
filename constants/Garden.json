@@ -1721,8 +1721,8 @@
       "POLISHED_PUMPKIN": 3
     },
     "SLUG": {
-      "ENCHANTED_HUGE_MUSHROOM_1": 15,
-      "ENCHANTED_HUGE_MUSHROOM_2": 15
+      "ENCHANTED_HUGE_MUSHROOM_1": 3,
+      "ENCHANTED_HUGE_MUSHROOM_2": 3
     },
     "MITE": {
       "ENCHANTED_CACTUS": 6
@@ -1731,13 +1731,13 @@
       "ENCHANTED_SUGAR_CANE": 6
     },
     "MOTH": {
-      "ENCHANTED_COOKIE": 11
+      "ENCHANTED_COOKIE": 9
     },
     "BEETLE": {
       "MUTANT_NETHER_STALK": 9
     },
     "CRICKET": {
-      "ENCHANTED_GOLDEN_CARROT": 12
+      "ENCHANTED_GOLDEN_CARROT": 10
     },
     "LOCUST": {
       "ENCHANTED_BAKED_POTATO": 10
