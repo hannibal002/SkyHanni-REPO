@@ -1,6 +1,9 @@
 {
   "perks": [
     "MYTHOLOGICAL_RITUAL",
-    "PELT_POCALYPSE"
+    "PELT_POCALYPSE",
+    "STATSPOCALYPSE",
+    "PERKPOCALYPSE",
+    "JERRYPOCALYPSE"
   ]
 }
