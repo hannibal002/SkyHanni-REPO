@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1946991",
+  "sourceLabel": "ab2b224",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -722,7 +722,8 @@
     "foraging.sweep-details.penalty": "\\s+(?:§.)+(?\u003cpenaltyReason\u003e[\\S ]+): (?\u003cpenaltyDisplay\u003e(?:§.)+-(?\u003cpenaltyPercent\u003e[\\d,.]+)%) Sweep (?\u003clogsDisplay\u003e(?:§.)?(?\u003cisItGreen\u003e§.)(?\u003clogsAmount\u003e[\\d,.]+)) Logs(?: (?\u003cproTip\u003e(?:§.)+[\\S ]+))?",
     "foraging.sweep-details.toughness-and-logs": "\\s+(?:§.)+(?\u003ctreeType\u003e[\\S ]+) Tree Toughness: (?\u003ctoughnessDisplay\u003e§r§6(?\u003ctoughnessAmount\u003e[\\d,.]+)) (?\u003clogsDisplay\u003e(?:§.)+(?\u003cisItGreen\u003e§.)(?\u003clogsAmount\u003e[\\d,.]+)) Logs",
     "foraging.tree.progress": "(?\u003ctreeType\u003e§.§l\\w+) TREE §r§b§l(?\u003cpercent\u003e\\d+)%",
-    "foraging.treegift.bonus-gift.enchanted-book": "(?:§.)+Enchanted Book \\((?:§.)+(?\u003cbook\u003e.*) (?\u003ctier\u003e[IVCLX])(?:§.)+\\)",
+    "foraging.treegift.bonus-gift.enchanted-book": " *(?:§.)+Enchanted Book \\((?:§.)+(?\u003cbook\u003e.*) (?\u003ctier\u003e[IVCLX])(?:§.)+\\)",
+    "foraging.treegift.bonus-gift.phantoms": " *(?:§.)+A (?:§.)+(?\u003cphantom\u003e.*) (?:§.)+fell from the Tree!",
     "foraging.treegift.bonus-gift.reward": " *(?:§.)*§r(?\u003citem\u003e.*) §r§8\\((?:§.)+(?\u003cpercentage\u003e[\\d.]+)%(?:§.)+\\)",
     "foraging.treegift.bonus-gift.separator": " *(?:§.)+BONUS GIFT",
     "foraging.treegift.contribution-percentage": " *(?:§.)+You helped cut (?\u003cpercentColor\u003e§.)+(?\u003cpercentage\u003e[\\d.]+)% (?:§.)+of the (?:§.)+(?\u003ctype\u003e.*) Tree(?:§.)+\\.",
