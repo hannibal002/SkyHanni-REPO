@@ -1,0 +1,30 @@
+{
+  "uncommon_drops": [
+	"STRETCHING_STICKS",
+	"DEEP_ROOT"
+  ],
+  "enchanted_books": [
+	"ULTIMATE_FIRST_IMPRESSION;1",
+	"ULTIMATE_MISSILE;1"
+  ],
+  "boosters": [
+	"SWEEP_BOOSTER",
+	"FORAGING_WISDOM_BOOSTER"
+  ],
+  "shards": [
+	"ATTRIBUTE_SHARD_CHOP;1",
+	"ATTRIBUTE_SHARD_REPTILOID;1"
+  ],
+  "mobs": [
+	"Phanpyre",
+	"Phanflare",
+	"Dreadwing"
+  ],
+  "runes": [
+	"AXE_FADING_WHITE_RUNE;1",
+	"AXE_FADING_GREEN_RUNE;1"
+  ],
+  "misc_drops": [
+	"TREE_THE_FISH"
+  ]
+}
