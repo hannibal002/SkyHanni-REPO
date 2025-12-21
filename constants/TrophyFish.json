@@ -46,7 +46,7 @@
     },
     "gusher": {
       "displayName": "§fGusher",
-      "description": "§7Caught everywhere between §a7-16 minutes §7after a §6Blazing Volcano§7 eruption.",
+      "description": "§7Caught in the §6Blazing Volcano§7 between §a7-16 minutes §7after a §6Blazing Volcano§7 eruption.",
       "rate": 20,
       "fillet": {
         "bronze": 32,

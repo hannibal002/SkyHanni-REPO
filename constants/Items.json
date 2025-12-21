@@ -43,22 +43,12 @@
   ],
   "water_fishing_rods": [
     "FISHING_ROD",
-    "PRISMARINE_ROD",
-    "ICE_ROD",
-    "SPONGE_ROD",
-    "SPEEDSTER_ROD",
-    "FARMER_ROD",
-    "WINTER_ROD",
     "CHALLENGE_ROD",
     "CHAMP_ROD",
     "LEGEND_ROD",
     "ROD_OF_THE_SEA",
-    "YETI_ROD",
-    "AUGER_ROD",
-    "CHUM_ROD",
     "GIANT_FISHING_ROD",
-    "THE_SHREDDER",
-    "PHANTOM_ROD"
+    "BINGO_ROD"
   ],
   "dungeon_secret_items": [
     "DEFUSE_KIT",
@@ -121,6 +111,113 @@
       "hardened_mana",
       "mana_vampire",
       "strong_mana"
-    ]
+    ],
+    "endcap_enchants": {
+      "pesterminator": {
+        "required_level": 5,
+        "endcap_item": "PESTHUNTING_GUIDE"
+      },
+      "charm": {
+        "required_level": 5,
+        "endcap_item": "CHAIN_END_TIMES"
+      },
+      "ender_slayer": {
+        "required_level": 6,
+        "endcap_item": "ENDSTONE_IDOL"
+      },
+      "bane_of_arthropods": {
+        "required_level": 6,
+        "endcap_item": "ENSNARED_SNAIL"
+      },
+      "luck_of_the_sea": {
+        "required_level": 6,
+        "endcap_item": "GOLD_BOTTLE_CAP"
+      },
+      "scavenger": {
+        "required_level": 5,
+        "endcap_item": "GOLDEN_BOUNTY"
+      },
+      "spiked_hook": {
+        "required_level": 6,
+        "endcap_item": "OCTOPUS_TENDRIL"
+      },
+      "smite": {
+        "required_level": 6,
+        "endcap_item": "SEVERED_HAND"
+      },
+      "frail": {
+        "required_level": 6,
+        "endcap_item": "SEVERED_PINCER"
+      },
+      "piscary": {
+        "required_level": 6,
+        "endcap_item": "TROUBLED_BUBBLE"
+      }
+    }
+  },
+  "compact_names": {
+    "Enchanted": "Ench",
+    "Mushroom": "Mush",
+    "Mooshroom": "Moosh",
+    "Aquamarine Gemstone": "Aqua Gem",
+    "Gemstone": "Gem",
+    "Exceedingly Rare Ender Artifact Upgrade": "Ender Artifact Upgrade",
+    "Perma-Jelled Garlic-Flavored Re-Heated Gummy Polar Bear": "Perma Gummy Bear",
+    "Crab Hat of Celebration - 2022 Edition": "Celeb Crab Hat 22'",
+    "Crab Hat of Celebration": "Celeb Crab Hat",
+    "Sloth Hat of Celebration": "Celeb Sloth Hat",
+    "Travel Scroll to ": "TP to ",
+    "Wisp's Ice-Flavored Water I Splash Potion": "Ice Water Splash Potion",
+    "Basket of Hope from the Great Potato War": "Potato War Basket",
+    "Century Cake": "Cent Cake",
+    "Extreme Bingo Card (Extreme Bingo #1)": "Extreme Bingo Card 1'",
+    "Anniversary Balloon Hat": "Anniv Balloon Hat",
+    "An Extremely Difficult Item For You To Find": "Hard To Find Item",
+    "Enderman Cortex Rewriter": "Ender Cort",
+    "Pocket Espresso Machine": "Espresso Machine",
+    " DIAMOND": " Dia",
+    " BRONZE": " Bronze",
+    " GOLD": " Gold",
+    " SILVER": " Silver",
+    " Potion": " Pot",
+    " - Tier ": " T ",
+    "Enchanting ": "Ench ",
+    "Experience ": "Exp ",
+    "Super Sharp 'n Stabby Steak Stake": "Super Steak Stake",
+    "Obfuscated ": "Obfus ",
+    "Regeneration ": "Regen ",
+    "Invisibility ": "Invis ",
+    "Resistance ": "Resis ",
+    "Tarantula ": "Tara ",
+    "Necromancer Lord  ": "Necro Lord ",
+    "Personal Compactor ": "Personal Comp ",
+    "Super Compactor ": "Super Comp ",
+    "Protection ": "Prot ",
+    "Volcanic Stonefish ": "Volc Stone",
+    "Talisman": "Talis",
+    "Mycelium": "Mycel",
+    "Armor of Magma ": "Magma ",
+    "New Year Cake Bag": "New Year Bag",
+    " Dragon Fragment": " Drag Frag",
+    "Great White Shark Tooth": "GWS Tooth",
+    "Bane of Arthropods": "Bane of Arthro",
+    "Steaming-Hot Flounder": "Hot Flounder"
+  },
+  "renamed_enchantments": {
+    "Turbo-Cocoa": "Turbo-Coco",
+    "Turbo-Cacti": "Turbo-Cactus",
+    "Prismatic": "Pristine",
+    "Dragon Tracer": "Aiming",
+    "Drain": "Syphon",
+    "Gravity": "Dragon Hunter",
+    "Woodsplitter": "Arcane"
+  },
+  "shard_name_overrides": {
+    "STRIDERSURFER": "STRIDER_SURFER",
+    "ABYSSAL_LANTERNFISH": "ABYSSAL_LANTERN",
+    "CINDERBAT": "CINDER_BAT",
+    "END_STONE_PROTECTOR": "ENDSTONE_PROTECTOR",
+    "LOCH_EMPEROR": "SEA_EMPEROR",
+    "BOGGED": "SEA_ARCHER"
   }
 }

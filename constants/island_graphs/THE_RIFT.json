@@ -2993,21 +2993,23 @@
     "Position": "-85.0:73.0:-112.0",
     "Neighbours": {
       "773": 3.0,
-      "335": 5.0
+      "335": 3.0
     }
   },
   "335": {
-    "Position": "-85.0:73.0:-117.0",
+    "Position": "-85.0:73.0:-115.0",
     "Neighbours": {
-      "336": 4.0,
-      "334": 5.0
+      "334": 3.0,
+      "2192": 4.12,
+      "336": 5.66
     }
   },
   "336": {
-    "Position": "-89.0:73.0:-117.0",
+    "Position": "-89.0:73.0:-119.0",
     "Neighbours": {
-      "335": 4.0,
-      "338": 7.07
+      "2190": 3.32,
+      "338": 5.1,
+      "335": 5.66
     }
   },
   "337": {
@@ -3026,8 +3028,9 @@
   "338": {
     "Position": "-90.0:73.0:-124.0",
     "Neighbours": {
+      "2190": 3.0,
+      "336": 5.1,
       "341": 5.1,
-      "336": 7.07,
       "339": 8.12
     }
   },
@@ -3069,7 +3072,8 @@
   "342": {
     "Position": "-93.0:72.0:-130.0",
     "Neighbours": {
-      "341": 3.16
+      "341": 3.16,
+      "2193": 5.92
     }
   },
   "343": {
@@ -4368,7 +4372,8 @@
   "493": {
     "Position": "-98.0:73.0:-120.0",
     "Neighbours": {
-      "492": 5.0
+      "492": 5.0,
+      "2193": 5.39
     }
   },
   "494": {
@@ -6677,7 +6682,7 @@
   },
   "784": {
     "Position": "-15.0:72.0:-102.0",
-    "Name": "Tranfigurd Seraphine",
+    "Name": "Transfigured Seraphine",
     "Tags": [
       "npc"
     ],
@@ -6939,7 +6944,7 @@
   },
   "819": {
     "Position": "-122.0:121.0:135.0",
-    "Name": "Sad Jacquell",
+    "Name": "Sad Jacquelle",
     "Tags": [
       "npc",
       "rift_montezuma"
@@ -7436,7 +7441,7 @@
   },
   "883": {
     "Position": "-70.0:79.0:42.0",
-    "Name": "Parcour",
+    "Name": "Parkour",
     "Tags": [
       "poi"
     ],
@@ -8856,7 +8861,7 @@
   },
   "1058": {
     "Position": "-15.0:72.0:-174.0",
-    "Name": "The Baby Yaga",
+    "Name": "The Baba Yaga",
     "Tags": [
       "rift_eye"
     ],
@@ -10251,7 +10256,7 @@
   },
   "1229": {
     "Position": "253.0:124.0:86.0",
-    "Name": "Faiylosopher Cult",
+    "Name": "Fairylosopher Cult",
     "Tags": [
       "poi"
     ],
@@ -11224,7 +11229,7 @@
   },
   "1356": {
     "Position": "-187.0:68.0:59.0",
-    "Name": "Laloon Hut",
+    "Name": "Lagoon Hut",
     "Tags": [
       "small_area"
     ],
@@ -11458,7 +11463,7 @@
   },
   "1384": {
     "Position": "-136.0:51.0:121.0",
-    "Name": "Prssurized Soul",
+    "Name": "Pressurized Soul",
     "Tags": [
       "rift_enigma"
     ],
@@ -11846,7 +11851,7 @@
   },
   "1437": {
     "Position": "-169.0:81.0:12.0",
-    "Name": "Mushrom Guy Soul",
+    "Name": "Mushroom Guy Soul",
     "Tags": [
       "rift_enigma"
     ],
@@ -12376,7 +12381,7 @@
   },
   "1508": {
     "Position": "-38.0:45.0:130.0",
-    "Name": "Dolthin Parkour",
+    "Name": "Dolphin Parkour",
     "Tags": [
       "rift_enigma"
     ],
@@ -15448,7 +15453,7 @@
   },
   "1891": {
     "Position": "24.0:108.0:54.0",
-    "Name": "Spinning Questionmarks",
+    "Name": "Spinning question marks",
     "Tags": [
       "poi",
       "dev"
@@ -16017,7 +16022,7 @@
   },
   "1957": {
     "Position": "7.0:114.0:73.0",
-    "Name": "New Soul with Bloons",
+    "Name": "New Soul with Balloons",
     "Tags": [
       "rift_enigma",
       "dev"
@@ -17853,6 +17858,42 @@
     "Neighbours": {
       "1864": 23.19,
       "1869": 31.02
+    }
+  },
+  "2189": {
+    "Position": "-84.0:74.0:-122.0",
+    "Neighbours": {
+      "2191": 2.24,
+      "2192": 3.16,
+      "2190": 4.0
+    }
+  },
+  "2190": {
+    "Position": "-88.0:74.0:-122.0",
+    "Neighbours": {
+      "338": 3.0,
+      "336": 3.32,
+      "2189": 4.0
+    }
+  },
+  "2191": {
+    "Position": "-84.0:73.0:-124.0",
+    "Neighbours": {
+      "339": 4.24
+    }
+  },
+  "2192": {
+    "Position": "-85.0:74.0:-119.0",
+    "Neighbours": {
+      "2189": 3.16,
+      "335": 4.12
+    }
+  },
+  "2193": {
+    "Position": "-96.0:73.0:-125.0",
+    "Neighbours": {
+      "493": 5.39,
+      "342": 5.92
     }
   }
 }

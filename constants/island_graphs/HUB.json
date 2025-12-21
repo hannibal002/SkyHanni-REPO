@@ -5479,7 +5479,7 @@
   },
   "611": {
     "Position": "-53.0:66.0:-31.0",
-    "Name": "Mad Redstone Engneer",
+    "Name": "Mad Redstone Engineer",
     "Tags": [
       "npc"
     ],
@@ -7837,7 +7837,7 @@
   },
   "904": {
     "Position": "-58.0:93.0:-120.0",
-    "Name": "Hexatorium Tower",
+    "Name": "Hexatorum Tower",
     "Tags": [
       "poi"
     ],
@@ -7872,7 +7872,7 @@
   },
   "908": {
     "Position": "-48.0:62.0:-118.0",
-    "Name": "Hexatorium Basement",
+    "Name": "Hexatorum Basement",
     "Tags": [
       "poi"
     ],
@@ -8024,7 +8024,7 @@
   },
   "927": {
     "Position": "-38.0:70.0:-129.0",
-    "Name": "Runic Pedestral",
+    "Name": "Runic Pedestal",
     "Tags": [
       "poi"
     ],
@@ -8061,7 +8061,7 @@
   },
   "931": {
     "Position": "-32.0:70.0:-136.0",
-    "Name": "Smitmonger",
+    "Name": "Smithmonger",
     "Tags": [
       "npc"
     ],
@@ -21398,7 +21398,7 @@
   },
   "2544": {
     "Position": "41.0:117.0:74.0",
-    "Name": "Grublefoot",
+    "Name": "Grumblefoot",
     "Tags": [
       "npc"
     ],
