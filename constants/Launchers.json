@@ -1,0 +1,45 @@
+{
+  "launchers": [
+    {
+      "name": "Dev Env",
+      "firstStacks": [
+        "net.fabricmc.devlaunchinjector.Main.main"
+      ]
+    },
+    {
+      "name": "Vanilla Launcher",
+      "firstStacks": [
+        "net.minecraft.launchwrapper.Launch.main"
+      ]
+    },
+    {
+      "name": "Prism",
+      "firstStacks": [
+        "org.prismlauncher.EntryPoint.main"
+      ]
+    },
+    {
+      "name": "MultiMC",
+      "firstStacks": [
+        "org.multimc.EntryPoint.main"
+      ]
+    },
+    {
+      "name": "Modrinth",
+      "firstStacks": [
+        "com.modrinth.theseus.MinecraftLaunch.main"
+      ]
+    },
+    {
+      "name": "Feather Client",
+      "firstStacks": [
+        "net.digitalingot.vendor.",
+        "net.digitalingot.rustextension."
+      ],
+      "flagged": true
+    }
+  ],
+  "genericStacks": [
+    "net.fabricmc.loader.impl.launch.knot.KnotClient.main"
+  ]
+}
