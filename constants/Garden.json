@@ -1402,8 +1402,9 @@
     },
     "Alchemage": {
       "rarity": "rare",
-      "need_items": [],
-      "unknown_rewards": true
+      "need_items": [
+        "Carrot"
+      ]
     },
     "An": {
       "rarity": "uncommon",
@@ -1502,8 +1503,9 @@
     },
     "Hoppity": {
       "rarity": "legendary",
-      "need_items": [],
-      "unknown_rewards": true
+      "need_items": [
+        "Cocoa Beans"
+      ]
     },
     "Jacobus": {
       "rarity": "uncommon",
@@ -1652,8 +1654,9 @@
     },
     "Vargul": {
       "rarity": "legendary",
-      "need_items": [],
-      "unknown_rewards": true
+      "need_items": [
+        "Pumpkin"
+      ]
     },
     "Carpenter": {
       "rarity": "rare",
