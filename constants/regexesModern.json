@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "ab2b224",
+  "sourceLabel": "004f81a",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -1216,8 +1216,8 @@
     "misc.chocolatefactory.hoppity.call.pickup.outgoing": "\\/selectnpcoption hoppity r_2_1",
     "misc.chocolatefactory.inventory.mealegg.continue": "(?:§.)*Click to open Chocolate Factory!",
     "misc.chocolatefactory.inventory.mealegg.name": "(?:§.)*Chocolate (?:Breakfast|Lunch|Dinner|Brunch|Déjeuner|Supper) Egg.*",
+    "misc.chocolatefactory.inventory.milestones": "Chocolate Factory Milestones",
     "misc.chocolatefactory.inventory.misc": "(?:§.)*Chocolate (?:Shop |Factory ?)(?:Milestones)?",
-    "misc.chocolatefactory.inventory.name": "Hoppity|Chocolate Factory Milestones",
     "misc.chocolatefactory.item.lore.upgrade": "§a§l(?:UPGRADE|PROMOTE) §8➜ (?:§7\\[(?\u003cnextlevel\u003e\\d+)§7] )?(?\u003cupgradename\u003e.*?) ?(?\u003cnextlevelalt\u003e[IVXLCDM]*)$",
     "misc.chocolatefactory.item.name.employee": "(?\u003cemployee\u003e(?:§.+)+Rabbit .*)§8 - §7\\[\\d*§7] .*",
     "misc.chocolatefactory.item.rabbitthefish": "(?:§.)*Rabbit the Fish",
