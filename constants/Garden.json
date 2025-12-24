@@ -1405,6 +1405,7 @@
       "need_items": [
         "Carrot"
       ]
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzA0NTkzNTA4NSwKICAicHJvZmlsZUlkIiA6ICJkMWY2OTc0YzE2ZmI0ZjdhYjI1NjU4NzExNjM3M2U2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaW9saWVzdGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWY3YTRkZGRlMmJmNjgxZWQ5YmZiOWY4OWU5YTQzOTdkMWVjOWUzYjdkMTA5ZTZmNTZiNmVkNTIyMmJhYTAxMyIKICAgIH0KICB9Cn0="
     },
     "An": {
       "rarity": "uncommon",
@@ -1430,6 +1431,7 @@
       "rarity": "rare",
       "need_items": [],
       "unknown_rewards": true
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTcxMzM2NTEzMDgxNCwKICAicHJvZmlsZUlkIiA6ICJmNzcxMDI1NGMzYWY0YjA5YmRjY2NiNDRjNjg1NjFiMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDZXJ1c1YyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NjM2U0MjIzZDhkOGM3YTBlY2EzMjkzOGI4MDdiNTdiMTgwOGEyZTA2YWExNzM0MjVmOWUzZDg4MzhhYWQ4YzQiCiAgICB9CiAgfQp9"
     },
     "Chief Scorn": {
       "rarity": "legendary",
@@ -1490,11 +1492,13 @@
       "rarity": "rare",
       "need_items": [],
       "unknown_rewards": true
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NzU1MDExMjE1ODEsInByb2ZpbGVJZCI6ImEyZjgzNDU5NWM4OTRhMjdhZGQzMDQ5NzE2Y2E5MTBjIiwicHJvZmlsZU5hbWUiOiJiUHVuY2giLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IwZTJlZjhiNDdkNjNkYmEzNzU1ODgxMTgxOGQxY2I2MjkzYWQwZTMyODRjMDIwNTFjY2ZjNGQ5MTE4MzliYmYifX19"
     },
     "Gemma": {
       "rarity": "rare",
       "need_items": [],
       "unknown_rewards": true
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTY5NjI2NDUxMDc5MywKICAicHJvZmlsZUlkIiA6ICI5NTdiZmY2OThiZDY0YmFiOTRlOGUyZWMxNDY0ZTNhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdWFuR3Jvb3ZlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M4NmFkNGRkYjQwZTkxMjhhZTBiNWEzMTI2ZWZlNzNmNDE0OWM3NTdiYWMxNDhmY2ZiZWE2ZjdhYmE4Zjg1NjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
     },
     "Hendrik": {
       "rarity": "rare",
@@ -1516,6 +1520,7 @@
       "rarity": "uncommon",
       "need_items": [],
       "unknown_rewards": true
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NTQ1NzE2OTkxOTAsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg2NTJhMDZmN2I5OWU0ODIyYjQ5NWJhOWI2MDg5ZDRkNTE1MWU4M2JlZDk1NmE3Y2NjYjg0N2VhNDZhMjU3MjUifX19"
     },
     "Ludleth": {
       "rarity": "mythic",
@@ -1594,8 +1599,10 @@
     },
     "Pearl Dealer": {
       "rarity": "uncommon",
-      "need_items": [],
-      "unknown_rewards": true
+      "need_items": [
+        "Nether Wart"
+      ],
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1ODQ3MjcxNTA2ODAsInByb2ZpbGVJZCI6IjIyZmQ2N2IxN2U2NzQ1ZmI5MmU3NDc3MTIzNDMwNTE4IiwicHJvZmlsZU5hbWUiOiJyYWtldGVuYmVuIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMDc4ZTk2M2ZkOTFlNzhmYjY2MjAyMDczYTY1NjU5Njk5NGFhYTZmZDA0ZjIwMzM5MjBjNjEyY2VhZTI1ZDdkIn19fQ=="
     },
     "Queen Nyx": {
       "rarity": "legendary",
@@ -1606,6 +1613,7 @@
       "rarity": "rare",
       "need_items": [],
       "unknown_rewards": true
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NzMwNTM1NjQwODEsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IzMzUxZjIyZjYzYjQzZjQwZmE4ZTI4ZGVmNjZiNzNiMTdiYTI2NTc3M2ZlOTk4MDk3MWRhMmYxNTE1MDMyZDkifX19"
     },
     "Ryan": {
       "rarity": "uncommon",
@@ -1614,8 +1622,10 @@
     },
     "Scout Scardius": {
       "rarity": "uncommon",
-      "need_items": [],
-      "unknown_rewards": true
+      "need_items": [
+        "Pumpkin"
+      ],
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTcxMTUyNDIzMDQ5OSwKICAicHJvZmlsZUlkIiA6ICIyMDZlMWZkYjI5Yzk0NGYxOTQ5OTg4NzAwNTQxMGQ2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoNHlsMzMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGMxNWRlY2Q1NjllMDk5MDBiMDBmZGIxYzMyYmRhYTdjMTVjMzFlOGIyNDQ5Mzg4NzViMTFkYTM5M2FhYTBmYSIKICAgIH0KICB9Cn0="
     },
     "Sherry": {
       "rarity": "rare",
@@ -1636,6 +1646,7 @@
       "rarity": "rare",
       "need_items": [],
       "unknown_rewards": true
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1ODQ3MjcxNTA2ODAsInByb2ZpbGVJZCI6IjIyZmQ2N2IxN2U2NzQ1ZmI5MmU3NDc3MTIzNDMwNTE4IiwicHJvZmlsZU5hbWUiOiJyYWtldGVuYmVuIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMDc4ZTk2M2ZkOTFlNzhmYjY2MjAyMDczYTY1NjU5Njk5NGFhYTZmZDA0ZjIwMzM5MjBjNjEyY2VhZTI1ZDdkIn19fQ=="
     },
     "Trinity": {
       "rarity": "rare",
