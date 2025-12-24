@@ -1738,8 +1738,9 @@
     },
     "Tomioka": {
       "rarity": "rare",
-      "need_items": [],
-      "unknown_rewards": true,
+      "need_items": [
+        "Red Mushroom Block"
+      ],
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1ODQ3MjcxNTA2ODAsInByb2ZpbGVJZCI6IjIyZmQ2N2IxN2U2NzQ1ZmI5MmU3NDc3MTIzNDMwNTE4IiwicHJvZmlsZU5hbWUiOiJyYWtldGVuYmVuIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMDc4ZTk2M2ZkOTFlNzhmYjY2MjAyMDczYTY1NjU5Njk5NGFhYTZmZDA0ZjIwMzM5MjBjNjEyY2VhZTI1ZDdkIn19fQ=="
     },
     "Trinity": {
