@@ -1629,8 +1629,9 @@
     },
     "Sherry": {
       "rarity": "rare",
-      "need_items": [],
-      "unknown_rewards": true
+      "need_items": [
+        "Pumpkin"
+      ]
     },
     "Spider Tamer": {
       "rarity": "rare",
