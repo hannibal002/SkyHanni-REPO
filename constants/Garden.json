@@ -1745,7 +1745,8 @@
     "Trinity": {
       "rarity": "rare",
       "need_items": [],
-      "unknown_rewards": true
+      "unknown_rewards": true,
+      "skinOrType": "eyJ0aW1lc3RhbXAiOjE1ODQ3MjcxODMzMjgsInByb2ZpbGVJZCI6IjgyYzYwNmM1YzY1MjRiNzk4YjkxYTEyZDNhNjE2OTc3IiwicHJvZmlsZU5hbWUiOiJOb3ROb3RvcmlvdXNOZW1vIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81ODQxYTE2YTViZDRhNjQ2Y2VkYjRiNTQzNzcyMzIyNmM3Y2Y5Zjg2NjllNTU4NzczZmFlMGE5NDUyYzk0ZDkwIn19fQ=="
     },
     "Tyashoi Alchemist": {
       "rarity": "rare",
