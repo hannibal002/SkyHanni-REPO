@@ -1,4 +1,5 @@
 {
+  "//": "This file is no longer used by latest SkyHanni versions. Please edit constants/island_graphs/GLACITE_TUNNELS.json instead.",
   "0": {
     "Position": "-68.0:132.0:407.0",
     "Name": "§8Onyx Gemstone",
@@ -3116,14 +3117,14 @@
   },
   "331": {
     "Position": "20.0:121.0:240.0",
-    "Name": "§dFairy Soul Glacite Lake",
+    "Name": "§dFairy Soul Dr. Stone",
     "Neighbours": {
       "333": 2.45
     }
   },
   "332": {
     "Position": "111.0:160.0:412.0",
-    "Name": "§dFairy Soul Citrine",
+    "Name": "§dFairy Soul Aquamarine",
     "Neighbours": {
       "336": 11.05
     }
