@@ -1,6 +1,6 @@
 {
-  "//": "This file is no longer used by latest SkyHanni versions. Please edit constants/island_graphs/GLACITE_TUNNELS.json instead.",
   "0": {
+    "//": "This file is no longer used by latest SkyHanni versions. Please edit constants/island_graphs/GLACITE_TUNNELS.json instead.",
     "Position": "-68.0:132.0:407.0",
     "Name": "§8Onyx Gemstone",
     "Neighbours": {
