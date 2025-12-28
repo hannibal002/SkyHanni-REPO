@@ -1429,7 +1429,7 @@
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxMjgwOTU0ODAzMCwKICAicHJvZmlsZUlkIiA6ICIzOTg5OGFiODFmMjU0NmQxOGIyY2ExMTE1MDRkZGU1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNeVV1aWRJcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ODVlODNhMDk5NTFhMmMyZGI3ODM2MGJjOTU0NmJiMGQ0NTQ5NzViNWU1YTM0NGNhMWRhZmY0MDhhNjdlOWYxIgogICAgfQogIH0KfQ=="
     },
     "Bednom": {
-      "rarity": "rare",
+      "rarity": "uncommon",
       "need_items": [
         "Cocoa Beans"
       ],
