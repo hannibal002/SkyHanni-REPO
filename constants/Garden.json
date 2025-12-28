@@ -1150,7 +1150,8 @@
         "Dung",
         "Honey Jar",
         "Plant Matter",
-        "Tasty Cheese"
+        "Tasty Cheese",
+        "Jelly"
       ],
       "mode": null,
       "position": null,
@@ -1448,7 +1449,11 @@
     },
     "Chantelle": {
       "rarity": "rare",
-      "need_items": [],
+      "need_items": [
+        "Sunflower",
+        "Moonflower",
+        "Wild Rose"
+      ],
       "unknown_rewards": true,
       "mode": "hub",
       "position": "-84:71:-19",
@@ -1471,8 +1476,9 @@
     },
     "Cold Enjoyer": {
       "rarity": "rare",
-      "need_items": [],
-      "unknown_rewards": true,
+      "need_items": [
+        "Cactus"
+      ],
       "mode": "mining_3",
       "position": "-16:137:217",
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTcxMjg1MzIyMjMzNiwKICAicHJvZmlsZUlkIiA6ICI2YzdjZWFjNTdjM2Q0ZTdmYWI3MTc3YTRkMDhlMGU2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNRzE0MSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zOGEyZmIwNmQ0Nzc3NjA2Njk0NDg3ZjViNmYyOTA3NmZmNmMwOWNmNDUxOTFiOWIxNjY5NmNkOTk2MWE4ODc2IgogICAgfQogIH0KfQ=="
@@ -1484,8 +1490,9 @@
     },
     "Dulin": {
       "rarity": "legendary",
-      "need_items": [],
-      "unknown_rewards": true,
+      "need_items": [
+        "Potato"
+      ],
       "mode": "mining_3",
       "position": "15:128:206",
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTcxMDE3ODQ4MzAzMywKICAicHJvZmlsZUlkIiA6ICI5ZTA5YzM4ZGUzZTY0MDA2OTAwYzAwZTJiOTQ3ZTQwMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4RFRPTUFTX1lUIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3NGMxMjRhMmQ1NDM1OWMyZmRkMDg2Mjk4ODcwNjYwODkzNWU2MGVmNzQ1ODg2N2E5MGJlMDEyMjM3ZjVkZjgiCiAgICB9CiAgfQp9"
@@ -1497,7 +1504,9 @@
     },
     "Elle": {
       "rarity": "legendary",
-      "need_items": [],
+      "need_items": [
+        "Red Mushroom Block"
+      ],
       "unknown_rewards": true,
       "mode": "crimson_isle",
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NTk2ODQ0ODEwMTUsInByb2ZpbGVJZCI6ImEyZjgzNDU5NWM4OTRhMjdhZGQzMDQ5NzE2Y2E5MTBjIiwicHJvZmlsZU5hbWUiOiJiUHVuY2giLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzMzNhYTI0MTRiY2YxYzI5MWZkZGY2YTliMGY4MDVmOTk2NTQ2ZWM0MTUwZmYzY2VmMTBiZDUyOWNjOTgyNjEifX19"
@@ -1578,26 +1587,28 @@
     "Lift Operator": {
       "rarity": "uncommon",
       "need_items": [],
-      "unknown_rewards": true,
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NTQ1NzE2OTkxOTAsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg2NTJhMDZmN2I5OWU0ODIyYjQ5NWJhOWI2MDg5ZDRkNTE1MWU4M2JlZDk1NmE3Y2NjYjg0N2VhNDZhMjU3MjUifX19"
     },
     "Ludleth": {
       "rarity": "mythic",
-      "need_items": [],
-      "unknown_rewards": true
+      "need_items": []
     },
     "Marco": {
       "rarity": "rare",
-      "need_items": [],
-      "unknown_rewards": true,
+      "need_items": [
+        "Moonflower",
+        "Sunflower",
+        "Wild Rose"
+      ],
       "mode": "hub",
       "position": "-10:71:-14",
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1MDAwMDQ3OTM5MjMsInByb2ZpbGVJZCI6IjkzYzdmMmUxMTg2MzQ5NzU4OGE2ZWI0YzUwYjRhZGZiIiwicHJvZmlsZU5hbWUiOiJUYWN0ZnVsIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80OTQ1ZDA2NDM4ZjdmZmYyOTFjY2QxNWIxNTZlM2ZiODcyYmMyNWNkOGUyMmE1Zjc2NWM3MDNlYjMzOWY4In19fQ=="
     },
     "Marigold": {
       "rarity": "rare",
-      "need_items": [],
-      "unknown_rewards": true,
+      "need_items": [
+        "Melon Slice"
+      ],
       "mode": "mining_3",
       "position": "181:150:60",
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTY5NTkzMzUxMDg2NCwKICAicHJvZmlsZUlkIiA6ICJjYTU4NzNhYmY0Y2U0YWUxODAxZmVmODgzNjhlMWExNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXRocm9uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2NiMDU5NzU4MmY1YTZjMmY0NDVkOGRhNjk3MWIzZjNlOGJiZDljYzI5NjhmZDYzMDc1ZDM0YWJiMDJjMWNiMyIKICAgIH0KICB9Cn0="
@@ -1660,7 +1671,6 @@
     "Old Shaman Nyko": {
       "rarity": "uncommon",
       "need_items": [],
-      "unknown_rewards": true,
       "mode": "foraging_1",
       "position": "-371:84:65",
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NzMwODI0NjQ3MTYsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3YTUxNzg2NWI4MjBhNDQ1MWNkM2NjNjc2NWYzNzBmZDA1MjJiNjQ4OWM5Yzk0ZmIzNDVmZGVlMjY4OTQ1MWEifX19"
@@ -1692,14 +1702,19 @@
     },
     "Romero": {
       "rarity": "rare",
-      "need_items": [],
+      "need_items": [
+        "Moonflower",
+        "Sunflower",
+        "Wild Rose"
+      ],
       "unknown_rewards": true,
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NzMwNTM1NjQwODEsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IzMzUxZjIyZjYzYjQzZjQwZmE4ZTI4ZGVmNjZiNzNiMTdiYTI2NTc3M2ZlOTk4MDk3MWRhMmYxNTE1MDMyZDkifX19"
     },
     "Ryan": {
       "rarity": "uncommon",
-      "need_items": [],
-      "unknown_rewards": true,
+      "need_items": [
+        "Potato"
+      ],
       "mode": "foraging_1",
       "position": "-365:102:-91",
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NzE4ODIwNjYxNzUsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUxNzZjYjEzYTQ0MzYzMThhZTRjMmJjMzFkZjA5ZDU1NjE5MmRhZWJiNzBhM2IyODAyMGY3YWI5Y2ExNzA5YmIifX19"
@@ -1746,8 +1761,9 @@
     },
     "Trinity": {
       "rarity": "rare",
-      "need_items": [],
-      "unknown_rewards": true,
+      "need_items": [
+        "Sugar Cane"
+      ],
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1ODQ3MjcxODMzMjgsInByb2ZpbGVJZCI6IjgyYzYwNmM1YzY1MjRiNzk4YjkxYTEyZDNhNjE2OTc3IiwicHJvZmlsZU5hbWUiOiJOb3ROb3RvcmlvdXNOZW1vIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81ODQxYTE2YTViZDRhNjQ2Y2VkYjRiNTQzNzcyMzIyNmM3Y2Y5Zjg2NjllNTU4NzczZmFlMGE5NDUyYzk0ZDkwIn19fQ=="
     },
     "Tyashoi Alchemist": {
