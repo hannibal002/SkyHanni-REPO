@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "b5116ea",
+  "sourceLabel": "77b0797",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -824,7 +824,7 @@
     "garden.pests-api.scoreboard.plot.pests": "\\s*(?:§.)*Plot (?:§.)*- (?:§.)*(?\u003cplot\u003e.+) (?:§.)*ൠ(?:§.)* x(?\u003cpests\u003e\\d+)",
     "garden.pests-api.stereo.inventory": "Stereo Harmony",
     "garden.pests-api.stereo.playing": "§7Now Playing: (?:§.)*(?\u003cvinyl\u003e[^§]+).*",
-    "garden.pests-api.stereo.playing.item": "PLAYING",
+    "garden.pests-api.stereo.playing.item": "§a§lPLAYING",
     "garden.pests-api.tablist.infected-plots": "\\sPlots: (?\u003cplots\u003e.*)",
     "garden.pests.cooldowntime": "\\sCooldown: §r§.(?:§.)?(?\u003ctime\u003e\\d{1,2}[ms](?: \\d{1,2}s?)?)?(?\u003cready\u003eREADY)?(?\u003cmaxPests\u003eMAX PESTS)?.*",
     "garden.pests.pesthunter.garden.pests.pesthunter.cost": "§2(?\u003cpests\u003e[\\d,]+) Pests",
