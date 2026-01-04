@@ -1528,7 +1528,7 @@
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTcwMjA4NDQ2NjQ3OCwKICAicHJvZmlsZUlkIiA6ICIxNmJhNWU4MDJhMmU0ZDJhYjEwZmZiYWJiYmQ1MDdlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbGlua3l1c2VyMzMxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYzEzNTRkNTI1Y2ExNTBlYTI3YWEwNmY4ZDhkYjQ5OGRjYzBiNTljM2YyNzc2ZGVkZDgzNzQyZjUzOWRmYTBmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
     },
     "Farm Merchant": {
-      "rarity": "rare",
+      "rarity": "uncommon",
       "need_items": [],
       "unknown_rewards": true,
       "mode": "hub",
@@ -1767,11 +1767,6 @@
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1ODQ3MjcxODMzMjgsInByb2ZpbGVJZCI6IjgyYzYwNmM1YzY1MjRiNzk4YjkxYTEyZDNhNjE2OTc3IiwicHJvZmlsZU5hbWUiOiJOb3ROb3RvcmlvdXNOZW1vIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81ODQxYTE2YTViZDRhNjQ2Y2VkYjRiNTQzNzcyMzIyNmM3Y2Y5Zjg2NjllNTU4NzczZmFlMGE5NDUyYzk0ZDkwIn19fQ=="
     },
     "Tyashoi Alchemist": {
-      "rarity": "rare",
-      "need_items": [],
-      "unknown_rewards": true
-    },
-    "Tyzoo": {
       "rarity": "rare",
       "need_items": [],
       "unknown_rewards": true
