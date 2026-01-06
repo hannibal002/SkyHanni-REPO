@@ -4697,9 +4697,9 @@
   },
   "540": {
     "Position": "-130.0:90.0:-725.0",
-    "Name": "Mage Shop",
+    "Name": "Mage Emissary",
     "Tags": [
-      "poi"
+      "npc"
     ],
     "Neighbours": {
       "542": 4.0,
