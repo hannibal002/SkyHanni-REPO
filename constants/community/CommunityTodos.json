@@ -1,74 +1,56 @@
 {
   "community_todos": [
     {
-      "name": "Puzzler",
       "id": "Puzzler",
       "author": "BlueSoul",
-      "icon": "Mithril Powder",
       "discord_thread": "https://discord.com/channels/997079228510117908/1453104828497793115",
       "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiUHV6emxlciIsInRpbWVyIjo4NjQwMCwidHJpZ2dlciI6IsKnZFB1enpsZXLCp3LCpzYgZ2F2ZSB5b3UiLCJpY29uIjoiTWl0aHJpbCBQb3dkZXIiLCJpc1Jlc2V0T2Zmc2V0IjpmYWxzZSwic2hvd1doZW4iOjAsInNob3dPbmx5V2hlblJlYWR5IjpmYWxzZSwidHJpZ2dlclRhcmdldCI6IkNIQVQiLCJ0cmlnZ2VyTWF0Y2hlciI6IlNUQVJUU19XSVRIIiwicmVhZHlBdCI6e30sImlzRW5hYmxlZCI6dHJ1ZSwiaWdub3JlQ29sb3JDb2RlcyI6ZmFsc2UsInBvc2l0aW9uIjp7IngiOjEwLCJ5IjoxMCwic2NhbGUiOjEuMCwiY2VudGVyWCI6ZmFsc2UsImNlbnRlclkiOnRydWUsImlnbm9yZUN1c3RvbVNjYWxlIjpmYWxzZX19 "
     },
     {
-      "name": "Eyedrops",
       "id": "Capsaicin Eyedrops",
       "author": "BlueSoul",
-      "icon": "Inferno Minion XI",
       "discord_thread": "https://discord.com/channels/997079228510117908/1452265488456351846",
       "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiRXllZHJvcHMiLCJ0aW1lciI6ODY0MDAsInRyaWdnZXIiOiLCpzlZb3UgYXBwbGllZCB0aGUgZXllZHJvcHMgb24gdGhlIG1pbmlvbiBhbmQgcmFuIG91dCEiLCJpY29uIjoiSW5mZXJubyBNaW5pb24gWEkiLCJpc1Jlc2V0T2Zmc2V0IjpmYWxzZSwic2hvd1doZW4iOjAsInNob3dPbmx5V2hlblJlYWR5IjpmYWxzZSwidHJpZ2dlclRhcmdldCI6IkNIQVQiLCJ0cmlnZ2VyTWF0Y2hlciI6IlNUQVJUU19XSVRIIiwicmVhZHlBdCI6e30sImlzRW5hYmxlZCI6dHJ1ZSwiaWdub3JlQ29sb3JDb2RlcyI6ZmFsc2UsInBvc2l0aW9uIjp7IngiOi0xOTAsInkiOjI4LCJzY2FsZSI6MS4wLCJjZW50ZXJYIjpmYWxzZSwiY2VudGVyWSI6dHJ1ZSwiaWdub3JlQ3VzdG9tU2NhbGUiOmZhbHNlfX0="
     },
     {
-      "name": "Cake",
       "id": "Century Cakes",
       "author": "BlueSoul",
-      "icon": "cake",
       "discord_thread": "https://discord.com/channels/997079228510117908/1452140700341768223",
       "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiQ2FrZSIsInRpbWVyIjoxNzI4MDAsInRyaWdnZXIiOiJZdW0hIMKncsKnZVlvdSIsImljb24iOiJjYWtlIiwiaXNSZXNldE9mZnNldCI6ZmFsc2UsInNob3dXaGVuIjowLCJzaG93T25seVdoZW5SZWFkeSI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJDSEFUIiwidHJpZ2dlck1hdGNoZXIiOiJDT05UQUlOUyIsInJlYWR5QXQiOnt9LCJpc0VuYWJsZWQiOnRydWUsImlnbm9yZUNvbG9yQ29kZXMiOmZhbHNlLCJwb3NpdGlvbiI6eyJ4IjotMTAyLCJ5IjoyLCJzY2FsZSI6MS4wLCJjZW50ZXJYIjpmYWxzZSwiY2VudGVyWSI6dHJ1ZSwiaWdub3JlQ3VzdG9tU2NhbGUiOmZhbHNlfX0="
     },
     {
-      "name": "Rosewater Flask",
       "id": "Rosewater Flask",
       "author": "BlueSoul/Kaiser",
-      "icon": "rosewater flask",
       "discord_thread": "https://discord.com/channels/997079228510117908/1452145647754154014",
       "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiUm9zZXdhdGVyIEZsYXNrIiwidGltZXIiOjcyMDAsInRyaWdnZXIiOiLCp3LCpzd3aGljaCBncmV3IHlvdXIgwqdywqdhR3JlZW5ob3VzZSDCp3LCpzdjcm9wcyBieSIsImljb24iOiJyb3Nld2F0ZXIgZmxhc2siLCJpc1Jlc2V0T2Zmc2V0IjpmYWxzZSwic2hvd1doZW4iOjAsInNob3dPbmx5V2hlblJlYWR5IjpmYWxzZSwidHJpZ2dlclRhcmdldCI6IkNIQVQiLCJ0cmlnZ2VyTWF0Y2hlciI6IkNPTlRBSU5TIiwicmVhZHlBdCI6e30sImlzRW5hYmxlZCI6dHJ1ZSwiaWdub3JlQ29sb3JDb2RlcyI6ZmFsc2UsInBvc2l0aW9uIjp7IngiOi0yNTgsInkiOjEyNiwic2NhbGUiOjEuMCwiY2VudGVyWCI6ZmFsc2UsImNlbnRlclkiOnRydWUsImlnbm9yZUN1c3RvbVNjYWxlIjpmYWxzZX0sInRvdGFsVHJpZ2dlcnMiOjEsInRyaWdnZXJzTGVmdCI6e30sImNyb25FbmFibGVkIjpmYWxzZSwiY3JvbkV4cHJlc3Npb24iOiIifQ=="
     },
     {
-      "name": "Goon",
       "id": "Surveillance Goon",
       "author": "nopo",
-      "icon": "happy mask",
       "discord_thread": "https://discord.com/channels/997079228510117908/1456826298847592499",
       "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiR29vbiIsInRpbWVyIjo0MzIwMCwidHJpZ2dlciI6IltOUENdIEdvb246IEF1cmEgdGhhbmtzIHlvdSBmb3IgeW91ciBjb29wZXJhdGlvbi4gQ29tZSBiYWNrIGluIDEyaCIsImljb24iOiJoYXBweSBtYXNrIiwiaXNSZXNldE9mZnNldCI6ZmFsc2UsInNob3dXaGVuIjowLCJzaG93T25seVdoZW5SZWFkeSI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJDSEFUIiwidHJpZ2dlck1hdGNoZXIiOiJTVEFSVFNfV0lUSCIsInJlYWR5QXQiOnt9LCJpc0VuYWJsZWQiOnRydWUsImlnbm9yZUNvbG9yQ29kZXMiOnRydWUsInBvc2l0aW9uIjp7IngiOjEwLCJ5IjoxMCwic2NhbGUiOjEuMCwiY2VudGVyWCI6ZmFsc2UsImNlbnRlclkiOnRydWUsImlnbm9yZUN1c3RvbVNjYWxlIjpmYWxzZX0sInRvdGFsVHJpZ2dlcnMiOjEsInRyaWdnZXJzTGVmdCI6e30sImNyb25FbmFibGVkIjpmYWxzZSwiY3JvbkV4cHJlc3Npb24iOiIifQ== "
     },
     {
-      "name": "Bachelor's Rose",
       "id": "Bachelors Rose",
       "author": "nopo",
-      "icon": "vincent (npc)",
       "discord_thread": "https://discord.com/channels/997079228510117908/1456813454244450398",
       "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiQmFjaGVsb3JcdTAwMjdzIFJvc2UiLCJ0aW1lciI6MCwidHJpZ2dlciI6ImFjY2VwdHMgeW91ciByb3NlIGFuZCBpcyBkZWxpZ2h0ZWQgdG8gdmlzaXQgeW91ciBHYXJkZW4gc29vbi4iLCJpY29uIjoidmluY2VudCAobnBjKSIsImlzUmVzZXRPZmZzZXQiOnRydWUsInNob3dXaGVuIjowLCJzaG93T25seVdoZW5SZWFkeSI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJDSEFUIiwidHJpZ2dlck1hdGNoZXIiOiJDT05UQUlOUyIsInJlYWR5QXQiOnt9LCJpc0VuYWJsZWQiOnRydWUsImlnbm9yZUNvbG9yQ29kZXMiOnRydWUsInBvc2l0aW9uIjp7IngiOjEwLCJ5IjoxMCwic2NhbGUiOjEuMCwiY2VudGVyWCI6ZmFsc2UsImNlbnRlclkiOnRydWUsImlnbm9yZUN1c3RvbVNjYWxlIjpmYWxzZX0sInRvdGFsVHJpZ2dlcnMiOjUsInRyaWdnZXJzTGVmdCI6e30sImNyb25FbmFibGVkIjpmYWxzZSwiY3JvbkV4cHJlc3Npb24iOiIifQ=="
     },
     {
-      "name": "&&6Pest FF Bonus (60m)",
       "id": "Pesthunter FF Bonus 60m",
       "author": "nopo",
-      "icon": "pesthunter phillip (npc)",
       "discord_thread": "https://discord.com/channels/997079228510117908/1455500584076443688",
       "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiXHUwMDI2XHUwMDI2NlBlc3QgRkYgQm9udXMgKDYwbSkiLCJ0aW1lciI6MzU0MCwidHJpZ2dlciI6IiBCb251czogLio1OW0iLCJpY29uIjoicGVzdGh1bnRlciBwaGlsbGlwIChucGMpIiwiaXNSZXNldE9mZnNldCI6ZmFsc2UsInNob3dXaGVuIjowLCJzaG93T25seVdoZW5SZWFkeSI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJUQUJfTElTVCIsInRyaWdnZXJNYXRjaGVyIjoiUkVHRVgiLCJyZWFkeUF0Ijp7fSwiaXNFbmFibGVkIjp0cnVlLCJpZ25vcmVDb2xvckNvZGVzIjp0cnVlLCJwb3NpdGlvbiI6eyJ4IjoxMCwieSI6MTAsInNjYWxlIjoxLjAsImNlbnRlclgiOmZhbHNlLCJjZW50ZXJZIjp0cnVlLCJpZ25vcmVDdXN0b21TY2FsZSI6ZmFsc2V9LCJ0b3RhbFRyaWdnZXJzIjoxLCJ0cmlnZ2Vyc0xlZnQiOnt9LCJjcm9uRW5hYmxlZCI6ZmFsc2UsImNyb25FeHByZXNzaW9uIjoiIn0="
     },
     {
-      "name": "&&6Pest FF Bonus (30m)",
       "id": "Pesthunter FF Bonus 30m",
       "author": "nopo",
-      "icon": "pesthunter phillip (npc)",
       "discord_thread": "https://discord.com/channels/997079228510117908/1455500584076443688",
       "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiXHUwMDI2XHUwMDI2NlBlc3QgRkYgQm9udXMgKDMwbSkiLCJ0aW1lciI6MTc0MCwidHJpZ2dlciI6IiBCb251czogLioyOW0iLCJpY29uIjoicGVzdGh1bnRlciBwaGlsbGlwIChucGMpIiwiaXNSZXNldE9mZnNldCI6ZmFsc2UsInNob3dXaGVuIjowLCJzaG93T25seVdoZW5SZWFkeSI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJUQUJfTElTVCIsInRyaWdnZXJNYXRjaGVyIjoiUkVHRVgiLCJyZWFkeUF0Ijp7fSwiaXNFbmFibGVkIjp0cnVlLCJpZ25vcmVDb2xvckNvZGVzIjp0cnVlLCJwb3NpdGlvbiI6eyJ4IjoxMCwieSI6MTAsInNjYWxlIjoxLjAsImNlbnRlclgiOmZhbHNlLCJjZW50ZXJZIjp0cnVlLCJpZ25vcmVDdXN0b21TY2FsZSI6ZmFsc2V9LCJ0b3RhbFRyaWdnZXJzIjoxLCJ0cmlnZ2Vyc0xlZnQiOnt9LCJjcm9uRW5hYmxlZCI6ZmFsc2UsImNyb25FeHByZXNzaW9uIjoiIn0="
     },
     {
-      "name": "Heavy Pearls",
       "id": "Heavy Pearls",
       "author": "Kekoa",
-      "icon": "heavy pearl",
       "discord_thread": "https://discord.com/channels/997079228510117908/1452932815636267069",
       "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiTWF0cmlhcmNoIiwidGltZXIiOjAsInRyaWdnZXIiOiJGaW5kIGEgd2F5IHRvIHJlYWNoIHRoZSB0b3Agb2YgdGhlIHN0b21hY2ghIiwiaWNvbiI6ImhlYXZ5IHBlYXJsIiwiaXNSZXNldE9mZnNldCI6dHJ1ZSwic2hvd1doZW4iOjAsInNob3dPbmx5V2hlblJlYWR5IjpmYWxzZSwidHJpZ2dlclRhcmdldCI6IkNIQVQiLCJ0cmlnZ2VyTWF0Y2hlciI6IkVRVUFMUyIsInJlYWR5QXQiOnt9LCJpc0VuYWJsZWQiOnRydWUsImlnbm9yZUNvbG9yQ29kZXMiOnRydWUsInBvc2l0aW9uIjp7IngiOi0xMDksInkiOjUzLCJzY2FsZSI6MC43OTk5OTk5NSwiY2VudGVyWCI6ZmFsc2UsImNlbnRlclkiOnRydWUsImlnbm9yZUN1c3RvbVNjYWxlIjpmYWxzZX19"
     }
