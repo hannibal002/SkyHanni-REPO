@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "d0da2f7",
+  "sourceLabel": "c0b28b7",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -430,7 +430,8 @@
     "event.carnival.shootout.start": "\\[NPC] Carnival Cowboy: Good luck, pal!",
     "event.diana.mythological.burrows.burrow-dug-capture": "§eYou (?\u003ctype\u003efinished the Griffin burrow chain!|dug out a Griffin Burrow!) §r§7\\((?\u003ccurrent\u003e\\d+)/(?\u003cmax\u003e\\d+)\\)",
     "event.diana.mythological.burrows.chain-finished": "§eYou finished the Griffin burrow chain! §r§7\\(\\d+/\\d+\\)",
-    "event.diana.mythological.tracker.generic-spawn": "§c§l(?:Oh|Uh oh|Yikes|Oi|Good Grief|Danger|Woah)! §r§eYou dug out (?:a )?(?:§[a-f0-9r])*(?\u003ccreatureType\u003e[\\w\\s]+)§r§e!",
+    "event.diana.mythological.burrows.generic-spawn": "§c§l(?:Oh|Uh oh|Yikes|Oi|Good Grief|Danger|Woah)! §r§eYou dug out (?:a )?(?:§[a-f0-9r])*(?\u003ccreatureType\u003e[\\w\\s]+)§r§e!",
+    "event.diana.mythological.burrows.treasure-dug": "§6§l(?:RARE DROP!|Wow!) §r§eYou dug out(?: a)? §r§?.+§r§e!",
     "event.greatspook.chat.math": "§d§lQUICK MATHS! §r§7Solve: §r§e(?\u003cmath\u003e.*)",
     "event.greatspook.chat.speaking": "§4\\[FEAR] Public Speaking Demon§r§f: (?:Speak|Say something interesting) (?\u003cname\u003e.*)!",
     "event.greatspook.mob.spawn": "§5§lFEAR\\. §r§eA §r§dPrimal Fear §r§ehas been summoned!",
