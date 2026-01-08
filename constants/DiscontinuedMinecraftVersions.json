@@ -4,6 +4,13 @@
       "extra_info": [
         "Most, if not all, of your mods should work on 1.21.8"
       ]
+    },
+    "1.8.9": {
+      "config_info": [
+        "1.8 is no longer receiving SkyHanni updates",
+        "Hypixel has announced that they will soon update skyblock to 1.21",
+        "It is highly recommended to update to 1.21.10"
+      ]
     }
   }
 }
