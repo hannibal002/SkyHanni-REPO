@@ -1,0 +1,118 @@
+{
+  "community_todos": [
+    {
+      "id": "Puzzler",
+      "author": "BlueSoul",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1453104828497793115",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiUHV6emxlciIsInRpbWVyIjo4NjQwMCwidHJpZ2dlciI6IsKnZFB1enpsZXLCp3LCpzYgZ2F2ZSB5b3UiLCJpY29uIjoiTWl0aHJpbCBQb3dkZXIiLCJpc1Jlc2V0T2Zmc2V0IjpmYWxzZSwic2hvd1doZW4iOjAsInNob3dPbmx5V2hlblJlYWR5IjpmYWxzZSwidHJpZ2dlclRhcmdldCI6IkNIQVQiLCJ0cmlnZ2VyTWF0Y2hlciI6IlNUQVJUU19XSVRIIiwicmVhZHlBdCI6e30sImlzRW5hYmxlZCI6dHJ1ZSwiaWdub3JlQ29sb3JDb2RlcyI6ZmFsc2UsInBvc2l0aW9uIjp7IngiOjEwLCJ5IjoxMCwic2NhbGUiOjEuMCwiY2VudGVyWCI6ZmFsc2UsImNlbnRlclkiOnRydWUsImlnbm9yZUN1c3RvbVNjYWxlIjpmYWxzZX19 "
+    },
+    {
+      "id": "Century Cakes",
+      "author": "BlueSoul",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1452140700341768223",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiQ2VudHVyeSBDYWtlcyIsInRpbWVyIjoxNzI4MDAsInRyaWdnZXIiOiJZdW0hIMKncsKnZVlvdSIsImljb24iOiJjYWtlIiwiaXNSZXNldE9mZnNldCI6ZmFsc2UsInNob3dXaGVuIjowLCJzaG93T25seVdoZW5SZWFkeSI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJDSEFUIiwidHJpZ2dlck1hdGNoZXIiOiJDT05UQUlOUyIsInJlYWR5QXQiOnt9LCJpc0VuYWJsZWQiOnRydWUsImlnbm9yZUNvbG9yQ29kZXMiOmZhbHNlLCJwb3NpdGlvbiI6eyJ4IjotMTAyLCJ5IjoyLCJzY2FsZSI6MS4wLCJjZW50ZXJYIjpmYWxzZSwiY2VudGVyWSI6dHJ1ZSwiaWdub3JlQ3VzdG9tU2NhbGUiOmZhbHNlfSwidG90YWxUcmlnZ2VycyI6MSwidHJpZ2dlcnNMZWZ0Ijp7fSwiY3JvbkVuYWJsZWQiOmZhbHNlLCJjcm9uRXhwcmVzc2lvbiI6IiIsImRvd25sb2FkZWQiOmZhbHNlfQ=="
+    },
+    {
+      "id": "Rosewater Flask",
+      "author": "BlueSoul/Kaiser",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1452145647754154014",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiUm9zZXdhdGVyIEZsYXNrIiwidGltZXIiOjcyMDAsInRyaWdnZXIiOiLCp3LCpzd3aGljaCBncmV3IHlvdXIgwqdywqdhR3JlZW5ob3VzZSDCp3LCpzdjcm9wcyBieSIsImljb24iOiJyb3Nld2F0ZXIgZmxhc2siLCJpc1Jlc2V0T2Zmc2V0IjpmYWxzZSwic2hvd1doZW4iOjAsInNob3dPbmx5V2hlblJlYWR5IjpmYWxzZSwidHJpZ2dlclRhcmdldCI6IkNIQVQiLCJ0cmlnZ2VyTWF0Y2hlciI6IkNPTlRBSU5TIiwicmVhZHlBdCI6e30sImlzRW5hYmxlZCI6dHJ1ZSwiaWdub3JlQ29sb3JDb2RlcyI6ZmFsc2UsInBvc2l0aW9uIjp7IngiOi0yNTgsInkiOjEyNiwic2NhbGUiOjEuMCwiY2VudGVyWCI6ZmFsc2UsImNlbnRlclkiOnRydWUsImlnbm9yZUN1c3RvbVNjYWxlIjpmYWxzZX0sInRvdGFsVHJpZ2dlcnMiOjEsInRyaWdnZXJzTGVmdCI6e30sImNyb25FbmFibGVkIjpmYWxzZSwiY3JvbkV4cHJlc3Npb24iOiIifQ=="
+    },
+    {
+      "id": "Surveillance Goon",
+      "author": "nopo",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1456826298847592499",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiU3VydmVpbGxhbmNlIEdvb24iLCJ0aW1lciI6NDMyMDAsInRyaWdnZXIiOiJbTlBDXSBHb29uOiBBdXJhIHRoYW5rcyB5b3UgZm9yIHlvdXIgY29vcGVyYXRpb24uIENvbWUgYmFjayBpbiAxMmgiLCJpY29uIjoiaGFwcHkgbWFzayIsImlzUmVzZXRPZmZzZXQiOmZhbHNlLCJzaG93V2hlbiI6MCwic2hvd09ubHlXaGVuUmVhZHkiOmZhbHNlLCJ0cmlnZ2VyVGFyZ2V0IjoiQ0hBVCIsInRyaWdnZXJNYXRjaGVyIjoiU1RBUlRTX1dJVEgiLCJyZWFkeUF0Ijp7fSwiaXNFbmFibGVkIjp0cnVlLCJpZ25vcmVDb2xvckNvZGVzIjp0cnVlLCJwb3NpdGlvbiI6eyJ4IjoxMCwieSI6MTAsInNjYWxlIjoxLjAsImNlbnRlclgiOmZhbHNlLCJjZW50ZXJZIjp0cnVlLCJpZ25vcmVDdXN0b21TY2FsZSI6ZmFsc2V9LCJ0b3RhbFRyaWdnZXJzIjoxLCJ0cmlnZ2Vyc0xlZnQiOnt9LCJjcm9uRW5hYmxlZCI6ZmFsc2UsImNyb25FeHByZXNzaW9uIjoiIiwiZG93bmxvYWRlZCI6ZmFsc2V9"
+    },
+    {
+      "id": "Bachelors Rose",
+      "author": "nopo",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1456813454244450398",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiQmFjaGVsb3JcdTAwMjdzIFJvc2UiLCJ0aW1lciI6MCwidHJpZ2dlciI6ImFjY2VwdHMgeW91ciByb3NlIGFuZCBpcyBkZWxpZ2h0ZWQgdG8gdmlzaXQgeW91ciBHYXJkZW4gc29vbi4iLCJpY29uIjoidmluY2VudCAobnBjKSIsImlzUmVzZXRPZmZzZXQiOnRydWUsInNob3dXaGVuIjowLCJzaG93T25seVdoZW5SZWFkeSI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJDSEFUIiwidHJpZ2dlck1hdGNoZXIiOiJDT05UQUlOUyIsInJlYWR5QXQiOnt9LCJpc0VuYWJsZWQiOnRydWUsImlnbm9yZUNvbG9yQ29kZXMiOnRydWUsInBvc2l0aW9uIjp7IngiOjEwLCJ5IjoxMCwic2NhbGUiOjEuMCwiY2VudGVyWCI6ZmFsc2UsImNlbnRlclkiOnRydWUsImlnbm9yZUN1c3RvbVNjYWxlIjpmYWxzZX0sInRvdGFsVHJpZ2dlcnMiOjUsInRyaWdnZXJzTGVmdCI6e30sImNyb25FbmFibGVkIjpmYWxzZSwiY3JvbkV4cHJlc3Npb24iOiIifQ=="
+    },
+    {
+      "id": "Pesthunter FF Bonus 60m",
+      "author": "nopo",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1455500584076443688",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiXHUwMDI2XHUwMDI2NlBlc3QgRkYgQm9udXMgKDYwbSkiLCJ0aW1lciI6MzU0MCwidHJpZ2dlciI6IiBCb251czogLio1OW0iLCJpY29uIjoicGVzdGh1bnRlciBwaGlsbGlwIChucGMpIiwiaXNSZXNldE9mZnNldCI6ZmFsc2UsInNob3dXaGVuIjowLCJzaG93T25seVdoZW5SZWFkeSI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJUQUJfTElTVCIsInRyaWdnZXJNYXRjaGVyIjoiUkVHRVgiLCJyZWFkeUF0Ijp7fSwiaXNFbmFibGVkIjp0cnVlLCJpZ25vcmVDb2xvckNvZGVzIjp0cnVlLCJwb3NpdGlvbiI6eyJ4IjoxMCwieSI6MTAsInNjYWxlIjoxLjAsImNlbnRlclgiOmZhbHNlLCJjZW50ZXJZIjp0cnVlLCJpZ25vcmVDdXN0b21TY2FsZSI6ZmFsc2V9LCJ0b3RhbFRyaWdnZXJzIjoxLCJ0cmlnZ2Vyc0xlZnQiOnt9LCJjcm9uRW5hYmxlZCI6ZmFsc2UsImNyb25FeHByZXNzaW9uIjoiIn0="
+    },
+    {
+      "id": "Pesthunter FF Bonus 30m",
+      "author": "nopo",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1455500584076443688",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiXHUwMDI2XHUwMDI2NlBlc3QgRkYgQm9udXMgKDMwbSkiLCJ0aW1lciI6MTc0MCwidHJpZ2dlciI6IiBCb251czogLioyOW0iLCJpY29uIjoicGVzdGh1bnRlciBwaGlsbGlwIChucGMpIiwiaXNSZXNldE9mZnNldCI6ZmFsc2UsInNob3dXaGVuIjowLCJzaG93T25seVdoZW5SZWFkeSI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJUQUJfTElTVCIsInRyaWdnZXJNYXRjaGVyIjoiUkVHRVgiLCJyZWFkeUF0Ijp7fSwiaXNFbmFibGVkIjp0cnVlLCJpZ25vcmVDb2xvckNvZGVzIjp0cnVlLCJwb3NpdGlvbiI6eyJ4IjoxMCwieSI6MTAsInNjYWxlIjoxLjAsImNlbnRlclgiOmZhbHNlLCJjZW50ZXJZIjp0cnVlLCJpZ25vcmVDdXN0b21TY2FsZSI6ZmFsc2V9LCJ0b3RhbFRyaWdnZXJzIjoxLCJ0cmlnZ2Vyc0xlZnQiOnt9LCJjcm9uRW5hYmxlZCI6ZmFsc2UsImNyb25FeHByZXNzaW9uIjoiIn0="
+    },
+    {
+      "id": "Heavy Pearls",
+      "author": "Kekoa",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1452932815636267069",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiSGVhdnkgUGVhcmxzIiwidGltZXIiOjAsInRyaWdnZXIiOiJGaW5kIGEgd2F5IHRvIHJlYWNoIHRoZSB0b3Agb2YgdGhlIHN0b21hY2ghIiwiaWNvbiI6ImhlYXZ5IHBlYXJsIiwiaXNSZXNldE9mZnNldCI6dHJ1ZSwic2hvd1doZW4iOjAsInNob3dPbmx5V2hlblJlYWR5IjpmYWxzZSwidHJpZ2dlclRhcmdldCI6IkNIQVQiLCJ0cmlnZ2VyTWF0Y2hlciI6IkVRVUFMUyIsInJlYWR5QXQiOnt9LCJpc0VuYWJsZWQiOnRydWUsImlnbm9yZUNvbG9yQ29kZXMiOnRydWUsInBvc2l0aW9uIjp7IngiOi0xMDksInkiOjUzLCJzY2FsZSI6MC43OTk5OTk5NSwiY2VudGVyWCI6ZmFsc2UsImNlbnRlclkiOnRydWUsImlnbm9yZUN1c3RvbVNjYWxlIjpmYWxzZX0sInRvdGFsVHJpZ2dlcnMiOjEsInRyaWdnZXJzTGVmdCI6e30sImNyb25FbmFibGVkIjpmYWxzZSwiY3JvbkV4cHJlc3Npb24iOiIiLCJkb3dubG9hZGVkIjpmYWxzZX0="
+    },
+    {
+      "id": "Capsaicin Eyedrops",
+      "author": "BlueSoul",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1452265488456351846",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiQ2Fwc2FpY2luIEV5ZWRyb3BzIiwidGltZXIiOjg2NDAwLCJ0cmlnZ2VyIjoiwqc5WW91IGFwcGxpZWQgdGhlIGV5ZWRyb3BzIG9uIHRoZSBtaW5pb24gYW5kIHJhbiBvdXQhIiwiaWNvbiI6IkluZmVybm8gTWluaW9uIFhJIiwiaXNSZXNldE9mZnNldCI6ZmFsc2UsInNob3dXaGVuIjowLCJzaG93T25seVdoZW5SZWFkeSI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJDSEFUIiwidHJpZ2dlck1hdGNoZXIiOiJTVEFSVFNfV0lUSCIsInJlYWR5QXQiOnt9LCJpc0VuYWJsZWQiOnRydWUsImlnbm9yZUNvbG9yQ29kZXMiOmZhbHNlLCJwb3NpdGlvbiI6eyJ4IjotMTkwLCJ5IjoyOCwic2NhbGUiOjEuMCwiY2VudGVyWCI6ZmFsc2UsImNlbnRlclkiOnRydWUsImlnbm9yZUN1c3RvbVNjYWxlIjpmYWxzZX0sInRvdGFsVHJpZ2dlcnMiOjEsInRyaWdnZXJzTGVmdCI6e30sImNyb25FbmFibGVkIjpmYWxzZSwiY3JvbkV4cHJlc3Npb24iOiIiLCJkb3dubG9hZGVkIjpmYWxzZX0="
+    },
+    {
+      "id": "Aura Best",
+      "author": "Jxst_Killua",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1453371845289050347",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiQXVyYSBCZXN0IiwidGltZXIiOjM2MDAsInRyaWdnZXIiOiJUUlVUSCEgQXVyYSB0aGFua3MgeW91IGZvciBkb2luZyB5b3VyIHBhcnQgYW5kIHNwZWFraW5nIHRoZSIsImljb24iOiJnb2xkIGluZ290IiwiaXNSZXNldE9mZnNldCI6ZmFsc2UsInNob3dXaGVuIjowLCJzaG93T25seVdoZW5SZWFkeSI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJDSEFUIiwidHJpZ2dlck1hdGNoZXIiOiJDT05UQUlOUyIsInJlYWR5QXQiOnt9LCJpc0VuYWJsZWQiOnRydWUsImlnbm9yZUNvbG9yQ29kZXMiOnRydWUsInBvc2l0aW9uIjp7IngiOi0xMTYsInkiOjM1LCJzY2FsZSI6MS4wLCJjZW50ZXJYIjpmYWxzZSwiY2VudGVyWSI6dHJ1ZSwiaWdub3JlQ3VzdG9tU2NhbGUiOmZhbHNlfX0="
+    },
+    {
+      "id": "Mage Dailies",
+      "author": "Claww",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1456390864971759668",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiTWFnZSBEYWlsaWVzIiwidGltZXIiOjAsInRyaWdnZXIiOiIuKlxcK1xcZCtcXHMrTWFnZVxccytSZXB1dGF0aW9uLioiLCJpY29uIjoic3BlbGwgcG93ZGVyIiwiaXNSZXNldE9mZnNldCI6dHJ1ZSwic2hvd1doZW4iOjAsInNob3dPbmx5V2hlblJlYWR5IjpmYWxzZSwidHJpZ2dlclRhcmdldCI6IkNIQVQiLCJ0cmlnZ2VyTWF0Y2hlciI6IlJFR0VYIiwicmVhZHlBdCI6e30sImlzRW5hYmxlZCI6dHJ1ZSwiaWdub3JlQ29sb3JDb2RlcyI6dHJ1ZSwicG9zaXRpb24iOnsieCI6MTAsInkiOjEwLCJzY2FsZSI6MS4wLCJjZW50ZXJYIjpmYWxzZSwiY2VudGVyWSI6dHJ1ZSwiaWdub3JlQ3VzdG9tU2NhbGUiOmZhbHNlfSwidG90YWxUcmlnZ2VycyI6NSwidHJpZ2dlcnNMZWZ0Ijp7fSwiY3JvbkVuYWJsZWQiOmZhbHNlLCJjcm9uRXhwcmVzc2lvbiI6IiIsImRvd25sb2FkZWQiOmZhbHNlfQ=="
+    },
+    {
+      "id": "Barbarian Dailies",
+      "author": "Claww",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1456390864971759668",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiQmFyYmFyaWFuIERhaWxpZXMiLCJ0aW1lciI6MCwidHJpZ2dlciI6Ii4qXFwrXFxkK1xccytCYXJiYXJpYW5cXHMrUmVwdXRhdGlvbi4qIiwiaWNvbiI6ImJsYXplIHBvd2RlciIsImlzUmVzZXRPZmZzZXQiOnRydWUsInNob3dXaGVuIjowLCJzaG93T25seVdoZW5SZWFkeSI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJDSEFUIiwidHJpZ2dlck1hdGNoZXIiOiJSRUdFWCIsInJlYWR5QXQiOnt9LCJpc0VuYWJsZWQiOnRydWUsImlnbm9yZUNvbG9yQ29kZXMiOnRydWUsInBvc2l0aW9uIjp7IngiOjEwLCJ5IjoxMCwic2NhbGUiOjEuMCwiY2VudGVyWCI6ZmFsc2UsImNlbnRlclkiOnRydWUsImlnbm9yZUN1c3RvbVNjYWxlIjpmYWxzZX0sInRvdGFsVHJpZ2dlcnMiOjUsInRyaWdnZXJzTGVmdCI6e30sImNyb25FbmFibGVkIjpmYWxzZSwiY3JvbkV4cHJlc3Npb24iOiIiLCJkb3dubG9hZGVkIjpmYWxzZX0="
+    },
+    {
+      "id": "Crimson Minibosses",
+      "author": "Claww",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1454073185585725593",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiSXNsZSBNaW5pYm9zcyIsInRpbWVyIjoxNDQwMCwidHJpZ2dlciI6IllvdSBnYWluZWQgMjAgUmVwdXRhdGlvbiBmb3Iga2lsbGluZyB0aGUgbWluaWJvc3MhIiwiaWNvbiI6ImJ1cm5pbmcgZXllIiwiaXNSZXNldE9mZnNldCI6dHJ1ZSwic2hvd1doZW4iOjE0NDAwLCJzaG93T25seVdoZW5SZWFkeSI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJDSEFUIiwidHJpZ2dlck1hdGNoZXIiOiJDT05UQUlOUyIsInJlYWR5QXQiOnt9LCJpc0VuYWJsZWQiOnRydWUsImlnbm9yZUNvbG9yQ29kZXMiOnRydWUsInBvc2l0aW9uIjp7IngiOjEwLCJ5IjoxMCwic2NhbGUiOjEuMCwiY2VudGVyWCI6ZmFsc2UsImNlbnRlclkiOnRydWUsImlnbm9yZUN1c3RvbVNjYWxlIjpmYWxzZX0sInRvdGFsVHJpZ2dlcnMiOjUsInRyaWdnZXJzTGVmdCI6e30sImNyb25FbmFibGVkIjpmYWxzZSwiY3JvbkV4cHJlc3Npb24iOiIifQ=="
+    },
+    {
+      "id": "Dark Auction",
+      "author": "MTOnline",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1457780504463147141",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiRGFyayBBdWN0aW9uIiwidGltZXIiOjM1LCJ0cmlnZ2VyIjoiW05QQ10gU2lyaXVzOiBBcmUgeW91IGhlcmUgZm9yIHRoZSBBdWN0aW9uPyBPbmx5IHRoZSByaWNoZXN0IHBsYXllcnMgY2FuIGVudGVyLiIsImljb24iOiJzZWFsIG9mIHRoZSBmYW1pbHkiLCJpc1Jlc2V0T2Zmc2V0IjpmYWxzZSwic2hvd1doZW4iOjMwMCwic2hvd09ubHlXaGVuUmVhZHkiOmZhbHNlLCJ0cmlnZ2VyVGFyZ2V0IjoiQ0hBVCIsInRyaWdnZXJNYXRjaGVyIjoiRVFVQUxTIiwicmVhZHlBdCI6e30sImlzRW5hYmxlZCI6dHJ1ZSwiaWdub3JlQ29sb3JDb2RlcyI6dHJ1ZSwicG9zaXRpb24iOnsieCI6MTAsInkiOjEwLCJzY2FsZSI6MS4wLCJjZW50ZXJYIjpmYWxzZSwiY2VudGVyWSI6dHJ1ZSwiaWdub3JlQ3VzdG9tU2NhbGUiOmZhbHNlfSwidG90YWxUcmlnZ2VycyI6MSwidHJpZ2dlcnNMZWZ0Ijp7fSwiY3JvbkVuYWJsZWQiOnRydWUsImNyb25FeHByZXNzaW9uIjoiMCA1NSAqICogKiA/In0="
+    },
+    {
+      "id": "Ubik's Cube",
+      "author": "Ulfyn",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1452166792217628903",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiVWJpa3MgQ3ViZSIsInRpbWVyIjo3MjAwLCJ0cmlnZ2VyIjoiWW91ciBvcHBvbmVudCBlYXJuZWQgMCBNb3RlcyBpbiB0aGlzIG1hdGNoISIsImljb24iOiJ1YmlrXHUwMDI3cyBjdWJlIiwiaXNSZXNldE9mZnNldCI6ZmFsc2UsInNob3dXaGVuIjowLCJzaG93T25seVdoZW5SZWFkeSI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJDSEFUIiwidHJpZ2dlck1hdGNoZXIiOiJDT05UQUlOUyIsInJlYWR5QXQiOnt9LCJpc0VuYWJsZWQiOnRydWUsImlnbm9yZUNvbG9yQ29kZXMiOnRydWUsInBvc2l0aW9uIjp7IngiOi0xNzQsInkiOjUzLCJzY2FsZSI6MS4wLCJjZW50ZXJYIjpmYWxzZSwiY2VudGVyWSI6dHJ1ZSwiaWdub3JlQ3VzdG9tU2NhbGUiOmZhbHNlfSwidG90YWxUcmlnZ2VycyI6MSwidHJpZ2dlcnNMZWZ0Ijp7fSwiY3JvbkVuYWJsZWQiOmZhbHNlLCJjcm9uRXhwcmVzc2lvbiI6IiIsImRvd25sb2FkZWQiOmZhbHNlfQ=="
+    },
+    {
+      "id": "Pablo",
+      "author": "Claww",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1454074313417162922",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiUGFibG8iLCJ0aW1lciI6MTcyODAwLCJ0cmlnZ2VyIjoiUGFibG86IEdyZWF0LCBiYWNrIHRvIHBhaW50aW5nISIsImljb24iOiJwYWludGluZyIsImlzUmVzZXRPZmZzZXQiOmZhbHNlLCJzaG93V2hlbiI6NzIwMCwic2hvd09ubHlXaGVuUmVhZHkiOmZhbHNlLCJ0cmlnZ2VyVGFyZ2V0IjoiQ0hBVCIsInRyaWdnZXJNYXRjaGVyIjoiQ09OVEFJTlMiLCJyZWFkeUF0Ijp7fSwiaXNFbmFibGVkIjp0cnVlLCJpZ25vcmVDb2xvckNvZGVzIjp0cnVlLCJwb3NpdGlvbiI6eyJ4IjoxMCwieSI6MTAsInNjYWxlIjoxLjAsImNlbnRlclgiOmZhbHNlLCJjZW50ZXJZIjp0cnVlLCJpZ25vcmVDdXN0b21TY2FsZSI6ZmFsc2V9fQ=="
+    },
+    {
+      "id": "Rollim",
+      "author": "Claww",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1454074313417162922",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiUm9sbGltIiwidGltZXIiOjg2NDAwLCJ0cmlnZ2VyIjoiRW4gZ2FyZGUhIiwiaWNvbiI6Indvb2RlbiBzd29yZCIsImlzUmVzZXRPZmZzZXQiOmZhbHNlLCJzaG93V2hlbiI6MCwic2hvd09ubHlXaGVuUmVhZHkiOmZhbHNlLCJ0cmlnZ2VyVGFyZ2V0IjoiQ0hBVCIsInRyaWdnZXJNYXRjaGVyIjoiQ09OVEFJTlMiLCJyZWFkeUF0Ijp7fSwiaXNFbmFibGVkIjpmYWxzZSwiaWdub3JlQ29sb3JDb2RlcyI6dHJ1ZSwicG9zaXRpb24iOnsieCI6MTAsInkiOjEwLCJzY2FsZSI6MS4wLCJjZW50ZXJYIjpmYWxzZSwiY2VudGVyWSI6dHJ1ZSwiaWdub3JlQ3VzdG9tU2NhbGUiOmZhbHNlfX0="
+    },
+    {
+      "id": "Avorius",
+      "author": "Claww",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1454074313417162922",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiQXZvcml1cyIsInRpbWVyIjoyNTkyMDAsInRyaWdnZXIiOiJBdm9yaXVzOiBBIEN1cCBvZiBCbG9vZD8gV2hhdCBhIHN0cmFuZ2UgcHJlc2VudCwgSVx1MDAyN20gc3VyZSBhIFZhbXBpcmUgd291bGQgbGlrZSB0aGF0LiIsImljb24iOiJjdXAgb2YgYmxvb2QiLCJpc1Jlc2V0T2Zmc2V0IjpmYWxzZSwic2hvd1doZW4iOjcyMDAsInNob3dPbmx5V2hlblJlYWR5IjpmYWxzZSwidHJpZ2dlclRhcmdldCI6IkNIQVQiLCJ0cmlnZ2VyTWF0Y2hlciI6IkNPTlRBSU5TIiwicmVhZHlBdCI6e30sImlzRW5hYmxlZCI6dHJ1ZSwiaWdub3JlQ29sb3JDb2RlcyI6dHJ1ZSwicG9zaXRpb24iOnsieCI6MTAsInkiOjEwLCJzY2FsZSI6MS4wLCJjZW50ZXJYIjpmYWxzZSwiY2VudGVyWSI6dHJ1ZSwiaWdub3JlQ3VzdG9tU2NhbGUiOmZhbHNlfX0="
+    },
+    {
+      "id": "Hungry Hiker",
+      "author": "Claww",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1453863274453139557",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiSGlrZXIiLCJ0aW1lciI6ODY0MDAsInRyaWdnZXIiOiJUaGFua3MgZm9yIHRoZSBmb29kLi4iLCJpY29uIjoid2hlYXQiLCJpc1Jlc2V0T2Zmc2V0IjpmYWxzZSwic2hvd1doZW4iOjM2MDAsInNob3dPbmx5V2hlblJlYWR5IjpmYWxzZSwidHJpZ2dlclRhcmdldCI6IkNIQVQiLCJ0cmlnZ2VyTWF0Y2hlciI6IkNPTlRBSU5TIiwicmVhZHlBdCI6e30sImlzRW5hYmxlZCI6dHJ1ZSwiaWdub3JlQ29sb3JDb2RlcyI6dHJ1ZSwicG9zaXRpb24iOnsieCI6MTAsInkiOjEwLCJzY2FsZSI6MS4wLCJjZW50ZXJYIjpmYWxzZSwiY2VudGVyWSI6dHJ1ZSwiaWdub3JlQ3VzdG9tU2NhbGUiOmZhbHNlfX0="
+    }
+  ]
+}

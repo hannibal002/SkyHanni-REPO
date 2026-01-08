@@ -1,7 +1,8 @@
 {
   "perks": [
-    "STATSPOCALYPSE",
     "PERKPOCALYPSE",
-    "PEST_ERADICATOR"
+    "PEST_ERADICATOR",
+    "PELT_POCALYPSE",
+    "STATSPOCALYPSE"
   ]
 }
