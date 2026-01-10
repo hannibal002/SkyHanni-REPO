@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "d9d703d",
+  "sourceLabel": "6a087ce",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -1651,7 +1651,7 @@
     "summoning.mobs.seraphrecall": "§cThe Seraph recalled your \\d+ summoned allies!",
     "summoning.mobs.spawn": "§aYou have spawned your .+ §r§asoul! §r§d\\(\\d+ Mana\\)",
     "supercrafting-inventory.crafting.count": ".*Crafting (?\u003ccount\u003e[0-9,]+) item.*",
-    "supercrafting-inventory.crafting.resource": " *✔ [0-9,]+/[0-9,]+ \\((?\u003camount\u003e[0-9,]+)x\\) (?\u003cresource\u003e.+)",
+    "supercrafting-inventory.crafting.resource": " *✔ (?\u003cowned\u003e[0-9,]+)/(?\u003cused\u003e[0-9,]+) (?:\\([0-9,]+x\\) )?(?\u003cresource\u003e.+)",
     "supercrafting-inventory.inventory.name": "(?\u003citemname\u003e.*) Recipe",
     "tab.effects": " *(?:§.)*(?\u003ceffect\u003e§.[\\w\\-\u0027 ]+ (?\u003ctier\u003e[IVXLC]+)) ?(?:§.|[: ])+(?\u003ctime\u003e[dhms0-9 ]+)(?:§.)*",
     "tab.salts": " (?\u003ceffect\u003e(?:§.)*[\\w\\-\u0027 ]+(?:§.)*)*: *(?:§.)*(?\u003ctime\u003e[dhms0-9 ]+)",
