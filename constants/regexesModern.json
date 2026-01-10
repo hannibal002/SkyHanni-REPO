@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "6060565",
+  "sourceLabel": "5e6372f",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -749,6 +749,9 @@
     "garden.contest.personal.best.collection.new": "§e\\[NPC] Jacob§f: §rYou collected §e(?\u003ccollected\u003e.*) §fitems! §d§lPERSONAL BEST§f!",
     "garden.contest.personal.best.collection.old": "§e\\[NPC] Jacob§f: §rYour previous Personal Best was §e(?\u003ccollected\u003e.*)§f.",
     "garden.contest.personal.best.ff.new": "§e\\[NPC] Jacob§f: §rYour §6Personal Bests §fperk is now granting you §6\\+(?\u003cff\u003e.*)☘ (?\u003ccrop\u003e.*) Fortune§f!",
+    "garden.cropfever.drop": "^(?\u003crarity\u003e[\\w ]+)! You dropped (?\u003camount\u003e\\d+)x (?\u003ccrop\u003e[\\w ]+)!",
+    "garden.cropfever.end": "^GONE! Your CROP FEVER has been cured!",
+    "garden.cropfever.start": "^WOAH! You caught a case of the CROP FEVER for 60 seconds!",
     "garden.cropmilestone.fix.levelup": " {2}§r§b§lGARDEN MILESTONE §3(?\u003ccrop\u003e.*) §8.*➜§3(?\u003ctier\u003e.*)",
     "garden.cropmilestone.fix.pests.raredrop": "§6§lRARE DROP! (?:§.)*(?\u003citem\u003e.+) §6\\(§6\\+.*☘\\)",
     "garden.cropmilestone.fix.tablist": " (?\u003ccrop\u003eWheat|Carrot|Potato|Pumpkin|Sugar Cane|Melon|Cactus|Cocoa Beans|Mushroom|Nether Wart) (?\u003ctier\u003e\\d+): §r§a(?\u003cpercentage\u003e.*)%",
