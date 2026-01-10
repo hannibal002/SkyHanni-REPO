@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1f9b34c",
+  "sourceLabel": "d9d703d",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -212,6 +212,9 @@
     "data.friends.remove": ".*\n§r§eYou removed §r(?\u003cname\u003e.*)§e from your friends list!§r§9§m\n.*",
     "data.friends.removebest": ".*\n§r(?\u003cname\u003e.*)§e is no longer a best friend!§r§9§m\n.*",
     "data.garden.milestone.crop": "§7Harvest §f(?\u003cname\u003e.*) §7on .*",
+    "data.garden.milestone.levelup": " {2}§r§b§lGARDEN MILESTONE §3(?\u003ccrop\u003e.*) §8.*➜§3(?\u003ctier\u003e.*)",
+    "data.garden.milestone.tablist.max": " (?\u003ccrop\u003e[\\w ]+) (?\u003ctier\u003e\\d+): §r§c§lMAX",
+    "data.garden.milestone.tablist.percent": " (?\u003ccrop\u003e[\\w ]+) (?\u003ctier\u003e\\d+): §r§a(?\u003cpercentage\u003e.*)%",
     "data.garden.milestone.total": "§7Total: §a(?\u003cname\u003e.*)",
     "data.garden.milestonefix.amount": ".*§e(?\u003chaving\u003e.*)§6/§e(?\u003cmax\u003e.*)",
     "data.hiddenmembers.inventory.historic": "Historic Members",
@@ -752,9 +755,6 @@
     "garden.cropfever.drop": "^(?\u003crarity\u003e[\\w ]+)! You dropped (?\u003camount\u003e\\d+)x (?\u003ccrop\u003e[\\w ]+)!",
     "garden.cropfever.end": "^GONE! Your CROP FEVER has been cured!",
     "garden.cropfever.start": "^WOAH! You caught a case of the CROP FEVER for 60 seconds!",
-    "garden.cropmilestone.fix.levelup": " {2}§r§b§lGARDEN MILESTONE §3(?\u003ccrop\u003e.*) §8.*➜§3(?\u003ctier\u003e.*)",
-    "garden.cropmilestone.fix.pests.raredrop": "§6§lRARE DROP! (?:§.)*(?\u003citem\u003e.+) §6\\(§6\\+.*☘\\)",
-    "garden.cropmilestone.fix.tablist": " (?\u003ccrop\u003eWheat|Carrot|Potato|Pumpkin|Sugar Cane|Melon|Cactus|Cocoa Beans|Mushroom|Nether Wart) (?\u003ctier\u003e\\d+): §r§a(?\u003cpercentage\u003e.*)%",
     "garden.cropupgrades.chatupgrade": "\\s+§r§6§lCROP UPGRADE §e(?\u003ccrop\u003e[\\w ]+)§7 #(?\u003ctier\u003e\\d)",
     "garden.cropupgrades.tier": "§7Current Tier: §.(?\u003clevel\u003e\\d)§7/§a9",
     "garden.farming.contest.bracketbronze": "§c§lBRONZE §7\\(§bTop \\d{1,2}%§7\\): §6(?\u003camount\u003e.*)",
