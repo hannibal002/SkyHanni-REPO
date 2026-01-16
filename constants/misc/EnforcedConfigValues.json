@@ -142,7 +142,7 @@
     {
       "enforcedValues": [
         {
-          "path": "misc.commands.reversePT.command",
+          "path": "misc.commands.reversePT.clickable",
           "value": false
         }
       ],
