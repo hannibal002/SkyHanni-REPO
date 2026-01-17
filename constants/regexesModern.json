@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "283dc08",
+  "sourceLabel": "b0ce48f",
   "regexes": {
     "abiphone.snake.name": "Snake",
     "accessorybag.name": "Accessory Bag.*",
@@ -336,7 +336,7 @@
     "dungeon.croesus.kismet.used": "§aYou already rerolled a chest!",
     "dungeon.end.chests.spawned": "(?:§f)? *§r§c(?:Master Mode )?The Catacombs §r§8- §r§eFloor .*",
     "dungeon.f5.livid.armorstand": "^§(?\u003ccolorCode\u003e.)﴾ §.§lLivid.*$",
-    "dungeon.f5.livid.name": "^(?\u003ctype\u003e\\w+) Livid$",
+    "dungeon.f5.livid.name": "^(?\u003cname\u003e\\w+) Livid$",
     "dungeon.finder.new.carry": "(?i).*(?:CARRY|CARY|CARRIES|CARIES|COMP|TO CATA [0-9]{2}).*",
     "dungeon.finder.new.catacombs.gate": "Catacombs Gate",
     "dungeon.finder.new.check.if.party": ".*\u0027s Party",
