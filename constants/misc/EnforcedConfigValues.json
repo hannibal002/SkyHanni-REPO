@@ -138,6 +138,21 @@
         "1.21.10"
       ],
       "extraMessage": "Fungi Cutters no longer have a mode"
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "misc.commands.reversePT.clickable",
+          "value": false
+        }
+      ],
+      "affectedVersion": "6.9.0",
+      "affectedMinecraftVersions": [
+        "1.21.5",
+        "1.21.8",
+        "1.21.10"
+      ],
+      "extraMessage": "Will be re-enabled next beta"
     }
   ]
 }
