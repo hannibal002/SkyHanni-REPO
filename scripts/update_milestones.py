@@ -31,8 +31,6 @@ Moonflower:4:700
 Sunflower:4:350
 Sugar Cane:22:1,000,000
 Cactus:22:1,000,000
-Cocoa Beans:23:1,950,000
-Nether Wart:23:1,950,000
 Wild Rose:22:800,000
 """
 
@@ -64,9 +62,6 @@ def update(data: dict[str, dict[str, int]], lines: list[str], *, equivalents: bo
         for cid in crop_ids:
             ms = data["crop_milestones"][cid]
             if ms[index] != amount:
-                if round_sig(ms[index], 2) == amount:
-                    print(f"Warning: Ignoring milestone change within 2 significant figures for {cid}:{index} ({ms[index]} -> {amount})")
-                    continue
                 data["crop_milestones"][cid][index] = amount
                 updated += 1
     return updated
