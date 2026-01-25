@@ -1,7 +1,7 @@
 {
-  "sourceLabel": "2be3151",
+  "sourceLabel": "19bfb0a",
   "regexes": {
-    "abiphone.snake.name": "Snake",
+    "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
