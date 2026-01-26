@@ -31,7 +31,6 @@ Moonflower:4:700
 Sunflower:4:350
 Sugar Cane:22:1,000,000
 Cactus:22:1,000,000
-Wild Rose:22:800,000
 """
 
 
