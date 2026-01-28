@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "19bfb0a",
+  "sourceLabel": "0b5295d",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -842,7 +842,7 @@
     "garden.pests.spawn.offline": "§6§l.*! §7While you were offline, §2ൠ §2Pests? §7spawned in §aPlots (?\u003cplots\u003e.*)!",
     "garden.pests.spawn.one": "§6§l.*! §7A §2ൠ Pest §7has appeared in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
     "garden.pests.spawn.teleport": "\\s*§r§e§lCLICK HERE §eto teleport to the plot!",
-    "garden.pests.tracker.raredrop": "§6§l(?:RARE|PET) DROP! (?:§r)?(?\u003citem\u003e.+) §6\\(§6\\+.*☘\\)",
+    "garden.pests.tracker.raredrop": "§6§l(?:RARE|PET) DROP! (?:§r)?(?\u003citem\u003e.+?)(?: §8x(?\u003camount\u003e\\d+))? §6\\(§6\\+[\\d,]+☘\\)",
     "garden.pests.tracker.sprayonator": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- .* §r§7with §r§.(?\u003cspray\u003e.*)§r§7!",
     "garden.plot.barnname": "§.(?\u003cname\u003eThe Barn)",
     "garden.plot.chat.clean": "§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§ais now clean!",
