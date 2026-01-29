@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1c3a2b2",
+  "sourceLabel": "5b7fc76",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -1330,7 +1330,7 @@
     "misc.hotx.perk.item.before": "§aYour Current Effect",
     "misc.ingametime.date": ".*(?:(?:Early|Late) )?(?:Winter|Spring|Summer|Autumn) [0-9]{1,2}(?:nd|rd|th|st)?.*",
     "misc.ingametime.symbols": "[☀☽࿇]",
-    "misc.itemresolution.pet": "(?:§.)*\\[Lvl (?\u003clevel\u003e\\d+)] (?:§.)*§(?\u003crarity\u003e.)(?\u003cname\u003e[^§]+)(?:(§.)* ✦)?",
+    "misc.itemresolution.pet": "(?:§.)*\\[Lvl (?\u003clevel\u003e\\d+)] (?:§.)*§(?\u003crarity\u003e.)(?\u003cname\u003e[^§]+)(?:(?:§.)* ✦)?",
     "misc.itemresolution.shard": "(?\u003cname\u003e§.[^§]+)(?: §d§lNEW SHARD)?",
     "misc.items.enchantparsing.enchants.new": "(?:§7§l|§d§l|§9|§7)(?\u003cenchant\u003e[A-Za-z][A-Za-z \u0027-]+) (?\u003clevelNumeral\u003e[IVXLCDM]+|[0-9]+)(?\u003cstacking\u003e(?:§r)?, |$| §r§8\\d{1,3}(?:[,.]\\d{1,3})*[kKmMbB]?)",
     "misc.items.enchantparsing.exclusive": "^(?:(?:§.)+[A-Za-z][A-Za-z \u0027-]+ (?:[IVXLCDM]+|[0-9]+)(?:(?:§r)?, |$| §r§8\\d{1,3}(?:[,.]\\d{1,3})*)[kKmMbB]?)+$",
