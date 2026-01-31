@@ -1,205 +1,202 @@
 {
   "bingo_tips": {
-    "Pet  (Community Goal)": {
+    "Revenant Horror (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Gain Pet XP"
+        "Kill t2 Revenant Horror Bosses"
       ],
       "guide": [
-        "To gain passively progress in this",
-        "you should have a pet equipped at all times.",
-        "Don't forget to use pet items that boost",
-        "their XP-gain. Things like Milestone Rewards",
-        "(Commission, Garden, Bestiary Milestones)",
-        "and Pet Candies will be a good help here."
+        "Ideally you'd want Ender Set",
+        "with a Void Sword for this."
       ]
     },
-    "A Hard Day's Work (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Collect Jacobs Tickets from contests"
-      ],
-      "guide": [
-        "To get easy progress in this do",
-        "contests like Wheat, Potato, Carrot",
-        "or Mushroom as those are easy",
-        "Bronze or Silver Medals to get."
-      ]
-    },
-    "Essence Of Spiders (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Gain Spider Essence"
-      ],
-      "guide": [
-        "For this you can participate in Arachne fights",
-        "in the Spiders Den, salvage Arachne/Spider Gear",
-        "or collect secrets in dungeons."
-      ]
-    },
-    "Agricultural Revolution (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Harvest crops"
-      ],
-      "guide": [
-        "You can get easy contribution for",
-        "this by breaking some Wheat in the Hub.",
-        "If you want faster contribution,",
-        "make a Sugar Cane farm in your Garden."
-      ]
-    },
-    "Goblin's Treasure (Community Goal)": {
+    "Clown Collab (Community Goal)": {
       "difficulty": "Medium",
       "note": [
-        "Kill Golden Goblins"
+        "Complete F1 Dungeon Runs"
       ],
       "guide": [
-        "Kill goblins or open loot chests in the Crystal Hollows,",
-        "then just throw them until you get a Golden Goblin.",
-        "Higher level eggs have higher chances of spawning,",
-        "but are also rarer to get.",
-        "You can also try to utilize one SkyMall perk for this."
+        "This needs Combat 15 and a completion",
+        "of the previous floor to enter.",
+        "To efficiently grind this, you should",
+        "get help from Party Finder/Friends."
       ]
     },
-    "Titanic Reforger": {
+    "Lucky Looter (Community Goal)": {
+      "difficulty": "Medium",
+      "note": [
+        "Collect rare drops"
+      ],
+      "guide": [
+        "Carrots and potatoes from killing",
+        "Zombies in graveyard do count."
+      ]
+    },
+    "Skilled (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Apply the Titanic Reforge"
+        "Gain Mining experience"
       ],
       "guide": [
-        "Talk to the Blacksmith in the Hub",
-        "and gamble Reforges on an armor piece",
-        "until you get the Titanic Reforge.",
-        "You might need to bring some money for this."
+        "For this you just need to mine blocks,",
+        "complete Mining Commissions and collect",
+        "occasional Commission Milestones."
       ]
     },
-    "Warrior": {
-      "difficulty": "Medium",
-      "note": [
-        "Reach Combat 18"
-      ],
-      "guide": [
-        "You should either kill Endermen in",
-        "End using your Void Sword (200k) and",
-        "Ender Armor for this (buy the Ender Training",
-        "Perk from Tyzzo next to the Draconic Altar)",
-        "or Spiders in the Spiders Den with a Cleave 5",
-        "weapon. You might want to also use the free",
-        "Combat XP from Bestiary Miletones for this.",
-        "You can also grab the free Combat XP from",
-        "killing multiple different Mob Types"
-      ]
-    },
-    "Ferocious": {
+    "Scavenger (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "3 Ferocity"
+        "Gain coins from the Scavenger Enchant"
       ],
       "guide": [
-        "Buy a Dirt Bottle (100k) from",
-        "the Smithmonger in the Hub",
-        "and reforge an uncommon+ rarity weapon with it."
+        "Apply/Use the highest tier of Scavenger",
+        "that you can get your hands on and put it",
+        "on your main weapon. Gifts from the Jerry Island",
+        "can be a way to obtain Scavenger IV books.",
+        "You can also use the weapon drops from dungeon mobs",
+        "as those have guaranteed Scavenger 5." 
       ]
     },
-    "Taking Flight": {
+    "Fisherman": {
+      "difficulty": "Easy",
+      "note": [
+        "Wear 4/8 Angler Armor"
+      ],
+      "guide": [
+        "You can buy this for 400 coins",
+        "from the Fish Merchant in the Hub"
+      ]
+    },
+    "Tropical Fish Collector": {
       "difficulty": "Medium",
       "note": [
-        "Consume a Magical Mushroom Soup"
+        "400 Tropical Fish Collection"
       ],
       "guide": [
-        "This unlocks at 1k Mushroom Collection.",
-        "You can get that by farming the Mushrooms",
-        "in the Mushroom Desert.",
-        "Obtain the needed Glowstone by buying a",
-        "Glowstone Block from the Builder and breaking",
-        "it on your island."
+        "Fish in the Hub until you can enter the Backwater Bayou.",
+        "Fish there and lootshare mobs until you unlock",
+        "Fishing Minions. Place as many of them on your island,",
+        "as you can and give them the best fuel and storage",
+        "you have access to and don't forget to collect in time."
       ]
     },
-    "Skill Average": {
+    "Rock Solid": {
+      "difficulty": "Easy",
+      "note": [
+        "Equip a Common+ Rock"
+      ],
+      "guide": [
+        "You will get the Rock Pet by mining 2.5k",
+        "Ore Blocks. Keep in mind that Stone doesn't",
+        "count for this. Don't forget to equip the pet ;)"
+      ]
+    },
+    "Fashionable": {
       "difficulty": "Medium",
       "note": [
-        "Skill Average of 17"
+        "18 Armor Sets"
       ],
       "guide": [
-        "To help with this, try to make bigger crafts",
-        "by hand for Carpentry levels.",
-        "Also do your daily experiments and make sure",
-        "to have a pet active at all times",
-        "(any pet works, even level 100).",
-        "Hunting also counts for this."
+        "Craft Leather, Iron, Gold and Diamond Armor",
+        "Collect Ender Armor from The End (8 pieces)",
+        "Craft Leaflet, Farm Suit, Mushroom, Cactus",
+        "and Pumpkin Armor.",
+        "Buy Squire, Rosetta's, Celeste, Mercenary and",
+        "Starlight Armor from Rosetta aswell as Angler Armor",
+        "(8 pieces) from the Fishing Merchant,",
+        "Chainmail Armor from the Iron Forger and",
+        "Canopy Armor from Amaury. You should also",
+        "collect the armor from the Foraging Questline."
       ]
     },
-    "Extra Storage": {
-      "difficulty": "Hard",
+    "Emerald Treasure": {
+      "difficulty": "Medium",
       "note": [
-        "Craft a Large Storage"
+        "Unlock an Emerald Dungeon Chest"
+      ],
+      "guide": [
+        "Complete a Floor 1 with a score of 230+",
+        "and buy the chest afterwards. If you can't buy",
+        "it on the spot, either save money and buy it",
+        "from Croesus within the next 2 days or do another run.",
+        "You will probably need help with this."
+      ]
+    },
+    "Gold Ingot Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "60k Gold Collection"
+      ],
+      "guide": [
+        "Mine Pure Gold in the Dwarven Mines",
+        "with a Fortune 3+ pickaxe.",
+        "You might want to use as many minions",
+        "as you have access to for this.",
+        "Remember to put a compactor in the minions",
+        "when you plan on leaving for a while.",
+        "Don't forget to fuel the minions,",
+        "give them storages and collect them in time."
+      ]
+    },
+     "Slayer": {
+      "difficulty": "Easy",
+      "note": [
+        "Reach Slayer Level 3"
+      ],
+      "guide": [
+        "Recommended for this is Zombie Slayer.",
+        "This needs 230 xp, so either:",
+        "t1, t2 and 2 t3",
+        "or t1 and 9 t2.",
+        "Don't forget to claim the rewards",
+        "from Maddox."
+      ]
+    },
+    "Sponge Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "900 Sponge Collection"
+      ],
+      "guide": [
+        "Fish in the Hub until you can enter the Backwater Bayou.",
+        "Fish there and lootshare mobs until you unlock",
+        "Fishing Minions. Place as many of them on your island,",
+        "as you can and give them the best fuel and storage",
+        "you have access to and don't forget to collect in time."
+      ]
+    },
+    "Powder Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "50k Mithril Powder"
+      ],
+      "guide": [
+        "Do commissions and events in The Dwarven Mines,",
+        "claim your daily powder from the Puzzler and",
+        "from giving Fetchur the items he asks for.",
+        "Fetchurs items are all listed in the Wiki.",
+        "Try to do those while a '2x Powder' event is active.",
+        "You might want to use the Royal Reforge on your",
+        "equipment to gain more powder from events.",
+        "You can also fish up and kill Mithril Grubbers",
+        "in the Abandoned Quarry (Fishing 6)."
+      ]
+    },
+    "Lumberjack": {
+      "difficulty": "Easy",
+      "note": [
+        "Reach Foraging 5"
       ],
       "guide": [
         "Optimal tool:",
-        "Treecapitator with Efficiency 5",
+        "Golden Axe with Efficiency 5",
         "Reforges: Double-Bit or Lush",
         "Get Haste 3 from a splash to instamine wood",
-        "Costs 256 Enchanted Oak Wood to craft and",
-        "unlocks at Oak Wood Collection 9 (30k).",
-        "You should also consider getting gear from",
+        "You could consider getting gear from",
         "Galatea like Canopy Armor (requires 1.21",
         "to enter that island)"
       ]
-    },
-    "Weird Flex": {
-      "difficulty": "Medium",
-      "note": [
-        "Gain 5 Strength from a Training Weight"
-      ],
-      "guide": [
-        "For this you'll want to grab a Training Weight",
-        "from a secret in dungeons and keep it in your",
-        "inventory till it shows a Strength bonus of +5.",
-        "Drop it once it reached that point."
-      ]
-    },
-    "High Score!": {
-      "difficulty": "Medium",
-      "note": [
-        "230+ Score in Floor 1"
-      ],
-      "guide": [
-        "This requires Catacombs Level 1 and ",
-        "a completion of the previous floor.",
-        "You may need help from party finder",
-        "or friends for this."
-      ]
-    },
-    "Quick Reel": {
-      "difficulty": "Medium",
-      "note": [
-        "Summon 3 Sea Creatures in 75s"
-      ],
-      "guide": [
-        "Use the best rod you can in the Backwater Bayou",
-        "and use the Angler Set bought from the Fish Merchant",
-        "in the Hub. Also use the best bait you have access to."
-      ]
-    },
-    "Acacia Log Collector": {
-      "difficulty": "Hard",
-      "note": [
-        "125k Acacia Log Collection"
-      ],
-      "guide": [
-        "Optimal tool:",
-        "Treecapitator with Efficiency 5",
-        "Reforges: Double-Bit or Lush",
-        "Get Haste 3 from a splash to instamine wood",
-        "You should also consider getting gear from",
-        "Galatea like Canopy Armor (requires 1.21",
-        "to enter that island)",
-        "You can also place Minions for this, just",
-        "remember to give them the best fuel and storage",
-        "you have access to and collect in time."
-      ]
-    },
+    }
     "New Savings": {
       "difficulty": "Medium",
       "note": [
@@ -213,54 +210,51 @@
         "you have access to and collect in time."
       ]
     },
-    "Amber Crystal": {
-      "difficulty": "Medium",
-      "note": [
-        "Grab an Amber Crystal"
-      ],
-      "guide": [
-        "For this you'll need HotM 4 and a Goblin Egg.",
-        "Ideally you want help from others to find",
-        "The Queen and The Goblin King in the Crystal Hollows.",
-        "You then need to give the Egg to the King",
-        "and steal the Queen's Crystal."
-      ]
-    },
-    "Meiser": {
+    "Critical": {
       "difficulty": "Easy",
       "note": [
-        "50k coins in the bank"
+        "Reach 100% Crit Damage"
       ],
       "guide": [
-        "You will most likely get this",
-        "from leveling up skills or",
-        "Auras Universal Income.",
-        "Remember to actually put the money",
-        "you get in the Bank :)"
+        "Reforge your Void Sword to Sharp",
+        "at the Blacksmith in the Hub or",
+        "enchant any weapon with Critical 5."
       ]
     },
-    "Petsitter": {
+    "Exterminator": {
+      "difficulty": "Hard",
+      "note": [
+        "Kill 10k mobs"
+      ],
+      "guide": [
+        "Kill farm animals in the Barn with a Cleaver",
+        "with Cleave 5 and Sharpness 5",
+        "or spiders in Arachne's Burrow",
+        "in the Spider's Den with a Dreadlord Sword."
+      ]
+    },
+    "Sea Summoner": {
       "difficulty": "Easy",
       "note": [
-        "Upgrade a pet with Kat"
+        "30% sea creature chance"
       ],
       "guide": [
-        "Craft a common Jerry Pet (1 Egg which has 30%",
-        "chance to drop from killing Chickens, and 8",
-        "Move Jerry) and upgrade it at Kat. It costs",
-        "750 coins and 1 Move Jerry and takes 10 seconds",
-        "to upgrade."
+        "Claim your cake buff (visit skyerzz, nightlibra or prtl),",
+        "hold an angler 4+ rod and visit someone with a",
+        "Sea Creature Chance beacon (visit ReyMaratov)."
       ]
     },
-    "I've got Chills!": {
+    "Experienced": {
       "difficulty": "Medium",
       "note": [
-        "Wear 4/4 Glacite pieces"
+        "Obtain a Grand XP Bottle"
       ],
       "guide": [
-        "For this you'll need Mining 12 and a pickaxe.",
-        "Head to the Great Ice Wall and kill the",
-        "Glacite Walkers with your pickaxe."
+        "Ways to obtain:",
+        "Craft (Lapis Lazuli Collection 5),",
+        "a drop from fishing,",
+        "from the Experimentation Table,",
+        "drop from Ender Nodes in the End (11-13%)."
       ]
     },
     "Strongman": {
@@ -287,39 +281,45 @@
         "talked to Bramass Beastslayer in The Spiders Den."
       ]
     },
-    "Pair Up!": {
+    "Esteemed Enchanter": {
       "difficulty": "Easy",
       "note": [
-        "3 pairs in the experimentation table"
+        "Obtain a t6 book"
       ],
       "guide": [
-        "Do your daily Experimentation Tables",
-        "after getting Enchanting Level 10."
+        "You will most likely be able to complete this",
+        "from doing the Emerald Treasure Goal as there",
+        "is a high chance for a t6 Enchanted Book to be",
+        "in the given Reward Chests."
       ]
     },
-    "Pet Hoarder": {
+    "Healthy": {
+      "difficulty": "Easy",
+      "note": [
+        "250 Health"
+      ],
+      "guide": [
+        "Wear armor enchanted with Growth 5 ",
+        "(Enchanting Level 5), preferably Ender Armor",
+        "while you're in The End or Mushroom Armor",
+        "during the night.",
+        "Applying Growth 5 costs 50 Levels each.",
+        "If you still struggle, reforge your",
+        "armor to Titanic."
+      ]
+    },
+    "King Of The... Seas?": {
       "difficulty": "Medium",
       "note": [
-        "12 unique pets"
-      ],
-      "guide": [
-        "Recommended for this are:",
-        "Bingo, Rock, Grandma Wolf,",
-        "Pig, Enderman, Horse, Jerry,",
-        "Chicken, Silverfish, Bee,",
-        "Owl (2.2m coins) and Tarantula",
-        "Some of them require certain",
-        "collections and materials to craft."
-      ]
-    },
-    "Fashionable": {
-      "difficulty": "Easy",
-      "note": [
-        "4 Armor Sets"
-      ],
-      "guide": [
-        "Craft Farm Suit, Iron, Gold and Diamond Armor"
-      ]
-    }
+        "Fish up a Carrot King"
+    ],
+    "guide": [
+      "Use the best fishing rod, bait and armor that you",
+      "have access to and fish in Backwater Bayou.",
+      "Recommended is Angler Armor and Carrot Bait.",
+      "You will need Fishing 15 to be able to fish him up.",
+      "Place Fishing Minions and give them the best storage",
+      "(and fuel) you have access to."
+    ]
   }
 }
