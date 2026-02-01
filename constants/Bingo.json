@@ -54,7 +54,7 @@
         "on your main weapon. Gifts from the Jerry Island",
         "can be a way to obtain Scavenger IV books.",
         "You can also use the weapon drops from dungeon mobs",
-        "as those have guaranteed Scavenger 5." 
+        "as those have guaranteed Scavenger 5."
       ]
     },
     "Fisherman": {
@@ -138,7 +138,7 @@
         "give them storages and collect them in time."
       ]
     },
-     "Slayer": {
+    "Slayer": {
       "difficulty": "Easy",
       "note": [
         "Reach Slayer Level 3"
@@ -312,16 +312,17 @@
       "difficulty": "Medium",
       "note": [
         "Fish up a Carrot King"
-    ],
-    "guide": [
-      "Use the best fishing rod, bait and armor that you",
-      "have access to and fish in the Spiders Den,",
-      "ideally during rain/thunder and avoid fishing",
-      "IN the hotspots. Recommended is",
-      "Angler Armor (or better) and Carrot Bait.",
-      "You will need Fishing 15 to be able to fish him up.",
-      "Place Fishing Minions and give them the best storage",
-      "(and fuel) you have access to."
-    ]
+      ],
+      "guide": [
+        "Use the best fishing rod, bait and armor that you",
+        "have access to and fish in the Spiders Den,",
+        "ideally during rain/thunder and avoid fishing",
+        "IN the hotspots. Recommended is",
+        "Angler Armor (or better) and Carrot Bait.",
+        "You will need Fishing 15 to be able to fish him up.",
+        "Place Fishing Minions and give them the best storage",
+        "(and fuel) you have access to."
+      ]
+    }
   }
 }
