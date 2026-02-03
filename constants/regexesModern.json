@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "ee8c51e",
+  "sourceLabel": "ffaddc3",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -76,7 +76,7 @@
     "chat.current-chat.all": "§cYou are not in a party and were moved to the ALL channel\\.|§cThe conversation you were in expired and you have been moved back to the ALL channel\\.",
     "chat.current-chat.changed": "§aYou are now in the §r§6(?\u003cchat\u003e.+)§r§a channel",
     "chat.current-chat.private.open": "^§aOpened a chat conversation with (?:§.)*(?:\\[.+])?(?:§.|\\s)*(?\u003cplayer\u003e.*)§r§a for the next 5 minutes\\. Use §r§b\\/chat a§r§a to leave",
-    "chat.darkauction.itemdisplay.highest-bid": "\\[NPC] Sirius: The highest bidder was \\w+ with a bid of [\\d,]+ Coins!",
+    "chat.darkauction.itemdisplay.highest-bid": "\\[NPC] Sirius: (?:The highest bidder was \\w+ with a bid of [\\d,]+ Coins|No one made any bids)!",
     "chat.darkauction.itemdisplay.next-item": "\\[NPC] Sirius: (?:First|Next) up we have an? (?\u003citem\u003e[^,]+), the starting bid is [\\d,]+ Coins!",
     "chat.experiments.compact.drop": "^(?:§8 \\+| §r§8\\+)(?\u003creward\u003e.*)$",
     "chat.experiments.compact.inventories": "(?:Superpairs|Chronomatron|Ultrasequencer) (?:\\(.+\\)|➜ Stakes|Rewards)|Experimentation Table",
