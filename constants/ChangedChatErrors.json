@@ -249,6 +249,12 @@
         "Found unknown skyblock stats on items"
       ],
       "fixed_in": "5.7.0"
+    },
+    {
+      "message_exact": [
+        "Unable to handle packet"
+      ],
+      "fixed_in": "6.17.0"
     }
   ]
 }
