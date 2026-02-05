@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "58b9d08",
+  "sourceLabel": "775d250",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -1240,6 +1240,7 @@
     "misc.chocolatefactory.hoppity.call.init": "§e✆ §r(?:§a|§b)Hoppity§r§e ✆.*",
     "misc.chocolatefactory.hoppity.call.pickup": "§e\\[NPC] §aHoppity§f: §b✆ §f§rWhat\u0027s up, .*§f\\?",
     "misc.chocolatefactory.hoppity.call.pickup.outgoing": "\\/selectnpcoption hoppity r_2_1",
+    "misc.chocolatefactory.hoppity.visitor.accepted": "\\[NPC\\] Hoppity: Simply exquisite.+",
     "misc.chocolatefactory.inventory.mealegg.continue": "(?:§.)*Click to open Chocolate Factory!",
     "misc.chocolatefactory.inventory.mealegg.name": "(?:§.)*Chocolate (?:Breakfast|Lunch|Dinner|Brunch|Déjeuner|Supper) Egg.*",
     "misc.chocolatefactory.inventory.misc": "(?:§.)*Chocolate (?:Shop |Factory ?)(?:Milestones)?",
