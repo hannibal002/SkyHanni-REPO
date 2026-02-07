@@ -13302,6 +13302,10 @@
   },
   "1521": {
     "Position": "-11.0:71.0:-48.0",
+    "Name": "hide during oringo npc mode",
+    "Tags": [
+      "dev"
+    ],
     "Neighbours": {
       "1510": 4.12,
       "1500": 7.0,
