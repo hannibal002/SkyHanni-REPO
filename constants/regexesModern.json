@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "f655bc9",
+  "sourceLabel": "edfc9e4",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -1444,8 +1444,8 @@
     "rift.punchcard.new": "§5§lPUNCHCARD! §r§eYou punched §r§.(?:.*?)?(?\u003cname\u003e\\w+)§r§. §r§eand both regained §r§a\\+25ф Rift Time§r§e!",
     "rift.punchcard.repeat": "§c§lAWKWARD! §r§cThis player has already been punched by you\\.\\.\\. somehow!",
     "rift.ubik.cooldown": "SPLIT! You need to wait (?\u003cduration\u003e.+) before you can play again\\.",
+    "rift.ubik.inventory": "Split or Steal",
     "rift.ubik.inventory-name": "Split or Steal",
-    "rift.ubik.reminder-nocolor": "ROUND \\d+ \\(FINAL\\): You chose \\w+ and gained [\\d,]+ Motes!",
     "rngmeterinventory.floor.name": "(?:§.)*Catacombs \\((?\u003cfloor\u003e.*)\\)",
     "skyblockguide.highlight.abiphone.inventory": "Miscellaneous ➜ Abiphone Contac",
     "skyblockguide.highlight.attribute.disable.condition": "§7Enabled: §cNo",
