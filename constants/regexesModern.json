@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "edfc9e4",
+  "sourceLabel": "28f0f5a",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -1734,7 +1734,7 @@
     "tab.widgetcomponent.enum.player.list": "\\s*(?:Players \\((?\u003camount\u003e\\d+)\\))",
     "tab.widgetcomponent.enum.powder": "\\s*(?:Powders:)",
     "tab.widgetcomponent.enum.private.island.crystals": "\\s*(?:Crystals: (?\u003ccount\u003e\\d+))",
-    "tab.widgetcomponent.enum.profile": "\\s*(?:Profile: (?\u003cprofile\u003e[\\w\\s]+)(?:[ ♲Ⓑ]+)?)",
+    "tab.widgetcomponent.enum.profile": "\\s*(?:Profile: (?\u003cprofile\u003e[\\w\\s]+)(?:[ ♲Ⓑ☀]+)?)",
     "tab.widgetcomponent.enum.protector": "\\s*(?:Protector: (?\u003ctime\u003e.*))",
     "tab.widgetcomponent.enum.rain": "\\s*(?:(?\u003ctype\u003eThunder|Rain): (?\u003ctime\u003e.*))",
     "tab.widgetcomponent.enum.reputation": "\\s*(?:(?\u003cfaction\u003eBarbarian|Mage) Reputation:)",
