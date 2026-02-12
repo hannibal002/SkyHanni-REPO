@@ -83,5 +83,63 @@
     "wizard",
     "wizard_tower",
     "workshop"
-  ]
+  ],
+  "warpLocation": {
+    "Hub": {
+      "island": "HUB",
+      "x": -3,
+      "y": 70,
+      "z": -70,
+      "extra_diana_warp_blocks": 2
+    },
+    "Castle": {
+      "island": "HUB",
+      "x": -250,
+      "y": 130,
+      "z": 45,
+      "extra_diana_warp_blocks": 10
+    },
+    "Crypt": {
+      "island": "HUB",
+      "x": -190,
+      "y": 74,
+      "z": -88,
+      "extra_diana_warp_blocks": 15
+    },
+    "Dark Auction": {
+      "island": "HUB",
+      "x": 91,
+      "y": 74,
+      "z": 173,
+      "extra_diana_warp_blocks": 2
+    },
+    "Museum": {
+      "island": "HUB",
+      "x": -75,
+      "y": 76,
+      "z": 81,
+      "extra_diana_warp_blocks": 2
+    },
+    "Wizard": {
+      "island": "HUB",
+      "x": 42.5,
+      "y": 122,
+      "z": 69,
+      "extra_diana_warp_blocks": 5
+    },
+    "Stonks": {
+      "island": "HUB",
+      "x": -52.5,
+      "y": 70,
+      "z": -49.5,
+      "extra_diana_warp_blocks": 5
+    },
+    "Taylor": {
+      "island": "HUB",
+      "x": 22,
+      "y": 71,
+      "z": -42.5,
+      "extra_diana_warp_blocks": 2
+    }
+  }
 }
