@@ -85,56 +85,64 @@
     "workshop"
   ],
   "warpLocation": {
-    "Hub": {
+    "HUB": {
+      "display_name": "Hub",
       "island": "HUB",
       "x": -3,
       "y": 70,
       "z": -70,
       "extra_diana_warp_blocks": 2
     },
-    "Castle": {
+    "CASTLE": {
+      "display_name": "Castle",
       "island": "HUB",
       "x": -250,
       "y": 130,
       "z": 45,
       "extra_diana_warp_blocks": 10
     },
-    "Crypt": {
+    "CRYPT": {
+      "display_name": "Crypt",
       "island": "HUB",
       "x": -190,
       "y": 74,
       "z": -88,
       "extra_diana_warp_blocks": 15
     },
-    "Dark Auction": {
+    "DA": {
+      "display_name": "Dark Auction",
       "island": "HUB",
       "x": 91,
       "y": 74,
       "z": 173,
       "extra_diana_warp_blocks": 2
     },
-    "Museum": {
+    "MUSEUM": {
+      "display_name": "Museum",
       "island": "HUB",
       "x": -75,
       "y": 76,
       "z": 81,
       "extra_diana_warp_blocks": 2
     },
-    "Wizard": {
+    "WIZARD": {
+      "display_name": "Wizard",
       "island": "HUB",
       "x": 42.5,
       "y": 122,
       "z": 69,
       "extra_diana_warp_blocks": 5
     },
-    "Stonks": {
+    "STONKS": {
+      "display_name": "Stonks",
       "island": "HUB",
       "x": -52.5,
       "y": 70,
       "z": -49.5,
       "extra_diana_warp_blocks": 5
     },
-    "Taylor": {
+    "TAYLOR": {
+      "display_name": "Taylor",
       "island": "HUB",
       "x": 22,
       "y": 71,
