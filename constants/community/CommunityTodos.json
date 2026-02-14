@@ -1,6 +1,12 @@
 {
   "community_todos": [
     {
+      "id": "Jerry Timer",
+      "author": "Mfenix",
+      "discord_thread": "https://discord.com/channels/997079228510117908/1472314518540652757",
+      "todo_data": "U0g6Q1VTVE9NVE9ETy97ImxhYmVsIjoiSmVycnkiLCJ0aW1lciI6MzYwLCJ0cmlnZ2VyIjoiXiA/4pi6IFlvdSBkaXNjb3ZlcmVkIGEgKEdyZWVuIEplcnJ5fEJsdWUgSmVycnl8UHVycGxlIEplcnJ5fEdvbGRlbiBKZXJyeSkhJHxeID/imLogVGhlcmUgaXMgYSAoR3JlZW4gSmVycnl8Qmx1ZSBKZXJyeXxQdXJwbGUgSmVycnl8R29sZGVuIEplcnJ5KSEkfF4gP+KYuiBZb3UgZm91bmQgYSAoR3JlZW4gSmVycnl8Qmx1ZSBKZXJyeXxQdXJwbGUgSmVycnl8R29sZGVuIEplcnJ5KSEkfF4gP+KYuiBZb3UgbG9jYXRlZCBhIGhpZGRlbiAoR3JlZW4gSmVycnl8Qmx1ZSBKZXJyeXxQdXJwbGUgSmVycnl8R29sZGVuIEplcnJ5KSEkfF4gP+KYuiBBIHdpbGQgKEdyZWVuIEplcnJ5fEJsdWUgSmVycnl8UHVycGxlIEplcnJ5fEdvbGRlbiBKZXJyeSkgc3Bhd25lZCEkfF4gP+KYuiBTb21lIChHcmVlbiBKZXJyeXxCbHVlIEplcnJ5fFB1cnBsZSBKZXJyeXxHb2xkZW4gSmVycnkpIHdhcyBoaWRpbmcsIGJ1dCB5b3UgZm91bmQgaXQhJHxeID/imLogQSAoR3JlZW4gSmVycnl8Qmx1ZSBKZXJyeXxQdXJwbGUgSmVycnl8R29sZGVuIEplcnJ5KSBhcHBlYXJlZCEkIiwiaWNvbiI6ImplcnJ5IiwiaXNSZXNldE9mZnNldCI6ZmFsc2UsInNob3dXaGVuIjowLCJzaG93T25seVdoZW5SZWFkeSI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJDSEFUIiwidHJpZ2dlck1hdGNoZXIiOiJSRUdFWCIsInJlYWR5QXQiOnt9LCJpc0VuYWJsZWQiOnRydWUsImlnbm9yZUNvbG9yQ29kZXMiOnRydWUsInBvc2l0aW9uIjp7IngiOi0xMDUsInkiOjE3MSwic2NhbGUiOjEuMCwiY2VudGVyWCI6ZmFsc2UsImNlbnRlclkiOnRydWUsImlnbm9yZUN1c3RvbVNjYWxlIjpmYWxzZX0sInRvdGFsVHJpZ2dlcnMiOjEsInRyaWdnZXJzTGVmdCI6e30sImNyb25FbmFibGVkIjpmYWxzZSwiY3JvbkV4cHJlc3Npb24iOiIiLCJkb3dubG9hZGVkIjpmYWxzZSwiZG93bmxvYWRlZElkIjoiIn0="
+    },
+    {
       "id": "Century Cakes",
       "author": "BlueSoul",
       "discord_thread": "https://discord.com/channels/997079228510117908/1452140700341768223",
