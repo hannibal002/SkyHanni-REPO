@@ -2,205 +2,202 @@
   "__info__": "If you have contributed to SkyHanni feel free to add yourself here.",
   "__info__1": "We are not currently adding upside down, spinny or chroma (§Z).",
   "__info__2": "Please also limit your suffixes to 2 visible characters.",
-  "__info__3": "Make sure you add yourself in alphabetically (excluding the external mod devs).",
+  "__info__3": "Provide your Dashed Minecraft UUID (available at https://namemc.com/ etc.)",
   "contributors": {
-    "AfkUser": {
+    "a429ad6e-57fd-4caa-b6a9-becd24aec8b4": {
       "suffix": "§4:3"
     },
-    "Alea1337": {},
-    "aphased": {
+    "4154a560-2654-4930-94d3-497d2ad6849f": {},
+    "2b2c370c-6dc0-4707-9317-58c99101c6e6": {
       "suffix": "§9:D"
     },
-    "appable": {},
-    "Bloxigus": {
+    "59998433-ceda-41c1-b0ac-ffe7d9b33594": {},
+    "e04c1a7f-017d-4de0-b76d-797cad8f8036": {
       "suffix": "§d§l:3"
     },
-    "CalMWolfs": {
+    "eaa5623c-8413-46b7-a74b-2d74a42b2841": {
       "suffix": "§e:)",
       "spinny": true,
       "upsideDown": true
     },
-    "catgirlasuka": {
-      "suffix": "§d§l:3"
-    },
-    "catgirlseraid": {
+    "51e50c0a-e0b8-4c7a-9334-ec9df5f8bb43": {
       "suffix": "§d:3",
       "spinny": true,
       "upsideDown": true
     },
-    "Chissl": {
+    "1242bf45-93a0-47b5-bd43-f466ce36fb4c": {
       "suffix": "§2§l:D"
     },
-    "cimbraien": {},
-    "Conutik": {
+    "5a248f85-a80f-4718-beba-7a14a4b3164a": {},
+    "7b7ef169-ad97-4011-822f-ef64fc54f87f": {
       "suffix": "§c§lツ"
     },
-    "hijiol": {
+    "414e436e-5445-427b-9085-254005b32a75": {
       "suffix": "§c§l:>"
     },
-    "Cuz_Im_Clicks": {},
-    "Eisengolem": {},
-    "Empa_": {
+    "9c9cac92-358e-47b8-8697-f1df72f0e3b5": {},
+    "8a9f1841-48e9-48ed-b14f-76a124e6c9df": {},
+    "ecdf4cc9-0487-4d6f-bf09-8497deaf8b33": {
       "suffix": "§d:3"
     },
-    "Erymanthus": {},
-    "EstrogenEnjoyer": {
+    "b43d7457-9da4-408b-a9fb-51239022cec9": {},
+    "90f20a02-e671-4665-9f44-ae54abb6aecc": {
       "suffix": "§d:3"
     },
-    "FabiHBBBT": {
+    "6f8c7b61-42d8-4c4a-b4dc-c47e3aa75b30": {
       "suffix": "§6§lツ"
     },
-    "Fazfoxy": {
+    "b5d37739-6c0c-4693-8074-9e86345d0929": {
       "suffix": "§d:3"
     },
-    "Fix3dll": {},
-    "Frost19": {},
-    "fursiv": {
+    "ce30a44c-990d-4a4d-a158-48a275843e42": {},
+    "cf163a44-d62c-499f-893b-b19de1ac93e9": {},
+    "16102479-7162-4ea9-9975-a5059c6a2be3": {
       "suffix": "§d§l:3"
     },
-    "Gillsplash": {},
-    "hannibal2": {
+    "f806360d-5c67-4add-ae04-a38d1c7d01a0": {},
+    "bb855349-dfd8-4125-a750-5fc2cf543ad5": {
       "suffix": "§3§l:O"
     },
-    "HiZe_": {
+    "cbb1541b-fc8d-4a5c-abe2-3b789fb1a87f": {
       "suffix": "§5§l:3",
       "spinny": true,
       "upsideDown": true
     },
-    "Jordyrat": {
+    "45726bfa-4aee-402b-952c-93a1dece512e": {
       "suffix": "§d;3"
     },
-    "JTAG": {},
-    "Ke5o": {
+    "002df92f-e5dc-439f-bb23-8edd21cf78fd": {},
+    "7da0c475-81dc-42b4-9621-18f8049147b7": {
       "suffix": "§7I can't think of anything funny"
     },
-    "ksndq": {
+    "137a5187-45bf-49ec-8bad-723e0778c36d": {
       "suffix": "§3§lツ"
     },
-    "lrg89": {
+    "d3cb85e2-3075-48a1-b213-a9bfb62360c1": {
       "suffix": "§Z<3",
       "upsideDown": true
     },
-    "martimavocado": {},
-    "Mikecraft1224": {},
-    "minhperry02": {
+    "49f4c15d-14e0-4d75-be1b-9c1b85bad53c": {},
+    "1b254661-ded7-445e-a7e2-0988e2cb0609": {},
+    "83a6d24c-299e-426a-aa01-47909249d380": {
       "suffix": "§9:D"
     },
-    "NeoNyaa": {
+    "bcf51b2e-9023-4125-984b-f89b28ce84bf": {
       "suffix": "§d§l:3"
     },
-    "NetheriteMiner": {},
-    "oBlazin": {
+    "dda9df5f-3c33-48ab-a2ed-9cd4a4ecad0d": {},
+    "212a36a9-ddc0-4edf-ba86-c76e021144e1": {
       "suffix": "§d§l^^",
       "spinny": true,
       "upsideDown": true
     },
-    "not_a_cowfr": {
+    "3dc53634-0933-4ddf-9419-882b972bc36b": {
       "suffix": "§c:3"
     },
-    "Obsidianninja11": {
+    "3af19bc9-7618-42f4-ba0e-5ec090ea2fa8": {
       "suffix": "§z(:"
     },
-    "owoLuna": {
+    "d7f09bac-a366-46d1-a558-7fe32c477565": {
       "suffix": "§5:3"
     },
-    "oxsss": {},
-    "PolarBlunk": {
+    "d0606454-04da-44c6-9bd4-5f3a4d8b388a": {},
+    "02dc5178-f7ec-4254-8401-1a57a7442a2f": {
       "suffix": "§d:3"
     },
-    "qtLuna": {
+    "93234e1a-ca82-4bd7-a518-8aa89d551979": {
       "suffix": "§5:3",
       "alt from": "owoLuna"
     },
-    "ReyMaratov": {},
-    "RobotHanzo": {
+    "2f0edf9b-ff10-40f0-a0fe-28cc96c39d4a": {},
+    "a02e8cf1-db42-4f2a-b37b-ea72c8dee2ec": {
       "suffix": "§6§l:P"
     },
-    "Sayonara": {
+    "2b08c880-f540-4485-975a-e935de95595c": {
       "suffix": "§cc:"
     },
-    "Skirtwearer": {
+    "b75d7e0a-03d0-4c2a-ae47-809b6b808246": {
       "suffix": "§d:3",
       "spinny": true,
       "upsideDown": true
     },
-    "Skyblock_Lobby": {},
-    "SkyHanni": {
+    "c9e49f58-2639-4be4-8877-9f175187f917": {},
+    "91548fba-61b4-449f-bc52-8227d463264d": {
       "suffix": "§3§l:O",
       "spinny": true,
       "upsideDown": true,
       "alt from": "hannibal2"
     },
-    "Solde": {
+    "13ed2ba8-e5e0-474b-a3e9-78b26227447b": {
       "suffix": "§b;C"
     },
-    "ThatGravyBoat": {
+    "503450fc-72c2-4e87-8243-94e264977437": {
       "suffix": "§d:3",
       "spinny": true,
       "upsideDown": true
     },
-    "ThatOneDevil": {
+    "eb7af2a0-e2d8-46bb-81ad-a29d906e2f6d": {
       "suffix": "§6:D"
     },
-    "thisiscad": {},
-    "ThomasThePencil": {
+    "88c95c3b-9d23-4d6a-bcdc-f9ad77bec7b6": {},
+    "c791d3a4-efd0-456d-b105-97f4955f666b": {
       "suffix": "§4-T"
     },
-    "Throwpo": {
+    "53924f1a-87e6-4709-8e53-f1c7d13dc239": {
       "suffix": "§b:§dO",
       "spinny": true,
       "upsideDown": true
     },
-    "Thunderblade73": {},
-    "Tryp0MC": {
+    "98d8fdb5-e052-4dd3-a179-47fcec77c971": {},
+    "a5d70208-fa20-46ec-9100-57ba653bbfa6": {
       "suffix": "§6B)"
     },
-    "typename": {
+    "2bfafd15-151d-4914-a209-f6c8e7120398": {
       "suffix": "§1§l:O"
     },
-    "Vahvl": {
+    "0839d4b6-0588-4614-9b74-8e246c3fa3a5": {
       "suffix": "§d:3"
     },
-    "Vixid": {},
-    "Wambux": {},
-    "whalker": {
+    "e2c6f077-d45c-43ac-8322-857c7f8df3b9": {},
+    "920accef-91c3-4a96-8f4e-357ad839ef92": {},
+    "a7d6b3f1-8425-48e5-8acc-9a38ab9b86f7": {
       "suffix": "§Z§l:D"
     },
-    "Wolfie586": {
+    "067cf143-2f42-4569-90b4-6ed249d5cac0": {
       "suffix": "§e:]",
       "spinny": true,
       "upsideDown": true,
       "alt from": "CalMWolfs"
     },
-    "YoGoUrT_20": {
+    "6191db9b-d466-4283-ab38-cc0bf0da36e8": {
       "suffix": "§1§l:3"
     },
-    "Zickles": {},
-    "Biscut": {
+    "6cf7a1d1-afc4-48ed-951e-b25c82b90d7f": {},
+    "724c64a2-fc8b-4842-852b-6b4c2c6ef241": {
       "spinny": true,
       "external_mod": "SBA"
     },
-    "Pinpointed": {
-      "spinny": true,
-      "upsideDown": true,
-      "external_mod": "SBA"
-    },
-    "Berded": {
+    "b305db79-094d-4e82-8d7f-500f0d82fac2": {
       "spinny": true,
       "upsideDown": true,
       "external_mod": "SBA"
     },
-    "Potat_owo": {
+    "312ec2c4-990d-4082-8d1a-02ded161cc25": {
       "spinny": true,
       "upsideDown": true,
       "external_mod": "SBA"
     },
-    "Pnda__": {
+    "62aa6232-11bd-4159-aed8-370e5e239ab7": {
       "spinny": true,
       "upsideDown": true,
       "external_mod": "SBA"
     },
-    "StopUsingSBE": {
+    "f2dc7143-0d32-453b-947a-f9b0384ee66c": {
+      "spinny": true,
+      "upsideDown": true,
+      "external_mod": "SBA"
+    },
+    "ad31ad05-f3b5-40ab-a8b3-25347700fde9": {
       "spinny": true,
       "upsideDown": true,
       "external_mod": "SBA"
