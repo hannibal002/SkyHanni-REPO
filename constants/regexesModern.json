@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "496687e",
+  "sourceLabel": "8dfed47",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -886,7 +886,7 @@
     "harp.inventory": "Harp -.*",
     "harp.menu": "Melody",
     "harp.song.selected": "§aSong is selected!",
-    "hoe.levels.levelup": "§3§lOVERFLOW! §r§7Your (?:§.)+(?\u003ctool\u003e.*) §r§7has just dropped a §r§9Tool Exp Capsule§r§7!",
+    "hoe.levels.levelup-nocolor": "OVERFLOW! Your (?\u003ctool\u003e.+) has just dropped a Tool Exp Capsule!",
     "inv.acceptable": "^(?:Accessory Bag(?: \\(\\d+\\/\\d+\\))?|Auctions Browser|Manage Auctions|Auctions: \".*\"?)$",
     "inventory.activebeaconeffect.inventory": "Profile Stat Upgrades",
     "inventory.activebeaconeffect.slot.active": "§aActive stat boost!",
