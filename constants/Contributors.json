@@ -3,7 +3,7 @@
   "__info__1": "We are not currently adding upside down, spinny or chroma (§Z).",
   "__info__2": "Please also limit your suffixes to 2 visible characters.",
   "__info__3": "Provide your Dashed Minecraft UUID (available at https://namemc.com/ etc.)",
-  "__info__4": "'display_name' tag is the name You want to be displayed as (currently only used for the Chocolate contib names)",
+  "__info__4": "'display_name' tag is your Minecraft ign, currently only used for Chocolate Rabbit to Contrib names",
   "contributors": {
     "a429ad6e-57fd-4caa-b6a9-becd24aec8b4": {
       "suffix": "§4:3",
