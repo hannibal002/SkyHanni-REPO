@@ -1892,5 +1892,12 @@
     "ROOKIE_HOE",
     "BINGHOE"
   ],
-  "dna_solver_allows_ends": true
+  "dna_solver_allows_ends": true,
+  "money_per_hour_ignored_items": [
+    "ENCHANTED_BREAD",
+    "ENCHANTED_PAPER",
+    "PRICKLY_KISS",
+    "SIMPLE_CARROT_CANDY",
+    "SUNFLOWER_OIL"
+  ]
 }
