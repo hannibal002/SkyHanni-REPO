@@ -8,7 +8,7 @@ from threading import Lock
 from typing import Optional, Dict, List
 
 API_URL = "https://api.mojang.com/user/profile/"
-JSON_PATH = "constants/Contributors.json"
+JSON_PATH = "constants/ContributorList.json"
 MAX_THREADS = 5
 TIMEOUT = 60
 
