@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8dfed47",
+  "sourceLabel": "9b9bffd",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -659,9 +659,9 @@
     "fishing.goldenfish.weak": "§9The §r§6Golden Fish §r§9is weak!",
     "fishing.seacreature.doublehook": "§eIt\u0027s a §r§aDouble Hook§r§e!(?: Woot woot!)?",
     "fishing.seacreature.thundercharged": "§e\u003e Your bottle of thunder has fully charged!",
-    "fishing.totemofcorruption.owner": "§7Owner: §e(?\u003cowner\u003e.+)",
-    "fishing.totemofcorruption.timeremaining": "§7Remaining: §e(?:(?\u003cmin\u003e\\d+)m )?(?\u003csec\u003e\\d+)s",
-    "fishing.totemofcorruption.totemname": "§5§lTotem of Corruption",
+    "fishing.totemofcorruption.owner-nocolor": "Owner: (?\u003cowner\u003e.+)",
+    "fishing.totemofcorruption.timeremaining-nocolor": "Remaining: (?:(?\u003cmin\u003e\\d+)m )?(?\u003csec\u003e\\d+)s",
+    "fishing.totemofcorruption.totemname-nocolor": "Totem of Corruption",
     "fishing.tracker.chat.coins": "§(?\u003ccolorCode\u003e.*)⛃ §r(?\u003ccatch\u003e.*) CATCH! §r§fYou caught §r§6(?\u003ccoins\u003e[\\d,]+) Coins§r§f!",
     "fishing.trophy.odger.bronze.new": "^Bronze.*",
     "fishing.trophy.odger.discovered.new": "Discovered",
