@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9b9bffd",
+  "sourceLabel": "67fe17c",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -151,7 +151,7 @@
     "combat.mobs.spawntime.arachne.fragment": "^☄ [a-z0-9_]{2,22} placed an arachne\u0027s calling! something is awakening! \\(4/4\\)$",
     "combat.spidersden.broodmother": "§4Broodmother§7: §[e64](?:Slain|Dormant|Soon|Awakening|Imminent|Alive!)",
     "commands.cooldown": "§cYou may only use this command after (?\u003ccooldown\u003e\\d+)s on the server!",
-    "commands.viewrecipe": "\\/viewrecipe (?\u003citem\u003e.*)",
+    "commands.viewrecipe": "/viewrecipe (?\u003citem\u003e.*)",
     "cookie.bits.new.amount": "(?:Booster Cookie x|Amount: )(?\u003camount\u003e\\d+).*",
     "cookie.bits.new.time": "4 days:",
     "cookie.bits.new.wrong": "§[de]Booster Cookie",
