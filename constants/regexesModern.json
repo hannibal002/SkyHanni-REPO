@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4dc925d",
+  "sourceLabel": "ecd93d7",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -92,8 +92,7 @@
     "chat.jacobcompact.rewards.colorless": " {2}REWARDS",
     "chat.jacobcompact.tickets.colorless": " {4}(?\u003ctype\u003eJacob\u0027s|Carnival) Ticket(?: x(?\u003camount\u003e[\\d,]+))?",
     "chat.jacobevent.accessory": "§e\\[NPC] Jacob§f: §rYour §9Anita\u0027s \\w+ §fis giving you §6\\+\\d{1,2}☘ .+ Fortune §fduring the contest!",
-    "chat.player.death": "§c ☠ §r§7§r§.(?\u003cname\u003e.+)§r§7 (?\u003creason\u003e.+)",
-    "chat.player.selfdeath": " ☠ You (?\u003creason\u003e.+)",
+    "chat.player.death-nocolor": " ☠ (?\u003cname\u003e\\w+) (?\u003creason\u003e.+)",
     "chat.sound.responsecat": "(?:^|^.* )(?: |§.)*(?i)(?:m+e*o*w+|m+e*a+o+w+)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
     "chat.sound.responsecathiss": "(?:^|^.* )(?: |§.)*(?i)(?:h+i+ss+)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
     "chat.sound.responsecatpurr": "(?:^|^.* )(?: |§.)*(?i)(?:p+u*rr+)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
