@@ -294,6 +294,10 @@
         "fishing_experience": 730,
         "rarity": "RARE"
       },
+      "Baby Magma Slug": {
+        "fishing_experience": 730,
+        "rarity": "RARE"
+      },
       "Pyroclastic Worm": {
         "chat_message": "§aYou feel the heat radiating as a Pyroclastic Worm surfaces.",
         "fishing_experience": 1100,
