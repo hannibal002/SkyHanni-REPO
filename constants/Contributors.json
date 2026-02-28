@@ -1,8 +1,5 @@
 {
-  "__info__": "If you have contributed to SkyHanni feel free to add yourself here.",
-  "__info__1": "We are not currently adding upside down, spinny or chroma (§Z).",
-  "__info__2": "Please also limit your suffixes to 2 visible characters.",
-  "__info__3": "Make sure you add yourself in alphabetically (excluding the external mod devs).",
+  "__info__": "DEPRECATED, use ContributorList.json instead.",
   "contributors": {
     "AfkUser": {
       "suffix": "§4:3"
@@ -207,4 +204,3 @@
     }
   }
 }
-
