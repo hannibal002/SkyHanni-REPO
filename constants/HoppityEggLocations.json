@@ -2,11 +2,11 @@
   "//Note": "eggLocations is no longer being updated, use apiEggLocations instead",
   "eggLocations": {
     "HUB": [
-      "-6:84:156",
+      "-7:84:156",
       "125:74:168",
       "49:72:-108",
       "20:63:-122",
-      "-13:88:-51",
+      "-14:88:-52",
       "-40:73:-22",
       "-1:144:81",
       "-138:73:-14",
@@ -427,11 +427,11 @@
       "foraging_jungle": "-488:116:-35"
     },
     "HUB": {
-      "hub_big_useless_door": "-6:84:156",
+      "hub_big_useless_door": "-7:84:156",
       "hub_shifty_shop": "125:74:168",
       "hub_wheat_minion": "49:72:-108",
       "hub_blacksmith": "20:63:-122",
-      "hub_village_up": "-13:88:-51",
+      "hub_village_up": "-14:88:-52",
       "hub_bazaar": "-40:73:-22",
       "hub_mountain": "-1:144:81",
       "hub_foraging_camp": "-138:73:-14",
