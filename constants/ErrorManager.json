@@ -1,0 +1,44 @@
+{
+  "breakAfter": [
+    "at at.hannibal2.skyhanni.config.commands.Commands$createCommand",
+    "at net.minecraftforge.fml.common.eventhandler.EventBus.post",
+    "at at.hannibal2.skyhanni.mixins.hooks.NetHandlerPlayClientHookKt.onSendPacket",
+    "at net.minecraft.client.main.Main.main",
+    "at.hannibal2.skyhanni.api.event.EventListeners.createZeroParameterConsumer",
+    "at.hannibal2.skyhanni.api.event.EventListeners.createSingleParameterConsumer",
+    "at.hannibal2.skyhanni.api.event.SkyHanniEvent.post"
+  ],
+  "replacements": {
+    "at.hannibal2.skyhanni.": "SH.",
+    "io.moulberry.notenoughupdates.": "NEU.",
+    "net.minecraft.": "MC.",
+    "net.minecraftforge.fml.": "FML.",
+    "knot//": "",
+    "java.base/": ""
+  },
+  "entireReplacements": {
+    "at.hannibal2.skyhanni.api.event.EventListeners.createZeroParameterConsumer": "<Skyhanni event post>",
+    "at.hannibal2.skyhanni.api.event.EventListeners.createSingleParameterConsumer": "<Skyhanni event post>"
+  },
+  "ignored": [
+    "at java.lang.Thread.run",
+    "at java.util.concurrent.",
+    "at java.lang.reflect.",
+    "at net.minecraft.network.",
+    "at net.minecraft.client.Minecraft.addScheduledTask(",
+    "at net.minecraftforge.fml.common.network.handshake.",
+    "at net.minecraftforge.fml.common.eventhandler.",
+    "at net.fabricmc.devlaunchinjector.",
+    "at io.netty.",
+    "at com.google.gson.internal.",
+    "at sun.reflect.",
+
+    "at at.hannibal2.skyhanni.config.commands.SimpleCommand.",
+    "at at.hannibal2.skyhanni.config.commands.Commands$createCommand$1.processCommand",
+    "at at.hannibal2.skyhanni.test.command.ErrorManager.logError",
+    "at at.hannibal2.skyhanni.test.command.ErrorManager.skyHanniError",
+    "at at.hannibal2.skyhanni.api.event.SkyHanniEvent.post",
+    "at at.hannibal2.skyhanni.api.event.EventHandler.post",
+    "at net.minecraft.launchwrapper."
+  ]
+}
