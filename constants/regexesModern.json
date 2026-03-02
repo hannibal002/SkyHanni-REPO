@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "31e6f7d",
+  "sourceLabel": "a6548cb",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -49,7 +49,7 @@
     "carnival.npcs.cowboy": "Carnival Cowboy",
     "carnival.npcs.fisher": "Carnival Fisherman",
     "carnival.npcs.pirate": "Carnival Pirateman",
-    "carnival.select.option.chat": "§eSelect an option:.*",
+    "carnival.select.option.chat-nocolor": "Select an option:[\\s\\S]*",
     "carnival.tickets.already": "§e\\[NPC\\] §aCarnival Leader§f: §rYou\u0027ve already claimed your §aCarnival Tickets §ffor §btoday§f, but I\u0027m happy to answer any questions you might have.",
     "carnival.tickets.claimed": "§aYou claimed §r§aCarnival Ticket §r§8x25§r§a!",
     "carry.trade.coins.gained": " §r§a§l\\+ §r§6(?\u003ccoins\u003e.*) coins",
