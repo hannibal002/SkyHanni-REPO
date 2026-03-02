@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "cb3803b",
+  "sourceLabel": "31e6f7d",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -511,7 +511,7 @@
     "features.gui.customscoreboard.broken.2": "\\s*Starting in: §a0 §c[\\d:]+",
     "features.gui.customscoreboard.broken.3": "(?:§.)*᠅ §.(?\u003ctype\u003eGemstone|Mithril|Glacite)(?: Powder)?.*",
     "features.gui.customscoreboard.scoreboard.carnival.accuracy": "(?:§f)?Accuracy: §.\\d+(?:\\.\\d+)?%",
-    "features.gui.customscoreboard.scoreboard.carnival.carnival": "§eCarnival§f (?:\\d+:?)*",
+    "features.gui.customscoreboard.scoreboard.carnival.carnival": "§eCarnival§f \\d+(?::\\d+)*",
     "features.gui.customscoreboard.scoreboard.carnival.catchstreak": "(?:§f)?Catch Streak: §.\\d+",
     "features.gui.customscoreboard.scoreboard.carnival.fruits": "(?:§f)?Fruits: §.\\d+§./§.\\d+",
     "features.gui.customscoreboard.scoreboard.carnival.kills": "(?:§f)?Kills: §.\\d+",
