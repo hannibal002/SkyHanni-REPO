@@ -46,6 +46,11 @@
   },
   "5": {
     "Position": "-13.0:75.0:-11.0",
+    "Name": "Spawn",
+    "Tags": [
+      "teleport",
+      "poi"
+    ],
     "Neighbours": {
       "0": 3.16,
       "1": 5.1

@@ -3,7 +3,8 @@
     "Position": "-45.0:123.0:69.0",
     "Name": "Spawn",
     "Tags": [
-      "dev"
+      "poi",
+      "teleport"
     ],
     "Neighbours": {
       "1995": 3.0,

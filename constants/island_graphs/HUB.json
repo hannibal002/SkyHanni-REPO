@@ -13143,7 +13143,8 @@
     "Position": "0.0:78.0:-1.0",
     "Name": "Spawn",
     "Tags": [
-      "teleport"
+      "teleport",
+      "poi"
     ],
     "Neighbours": {
       "1566": 3.16,
