@@ -24392,13 +24392,14 @@
       "npc"
     ],
     "Neighbours": {
+      "2941": 1.0,
       "2934": 5.1,
       "2936": 6.08
     }
   },
   "2936": {
     "Position": "10.0:76.0:-1.0000000000000009",
-    "Name": "wyear of the witch",
+    "Name": "year of the witch",
     "Tags": [
       "dev"
     ],
@@ -24420,7 +24421,7 @@
   },
   "2938": {
     "Position": "17.0:72.0:-7.0",
-    "Name": "year of the witch ",
+    "Name": "year of the witch",
     "Tags": [
       "dev"
     ],
@@ -24435,6 +24436,16 @@
     "Neighbours": {
       "2002": 2.24,
       "2001": 2.24
+    }
+  },
+  "2941": {
+    "Position": "17.0:76.0:-6.123233995736766E-17",
+    "Name": "Witches Stew",
+    "Tags": [
+      "poi"
+    ],
+    "Neighbours": {
+      "2935": 1.0
     }
   }
 }
