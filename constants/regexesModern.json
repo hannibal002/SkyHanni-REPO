@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "25accf4",
+  "sourceLabel": "d33369f",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -151,6 +151,9 @@
     "combat.mobs.spawntime.arachne.crystal": "^☄ [a-z0-9_]{2,22} placed an arachne crystal! something is awakening!$",
     "combat.mobs.spawntime.arachne.fragment": "^☄ [a-z0-9_]{2,22} placed an arachne\u0027s calling! something is awakening! \\(4/4\\)$",
     "combat.spidersden.broodmother": "§4Broodmother§7: §[e64](?:Slain|Dormant|Soon|Awakening|Imminent|Alive!)",
+    "commands.brigadier.arguments.lorenzvec.colon": "(?\u003cx\u003e~|-?\\d+(?:\\.\\d+)?):(?\u003cy\u003e~|-?\\d+(?:\\.\\d+)?):(?\u003cz\u003e~|-?\\d+(?:\\.\\d+)?)",
+    "commands.brigadier.arguments.lorenzvec.lorenz": "LorenzVec\\((?\u003cx\u003e-?\\d+(?:\\.\\d+)?),\\s*(?\u003cy\u003e-?\\d+(?:\\.\\d+)?),\\s*(?\u003cz\u003e-?\\d+(?:\\.\\d+)?)\\)",
+    "commands.brigadier.arguments.lorenzvec.space": "(?\u003cx\u003e~|-?\\d+(?:\\.\\d+)?)\\s+(?\u003cy\u003e~|-?\\d+(?:\\.\\d+)?)\\s+(?\u003cz\u003e~|-?\\d+(?:\\.\\d+)?)",
     "commands.cooldown": "§cYou may only use this command after (?\u003ccooldown\u003e\\d+)s on the server!",
     "commands.viewrecipe": "/viewrecipe (?\u003citem\u003e.*)",
     "cookie.bits.new.amount": "(?:Booster Cookie x|Amount: )(?\u003camount\u003e\\d+).*",
