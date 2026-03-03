@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "d33369f",
+  "sourceLabel": "a6ed211",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -492,6 +492,7 @@
     "event.year-of-the-pig.orb.reward.coins": "\\+(?\u003camount\u003e[\\d,]+) Coins",
     "event.year-of-the-pig.orb.reward.skillxp": "\\+(?\u003camount\u003e[\\d,]+) (?\u003cskill\u003e.*) XP",
     "event.year-of-the-seal.fishy-treat.coins": "§6(?\u003ccoins\u003e.*) Coins",
+    "event.year-of-the-witch.stew-item": "(?\u003citem\u003e.*) x(?\u003camount\u003e\\d+)",
     "excavator.dirt.name": "Dirt",
     "fame.projects.completed": "§aProject is (?:being built|released)!",
     "fame.projects.contribute": "§7Contribute again: §e(?\u003ctime\u003e.*)",
