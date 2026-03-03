@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a6548cb",
+  "sourceLabel": "25accf4",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -1235,7 +1235,7 @@
     "misc.chocolatefactory.collection.rabbit.requirement.resident": "§7§.(?\u003cisland\u003e.*) Resident",
     "misc.chocolatefactory.collection.rabbits.found": "§.§l§m[ §a-z]+§r §.(?\u003ccurrent\u003e[0-9]+)§./§.(?\u003ctotal\u003e[0-9]+)",
     "misc.chocolatefactory.egg.alreadycollected": "§cYou have already collected this Chocolate (?\u003cmeal\u003e[\\wé]+) Egg§r§c! Try again when it respawns!",
-    "misc.chocolatefactory.egg.bought": "§aYou bought §r(?\u003crabbitname\u003e.*?) §r§afor §r§6(?\u003ccost\u003e[\\d,]*) Coins§r§a!",
+    "misc.chocolatefactory.egg.bought": "§aYou bought §r(?\u003crabbitname\u003e.*?)(?: §r§afor §r§6(?\u003ccost\u003e[\\d,]*) Coins)?§r§a!",
     "misc.chocolatefactory.egg.found": "§d§lHOPPITY\u0027S HUNT §r§dYou found a §r§.Chocolate (?\u003cmeal\u003e[\\wé]+) Egg §r§d(?\u003cnote\u003e.*)§r§d!",
     "misc.chocolatefactory.egg.found.hitman": "§d§lHOPPITY\u0027S HUNT §r§dYou found a (?:§.)+Hitman Egg(?:§.)+!",
     "misc.chocolatefactory.egg.noneleft": "§cThere are no hidden Chocolate Rabbit Eggs nearby! Try again later!",
