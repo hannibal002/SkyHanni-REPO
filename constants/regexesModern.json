@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a6ed211",
+  "sourceLabel": "ce12bc4",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -1778,8 +1778,7 @@
     "tab.widgetcomponent.enum.volcano": "\\s*(?:Volcano: (?\u003cstatus\u003e\\S+))",
     "tablist.firesaletitle": "§.§lFire Sales: §r§f\\([0-9]+\\)",
     "test.bestiary.type": "\\[Lv(?\u003clvl\u003e.*)] (?\u003ctext\u003e.*)",
-    "test.dev.copyrng.dungeon": "§7§7Dungeon Score: §d.*§5/§d(?\u003cxp\u003e.*)",
-    "test.dev.copyrng.slayer": "§7§7Slayer XP: §d.*§5/§d(?\u003cxp\u003e.*)",
+    "test.dev.copyrng.rngscore": "(?:(?:Slayer|Experimental|Nucleus|Frozen Corpse) XP|Dungeon Score): [\\d,.kM]+/(?\u003cxp\u003e[\\d,.kM]+)",
     "utils.attribute.shard.source": "§7Source: §.(?\u003csource\u003e.+) Shard §8\\(\\w\\d+\\)",
     "utils.inventory.shopoptions": "Shop Trading Options",
     "utils.inventory.skyblockmenu": "SkyBlock Menu",
