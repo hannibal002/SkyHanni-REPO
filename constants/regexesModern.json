@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "ce12bc4",
+  "sourceLabel": "01e6cd1",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -1030,6 +1030,7 @@
     "mining.crystalnucleus.metaldetector.treasure": ".*§3§lTREASURE: §b(?\u003cdistance\u003e.*)m",
     "mining.crystalnucleus.metaldetector.treasurefound": "§aYou found .*with your §r§cMetal Detector§r§a!",
     "mining.crystalnucleus.tracker.bal.obtained": "(?:(?:§.)*\\[.*(?:§.)*\\+*(?:§.)*\\] )?(?\u003cplayer\u003e.*)§r§f §r§ehas obtained §r§a§r§7\\[Lvl 1\\] §r§(?\u003craritycolor\u003e[65])Bal§r§e!",
+    "mining.dwarves.darkmonolith.drop.chat.colorless": "MONOLITH! You.*and were rewarded ?(?:(?\u003ccoins\u003e[\\d,]+) Coins ?)?(?:!|and )?(?:(?\u003cpowder\u003e[\\d,]+) ᠅ Mithril Powder!)?",
     "mining.eventtracker.bossbar.active": "§e§lEVENT (?\u003cevent\u003e.+) §e§lACTIVE IN (?\u003carea\u003e.+) §e§lfor §a§l(?\u003ctime\u003e\\S+)§r",
     "mining.eventtracker.bossbar.passive": "§e§lPASSIVE EVENT (?\u003cevent\u003e.+) §e§lRUNNING FOR §a§l(?\u003ctime\u003e\\S+)§r",
     "mining.eventtracker.ended": "(?:§.)*\\s+(?:§.)+§l(?\u003cevent\u003e.+) ENDED!",
