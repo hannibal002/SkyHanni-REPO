@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "01e6cd1",
+  "sourceLabel": "2107799",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -167,6 +167,7 @@
     "crimson.pablo.helper.1": "\\[NPC] Pablo: (?:✆ )?Bring me that (?\u003cflower\u003e[\\w ]+) as soon as you can!",
     "crimson.pablo.helper.2": "\\[NPC] Pablo: (?:✆ )?Could you bring me an? (?\u003cflower\u003e[\\w ]+)\\?",
     "crimson.pablo.helper.3": "\\[NPC] Pablo: (?:✆ )?I really need an? (?\u003cflower\u003e[\\w ]+) today, do you have one you could spare\\?",
+    "crimson.reputationapi.tablistreputation": " (?\u003crep\u003e(?:\\d+,?)+)",
     "crimson.reputationhelper.quest.chat.completed": "§aYou completed your (?\u003ctype\u003e\\w+) quest! Visit the Town Board to claim the rewards.*",
     "crimson.reputationhelper.quest.townboard.completed": "(?:§.)*COMPLETE",
     "crimson.reputationhelper.quest.townboard.minibossamount": "(?:§7Kill the §c.+ §7|.*)miniboss §a(?\u003camount\u003e\\d)(?: §7times?!)?",
