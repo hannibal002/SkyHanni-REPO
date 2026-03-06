@@ -255,6 +255,12 @@
         "Unable to handle packet"
       ],
       "fixed_in": "6.17.0"
+    },
+    {
+      "message_exact": [
+        "VertexFormatElement ID 6 was already taken, using 7 instead"
+      ],
+      "fixed_in": "7.6.0"
     }
   ]
 }
