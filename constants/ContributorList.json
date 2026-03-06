@@ -219,6 +219,7 @@
     },
     "53924f1a-87e6-4709-8e53-f1c7d13dc239": {
       "suffix": "§b⬛§d⬛§f⬛§d⬛§b⬛",
+      "componentSuffix": {"color": "white", "text": "", "font": "skyhanni:flags"},
       "spinny": true,
       "upsideDown": true,
       "display_name": "Throwpo"
