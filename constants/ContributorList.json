@@ -4,6 +4,7 @@
   "__info__2": "Please also limit your suffixes to 2 visible characters.",
   "__info__3": "Provide your Dashed Minecraft UUID (available at https://namemc.com/ etc.)",
   "__info__4": "'display_name' tag is your Minecraft ign, currently only used for Chocolate Rabbit to Contrib names",
+  "__info__5": "Custom images are supported. The current ones are trans, gay, bi, plead, dog",
   "contributors": {
     "a429ad6e-57fd-4caa-b6a9-becd24aec8b4": {
       "suffix": "§4:3",
@@ -65,6 +66,7 @@
     },
     "90f20a02-e671-4665-9f44-ae54abb6aecc": {
       "suffix": "§d:3",
+      "componentSuffix": {"atlas":"gui", "sprite":"skyhanni:dog"},
       "display_name": "EstrogenEnjoyer"
     },
     "6f8c7b61-42d8-4c4a-b4dc-c47e3aa75b30": {
@@ -73,6 +75,7 @@
     },
     "b5d37739-6c0c-4693-8074-9e86345d0929": {
       "suffix": "§d\uD83D\uDC2E",
+      "componentSuffix": {"atlas":"gui", "sprite":"skyhanni:plead"},
       "display_name": "Fazfoxy"
     },
     "ce30a44c-990d-4a4d-a158-48a275843e42": {
@@ -219,7 +222,7 @@
     },
     "53924f1a-87e6-4709-8e53-f1c7d13dc239": {
       "suffix": "§b⬛§d⬛§f⬛§d⬛§b⬛",
-      "componentSuffix": {"color": "white", "text": "", "font": "skyhanni:flags"},
+      "componentSuffix": [{"atlas":"gui", "sprite":"skyhanni:trans"}, {"atlas":"gui", "sprite":"skyhanni:trans"}],
       "spinny": true,
       "upsideDown": true,
       "display_name": "Throwpo"
