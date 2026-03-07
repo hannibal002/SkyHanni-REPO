@@ -86,6 +86,7 @@
     },
     "16102479-7162-4ea9-9975-a5059c6a2be3": {
       "suffix": "§d§l:3",
+      "componentSuffix": [{"atlas":"gui", "sprite":"skyhanni:trans"}, {"atlas":"gui", "sprite":"skyhanni:trans"}],
       "display_name": "meowmarie"
     },
     "f806360d-5c67-4add-ae04-a38d1c7d01a0": {
@@ -144,6 +145,7 @@
     },
     "212a36a9-ddc0-4edf-ba86-c76e021144e1": {
       "suffix": "§d§l^^",
+      "componentSuffix": [{"atlas":"gui", "sprite":"skyhanni:gay"}, {"atlas":"gui", "sprite":"skyhanni:gay"}],
       "spinny": true,
       "upsideDown": true,
       "display_name": "oBlazin"
