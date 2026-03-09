@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2107799",
+  "sourceLabel": "1e1714c",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -141,7 +141,8 @@
     "combat.instance-chest-api.runname": ".*Catacombs - Flo.*|Kuudra - .*",
     "combat.instance-chest-profit.alreadyopened": "§aAlready opened!",
     "combat.instance-chest-profit.attributeshard": "§.(?\u003cname\u003e.+ Shard) §.x(?\u003ccount\u003e\\d+)",
-    "combat.instance-chest-profit.bookcolorfix": "(?\u003citem\u003e.+)(?:§.)+",
+    "combat.instance-chest-profit.bookcolorfix": "Enchanted Book \\((?\u003citem\u003e.+)(?:§.)+\\)",
+    "combat.instance-chest-profit.bookcolorfixnew": "(?\u003citem\u003e.+)(?:§.)+",
     "combat.instance-chest-profit.coins": "§6(?\u003camount\u003e.*) Coins",
     "combat.instance-chest-profit.croesuscost": "§6(?\u003camount\u003e.*) Coins|§aFREE",
     "combat.instance-chest-profit.dungeonchestkey": "§9Dungeon Chest Key",
