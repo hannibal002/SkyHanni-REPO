@@ -38,6 +38,7 @@
     },
     "1242bf45-93a0-47b5-bd43-f466ce36fb4c": {
       "suffix": "§2§l:D",
+      "componentSuffix": [{"atlas":"gui", "color": "white", "sprite":"skyhanni:trans"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:trans"}],
       "display_name": "Chissl"
     },
     "5a248f85-a80f-4718-beba-7a14a4b3164a": {
