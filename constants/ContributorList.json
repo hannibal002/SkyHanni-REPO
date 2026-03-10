@@ -66,7 +66,7 @@
     },
     "90f20a02-e671-4665-9f44-ae54abb6aecc": {
       "suffix": "§d:3",
-      "componentSuffix": {"atlas":"gui", "sprite":"skyhanni:dog"},
+      "componentSuffix": {"atlas":"gui", "color": "white", "sprite":"skyhanni:dog"},
       "display_name": "EstrogenEnjoyer"
     },
     "6f8c7b61-42d8-4c4a-b4dc-c47e3aa75b30": {
