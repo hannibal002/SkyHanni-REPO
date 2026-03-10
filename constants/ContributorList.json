@@ -66,7 +66,7 @@
     },
     "90f20a02-e671-4665-9f44-ae54abb6aecc": {
       "suffix": "§d:3",
-      "componentSuffix": {"atlas":"gui", "sprite":"skyhanni:dog"},
+      "componentSuffix": {"atlas":"gui", "color": "white", "sprite":"skyhanni:dog"},
       "display_name": "EstrogenEnjoyer"
     },
     "6f8c7b61-42d8-4c4a-b4dc-c47e3aa75b30": {
@@ -75,7 +75,7 @@
     },
     "b5d37739-6c0c-4693-8074-9e86345d0929": {
       "suffix": "§d\uD83D\uDC2E",
-      "componentSuffix": {"atlas":"gui", "sprite":"skyhanni:plead"},
+      "componentSuffix": {"atlas":"gui", "color": "white", "sprite":"skyhanni:plead"},
       "display_name": "Fazfoxy"
     },
     "ce30a44c-990d-4a4d-a158-48a275843e42": {
@@ -86,7 +86,7 @@
     },
     "16102479-7162-4ea9-9975-a5059c6a2be3": {
       "suffix": "§d§l:3",
-      "componentSuffix": [{"atlas":"gui", "sprite":"skyhanni:trans"}, {"atlas":"gui", "sprite":"skyhanni:trans"}],
+      "componentSuffix": [{"atlas":"gui", "color": "white", "sprite":"skyhanni:trans"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:trans"}],
       "display_name": "meowmarie"
     },
     "f806360d-5c67-4add-ae04-a38d1c7d01a0": {
@@ -145,7 +145,7 @@
     },
     "212a36a9-ddc0-4edf-ba86-c76e021144e1": {
       "suffix": "§d§l^^",
-      "componentSuffix": [{"atlas":"gui", "sprite":"skyhanni:gay"}, {"atlas":"gui", "sprite":"skyhanni:gay"}],
+      "componentSuffix": [{"atlas":"gui", "color": "white", "sprite":"skyhanni:gay"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:gay"}],
       "spinny": true,
       "upsideDown": true,
       "display_name": "oBlazin"
@@ -156,7 +156,7 @@
     },
     "3af19bc9-7618-42f4-ba0e-5ec090ea2fa8": {
       "suffix": "§z(:",
-      "componentSuffix": {"atlas":"gui", "sprite":"skyhanni:plead"},
+      "componentSuffix": {"atlas":"gui", "color": "white", "sprite":"skyhanni:plead"},
       "display_name": "Obsidianninja11"
     },
     "d7f09bac-a366-46d1-a558-7fe32c477565": {
@@ -225,7 +225,7 @@
     },
     "53924f1a-87e6-4709-8e53-f1c7d13dc239": {
       "suffix": "§b⬛§d⬛§f⬛§d⬛§b⬛",
-      "componentSuffix": [{"atlas":"gui", "sprite":"skyhanni:trans"}, {"atlas":"gui", "sprite":"skyhanni:trans"}],
+      "componentSuffix": [{"atlas":"gui", "color": "white", "sprite":"skyhanni:trans"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:trans"}],
       "spinny": true,
       "upsideDown": true,
       "display_name": "Throwpo"
