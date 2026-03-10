@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "806b008",
+  "sourceLabel": "993f543",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "accessorybag.name": "Accessory Bag.*",
@@ -1304,7 +1304,7 @@
     "misc.chocolatefactory.timetower.status": "§7Status: §.§l(?\u003cstatus\u003eINACTIVE|ACTIVE)(?: §f)?(?\u003cacitveTime\u003e\\w*)",
     "misc.chocolatefactory.unclaimedrewards": "§7§aYou have \\d+ unclaimed rewards?!",
     "misc.chocolatefactory.upgradetier": "(?\u003cupgrade\u003e.*)\\s(?\u003ctier\u003e[IVXLC]+)",
-    "misc.compacttablist.advanced.level.colorless": ".*\\[(?\u003clevel\u003e[\\d,]+)](?: \\[\\w+\\])? (?\u003cname\u003e.*)",
+    "misc.compacttablist.advanced.level.colorless": ".*\\[(?\u003clevel\u003e.*)] (?\u003cname\u003e.*)",
     "misc.compacttablist.cookie.colorless": "Cookie Buff",
     "misc.compacttablist.dungeonbuff.colorless": "Dungeon Buffs",
     "misc.compacttablist.effects.active.colorless": "Active Effects",
