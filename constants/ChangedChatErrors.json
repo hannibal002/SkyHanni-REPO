@@ -261,6 +261,12 @@
         "VertexFormatElement ID 6 was already taken, using 7 instead"
       ],
       "fixed_in": "7.6.0"
+    },
+    {
+      "message_starts_with": [
+        "CustomScoreboard detected an unknown line"
+      ],
+      "fixed_in": "7.8.0"
     }
   ]
 }
