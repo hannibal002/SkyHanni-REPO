@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "984a244",
+  "sourceLabel": "cd2008c",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -233,10 +233,8 @@
     "data.garden.milestone.total": "§7Total: §a(?\u003cname\u003e.*)",
     "data.garden.milestonefix.amount": ".*§e(?\u003chaving\u003e.*)§6/§e(?\u003cmax\u003e.*)",
     "data.hiddenmembers.inventory.historic": "Historic Members",
-    "data.hypixeldata.guesting.scoreboard": "SKYBLOCK GUEST",
     "data.hypixeldata.lobbytype": "(?\u003clobbyType\u003e.*lobby)\\d+",
     "data.hypixeldata.playeramount.onisland-nocolor": "^\\[\\w+] .*",
-    "data.hypixeldata.scoreboard.title": "SK[YI]BLOCK(?: CO-OP| GUEST)?(?: [♲☀Ⓑ])?",
     "data.hypixeldata.scoreboard.visiting.amount": "\\s+§.✌ §.\\(§.(?\u003ccurrentamount\u003e\\d+)(?:§.)?/(?\u003cmaxamount\u003e\\d+)(?:§.)?\\)",
     "data.hypixeldata.serverid.scoreboard": "§7\\d+/\\d+/\\d+ §8(?\u003cservertype\u003e[mM])(?\u003cserverid\u003e\\S+).*",
     "data.hypixeldata.servername.connection": "(?\u003cprefix\u003e.+\\.)?hypixel\\.net",
@@ -309,6 +307,8 @@
     "data.sacks.sack": "^(?:.* Sack|Enchanted .* Sack)$",
     "data.skill.actionbar": ".*§3\\+.* (?\u003cskill\u003e.*) \\((?\u003coverflow\u003e.*)/(?\u003cneeded\u003e.*)\\).*",
     "data.skill.inventory": ".* §e(?\u003cnumber\u003e.*)§6/.*",
+    "data.skyblockstate.scoreboard.guest": "SKYBLOCK GUEST",
+    "data.skyblockstate.scoreboard.title": "SK[YI]BLOCK(?: CO-OP| GUEST)?(?: [♲☀Ⓑ])?",
     "diana.chat.burrow.dug": "(?:§eYou dug out a Griffin Burrow!|§eYou finished the Griffin burrow chain!) .*",
     "diana.chat.coins": "§6§lWow! §r§eYou dug out §r§6(?\u003ccoins\u003e.*) coins§r§e!",
     "diana.waypoints.inquisitor.coords.0": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.+)§f: §rx: (?\u003cx\u003e[^ ,]+),? y: (?\u003cy\u003e[^ ,]+),? z: (?\u003cz\u003e[^ ,]+)(?\u003cmobName\u003e \\| .*)?.*",
