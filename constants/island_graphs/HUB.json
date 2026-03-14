@@ -18373,7 +18373,7 @@
   },
   "2177": {
     "Position": "0.0:51.0:45.0",
-    "Name": "Community Center",
+    "Name": "Election Room",
     "Tags": [
       "teleport",
       "small_area"
@@ -18387,7 +18387,7 @@
   },
   "2178": {
     "Position": "1.2246467991473532E-16:51.0:47.0",
-    "Name": "Community Center",
+    "Name": "Election Room",
     "Tags": [
       "small_area"
     ],
