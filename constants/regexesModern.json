@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "f445d63",
+  "sourceLabel": "984a244",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -1292,9 +1292,9 @@
     "misc.eclock.boost.status": "§7Status: §(?\u003ccolor\u003e[a-f])§l(?\u003cstatus\u003e.+)",
     "misc.eclock.chat.boostused": "§6§lTIME WARP! §r§aYou have successfully warped time for your (?\u003cusagestring\u003e.+?)!",
     "misc.eclock.inventory.name": "Enchanted Time Clock",
-    "misc.fairy-souls.chat.duplicat": "§dYou have already found that Fairy Soul!",
-    "misc.fairy-souls.chat.new": "§d§lSOUL! §fYou found a §r§dFairy Soul§r§f!",
-    "misc.fairy-souls.new": "§7Fairy Souls: §e(?\u003chave\u003e.*)§7\\/§d(?\u003ctotal\u003e.*)",
+    "misc.fairy-souls.chat.duplicate.colorless": "^You have already found that Fairy Soul!$",
+    "misc.fairy-souls.chat.new.colorless": "^SOUL! You found a Fairy Soul!$",
+    "misc.fairy-souls.new.colorless": "Fairy Souls: (?\u003cfound\u003e.*)\\/(?\u003ctotal\u003e.*)",
     "misc.frogmask.description.active": "§7Today\u0027s region: (?\u003cregion\u003e.+)",
     "misc.fruit-bowl.chat-message.clicked-player": "FRUIT BOWL! (?\u003cplayer\u003e.*) profile name is (?\u003cprofile\u003e[a-zA-Z]*)!",
     "misc.fruit-bowl.chat-message.duplicate": "You already found this profile name in your bowl!",
