@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "cd2008c",
+  "sourceLabel": "a6d1ead",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -124,6 +124,7 @@
     "combat.boss.dragon.1.tablist-nocolor.fight.player": "\\s(?\u003cname\u003e.+): (?\u003cdamage\u003e[\\d.]+[kM]?)❤",
     "combat.boss.protector.1.chat.end.boss": "§f +§r§6§lENDSTONE PROTECTOR DOWN!",
     "combat.boss.protector.1.chat.end.zealot": "§f +§r§eZealots Contributed: §r§a(?\u003camount\u003e\\d+)§r§e/100",
+    "combat.crimsonisle.vanquisherapi.spawnpattern": "A Vanquisher is spawning nearby!",
     "combat.end-dragon-fight.area.nest": "Dragon\u0027s Nest",
     "combat.end-dragon-fight.chat.death": "§r§f {27}§r§6§l(?\u003ctype\u003e.*) DOWN!§r",
     "combat.end-dragon-fight.chat.spawn": "§5☬ §r§d§lThe §r§5§c§l(?\u003ctype\u003e.*)§r§d§l has spawned!§r",
