@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a6d1ead",
+  "sourceLabel": "7006f0d",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -487,9 +487,9 @@
     "event.winter.reindrakewarphelper.spawn.message": "§c§lWOAH! (?:§r)?§cA (?:§r)?§4Reindrake (?:§r)?§cwas summoned from the depths!",
     "event.winter.uniquegifts.gifted.colorless": "\\+1 Unique Gift given! To (?\u003cplayer\u003e.+)!",
     "event.winter.uniqugifts.counter.amount": "§7Unique Players Gifted: §a(?\u003camount\u003e.*)",
-    "event.year-of-the-pig.chat.orb.charged": "§6§lSHINY! §r§eThe orb is charged! Click on it for loot!",
-    "event.year-of-the-pig.chat.orb.expired": "§cYour Shiny Orb and associated pig expired and disappeared\\.",
-    "event.year-of-the-pig.chat.orb.looted": "§6§lSHINY! §r§eYou extracted (?:§.)+(?\u003creward\u003e.*) §r§efrom the piglet\u0027s orb!",
+    "event.year-of-the-pig.chat.orb.charged.colorless": "SHINY! The orb is charged! Click on it for loot!",
+    "event.year-of-the-pig.chat.orb.expired.colorless": "Your Shiny Orb and associated pig expired and disappeared\\.",
+    "event.year-of-the-pig.chat.orb.looted": "SHINY! You extracted Shiny Shard and (?\u003creward\u003e.+) from the piglet\u0027s orb!",
     "event.year-of-the-pig.orb.reward.coins": "\\+(?\u003camount\u003e[\\d,]+) Coins",
     "event.year-of-the-pig.orb.reward.skillxp": "\\+(?\u003camount\u003e[\\d,]+) (?\u003cskill\u003e.*) XP",
     "event.year-of-the-seal.fishy-treat.coins": "§6(?\u003ccoins\u003e.*) Coins",
