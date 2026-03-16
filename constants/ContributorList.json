@@ -266,6 +266,7 @@
       "spinny": true,
       "upsideDown": true,
       "alt from": "CalMWolfs",
+      "componentSuffix": [{"atlas":"blocks", "color": "white", "sprite":"block/slime_block"}, {"atlas":"blocks", "color": "white", "sprite":"block/diamond_block"}, {"atlas":"blocks", "color": "white", "sprite":"block/bedrock"}, {"atlas":"blocks", "color": "white", "sprite":"block/bamboo_planks"}, {"atlas":"blocks", "color": "white", "sprite":"block/haybale"}, {"atlas":"blocks", "color": "white", "sprite":"block/cobbled_deepslate"}],
       "display_name": "Wolfie586"
     },
     "6191db9b-d466-4283-ab38-cc0bf0da36e8": {
