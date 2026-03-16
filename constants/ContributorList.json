@@ -5,10 +5,11 @@
   "__info__3": "Provide your Dashed Minecraft UUID (available at https://namemc.com/ etc.)",
   "__info__4": "'display_name' tag is your Minecraft ign, currently only used for Chocolate Rabbit to Contrib names",
   "__info__5": "Custom images are supported. The current ones are trans, gay, bi, plead, dog",
+  "__info__6": "Put yourself in alphabetical order",
   "contributors": {
     "a429ad6e-57fd-4caa-b6a9-becd24aec8b4": {
       "suffix": "§4:3",
-      "display_name": "JohnGluk"
+      "display_name": "AfkUser"
     },
     "4154a560-2654-4930-94d3-497d2ad6849f": {
       "display_name": "Alea1337"
@@ -28,6 +29,7 @@
       "suffix": "§e:)",
       "spinny": true,
       "upsideDown": true,
+      "componentSuffix": [{"atlas":"gui", "color": "white", "sprite":"skyhanni:plead"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:dog"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:jani"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:plead"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:dog"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:jani"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:plead"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:dog"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:jani"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:plead"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:dog"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:jani"}],
       "display_name": "CalMWolfs"
     },
     "51e50c0a-e0b8-4c7a-9334-ec9df5f8bb43": {
