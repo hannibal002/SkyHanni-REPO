@@ -58,6 +58,9 @@
       "display_name": "Cuz_Im_Clicks"
     },
     "8a9f1841-48e9-48ed-b14f-76a124e6c9df": {
+      "suffix": "§z:^)",
+      "upsideDown": true,
+      "componentSuffix": [{"atlas":"gui", "color": "white", "sprite":"skyhanni:jani"}],
       "display_name": "Eisengolem"
     },
     "ecdf4cc9-0487-4d6f-bf09-8497deaf8b33": {
