@@ -399,40 +399,40 @@
     }
   },
   "spawn_costs": {
-    "Revenant_Horror": {
+    "revenant_horror": {
       "1": 2000,
       "2": 7500,
       "3": 20000,
       "4": 50000,
       "5": 100000
     },
-    "Tarantula_Broodfather": {
+    "tarantula_broodfather": {
       "1": 2000,
       "2": 7500,
       "3": 20000,
       "4": 50000,
       "5": 100000
     },
-    "Sven_Packmaster": {
+    "sven_packmaster": {
       "1": 2000,
       "2": 7500,
       "3": 20000,
       "4": 50000
     },
-    "Voidgloom_Seraph": {
+    "voidgloom_seraph": {
       "1": 2000,
       "2": 7500,
       "3": 20000,
       "4": 50000
     },
-    "Riftstalker_Bloodfiend": {
+    "riftstalker_bloodfiend": {
       "1": 2000,
       "2": 4000,
       "3": 5000,
       "4": 7000,
       "5": 10000
     },
-    "Inferno_Demonlord": {
+    "inferno_demonlord": {
       "1": 10000,
       "2": 25000,
       "3": 60000,
