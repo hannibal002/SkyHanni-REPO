@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7006f0d",
+  "sourceLabel": "b2a2b72",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -87,7 +87,7 @@
     "chat.jacobcompact.contest.specific": " {3}» (?\u003ccrop\u003e[\\w ]+) Contest on (?\u003cseason\u003e[\\w ]+) (?\u003cday\u003e\\d+[stndh]{2,3}), Year (?\u003cyear\u003e\\d+)",
     "chat.jacobcompact.medals.colorless": " {4}\\+(?\u003camount\u003e[\\d,]+) (?\u003ctype\u003e[^ ]+) medals?",
     "chat.jacobcompact.opening.colorless": " {2}FARMING CONTEST REWARDS CLAIMED",
-    "chat.jacobcompact.overclocker": " {4}Overclocker 3000",
+    "chat.jacobcompact.overclocker": " {4}Overclocker 3000(?: x(?\u003ccount\u003e\\d+))?",
     "chat.jacobcompact.rewards.colorless": " {2}REWARDS",
     "chat.jacobcompact.tickets.colorless": " {4}(?\u003ctype\u003eJacob\u0027s|Carnival) Ticket(?: x(?\u003camount\u003e[\\d,]+))?",
     "chat.jacobevent.accessory": "§e\\[NPC] Jacob§f: §rYour §9Anita\u0027s \\w+ §fis giving you §6\\+\\d{1,2}☘ .+ Fortune §fduring the contest!",
