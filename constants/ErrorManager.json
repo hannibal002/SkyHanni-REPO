@@ -1,5 +1,5 @@
 {
-  "breakAfter": [
+  "break_after": [
     "at at.hannibal2.skyhanni.config.commands.Commands$createCommand",
     "at net.minecraftforge.fml.common.eventhandler.EventBus.post",
     "at at.hannibal2.skyhanni.mixins.hooks.NetHandlerPlayClientHookKt.onSendPacket",
@@ -16,7 +16,7 @@
     "knot//": "",
     "java.base/": ""
   },
-  "entireReplacements": {
+  "entire_replacements": {
     "at.hannibal2.skyhanni.api.event.EventListeners.createZeroParameterConsumer": "<Skyhanni event post>",
     "at.hannibal2.skyhanni.api.event.EventListeners.createSingleParameterConsumer": "<Skyhanni event post>"
   },
