@@ -177,7 +177,7 @@
       "message_starts_with": [
         "Error fetching data from NEU Lowest Bin API!"
       ],
-      "fixed_in": "5.0.0"
+      "fixed_in": "9.9.9"
     },
     {
       "message_starts_with": [
@@ -189,7 +189,7 @@
       "message_starts_with": [
         "Caught a NoSuchElementException in at.hannibal2.skyhanni.features.mining.powdertracker"
       ],
-      "fixed_in": "5.0.0"
+      "fixed_in": "9.9.9"
     },
     {
       "message_starts_with": [
@@ -204,6 +204,69 @@
         "Failed to calculate XP for pet level"
       ],
       "fixed_in": "4.7.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.garden.inventory.GardenInventoryTooltipOverflow.onToolTip(at.hannibal2.skyhanni.events.minecraft.ToolTipEvent) at ToolTipEvent: No valid crop type 'Melon Slice'",
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.garden.FarmingFortuneDisplay.onTabListUpdate(at.hannibal2.skyhanni.events.TabListUpdateEvent) at TabListUpdateEvent: No valid crop type 'Melon Slice'",
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.garden.contest.FarmingPersonalBestGain.onChat(at.hannibal2.skyhanni.events.chat.SkyHanniChatEvent) at SkyHanniChatEvent: No valid crop type 'Melon Slice'"
+      ],
+      "custom_message": "Update your SkyHanni version to fix errors related to melons being renamed, you can use /shupdate beta",
+      "fixed_in": "4.16.0"
+    },
+    {
+      "message_starts_with": [
+        "Estimated Item value failed to properly show"
+      ],
+      "fixed_in": "4.17.0"
+    },
+    {
+      "message_starts_with": [
+        "Coroutine timed out"
+      ],
+      "fixed_in": "4.21.0"
+    },
+    {
+      "message_starts_with": [
+        "Found unknown skyblock stats on items, please report this in discord"
+      ],
+      "fixed_in": "5.0.1"
+    },
+    {
+      "message_starts_with": [
+        "Unknown mayor found"
+      ],
+      "fixed_in": "5.3.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.misc.UserLuckBreakdown"
+      ],
+      "fixed_in": "9.0.0"
+    },
+    {
+      "message_starts_with": [
+        "Found unknown skyblock stats on items"
+      ],
+      "fixed_in": "5.7.0"
+    },
+    {
+      "message_exact": [
+        "Unable to handle packet"
+      ],
+      "fixed_in": "6.17.0"
+    },
+    {
+      "message_exact": [
+        "VertexFormatElement ID 6 was already taken, using 7 instead"
+      ],
+      "fixed_in": "7.6.0"
+    },
+    {
+      "message_starts_with": [
+        "CustomScoreboard detected an unknown line"
+      ],
+      "fixed_in": "7.8.0"
     }
   ]
 }

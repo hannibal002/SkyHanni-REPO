@@ -318,7 +318,7 @@
       "teleport"
     ],
     "Neighbours": {
-      "1141": 2.0,
+      "3022": 1.0,
       "1847": 21.0
     }
   },
@@ -3844,7 +3844,7 @@
   },
   "437": {
     "Position": "-113.0:151.0:81.0",
-    "Name": "Gobin Raid",
+    "Name": "Goblin Raid",
     "Tags": [
       "dev"
     ],
@@ -3871,7 +3871,7 @@
   },
   "439": {
     "Position": "-133.0:153.0:91.0",
-    "Name": "Gobin Raid",
+    "Name": "Goblin Raid",
     "Tags": [
       "dev"
     ],
@@ -8164,7 +8164,7 @@
   },
   "920": {
     "Position": "-112.0:143.0:102.0",
-    "Name": "Gobin Raid",
+    "Name": "Goblin Raid",
     "Tags": [
       "dev"
     ],
@@ -10149,7 +10149,7 @@
       "area"
     ],
     "Neighbours": {
-      "39": 2.0,
+      "3022": 1.0,
       "1848": 2.0
     }
   },
@@ -21408,7 +21408,7 @@
   },
   "2487": {
     "Position": "-159.0:150.0:-15.0",
-    "Name": "Quard Gornum",
+    "Name": "Guard Gornum",
     "Tags": [
       "npc"
     ],
@@ -25637,6 +25637,17 @@
     "Neighbours": {
       "2549": 3.32,
       "2491": 4.36
+    }
+  },
+  "3022": {
+    "Position": "-48.0:201.0:-122.0",
+    "Name": "Spawn",
+    "Tags": [
+      "poi"
+    ],
+    "Neighbours": {
+      "39": 1.0,
+      "1141": 1.0
     }
   }
 }

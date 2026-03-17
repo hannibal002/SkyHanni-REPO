@@ -1,0 +1,12 @@
+{
+  "official": {
+    "name": "Official SkyBlock Wiki",
+    "urlPrefix": "https://wiki.hypixel.net/",
+    "searchPrefix": "index.php?search="
+  },
+  "unofficial": {
+    "name": "Unofficial SkyBlock Wiki",
+    "urlPrefix": "https://hypixel-skyblock.fandom.com/wiki/",
+    "searchPrefix": "Special:Search?query="
+  }
+}

@@ -73,7 +73,7 @@
     "DARK_AUCTION": {
       "name": "Dark Auction",
       "api_name": "dark_auction",
-      "max_players": 30
+      "max_players": 12
     },
     "THE_FARMING_ISLANDS": {
       "name": "The Farming Islands",

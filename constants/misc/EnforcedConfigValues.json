@@ -40,7 +40,7 @@
           "value": false
         }
       ],
-      "affectedVersion": "5.0.0",
+      "affectedVersion": "6.0.0",
       "affectedMinecraftVersions": [
         "1.8.9"
       ]
@@ -58,6 +58,99 @@
         "1.21.5",
         "1.21.7",
         "1.21.8"
+      ],
+      "extraMessage": "Will be re-enabled next beta"
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "garden.pests.pestWaypoint.enabled",
+          "value": false
+        }
+      ],
+      "affectedVersion": "4.16.0",
+      "affectedMinecraftVersions": [
+        "1.8.9",
+        "1.21.5",
+        "1.21.7",
+        "1.21.8"
+      ],
+      "extraMessage": "Will be re-enabled on version 4.17.0 and later"
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "misc.fixDoubleClicks",
+          "value": false
+        }
+      ],
+      "affectedVersion": "5.1.0",
+      "affectedMinecraftVersions": [
+        "1.21.5",
+        "1.21.7",
+        "1.21.8",
+        "1.21.10"
+      ],
+      "extraMessage": "Will be re-enabled on version 5.2.0 and later"
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "dev.debug.auraPropaganda",
+          "value": false
+        }
+      ],
+      "affectedVersion": "6.0.0",
+      "affectedMinecraftVersions": [
+        "1.8.9",
+        "1.21.5",
+        "1.21.8",
+        "1.21.10"
+      ]
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "dev.debug.alwaysYearOfThePig",
+          "value": false
+        }
+      ],
+      "affectedVersion": "5.4.0",
+      "affectedMinecraftVersions": [
+        "1.8.9",
+        "1.21.5",
+        "1.21.8",
+        "1.21.10"
+      ]
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "garden.fungiCutterWarn",
+          "value": false
+        }
+      ],
+      "affectedVersion": "5.6.0",
+      "affectedMinecraftVersions": [
+        "1.8.9",
+        "1.21.5",
+        "1.21.8",
+        "1.21.10"
+      ],
+      "extraMessage": "Fungi Cutters no longer have a mode"
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "misc.commands.reversePT.clickable",
+          "value": false
+        }
+      ],
+      "affectedVersion": "6.9.0",
+      "affectedMinecraftVersions": [
+        "1.21.5",
+        "1.21.8",
+        "1.21.10"
       ],
       "extraMessage": "Will be re-enabled next beta"
     }

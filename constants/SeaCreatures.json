@@ -88,12 +88,6 @@
         "fishing_experience": 4050,
         "rarity": "LEGENDARY",
         "rare": true
-      },
-      "The Sea Emperor": {
-        "chat_message": "§aThe Loch Emperor arises from the depths.",
-        "fishing_experience": 3375,
-        "rarity": "LEGENDARY",
-        "rare": true
       }
     }
   },
@@ -300,6 +294,10 @@
         "fishing_experience": 730,
         "rarity": "RARE"
       },
+      "Baby Magma Slug": {
+        "fishing_experience": 730,
+        "rarity": "RARE"
+      },
       "Pyroclastic Worm": {
         "chat_message": "§aYou feel the heat radiating as a Pyroclastic Worm surfaces.",
         "fishing_experience": 1100,
@@ -452,18 +450,28 @@
       "Ent": {
         "chat_message": "§aYou've hooked an Ent, as ancient as the forest itself.",
         "fishing_experience": 0,
-        "rarity": "EPIC",
-        "rare": true
+        "rarity": "EPIC"
       },
       "Tadgang": {
         "chat_message": "§aA gang of Liltads!",
         "fishing_experience": 0,
         "rarity": "RARE"
       },
+      "Bogged": {
+        "chat_message": "§aYou've hooked a Bogged!",
+        "fishing_experience": 225,
+        "rarity": "COMMON"
+      },
       "Stridersurfer": {
         "chat_message": "§aYou caught a Stridersurfer.",
         "fishing_experience": 0,
         "rarity": "RARE"
+      },
+      "The Loch Emperor": {
+        "chat_message": "§aThe Loch Emperor arises from the depths.",
+        "fishing_experience": 3375,
+        "rarity": "LEGENDARY",
+        "rare": true
       }
     }
   }
