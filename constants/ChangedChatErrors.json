@@ -266,7 +266,7 @@
       "message_starts_with": [
         "CustomScoreboard detected an unknown line"
       ],
-      "fixed_in": "7.8.0"
+      "fixed_in": "8.0.0"
     }
   ]
 }
