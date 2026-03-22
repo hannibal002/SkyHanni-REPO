@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "db778a9",
+  "sourceLabel": "0f1d43b",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
@@ -149,6 +149,7 @@
     "combat.instance-chest-profit.essence": "§.(?\u003cname\u003e\\w+ Essence) §.x(?\u003ccount\u003e\\d+)",
     "combat.instance-chest-profit.fakeitemname": "§aReroll Shard",
     "combat.instance-chest-profit.kuudrachestkey": "§.(?:\\w+ )?Kuudra Key",
+    "combat.instance-chest-profit.requiresadungeonchestkey": "§eRequires a Dungeon Chest Key",
     "combat.mobs.spawntime.arachne.crystal": "^☄ [a-z0-9_]{2,22} placed an arachne crystal! something is awakening!$",
     "combat.mobs.spawntime.arachne.fragment": "^☄ [a-z0-9_]{2,22} placed an arachne\u0027s calling! something is awakening! \\(4/4\\)$",
     "combat.spidersden.broodmother": "§4Broodmother§7: §[e64](?:Slain|Dormant|Soon|Awakening|Imminent|Alive!)",
@@ -161,6 +162,9 @@
     "cookie.bits.new.time": "4 days:",
     "cookie.bits.new.wrong": "§[de]Booster Cookie",
     "craftableitemlist.craftitem": "Craft Item",
+    "crimson.avorius.helper.0": "\\[NPC] Avorius: I am quite thirsty all the time, it\u0027s a rare condition\\.",
+    "crimson.avorius.helper.1": "\\[NPC] Avorius: There is no sunlight either, it would be quite accommodating for a Vampire\\.",
+    "crimson.avorius.helper.2": "\\[NPC] Avorius: Why are you looking at me that way\\? I am not a Vampire, you are!",
     "crimson.kuudra.quest.identifier": "Kill Kuudra (?\u003ctier\u003e\\w+) Tier",
     "crimson.miniboss.down": "§f\\s*§r§6§l(?\u003cname\u003e.+) DOWN!",
     "crimson.miniboss.spawn": "§c§lBEWARE - (?\u003cname\u003e.+) Is Spawning\\.",
