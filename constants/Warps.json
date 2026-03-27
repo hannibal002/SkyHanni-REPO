@@ -91,7 +91,7 @@
       "x": 0.5,
       "y": 77,
       "z": -0.5,
-      "extra_diana_warp_blocks": 2
+      "extra_diana_warp_blocks": 0
     },
     "CASTLE": {
       "display_name": "Castle",
@@ -131,7 +131,7 @@
       "x": 44.5,
       "y": 119,
       "z": 93.5,
-      "extra_diana_warp_blocks": 5
+      "extra_diana_warp_blocks": 0
     },
     "STONKS": {
       "display_name": "Stonks",
