@@ -1,7 +1,13 @@
 {
-  "sourceLabel": "0f1d43b",
+  "sourceLabel": "8a73f16",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
+    "achievements.cake-soul": "You found a Cake Soul!",
+    "achievements.da-item-count": "\\[NPC] Lucius: You\u0027ve purchased (?\u003ccount\u003e\\d+) items from the Dark Auction.",
+    "achievements.npc-sell-limit": "You\u0027ve reached the daily limit of coins you may earn from NPC shops\\.",
+    "achievements.pet-score": "Your Pet Score: (?\u003cscore\u003e\\d+)",
+    "achievements.rng-meter": "\\s*RNG Meter - (?\u003cxp\u003e[\\d,]+) Stored XP",
+    "achievements.seal-bounce": "INSANE! You kept the Bouncy Beach Ball in the air for (?\u003cbounces\u003e\\d+) bounces and earned \\d+ Fishy Treats!",
     "actionbar.defense": ".*§a(?\u003cdefense\u003e[\\d,]+)§a❈.*",
     "actionbar.health": "§[c6](?\u003chealth\u003e[\\d,]+)/[\\d,]+❤.*",
     "actionbar.mana": ".*§b(?\u003cmana\u003e[\\d,]+)/[\\d,]+✎.*",
@@ -1377,7 +1383,6 @@
     "mob.detection.pattern.petcare": "^\\[\\w+ (?\u003clevel\u003e\\d+)\\] (?\u003cname\u003e.*)",
     "mob.detection.pattern.shiny": "SHINY PIG",
     "mob.detection.pattern.summon.owner": ".*Spawned by: (?\u003cname\u003e.*).*",
-    "ownplayer.death.chat": "§c ☠ §r§7You (?\u003creason\u003e.+)",
     "party.invite.expired": "§eThe party invite from §r§.(?:\\[.*].)?(?\u003cplayer\u003e\\S+) §r§ehas expired\\.",
     "party.invite.received": "§r§.(?:\\[.*].)?(?\u003cplayer\u003e\\S+) §r§ehas invited you to join their party!",
     "pet.nametag": "(?\u003cstart\u003e§8\\[§7Lv(?\u003clvl\u003e\\d+)§8]) (?\u003crarity\u003e§.)(?\u003cpet\u003e[\\w\\s]+)(?\u003cskin\u003e§. ✦)?",
