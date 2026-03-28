@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8a73f16",
+  "sourceLabel": "c55f168",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.cake-soul": "You found a Cake Soul!",
@@ -1479,7 +1479,9 @@
     "skyblockxpapi.inventory.itemname": "§aSkyBlock Leveling",
     "skyblockxpapi.inventory.level": "§7Your SkyBlock Level: §8\\[§.(?\u003clevel\u003e\\d+)§8\\]",
     "skyblockxpapi.inventory.xp": "[§\\w\\s]+§b(?\u003cxp\u003e\\d+)§3\\/§b100 §bXP",
-    "slayer.autoslayer.bank.chat": "§7Took (?\u003ccoins\u003e.+) coins from your bank for auto-slayer\\.\\.\\.",
+    "slayer.api.quest.complete": "\\s*SLAYER QUEST COMPLETE!",
+    "slayer.api.quest.start": "\\s*SLAYER QUEST STARTED!",
+    "slayer.autoslayer.bank.chat.colorless": "Took (?\u003ccoins\u003e.+) coins from your bank for auto-slayer\\.\\.\\.",
     "slayer.blaze.dagger.attunement": "§cStrike using the §r.+ §r§cattunement on your dagger!",
     "slayer.blaze.firepillar.entityname": "§6§l(?\u003cseconds\u003e.*)s §c§l8 hits",
     "slayer.bosswarning.progress": " \\(?(?\u003cprogress\u003e[0-9.,k]+)/(?\u003ctotal\u003e[0-9.,k]+)\\)?.*",
