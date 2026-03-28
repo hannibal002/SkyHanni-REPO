@@ -90,6 +90,11 @@
     "cf163a44-d62c-499f-893b-b19de1ac93e9": {
       "display_name": "Frost19"
     },
+    "a1732122-e22e-4edf-883c-09673eb55de8": {
+      "suffix": "§d:3",
+      "componentSuffix": {"atlas":"gui", "color": "white", "sprite":"skyhanni:dog"},
+      "display_name": "Mayaqq"
+    },
     "16102479-7162-4ea9-9975-a5059c6a2be3": {
       "suffix": "§d§l:3",
       "componentSuffix": [{"atlas":"gui", "color": "white", "sprite":"skyhanni:trans"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:trans"}],
@@ -284,11 +289,6 @@
     },
     "6cf7a1d1-afc4-48ed-951e-b25c82b90d7f": {
       "display_name": "Zickles"
-    },
-    "a1732122-e22e-4edf-883c-09673eb55de8": {
-      "suffix": "§d:3",
-      "componentSuffix": {"atlas":"gui", "color": "white", "sprite":"skyhanni:dog"},
-      "display_name": "Mayaqq"
     }
   }
 }
