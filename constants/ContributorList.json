@@ -106,6 +106,7 @@
       "suffix": "§5§l:3",
       "spinny": true,
       "upsideDown": true,
+      "componentSuffix": [{ "atlas": "blocks", "color": "white", "sprite": "block/black_concrete"}, {"atlas": "blocks", "color": "white", "sprite": "block/yellow_concrete"}, {"atlas": "blocks", "color": "white", "sprite": "block/red_concrete"}],
       "display_name": "HiZe_"
     },
     "019bf3ca-ecbe-4101-bf07-1624f8e0d1e7": {
