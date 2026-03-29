@@ -153,6 +153,25 @@
         "1.21.10"
       ],
       "extraMessage": "Will be re-enabled next beta"
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "inventory.gfs.queuedGFS",
+          "value": false
+        },
+        {
+          "path": "misc.commands.tabComplete.gfsSack",
+          "value": false
+        }
+      ],
+      "minimumAffectedVersion": "7.12.0",
+      "affectedVersion": "7.12.0",
+      "affectedMinecraftVersions": [
+        "1.21.10",
+        "1.21.11"
+      ],
+      "extraMessage": "Will be re-enabled next beta"
     }
   ]
 }
