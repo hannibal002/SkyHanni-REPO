@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9c05d89",
+  "sourceLabel": "8b1996d",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1298,12 +1298,15 @@
     "misc.chocolatefactory.upgradetier": "(?\u003cupgrade\u003e.*)\\s(?\u003ctier\u003e[IVXLC]+)",
     "misc.compacttablist.advanced.level.colorless": "^(?!SB Level).*\\[(?\u003clevel\u003e(?:§.)*[\\d,]+)(?:§.)*] (?\u003cname\u003e.*)",
     "misc.compacttablist.cookie.colorless": "Cookie Buff",
+    "misc.compacttablist.cookie.inactive": "Not active! Obtain booster cookies from the community|shop in the hub\\.",
     "misc.compacttablist.dungeonbuff.colorless": "Dungeon Buffs",
     "misc.compacttablist.effects.active.colorless": "Active Effects",
+    "misc.compacttablist.effects.active.none": "No effects active\\. Drink Potions or splash them on the|ground to buff yourself!",
     "misc.compacttablist.effects.count.colorless": "You have (?\u003ceffectCount\u003e[0-9]+) (?:active|non-god) effects?.*",
     "misc.compacttablist.effects.godpot.colorless": "You have a God Potion active! (?\u003ctimer\u003e[\\w ]+)",
     "misc.compacttablist.effects.usecommand.colorless": "Use \"/effects\".*",
     "misc.compacttablist.upgrades": "(?\u003cfirstPart\u003e[A-Za-z ]+)(?\u003csecondPart\u003e [\\w ]+)",
+    "misc.compacttablist.upgrades-header": "Upgrades",
     "misc.compacttablist.username": "^\\[(?\u003csblevel\u003e\\d+)] (?:\\[\\w+] )?(?\u003cusername\u003e\\w+)",
     "misc.compacttablist.winterpowerups.colorless": "Active Power Ups",
     "misc.coral.fish.name": "§c(?\u003cfishName\u003e\\w+ the Fish)",
