@@ -267,6 +267,12 @@
         "CustomScoreboard detected an unknown line"
       ],
       "fixed_in": "8.0.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.bingo.BingoApi.onSecondPassed"
+      ],
+      "fixed_in": "7.14.0"
     }
   ]
 }
