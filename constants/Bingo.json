@@ -1,321 +1,264 @@
 {
   "bingo_tips": {
-    "Tarantula Broodfather (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Kill t2 Spider Bosses"
-      ],
-      "guide": [
-        "Ideally you'd want Ender Set",
-        "with a Void Sword for this."
-      ]
-    },
-    "Enderman Slayer (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Kill Endermen"
-      ],
-      "guide": [
-        "Kill Endermen in The End using full Ender Armor ",
-        "and a Void Sword or Dreadlord Sword."
-      ]
-    },
-    "Poseidon (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Summon Sea Creatures"
-      ],
-      "guide": [
-        "Use the best fishing rod, bait",
-        "and armor that you have access to",
-        "and fish in TheBackwater Bayou."
-      ]
-    },
-    "Skilled (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Gain Mining experience"
-      ],
-      "guide": [
-        "For this you just need to mine blocks,",
-        "complete Mining Commissions and collect",
-        "occasional Commission Milestones."
-      ]
-    },
-    "Bait (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Deposit Chum"
-      ],
-      "guide": [
-        "Use the best fishing rod, bait",
-        "and armor that you have access to",
-        "and fish in TheBackwater Bayou.",
-        "You'll need an Empty Chum Bucket",
-        "from Moby to obtain and deposit it."
-      ]
-    },
-    "Bedazzled": {
-      "difficulty": "Easy",
-      "note": [
-        "7 unique Accessories"
-      ],
-      "guide": [
-        "For this you'll want to buy all 6 Talismans",
-        "from the Adventurer in The Hub (26k)",
-        "and grab a Farming Talisman from Wheat Collection."
-      ]
-    },
-    "Prismarine Crystals Collector": {
-      "difficulty": "Hard",
-      "note": [
-        "1.5k Prismarine Crystals Collection"
-      ],
-      "guide": [
-        "Fish in the Hub until you can enter the Backwater Bayou.",
-        "Fish there and lootshare mobs until you unlock",
-        "Fishing Minions. Place as many of them on your island,",
-        "as you can and give them the best fuel and storage",
-        "you have access to and don't forget to collect in time."
-      ]
-    },
-    "Collector": {
-      "difficulty": "Easy",
-      "note": [
-        "10 Collections to Tier 7"
-      ],
-      "guide": [
-        "You will get some progress for this",
-        "by working on other goals.",
-        "The easiest to go for are:",
-        "Diamond, Oak Wood, Prismarine Crystals,",
-        "Sand, Wheat, Seeds and a few Fishing",
-        "Collections from the Prismarine Shards goal."
-      ]
-    },
-    "Fashionable": {
+    "Good Will Hunting (Community Goal)": {
       "difficulty": "Medium",
       "note": [
-        "15 Armor Sets"
+        "Hunt Mobs"
       ],
+      "found": "Bloxigus",
       "guide": [
-        "Craft Leather, Iron, Gold and Diamond Armor",
-        "Collect Ender Armor from The End (8 pieces)",
-        "Craft Leaflet, Farm Suit, Mushroom, Cactus",
-        "and Pumpkin Armor.",
-        "Buy Squire, Rosetta's, Celeste, Mercenary and",
-        "Starlight Armor from Rosetta aswell as Angler Armor",
-        "(8 pieces) from the Fishing Merchant,",
-        "Chainmail Armor from the Iron Forger and",
-        "Canopy Armor from Amaury. You should also",
-        "collect the armor from the Foraging Questline."
+        "For this you'll need a Pocket Black Hole",
+        "and a Hunting Axe from the Galatea Quests."
       ]
     },
-    "Pet Hoarder": {
-      "difficulty": "Easy",
-      "note": [
-        "3 unique pets"
-      ],
-      "guide": [
-        "Recommended for this are:",
-        "Bingo, Rock and Grandma Wolf"
-      ]
-    },
-    "Diamond Collector": {
+    "Lord of the Flies (Community Goal)": {
       "difficulty": "Medium",
       "note": [
-        "40k Diamond Collection"
+        "Catch pests with traps"
       ],
+      "found": "Bloxigus",
       "guide": [
-        "Mine Pure Diamonds in the Dwarven Mines",
-        "with a Fortune 3+ pickaxe.",
-        "You might want to use as many minions",
-        "as you have access to for this.",
-        "Remember to put a compactor in the minions",
-        "when you plan on leaving for a while.",
-        "Don't forget to fuel the minions,",
-        "give them storages and collect them in time."
+        "The first tier of traps costs 50 Pests",
+        "from Pesthunter Philip in the Garden.",
+        "You'll also need a Vacuum to collect them."
       ]
     },
-    "Slayer": {
+    "Journey to the Center of the Earth (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Reach Slayer Level 3"
+        "Complete Mining Commissions"
       ],
+      "found": "Bloxigus",
       "guide": [
-        "Recommended for this is Zombie Slayer.",
-        "This needs 230 xp, so either:",
-        "t1, t2 and 2 t3",
-        "or t1 and 9 t2.",
-        "Don't forget to claim the rewards",
-        "from Maddox."
+        "For this you'll want to talk to the King",
+        "in the Dwarven Mines and do what he tells",
+        "you to. Buy yourself better pickaxes from",
+        "Bubu to help with this."
       ]
     },
-    "Amber Crystal": {
-      "difficulty": "Medium",
-      "note": [
-        "Obtain an Amber Crystal"
-      ],
-      "guide": [
-        "For this you'll need Heart of the Mountain 4.",
-        "Also you'll need to give a Goblin Egg of any kind",
-        "to the Goblin King in the Crystal Hollows",
-        "to then claim the Crystal from the Queen's Den."
-      ]
-    },
-    "Powder Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "25k Mithril Powder"
-      ],
-      "guide": [
-        "Do commissions and events in The Dwarven Mines,",
-        "claim your daily powder from the Puzzler and",
-        "from giving Fetchur the items he asks for.",
-        "Fetchurs items are all listed in the Wiki.",
-        "Try to do those while a '2x Powder' event is active.",
-        "You might want to use the Royal Reforge on your",
-        "equipment to gain more powder from events.",
-        "You can also fish up and kill Mithril Grubbers",
-        "in the Abandoned Quarry (Fishing 6)."
-      ]
-    },
-    "Carry-On": {
+    "The Lorax (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Craft a Small Backpack"
+        "Collect Tree Gifts"
       ],
+      "found": "Bloxigus",
       "guide": [
-        "You'll unlock this recipe passively",
-        "(250 leather collection)",
-        "if you chose to do Exterminator in Barn.",
-        "Craft it with 80 Leather.",
-        "You can also use Cow Minions for this."
+        "For this you'll want to utilize",
+        "Canopy Armor from Amaury in Galatea.",
+        "You'll need to contribute at least 10%",
+        "to a tree cut to get one."
       ]
     },
-    "New Savings": {
-      "difficulty": "Medium",
-      "note": [
-        "Craft a Piggy Bank"
-      ],
-      "guide": [
-        "This unlocks at 2.5k Raw Porkchop Collection",
-        "and requires 40 Enchanted Pork to make.",
-        "You can use Minions for this, just",
-        "remember to give them the best fuel and storage",
-        "you have access to and collect in time."
-      ]
-    },
-    "Friend Of The Seas": {
-      "difficulty": "Medium",
-      "note": [
-        "Equip an Uncommon Dolphin"
-      ],
-      "guide": [
-        "For this you should get a Common Dolphin",
-        "at 250 Sea Creatures and upgrade it with Kat.",
-        "§cThis upgrade will cost 100k Coins and 1 day!"
-      ]
-    },
-    "Brewer": {
+    "Treasure Island (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Reach Alchemy 16"
+        "Fish up trash in Backwater Bayou"
       ],
+      "found": "Bloxigus",
       "guide": [
-        "This needs 97,425 Alchemy XP. You'll want to",
-        "use Enchanted Sugar or Gold for this (~95 items)",
-        "or you use an Enchanted Sugar Cane or Gold Block."
+        "For this you'll need to apply the Junk Sinker",
+        "from Junker Joel in the Backwater Bayou to",
+        "your rod and fish with it."
       ]
     },
-    "A Lost Cause": {
-      "difficulty": "Medium",
+    "Secret Goal 1": {
+      "difficulty": "",
       "note": [
-        "Kill a Lost Adventurer"
+        ""
       ],
+      "found": "?",
       "guide": [
-        "Start an Entrance floor and play Mage/Tank/Berserker to use",
-        "the classes abilities to kill a Lost Adventurer.",
-        "You only need to get the last hit",
-        "on it to count, so you can get help from your team.",
-        "You need Combat Level 15 to join a Dungeon."
+        ""
       ]
     },
-    "Experienced": {
-      "difficulty": "Medium",
+    "Secret Goal 2": {
+      "difficulty": "",
       "note": [
-        "Obtain a Grand XP Bottle"
+        ""
       ],
+      "found": "?",
       "guide": [
-        "Ways to obtain:",
-        "Craft (Lapis Lazuli Collection 5),",
-        "a drop from fishing,",
-        "from the Experimentation Table,",
-        "drop from Ender Nodes in the End (11-13%)."
+        ""
       ]
     },
-    "Strongman": {
-      "difficulty": "Medium",
+    "Secret Goal 3": {
+      "difficulty": "",
       "note": [
-        "120 strength"
+        ""
       ],
+      "found": "?",
       "guide": [
-        "Get yourself a splash, equip a Bingo Pet",
-        "and get the cake buff by eating the cakes",
-        "on skyerzz's or prtl's island.",
-        "If this doesn't finish it, get a Void Sword (200k) in the End",
-        "and hold it while some Ender Armor and/or Equipment."
+        ""
       ]
     },
-    "Collecting Data": {
-      "difficulty": "Easy",
+    "Secret Goal 4": {
+      "difficulty": "",
       "note": [
-        "Bestiary Milestone 3"
+        ""
       ],
+      "found": "?",
       "guide": [
-        "You will most likely get this passively.",
-        "Use /be ingame to view your progress once you",
-        "talked to Bramass Beastslayer in The Spiders Den."
+        ""
       ]
     },
-    "Sand Collector": {
-      "difficulty": "Easy",
+    "Secret Goal 5": {
+      "difficulty": "",
       "note": [
-        "47.5k Sand Collection"
+        ""
       ],
+      "found": "?",
       "guide": [
-        "Use a Golden Shovel with Efficiency 5",
-        "to grind this in the Desert.",
-        "You can also use Sand Minions for this.",
-        "In that case, place as many as you can",
-        "and don't forget to fuel the minions,",
-        "give them storages and collect them in time."
+        ""
       ]
     },
-    "Healthy": {
-      "difficulty": "Easy",
+    "Secret Goal 6": {
+      "difficulty": "",
       "note": [
-        "1000 Health"
+        ""
       ],
+      "found": "?",
       "guide": [
-        "Wear armor enchanted with Growth 5 ",
-        "(Enchanting Level 5), preferably Ender Armor",
-        "while you're in The End.",
-        "Applying Growth 5 costs 50 Levels each.",
-        "If you still struggle, reforge your",
-        "armor to Titanic."
+        ""
       ]
     },
-    "Commission Master": {
-      "difficulty": "Easy",
+    "Secret Goal 7": {
+      "difficulty": "",
       "note": [
-        "Complete 4 Commissions"
+        ""
       ],
+      "found": "?",
       "guide": [
-        "Do your daily commissions in the Dwarven Mines",
-        "(4 per day). You will need Mining 12 for this.",
-        "Can also be completed in the Crystal Hollows,",
-        "though it might be harder to do so."
+        ""
+      ]
+    },
+    "Secret Goal 8": {
+      "difficulty": "",
+      "note": [
+        ""
+      ],
+      "found": "?",
+      "guide": [
+        ""
+      ]
+    },
+    "Secret Goal 9": {
+      "difficulty": "",
+      "note": [
+        ""
+      ],
+      "found": "?",
+      "guide": [
+        ""
+      ]
+    },
+    "Secret Goal 10": {
+      "difficulty": "",
+      "note": [
+        ""
+      ],
+      "found": "?",
+      "guide": [
+        ""
+      ]
+    },
+    "Secret Goal 11": {
+      "difficulty": "",
+      "note": [
+        ""
+      ],
+      "found": "?",
+      "guide": [
+        ""
+      ]
+    },
+    "Secret Goal 12": {
+      "difficulty": "",
+      "note": [
+        ""
+      ],
+      "found": "?",
+      "guide": [
+        ""
+      ]
+    },
+    "Secret Goal 13": {
+      "difficulty": "",
+      "note": [
+        ""
+      ],
+      "found": "?",
+      "guide": [
+        ""
+      ]
+    },
+    "Secret Goal 14": {
+      "difficulty": "",
+      "note": [
+        ""
+      ],
+      "found": "?",
+      "guide": [
+        ""
+      ]
+    },
+    "Secret Goal 15": {
+      "difficulty": "",
+      "note": [
+        ""
+      ],
+      "found": "?",
+      "guide": [
+        ""
+      ]
+    },
+    "Secret Goal 16": {
+      "difficulty": "",
+      "note": [
+        ""
+      ],
+      "found": "?",
+      "guide": [
+        ""
+      ]
+    },
+    "Secret Goal 17": {
+      "difficulty": "",
+      "note": [
+        ""
+      ],
+      "found": "?",
+      "guide": [
+        ""
+      ]
+    },
+    "Secret Goal 18": {
+      "difficulty": "",
+      "note": [
+        ""
+      ],
+      "found": "?",
+      "guide": [
+        ""
+      ]
+    },
+    "Secret Goal 19": {
+      "difficulty": "",
+      "note": [
+        ""
+      ],
+      "found": "?",
+      "guide": [
+        ""
+      ]
+    },
+    "Secret Goal 20": {
+      "difficulty": "",
+      "note": [
+        ""
+      ],
+      "found": "?",
+      "guide": [
+        ""
       ]
     }
   }
