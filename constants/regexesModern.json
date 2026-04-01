@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8b1996d",
+  "sourceLabel": "2b15aa4",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -510,7 +510,7 @@
     "event.winter.uniqugifts.counter.amount": "§7Unique Players Gifted: §a(?\u003camount\u003e.*)",
     "event.year-of-the-pig.chat.orb.charged.colorless": "SHINY! The orb is charged! Click on it for loot!",
     "event.year-of-the-pig.chat.orb.expired.colorless": "Your Shiny Orb and associated pig expired and disappeared\\.",
-    "event.year-of-the-pig.chat.orb.looted": "SHINY! You extracted Shiny Shard and (?\u003creward\u003e.+) from the piglet\u0027s orb!",
+    "event.year-of-the-pig.chat.orb.looted": "SHINY! You extracted Shiny Token and (?\u003creward\u003e.+) from the piglet\u0027s orb!",
     "event.year-of-the-pig.orb.reward.coins": "\\+(?\u003camount\u003e[\\d,]+) Coins",
     "event.year-of-the-pig.orb.reward.skillxp": "\\+(?\u003camount\u003e[\\d,]+) (?\u003cskill\u003e.*) XP",
     "event.year-of-the-seal.fishy-treat.coins": "§6(?\u003ccoins\u003e.*) Coins",
