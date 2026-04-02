@@ -474,7 +474,7 @@
         "rare": true
       },
       "Nessie": {
-        "chat_message": "§aYou've caused a disturbance in the loch. Could it be... Nessie?",
+        "chat_message": "§a§oYou've caused a disturbance in the loch. Could it be... Nessie?",
         "fishing_experience": 7500,
         "rarity": "MYTHIC",
         "rare": true
