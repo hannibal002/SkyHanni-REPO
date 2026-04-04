@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "38698b2",
+  "sourceLabel": "88921bd",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1809,6 +1809,8 @@
     "utils.string.playerchat": "(?\u003cimportant\u003e.*?)(?:§[f7r])*: .*",
     "utils.string.playername": "[a-zA-Z0-9_]{2,16}",
     "utils.tablist.profile": "(?:§.)+Profile: §r§a(?\u003cprofile\u003e[\\w\\s]+[^ §]).*",
-    "utils.time.amount": "(?:(?\u003cy\u003e\\d+) ?y(?:\\w* ?)?)?(?:(?\u003cd\u003e\\d+) ?d(?:\\w* ?)?)?(?:(?\u003ch\u003e\\d+) ?h(?:\\w* ?)?)?(?:(?\u003cm\u003e\\d+) ?m(?:\\w* ?)?)?(?:(?\u003cs\u003e\\d+) ?s(?:\\w* ?)?)?"
+    "utils.time.amount": "(?:(?\u003cy\u003e\\d+) ?y(?:\\w* ?)?)?(?:(?\u003cd\u003e\\d+) ?d(?:\\w* ?)?)?(?:(?\u003ch\u003e\\d+) ?h(?:\\w* ?)?)?(?:(?\u003cm\u003e\\d+) ?m(?:\\w* ?)?)?(?:(?\u003cs\u003e\\d+) ?s(?:\\w* ?)?)?",
+    "vanquisher.waypoint.died": "^(?\u003cchannel\u003e.*\u003e )?(?\u003cplayerName\u003e[^:]+): Vanquisher dead!.*",
+    "vanquisher.waypoint.share.0": "^(?\u003cchannel\u003eParty \u003e |Guild \u003e |Officer \u003e )?(?\u003cplayerName\u003e[^:]+):.*?x:\\s*(?\u003cx\u003e-?[\\d.]+).*?y:\\s*(?\u003cy\u003e-?[\\d.]+).*?z:\\s*(?\u003cz\u003e-?[\\d.]+).*?Vanquisher.*"
   }
 }
