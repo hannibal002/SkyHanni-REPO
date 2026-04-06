@@ -128,7 +128,8 @@
         "chat_message": "§aA Reindrake forms from the depths.",
         "fishing_experience": 0,
         "rarity": "MYTHIC",
-        "rare": true
+        "rare": true,
+        "lootshareSphereOverride": false
       }
     }
   },
