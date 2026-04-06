@@ -1,127 +1,79 @@
 {
-  "fuel_drops": [
-    {
-      "id": "INFERNO_FUEL_MAGMA_CREAM",
-      "drops": [
-        "MAGMA_CREAM",
-        "ENCHANTED_MAGMA_CREAM",
-        "WHIPPED_MAGMA_CREAM"
-      ]
-    },
-    {
-      "id": "INFERNO_FUEL_GLOWSTONE_DUST",
-      "drops": [
-        "GLOWSTONE_DUST",
-        "ENCHANTED_GLOWSTONE_DUST",
-        "ENCHANTED_GLOWSTONE"
-      ]
-    },
-    {
-      "id": "INFERNO_FUEL_NETHER_STALK",
-      "drops": [
-        "NETHER_STALK",
-        "ENCHANTED_NETHER_STALK",
-        "MUTANT_NETHER_STALK"
-      ]
-    },
-    {
-      "id": "INFERNO_FUEL_BLAZE_ROD",
-      "drops": [
-        "BLAZE_ROD",
-        "ENCHANTED_BLAZE_POWDER",
-        "ENCHANTED_BLAZE_ROD"
-      ]
-    },
-    {
-      "id": "INFERNO_FUEL_CRUDE_GABAGOOL",
-      "drops": []
-    },
-    {
-      "id": "INFERNO_HEAVY_MAGMA_CREAM",
-      "drops": [
-        "MAGMA_CREAM",
-        "ENCHANTED_MAGMA_CREAM",
-        "WHIPPED_MAGMA_CREAM"
-      ]
-    },
-    {
-      "id": "INFERNO_HEAVY_GLOWSTONE_DUST",
-      "drops": [
-        "GLOWSTONE_DUST",
-        "ENCHANTED_GLOWSTONE_DUST",
-        "ENCHANTED_GLOWSTONE"
-      ]
-    },
-    {
-      "id": "INFERNO_HEAVY_NETHER_STALK",
-      "drops": [
-        "NETHER_STALK",
-        "ENCHANTED_NETHER_STALK",
-        "MUTANT_NETHER_STALK"
-      ]
-    },
-    {
-      "id": "INFERNO_HEAVY_BLAZE_ROD",
-      "drops": [
-        "BLAZE_ROD",
-        "ENCHANTED_BLAZE_POWDER",
-        "ENCHANTED_BLAZE_ROD"
-      ]
-    },
-    {
-      "id": "INFERNO_HEAVY_CRUDE_GABAGOOL",
-      "drops": []
-    },
-    {
-      "id": "INFERNO_HYPERGOLIC_MAGMA_CREAM",
-      "drops": [
-        "MAGMA_CREAM",
-        "ENCHANTED_MAGMA_CREAM",
-        "WHIPPED_MAGMA_CREAM"
-      ]
-    },
-    {
-      "id": "INFERNO_HYPERGOLIC_GLOWSTONE_DUST",
-      "drops": [
-        "GLOWSTONE_DUST",
-        "ENCHANTED_GLOWSTONE_DUST",
-        "ENCHANTED_GLOWSTONE"
-      ]
-    },
-    {
-      "id": "INFERNO_HYPERGOLIC_NETHER_STALK",
-      "drops": [
-        "NETHER_STALK",
-        "ENCHANTED_NETHER_STALK",
-        "MUTANT_NETHER_STALK"
-      ]
-    },
-    {
-      "id": "INFERNO_HYPERGOLIC_BLAZE_ROD",
-      "drops": [
-        "BLAZE_ROD",
-        "ENCHANTED_BLAZE_POWDER",
-        "ENCHANTED_BLAZE_ROD"
-      ]
-    },
-    {
-      "id": "INFERNO_HYPERGOLIC_CRUDE_GABAGOOL",
-      "drops": []
-    }
-  ],
-  "minions": [
-    {
-      "id": "INFERNO",
-      "drops": [
-        "CRUDE_GABAGOOL",
-        "VERY_CRUDE_GABAGOOL",
-        "HYPERGOLIC_IONIZED_CERAMICS",
-        "CHILI_PEPPER",
-        "INFERNO_VERTEX",
-        "INFERNO_APEX",
-        "REAPER_PEPPER",
-        "GABAGOOL_THE_FISH"
-      ]
-    }
-  ]
+  "fuel_drops": {
+    "INFERNO_FUEL_MAGMA_CREAM": [
+      "MAGMA_CREAM",
+      "ENCHANTED_MAGMA_CREAM",
+      "WHIPPED_MAGMA_CREAM"
+    ],
+    "INFERNO_FUEL_GLOWSTONE_DUST": [
+      "GLOWSTONE_DUST",
+      "ENCHANTED_GLOWSTONE_DUST",
+      "ENCHANTED_GLOWSTONE"
+    ],
+    "INFERNO_FUEL_NETHER_STALK": [
+      "NETHER_STALK",
+      "ENCHANTED_NETHER_STALK",
+      "MUTANT_NETHER_STALK"
+    ],
+    "INFERNO_FUEL_BLAZE_ROD": [
+      "BLAZE_ROD",
+      "ENCHANTED_BLAZE_POWDER",
+      "ENCHANTED_BLAZE_ROD"
+    ],
+    "INFERNO_FUEL_CRUDE_GABAGOOL": [],
+    "INFERNO_HEAVY_MAGMA_CREAM": [
+      "MAGMA_CREAM",
+      "ENCHANTED_MAGMA_CREAM",
+      "WHIPPED_MAGMA_CREAM"
+    ],
+    "INFERNO_HEAVY_GLOWSTONE_DUST": [
+      "GLOWSTONE_DUST",
+      "ENCHANTED_GLOWSTONE_DUST",
+      "ENCHANTED_GLOWSTONE"
+    ],
+    "INFERNO_HEAVY_NETHER_STALK": [
+      "NETHER_STALK",
+      "ENCHANTED_NETHER_STALK",
+      "MUTANT_NETHER_STALK"
+    ],
+    "INFERNO_HEAVY_BLAZE_ROD": [
+      "BLAZE_ROD",
+      "ENCHANTED_BLAZE_POWDER",
+      "ENCHANTED_BLAZE_ROD"
+    ],
+    "INFERNO_HEAVY_CRUDE_GABAGOOL": [],
+    "INFERNO_HYPERGOLIC_MAGMA_CREAM": [
+      "MAGMA_CREAM",
+      "ENCHANTED_MAGMA_CREAM",
+      "WHIPPED_MAGMA_CREAM"
+    ],
+    "INFERNO_HYPERGOLIC_GLOWSTONE_DUST": [
+      "GLOWSTONE_DUST",
+      "ENCHANTED_GLOWSTONE_DUST",
+      "ENCHANTED_GLOWSTONE"
+    ],
+    "INFERNO_HYPERGOLIC_NETHER_STALK": [
+      "NETHER_STALK",
+      "ENCHANTED_NETHER_STALK",
+      "MUTANT_NETHER_STALK"
+    ],
+    "INFERNO_HYPERGOLIC_BLAZE_ROD": [
+      "BLAZE_ROD",
+      "ENCHANTED_BLAZE_POWDER",
+      "ENCHANTED_BLAZE_ROD"
+    ],
+    "INFERNO_HYPERGOLIC_CRUDE_GABAGOOL": []
+  },
+  "minions": {
+    "INFERNO": [
+      "CRUDE_GABAGOOL",
+      "VERY_CRUDE_GABAGOOL",
+      "HYPERGOLIC_IONIZED_CERAMICS",
+      "CHILI_PEPPER",
+      "INFERNO_VERTEX",
+      "INFERNO_APEX",
+      "REAPER_PEPPER",
+      "GABAGOOL_THE_FISH"
+    ]
+  }
 }
