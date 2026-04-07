@@ -24,7 +24,7 @@
         "CHANCE": 0.000055555555
       }
     ],
-    "MELON": [
+    "MELON_SLICE": [
       {
         "DROP": "MELON_JUICE",
         "CHANCE": 0.000055555555
@@ -48,7 +48,7 @@
         "CHANCE": 0.000055555555
       }
     ],
-    "POTATOES": [
+    "POTATO": [
       {
         "DROP": "DEEPFRIES",
         "CHANCE": 0.000055555555
