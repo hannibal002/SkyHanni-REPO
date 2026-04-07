@@ -1,0 +1,56 @@
+{
+  "rare_crops": {
+    "SEASONING": {
+      "SOURCE": "IN_SEASON_CROPS",
+      "CHANCE": 0.000444444444
+    },
+    "CORNUCOPIA": {
+      "SOURCE": "WHEAT",
+      "CHANCE": 0.000055555555
+    },
+    "CARROT_ZEST": {
+      "SOURCE": "CARROT",
+      "CHANCE": 0.000055555555
+    },
+    "AGGOURDIAN": {
+      "SOURCE": "PUMPKIN",
+      "CHANCE": 0.000055555555
+    },
+    "CANE_KNOT": {
+      "SOURCE": "SUGAR_CANE",
+      "CHANCE": 0.000055555555
+    },
+    "MELON_JUICE": {
+      "SOURCE": "MELON",
+      "CHANCE": 0.000055555555
+    },
+    "CACTUS_FLOWER": {
+      "SOURCE": "CACTUS",
+      "CHANCE": 0.000055555555
+    },
+    "DESIGNER_COFFEE_BEANS": {
+      "SOURCE": "COCOA_BEANS",
+      "CHANCE": 0.000055555555
+    },
+    "FEASTFUNGUS": {
+      "SOURCE": "MUSHROOM",
+      "CHANCE": 0.000055555555
+    },
+    "BOTROOT": {
+      "SOURCE": "NETHER_WART",
+      "CHANCE": 0.000055555555
+    },
+    "SALTED_SUNFLOWER_SEEDS": {
+      "SOURCE": "SUNFLOWER",
+      "CHANCE": 0.000055555555
+    },
+    "CRYSTALIZED_MOONLIGHT": {
+      "SOURCE": "MOONFLOWER",
+      "CHANCE": 0.000055555555
+    },
+    "FLORAL_GELATIN": {
+      "SOURCE": "WILD_ROSE",
+      "CHANCE": 0.000055555555
+    }
+  }
+}
