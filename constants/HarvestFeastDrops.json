@@ -2,86 +2,86 @@
   "rare_crops": {
     "IN_SEASON_CROPS": [
       {
-        "DROP": "SEASONINGS",
-        "CHANCE": 0.000444444444
+        "drop": "SEASONINGS",
+        "chance": 0.000444444444
       }
     ],
     "CACTUS": [
       {
-        "DROP": "CACTUS_FLOWER",
-        "CHANCE": 0.000055555555
+        "drop": "CACTUS_FLOWER",
+        "chance": 0.000055555555
       }
     ],
     "CARROT": [
       {
-        "DROP": "CARROT_ZEST",
-        "CHANCE": 0.000055555555
+        "drop": "CARROT_ZEST",
+        "chance": 0.000055555555
       }
     ],
     "COCOA_BEANS": [
       {
-        "DROP": "DESIGNER_COFFEE_BEANS",
-        "CHANCE": 0.000055555555
+        "drop": "DESIGNER_COFFEE_BEANS",
+        "chance": 0.000055555555
       }
     ],
     "MELON_SLICE": [
       {
-        "DROP": "MELON_JUICE",
-        "CHANCE": 0.000055555555
+        "drop": "MELON_JUICE",
+        "chance": 0.000055555555
       }
     ],
     "MOONFLOWER": [
       {
-        "DROP": "CRYSTALIZED_MOONLIGHT",
-        "CHANCE": 0.000055555555
+        "drop": "CRYSTALIZED_MOONLIGHT",
+        "chance": 0.000055555555
       }
     ],
     "MUSHROOM": [
       {
-        "DROP": "FEASTFUNGUS",
-        "CHANCE": 0.000055555555
+        "drop": "FEASTFUNGUS",
+        "chance": 0.000055555555
       }
     ],
     "NETHER_WART": [
       {
-        "DROP": "BOTROOT",
-        "CHANCE": 0.000055555555
+        "drop": "BOTROOT",
+        "chance": 0.000055555555
       }
     ],
     "POTATO": [
       {
-        "DROP": "DEEPFRIES",
-        "CHANCE": 0.000055555555
+        "drop": "DEEPFRIES",
+        "chance": 0.000055555555
       }
     ],
     "PUMPKIN": [
       {
-        "DROP": "AGGOURDIAN",
-        "CHANCE": 0.000055555555
+        "drop": "AGGOURDIAN",
+        "chance": 0.000055555555
       }
     ],
     "SUGAR_CANE": [
       {
-        "DROP": "CANE_KNOT",
-        "CHANCE": 0.000055555555
+        "drop": "CANE_KNOT",
+        "chance": 0.000055555555
       }
     ],
     "SUNFLOWER": [
       {
-        "DROP": "SALTED_SUNFLOWER_SEEDS",
-        "CHANCE": 0.000055555555
+        "drop": "SALTED_SUNFLOWER_SEEDS",
+        "chance": 0.000055555555
       }
     ],
     "WHEAT": [
       {
-        "DROP": "CORNUCOPIA",
-        "CHANCE": 0.000055555555
+        "drop": "CORNUCOPIA",
+        "chance": 0.000055555555
       }
     ],
     "WILD_ROSE": [
       {
-        "DROP": "FLORAL_GELATIN",
-        "CHANCE": 0.000055555555
+        "drop": "FLORAL_GELATIN",
+        "chance": 0.000055555555
       }
     ]
   }
