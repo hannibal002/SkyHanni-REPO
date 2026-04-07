@@ -1,60 +1,88 @@
 {
   "rare_crops": {
-    "SEASONINGS": {
-      "SOURCE": "IN_SEASON_CROPS",
-      "CHANCE": 0.000444444444
-    },
-    "AGGOURDIAN": {
-      "SOURCE": "PUMPKIN",
-      "CHANCE": 0.000055555555
-    },
-    "BOTROOT": {
-      "SOURCE": "NETHER_WART",
-      "CHANCE": 0.000055555555
-    },
-    "CACTUS_FLOWER": {
-      "SOURCE": "CACTUS",
-      "CHANCE": 0.000055555555
-    },
-    "CANE_KNOT": {
-      "SOURCE": "SUGAR_CANE",
-      "CHANCE": 0.000055555555
-    },
-    "CARROT_ZEST": {
-      "SOURCE": "CARROT",
-      "CHANCE": 0.000055555555
-    },
-    "CORNUCOPIA": {
-      "SOURCE": "WHEAT",
-      "CHANCE": 0.000055555555
-    },
-    "CRYSTALIZED_MOONLIGHT": {
-      "SOURCE": "MOONFLOWER",
-      "CHANCE": 0.000055555555
-    },
-    "DEEPFRIES": {
-      "SOURCE": "POTATOES",
-      "CHANCE": 0.000055555555
-    },
-    "DESIGNER_COFFEE_BEANS": {
-      "SOURCE": "COCOA_BEANS",
-      "CHANCE": 0.000055555555
-    },
-    "FEASTFUNGUS": {
-      "SOURCE": "MUSHROOM",
-      "CHANCE": 0.000055555555
-    },
-    "FLORAL_GELATIN": {
-      "SOURCE": "WILD_ROSE",
-      "CHANCE": 0.000055555555
-    },
-    "MELON_JUICE": {
-      "SOURCE": "MELON",
-      "CHANCE": 0.000055555555
-    },
-    "SALTED_SUNFLOWER_SEEDS": {
-      "SOURCE": "SUNFLOWER",
-      "CHANCE": 0.000055555555
-    },
+    "IN_SEASON_CROPS": [
+      {
+        "DROP": "SEASONINGS",
+        "CHANCE": 0.000444444444
+      }
+    ],
+    "CACTUS": [
+      {
+        "DROP": "CACTUS_FLOWER",
+        "CHANCE": 0.000055555555
+      }
+    ],
+    "CARROT": [
+      {
+        "DROP": "CARROT_ZEST",
+        "CHANCE": 0.000055555555
+      }
+    ],
+    "COCOA_BEANS": [
+      {
+        "DROP": "DESIGNER_COFFEE_BEANS",
+        "CHANCE": 0.000055555555
+      }
+    ],
+    "MELON": [
+      {
+        "DROP": "MELON_JUICE",
+        "CHANCE": 0.000055555555
+      }
+    ],
+    "MOONFLOWER": [
+      {
+        "DROP": "CRYSTALIZED_MOONLIGHT",
+        "CHANCE": 0.000055555555
+      }
+    ],
+    "MUSHROOM": [
+      {
+        "DROP": "FEASTFUNGUS",
+        "CHANCE": 0.000055555555
+      }
+    ],
+    "NETHER_WART": [
+      {
+        "DROP": "BOTROOT",
+        "CHANCE": 0.000055555555
+      }
+    ],
+    "POTATOES": [
+      {
+        "DROP": "DEEPFRIES",
+        "CHANCE": 0.000055555555
+      }
+    ],
+    "PUMPKIN": [
+      {
+        "DROP": "AGGOURDIAN",
+        "CHANCE": 0.000055555555
+      }
+    ],
+    "SUGAR_CANE": [
+      {
+        "DROP": "CANE_KNOT",
+        "CHANCE": 0.000055555555
+      }
+    ],
+    "SUNFLOWER": [
+      {
+        "DROP": "SALTED_SUNFLOWER_SEEDS",
+        "CHANCE": 0.000055555555
+      }
+    ],
+    "WHEAT": [
+      {
+        "DROP": "CORNUCOPIA",
+        "CHANCE": 0.000055555555
+      }
+    ],
+    "WILD_ROSE": [
+      {
+        "DROP": "FLORAL_GELATIN",
+        "CHANCE": 0.000055555555
+      }
+    ]
   }
 }
