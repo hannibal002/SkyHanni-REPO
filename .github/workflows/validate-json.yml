@@ -24,7 +24,9 @@ jobs:
       - name: Validate JSON files
         if: steps.changed.outputs.any_changed == 'true'
         id: validate
-        run: .github/scripts/validate-json.sh
+        run: |
+          chmod +x .github/scripts/validate-json.sh
+          ./.github/scripts/validate-json.sh
         env:
           CHANGED_FILES: ${{ steps.changed.outputs.all_changed_files }}
 
