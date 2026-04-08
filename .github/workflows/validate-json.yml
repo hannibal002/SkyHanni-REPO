@@ -1,0 +1,64 @@
+name: "Validate JSON"
+on:
+  pull_request:
+    paths:
+      - "**.json"
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get changed files
+        id: changed
+        uses: tj-actions/changed-files@v45
+        with:
+          files: "**.json"
+
+      - name: Validate JSON files
+        if: steps.changed.outputs.any_changed == 'true'
+        id: validate
+        run: |
+          errors=0
+          report=""
+          for file in ${{ steps.changed.outputs.all_changed_files }}; do
+              result=$(python3 -m json.tool "$file" 2>&1 > /dev/null) || true
+              if [ -n "$result" ]; then
+                  echo "::error file=$file::Invalid JSON"
+                  report="${report}### \`${file}\`\n${result}\n\n"
+                  errors=$((errors + 1))
+              fi
+          done
+          if [ "$errors" -gt 0 ]; then
+              {
+                  echo "report<<EOF"
+                  echo -e "$report"
+                  echo "EOF"
+              } >> "$GITHUB_OUTPUT"
+              echo "failed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Comment on PR
+        if: steps.validate.outputs.failed == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = `## JSON Validation Failed\n\n${process.env.REPORT}`;
+            await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body,
+            });
+        env:
+          REPORT: ${{ steps.validate.outputs.report }}
+
+      - name: Fail if invalid
+        if: steps.validate.outputs.failed == 'true'
+        run: exit 1
