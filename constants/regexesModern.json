@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "88921bd",
+  "sourceLabel": "833bc7b",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -516,7 +516,7 @@
     "event.winter.drank.jyrre": "§7You consumed a §r§6Refined Bottle of Jyrre §r§7and gained §r§b\\+300✎ Intelligence §r§7for §r§a60m§r§7!",
     "event.winter.giftapi.giftname": "(?:WHITE|RED|GREEN)_GIFT$",
     "event.winter.newyearcake.reminder.sidebar": "§dNew Year Event!§f (?\u003ctime\u003e.*)",
-    "event.winter.reindrakewarphelper.spawn.message": "WOAH! .+ summoned (?:a Reindrake|TWO Reindrakes) from the depths!",
+    "event.winter.reindrake.spawn.message": "WOAH! .+ summoned (?:a Reindrake|TWO Reindrakes) from the depths!",
     "event.winter.uniquegifts.gifted.colorless": "\\+1 Unique Gift given! To (?\u003cplayer\u003e.+)!",
     "event.winter.uniqugifts.counter.amount": "§7Unique Players Gifted: §a(?\u003camount\u003e.*)",
     "event.year-of-the-pig.chat.orb.charged.colorless": "SHINY! The orb is charged! Click on it for loot!",
@@ -1376,6 +1376,8 @@
     "misc.piggybank.broke": "§cYou died, lost [\\d.,]* coins and your piggy bank broke!",
     "misc.piggybank.cracked": "§cYou died and your piggy bank cracked!",
     "misc.restore.wizard.portal.earned": "Earned by:.*",
+    "misc.spider-relic.chat.duplicate": "You\u0027ve already found this relic!|You\u0027ve already found all the relics!",
+    "misc.spider-relic.chat.found": "\\+[\\d,]+ Coins! \\(\\d+/\\d+ Relics\\)",
     "misc.statsbreakdown.showallstats": "§7Show all stats: §.(?\u003ctoggle\u003e.*)",
     "misc.teleportpad.name": "§.✦ §aWarp To (?\u003cname\u003e.*)",
     "misc.teleportpad.noname": "§.✦ §cNo Destination",
