@@ -39,6 +39,14 @@
       "extra_info": [
         "Hypixel has announced that you have until February 24th to update to 1.21.10+"
       ]
+    },
+    "1.21.10": {
+      "config_info": [
+        "1.21.10 is no longer receiving SkyHanni updates",
+        "With the release of 26.1, Hypixel will drop support for 1.21.10 anytime now",
+        "It is highly recommended to update to 1.21.11 right now"
+      ],
+      "luck_amount": -10
     }
   }
 }

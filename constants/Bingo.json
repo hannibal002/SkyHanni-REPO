@@ -61,204 +61,241 @@
         "your rod and fish with it."
       ]
     },
-    "Secret Goal 1": {
-      "difficulty": "",
+    "Gladiator": {
+      "difficulty": "Easy",
       "note": [
-        ""
+        "Enter Combat in the Colosseum"
       ],
-      "found": "?",
+      "found": "phil",
       "guide": [
-        ""
+        "For this you'll want to",
+        "fish up a Sea Creature in a pond",
+        "there and kill it."
       ]
     },
-    "Secret Goal 2": {
-      "difficulty": "",
+    "Animal Farm": {
+      "difficulty": "Easy",
       "note": [
-        ""
+        "Place all 5 Husbandry Minions"
       ],
-      "found": "?",
+      "found": "Pigical",
       "guide": [
-        ""
+        "This needs a t1 minion each of:",
+        "Pig, Cow, Chicken, Sheep and Rabbit.",
+        "Place them down on your island."
       ]
     },
-    "Secret Goal 3": {
-      "difficulty": "",
+    "Beethoven": {
+      "difficulty": "Easy",
       "note": [
-        ""
+        "Hit 1 correct note on Hymn to the Joy"
       ],
-      "found": "?",
+      "found": "spookwy",
       "guide": [
-        ""
+        "For this you'll need to reach the Acacia Area",
+        "in Park. Once you hit a correct note on",
+        "Hymn to the Joy in Melodys Harp stop hitting any notes."
       ]
     },
-    "Secret Goal 4": {
-      "difficulty": "",
+    "Twenty Thousand Leagues Under the Sea": {
+      "difficulty": "Medium",
       "note": [
-        ""
+        "Reach the Jade Dragon's Lair"
       ],
-      "found": "?",
+      "found": "Kreeperwide",
       "guide": [
-        ""
+        "For this you'll need Galatea access",
+        "(Foraging 12), HOTF 4, Snorkeling Armor",
+        "and 1.3m whispers."
       ]
     },
-    "Secret Goal 5": {
-      "difficulty": "",
+    "The Call of the Wild": {
+      "difficulty": "Easy",
       "note": [
-        ""
+        "Receive an Abiphone call in Wilderness"
       ],
-      "found": "?",
+      "found": "phil",
       "guide": [
-        ""
+        "For this you'll want to add either",
+        "Elizabeth, Taylor or Agatha and then",
+        "run /warp da immediately."
       ]
     },
-    "Secret Goal 6": {
-      "difficulty": "",
+    "Frankenstein": {
+      "difficulty": "Easy",
       "note": [
-        ""
+        "Wear 4 armor pieces from different rarities"
       ],
       "found": "?",
       "guide": [
-        ""
+        "Ideally you'd wanna use",
+        "a common, an uncommon,",
+        "a rare and an epic piece."
       ]
     },
-    "Secret Goal 7": {
-      "difficulty": "",
+    "A Wrinkle in Time": {
+      "difficulty": "Medium",
       "note": [
-        ""
+        "Talk to the Wizard in The Hub, The Rift, and The Garden"
       ],
-      "found": "?",
+      "found": "Barni",
       "guide": [
-        ""
+        "This requires SkyBlock Level 12, Garden 3",
+        "and luck with getting the visitor :)",
+        "Try to unlock as few visitors as possible",
+        "before you get him in your Garden."
       ]
     },
-    "Secret Goal 8": {
-      "difficulty": "",
+    "The Lord of the Rings": {
+      "difficulty": "Hard",
       "note": [
-        ""
+        "Drop an Eternal Flame Ring in its structure"
       ],
       "found": "?",
       "guide": [
-        ""
+        "For this you'll need HOTM 4 and Fishing 19",
+        "to fish up Flaming Worms. You'll then need",
+        "a specific location to drop the ring in."
       ]
     },
-    "Secret Goal 9": {
-      "difficulty": "",
+    "Fantastic Beasts and Where to Find Them": {
+      "difficulty": "Medium",
       "note": [
-        ""
+        "Unlock 20 different Mobtypes"
       ],
-      "found": "?",
+      "found": "Medua",
       "guide": [
-        ""
+        "Don't forget to talk to Ike and Mike",
+        "in the Spiders Den to unlock /mobtypes."
       ]
     },
-    "Secret Goal 10": {
-      "difficulty": "",
+    "Crime and Punishment": {
+      "difficulty": "Medium",
       "note": [
-        ""
+        "Kill all 5 Team Treasurite Members"
       ],
-      "found": "?",
+      "found": "Mackola",
       "guide": [
-        ""
+        "This will also need HOTM 4",
+        "and require you to kill everyone",
+        "from the Grunt Bestiary and",
+        "Boss Corleone."
       ]
     },
-    "Secret Goal 11": {
-      "difficulty": "",
+    "The Day of the Triffids": {
+      "difficulty": "Easy",
       "note": [
-        ""
+        "Get killed by an Ent"
       ],
-      "found": "?",
+      "found": "Cybl",
       "guide": [
-        ""
+        "For this you'll also need Galatea access",
+        "and Fishing 12 to be fished up."
       ]
     },
-    "Secret Goal 12": {
-      "difficulty": "",
+    "Wuthering Heights": {
+      "difficulty": "Medium",
       "note": [
-        ""
+        "Kill a Wither type mob with Fall Damage"
       ],
       "found": "?",
       "guide": [
-        ""
+        "Ideally you'll want to use",
+        "Obsidian Defenders for this."
       ]
     },
-    "Secret Goal 13": {
-      "difficulty": "",
+    "Vanity Fair": {
+      "difficulty": "Medium",
       "note": [
-        ""
+        "Stare at yourself for 30s in the Mirrorverse"
       ],
-      "found": "?",
+      "found": "erikeriklol",
       "guide": [
-        ""
+        "For this you'll need SkyBlock Level 12",
+        "and about 11 Minutes of Rift Time",
+        "to reach the Mirrorverse."
       ]
     },
-    "Secret Goal 14": {
-      "difficulty": "",
+    "Se7en": {
+      "difficulty": "Medium",
       "note": [
-        ""
+        "Get 7 different pests in your Garden"
       ],
-      "found": "?",
+      "found": "Presto",
       "guide": [
-        ""
+        "This needs either Garden 6 and a",
+        "Field Mouse in your Pest Trap or",
+        "Garden 7."
       ]
     },
-    "Secret Goal 15": {
-      "difficulty": "",
+    "A Whack on the Side of the Head": {
+      "difficulty": "Easy",
       "note": [
-        ""
+        "Hit a Sven Packmaster with a stick"
       ],
       "found": "?",
       "guide": [
-        ""
+        "All you need for this is",
+        "a t1 and t2 kill of Revenant Horror",
+        "and Spider Slayer to then spawn a t1 Sven."
       ]
     },
-    "Secret Goal 16": {
-      "difficulty": "",
+    "Joker": {
+      "difficulty": "Medium",
       "note": [
-        ""
+        "Fart at a Star Cult meeting"
       ],
-      "found": "?",
+      "found": "Loading0987",
       "guide": [
-        ""
+        "For this you'll need a Red Nose",
+        "to reforge any helmet to Ridiculous",
+        "and trigger its ability at a Star Cult Meeting."
       ]
     },
-    "Secret Goal 17": {
-      "difficulty": "",
+    "Mad Hatter": {
+      "difficulty": "Medium",
       "note": [
-        ""
+        "Drink Tea while wearing a rabbit hat and any tuxedo"
       ],
-      "found": "?",
+      "found": "Mani",
       "guide": [
-        ""
+        "For this you'll need 500 Cactus Collection,",
+        "Fishing 14 and 3m coins."
       ]
     },
-    "Secret Goal 18": {
-      "difficulty": "",
+    "***** ****": {
+      "difficulty": "Medium",
       "note": [
-        ""
+        "Get defeated by Rollim and Kaus"
       ],
-      "found": "?",
+      "found": "JnR_Phase",
       "guide": [
-        ""
+        "For this you'll need Combat 22",
+        "and need to do the Faction Quests till",
+        "it says 0 Reputation to then swap."
       ]
     },
-    "Secret Goal 19": {
-      "difficulty": "",
+    "The Wailing": {
+      "difficulty": "Medium",
       "note": [
-        ""
+        "Kill a Banshee with a Jukebox"
       ],
-      "found": "?",
+      "found": "arithemonkey",
       "guide": [
-        ""
+        "For this you'll need access to",
+        "Backwater Bayou and Fishing 10."
       ]
     },
-    "Secret Goal 20": {
-      "difficulty": "",
+    "The Old Man and the Sea": {
+      "difficulty": "Hard",
       "note": [
-        ""
+        "Talk to Old Man Garry with  Seagull Shard"
       ],
       "found": "?",
       "guide": [
-        ""
+        "For this you can either",
+        "fuse 5 Bambooleaf Shards with a Chameleon",
+        "or craft it from Mangrove Collection 7."
       ]
     }
   }

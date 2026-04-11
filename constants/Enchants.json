@@ -875,7 +875,7 @@
       "goodLevel": 0,
       "maxLevel": 10,
       "statLabel": "cultivatedCrops",
-      "stackLevel": [0, 1000, 5000, 25000, 100000, 300000, 1500000, 5000000, 20000000, 100000000]
+      "stackLevel": [0, 1000, 5000, 25000, 100000, 250000, 1000000, 2500000, 10000000, 2500000]
     },
     "expertise": {
       "loreName": "Expertise",

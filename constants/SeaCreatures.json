@@ -139,7 +139,7 @@
       "Frozen Steve": {
         "chat_message": "Frozen Steve fell into the pond long ago, never to resurface...until now!",
         "alternate_messages": [
-          "§aFrozen Steve fell into the pond long ago, never to resurface...until now!"
+          "§aFrozen Steve fell into the pond long ago, never to §rresurface...until§r now!"
         ],
         "fishing_experience": 101,
         "rarity": "COMMON"
@@ -167,8 +167,7 @@
           "§aYou found a forgotten Nutcracker laying beneath the ice."
         ],
         "fishing_experience": 950,
-        "rarity": "LEGENDARY",
-        "rare": true
+        "rarity": "EPIC"
       },
       "Yeti": {
         "chat_message": "What is this creature!?",
