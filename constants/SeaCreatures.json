@@ -115,8 +115,7 @@
       "Nutcracker": {
         "chat_message": "§aYou found a forgotten Nutcracker laying beneath the ice.",
         "fishing_experience": 950,
-        "rarity": "LEGENDARY",
-        "rare": true
+        "rarity": "EPIC"
       },
       "Yeti": {
         "chat_message": "§aWhat is this creature!?",
