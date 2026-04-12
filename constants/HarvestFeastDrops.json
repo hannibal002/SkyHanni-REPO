@@ -1,0 +1,88 @@
+{
+  "rare_crops": {
+    "IN_SEASON_CROPS": [
+      {
+        "drop": "SEASONINGS",
+        "chance": 0.000444444444
+      }
+    ],
+    "CACTUS": [
+      {
+        "drop": "CACTUS_FLOWER",
+        "chance": 0.000055555555
+      }
+    ],
+    "CARROT": [
+      {
+        "drop": "CARROT_ZEST",
+        "chance": 0.000055555555
+      }
+    ],
+    "COCOA_BEANS": [
+      {
+        "drop": "DESIGNER_COFFEE_BEANS",
+        "chance": 0.000055555555
+      }
+    ],
+    "MELON": [
+      {
+        "drop": "MELON_JUICE",
+        "chance": 0.000055555555
+      }
+    ],
+    "MOONFLOWER": [
+      {
+        "drop": "CRYSTALIZED_MOONLIGHT",
+        "chance": 0.000055555555
+      }
+    ],
+    "MUSHROOM": [
+      {
+        "drop": "FEASTFUNGUS",
+        "chance": 0.000055555555
+      }
+    ],
+    "NETHER_WART": [
+      {
+        "drop": "BOTROOT",
+        "chance": 0.000055555555
+      }
+    ],
+    "POTATO": [
+      {
+        "drop": "DEEPFRIES",
+        "chance": 0.000055555555
+      }
+    ],
+    "PUMPKIN": [
+      {
+        "drop": "AGGOURDIAN",
+        "chance": 0.000055555555
+      }
+    ],
+    "SUGAR_CANE": [
+      {
+        "drop": "CANE_KNOT",
+        "chance": 0.000055555555
+      }
+    ],
+    "SUNFLOWER": [
+      {
+        "drop": "SALTED_SUNFLOWER_SEEDS",
+        "chance": 0.000055555555
+      }
+    ],
+    "WHEAT": [
+      {
+        "drop": "CORNUCOPIA",
+        "chance": 0.000055555555
+      }
+    ],
+    "WILD_ROSE": [
+      {
+        "drop": "FLORAL_GELATIN",
+        "chance": 0.000055555555
+      }
+    ]
+  }
+}
