@@ -73,6 +73,12 @@
         "Caught a IllegalStateException in at.hannibal2.skyhanni.features.bingo.BingoApi.onSecondPassed"
       ],
       "fixed_in": "7.14.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.event.lobby.waypoints.easter.EasterEggWaypoints.onSecondPassed()"
+      ],
+      "fixed_in": "7.12.0"
     }
   ]
 }
