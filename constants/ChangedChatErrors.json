@@ -79,6 +79,12 @@
         "Caught a IllegalStateException in at.hannibal2.skyhanni.features.event.lobby.waypoints.easter.EasterEggWaypoints.onSecondPassed()"
       ],
       "fixed_in": "7.12.0"
+    },
+    {
+      "message_starts_with": [
+        "DelayedRun task crashed while executing"
+      ],
+      "fixed_in": "7.12.0"
     }
   ]
 }
