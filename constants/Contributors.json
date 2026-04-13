@@ -100,14 +100,14 @@
     },
     "owoLuna": {
       "suffix": "§5:3"
+      "alt from": "qtLuna"
     },
     "oxsss": {},
     "PolarBlunk": {
       "suffix": "§d:3"
     },
     "qtLuna": {
-      "suffix": "§5:3",
-      "alt from": "owoLuna"
+      "suffix": "§5:3"
     },
     "ReyMaratov": {},
     "RobotHanzo": {
