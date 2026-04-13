@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "833bc7b",
+  "sourceLabel": "9172692",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -201,7 +201,7 @@
     "crimson.rescue.recruiter": "§e\\[NPC] §eRescue Recruiter§f: §rYou want to help us rescue a hostage from those filthy brutes over there\\?",
     "crimson.rescue.start": "\\[NPC] Undercover Agent: Here\u0027s what you need to do.",
     "crimson.rescue.tier": "§.(?\u003ctier\u003e.) §.Rescue Mission",
-    "crimson.sirih.helper": "§e\\[NPC] §dSirih§f: §rOink\\.",
+    "crimson.sirih.helper.colorless": "\\[NPC] Sirih:(?: ✆)? Oink.",
     "data.abiphone.contacts": "Your contacts: (?\u003ccontacts\u003e\\d+)\\/\\d+",
     "data.abiphone.name": "Abiphone .*",
     "data.accessory.bagname.new": "Accessory Bag.*",
