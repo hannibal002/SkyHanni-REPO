@@ -246,5 +246,8 @@
     "CURSUS_FERAE",
     "APEX_PRAEDATOR",
     "NEX_TITANUM"
+  ],
+  "has_legacy_gemstone_slots": [
+    "GIANT_FISHING_ROD"
   ]
 }
