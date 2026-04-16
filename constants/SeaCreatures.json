@@ -185,7 +185,8 @@
         ],
         "fishing_experience": 0,
         "rarity": "MYTHIC",
-        "rare": true
+        "rare": true,
+        "lootshareSphereOverride": false
       }
     }
   },
