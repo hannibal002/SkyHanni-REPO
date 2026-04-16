@@ -85,6 +85,12 @@
         "DelayedRun task crashed while executing"
       ],
       "fixed_in": "7.12.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.inventory.chocolatefactory.data.CFDataLoader.onInventoryUpdated(at.hannibal2.skyhanni.events.InventoryUpdatedEvent) at InventoryUpdatedEvent: Rendersystem called from wrong thread"
+      ],
+      "fixed_in": "7.12.0"
     }
   ]
 }
