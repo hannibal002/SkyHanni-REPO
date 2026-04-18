@@ -1,6 +1,21 @@
 {
   "enforced_config_values": [
     {
+      "enforcedValues": [],
+      "minimumAffectedVersion": "8.0.0",
+      "affectedVersion": "8.0.2",
+      "notificationPSA": [
+        "§c§lThe version of SkyHanni you have installed contains malware.",
+        "§c§lYou should IMMEDIATELY remove it and change any important passwords.",
+        "§c§lYou can download a safe version of the mod from Modrinth."
+      ],
+      "chatPSA": [
+        "§c§lThe version of SkyHanni you have installed contains malware.",
+        "§c§lYou should IMMEDIATELY remove it and change any important passwords.",
+        "§c§lYou can download a safe version of the mod from Modrinth."
+      ]
+    },
+    {
       "enforcedValues": [
         {
           "path": "misc.fixDoubleClicks",
