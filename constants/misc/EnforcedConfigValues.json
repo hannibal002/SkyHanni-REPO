@@ -13,6 +13,10 @@
       "enforcedValues": [],
       "minimumAffectedVersion": "8.0.0",
       "affectedVersion": "8.0.2",
+      "affectedMinecraftVersions": [
+        "1.21.10",
+        "1.21.11"
+      ],
       "notificationPSA": [
         "§c§lThe version of SkyHanni you have installed contains malware.",
         "§c§lYou should IMMEDIATELY remove it and change any important passwords.",
