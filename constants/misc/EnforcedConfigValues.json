@@ -1,6 +1,15 @@
 {
   "enforced_config_values": [
     {
+      "enforcedValues": [
+        {
+          "path": "about.fullAutoUpdates",
+          "value": false
+        }
+      ],
+      "affectedVersion": "99.99.99"
+    },
+    {
       "enforcedValues": [],
       "minimumAffectedVersion": "8.0.0",
       "affectedVersion": "8.0.2",
