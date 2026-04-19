@@ -6,7 +6,7 @@
   },
   "unofficial": {
     "name": "Unofficial SkyBlock Wiki",
-    "urlPrefix": "https://hypixel-skyblock.fandom.com/wiki/",
-    "searchPrefix": "Special:Search?query="
+    "urlPrefix": "https://hypixelskyblock.minecraft.wiki/",
+    "searchPrefix": "?title=Special:Search&search="
   }
 }
