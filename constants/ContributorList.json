@@ -81,6 +81,7 @@
     },
     "6f8c7b61-42d8-4c4a-b4dc-c47e3aa75b30": {
       "suffix": "§6§lツ",
+      "componentSuffix": {"atlas":"items", "color": "white", "sprite":"item/panda_spawn_egg"},
       "display_name": "FabiHBBBT"
     },
     "b5d37739-6c0c-4693-8074-9e86345d0929": {
