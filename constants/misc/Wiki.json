@@ -5,8 +5,8 @@
     "searchPrefix": "index.php?search="
   },
   "unofficial": {
-    "name": "Unofficial SkyBlock Wiki",
-    "urlPrefix": "https://hypixel-skyblock.fandom.com/wiki/",
-    "searchPrefix": "Special:Search?query="
+    "name": "Independent SkyBlock Wiki",
+    "urlPrefix": "https://hypixelskyblock.minecraft.wiki/w/",
+    "searchPrefix": "?title=Special:Search&search="
   }
 }
