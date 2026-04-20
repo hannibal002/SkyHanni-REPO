@@ -17397,7 +17397,8 @@
     "Position": "496.0:107.0:556.0",
     "Name": "Emissary Sisko",
     "Tags": [
-      "mines_emissary"
+      "mines_emissary",
+      "npc"
     ],
     "Neighbours": {
       "2317": 2.24,

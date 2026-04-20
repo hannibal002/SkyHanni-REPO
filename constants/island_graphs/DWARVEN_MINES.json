@@ -1271,7 +1271,8 @@
     "Position": "171.0:151.0:32.0",
     "Name": "Emissary Wilson",
     "Tags": [
-      "mines_emissary"
+      "mines_emissary",
+      "npc"
     ],
     "Neighbours": {
       "147": 3.0,
@@ -1683,7 +1684,8 @@
     "Position": "-132.0:175.0:-51.0",
     "Name": "Emissary Fraiser",
     "Tags": [
-      "mines_emissary"
+      "mines_emissary",
+      "npc"
     ],
     "Neighbours": {
       "1201": 2.45,
@@ -3155,7 +3157,8 @@
     "Position": "-74.0:154.0:-11.0",
     "Name": "Emissary Carlton",
     "Tags": [
-      "mines_emissary"
+      "mines_emissary",
+      "npc"
     ],
     "Neighbours": {
       "1724": 2.45,
@@ -4733,7 +4736,8 @@
     "Position": "129.0:196.0:194.0",
     "Name": "King",
     "Tags": [
-      "mines_emissary"
+      "mines_emissary",
+      "npc"
     ],
     "Neighbours": {
       "1801": 3.0,
@@ -4948,7 +4952,8 @@
     "Position": "43.0:136.0:22.0",
     "Name": "Emissary Ceanna",
     "Tags": [
-      "mines_emissary"
+      "mines_emissary",
+      "npc"
     ],
     "Neighbours": {
       "2423": 3.0,
@@ -7377,7 +7382,8 @@
     "Position": "88.0:199.0:-94.0",
     "Name": "Emissary Braum",
     "Tags": [
-      "mines_emissary"
+      "mines_emissary",
+      "npc"
     ],
     "Neighbours": {
       "1819": 3.0,
@@ -7758,7 +7764,8 @@
     "Position": "-38.0:201.0:-131.0",
     "Name": "Emissary Eliza",
     "Tags": [
-      "mines_emissary"
+      "mines_emissary",
+      "npc"
     ],
     "Neighbours": {
       "1895": 4.47,
@@ -9251,7 +9258,8 @@
     "Position": "58.0:199.0:-10.0",
     "Name": "Emissary Lilith",
     "Tags": [
-      "mines_emissary"
+      "mines_emissary",
+      "npc"
     ],
     "Neighbours": {
       "1061": 2.24,
