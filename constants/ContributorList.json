@@ -153,6 +153,10 @@
       "suffix": "§9:D",
       "display_name": "minhperry02"
     },
+    "d79225df-8382-4760-8afe-6c3a68887412": {
+      "componentSuffix": {"atlas":"items", "color": "white", "sprite":"item/axolotl_bucket"},
+      "display_name": "MTOnline"
+    },
     "bcf51b2e-9023-4125-984b-f89b28ce84bf": {
       "suffix": "§d§l:3",
       "display_name": "NeoNyaa"
