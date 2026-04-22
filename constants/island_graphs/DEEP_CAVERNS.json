@@ -3,7 +3,7 @@
     "Position": "4.0:158.0:79.0",
     "Name": "/warp deep",
     "Tags": [
-      "teleport"
+      "warp"
     ],
     "Neighbours": {
       "994": 2.0,
@@ -102,7 +102,7 @@
     "Position": "44.0:151.0:15.0",
     "Name": "Lift Gunpowder Mines",
     "Tags": [
-      "teleport"
+      "dev"
     ],
     "Neighbours": {
       "971": 2.0,
@@ -1636,7 +1636,7 @@
     "Position": "44.0:14.0:15.0",
     "Name": "Lift Obsidian Sanctuary",
     "Tags": [
-      "teleport"
+      "dev"
     ],
     "Neighbours": {
       "976": 2.0,
@@ -1647,7 +1647,7 @@
     "Position": "44.0:122.0:15.0",
     "Name": "Lift Lapis Quarry",
     "Tags": [
-      "teleport"
+      "dev"
     ],
     "Neighbours": {
       "972": 1.0,
@@ -1687,7 +1687,7 @@
     "Position": "52.0:102.0:15.0",
     "Name": "Lift Pigmen\u0027s Den",
     "Tags": [
-      "teleport"
+      "dev"
     ],
     "Neighbours": {
       "974": 5.0
@@ -1903,7 +1903,7 @@
     "Position": "44.0:67.0:15.0",
     "Name": "Lift Slimehill",
     "Tags": [
-      "teleport"
+      "dev"
     ],
     "Neighbours": {
       "975": 1.0,
@@ -2096,7 +2096,7 @@
     "Position": "43.0:39.0:16.0",
     "Name": "Lift Diamond Reserve",
     "Tags": [
-      "teleport"
+      "dev"
     ],
     "Neighbours": {
       "970": 2.24,
@@ -2822,9 +2822,9 @@
   },
   "332": {
     "Position": "4.0:158.0:88.0",
-    "Name": "Gold Mines",
+    "Name": "GOLD_MINES",
     "Tags": [
-      "teleport"
+      "jump_pad"
     ],
     "Neighbours": {
       "992": 4.0
@@ -2910,13 +2910,13 @@
     "Position": "41.0:156.0:25.0",
     "Name": "aote",
     "Tags": [
-      "teleport"
+      "dev"
     ],
     "Neighbours": {
+      "995": 2.24,
       "796": 3.16,
-      "797": 4.58,
+      "797": 4.12,
       "341": 6.16,
-      "963": 7.87,
       "343": 8.83
     }
   },
@@ -6426,9 +6426,9 @@
     }
   },
   "797": {
-    "Position": "37.0:154.0:24.0",
+    "Position": "37.0:156.0:24.0",
     "Neighbours": {
-      "10": 5.83
+      "10": 7.07
     }
   },
   "798": {
@@ -7941,6 +7941,12 @@
     "Neighbours": {
       "0": 2.0,
       "270": 6.0
+    }
+  },
+  "995": {
+    "Position": "43.0:155.0:25.0",
+    "Neighbours": {
+      "963": 5.92
     }
   }
 }

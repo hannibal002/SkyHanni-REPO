@@ -8,7 +8,7 @@
   },
   "1": {
     "Position": "-223.0:74.0:-16.0",
-    "Name": "The Park",
+    "Name": "THE_PARK",
     "Tags": [
       "jump_pad"
     ],
@@ -8358,7 +8358,7 @@
   },
   "1024": {
     "Position": "-1.0:65.0:-190.0",
-    "Name": "Gold Mine",
+    "Name": "GOLD_MINES",
     "Tags": [
       "jump_pad"
     ],
@@ -10514,7 +10514,7 @@
   },
   "1261": {
     "Position": "85.0:73.0:-152.0",
-    "Name": "The Farming Islands",
+    "Name": "THE_FARMING_ISLANDS",
     "Tags": [
       "jump_pad"
     ],
@@ -13448,7 +13448,7 @@
   },
   "1585": {
     "Position": "0.0:71.0:-25.0",
-    "Name": "Your Island",
+    "Name": "PRIVATE_ISLAND",
     "Tags": [
       "jump_pad"
     ],
@@ -13458,7 +13458,7 @@
   },
   "1586": {
     "Position": "3.0:71.0:-28.0",
-    "Name": "Your Island",
+    "Name": "PRIVATE_ISLAND",
     "Tags": [
       "jump_pad"
     ],
@@ -13468,7 +13468,7 @@
   },
   "1587": {
     "Position": "0.0:71.0:-31.0",
-    "Name": "Your Island",
+    "Name": "PRIVATE_ISLAND",
     "Tags": [
       "jump_pad"
     ],
@@ -13478,7 +13478,7 @@
   },
   "1588": {
     "Position": "-3.0:71.0:-28.0",
-    "Name": "Your Island",
+    "Name": "PRIVATE_ISLAND",
     "Tags": [
       "jump_pad"
     ],
@@ -14278,7 +14278,7 @@
   },
   "1670": {
     "Position": "-34.0:73.0:26.0",
-    "Name": "Dungeon Hub",
+    "Name": "DUNGEON_HUB",
     "Tags": [
       "jump_pad"
     ],
@@ -14519,7 +14519,7 @@
   },
   "1698": {
     "Position": "-144.0:76.0:-186.0",
-    "Name": "Spider\u0027s Den",
+    "Name": "SPIDER_DEN",
     "Tags": [
       "jump_pad"
     ],
@@ -23514,7 +23514,7 @@
   },
   "2777": {
     "Position": "160.0:71.0:-70.0",
-    "Name": "Backwater Bayou",
+    "Name": "BACKWATER_BAYOU",
     "Tags": [
       "jump_pad"
     ],

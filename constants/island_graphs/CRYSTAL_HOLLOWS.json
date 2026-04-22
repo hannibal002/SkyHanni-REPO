@@ -18604,9 +18604,9 @@
   },
   "2451": {
     "Position": "513.0:107.0:526.0",
-    "Name": "/warp cn",
+    "Name": "/warp nucleus",
     "Tags": [
-      "teleport"
+      "warp"
     ],
     "Neighbours": {
       "2566": 2.0,
