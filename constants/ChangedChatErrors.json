@@ -103,5 +103,6 @@
         "Asynchronous exception caught in election api fetch"
       ],
       "fixed_in": "7.19.0"
+    }
   ]
 }
