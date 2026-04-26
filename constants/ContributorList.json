@@ -250,6 +250,11 @@
       "suffix": "§6:D",
       "display_name": "ThatOneDevil"
     },
+    "681c11ba-9f1a-4e61-99be-8f8a1157fde0": {
+      "suffix": "§d:3",
+      "componentSuffix": {"atlas":"gui", "color": "white", "sprite":"skyhanni:plead"},
+      "display_name": "ThePleader"
+    },
     "88c95c3b-9d23-4d6a-bcdc-f9ad77bec7b6": {
       "display_name": "thisiscad"
     },
