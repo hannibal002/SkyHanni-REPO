@@ -70,9 +70,9 @@
     },
     {
       "message_starts_with": [
-        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.bingo.BingoApi.onSecondPassed"
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.bingo.BingoApi"
       ],
-      "fixed_in": "7.14.0"
+      "fixed_in": "7.19.0"
     },
     {
       "message_starts_with": [
@@ -97,6 +97,11 @@
         "Could not find gemstone slot price for"
       ],
       "fixed_in": "7.12.0"
-    }
+    },
+    {
+      "message_starts_with": [
+        "Asynchronous exception caught in election api fetch"
+      ],
+      "fixed_in": "7.19.0"
   ]
 }
