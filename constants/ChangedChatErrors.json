@@ -109,6 +109,19 @@
         "Could not read category for item"
       ],
       "fixed_in": "7.20.0"
+    },
+    {
+      "message_starts_with": [
+        "Unknown stat: 'OVERBLOOM'"
+      ],
+      "fixed_in": "7.19.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.api.ReforgeApi.onNeuRepoReload",
+        "[Repo - NotEnoughUpdates] Error while posting repo reload event"
+      ],
+      "fixed_in": "7.19.0"
     }
   ]
 }
