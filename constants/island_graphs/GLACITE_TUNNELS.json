@@ -3568,6 +3568,10 @@
   },
   "366": {
     "Position": "-27.0:126.0:300.0",
+    "Name": "Fossil Muncher",
+    "Tags": [
+      "npc"
+    ],
     "Neighbours": {
       "365": 9.49
     }
