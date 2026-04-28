@@ -112,7 +112,7 @@
     },
     {
       "message_starts_with": [
-        "Unknown stat: 'OVERBLOOM'
+        "Unknown stat: 'OVERBLOOM'"
       ],
       "fixed_in": "7.19.0"
     },
