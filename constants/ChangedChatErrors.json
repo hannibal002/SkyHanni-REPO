@@ -103,6 +103,12 @@
         "Asynchronous exception caught in election api fetch"
       ],
       "fixed_in": "7.19.0"
+    },
+    {
+      "message_starts_with": [
+        "Could not read category for item"
+      ],
+      "fixed_in": "7.19.0"
     }
   ]
 }
