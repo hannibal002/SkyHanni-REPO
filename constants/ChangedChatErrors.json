@@ -108,7 +108,7 @@
       "message_starts_with": [
         "Could not read category for item"
       ],
-      "fixed_in": "7.19.0"
+      "fixed_in": "7.20.0"
     }
   ]
 }
