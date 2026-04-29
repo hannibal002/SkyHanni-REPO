@@ -1822,7 +1822,14 @@
     },
     "Taylor": {
       "rarity": "mythic",
-      "need_items": [],
+      "need_items": [
+        "Deepfries",
+        "Salted Sunflower Seeds",
+        "Enchanted Baked Potato",
+        "Floral Gelatin",
+        "Melon Juice",
+        "Compacted Wild Rose"
+      ],
       "unknown_rewards": true
     }
   },
