@@ -133,7 +133,7 @@
       ],
       "minimumAffectedVersion": "7.18.0",
       "affectedVersion": "7.19.0",
-      "extraMessage": "Will be re-enabled next beta"
+      "extraMessage": "Will be re-enabled in 7.20.0 and above"
     }
   ]
 }
