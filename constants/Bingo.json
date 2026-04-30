@@ -1,301 +1,311 @@
 {
   "bingo_tips": {
-    "Good Will Hunting (Community Goal)": {
+    "Scarf Offensive (Community Goal)": {
       "difficulty": "Medium",
       "note": [
-        "Hunt Mobs"
+        "Beat Floor 2 runs"
       ],
-      "found": "Bloxigus",
       "guide": [
-        "For this you'll need a Pocket Black Hole",
-        "and a Hunting Axe from the Galatea Quests."
+        "This needs Combat 15 and a completion",
+        "of the 2 previous floors to enter.",
+        "To efficiently grind this, you should",
+        "get help from Party Finder/Friends."
       ]
     },
-    "Lord of the Flies (Community Goal)": {
+    "Operation: Ore (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Mine Ore Blocks"
+      ],
+      "guide": [
+        "Mine normal or Pure Ores in the Dwarven Mines.",
+        "You'll want to get as much Mining Speed",
+        "and Spread for this as you can.",
+        "Pickobulus is another great helper."
+      ]
+    },
+    "Skilled (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Gain Taming experience"
+      ],
+      "guide": [
+        "You will gain passive progress in this",
+        "by having a pet equipped at all times.",
+        "Even a Lvl 100 pet counts for this."
+      ]
+    },
+    "Enderman Slayer (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Kill Endermen"
+      ],
+      "guide": [
+        "You will need Combat 12 for this.",
+        "Getting a Void Sword and Ender Armor",
+        "will make progress in this easier."
+      ]
+    },
+    "Hunter (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Collect pelts"
+      ],
+      "guide": [
+        "You should use SkyHanni's Trapper features",
+        "to make this easier. Use /warp trapper",
+        "to get back to Trevor whenever you want.",
+        "You will need a bow for this."
+      ]
+    },
+    "Search And Rescue": {
+      "difficulty": "Easy",
+      "note": [
+        "Give Fetchur what he desires"
+      ],
+      "guide": [
+        "Use the wiki to figure out what Fetchur asks for.",
+        "You will need to get into Dwarven Mines to be",
+        "able to even talk to him."
+      ]
+    },
+    "Pufferfish Collector": {
       "difficulty": "Medium",
       "note": [
-        "Catch pests with traps"
+        "4.5k Pufferfish Collection"
       ],
-      "found": "Bloxigus",
       "guide": [
-        "The first tier of traps costs 50 Pests",
-        "from Pesthunter Philip in the Garden.",
-        "You'll also need a Vacuum to collect them."
+        "Fish in the Hub until you can enter the Backwater Bayou.",
+        "Fish there and lootshare mobs until you unlock",
+        "Fishing Minions. Place as many of them on your island,",
+        "as you can and give them the best fuel and storage",
+        "you have access to and don't forget to collect in time."
       ]
     },
-    "Journey to the Center of the Earth (Community Goal)": {
+    "A Best Friend": {
       "difficulty": "Easy",
       "note": [
-        "Complete Mining Commissions"
+        "Craft any pet"
       ],
-      "found": "Bloxigus",
       "guide": [
-        "For this you'll want to talk to the King",
-        "in the Dwarven Mines and do what he tells",
-        "you to. Buy yourself better pickaxes from",
-        "Bubu to help with this."
+        "The easiest solution for this is the Jerry pet.",
+        "For this you only need 8 Move Jerry and an Egg.",
+        "Those drop with a 20% chance from the chicken",
+        "in The Barn."
       ]
     },
-    "The Lorax (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Collect Tree Gifts"
-      ],
-      "found": "Bloxigus",
-      "guide": [
-        "For this you'll want to utilize",
-        "Canopy Armor from Amaury in Galatea.",
-        "You'll need to contribute at least 10%",
-        "to a tree cut to get one."
-      ]
-    },
-    "Treasure Island (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Fish up trash in Backwater Bayou"
-      ],
-      "found": "Bloxigus",
-      "guide": [
-        "For this you'll need to apply the Junk Sinker",
-        "from Junker Joel in the Backwater Bayou to",
-        "your rod and fish with it."
-      ]
-    },
-    "Gladiator": {
-      "difficulty": "Easy",
-      "note": [
-        "Enter Combat in the Colosseum"
-      ],
-      "found": "phil",
-      "guide": [
-        "For this you'll want to",
-        "fish up a Sea Creature in a pond",
-        "there and kill it."
-      ]
-    },
-    "Animal Farm": {
-      "difficulty": "Easy",
-      "note": [
-        "Place all 5 Husbandry Minions"
-      ],
-      "found": "Pigical",
-      "guide": [
-        "This needs a t1 minion each of:",
-        "Pig, Cow, Chicken, Sheep and Rabbit.",
-        "Place them down on your island."
-      ]
-    },
-    "Beethoven": {
-      "difficulty": "Easy",
-      "note": [
-        "Hit 1 correct note on Hymn to the Joy"
-      ],
-      "found": "spookwy",
-      "guide": [
-        "For this you'll need to reach the Acacia Area",
-        "in Park. Once you hit a correct note on",
-        "Hymn to the Joy in Melodys Harp stop hitting any notes."
-      ]
-    },
-    "Twenty Thousand Leagues Under the Sea": {
+    "Enchanter": {
       "difficulty": "Medium",
       "note": [
-        "Reach the Jade Dragon's Lair"
+        "Reach Enchanting 20"
       ],
-      "found": "Kreeperwide",
       "guide": [
-        "For this you'll need Galatea access",
-        "(Foraging 12), HOTF 4, Snorkeling Armor",
-        "and 1.3m whispers."
+        "For this you'll want to unlock the Experimentation Table",
+        "at Enchanting 10 and play the Daily Games."
       ]
     },
-    "The Call of the Wild": {
+    "Love Is All Around": {
       "difficulty": "Easy",
       "note": [
-        "Receive an Abiphone call in Wilderness"
+        "Obtain a Mediocre Ring of Love"
       ],
-      "found": "phil",
       "guide": [
-        "For this you'll want to add either",
-        "Elizabeth, Taylor or Agatha and then",
-        "run /warp da immediately."
+        "Follow the Romero Questline until you ",
+        "get this. You will only need",
+        "1 Yellow Rock, 15 poppies and 64 Emerald."
       ]
     },
-    "Frankenstein": {
-      "difficulty": "Easy",
-      "note": [
-        "Wear 4 armor pieces from different rarities"
-      ],
-      "found": "?",
-      "guide": [
-        "Ideally you'd wanna use",
-        "a common, an uncommon,",
-        "a rare and an epic piece."
-      ]
-    },
-    "A Wrinkle in Time": {
+    "Dwarves Defender": {
       "difficulty": "Medium",
       "note": [
-        "Talk to the Wizard in The Hub, The Rift, and The Garden"
+        "Kill 25 Goblins during a Goblin Raid"
       ],
-      "found": "Barni",
       "guide": [
-        "This requires SkyBlock Level 12, Garden 3",
-        "and luck with getting the visitor :)",
-        "Try to unlock as few visitors as possible",
-        "before you get him in your Garden."
+        "Kill Goblins in the Goblin Burrows",
+        "while an event is going on.",
+        "You need Mining Level 12 for this."
       ]
     },
-    "The Lord of the Rings": {
+    "Skill Average": {
+      "difficulty": "Medium",
+      "note": [
+        "Skill Average of 10"
+      ],
+      "guide": [
+        "To help with this, try to make bigger crafts",
+        "by hand for Carpentry levels.",
+        "Also do your daily experiments and make sure",
+        "to have a pet active at all times",
+        "(any pet works, even level 100)."
+      ]
+    },
+    "Rotten Flesh Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "47.5k Rotten Flesh Collection"
+      ],
+      "guide": [
+        "Kill Zombies in The Hub to unlock Zombie Minions.",
+        "Buy the daily Rotten Flesh from the Adventurer in The Hub",
+        "and place them on your island. Give them the best fuel",
+        "and storage that you have access to and collect in time."
+      ]
+    },
+    "Slayer": {
+      "difficulty": "Medium",
+      "note": [
+        "Reach Slayer Level 4"
+      ],
+      "guide": [
+        "Recommended for this is either Zombie",
+        "or Spider Slayer. You will need a total",
+        "of 1220 XP for that Slayer.",
+        "(T1/T2: 1 each, T3: 11) or",
+        "(T1/T2/T4: 1 each, T3: 2)",
+        "Recommended gear for this is Ender Armor",
+        "and a Void Sword or you can rely",
+        "on help from friends."
+      ]
+    },
+     "Emerald Treasure": {
+      "difficulty": "Medium",
+      "note": [
+        "Unlock an Emerald Dungeon Chest"
+      ],
+      "guide": [
+        "Complete a Floor 1 with a score of 230+",
+        "and buy the chest afterwards. If you can't buy",
+        "immediately, either save money and buy it from",
+        "Croesus within the next 2 days or do another run.",
+        "You will probably need help with this."
+      ]
+    },
+    "Weird Flex": {
+      "difficulty": "Medium",
+      "note": [
+        "Gain 5 Strength from a Training Weight"
+      ],
+      "guide": [
+        "For this you'll want to grab a Training Weight",
+        "from a secret in dungeons and keep it in your",
+        "inventory till it shows a Strength bonus of +5.",
+        "Drop it once it reached that point.",
+        "This will take 100 Minutes of playtime."
+      ]
+    },
+    "Rock Solid": {
+      "difficulty": "Easy",
+      "note": [
+        "Equip a Common+ Rock"
+      ],
+      "guide": [
+        "You will get the Rock Pet by mining 2.5k",
+        "Ore Blocks. Keep in mind that Stone doesn't",
+        "count for this. Don't forget to equip the pet ;)"
+      ]
+    },
+    "Diversity": {
+      "difficulty": "Medium",
+      "note": [
+        "40 unique Collections"
+      ],
+      "guide": [
+        "You can unlock 17/17 Farming Collections,",
+        "6/11 Combat Collections, 6/6 Foraging Collections,",
+        "14/22 Mining Collections for a total of 43 collections.",
+        "You will also get some Fishing Collections."
+      ]
+    },
+    "Minion Machine": {
+      "difficulty": "Medium",
+      "note": [
+        "60 unique Minions"
+      ],
+      "guide": [
+        "Craft some easy minions while also getting",
+        "those that will help with this Bingo.",
+        "Use NPC shops to buy materials for easy crafts."
+      ]
+    },
+    "Sightseer": {
+      "difficulty": "Easy",
+      "note": [
+        "7 public islands"
+      ],
+      "guide": [
+        "You can visit all Islands by using warp commands.",
+        "The Hub, Spider's Den, The End,",
+        "Gold Mine, Deep Caverns,",
+        "Farming Isles. Remember that some of them",
+        "require certain skill levels to enter."
+      ]
+    },
+    "Petsitter": {
+      "difficulty": "Easy",
+      "note": [
+        "Upgrade a pet with Kat"
+      ],
+      "guide": [
+        "Use the Jerry Pet from A Best Friend and",
+        "upgrade it with Kat.",
+        "This only takes 10s to upgrade."
+      ]
+    },
+    "Strange Eggs": {
+      "difficulty": "Medium",
+      "note": [
+        "Spawn a Golden Goblin"
+      ],
+      "guide": [
+        "Kill goblins or open loot chests in the Crystal Hollows,",
+        "then just throw them until you get a Golden Goblin.",
+        "Higher level eggs have higher chances of spawning,",
+        "but are also rarer to get."
+      ]
+    },
+    "Oak Wood Collector": {
       "difficulty": "Hard",
       "note": [
-        "Drop an Eternal Flame Ring in its structure"
+        "100k Oak Wood collection"
       ],
-      "found": "?",
       "guide": [
-        "For this you'll need HOTM 4 and Fishing 19",
-        "to fish up Flaming Worms. You'll then need",
-        "a specific location to drop the ring in."
+        "Optimal tool:",
+        "Golden Axe with Efficiency 5",
+        "Reforges: Double-Bit or Lush",
+        "Get Haste 3 from a splash to instamine wood",
+        "Forage in the Hub for this.",
+        "Don't forget to get your Sweep up",
+        "if you consider to manually do this.",
+        "Place as many minions as you can",
+        "give them a medium storage and the best fuel",
+        "you can. Collect them in time."
       ]
     },
-    "Fantastic Beasts and Where to Find Them": {
-      "difficulty": "Medium",
-      "note": [
-        "Unlock 20 different Mobtypes"
-      ],
-      "found": "Medua",
-      "guide": [
-        "Don't forget to talk to Ike and Mike",
-        "in the Spiders Den to unlock /mobtypes."
-      ]
-    },
-    "Crime and Punishment": {
-      "difficulty": "Medium",
-      "note": [
-        "Kill all 5 Team Treasurite Members"
-      ],
-      "found": "Mackola",
-      "guide": [
-        "This will also need HOTM 4",
-        "and require you to kill everyone",
-        "from the Grunt Bestiary and",
-        "Boss Corleone."
-      ]
-    },
-    "The Day of the Triffids": {
+    "I Am Speed": {
       "difficulty": "Easy",
       "note": [
-        "Get killed by an Ent"
+        "200 Speed"
       ],
-      "found": "Cybl",
       "guide": [
-        "For this you'll also need Galatea access",
-        "and Fishing 12 to be fished up."
+        "Talk to Jamie in the Hub and",
+        "claim the Rogue Sword from him.",
+        "Right click it to gain +100 Speed,",
+        "or just wait for a splash.",
+        "Depending on your Bingo Rank, Alixers",
+        "Splash might also be enough for this."
       ]
     },
-    "Wuthering Heights": {
-      "difficulty": "Medium",
-      "note": [
-        "Kill a Wither type mob with Fall Damage"
-      ],
-      "found": "?",
-      "guide": [
-        "Ideally you'll want to use",
-        "Obsidian Defenders for this."
-      ]
-    },
-    "Vanity Fair": {
-      "difficulty": "Medium",
-      "note": [
-        "Stare at yourself for 30s in the Mirrorverse"
-      ],
-      "found": "erikeriklol",
-      "guide": [
-        "For this you'll need SkyBlock Level 12",
-        "and about 11 Minutes of Rift Time",
-        "to reach the Mirrorverse."
-      ]
-    },
-    "Se7en": {
-      "difficulty": "Medium",
-      "note": [
-        "Get 7 different pests in your Garden"
-      ],
-      "found": "Presto",
-      "guide": [
-        "This needs either Garden 6 and a",
-        "Field Mouse in your Pest Trap or",
-        "Garden 7."
-      ]
-    },
-    "A Whack on the Side of the Head": {
+    "Collector": {
       "difficulty": "Easy",
       "note": [
-        "Hit a Sven Packmaster with a stick"
+        "7 Collections to Tier 7"
       ],
-      "found": "?",
       "guide": [
-        "All you need for this is",
-        "a t1 and t2 kill of Revenant Horror",
-        "and Spider Slayer to then spawn a t1 Sven."
-      ]
-    },
-    "Joker": {
-      "difficulty": "Medium",
-      "note": [
-        "Fart at a Star Cult meeting"
-      ],
-      "found": "Loading0987",
-      "guide": [
-        "For this you'll need a Red Nose",
-        "to reforge any helmet to Ridiculous",
-        "and trigger its ability at a Star Cult Meeting."
-      ]
-    },
-    "The Mad Hatter": {
-      "difficulty": "Medium",
-      "note": [
-        "Drink Tea while wearing a rabbit hat and any tuxedo"
-      ],
-      "found": "Mani",
-      "guide": [
-        "For this you'll need 500 Cactus Collection,",
-        "Fishing 14 and 3m coins."
-      ]
-    },
-    "***** ****": {
-      "difficulty": "Medium",
-      "note": [
-        "Get defeated by Rollim and Kaus"
-      ],
-      "found": "JnR_Phase",
-      "guide": [
-        "For this you'll need Combat 22",
-        "and need to do the Faction Quests till",
-        "it says 0 Reputation to then swap."
-      ]
-    },
-    "The Wailing": {
-      "difficulty": "Medium",
-      "note": [
-        "Kill a Banshee with a Jukebox"
-      ],
-      "found": "arithemonkey",
-      "guide": [
-        "For this you'll need access to",
-        "Backwater Bayou and Fishing 10."
-      ]
-    },
-    "The Old Man and the Sea": {
-      "difficulty": "Hard",
-      "note": [
-        "Talk to Old Man Garry with  Seagull Shard"
-      ],
-      "found": "?",
-      "guide": [
-        "For this you can either",
-        "fuse 5 Bambooleaf Shards with a Chameleon",
-        "or craft it from Mangrove Collection 7."
+        "You will get some progress for this",
+        "by working on other goals.",
+        "The easiest to go for are:",
+        "Birch Wood, Oak Wood, Pufferfish,",
+        "Sand, Wheat, Jungle Wood and Seeds."
       ]
     }
   }
