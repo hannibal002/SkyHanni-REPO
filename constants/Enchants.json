@@ -604,79 +604,79 @@
       "loreName": "Turbo-Cacti",
       "nbtName": "turbo_cactus",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-cane": {
       "loreName": "Turbo-Cane",
       "nbtName": "turbo_cane",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-carrot": {
       "loreName": "Turbo-Carrot",
       "nbtName": "turbo_carrot",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-cocoa": {
       "loreName": "Turbo-Cocoa",
       "nbtName": "turbo_coco",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-melon": {
       "loreName": "Turbo-Melon",
       "nbtName": "turbo_melon",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-mushrooms": {
       "loreName": "Turbo-Mushrooms",
       "nbtName": "turbo_mushrooms",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-potato": {
       "loreName": "Turbo-Potato",
       "nbtName": "turbo_potato",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-pumpkin": {
       "loreName": "Turbo-Pumpkin",
       "nbtName": "turbo_pumpkin",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-warts": {
       "loreName": "Turbo-Warts",
       "nbtName": "turbo_warts",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-wheat": {
       "loreName": "Turbo-Wheat",
       "nbtName": "turbo_wheat",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-rose": {
       "loreName": "Turbo-Rose",
       "nbtName": "turbo_rose",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-moonflower": {
       "loreName": "Turbo-Moonflower",
       "nbtName": "turbo_moonflower",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-sunflower": {
       "loreName": "Turbo-Sunflower",
       "nbtName": "turbo_sunflower",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "vampirism": {
       "loreName": "Vampirism",
