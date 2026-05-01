@@ -263,7 +263,7 @@
         "but are also rarer to get."
       ]
     },
-    "Oak Wood Collector": {
+    "Oak Log Collector": {
       "difficulty": "Hard",
       "note": [
         "100k Oak Wood collection"
@@ -298,14 +298,14 @@
     "Collector": {
       "difficulty": "Easy",
       "note": [
-        "7 Collections to Tier 7"
+        "10 Collections to Tier 7"
       ],
       "guide": [
         "You will get some progress for this",
         "by working on other goals.",
         "The easiest to go for are:",
-        "Birch Wood, Oak Wood, Pufferfish,",
-        "Sand, Wheat, Jungle Wood and Seeds."
+        "Birch/Oak/Jungle/Spruce/Acacia/Dark Oak Wood,",
+        "Pufferfish, Sand, Wheat and Seeds."
       ]
     }
   }
