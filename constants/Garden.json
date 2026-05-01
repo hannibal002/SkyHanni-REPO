@@ -1831,6 +1831,15 @@
         "Compacted Wild Rose"
       ],
       "unknown_rewards": true
+    },
+    "Tal Ker": {
+      "rarity": "legendary",
+      "need_items": [
+        "Moonflower"
+      ],
+      "mode": "mining_3",
+      "position": "192:197:205",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxMzQwOTk1NSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTdiMzU1MmM1YWYyYWIyZGM0ZTFmODRkNzhjYTRjNGQ2NzZkZWMwNjgxNTcyMjVhM2MyNjc0ZTU1NzRkMjM0OCIKICAgIH0KICB9Cn0"
     }
   },
   "organic_matter": {
