@@ -1804,7 +1804,7 @@
     "utils.item.cost.line": "(?:§5§o)?§7Cost.*",
     "utils.item.enchantment.clean.name": "(?i)(?\u003cname\u003e.*) (?\u003clevel\u003e[IVXL]+|[0-9]+)",
     "utils.item.lore.not-rarity.line": "^RARE CROPS?$",
-    "utils.item.lore.rarity.line.colorless": "^(?:Rarity: )?(?:a )?(?:SHINY )?(?\u003crarity\u003eCOMMON|UNCOMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|SPECIAL|VERY SPECIAL|ULTIMATE) ?(?:DUNGEON )?(?\u003citemCategory\u003e.+?)(?: a)?(?: \\(ID \\w\\d+\\))?$",
+    "utils.item.lore.rarity.line.colorless": "^(?:Rarity: )?(?:a )?(?:SHINY )?(?\u003crarity\u003eCOMMON|UNCOMMON|RARE|EPIC|LEGENDARY|MYTHIC|DIVINE|SPECIAL|VERY SPECIAL|ULTIMATE) ?(?:DUNGEON )?(?\u003citemCategory\u003e.*?)(?: a)?(?: \\(ID \\w\\d+\\))?$",
     "utils.item.name.abiphone": ".{2}Abiphone .*",
     "utils.item.name.bait": "^Obfuscated.*|.* Bait$",
     "utils.item.name.enchanted.book": "(?:§.)+Enchanted Book",
