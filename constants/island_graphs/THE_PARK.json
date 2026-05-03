@@ -184,8 +184,7 @@
     "Name": "Spruce Woods",
     "Tags": [
       "area",
-      "teleport_pad",
-      "fairy_soul"
+      "teleport_pad"
     ],
     "Neighbours": {
       "325": 27.59
