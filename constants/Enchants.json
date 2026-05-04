@@ -36,6 +36,12 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
+    "bug blender": {
+      "loreName": "Bug Blender",
+      "nbtName": "bug_blender",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "caster": {
       "loreName": "Caster",
       "nbtName": "caster",
@@ -148,6 +154,12 @@
       "loreName": "Experience",
       "nbtName": "experience",
       "goodLevel": 3,
+      "maxLevel": 5
+    },
+    "feast": {
+      "loreName": "Feast",
+      "nbtName": "feast",
+      "goodLevel": 0,
       "maxLevel": 5
     },
     "feather falling": {
@@ -815,6 +827,12 @@
     "soul eater": {
       "loreName": "Soul Eater",
       "nbtName": "ultimate_soul_eater",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "sunset": {
+      "loreName": "Sunset",
+      "nbtName": "ultimate_sunset",
       "goodLevel": 0,
       "maxLevel": 5
     },
