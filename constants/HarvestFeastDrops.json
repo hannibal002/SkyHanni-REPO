@@ -4,6 +4,10 @@
       {
         "drop": "SEASONINGS",
         "chance": 0.000444444444
+      },
+      {
+        "drop": "RAY_OF_HELIOS",
+        "chance": 0.000000002000
       }
     ],
     "CACTUS": [
