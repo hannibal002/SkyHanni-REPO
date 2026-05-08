@@ -46254,5 +46254,117 @@
       "225": 3.16,
       "231": 3.61
     }
+  },
+  "5760": {
+    "Position": "-387.0:171.0:-495.0",
+    "Name": "Wormhole",
+    "Tags": [
+      "fishing_wormhole"
+    ]
+  },
+  "5761": {
+    "Position": "-449.0:98.0:-728.0",
+    "Name": "Wormhole",
+    "Tags": [
+      "fishing_wormhole"
+    ]
+  },
+  "5762": {
+    "Position": "-466.0:91.0:-821.0",
+    "Name": "Wormhole",
+    "Tags": [
+      "fishing_wormhole"
+    ]
+  },
+  "5763": {
+    "Position": "-277.0:98.0:-750.0",
+    "Name": "Wormhole",
+    "Tags": [
+      "fishing_wormhole"
+    ]
+  },
+  "5764": {
+    "Position": "-620.0:154.0:-807.0",
+    "Name": "Wormhole",
+    "Tags": [
+      "fishing_wormhole"
+    ]
+  },
+  "5765": {
+    "Position": "-426.0:74.0:-566.0",
+    "Name": "Wormhole",
+    "Tags": [
+      "fishing_wormhole"
+    ]
+  },
+  "5766": {
+    "Position": "-360.0:74.0:-562.0",
+    "Name": "Wormhole",
+    "Tags": [
+      "fishing_wormhole"
+    ]
+  },
+  "5767": {
+    "Position": "-309.0:105.0:-574.0",
+    "Name": "Wormhole",
+    "Tags": [
+      "fishing_wormhole"
+    ]
+  },
+  "5768": {
+    "Position": "-372.0:118.0:-817.0",
+    "Name": "Wormhole",
+    "Tags": [
+      "fishing_wormhole"
+    ]
+  },
+  "5769": {
+    "Position": "-248.0:73.0:-727.0",
+    "Name": "Wormhole",
+    "Tags": [
+      "fishing_wormhole"
+    ]
+  },
+  "5770": {
+    "Position": "-348.0:139.0:-809.0",
+    "Name": "Wormhole",
+    "Tags": [
+      "fishing_wormhole"
+    ]
+  },
+  "5771": {
+    "Position": "-460.0:98.0:-746.0",
+    "Name": "Wormhole",
+    "Tags": [
+      "fishing_wormhole"
+    ]
+  },
+  "5772": {
+    "Position": "-216.0:106.5:-567.0",
+    "Name": "Wormhole",
+    "Tags": [
+      "fishing_wormhole"
+    ]
+  },
+  "5773": {
+    "Position": "-345.0:118.0:-790.0",
+    "Name": "Wormhole",
+    "Tags": [
+      "fishing_wormhole"
+    ]
+  },
+  "5774": {
+    "Position": "-296.0:94.0:-853.0",
+    "Name": "Wormhole",
+    "Tags": [
+      "fishing_wormhole"
+    ]
+  },
+  "5775": {
+    "Position": "-424.0:94.0:-864.0",
+    "Name": "Wormhole",
+    "Tags": [
+      "fishing_wormhole"
+    ]
   }
 }
