@@ -113,9 +113,12 @@
       "strong_mana"
     ],
     "endcap_enchants": {
-      "pesterminator": {
-        "required_level": 5,
-        "endcap_item": "PESTHUNTING_GUIDE"
+      "//": {
+          "1": "DEPRECATED: Use endcap_enchants_new instead. This can be removed once SkyBlock drops 1.21.11 support."
+      },
+      "bane_of_arthropods": {
+        "required_level": 6,
+        "endcap_item": "ENSNARED_SNAIL"
       },
       "charm": {
         "required_level": 5,
@@ -125,38 +128,236 @@
         "required_level": 6,
         "endcap_item": "ENDSTONE_IDOL"
       },
-      "bane_of_arthropods": {
+      "frail": {
         "required_level": 6,
-        "endcap_item": "ENSNARED_SNAIL"
+        "endcap_item": "SEVERED_PINCER"
       },
       "luck_of_the_sea": {
         "required_level": 6,
         "endcap_item": "GOLD_BOTTLE_CAP"
       },
-      "scavenger": {
+      "pesterminator": {
         "required_level": 5,
-        "endcap_item": "GOLDEN_BOUNTY"
-      },
-      "spiked_hook": {
-        "required_level": 6,
-        "endcap_item": "OCTOPUS_TENDRIL"
-      },
-      "smite": {
-        "required_level": 6,
-        "endcap_item": "SEVERED_HAND"
-      },
-      "frail": {
-        "required_level": 6,
-        "endcap_item": "SEVERED_PINCER"
+        "endcap_item": "PESTHUNTING_GUIDE"
       },
       "piscary": {
         "required_level": 6,
         "endcap_item": "TROUBLED_BUBBLE"
       },
+      "scavenger": {
+        "required_level": 5,
+        "endcap_item": "GOLDEN_BOUNTY"
+      },
+      "smite": {
+        "required_level": 6,
+        "endcap_item": "SEVERED_HAND"
+      },
+      "spiked_hook": {
+        "required_level": 6,
+        "endcap_item": "OCTOPUS_TENDRIL"
+      },
       "venomous": {
         "required_level": 6,
         "endcap_item": "FATEFUL_STINGER"
       }
+    },
+    "endcap_enchants_new": {
+      "bane_of_arthropods": [
+        {
+          "required_level": 6,
+          "endcap_item": "ENSNARED_SNAIL"
+        }
+      ],
+      "charm": [
+        {
+          "required_level": 5,
+          "endcap_item": "CHAIN_END_TIMES"
+        }
+      ],
+      "ender_slayer": [
+        {
+          "required_level": 6,
+          "endcap_item": "ENDSTONE_IDOL"
+        }
+      ],
+      "frail": [
+        {
+          "required_level": 6,
+          "endcap_item": "SEVERED_PINCER"
+        }
+      ],
+      "luck_of_the_sea": [
+        {
+          "required_level": 6,
+          "endcap_item": "GOLD_BOTTLE_CAP"
+        }
+      ],
+      "pesterminator": [
+        {
+          "required_level": 5,
+          "endcap_item": "PESTHUNTING_GUIDE"
+        }
+      ],
+      "piscary": [
+        {
+          "required_level": 6,
+          "endcap_item": "TROUBLED_BUBBLE"
+        }
+      ],
+      "scavenger": [
+        {
+          "required_level": 5,
+          "endcap_item": "GOLDEN_BOUNTY"
+        }
+      ],
+      "smite": [
+        {
+          "required_level": 6,
+          "endcap_item": "SEVERED_HAND"
+        }
+      ],
+      "spiked_hook": [
+        {
+          "required_level": 6,
+          "endcap_item": "OCTOPUS_TENDRIL"
+        }
+      ],
+      "turbo_cactus": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_cane": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_carrot": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_coco": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_melon": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_moonflower": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_mushrooms": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_potato": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_pumpkin": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_rose": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_sunflower": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_warts": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_wheat": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "venomous": [
+        {
+          "required_level": 6,
+          "endcap_item": "FATEFUL_STINGER"
+        }
+      ]
     }
   },
   "compact_names": {
