@@ -133,7 +133,8 @@
         "Caught a NullPointerException in at.hannibal2.skyhanni.features.foraging.ForagingTracker.onSackChange",
         "Caught a NullPointerException in at.hannibal2.skyhanni.features.garden.visitor.VisitorListener.onTooltip",
         "Caught a NullPointerException in at.hannibal2.skyhanni.features.inventory.ItemDisplayOverlayFeatures.onRenderItemTip",
-        "Caught a NullPointerException in at.hannibal2.skyhanni.features.inventory.bazaar.CraftMaterialCollector.onInventoryFullyOpened"
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.inventory.bazaar.CraftMaterialCollector.onInventoryFullyOpened",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.misc.items.EstimatedItemValueTooltip.onTooltip"
       ],
       "fixed_in": "7.20.0"
     }
