@@ -127,7 +127,12 @@
       "message_starts_with": [
         "Caught a NullPointerException in at.hannibal2.skyhanni.features.hunting.HuntingProfitTracker.onItemChange",
         "Caught a NullPointerException in at.hannibal2.skyhanni.features.garden.visitor.GardenVisitorTooltip.onVisitorOpen",
-        "Caught a NullPointerException in at.hannibal2.skyhanni.features.misc.ColorHexInLore.onTooltip"
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.misc.ColorHexInLore.onTooltip",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.garden.pests.stereo.StereoHarmonyDisplay.onOwnInventoryItemUpdate",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.garden.composter.ComposterOverlay.onChestGuiRender",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.foraging.ForagingTracker.onSackChange",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.garden.visitor.VisitorListener.onTooltip",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.inventory.ItemDisplayOverlayFeatures.onRenderItemTip",
       ],
       "fixed_in": "7.20.0"
     }
