@@ -125,7 +125,9 @@
     },
     {
       "message_starts_with": [
-        "Caught a NullPointerException in at.hannibal2.skyhanni.features.hunting.HuntingProfitTracker.onItemChange"
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.hunting.HuntingProfitTracker.onItemChange",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.garden.visitor.GardenVisitorTooltip.onVisitorOpen",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.misc.ColorHexInLore.onTooltip"
       ],
       "fixed_in": "7.20.0"
     }
