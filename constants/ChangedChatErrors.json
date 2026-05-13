@@ -134,7 +134,8 @@
         "Caught a NullPointerException in at.hannibal2.skyhanni.features.garden.visitor.VisitorListener.onTooltip",
         "Caught a NullPointerException in at.hannibal2.skyhanni.features.inventory.ItemDisplayOverlayFeatures.onRenderItemTip",
         "Caught a NullPointerException in at.hannibal2.skyhanni.features.inventory.bazaar.CraftMaterialCollector.onInventoryFullyOpened",
-        "Caught a NullPointerException in at.hannibal2.skyhanni.features.misc.items.EstimatedItemValueTooltip.onTooltip"
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.misc.items.EstimatedItemValueTooltip.onTooltip",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.commands.ViewRecipeCommand.onMessageSendToServer"
       ],
       "fixed_in": "7.20.0",
       "custom_message": "A feature you just tried to use is broken in 7.19.0. Please update to 7.20.0 or newer!"
