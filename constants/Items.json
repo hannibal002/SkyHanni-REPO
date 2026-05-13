@@ -423,7 +423,8 @@
     "CINDERBAT": "CINDER_BAT",
     "END_STONE_PROTECTOR": "ENDSTONE_PROTECTOR",
     "LOCH_EMPEROR": "SEA_EMPEROR",
-    "BOGGED": "SEA_ARCHER"
+    "BOGGED": "SEA_ARCHER",
+    "INFERNO_DEMONLORD": "BURNINGSOUL"
   },
   "distance_enchant_data": {
     "LEGION": {
