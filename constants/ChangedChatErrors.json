@@ -122,6 +122,12 @@
         "[Repo - NotEnoughUpdates] Error while posting repo reload event"
       ],
       "fixed_in": "7.19.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.hunting.HuntingProfitTracker.onItemChange"
+      ],
+      "fixed_in": "7.20.0"
     }
   ]
 }
