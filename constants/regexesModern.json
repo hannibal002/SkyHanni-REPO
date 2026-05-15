@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "44084681d",
+  "sourceLabel": "1783127121",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -858,7 +858,7 @@
     "garden.pests.spawn.offline": "§6§l.*! §7While you were offline, §2ൠ §2Pests? §7spawned in §aPlots (?\u003cplots\u003e.*)!",
     "garden.pests.spawn.one": "§6§l.*! §7A §2ൠ Pest §7has appeared in §aPlot §7- §b(?\u003cplot\u003e.*)§7!",
     "garden.pests.spawn.teleport": "\\s*§r§e§lCLICK HERE §eto teleport to the plot!",
-    "garden.pests.tracker.raredrop": "§6§l(?:RARE|PET) DROP! (?:§r)?(?\u003citem\u003e.+?)(?: §8x(?\u003camount\u003e\\d+))? §6\\(§6\\+[\\d,]+☘\\)",
+    "garden.pests.tracker.raredrop": "§6§l(?:RARE|PET) DROP! (?:§r)?(?\u003citem\u003e.+?)(?: §8x(?\u003camount\u003e\\d+))? §6\\(§6\\+[\\d,]+[☘☀]\\)",
     "garden.pests.tracker.sprayonator": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- .* §r§7with §r§.(?\u003cspray\u003e.*)§r§7!",
     "garden.plot.barnname": "§.(?\u003cname\u003eThe Barn)",
     "garden.plot.chat.clean": "§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§ais now clean!",
@@ -910,7 +910,7 @@
     "garden.visitor.droptracker.powder.mithril": "[+](?\u003camount\u003e.*) Mithril Powder",
     "garden.visitor.offersaccepted": "§7Offers Accepted: §a(?\u003coffersAccepted\u003e\\d+)",
     "garden.visitor.timer.time.new.colorless": " Next Visitor: (?\u003cinfo\u003e.*)",
-    "garden.visitor.tooltip.copper": " §8\\+§c(?\u003camount\u003e.*) Copper",
+    "garden.visitor.tooltip.copper": " §8\\+§c(?\u003camount\u003e.*) Copper(?: .*)?",
     "garden.visitor.tooltip.gardenexperience": " §8\\+§2(?\u003camount\u003e.*) §7Garden Experience",
     "garden.warpcommand.tpplot": "/tp (?\u003cplot\u003e.*)",
     "george.taming-sixty.needed-pet.loreline": "(?i) *(?\u003cfullThing\u003e(?\u003ctierColorCodes\u003e§.)*(?\u003ctier\u003e(?:un)?common|rare|epic|legendary|mythic) (?\u003cpet\u003e[\\S ]+))",
@@ -942,7 +942,7 @@
     "inventory.attributeshards.owned": "§7Owned: §b(?\u003camount\u003e[\\d,]+) Shards?",
     "inventory.attributeshards.sent.to.hunting.box": "§7You sent (?:§a)?(?:an?|(?\u003camount\u003e\\d+)) §.(?\u003cshardName\u003e.+) Shards? §7to your §aHunting Box§7.",
     "inventory.attributeshards.state": "§7Enabled: §.(?\u003cstate\u003e.+)",
-    "inventory.attributeshards.syphon.amount": "§7Syphon §b(?\u003camount\u003e\\d+) §7(?:more to level up|shard to unlock)!",
+    "inventory.attributeshards.syphon.amount": "§7Syphon §b(?\u003camount\u003e\\d+) §7shards? to (?:level up|unlock)!",
     "inventory.auctionhouse.title.search": "Auctions: \"(?\u003csearchTerm\u003e.*)\"?",
     "inventory.bazaar.instantsell.tax": "§8Current tax: (?\u003ctax\u003e[\\d.]+)%",
     "inventory.bazaar.inventory-bazaar-orders.0": "Your Bazaar Orders",
