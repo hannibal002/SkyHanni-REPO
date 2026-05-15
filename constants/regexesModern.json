@@ -840,7 +840,7 @@
     "garden.nextcontest.day": "§aDay (?\u003cday\u003e.*)",
     "garden.nextcontest.month": "(?\u003cmonth\u003e(?:\\w+ )?(?:Summer|Spring|Winter|Autumn)), Year (?\u003cyear\u003e\\d+)",
     "garden.nextcontest.time-left-no-color": "Jacob\u0027s Contest: (?\u003ctimeleft\u003e\\d+[smh]+) left",
-    "garden.overbloom.widget-no-color": "\\s+Overbloom: ☀(?\u003camount\u003e[\\d,.]+)"
+    "garden.overbloom.widget-no-color": "\\s+Overbloom: ☀(?\u003camount\u003e[\\d,.]+)",
     "garden.pests-api.chat.no-pests": "§cThere are not any Pests on your Garden right now! Keep farming!",
     "garden.pests-api.chat.pest-death": "§eYou received §a(?\u003camount\u003e[0-9]*)x (?\u003citem\u003e.*) §efor killing an? §2(?\u003cpest\u003e.*)§e!",
     "garden.pests-api.entity.pest-trap": "(?:§.)+§l(?\u003ctype\u003ePEST|MOUSE|VERMIN) TRAP(?: #(?\u003cnumber\u003e\\d+))?(?:§.)*",
