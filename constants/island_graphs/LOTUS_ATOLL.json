@@ -36,6 +36,9 @@
   "5": {
     "Position": "-11.0:72.0:-7.0",
     "Name": "Researcher Ribery",
+    "Tags": [
+      "npc"
+    ],
     "Neighbours": {
       "6": 3.0,
       "12": 4.24,
@@ -54,6 +57,9 @@
   "7": {
     "Position": "-13.0:72.0:3.0",
     "Name": "Researcher Betty",
+    "Tags": [
+      "npc"
+    ],
     "Neighbours": {
       "31": 3.61,
       "11": 4.12,
@@ -70,6 +76,9 @@
   "10": {
     "Position": "-22.0:74.0:1.0",
     "Name": "Your Ship",
+    "Tags": [
+      "poi"
+    ],
     "Neighbours": {
       "9": 2.24,
       "275": 3.0,
@@ -135,6 +144,9 @@
   "18": {
     "Position": "1.0:70.0:-14.0",
     "Name": "Fairy Soul Inside a small room  from behind Researcher Ribery",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
       "17": 3.16
     }
@@ -142,6 +154,9 @@
   "19": {
     "Position": "-24.0:74.0:4.0",
     "Name": "Researcher Gilbert",
+    "Tags": [
+      "npc"
+    ],
     "Neighbours": {
       "276": 2.24,
       "10": 3.61
@@ -150,6 +165,9 @@
   "20": {
     "Position": "-27.0:74.0:2.0",
     "Name": "Captain Baha",
+    "Tags": [
+      "npc"
+    ],
     "Neighbours": {
       "276": 2.0,
       "275": 2.24,
@@ -159,6 +177,9 @@
   "21": {
     "Position": "42.0:71.0:29.0",
     "Name": "Researcher Tina",
+    "Tags": [
+      "npc"
+    ],
     "Neighbours": {
       "95": 5.1
     }
@@ -212,6 +233,9 @@
   "31": {
     "Position": "-16.0:72.0:1.0",
     "Name": "/warp lotus",
+    "Tags": [
+      "warp"
+    ],
     "Neighbours": {
       "11": 2.83,
       "7": 3.61,
@@ -385,6 +409,9 @@
   "59": {
     "Position": "23.0:84.0:-50.0",
     "Name": "Researcher Kay",
+    "Tags": [
+      "npc"
+    ],
     "Neighbours": {
       "57": 2.0,
       "61": 58.63
@@ -423,6 +450,9 @@
   "70": {
     "Position": "24.0:142.0:-68.0",
     "Name": "Fairy Soul on top floating island",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
       "72": 2.45
     }
@@ -487,6 +517,9 @@
   "80": {
     "Position": "10.0:76.0:30.0",
     "Name": "Researcher Timmy",
+    "Tags": [
+      "npc"
+    ],
     "Neighbours": {
       "79": 4.24
     }
@@ -502,6 +535,9 @@
   "83": {
     "Position": "26.0:67.0:14.0",
     "Name": "Researcher Lily",
+    "Tags": [
+      "npc"
+    ],
     "Neighbours": {
       "85": 3.32,
       "84": 4.58,
@@ -546,6 +582,9 @@
   "88": {
     "Position": "26.0:67.0:21.0",
     "Name": "Fishing Hotspot",
+    "Tags": [
+      "fishing_hotspot"
+    ],
     "Neighbours": {
       "86": 3.74,
       "87": 5.0,
@@ -569,6 +608,9 @@
   "91": {
     "Position": "12.0:66.0:28.0",
     "Name": "Fairy Soul inside small water fall  Researcher Timmy is above",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
       "90": 3.16
     }
@@ -647,6 +689,9 @@
   "103": {
     "Position": "33.0:67.0:-20.0",
     "Name": "Fishing Hotspot",
+    "Tags": [
+      "fishing_hotspot"
+    ],
     "Neighbours": {
       "102": 3.0,
       "154": 5.0
@@ -745,6 +790,9 @@
   "116": {
     "Position": "75.0:65.0:-12.0",
     "Name": "Researcher Jessica",
+    "Tags": [
+      "npc"
+    ],
     "Neighbours": {
       "115": 2.83
     }
@@ -752,6 +800,9 @@
   "118": {
     "Position": "49.0:67.0:-27.0",
     "Name": "Fishing Hotspot",
+    "Tags": [
+      "fishing_hotspot"
+    ],
     "Neighbours": {
       "106": 5.1,
       "120": 5.2,
@@ -762,6 +813,9 @@
   "119": {
     "Position": "42.0:67.0:-31.0",
     "Name": "Fishing Hotspot",
+    "Tags": [
+      "fishing_hotspot"
+    ],
     "Neighbours": {
       "120": 5.48,
       "118": 8.06
@@ -779,6 +833,9 @@
   "123": {
     "Position": "86.0:65.0:-12.0",
     "Name": "Fairy Soul Inside the pool of water",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
       "124": 2.24
     }
@@ -976,6 +1033,9 @@
   "154": {
     "Position": "30.0:67.0:-16.0",
     "Name": "Fishing Hotspot",
+    "Tags": [
+      "fishing_hotspot"
+    ],
     "Neighbours": {
       "102": 4.0,
       "152": 4.58,
@@ -1305,6 +1365,9 @@
   "207": {
     "Position": "70.0:118.0:8.0",
     "Name": "Fairy Soul Inside the cherry tree",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
       "208": 1.41
     }
@@ -1382,6 +1445,9 @@
   "219": {
     "Position": "89.0:78.0:27.0",
     "Name": "Fairy Soul On the edge of the island",
+    "Tags": [
+      "fairy_soul"
+    ],
     "Neighbours": {
       "220": 3.74
     }
@@ -1532,6 +1598,9 @@
   "241": {
     "Position": "64.0:67.0:-28.0",
     "Name": "Fishing Hotspot",
+    "Tags": [
+      "fishing_hotspot"
+    ],
     "Neighbours": {
       "110": 3.32,
       "312": 3.74
@@ -1724,6 +1793,9 @@
   "267": {
     "Position": "28.0:67.0:4.0",
     "Name": "Fishing Hotspot",
+    "Tags": [
+      "fishing_hotspot"
+    ],
     "Neighbours": {
       "147": 5.1
     }
@@ -1731,6 +1803,9 @@
   "268": {
     "Position": "17.0:67.0:-11.0",
     "Name": "Fishing Hotspot",
+    "Tags": [
+      "fishing_hotspot"
+    ],
     "Neighbours": {
       "269": 4.24
     }
@@ -1761,6 +1836,9 @@
   "273": {
     "Position": "99.0:69.0:-7.0",
     "Name": "The Lotus Eater",
+    "Tags": [
+      "npc"
+    ],
     "Neighbours": {
       "272": 4.12
     }
@@ -1768,6 +1846,9 @@
   "274": {
     "Position": "-25.0:74.0:0.0",
     "Name": "Ship Navigation",
+    "Tags": [
+      "warp"
+    ],
     "Neighbours": {
       "275": 1.0,
       "20": 2.83,
@@ -1777,6 +1858,9 @@
   "275": {
     "Position": "-25.0:74.0:1.0",
     "Name": "Hub",
+    "Tags": [
+      "jump_pad"
+    ],
     "Neighbours": {
       "274": 1.0,
       "276": 1.0,
@@ -1787,6 +1871,9 @@
   "276": {
     "Position": "-25.0:74.0:2.0",
     "Name": "Bayou",
+    "Tags": [
+      "jump_pad"
+    ],
     "Neighbours": {
       "275": 1.0,
       "20": 2.0,
@@ -1797,6 +1884,9 @@
   "277": {
     "Position": "18.0:67.0:7.0",
     "Name": "Fishing Hotspot",
+    "Tags": [
+      "fishing_hotspot"
+    ],
     "Neighbours": {
       "23": 4.12,
       "81": 4.12
@@ -1892,6 +1982,9 @@
   "292": {
     "Position": "84.0:92.0:-5.0",
     "Name": "Fishing Hotspot",
+    "Tags": [
+      "fishing_hotspot"
+    ],
     "Neighbours": {
       "293": 4.12
     }
@@ -2039,6 +2132,9 @@
   "316": {
     "Position": "52.0:67.0:-14.0",
     "Name": "Fishing Hotspot",
+    "Tags": [
+      "fishing_hotspot"
+    ],
     "Neighbours": {
       "265": 4.12,
       "264": 5.0,
@@ -2048,6 +2144,9 @@
   "318": {
     "Position": "46.0:67.0:-8.0",
     "Name": "Fishing Hotspot",
+    "Tags": [
+      "fishing_hotspot"
+    ],
     "Neighbours": {
       "266": 4.12,
       "145": 4.58,
@@ -2057,6 +2156,9 @@
   "319": {
     "Position": "26.0:142.0:-60.0",
     "Name": "Researcher Tay",
+    "Tags": [
+      "npc"
+    ],
     "Neighbours": {
       "61": 2.0,
       "60": 2.45
@@ -2351,6 +2453,9 @@
   "365": {
     "Position": "40.0:67.0:-2.0",
     "Name": "Fishing Hotspot",
+    "Tags": [
+      "fishing_hotspot"
+    ],
     "Neighbours": {
       "146": 3.16,
       "145": 4.58
@@ -2650,6 +2755,9 @@
   "412": {
     "Position": "65.0:68.0:-24.0",
     "Name": "Fishing Hotspot",
+    "Tags": [
+      "fishing_hotspot"
+    ],
     "Neighbours": {
       "110": 1.0,
       "109": 5.0,
