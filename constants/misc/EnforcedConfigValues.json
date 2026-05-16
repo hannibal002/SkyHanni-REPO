@@ -142,7 +142,7 @@
           "value": false
         }
       ],
-      "affectedVersion": "99.99.99"
+      "affectedVersion": "7.19.0"
     }
   ]
 }
