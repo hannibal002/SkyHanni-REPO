@@ -142,7 +142,9 @@
           "value": false
         }
       ],
-      "affectedVersion": "7.19.0"
+      "affectedVersion": "7.19.0",
+      "minimumAffectedVersion": "1.0.0",
+      "extraMessage": "Will be re-enabled in 7.20.0 and above"
     }
   ]
 }
