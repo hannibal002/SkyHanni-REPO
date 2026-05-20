@@ -154,7 +154,7 @@
       ],
       "minimumAffectedVersion": "7.21.0",
       "affectedVersion": "7.21.0",
-      "extraMessage": "Update to the latest beta to re-enable this feature"
+      "extraMessage": "Update to 7.22.0 to re-enable this feature"
     }
   ]
 }
