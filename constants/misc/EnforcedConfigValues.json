@@ -144,6 +144,17 @@
       ],
       "affectedVersion": "7.19.0",
       "extraMessage": "Will be re-enabled in 7.20.0 and above"
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "garden.keyBind.enabled",
+          "value": false
+        }
+      ],
+      "minimumAffectedVersion": "7.21.0",
+      "affectedVersion": "7.21.0",
+      "extraMessage": "Update to the latest beta to re-enable this feature"
     }
   ]
 }
