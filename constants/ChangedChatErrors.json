@@ -139,6 +139,13 @@
       ],
       "fixed_in": "7.20.0",
       "custom_message": "A feature you just tried to use is broken in 7.19.0. Please update to 7.20.0 or newer!"
+    },
+    {
+      "message_starts_with": [
+        "Item category FISHING_WEAPON for item",
+        "Item category HOE for item"
+      ],
+      "fixed_in": "9.9.9"
     }
   ]
 }
