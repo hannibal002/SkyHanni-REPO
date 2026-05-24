@@ -357,6 +357,12 @@
           "required_level": 6,
           "endcap_item": "FATEFUL_STINGER"
         }
+      ],
+      "scuba": [
+        {
+          "required_level": 5,
+          "endcap_item": "VIBRANT_CORAL"
+        }
       ]
     }
   },
