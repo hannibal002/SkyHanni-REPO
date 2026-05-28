@@ -175,7 +175,13 @@
     "LOTUS_ATOLL": {
       "name": "Lotus Atoll",
       "api_name": "lotus_atoll",
-      "max_players": 16
+      "max_players": 16,
+      "bounds": {
+        "max_x": 113,
+        "min_x": -30,
+        "max_z": 54,
+        "min_z": -78
+      }
     },
     "NONE": {
       "name": ""
