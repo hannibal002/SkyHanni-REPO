@@ -172,6 +172,11 @@
       "api_name": "foraging_2",
       "max_players": 12
     },
+    "LOTUS_ATOLL": {
+      "name": "Lotus Atoll",
+      "api_name": "lotus_atoll",
+      "max_players": 16
+    },
     "NONE": {
       "name": ""
     },
