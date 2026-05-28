@@ -146,6 +146,12 @@
         "Item category HOE for item"
       ],
       "fixed_in": "9.9.9"
+    },
+    {
+      "message_starts_with": [
+        "Caught a ClassCastException in at.hannibal2.skyhanni.features.chat.CurrentChatDisplay"
+      ],
+      "fixed_in": "9.9.9"
     }
   ]
 }
