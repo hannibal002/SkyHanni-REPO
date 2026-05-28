@@ -566,6 +566,11 @@
         "rarity": "MYTHIC",
         "rare": true
       },
+      "Volcanic Snail": {
+        "chat_message": "You feel a burning sensation as you reel in a Volcanic Snail!",
+        "fishing_experience": 0,
+        "rarity": "UNCOMMON"
+      },
       "Fireproof Witch": {
         "chat_message": "Trouble's brewing, it's a Fireproof Witch!",
         "alternate_messages": [
@@ -581,6 +586,12 @@
         ],
         "fishing_experience": 400,
         "rarity": "COMMON"
+      },
+      "Magma Pillar": {
+        "chat_message": "A Magma Pillar rises from the lava.",
+        "fishing_experience": 0,
+        "rarity": "EPIC",
+        "rare": true
       },
       "Fiery Scuttler": {
         "chat_message": "A Fiery Scuttler inconspicuously waddles up to you, friends in tow.",
