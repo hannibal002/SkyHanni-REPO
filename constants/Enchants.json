@@ -336,6 +336,12 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
+    "magmarizer": {
+      "loreName": "Magmarizer",
+      "nbtName": "magmarizer",
+      "goodLevel": 5,
+      "maxLevel": 6
+    },
     "mana steal": {
       "loreName": "Mana Steal",
       "nbtName": "mana_steal",
