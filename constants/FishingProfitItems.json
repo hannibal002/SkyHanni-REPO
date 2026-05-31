@@ -409,7 +409,8 @@
       "ATTRIBUTE_SHARD_BAYOU_BITER;1",
       "GOLD_INGOT",
       "BROKEN_RADAR",
-      "EDIBLE_SEAWEED"
+      "EDIBLE_SEAWEED",
+      "ATTRIBUTE_SHARD_ECHO_OF_RESISTANCE;1"
     ],
     "Lotus Atoll": [
       "LOTUS",
