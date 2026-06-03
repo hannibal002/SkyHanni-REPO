@@ -155,6 +155,21 @@
       "minimumAffectedVersion": "7.21.0",
       "affectedVersion": "7.21.0",
       "extraMessage": "Update to 7.22.0 to re-enable this feature"
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "gui.chroma.allChroma",
+          "value": false
+        },
+      ],
+      "minimumAffectedVersion": "7.24.0",
+      "affectedVersion": "7.24.0",
+      "affectedMinecraftVersions": [
+        "26.1",
+        "26.1.1",
+        "26.1.2"
+      ]
     }
   ]
 }
