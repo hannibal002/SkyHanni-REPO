@@ -649,20 +649,20 @@
       "foraging_2_vine": "-733:95:-44"
     },
     "LOTUS_ATOLL": {
-      "lotus_atoll_timmy": "16:75:31",
-      "lotus_atoll_lotus_highlands": "31:141:-66",
-      "lotus_atoll_tewtil_tunnel": "90:69:-24",
-      "lotus_atoll_stairs": "25:74:-39",
-      "lotus_atoll_small_bridge": "23:66:-21",
-      "lotus_atoll_tree_bridge": "62:66:24",
-      "lotus_atoll_back_pond": "92:85:2",
-      "lotus_atoll_leaves_bridge": "84:97:18",
-      "lotus_atoll_spawn": "-7:71:-4",
-      "lotus_atoll_kay": "21:83:-45",
-      "lotus_atoll_center_water": "32:67:1",
-      "lotus_atoll_starting_bridge": "8:71:-11",
-      "lotus_atoll_pit": "58:67:-40",
-      "lotus_atoll_easter_cave": "77:72:-6"
+      "lotus_pond": "16:75:31",
+      "lotus_temple": "31:141:-66",
+      "unknown1": "90:69:-24",
+      "lotus_stairway": "25:74:-39",
+      "lotus_bridge": "23:66:-21",
+      "lotus_lily_pad": "62:66:24",
+      "lotus_waterfall": "92:85:2",
+      "lotus_cherry": "84:97:18",
+      "unknown2": "-7:71:-4",
+      "unknown3": "21:83:-45",
+      "unknown4": "32:67:1",
+      "unknown5": "8:71:-11",
+      "lotus_beach": "58:67:-40",
+      "unknown6": "77:72:-6"
     }
   },
   "chocolateFactoryMilestones": [
