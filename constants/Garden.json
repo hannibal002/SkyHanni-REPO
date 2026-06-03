@@ -774,6 +774,14 @@
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzEyNjQwMzM4NCwK\nICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhN\nGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdH\nVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0l\nOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFm\ndC5uZXQvdGV4dHVyZS9jYWJiMmMwNDYzNWEyOWIwOGUxNjFkODU5YjExYmRhZ\nGI3NWEyOWQzYzY0ZGY3ZTg0YTEwOGMzN2Y3ZjgzYzAiLAogICAgICAibWV0YW\nRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICA\ngfQogIH0KfQ==",
       "position": "164:77:-359"
     },
+    "Carrot King Avatar": {
+      "rarity": "legendary",
+      "need_items": [
+        "Carrot",
+        "Lucky Clover"
+      ],
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTE3OTEwNCwKICAicHJvZmlsZUlkIiA6ICIxNDM3N2ZjOGU1NTg0NGQwOTg2ZDkyMjY3ODRiMjQxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwVGlja0RlbGF5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM4MzY0MTQzNGMxOWRhZjRhMGIzM2FkMTdmMTcxYmE2YjcwNDMwNmE3ZjE0M2VjNDNiYTVmMTliZjdhNDRmMTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    }
     "Clerk Seraphine": {
       "rarity": "legendary",
       "need_items": [
