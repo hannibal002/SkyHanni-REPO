@@ -175,6 +175,14 @@
         "Loaded 18 items not in a fishing category"
       ],
       "fixed_in": "9.9.9"
+    },
+    {
+      "message_starts_with": [
+        "Error loading island type",
+        "Invalid island type change detected"
+      ],
+      "fixed_in": "7.24.0",
+      "custom_message": "SkyHanni ran into an error with island detection. Please update to 7.24.0 or newer to fix the issue."
     }
   ]
 }
