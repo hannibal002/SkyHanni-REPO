@@ -161,7 +161,7 @@
         {
           "path": "gui.chroma.allChroma",
           "value": false
-        },
+        }
       ],
       "minimumAffectedVersion": "7.24.0",
       "affectedVersion": "7.24.0",
