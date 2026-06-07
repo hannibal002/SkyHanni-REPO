@@ -115,6 +115,7 @@
     "Fishing": {
       "CLAY": 0.1,
       "CLAY_BLOCK": 0.4,
+      "CONDENSED_WATER_LILY": 20480.0,
       "ENCHANTED_CLAY": 16.0,
       "ENCHANTED_CLOWNFISH": 320.0,
       "ENCHANTED_COOKED_FISH": 12800.0,
@@ -125,6 +126,7 @@
       "ENCHANTED_RAW_FISH": 80.0,
       "ENCHANTED_RAW_SALMON": 112.0,
       "ENCHANTED_SPONGE": 20.0,
+      "ENCHANTED_WATER_LILY": 128.0,
       "ENCHANTED_WET_SPONGE": 800.0,
       "PRISMARINE_CRYSTALS": 0.5,
       "PRISMARINE_SHARD": 0.5,
@@ -132,7 +134,8 @@
       "RAW_FISH-1": 0.7,
       "RAW_FISH-2": 2.0,
       "RAW_FISH-3": 1.0,
-      "SPONGE": 0.5
+      "SPONGE": 0.5,
+      "WATER_LILY": 0.8
     },
     "Foraging": {
       "DOUBLE_PLANT": 0.2,
