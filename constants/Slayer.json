@@ -397,5 +397,29 @@
     "TARANTULA": {
       "SHRIVELED_BRACELET": 5
     }
+  },
+  "pets": {
+    "REVENANT": {
+      "GHOUL": {
+        "scaling": [0, 0, 0, 0.005, 0.005, 0.005]
+      },
+      "HOUND": {
+        "scaling": [0, 0, 0, 0, 0.005, 0.005]
+      },
+      "TARANTULA": {
+        "scaling": [0, 0, 0, 0, 0.005, 0.005]
+      },
+      "ENDERMAN": {
+        "scaling": [0, 0, 0, 0, 0, 0.005]
+      },
+      "DROPLET_WISP": {
+        "alternate_internal_names": [
+          "FROST_WISP",
+          "GLACIAL_WISP",
+          "SUBZERO_WISP"
+        ],
+        "scaling": [0.003, 0.004, 0.0045, 0.005, 0.005, 0.005]
+      }
+    }
   }
 }
