@@ -401,26 +401,81 @@
   "pets": {
     "REVENANT": {
       "GHOUL": {
-        "scaling": [0, 0, 0, 0.005, 0.005, 0.005]
-      },
-      "HOUND": {
-        "scaling": [0, 0, 0, 0, 0.005, 0.005]
-      },
-      "TARANTULA": {
-        "scaling": [0, 0, 0, 0, 0.005, 0.005]
-      },
-      "ENDERMAN": {
-        "scaling": [0, 0, 0, 0, 0, 0.005]
-      },
-      "DROPLET_WISP": {
-        "alternate_internal_names": [
-          "FROST_WISP",
-          "GLACIAL_WISP",
-          "SUBZERO_WISP"
-        ],
-        "scaling": [0.003, 0.004, 0.0045, 0.005, 0.005, 0.005]
+        "scaling": [
+          0,
+          0,
+          0,
+          0.005,
+          0.005,
+          0.005
+        ]
       }
+    },
+    "TARANTULA": {
+      "TARANTULA": {
+        "scaling": [
+          0,
+          0,
+          0,
+          0,
+          0.005,
+          0.005
+        ]
+      }
+    },
+    "SVEN": {
+      "HOUND": {
+        "scaling": [
+          0,
+          0,
+          0,
+          0,
+          0.005,
+          0.005
+        ]
+      }
+    },
+    "VOID": {
+      "ENDERMAN": {
+        "scaling": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.005
+        ]
+      },
+      "INFERNO": {
+        "DROPLET_WISP": {
+          "alternate_internal_names": [
+            "FROST_WISP",
+            "GLACIAL_WISP",
+            "SUBZERO_WISP"
+          ],
+          "scaling": [
+            0.003,
+            0.004,
+            0.0045,
+            0.005,
+            0.005,
+            0.005
+          ]
+        }
+      },
+      "VAMPIRE": {}
     }
   },
-  "champion": [ 0.03, 0.0378, 0.0456, 0.0533, 0.0611, 0.0689, 0.0767, 0.0844, 0.0922, 0.10 ]
+  "champion": [
+    0.03,
+    0.0378,
+    0.0456,
+    0.0533,
+    0.0611,
+    0.0689,
+    0.0767,
+    0.0844,
+    0.0922,
+    0.10
+  ]
 }
