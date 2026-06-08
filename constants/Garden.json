@@ -773,7 +773,7 @@
       "mode": "farming_1",
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzEyNjQwMzM4NCwK\nICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhN\nGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdH\nVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0l\nOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFm\ndC5uZXQvdGV4dHVyZS9jYWJiMmMwNDYzNWEyOWIwOGUxNjFkODU5YjExYmRhZ\nGI3NWEyOWQzYzY0ZGY3ZTg0YTEwOGMzN2Y3ZjgzYzAiLAogICAgICAibWV0YW\nRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICA\ngfQogIH0KfQ==",
       "position": "164:77:-359",
-      "showChatMessage": true
+      "show_chat_message": true
     },
     "Carrot King Avatar": {
       "rarity": "legendary",
@@ -1131,7 +1131,7 @@
         "Fermento"
       ],
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzU2OTY4ODUxNywKICAicHJvZmlsZUlkIiA6ICJmZWYyZDZjYzY5ZGI0ZWM5OWQzYzI5MzBmYzRmNTBhYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsb3Zlbm90d2FyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZhM2NkY2NjOTIyYjY3MDY3MDdmYWM3ZGNlMzQzNzczYmVjNzdkYTE4NTA5MGJjODQyZWM1NDE1ZjcyM2M1ZDMiCiAgICB9CiAgfQp9",
-      "showChatMessage": true
+      "show_chat_message": true
     },
     "Odawa": {
       "rarity": "uncommon",
@@ -1306,7 +1306,7 @@
     "Spaceman": {
       "rarity": "special",
       "need_items": [],
-      "showChatMessage": true
+      "show_chat_message": true
     },
     "Stella": {
       "rarity": "uncommon",
@@ -1341,7 +1341,7 @@
       "mode": "mining_3",
       "position": "194;196;206",
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxMzQwOTk1NSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTdiMzU1MmM1YWYyYWIyZGM0ZTFmODRkNzhjYTRjNGQ2NzZkZWMwNjgxNTcyMjVhM2MyNjc0ZTU1NzRkMjM0OCIKICAgIH0KICB9Cn0=",
-      "showChatMessage": true
+      "show_chat_message": true
     },
     "Terry": {
       "rarity": "uncommon",
