@@ -3,15 +3,14 @@
     "1.21.10": {
       "config_info": [
         "1.21.10 is no longer receiving SkyHanni updates.",
-        "With the release of 26.1, Hypixel could drop support for 1.21.10 anytime now.",
-        "There are known issues with the NEU repo on this version.",
-        "It is highly recommended to update to 1.21.11 right now."
+        "Hypixel has announced that you have until June 16th to update to 1.21.11+.",
+        "We recommend updating to 26.1.2 as Hypixel will probably drop 1.21.11 sometime in July."
       ],
       "extra_info": [
-        "There are known issues with the NEU repo on this version.",
-        "It is highly recommended to update to 1.21.11 right now."
+        "Hypixel has announced that you have until June 16th to update to 1.21.11+.",
+        "We recommend updating to 26.1.2 as Hypixel will probably drop 1.21.11 sometime in July."
       ],
-      "luck_amount": -20
+      "luck_amount": -50
     }
   }
 }
