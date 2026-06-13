@@ -189,7 +189,7 @@
         "Error while editing message",
         "Error while deleting message"
       ],
-      "fixed_in": "7.25.0",
+      "fixed_in": "7.25.0"
     }
   ]
 }
