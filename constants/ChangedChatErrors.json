@@ -196,7 +196,7 @@
         "current island graph is not loaded"
       ],
       "fixed_in": "7.25.0",
-      "custom_message": "Failed to load island graph, some area-specific features may not work. Run /shreloadlocalrepo to fix it."
+      "custom_message": "Failed to load island graph, some area-specific features may not work. Update to 7.25.0 to fix it."
     },
     {
       "message_starts_with": [
@@ -204,7 +204,7 @@
         "Asynchronous exception caught in mining event tracker"
       ],
       "fixed_in": "7.25.0",
-      "custom_message": "Mining Event Tracker failed to load. You may need to restart the game to fix it."
+      "custom_message": "Mining Event Tracker failed to load. Update to 7.25.0 to fix it."
     }
   ]
 }
