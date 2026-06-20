@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7364262",
+  "sourceLabel": "d4bc106",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1057,7 +1057,6 @@
     "mining.commisson.collector": "§9(?\u003cwhat\u003e\\w+(?: \\w+)?) Collector",
     "mining.commisson.collector.invalid": "Glacite|Scrap",
     "mining.commisson.completed": "§a§lCOMPLETED",
-    "mining.commisson.completed.test": "This is a §cbloody §ftest",
     "mining.commisson.reward.glacite": "§7- §b[\\d,]+ Glacite Powder",
     "mining.crystalnucleus.loot.end": "§3§l▬{64}",
     "mining.crystalnucleus.loot.start": " \\s*§r§5§lCRYSTAL NUCLEUS LOOT BUNDLE.*",
