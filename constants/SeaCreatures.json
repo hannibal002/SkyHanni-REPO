@@ -495,7 +495,8 @@
         ],
         "fishing_experience": 5000,
         "rarity": "MYTHIC",
-        "rare": true
+        "rare": true,
+        "old_names": ["Phlhlegblast"]
       }
     }
   },
@@ -703,7 +704,8 @@
         ],
         "fishing_experience": 3375,
         "rarity": "LEGENDARY",
-        "rare": true
+        "rare": true,
+        "old_names": ["Sea Emperor", "The Sea Emperor"]
       },
       "Nessie": {
         "chat_message": "You've caused a disturbance in the loch. Could it be... Nessie?",
