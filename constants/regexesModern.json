@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "71c1439",
+  "sourceLabel": "df7ef26",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -181,6 +181,7 @@
     "commands.brigadier.arguments.lorenzvec.space": "(?\u003cx\u003e~|-?\\d+(?:\\.\\d+)?)\\s+(?\u003cy\u003e~|-?\\d+(?:\\.\\d+)?)\\s+(?\u003cz\u003e~|-?\\d+(?:\\.\\d+)?)",
     "commands.cooldown": "§cYou may only use this command after (?\u003ccooldown\u003e\\d+)s on the server!",
     "commands.viewrecipe": "/viewrecipe (?\u003citem\u003e.*)",
+    "contributor.mention": "\\b(?:skyhanni|skyhani|sh)\\b.*\\b(?:dev\\w*|contrib\\w*)\\b",
     "cookie.bits.new.amount": "(?:Booster Cookie x|Amount: )(?\u003camount\u003e\\d+).*",
     "cookie.bits.new.time": "4 days:",
     "cookie.bits.new.wrong": "§[de]Booster Cookie",
@@ -250,6 +251,8 @@
     "data.equipment.chat.equip": "§aYou equipped a (?\u003citem\u003e.+)§r§a!",
     "data.friends.add": "§aYou are now friends with (?\u003cname\u003e.*)",
     "data.friends.addbest": ".*\n(?\u003cname\u003e.*)§a is now a best friend!§r§9§m\n.*",
+    "data.friends.friend-request-expired": "The friend request to (?\u003cname\u003e.*) has expired.",
+    "data.friends.friend-request-sent": "You sent a friend request to (?\u003cname\u003e.*)!",
     "data.friends.rawname": "\n§eClick here to view §.(?\u003cname\u003e.*)§e\u0027s profile",
     "data.friends.readfriends": "/viewprofile (?\u003cuuid\u003e.*)",
     "data.friends.remove": ".*\n§r§eYou removed §r(?\u003cname\u003e.*)§e from your friends list!§r§9§m\n.*",
