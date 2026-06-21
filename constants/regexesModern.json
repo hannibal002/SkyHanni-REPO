@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "d4bc106",
+  "sourceLabel": "71c1439",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -863,11 +863,11 @@
     "garden.pests-api.toolkit.inventory": "Farming Toolkit",
     "garden.pests.cooldowntime-no-color": "\\sCooldown: (?\u003ctime\u003e\\d{1,2}[ms](?: \\d{1,2}s?)?)?(?\u003cready\u003eREADY)?(?\u003cmaxPests\u003eMAX PESTS)?.*",
     "garden.pests.pesthunter.garden.pests.pesthunter.cost": "§2(?\u003cpests\u003e[\\d,]+) Pests",
-    "garden.pests.spawn.multiple.colorless.0": ".*! (?\u003camount\u003e\\d) ൠ Pests? have spawned in Plot - (?\u003cplot\u003e.*)!",
-    "garden.pests.spawn.multiple.colorless.1": ".*! (?\u003camount\u003e\\d) ൠ Pests? have spawned in (?\u003cplot\u003eThe Barn)!",
-    "garden.pests.spawn.offline.colorless": ".*! While you were offline, ൠ Pests? spawned in Plots (?\u003cplots\u003e.*)!",
-    "garden.pests.spawn.one.colorless.0": ".*! A ൠ Pest has appeared in Plot - (?\u003cplot\u003e.*)!",
-    "garden.pests.spawn.one.colorless.1": ".*! A ൠ Pest has appeared in (?\u003cplot\u003eThe Barn)!",
+    "garden.pests.spawn.multiple.colorless.0": "^\\w+! (?\u003camount\u003e\\d) ൠ Pests? have spawned in Plot - (?\u003cplot\u003e.*)!",
+    "garden.pests.spawn.multiple.colorless.1": "^\\w+! (?\u003camount\u003e\\d) ൠ Pests? have spawned in (?\u003cplot\u003eThe Barn)!",
+    "garden.pests.spawn.offline.colorless": "^\\w+! While you were offline, ൠ Pests? spawned in Plots (?\u003cplots\u003e.*)!",
+    "garden.pests.spawn.one.colorless.0": "^\\w+! A ൠ Pest has appeared in Plot - (?\u003cplot\u003e.*)!",
+    "garden.pests.spawn.one.colorless.1": "^\\w+! A ൠ Pest has appeared in (?\u003cplot\u003eThe Barn)!",
     "garden.pests.spawn.teleport.colorless": "\\s*CLICK HERE to teleport to the plot!",
     "garden.pests.tracker.raredrop": "§6§l(?:RARE|PET) DROP! (?:§r)?(?\u003citem\u003e.+?)(?: §8x(?\u003camount\u003e\\d+))? (?:§.)*\\((?:§.)?(?:\\+[\\d.,]+[☘☀]|Cocoaleech)\\)",
     "garden.pests.tracker.sprayonator": "§a§lSPRAYONATOR! §r§7You sprayed §r§aPlot §r§7- .* §r§7with §r§.(?\u003cspray\u003e.*)§r§7!",
