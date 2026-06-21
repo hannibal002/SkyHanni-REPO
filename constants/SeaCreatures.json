@@ -566,6 +566,11 @@
         "rarity": "MYTHIC",
         "rare": true
       },
+      "Volcanic Snail": {
+        "chat_message": "You feel a burning sensation as you reel in a Volcanic Snail!",
+        "fishing_experience": 0,
+        "rarity": "UNCOMMON"
+      },
       "Fireproof Witch": {
         "chat_message": "Trouble's brewing, it's a Fireproof Witch!",
         "alternate_messages": [
@@ -581,6 +586,12 @@
         ],
         "fishing_experience": 400,
         "rarity": "COMMON"
+      },
+      "Magma Pillar": {
+        "chat_message": "A Magma Pillar rises from the lava.",
+        "fishing_experience": 0,
+        "rarity": "EPIC",
+        "rare": true
       },
       "Fiery Scuttler": {
         "chat_message": "A Fiery Scuttler inconspicuously waddles up to you, friends in tow.",
@@ -629,6 +640,16 @@
         ],
         "fishing_experience": 200,
         "rarity": "COMMON"
+      },
+      "Inkling": {
+        "chat_message": "You get an inkling that you've caught... an Inkling!",
+        "fishing_experience": 0,
+        "rarity": "UNCOMMON"
+      },
+      "Manta Ray": {
+        "chat_message": "A majestic creature rises from the water. It's a Manta Ray.",
+        "fishing_experience": 0,
+        "rarity": "EPIC"
       }
     }
   },
@@ -690,6 +711,43 @@
           "§a§oYou've caused a disturbance in the loch. Could it be... Nessie?"
         ],
         "fishing_experience": 7500,
+        "rarity": "MYTHIC",
+        "rare": true
+      }
+    }
+  },
+  "LOTUS_ATOLL": {
+    "chat_color": "§3",
+    "sea_creatures": {
+      "Atoll Croaker": {
+        "chat_message": "An inquisitive Atoll Croaker takes the bait!",
+        "fishing_experience": 0,
+        "rarity": "COMMON"
+      },
+      "Lotus Guardian": {
+        "chat_message": "A Lotus Guardian emerges, ready to protect the Atoll.",
+        "fishing_experience": 0,
+        "rarity": "UNCOMMON"
+      },
+      "gorF": {
+        "chat_message": "What even is that?! A... gorF?",
+        "fishing_experience": 0,
+        "rarity": "RARE"
+      },
+      "Drowned Captain": {
+        "chat_message": "A Drowned Captain takes hold of your bobber!",
+        "fishing_experience": 0,
+        "rarity": "EPIC"
+      },
+      "Puddle Jumper": {
+        "chat_message": "A Puddle Jumper is preparing for liftoff—cast your rod into it and hold on tight!",
+        "fishing_experience": 0,
+        "rarity": "LEGENDARY",
+        "rare": true
+      },
+      "Frog Prince": {
+        "chat_message": "Bow down before the Frog Prince... or pay the hefty price!",
+        "fishing_experience": 0,
         "rarity": "MYTHIC",
         "rare": true
       }

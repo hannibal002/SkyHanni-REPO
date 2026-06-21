@@ -166,7 +166,7 @@
       250,
       400,
       1000,
-      1750,
+      1800,
       3500,
       7500,
       12500,
@@ -772,7 +772,16 @@
       "need_items": [],
       "mode": "farming_1",
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzEyNjQwMzM4NCwK\nICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhN\nGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdH\nVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0l\nOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFm\ndC5uZXQvdGV4dHVyZS9jYWJiMmMwNDYzNWEyOWIwOGUxNjFkODU5YjExYmRhZ\nGI3NWEyOWQzYzY0ZGY3ZTg0YTEwOGMzN2Y3ZjgzYzAiLAogICAgICAibWV0YW\nRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICA\ngfQogIH0KfQ==",
-      "position": "164:77:-359"
+      "position": "164:77:-359",
+      "show_chat_message": true
+    },
+    "Carrot King Avatar": {
+      "rarity": "legendary",
+      "need_items": [
+        "Carrot",
+        "Lucky Clover"
+      ],
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTE3OTEwNCwKICAicHJvZmlsZUlkIiA6ICIxNDM3N2ZjOGU1NTg0NGQwOTg2ZDkyMjY3ODRiMjQxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwVGlja0RlbGF5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM4MzY0MTQzNGMxOWRhZjRhMGIzM2FkMTdmMTcxYmE2YjcwNDMwNmE3ZjE0M2VjNDNiYTVmMTliZjdhNDRmMTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
     },
     "Clerk Seraphine": {
       "rarity": "legendary",
@@ -1121,7 +1130,8 @@
         "Squash",
         "Fermento"
       ],
-      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzU2OTY4ODUxNywKICAicHJvZmlsZUlkIiA6ICJmZWYyZDZjYzY5ZGI0ZWM5OWQzYzI5MzBmYzRmNTBhYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsb3Zlbm90d2FyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZhM2NkY2NjOTIyYjY3MDY3MDdmYWM3ZGNlMzQzNzczYmVjNzdkYTE4NTA5MGJjODQyZWM1NDE1ZjcyM2M1ZDMiCiAgICB9CiAgfQp9"
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzU2OTY4ODUxNywKICAicHJvZmlsZUlkIiA6ICJmZWYyZDZjYzY5ZGI0ZWM5OWQzYzI5MzBmYzRmNTBhYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsb3Zlbm90d2FyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZhM2NkY2NjOTIyYjY3MDY3MDdmYWM3ZGNlMzQzNzczYmVjNzdkYTE4NTA5MGJjODQyZWM1NDE1ZjcyM2M1ZDMiCiAgICB9CiAgfQp9",
+      "show_chat_message": true
     },
     "Odawa": {
       "rarity": "uncommon",
@@ -1295,7 +1305,8 @@
     },
     "Spaceman": {
       "rarity": "special",
-      "need_items": []
+      "need_items": [],
+      "show_chat_message": true
     },
     "Stella": {
       "rarity": "uncommon",
@@ -1321,6 +1332,16 @@
       "mode": "mining_3",
       "position": "34:202:-141",
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxMzQ0NjA5MiwK\nICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzO\nDMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYX\nR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0t\nJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3Jh\nZnQubmV0L3RleHR1cmUvMjEzY2YwY2E3OWEzNjExYjhlMDVmZTllMjY0ZmIyY\nmY4ZDI3ZTQ2NGRjMTJkYzZlOTVkZDBhZTBjMzM1YTU2MSIKICAgIH0KICB9Cn\n0="
+    },
+    "Tal Ker": {
+      "rarity": "legendary",
+      "need_items": [
+        "Moonflower"
+      ],
+      "mode": "mining_3",
+      "position": "194:196:206",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxMzQwOTk1NSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTdiMzU1MmM1YWYyYWIyZGM0ZTFmODRkNzhjYTRjNGQ2NzZkZWMwNjgxNTcyMjVhM2MyNjc0ZTU1NzRkMjM0OCIKICAgIH0KICB9Cn0=",
+      "show_chat_message": true
     },
     "Terry": {
       "rarity": "uncommon",
@@ -1819,6 +1840,27 @@
       "mode": "combat_3",
       "position": "-598:5:-273",
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTM2MDM4MDc1NSwKICAicHJvZmlsZUlkIiA6ICI0ZjU2ZTg2ODk2OGU0ZWEwYmNjM2M2NzRlNzQ3ODdjOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYzYzRlZGQxYzI3ZGIzMTYyZTkyZjg3MDgxMGZjZTM2NDZkY2JmOGVmNWViYjQ2ZjJkZGFkNWQ4ODQyNWUyZWUiCiAgICB9CiAgfQp9"
+    },
+    "Taylor": {
+      "rarity": "mythic",
+      "need_items": [
+        "Deepfries",
+        "Salted Sunflower Seeds",
+        "Enchanted Baked Potato",
+        "Floral Gelatin",
+        "Melon Juice",
+        "Compacted Wild Rose"
+      ],
+      "unknown_rewards": true
+    },
+    "Tal Ker": {
+      "rarity": "legendary",
+      "need_items": [
+        "Moonflower"
+      ],
+      "mode": "mining_3",
+      "position": "192:197:205",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxMzQwOTk1NSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTdiMzU1MmM1YWYyYWIyZGM0ZTFmODRkNzhjYTRjNGQ2NzZkZWMwNjgxNTcyMjVhM2MyNjc0ZTU1NzRkMjM0OCIKICAgIH0KICB9Cn0"
     }
   },
   "organic_matter": {

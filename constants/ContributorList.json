@@ -29,6 +29,10 @@
       "suffix": "§d§l:3",
       "display_name": "Bloxigus"
     },
+    "27ea7d81-a642-4ba2-81dd-1cbfdc3509f1": {
+      "suffix": "§d:D",
+      "display_name": "BonkersTurnip"
+    },
     "eaa5623c-8413-46b7-a74b-2d74a42b2841": {
       "suffix": "§e:)",
       "spinny": true,
@@ -138,6 +142,10 @@
       "suffix": "§3§lツ",
       "display_name": "ksndq"
     },
+    "ce1702bb-c527-443c-a811-b0d23b70bff8": {
+      "suffix": "§3:D",
+      "display_name": "liron150"
+    },
     "d3cb85e2-3075-48a1-b213-a9bfb62360c1": {
       "suffix": "§Z<3",
       "upsideDown": true,
@@ -240,6 +248,10 @@
       "suffix": "§b;C",
       "display_name": "Solde"
     },
+    "55dfd8cb-94ca-470b-99dc-69c3704b9d93": {
+      "suffix": "§6§l:)",
+      "display_name": "T0R0NT0"
+    },
     "503450fc-72c2-4e87-8243-94e264977437": {
       "suffix": "§d:3",
       "spinny": true,
@@ -267,7 +279,7 @@
       "componentSuffix": [{"atlas":"gui", "color": "white", "sprite":"skyhanni:trans"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:trans"}],
       "spinny": true,
       "upsideDown": true,
-      "display_name": "Throwpo"
+      "display_name": "meowgirlemily"
     },
     "98d8fdb5-e052-4dd3-a179-47fcec77c971": {
       "display_name": "Thunderblade73"
