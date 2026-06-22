@@ -205,6 +205,12 @@
       ],
       "fixed_in": "7.25.0",
       "custom_message": "Mining Event Tracker failed to load. Update to 7.25.0 to fix it."
+    },
+    {
+      "message_starts_with": [
+        "Caught a NumberFormatException in at.hannibal2.skyhanni.features.dungeon.DungeonFinderFeatures.onInventoryOpen"
+      ],
+      "fixed_in": "7.26.0"
     }
   ]
 }
