@@ -210,7 +210,7 @@
       "message_starts_with": [
         "Caught a NumberFormatException in at.hannibal2.skyhanni.features.dungeon.DungeonFinderFeatures.onInventoryOpen"
       ],
-      "fixed_in": "7.26.0"
+      "fixed_in": "7.27.0"
     }
   ]
 }
