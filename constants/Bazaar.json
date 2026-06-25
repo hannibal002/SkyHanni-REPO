@@ -1,0 +1,4 @@
+{
+  "daily_limit": 15000000000.0,
+  "cap_orders_at_integer_limit": true
+}

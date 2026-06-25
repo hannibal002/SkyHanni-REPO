@@ -19,7 +19,14 @@
       "GOLDEN_POWDER",
       "GHOUL;3",
       "GHOUL;4",
-      "DYE_MATCHA"
+      "DYE_MATCHA",
+      "ATTRIBUTE_SHARD_UNDEAD_ESSENCE;1",
+      "ATTRIBUTE_SHARD_LIFE_RECOVERY;1",
+      "ATTRIBUTE_SHARD_MIDAS_TOUCH;1",
+      "ATTRIBUTE_SHARD_EXPERIENCE;1",
+      "ATTRIBUTE_SHARD_ROTTEN_PICKAXE;1",
+      "FESTERING_MAGGOT",
+      "SEVERED_HAND"
     ],
     "Tarantula Broodfather": [
       "TARANTULA_WEB",
@@ -38,6 +45,16 @@
       "SPIDERS_DEN_TOP_TRAVEL_SCROLL",
       "ARACHNE_KEEPER_FRAGMENT",
       "BURNING_EYE",
+      "DARKNESS_WITHIN_RUNE;1",
+      "TARANTULA_CATALYST",
+      "VIAL_OF_VENOM",
+      "PRIMORDIAL_EYE",
+      "ENSNARED_SNAIL",
+      "SHRIVELED_WASP",
+      "TARANTULA_SILK",
+      "ATTRIBUTE_SHARD_ARACHNO;1",
+      "ATTRIBUTE_SHARD_ARACHNO_RESISTANCE;1",
+      "ATTRIBUTE_SHARD_SPIDER_ESSENCE;1",
       "DYE_BRICK_RED"
     ],
     "Sven Packmaster": [
@@ -57,7 +74,8 @@
       "HOUND;4",
       "WEAK_WOLF_CATALYST",
       "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
-      "DYE_CELESTE"
+      "DYE_CELESTE",
+      "ATTRIBUTE_SHARD_COMBO;1"
     ],
     "Voidgloom Seraph": [
       "NULL_SPHERE",
@@ -87,7 +105,10 @@
       "ENDERMAN;2",
       "ENDERMAN;3",
       "ENDERMAN;4",
-      "DYE_BYZANTIUM"
+      "DYE_BYZANTIUM",
+      "ATTRIBUTE_SHARD_ENDER;1",
+      "ATTRIBUTE_SHARD_ENDER_RESISTANCE;1",
+      "ENDSTONE_IDOL"
     ],
     "Inferno Demonlord": [
       "DERELICT_ASHE",
@@ -118,7 +139,8 @@
       "MILLENIA_OLD_BLAZE_ASHES",
       "SMOLDERING;1",
       "SWORD_OF_BAD_HEALTH",
-      "DYE_FLAME"
+      "DYE_FLAME",
+      "ATTRIBUTE_SHARD_ATTACK_SPEED;1"
     ],
     "Riftstalker Bloodfiend": [
       "COVEN_SEAL",

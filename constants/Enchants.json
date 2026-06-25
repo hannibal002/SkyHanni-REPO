@@ -36,6 +36,12 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
+    "bug blender": {
+      "loreName": "Bug Blender",
+      "nbtName": "bug_blender",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "caster": {
       "loreName": "Caster",
       "nbtName": "caster",
@@ -114,16 +120,16 @@
       "goodLevel": 0,
       "maxLevel": 3
     },
-    "dragon hunter": {
-      "loreName": "Dragon Hunter",
-      "nbtName": "dragon_hunter",
-      "goodLevel": 0,
-      "maxLevel": 5
-    },
     "dragon tracer": {
       "loreName": "Dragon Tracer",
       "nbtName": "aiming",
       "goodLevel": 5,
+      "maxLevel": 5
+    },
+    "drain": {
+      "loreName": "Drain",
+      "nbtName": "syphon",
+      "goodLevel": 3,
       "maxLevel": 5
     },
     "efficiency": {
@@ -148,6 +154,12 @@
       "loreName": "Experience",
       "nbtName": "experience",
       "goodLevel": 3,
+      "maxLevel": 5
+    },
+    "feast": {
+      "loreName": "Feast",
+      "nbtName": "feast",
+      "goodLevel": 0,
       "maxLevel": 5
     },
     "feather falling": {
@@ -190,7 +202,7 @@
       "loreName": "Frail",
       "nbtName": "frail",
       "goodLevel": 5,
-      "maxLevel": 6
+      "maxLevel": 7
     },
     "frost walker": {
       "loreName": "Frost Walker",
@@ -204,11 +216,23 @@
       "goodLevel": 0,
       "maxLevel": 10
     },
+    "forest pledge": {
+      "loreName": "Forest Pledge",
+      "nbtName": "forest_pledge",
+      "goodLevel": 2,
+      "maxLevel": 5
+    },
     "giant killer": {
       "loreName": "Giant Killer",
       "nbtName": "giant_killer",
       "goodLevel": 5,
       "maxLevel": 7
+    },
+    "gravity": {
+      "loreName": "Gravity",
+      "nbtName": "dragon_hunter",
+      "goodLevel": 5,
+      "maxLevel": 6
     },
     "great spook": {
       "loreName": "Great Spook",
@@ -249,8 +273,8 @@
     "impaling": {
       "loreName": "Impaling",
       "nbtName": "impaling",
-      "goodLevel": 3,
-      "maxLevel": 3
+      "goodLevel": 5,
+      "maxLevel": 5
     },
     "infinite quiver": {
       "loreName": "Infinite Quiver",
@@ -309,6 +333,12 @@
     "magnet": {
       "loreName": "Magnet",
       "nbtName": "magnet",
+      "goodLevel": 5,
+      "maxLevel": 6
+    },
+    "magmarizer": {
+      "loreName": "Magmarizer",
+      "nbtName": "magmarizer",
       "goodLevel": 5,
       "maxLevel": 6
     },
@@ -436,7 +466,7 @@
       "loreName": "Respiration",
       "nbtName": "respiration",
       "goodLevel": 3,
-      "maxLevel": 3
+      "maxLevel": 4
     },
     "respite": {
       "loreName": "Respite",
@@ -448,6 +478,12 @@
       "loreName": "Scavenger",
       "nbtName": "scavenger",
       "goodLevel": 3,
+      "maxLevel": 6
+    },
+    "scuba": {
+      "loreName": "Scuba",
+      "nbtName": "scuba",
+      "goodLevel": 0,
       "maxLevel": 6
     },
     "sharpness": {
@@ -510,17 +546,17 @@
       "goodLevel": 0,
       "maxLevel": 6
     },
-    "syphon": {
-      "loreName": "Syphon",
-      "nbtName": "syphon",
-      "goodLevel": 3,
-      "maxLevel": 5
-    },
     "smoldering": {
       "loreName": "Smoldering",
       "nbtName": "smoldering",
       "goodLevel": 0,
       "maxLevel": 5
+    },
+    "stealth": {
+      "loreName": "Stealth",
+      "nbtName": "stealth",
+      "goodLevel": 0,
+      "maxLevel": 1
     },
     "strong mana": {
       "loreName": "Strong Mana",
@@ -586,61 +622,79 @@
       "loreName": "Turbo-Cacti",
       "nbtName": "turbo_cactus",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-cane": {
       "loreName": "Turbo-Cane",
       "nbtName": "turbo_cane",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-carrot": {
       "loreName": "Turbo-Carrot",
       "nbtName": "turbo_carrot",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-cocoa": {
       "loreName": "Turbo-Cocoa",
       "nbtName": "turbo_coco",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-melon": {
       "loreName": "Turbo-Melon",
       "nbtName": "turbo_melon",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-mushrooms": {
       "loreName": "Turbo-Mushrooms",
       "nbtName": "turbo_mushrooms",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-potato": {
       "loreName": "Turbo-Potato",
       "nbtName": "turbo_potato",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-pumpkin": {
       "loreName": "Turbo-Pumpkin",
       "nbtName": "turbo_pumpkin",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-warts": {
       "loreName": "Turbo-Warts",
       "nbtName": "turbo_warts",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-wheat": {
       "loreName": "Turbo-Wheat",
       "nbtName": "turbo_wheat",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
+    },
+    "turbo-rose": {
+      "loreName": "Turbo-Rose",
+      "nbtName": "turbo_rose",
+      "goodLevel": 0,
+      "maxLevel": 7
+    },
+    "turbo-moonflower": {
+      "loreName": "Turbo-Moonflower",
+      "nbtName": "turbo_moonflower",
+      "goodLevel": 0,
+      "maxLevel": 7
+    },
+    "turbo-sunflower": {
+      "loreName": "Turbo-Sunflower",
+      "nbtName": "turbo_sunflower",
+      "goodLevel": 0,
+      "maxLevel": 7
     },
     "vampirism": {
       "loreName": "Vampirism",
@@ -652,13 +706,19 @@
       "loreName": "Venomous",
       "nbtName": "venomous",
       "goodLevel": 5,
-      "maxLevel": 6
+      "maxLevel": 7
     },
     "vicious": {
       "loreName": "Vicious",
       "nbtName": "vicious",
       "goodLevel": 0,
       "maxLevel": 5
+    },
+    "woodsplitter": {
+      "loreName": "Woodsplitter",
+      "nbtName": "arcane",
+      "goodLevel": 5,
+      "maxLevel": 6
     }
   },
   "ULTIMATE": {
@@ -689,6 +749,12 @@
     "duplex": {
       "loreName": "Duplex",
       "nbtName": "ultimate_reiterate",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "first impression": {
+      "loreName": "First Impression",
+      "nbtName": "ultimate_first_impression",
       "goodLevel": 0,
       "maxLevel": 5
     },
@@ -740,6 +806,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "missile": {
+      "loreName": "Missile",
+      "nbtName": "ultimate_missile",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "no pain no gain": {
       "loreName": "No Pain No Gain",
       "nbtName": "ultimate_no_pain_no_gain",
@@ -750,7 +822,7 @@
       "loreName": "One For All",
       "nbtName": "ultimate_one_for_all",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 1
     },
     "refrigerate": {
       "loreName": "Refrigerate",
@@ -767,6 +839,12 @@
     "soul eater": {
       "loreName": "Soul Eater",
       "nbtName": "ultimate_soul_eater",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "sunset": {
+      "loreName": "Sunset",
+      "nbtName": "ultimate_sunset",
       "goodLevel": 0,
       "maxLevel": 5
     },
@@ -793,9 +871,24 @@
       "nbtName": "ultimate_wisdom",
       "goodLevel": 0,
       "maxLevel": 5
+    },
+    "crop fever": {
+      "loreName": "Crop Fever",
+      "nbtName": "ultimate_crop_fever",
+      "goodLevel": 0,
+      "maxLevel": 5
     }
   },
   "STACKING": {
+    "absorb": {
+      "loreName": "Absorb",
+      "nbtName": "absorb",
+      "nbtNum": "absorb_logs_chopped",
+      "goodLevel": 0,
+      "maxLevel": 10,
+      "statLabel": "absorbLogsChopped",
+      "stackLevel": [0, 1000, 5000, 25000, 100000, 300000, 1500000, 5000000, 25000000, 50000000]
+    },
     "compact": {
       "loreName": "Compact",
       "nbtName": "compact",
@@ -812,7 +905,7 @@
       "goodLevel": 0,
       "maxLevel": 10,
       "statLabel": "cultivatedCrops",
-      "stackLevel": [0, 1000, 5000, 25000, 100000, 300000, 1500000, 5000000, 20000000, 100000000]
+      "stackLevel": [0, 1000, 5000, 25000, 100000, 250000, 1000000, 2500000, 10000000, 25000000]
     },
     "expertise": {
       "loreName": "Expertise",

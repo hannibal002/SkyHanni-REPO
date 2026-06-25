@@ -1,0 +1,79 @@
+{
+  "spade_types": [
+    "ANCESTRAL_SPADE",
+    "ARCHAIC_SPADE",
+    "DEIFIC_SPADE"
+  ],
+  "sphinx_questions": {
+    "//": "Try to keep the list alphabetical",
+    "How do you obtain the Dark Purple Dye?": "Dark Auction",
+    "How many floors are there in The Catacombs?": "7",
+    "What does Junker Joel collect?": "Junk",
+    "What is the first type of slayer Maddox offers?": "Zombie",
+    "What item do you use to kill Pests?": "Vacuum",
+    "What type of mob is exclusive to the Fishing Festival?": "Shark",
+    "Where is the Titanoboa found?": "Backwater Bayou",
+    "Where is Trevor the Trapper found?": "Mushroom Desert",
+    "Which item rarity comes after Mythic?": "Divine",
+    "Which of these is NOT a pet?": "Slime",
+    "Which of these is NOT a type of Gemstone?": "Prismite",
+    "Which type of Gemstone has the lowest Breaking Power?": "Ruby",
+    "Who helps you apply Rod Parts?": "Roddy",
+    "Who owns the Gold Essence Shop?": "Marigold",
+    "Who runs the Chocolate Factory?": "Hoppity"
+  },
+  "mythological_mobs": {
+    "Gaia Construct": {
+      "name": "§2Gaia Construct"
+    },
+    "Minotaur": {
+      "name": "§2Minotaur"
+    },
+    "Minos Champion": {
+      "name": "§2Minos Champion"
+    },
+    "Siamese Lynxes": {
+      "name": "§2Siamese Lynxes"
+    },
+    "Minos Hunter": {
+      "name": "§2Minos Hunter"
+    },
+    "Cretan Bull": {
+      "name": "§2Cretan Bull"
+    },
+    "Harpy": {
+      "name": "§2Harpy"
+    },
+    "Stranded Nymph": {
+      "name": "§2Stranded Nymph"
+    },
+    "Sphinx": {
+      "name": "§cSphinx",
+      "rare": true
+    },
+    "Minos Inquisitor": {
+      "name": "§cMinos Inquisitor",
+      "rare": true,
+      "short_names": [
+        "inquisitor",
+        "inq"
+      ]
+    },
+    "King Minos": {
+      "name": "§cKing Minos",
+      "rare": true,
+      "short_names": [
+        "king",
+        "minos"
+      ]
+    },
+    "Manticore": {
+      "name": "§cManticore",
+      "rare": true,
+      "short_names": [
+        "manti",
+        "core"
+      ]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+name: "Validate JSON"
+on:
+  pull_request:
+    paths:
+      - "**.json"
+
+permissions:
+  contents: read
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5  # v4.3.1
+
+      - name: Get changed files
+        id: changed
+        uses: tj-actions/changed-files@48d8f15b2aaa3d255ca5af3eba4870f807ce6b3c  # v45.0.2
+        with:
+          files: "**.json"
+          separator: "\n"
+
+      - name: Validate JSON files
+        if: steps.changed.outputs.any_changed == 'true'
+        id: validate
+        run: |
+          chmod +x .github/scripts/validate-json.sh
+          ./.github/scripts/validate-json.sh
+        env:
+          CHANGED_FILES: ${{ steps.changed.outputs.all_changed_files }}
+
+      - name: Save validation report
+        if: steps.validate.outputs.failed == 'true'
+        env:
+          REPORT: ${{ steps.validate.outputs.report }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          printf '%s' "$REPORT" > validation-report.txt
+          printf '%s' "$PR_NUMBER" > pr-number.txt
+
+      - name: Upload validation artifact
+        if: steps.validate.outputs.failed == 'true'
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02  # v4.6.2
+        with:
+          name: validation-report
+          path: |
+            validation-report.txt
+            pr-number.txt
+          retention-days: 1
+
+      - name: Fail if invalid
+        if: steps.validate.outputs.failed == 'true'
+        run: exit 1

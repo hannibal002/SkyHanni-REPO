@@ -1,0 +1,11 @@
+{
+  "ignored_island_types": [
+    "PRIVATE_ISLAND",
+    "PRIVATE_ISLAND_GUEST",
+    "GARDEN",
+    "GARDEN_GUEST",
+    "MINESHAFT",
+    "CATACOMBS",
+    "KUUDRA_ARENA"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "skins": {
+    "game_variants": {
+      "seasonal": [
+        "PET_SKIN_FOUR_SEASONS_GRIFFIN"
+      ],
+      "day_night": [
+        "PET_SKIN_MOOSHROOM_COW_MOONBLOOM",
+        "PET_SKIN_SKELETON_PEARL",
+        "PET_SKIN_JERRY_MUMMY",
+        "PET_SKIN_WOLF_SPIRIT",
+        "PET_SKIN_SNOWMAN_COOKIE_SANDWICH",
+        "PET_SKIN_SNAIL_CAKE",
+        "PET_SKIN_OCELOT_PANTHER",
+        "PET_SKIN_BAT_CANDY",
+        "PET_SKIN_RABBIT_HOT_COCOA",
+        "PET_SKIN_TIGER_TWILIGHT",
+        "PET_SKIN_ELEPHANT_MONOCHROME"
+      ],
+      "ci_faction": [
+        "PET_SKIN_KUUDRA_LOYALTY"
+      ]
+    }
+  }
+}

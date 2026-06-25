@@ -1,0 +1,26 @@
+{
+  "item_price_coin_only": {
+    "KUUDRA_TIER_KEY": 200000,
+    "KUUDRA_HOT_TIER_KEY": 400000,
+    "KUUDRA_BURNING_TIER_KEY": 750000,
+    "KUUDRA_FIERY_TIER_KEY": 1500000,
+    "KUUDRA_INFERNAL_TIER_KEY": 3000000
+  },
+  "items_to_discount_by_area": {
+    "Emissary": [
+      "KUUDRA_TIER_KEY",
+      "KUUDRA_HOT_TIER_KEY",
+      "KUUDRA_BURNING_TIER_KEY",
+      "KUUDRA_FIERY_TIER_KEY",
+      "KUUDRA_INFERNAL_TIER_KEY"
+    ]
+  },
+  "scaling_discounts": {
+    "Emissary": {
+      "1000": 5,
+      "3000": 10,
+      "7000": 15,
+      "12000": 20
+    }
+  }
+}

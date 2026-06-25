@@ -1,55 +1,6 @@
 {
   "changed_error_messages": [
     {
-      "message_exact": [
-        "Error while running command /shtestwaypoint"
-      ],
-      "message_starts_with": [
-      ],
-      "custom_message": "Usage: /shtestwaypoint <x> <y> <z>",
-      "affected_versions": [
-        "0.27.Beta.15",
-        "0.27.Beta.16"
-      ],
-      "fixed_in": "1.0.0"
-    },
-    {
-      "message_exact": [
-      ],
-      "message_starts_with": [
-        "Caught a IllegalStateException in HoppityEggsManager at LorenzChatEvent: Unknown meal:"
-      ],
-      "custom_message": "Update your SkyHanni version to the beta so the Hoppity features work correctly, you can use /shupdate beta",
-      "affected_versions": [
-        "0.27"
-      ],
-      "fixed_in": "1.0.0"
-    },
-    {
-      "message_starts_with": [
-        "Error in Hitman Time, PLEASE report this on discord"
-      ],
-      "fixed_in": "1.5.0"
-    },
-    {
-      "message_starts_with": [
-        "Caught a IllegalStateException in PestAPI at LorenzChatEvent: Can not remove nearest pest: No infested plots detected."
-      ],
-      "fixed_in": "1.7.0"
-    },
-    {
-      "message_starts_with": [
-        "Island check comparison with HypixelModAPI failed. Please report in discord."
-      ],
-      "fixed_in": "1.17.0"
-    },
-    {
-      "message_starts_with": [
-        "ServerId check comparison with HypixelModAPI failed. Please report in discord."
-      ],
-      "fixed_in": "1.17.0"
-    },
-    {
       "message_starts_with": [
         "HypixelData check comparison with HypixelModAPI failed. Please report in discord."
       ],
@@ -57,64 +8,209 @@
     },
     {
       "message_starts_with": [
-        "Error in Estimated Item Value renderer"
-      ],
-      "fixed_in": "1.7.0"
-    },
-    {
-      "message_starts_with": [
-        "Caught a IllegalArgumentException in at.hannibal2.skyhanni.features.misc.EnchantedClockHelper.onInventoryOpen(at.hannibal2.skyhanni.events.InventoryOpenEvent) at InventoryFullyOpenedEvent: No group with name"
-      ],
-      "fixed_in": "1.7.0"
-    },
-    {
-      "message_starts_with": [
-        "Loaded 1 item not in a fishing category"
-      ],
-      "fixed_in": "1.8.0"
-    },
-    {
-      "message_starts_with": [
-        "Caught a IllegalStateException in at.hannibal2.skyhanni.utils.ComputerTimeOffset.onDebug(at.hannibal2.skyhanni.events.DebugDataCollectEvent) at DebugDataCollectEvent: Title not set"
-      ],
-      "fixed_in": "1.9.0"
-    },
-    {
-      "message_starts_with": [
-        "CustomScoreboard detected a unknown line: 'Century Raffle"
-      ],
-      "fixed_in": "1.10.0"
-    },
-    {
-      "message_starts_with": [
-        "Caught a IllegalStateException in BazaarCancelledBuyOrderClipboard at LorenzChatEvent: last clicked bz item is null"
+        "Caught a IllegalStateException in BazaarCancelledBuyOrderClipboard at LorenzChatEvent: last clicked bz item is null",
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.inventory.bazaar.BazaarCancelledBuyOrderClipboard.onChat(at.hannibal2.skyhanni.events.chat.SkyHanniChatEvent) at SkyHanniChatEvent: Cancel buy order clipboard could not detect the last bazaar product."
       ],
       "custom_message": "Cancelled Buy Order Clipboard doesn't work with Soopy's SBMENU setting. Please disable one of them. If you do not use this feature, please report it on the SkyHanni Discord!",
       "fixed_in": "9.9.9"
     },
     {
       "message_starts_with": [
-        "Unknown slice of cake color"
+        "Error fetching data from NEU Lowest Bin API!"
       ],
-      "fixed_in": "1.1.0"
+      "fixed_in": "9.9.9"
     },
     {
       "message_starts_with": [
-        "TPS calculation got an error"
+        "Caught a NoSuchElementException in at.hannibal2.skyhanni.features.mining.powdertracker"
       ],
-      "fixed_in": "1.12.0"
+      "fixed_in": "9.9.9"
+    },
+    {
+      "message_starts_with": [
+        "Found unknown skyblock stats on items, please report this in discord"
+      ],
+      "fixed_in": "5.0.1"
+    },
+    {
+      "message_starts_with": [
+        "Unknown mayor found"
+      ],
+      "fixed_in": "5.3.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.misc.UserLuckBreakdown"
+      ],
+      "fixed_in": "9.0.0"
+    },
+    {
+      "message_starts_with": [
+        "Found unknown skyblock stats on items"
+      ],
+      "fixed_in": "5.7.0"
+    },
+    {
+      "message_exact": [
+        "Unable to handle packet"
+      ],
+      "fixed_in": "6.17.0"
+    },
+    {
+      "message_exact": [
+        "VertexFormatElement ID 6 was already taken, using 7 instead"
+      ],
+      "fixed_in": "7.6.0"
+    },
+    {
+      "message_starts_with": [
+        "CustomScoreboard detected an unknown line"
+      ],
+      "fixed_in": "8.0.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.bingo.BingoApi"
+      ],
+      "fixed_in": "7.19.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.event.lobby.waypoints.easter.EasterEggWaypoints.onSecondPassed()"
+      ],
+      "fixed_in": "7.12.0"
+    },
+    {
+      "message_starts_with": [
+        "DelayedRun task crashed while executing"
+      ],
+      "fixed_in": "7.12.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.inventory.chocolatefactory.data.CFDataLoader.onInventoryUpdated(at.hannibal2.skyhanni.events.InventoryUpdatedEvent) at InventoryUpdatedEvent: Rendersystem called from wrong thread"
+      ],
+      "fixed_in": "7.12.0"
     },
     {
       "message_starts_with": [
         "Could not find gemstone slot price for"
       ],
-      "fixed_in": "2.3.0"
+      "fixed_in": "7.12.0"
     },
     {
       "message_starts_with": [
-        "No path to fishing hotspot found"
+        "Asynchronous exception caught in election api fetch"
       ],
-      "fixed_in": "2.5.0"
+      "fixed_in": "7.19.0"
+    },
+    {
+      "message_starts_with": [
+        "Could not read category for item"
+      ],
+      "fixed_in": "7.20.0"
+    },
+    {
+      "message_starts_with": [
+        "Unknown stat: 'OVERBLOOM'"
+      ],
+      "fixed_in": "7.19.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a IllegalStateException in at.hannibal2.skyhanni.api.ReforgeApi.onNeuRepoReload",
+        "[Repo - NotEnoughUpdates] Error while posting repo reload event"
+      ],
+      "fixed_in": "7.19.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.hunting.HuntingProfitTracker.onItemChange",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.garden.visitor.GardenVisitorTooltip.onVisitorOpen",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.misc.ColorHexInLore.onTooltip",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.garden.pests.stereo.StereoHarmonyDisplay.onOwnInventoryItemUpdate",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.garden.composter.ComposterOverlay.onChestGuiRender",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.foraging.ForagingTracker.onSackChange",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.garden.visitor.VisitorListener.onTooltip",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.inventory.ItemDisplayOverlayFeatures.onRenderItemTip",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.inventory.bazaar.CraftMaterialCollector.onInventoryFullyOpened",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.misc.items.EstimatedItemValueTooltip.onTooltip",
+        "Caught a NullPointerException in at.hannibal2.skyhanni.features.commands.ViewRecipeCommand.onMessageSendToServer"
+      ],
+      "fixed_in": "7.20.0",
+      "custom_message": "A feature you just tried to use is broken in 7.19.0. Please update to 7.20.0 or newer!"
+    },
+    {
+      "message_starts_with": [
+        "Item category FISHING_WEAPON for item",
+        "Item category HOE for item"
+      ],
+      "fixed_in": "9.9.9"
+    },
+    {
+      "message_starts_with": [
+        "Caught a ClassCastException in at.hannibal2.skyhanni.features.chat.CurrentChatDisplay"
+      ],
+      "fixed_in": "9.9.9"
+    },
+    {
+      "message_starts_with": [
+        "Loaded 1 item not in a fishing category",
+        "Loaded 2 items not in a fishing category",
+        "Loaded 3 items not in a fishing category",
+        "Loaded 4 items not in a fishing category",
+        "Loaded 5 items not in a fishing category",
+        "Loaded 6 items not in a fishing category",
+        "Loaded 7 items not in a fishing category",
+        "Loaded 8 items not in a fishing category",
+        "Loaded 9 items not in a fishing category",
+        "Loaded 10 items not in a fishing category",
+        "Loaded 11 items not in a fishing category",
+        "Loaded 12 items not in a fishing category",
+        "Loaded 13 items not in a fishing category",
+        "Loaded 14 items not in a fishing category",
+        "Loaded 15 items not in a fishing category",
+        "Loaded 16 items not in a fishing category",
+        "Loaded 17 items not in a fishing category",
+        "Loaded 18 items not in a fishing category"
+      ],
+      "fixed_in": "9.9.9"
+    },
+    {
+      "message_starts_with": [
+        "Error loading island type",
+        "Invalid island type change detected"
+      ],
+      "fixed_in": "7.24.0",
+      "custom_message": "SkyHanni ran into an error with island detection. Please update to 7.24.0 or newer to fix the issue."
+    },
+    {
+      "message_starts_with": [
+        "Error while editing message",
+        "Error while deleting message"
+      ],
+      "fixed_in": "7.25.0"
+    },
+    {
+      "message_contains": [
+        "current island graph is not loaded"
+      ],
+      "fixed_in": "7.25.0",
+      "custom_message": "Failed to load island graph, some area-specific features may not work. Update to 7.25.0 to fix it."
+    },
+    {
+      "message_starts_with": [
+        "Caught a NoClassDefFoundError in at.hannibal2.skyhanni.features.mining.eventtracker.MiningEventTracker",
+        "Asynchronous exception caught in mining event tracker"
+      ],
+      "fixed_in": "7.25.0",
+      "custom_message": "Mining Event Tracker failed to load. Update to 7.25.0 to fix it."
+    },
+    {
+      "message_starts_with": [
+        "Caught a NumberFormatException in at.hannibal2.skyhanni.features.dungeon.DungeonFinderFeatures.onInventoryOpen"
+      ],
+      "fixed_in": "7.26.0"
     }
   ]
 }

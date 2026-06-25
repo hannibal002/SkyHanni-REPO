@@ -4,5 +4,17 @@
     "PLASMA",
     "VOLTA",
     "GHOST_BOOTS"
+  ],
+  "sacks_drops": [
+    "FLAWED_AMETHYST_GEM",
+    "FLAWED_AMBER_GEM",
+    "FLAWED_JADE_GEM",
+    "FLAWED_SAPPHIRE_GEM",
+    "FLAWED_TOPAZ_GEM",
+    "ROUGH_AMETHYST_GEM",
+    "ROUGH_AMBER_GEM",
+    "ROUGH_JADE_GEM",
+    "ROUGH_SAPPHIRE_GEM",
+    "ROUGH_TOPAZ_GEM"
   ]
 }

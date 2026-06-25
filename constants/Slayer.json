@@ -1,0 +1,401 @@
+{
+  "normal_mobs": {
+    "REVENANT": {
+      "Graveyard": [
+        {
+          "name": "Graveyard Zombie",
+          "level": 1,
+          "max_health": 100,
+          "xp": 6.0
+        },
+        {
+          "name": "Zombie Villager",
+          "level": 1,
+          "max_health": 120,
+          "xp": 7.0
+        }
+      ],
+      "Revenant Cave": [
+        {
+          "name": "Crypt Ghoul",
+          "level": 30,
+          "max_health": 2000,
+          "xp": 36.0
+        },
+        {
+          "name": "§6Golden Ghoul",
+          "level": 60,
+          "max_health": 45000,
+          "xp": 50.0
+        }
+      ],
+      "Lapis Quarry": [
+        {
+          "name": "Lapis Zombie",
+          "level": 15,
+          "max_health": 200,
+          "xp": 12.0
+        }
+      ],
+      "Diamond Reserve": [
+        {
+          "name": "Miner Skeleton",
+          "level": 15,
+          "max_health": 200,
+          "xp": 20.0
+        }
+      ],
+      "Obsidian Sanctuary": [
+        {
+          "name": "Miner Zombie",
+          "level": 20,
+          "max_health": 250,
+          "xp": 24.0
+        }
+      ]
+    },
+    "TARANTULA": {
+      "Spider Mound": [
+        {
+          "name": "Splitter Spider",
+          "level": 2,
+          "max_health": 170,
+          "xp": 9.5
+        },
+        {
+          "name": "Voracious Spider",
+          "level": 2,
+          "max_health": 170,
+          "xp": 9.5
+        },
+        {
+          "name": "Weaver Spider",
+          "level": 3,
+          "max_health": 170,
+          "xp": 9.5
+        },
+        {
+          "name": "Dasher Spider",
+          "level": 3,
+          "max_health": 170,
+          "xp": 10.5
+        },
+        {
+          "name": "Spider Jockey",
+          "level": 3,
+          "max_health": 170,
+          "xp": 9.42
+        },
+        {
+          "name": "Dasher Spider",
+          "level": 4,
+          "max_health": 170,
+          "xp": 10.57
+        },
+        {
+          "name": "Cave Spider",
+          "level": 6,
+          "max_health": 1200,
+          "xp": 10.0
+        },
+        {
+          "name": "Voracious Spider",
+          "level": 10,
+          "max_health": 300,
+          "xp": 10.57
+        }
+      ],
+      "Arachne's Burrow": [
+        {
+          "name": "Voracious Spider",
+          "level": 45,
+          "max_health": 1150,
+          "xp": 30.0
+        }
+      ],
+      "Burning Desert": [
+        {
+          "name": "Flaming Spider",
+          "level": 80,
+          "max_health": 1000000,
+          "xp": 120.0
+        }
+      ]
+    },
+    "SVEN": {
+      "Ruins": [
+        {
+          "name": "Wolf",
+          "level": 15,
+          "max_health": 250,
+          "xp": 15.0
+        },
+        {
+          "name": "Old Wolf",
+          "level": 50,
+          "max_health": 15000,
+          "xp": 40.0
+        }
+      ]
+    },
+    "VOID": {
+      "no_area": [
+        {
+          "name": "Enderman",
+          "level": 42,
+          "max_health": 4500,
+          "xp": 40.0
+        },
+        {
+          "name": "Enderman",
+          "level": 45,
+          "max_health": 6000,
+          "xp": 42.0
+        },
+        {
+          "name": "Enderman",
+          "level": 50,
+          "max_health": 9000,
+          "xp": 44.0
+        }
+      ],
+      "Dragon's Nest": [
+        {
+          "name": "Zealot",
+          "level": 55,
+          "max_health": 13000,
+          "xp": 45.0
+        }
+      ],
+      "Zealot Bruiser Hideout": [
+        {
+          "name": "Zealot Bruiser",
+          "level": 100,
+          "max_health": 65000,
+          "xp": 78.0
+        }
+      ],
+      "Void Sepulture": [
+        {
+          "name": "Voidling Fanatic",
+          "level": 85,
+          "max_health": 750000,
+          "xp": 110.0
+        },
+        {
+          "name": "§dVoidling Extremist",
+          "level": 100,
+          "max_health": 8000000,
+          "xp": 750.0
+        }
+      ]
+    },
+    "INFERNO": {
+      "Stronghold": [
+        {
+          "name": "Blaze",
+          "level": 70,
+          "max_health": 250,
+          "xp": 50.0
+        },
+        {
+          "name": "Bezal",
+          "level": 80,
+          "max_health": 300000,
+          "xp": 60.0
+        },
+        {
+          "name": "Mutatet Blaze",
+          "level": 70,
+          "max_health": 500000,
+          "xp": 75.0
+        }
+      ],
+      "Smoldering Tomb": [
+        {
+          "name": "Smoldering Blaze",
+          "level": 95,
+          "max_health": 2000000,
+          "xp": 320.0
+        },
+        {
+          "name": "§4Millennia-Aged Blaze",
+          "level": 110,
+          "max_health": 12000000,
+          "xp": 960.0
+        }
+      ]
+    },
+    "VAMPIRE": {}
+  },
+  "mini_bosses": {
+    "REVENANT": {
+      "3": [
+        {
+          "name": "§c§lRevenant Sycophant",
+          "level": 80,
+          "max_health": 24000,
+          "xp": 360.0
+        }
+      ],
+      "4": [
+        {
+          "name": "§c§lRevenant Champion",
+          "level": 150,
+          "max_health": 90000,
+          "xp": 600.0
+        },
+        {
+          "name": "§4§lDeformed Revenant",
+          "level": 300,
+          "max_health": 360000,
+          "xp": 1200.0
+        }
+      ],
+      "5": [
+        {
+          "name": "§c§lAtoned Champion",
+          "level": 390,
+          "max_health": 600000,
+          "xp": 900.0
+        },
+        {
+          "name": "§4§lAtoned Revenant",
+          "level": 770,
+          "max_health": 2400000,
+          "xp": 1600.0
+        }
+      ]
+    },
+    "TARANTULA": {
+      "3": [
+        {
+          "name": "§cTarantula Vermin",
+          "level": 120,
+          "max_health": 54000,
+          "xp": 150.0
+        }
+      ],
+      "4": [
+        {
+          "name": "§c§lTarantula Beast",
+          "level": 190,
+          "max_health": 144000,
+          "xp": 250.0
+        },
+        {
+          "name": "§4§lMutant Tarantula",
+          "level": 380,
+          "max_health": 576000,
+          "xp": 500.0
+        }
+      ],
+      "5": [
+        {
+          "name": "§c§lPrimordial Jockey",
+          "level": 470,
+          "max_health": 1000000,
+          "xp": 1350.0
+        },
+        {
+          "name": "§4§lPrimordial Viscount",
+          "level": 1020,
+          "max_health": 4000000,
+          "xp": 2600.0
+        }
+      ]
+    },
+    "SVEN": {
+      "3": [
+        {
+          "name": "§c§lPack Enforcer",
+          "level": 110,
+          "max_health": 45000,
+          "xp": 150.0
+        }
+      ],
+      "4": [
+        {
+          "name": "§c§lSven Follower",
+          "level": 170,
+          "max_health": 120000,
+          "xp": 250.0
+        },
+        {
+          "name": "§4§lSven Alpha",
+          "level": 350,
+          "max_health": 480000,
+          "xp": 500.0
+        }
+      ]
+    },
+    "VOID": {
+      "3": [
+        {
+          "name": "§5§lVoidling Devotee",
+          "level": 1730,
+          "max_health": 8400000,
+          "xp": 800.0
+        }
+      ],
+      "4": [
+        {
+          "name": "§5§lVoidling Radical",
+          "level": 2500,
+          "max_health": 17500000,
+          "xp": 2000.0
+        },
+        {
+          "name": "§4§lVoidcrazed Maniac",
+          "level": 4330,
+          "max_health": 52500000,
+          "xp": 5000.0
+        }
+      ]
+    },
+    "INFERNO": {
+      "3": [
+        {
+          "name": "§c§lFlare Demon",
+          "level": 1730,
+          "max_health": 9000000,
+          "xp": 1200.0
+        }
+      ],
+      "4": [
+        {
+          "name": "§c§lKindleheart Demon",
+          "level": 2500,
+          "max_health": 17500000,
+          "xp": 2400.0
+        },
+        {
+          "name": "§4§lBurningsoul Demon",
+          "level": 4330,
+          "max_health": 50000000,
+          "xp": 8000.0
+        }
+      ]
+    },
+    "VAMPIRE": {}
+  },
+  "weapons": {
+    "REVENANT": {
+      "AXE_OF_THE_SHREDDED": 45,
+      "REAPER_SWORD": 45
+    },
+    "TARANTULA": {
+      "SCORPION_FOIL": 30,
+      "STING": 45
+    },
+    "SVEN": {
+      "SHAMAN_SWORD": 30,
+      "POOCH_SWORD": 45
+    }
+  },
+  "equipments": {
+    "TARANTULA": {
+      "SHRIVELED_BRACELET": 5
+    }
+  }
+}
