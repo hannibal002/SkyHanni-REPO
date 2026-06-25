@@ -1,0 +1,624 @@
+{
+  "recipes": {
+    "LOG_2": {
+      "type": "crafting",
+      "result": "ENCHANTED_ACACIA_LOG"
+    },
+    "ANCIENT_CLAW": {
+      "type": "crafting",
+      "result": "ENCHANTED_ANCIENT_CLAW"
+    },
+    "LOG-2": {
+      "type": "crafting",
+      "result": "ENCHANTED_BIRCH_LOG"
+    },
+    "BLAZE_ROD": {
+      "type": "crafting",
+      "result": "ENCHANTED_BLAZE_POWDER"
+    },
+    "BONE": {
+      "type": "crafting",
+      "result": "ENCHANTED_BONE"
+    },
+    "BROWN_MUSHROOM": {
+      "type": "crafting",
+      "result": "ENCHANTED_BROWN_MUSHROOM"
+    },
+    "CACTUS": {
+      "type": "crafting",
+      "result": "ENCHANTED_CACTUS_GREEN"
+    },
+    "INK_SACK-2": {
+      "type": "crafting",
+      "result": "ENCHANTED_CACTUS_GREEN"
+    },
+    "CARROT_ITEM": {
+      "type": "crafting",
+      "result": "ENCHANTED_CARROT"
+    },
+    "CLAY_BALL": {
+      "type": "crafting",
+      "result": "ENCHANTED_CLAY_BALL"
+    },
+    "RAW_FISH-2": {
+      "type": "crafting",
+      "result": "ENCHANTED_CLOWNFISH"
+    },
+    "COAL": {
+      "type": "crafting",
+      "result": "ENCHANTED_COAL"
+    },
+    "COAL_BLOCK": {
+      "type": "crafting",
+      "result": "ENCHANTED_COAL"
+    },
+    "COBBLESTONE": {
+      "type": "crafting",
+      "result": "ENCHANTED_COBBLESTONE"
+    },
+    "INK_SACK-3": {
+      "type": "crafting",
+      "result": "ENCHANTED_COCOA"
+    },
+    "COMPOST": {
+      "type": "crafting",
+      "result": "ENCHANTED_COMPOST"
+    },
+    "YELLOW_FLOWER": {
+      "type": "crafting",
+      "result": "ENCHANTED_DANDELION"
+    },
+    "LOG_2-1": {
+      "type": "crafting",
+      "result": "ENCHANTED_DARK_OAK_LOG"
+    },
+    "DIAMOND": {
+      "type": "crafting",
+      "result": "ENCHANTED_DIAMOND"
+    },
+    "DIAMOND_BLOCK": {
+      "type": "crafting",
+      "result": "ENCHANTED_DIAMOND"
+    },
+    "EGG": {
+      "type": "crafting",
+      "result": "ENCHANTED_EGG"
+    },
+    "EMERALD": {
+      "type": "crafting",
+      "result": "ENCHANTED_EMERALD"
+    },
+    "EMERALD_BLOCK": {
+      "type": "crafting",
+      "result": "ENCHANTED_EMERALD"
+    },
+    "ENDER_PEARL": {
+      "type": "crafting",
+      "result": "ENCHANTED_ENDER_PEARL"
+    },
+    "ENDER_STONE": {
+      "type": "crafting",
+      "result": "ENCHANTED_ENDSTONE"
+    },
+    "FEATHER": {
+      "type": "crafting",
+      "result": "ENCHANTED_FEATHER"
+    },
+    "FIG_LOG": {
+      "type": "crafting",
+      "result": "ENCHANTED_FIG_LOG"
+    },
+    "FLINT": {
+      "type": "crafting",
+      "result": "ENCHANTED_FLINT"
+    },
+    "GHAST_TEAR": {
+      "type": "crafting",
+      "result": "ENCHANTED_GHAST_TEAR"
+    },
+    "GLACITE": {
+      "type": "crafting",
+      "result": "ENCHANTED_GLACITE"
+    },
+    "SPECKLED_MELON": {
+      "type": "crafting",
+      "result": "ENCHANTED_GLISTERING_MELON"
+    },
+    "GLOWSTONE_DUST": {
+      "type": "crafting",
+      "result": "ENCHANTED_GLOWSTONE_DUST"
+    },
+    "GOLD_INGOT": {
+      "type": "crafting",
+      "result": "ENCHANTED_GOLD"
+    },
+    "GOLD_BLOCK": {
+      "type": "crafting",
+      "result": "ENCHANTED_GOLD"
+    },
+    "SULPHUR": {
+      "type": "crafting",
+      "result": "ENCHANTED_GUNPOWDER"
+    },
+    "HARD_STONE": {
+      "type": "crafting",
+      "result": "ENCHANTED_HARD_STONE"
+    },
+    "ICE": {
+      "type": "crafting",
+      "result": "ENCHANTED_ICE"
+    },
+    "INK_SACK": {
+      "type": "crafting",
+      "result": "ENCHANTED_INK_SACK"
+    },
+    "IRON_INGOT": {
+      "type": "crafting",
+      "result": "ENCHANTED_IRON"
+    },
+    "IRON_BLOCK": {
+      "type": "crafting",
+      "result": "ENCHANTED_IRON"
+    },
+    "LOG-3": {
+      "type": "crafting",
+      "result": "ENCHANTED_JUNGLE_LOG"
+    },
+    "INK_SACK-4": {
+      "type": "crafting",
+      "result": "ENCHANTED_LAPIS_LAZULI"
+    },
+    "LAPIS_BLOCK": {
+      "type": "crafting",
+      "result": "ENCHANTED_LAPIS_LAZULI"
+    },
+    "LEATHER": {
+      "type": "crafting",
+      "result": "ENCHANTED_LEATHER"
+    },
+    "LUSH_BERBERIS": {
+      "type": "crafting",
+      "result": "ENCHANTED_LUSH_BERBERIS"
+    },
+    "MAGMA_CREAM": {
+      "type": "crafting",
+      "result": "ENCHANTED_MAGMA_CREAM"
+    },
+    "MANGROVE_LOG": {
+      "type": "crafting",
+      "result": "ENCHANTED_MANGROVE_LOG"
+    },
+    "MELON": {
+      "type": "crafting",
+      "result": "ENCHANTED_MELON"
+    },
+    "MITHRIL_ORE": {
+      "type": "crafting",
+      "result": "ENCHANTED_MITHRIL"
+    },
+    "MOONFLOWER": {
+      "type": "crafting",
+      "result": "ENCHANTED_MOONFLOWER"
+    },
+    "MUTTON": {
+      "type": "crafting",
+      "result": "ENCHANTED_MUTTON"
+    },
+    "MYCEL": {
+      "type": "crafting",
+      "result": "ENCHANTED_MYCELIUM"
+    },
+    "NETHERRACK": {
+      "type": "crafting",
+      "result": "ENCHANTED_NETHERRACK"
+    },
+    "NETHER_STALK": {
+      "type": "crafting",
+      "result": "ENCHANTED_NETHER_STALK"
+    },
+    "LOG": {
+      "type": "crafting",
+      "result": "ENCHANTED_OAK_LOG"
+    },
+    "OBSIDIAN": {
+      "type": "crafting",
+      "result": "ENCHANTED_OBSIDIAN"
+    },
+    "POISONOUS_POTATO": {
+      "type": "crafting",
+      "result": "ENCHANTED_POISONOUS_POTATO"
+    },
+    "RED_ROSE": {
+      "type": "crafting",
+      "result": "ENCHANTED_POPPY"
+    },
+    "PORK": {
+      "type": "crafting",
+      "result": "ENCHANTED_PORK"
+    },
+    "POTATO_ITEM": {
+      "type": "crafting",
+      "result": "ENCHANTED_POTATO"
+    },
+    "PRISMARINE_CRYSTALS": {
+      "type": "crafting",
+      "result": "ENCHANTED_PRISMARINE_CRYSTALS"
+    },
+    "PRISMARINE_SHARD": {
+      "type": "crafting",
+      "result": "ENCHANTED_PRISMARINE_SHARD"
+    },
+    "RAW_FISH-3": {
+      "type": "crafting",
+      "result": "ENCHANTED_PUFFERFISH"
+    },
+    "PUMPKIN": {
+      "type": "crafting",
+      "result": "ENCHANTED_PUMPKIN"
+    },
+    "QUARTZ": {
+      "type": "crafting",
+      "result": "ENCHANTED_QUARTZ"
+    },
+    "RABBIT": {
+      "type": "crafting",
+      "result": "ENCHANTED_RABBIT"
+    },
+    "RABBIT_FOOT": {
+      "type": "crafting",
+      "result": "ENCHANTED_RABBIT_FOOT"
+    },
+    "RABBIT_HIDE": {
+      "type": "crafting",
+      "result": "ENCHANTED_RABBIT_HIDE"
+    },
+    "RAW_BEEF": {
+      "type": "crafting",
+      "result": "ENCHANTED_RAW_BEEF"
+    },
+    "RAW_CHICKEN": {
+      "type": "crafting",
+      "result": "ENCHANTED_RAW_CHICKEN"
+    },
+    "RAW_FISH": {
+      "type": "crafting",
+      "result": "ENCHANTED_RAW_FISH"
+    },
+    "RAW_FISH-1": {
+      "type": "crafting",
+      "result": "ENCHANTED_RAW_SALMON"
+    },
+    "REDSTONE": {
+      "type": "crafting",
+      "result": "ENCHANTED_REDSTONE"
+    },
+    "REDSTONE_BLOCK": {
+      "type": "crafting",
+      "result": "ENCHANTED_REDSTONE"
+    },
+    "RED_MUSHROOM": {
+      "type": "crafting",
+      "result": "ENCHANTED_RED_MUSHROOM"
+    },
+    "SAND-1": {
+      "type": "crafting",
+      "result": "ENCHANTED_RED_SAND"
+    },
+    "ROTTEN_FLESH": {
+      "type": "crafting",
+      "result": "ENCHANTED_ROTTEN_FLESH"
+    },
+    "SAND": {
+      "type": "crafting",
+      "result": "ENCHANTED_SAND"
+    },
+    "SEA_LUMIES": {
+      "type": "crafting",
+      "result": "ENCHANTED_SEA_LUMIES"
+    },
+    "SEEDS": {
+      "type": "crafting",
+      "result": "ENCHANTED_SEEDS"
+    },
+    "SHARK_FIN": {
+      "type": "crafting",
+      "result": "ENCHANTED_SHARK_FIN"
+    },
+    "SLIME_BALL": {
+      "type": "crafting",
+      "result": "ENCHANTED_SLIME_BALL"
+    },
+    "SNOW_BLOCK": {
+      "type": "crafting",
+      "result": "ENCHANTED_SNOW_BLOCK"
+    },
+    "SPIDER_EYE": {
+      "type": "crafting",
+      "result": "ENCHANTED_SPIDER_EYE"
+    },
+    "SPONGE": {
+      "type": "crafting",
+      "result": "ENCHANTED_SPONGE"
+    },
+    "LOG-1": {
+      "type": "crafting",
+      "result": "ENCHANTED_SPRUCE_LOG"
+    },
+    "STRING": {
+      "type": "crafting",
+      "result": "ENCHANTED_STRING"
+    },
+    "SUGAR_CANE": {
+      "type": "crafting",
+      "result": "ENCHANTED_SUGAR"
+    },
+    "SULPHUR_ORE": {
+      "type": "crafting",
+      "result": "ENCHANTED_SULPHUR"
+    },
+    "DOUBLE_PLANT": {
+      "type": "crafting",
+      "result": "ENCHANTED_SUNFLOWER"
+    },
+    "TENDER_WOOD": {
+      "type": "crafting",
+      "result": "ENCHANTED_TENDER_WOOD"
+    },
+    "TITANIUM_ORE": {
+      "type": "crafting",
+      "result": "ENCHANTED_TITANIUM"
+    },
+    "TUNGSTEN": {
+      "type": "crafting",
+      "result": "ENCHANTED_TUNGSTEN"
+    },
+    "TURBO_GOURD": {
+      "type": "crafting",
+      "result": "ENCHANTED_TURBO_GOURD"
+    },
+    "UMBER": {
+      "type": "crafting",
+      "result": "ENCHANTED_UMBER"
+    },
+    "VAMPIRIC_MELON": {
+      "type": "crafting",
+      "result": "ENCHANTED_VAMPIRIC_MELON"
+    },
+    "VINESAP": {
+      "type": "crafting",
+      "result": "ENCHANTED_VINESAP"
+    },
+    "WATER_LILY": {
+      "type": "crafting",
+      "result": "ENCHANTED_WATER_LILY"
+    },
+    "WHEAT": {
+      "type": "crafting",
+      "result": "ENCHANTED_WHEAT"
+    },
+    "WILD_ROSE": {
+      "type": "crafting",
+      "result": "ENCHANTED_WILD_ROSE"
+    },
+    "WOOL": {
+      "type": "crafting",
+      "result": "ENCHANTED_WOOL"
+    },
+    "HEMOVIBE": {
+      "type": "crafting",
+      "result": "HEMOGLASS"
+    },
+    "ENCHANTED_ENDER_PEARL": {
+      "type": "crafting",
+      "result": "ABSOLUTE_ENDER_PEARL"
+    },
+    "ENCHANTED_SEEDS": {
+      "type": "crafting",
+      "result": "BOX_OF_SEEDS"
+    },
+    "ENCHANTED_MOONFLOWER": {
+      "type": "crafting",
+      "result": "COMPACTED_MOONFLOWER"
+    },
+    "ENCHANTED_SUNFLOWER": {
+      "type": "crafting",
+      "result": "COMPACTED_SUNFLOWER"
+    },
+    "ENCHANTED_WILD_ROSE": {
+      "type": "crafting",
+      "result": "COMPACTED_WILD_ROSE"
+    },
+    "ENCHANTED_HARD_STONE": {
+      "type": "crafting",
+      "result": "CONCENTRATED_STONE"
+    },
+    "ENCHANTED_WATER_LILY": {
+      "type": "crafting",
+      "result": "CONDENSED_WATER_LILY"
+    },
+    "ENCHANTED_POTATO": {
+      "type": "crafting",
+      "result": "ENCHANTED_BAKED_POTATO"
+    },
+    "ENCHANTED_BLAZE_POWDER": {
+      "type": "crafting",
+      "result": "ENCHANTED_BLAZE_ROD"
+    },
+    "ENCHANTED_BONE": {
+      "type": "crafting",
+      "result": "ENCHANTED_BONE_BLOCK"
+    },
+    "ENCHANTED_CACTUS_GREEN": {
+      "type": "crafting",
+      "result": "ENCHANTED_CACTUS"
+    },
+    "ENCHANTED_CLAY_BALL": {
+      "type": "crafting",
+      "result": "ENCHANTED_CLAY_BLOCK"
+    },
+    "ENCHANTED_COAL": {
+      "type": "crafting",
+      "result": "ENCHANTED_COAL_BLOCK"
+    },
+    "ENCHANTED_RAW_FISH": {
+      "type": "crafting",
+      "result": "ENCHANTED_COOKED_FISH"
+    },
+    "ENCHANTED_MUTTON": {
+      "type": "crafting",
+      "result": "ENCHANTED_COOKED_MUTTON"
+    },
+    "ENCHANTED_RABBIT": {
+      "type": "crafting",
+      "result": "ENCHANTED_COOKED_RABBIT"
+    },
+    "ENCHANTED_RAW_SALMON": {
+      "type": "crafting",
+      "result": "ENCHANTED_COOKED_SALMON"
+    },
+    "ENCHANTED_COCOA": {
+      "type": "crafting",
+      "result": "ENCHANTED_COOKIE"
+    },
+    "ENCHANTED_DIAMOND": {
+      "type": "crafting",
+      "result": "ENCHANTED_DIAMOND_BLOCK"
+    },
+    "ENCHANTED_EMERALD": {
+      "type": "crafting",
+      "result": "ENCHANTED_EMERALD_BLOCK"
+    },
+    "ENCHANTED_GLOWSTONE_DUST": {
+      "type": "crafting",
+      "result": "ENCHANTED_GLOWSTONE"
+    },
+    "ENCHANTED_CARROT": {
+      "type": "crafting",
+      "result": "ENCHANTED_GOLDEN_CARROT"
+    },
+    "ENCHANTED_GOLD": {
+      "type": "crafting",
+      "result": "ENCHANTED_GOLD_BLOCK"
+    },
+    "ENCHANTED_PORK": {
+      "type": "crafting",
+      "result": "ENCHANTED_GRILLED_PORK"
+    },
+    "ENCHANTED_WHEAT": {
+      "type": "crafting",
+      "result": "ENCHANTED_HAY_BALE"
+    },
+    "ENCHANTED_BROWN_MUSHROOM": {
+      "type": "crafting",
+      "result": "ENCHANTED_HUGE_MUSHROOM_1"
+    },
+    "ENCHANTED_RED_MUSHROOM": {
+      "type": "crafting",
+      "result": "ENCHANTED_HUGE_MUSHROOM_2"
+    },
+    "ENCHANTED_IRON": {
+      "type": "crafting",
+      "result": "ENCHANTED_IRON_BLOCK"
+    },
+    "ENCHANTED_LAPIS_LAZULI": {
+      "type": "crafting",
+      "result": "ENCHANTED_LAPIS_LAZULI_BLOCK"
+    },
+    "ENCHANTED_MELON": {
+      "type": "crafting",
+      "result": "ENCHANTED_MELON_BLOCK"
+    },
+    "ENCHANTED_MYCELIUM": {
+      "type": "crafting",
+      "result": "ENCHANTED_MYCELIUM_CUBE"
+    },
+    "ENCHANTED_ICE": {
+      "type": "crafting",
+      "result": "ENCHANTED_PACKED_ICE"
+    },
+    "ENCHANTED_QUARTZ": {
+      "type": "crafting",
+      "result": "ENCHANTED_QUARTZ_BLOCK"
+    },
+    "ENCHANTED_REDSTONE": {
+      "type": "crafting",
+      "result": "ENCHANTED_REDSTONE_BLOCK"
+    },
+    "ENCHANTED_RED_SAND": {
+      "type": "crafting",
+      "result": "ENCHANTED_RED_SAND_CUBE"
+    },
+    "ENCHANTED_SLIME_BALL": {
+      "type": "crafting",
+      "result": "ENCHANTED_SLIME_BLOCK"
+    },
+    "ENCHANTED_SUGAR": {
+      "type": "crafting",
+      "result": "ENCHANTED_SUGAR_CANE"
+    },
+    "ENCHANTED_SULPHUR": {
+      "type": "crafting",
+      "result": "ENCHANTED_SULPHUR_CUBE"
+    },
+    "ENCHANTED_SPONGE": {
+      "type": "crafting",
+      "result": "ENCHANTED_WET_SPONGE"
+    },
+    "ENCHANTED_FIG_LOG": {
+      "type": "crafting",
+      "result": "FIGSTONE"
+    },
+    "ENCHANTED_MANGROVE_LOG": {
+      "type": "crafting",
+      "result": "MANGCORE"
+    },
+    "ENCHANTED_NETHER_STALK": {
+      "type": "crafting",
+      "result": "MUTANT_NETHER_STALK"
+    },
+    "ENCHANTED_PUMPKIN": {
+      "type": "crafting",
+      "result": "POLISHED_PUMPKIN"
+    },
+    "ENCHANTED_GHAST_TEAR": {
+      "type": "crafting",
+      "result": "SILVER_FANG"
+    },
+    "ENCHANTED_EGG": {
+      "type": "crafting",
+      "result": "SUPER_EGG"
+    },
+    "ENCHANTED_MAGMA_CREAM": {
+      "type": "crafting",
+      "result": "WHIPPED_MAGMA_CREAM"
+    },
+    "HEMOGLASS": {
+      "type": "crafting",
+      "result": "HEMOBOMB"
+    },
+    "SUPER_EGG": {
+      "type": "crafting",
+      "result": "OMEGA_EGG"
+    },
+    "ENCHANTED_DIAMOND_BLOCK": {
+      "type": "forge",
+      "result": "REFINED_DIAMOND"
+    },
+    "ENCHANTED_MITHRIL": {
+      "type": "forge",
+      "result": "REFINED_MITHRIL"
+    },
+    "ENCHANTED_TITANIUM": {
+      "type": "forge",
+      "result": "REFINED_TITANIUM"
+    },
+    "ENCHANTED_TUNGSTEN": {
+      "type": "forge",
+      "result": "REFINED_TUNGSTEN"
+    },
+    "ENCHANTED_UMBER": {
+      "type": "forge",
+      "result": "REFINED_UMBER"
+    }
+  }
+}
