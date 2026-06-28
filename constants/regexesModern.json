@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "07e1232",
+  "sourceLabel": "3f0f0f0",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -42,9 +42,9 @@
     "auctions.highlight.buyitnow": "§7Buy it now: §6(?\u003ccoins\u003e.*) coins",
     "auctions.underbid.allowedinventories": "Auctions Browser|Manage Auctions|Auctions: \".*\"?",
     "auctions.underbid.price": "§7(?:Buy it now|Starting bid|Top bid): §6(?\u003ccoins\u003e[0-9,]+) coins",
-    "bazaar.cancelledorder.cancelledmessage": "§6\\[Bazaar] §r§7§r§cCancelled! §r§7Refunded §r§6(?\u003ccoins\u003e.*) coins §r§7from cancelling Buy Order!",
+    "bazaar.cancelledorder.cancelledmessage.colorless": "\\[Bazaar] Cancelled! Refunded (?\u003ccoins\u003e.*) coins from cancelling Buy Order!",
     "bazaar.cancelledorder.inventorytitle": "Order options",
-    "bazaar.cancelledorder.lastamount": "(?:§6coins §7from |§6§7from |§7)§a(?\u003camount\u003e.*)§7x §7missing items\\.",
+    "bazaar.cancelledorder.lastamount.colorless": "(?:coins from |from |)(?\u003camount\u003e.*)x missing items\\.",
     "bazaar.orderhelper.filled": "§7Filled: §[a6].*§7/.* §a§l100%!",
     "bazaar.orderhelper.itemname": "§.§l(?\u003ctype\u003eBUY|SELL) (?\u003cname\u003e.*)",
     "bazaar.orderhelper.price": "§7Price per unit: §6(?\u003cnumber\u003e.*) coins",
