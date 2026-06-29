@@ -10,9 +10,6 @@ report = ""
 
 with open(".github/outputs/all_changed_files.json", "r", encoding="utf-8") as fd:
     changed_files = json.load(fd)
-
-print(f"Changed files: {changed_files}")
-
 for filename in changed_files:
     # Escape the filename for display in inline code
     if "`" in filename:
