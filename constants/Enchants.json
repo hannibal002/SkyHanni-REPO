@@ -336,12 +336,6 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
-    "magmarizer": {
-      "loreName": "Magmarizer",
-      "nbtName": "magmarizer",
-      "goodLevel": 5,
-      "maxLevel": 6
-    },
     "mana steal": {
       "loreName": "Mana Steal",
       "nbtName": "mana_steal",
@@ -425,6 +419,12 @@
       "nbtName": "punch",
       "goodLevel": 2,
       "maxLevel": 2
+    },
+    "pyroclasm": {
+      "loreName": "Pyroclasm",
+      "nbtName": "magmarizer",
+      "goodLevel": 5,
+      "maxLevel": 6
     },
     "quantum": {
       "loreName": "Quantum",
