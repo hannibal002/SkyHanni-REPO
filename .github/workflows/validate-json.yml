@@ -26,7 +26,6 @@ jobs:
         if: steps.changed.outputs.any_changed == 'true'
         id: validate
         run: |
-          chmod +x .github/scripts/validate-json.py
           ./.github/scripts/validate-json.py
 
       - name: Save validation report
