@@ -4,6 +4,8 @@ on:
     paths:
       - "**.json"
 
+  workflow_dispatch: {}
+
 permissions:
   contents: read
 
