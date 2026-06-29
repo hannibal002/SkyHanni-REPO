@@ -128,6 +128,10 @@
       "suffix": "§c:D",
       "display_name": "HyperKids"
     },
+    "c2ff3feb-8a4b-480d-86a6-f2de5534e474": {
+      "componentSuffix": {"atlas":"blocks", "color":"white", "sprite":"block/campfire_fire"},
+      "display_name": "ItsRealHim"
+    },
     "45726bfa-4aee-402b-952c-93a1dece512e": {
       "suffix": "§d;3",
       "display_name": "Jordyrat"
