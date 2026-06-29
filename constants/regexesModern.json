@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a93344b",
+  "sourceLabel": "152f2aa",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1078,6 +1078,7 @@
     "mining.fossil.excavator.chat.start": " {2}§r§6§lEXCAVATION COMPLETE ?",
     "mining.fossilexcavator.chargesremaining": "Chisel Charges Remaining: (?\u003ccharges\u003e\\d+)",
     "mining.fossilexcavator.fossilprogress": "Fossil Excavation Progress: (?\u003cprogress\u003e[\\d.]+%)",
+    "mining.glacitemineshaft.tabwidgetcorpse": "\\s*(?\u003ccorpse\u003e\\w+): (?:NOT )?LOOTED\\s*",
     "mining.hotm.inventory": "Heart of the Mountain",
     "mining.hotm.inventory.heart": "§5Heart of the Mountain",
     "mining.hotm.inventory.heart.token": "§7Token of the Mountain: §5(?\u003ctoken\u003e\\d+)",
