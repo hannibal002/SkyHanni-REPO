@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "25f5bf2",
+  "sourceLabel": "37f8f48",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -863,7 +863,6 @@
     "garden.pests-api.chat.no-pests": "§cThere are not any Pests on your Garden right now! Keep farming!",
     "garden.pests-api.chat.pest-death": "§eYou received §a(?\u003camount\u003e[0-9]*)x (?\u003citem\u003e.*) §efor killing an? §2(?\u003cpest\u003e.*)§e!",
     "garden.pests-api.entity.pest-trap": "(?:§.)+§l(?\u003ctype\u003ePEST|MOUSE|VERMIN) TRAP(?: #(?\u003cnumber\u003e\\d+))?(?:§.)*",
-    "garden.pests-api.inventory": "§4§lൠ §cThis plot has §.(?\u003camount\u003e\\d+) §2ൠ Pests?§c!",
     "garden.pests-api.scoreboard.no-pests": " §7⏣ §a(?:The Garden|Plot §7- §b.+)$",
     "garden.pests-api.scoreboard.pests": " §7⏣ §[ac]The Garden §4§lൠ§7 x(?\u003cpests\u003e.*)",
     "garden.pests-api.scoreboard.plot.no-pests": "\\s*(?:§.)*Plot (?:§.)*- (?:§.)*(?\u003cplot\u003e.{1,3})$",
@@ -1522,7 +1521,7 @@
     "skyblockguide.highlight.bank.inventory": "Core ➜ Bank Upgrades",
     "skyblockguide.highlight.belt.inventory": "Miscellaneous ➜ The Dojo",
     "skyblockguide.highlight.century.condition": "§c§lINCOMPLETE",
-    "skyblockguide.highlight.century.inventory": "Daily Tasks",
+    "skyblockguide.highlight.century.inventory": "Raffle Tasks",
     "skyblockguide.highlight.collections.condition": "§7Progress to .*|§7Find this item to add it to your|§7Kill this boss once to view collection|§7(?:Boss )?Collections (?:Unlocked|Maxed Out): §e.*",
     "skyblockguide.highlight.collections.inventory": "\\w+ Collections|Collections",
     "skyblockguide.highlight.condition.category": "§7Progress to Complete Category: §6\\d{1,2}(?:\\.\\d)?%",
