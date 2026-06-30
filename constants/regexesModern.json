@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a2a3311",
+  "sourceLabel": "c9dccfc",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -851,6 +851,7 @@
     "garden.level.inventory.name": "Garden (?:Desk|Level (?\u003ccurrentLevel\u003e.*))",
     "garden.level.inventory.nextxp": ".* §e(?\u003cnextLevelExp\u003e.*)§6/.*",
     "garden.level.inventory.overflow": ".*§r §6(?\u003coverflow\u003e.*)",
+    "garden.mouse-sensitivity-reducer.chat.mousemat": "Snapped to squeaky mousemat!",
     "garden.mouse-sensitivity-reducer.chat.teleport.list.0": "Teleported you to Plot - (?\u003cplot\u003e.+)!",
     "garden.mouse-sensitivity-reducer.chat.teleport.list.1": "Teleported you to (?\u003cplot\u003eThe Barn)!",
     "garden.mouse-sensitivity-reducer.chat.teleport.list.2": "(?\u003cplot\u003eWarping\\.\\.\\.)",
