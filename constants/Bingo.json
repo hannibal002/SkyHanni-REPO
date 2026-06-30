@@ -1,71 +1,84 @@
 {
   "bingo_tips": {
-    "Pet  (Community Goal)": {
-      "difficulty": "Easy",
+    "Clown Collab (Community Goal)": {
+      "difficulty": "Medium",
       "note": [
-        "Gain Pet XP"
+        "Complete F1 Dungeon Runs"
       ],
       "guide": [
-        "To gain passively progress in this",
-        "you should have a pet equipped at all times.",
-        "Don't forget to use pet items that boost",
-        "their XP-gain. Things like Milestone Rewards",
-        "(Commission, Garden, Bestiary Milestones)",
-        "and Pet Candies will be a good help here.",
-        "Even a Lvl 100 pet counts."
+        "This needs Combat 15 and a completion",
+        "of the previous floor to enter.",
+        "To efficiently grind this, you should",
+        "get help from Party Finder/Friends."
       ]
     },
-    "Tarantula Broodfather (Community Goal)": {
+    "Revenant Horror (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Kill T2 Spider Bosses"
+        "Kill t2 Revenant Horror Bosses"
       ],
       "guide": [
-        "Once you acquire a Void Sword and a decent",
-        "armor like Ender or Glacite this should be",
-        "fairly easy to do."
+        "Ideally you'd want Ender Set",
+        "with a Void Sword for this."
       ]
     },
-    "Scavenger (Community Goal)": {
+    "Agricultural Revolution (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Gain coins from the Scavenger Enchant"
+        "Harvest crops"
       ],
       "guide": [
-        "Apply/Use the highest tier of Scavenger",
-        "that you can get your hands on and put it",
-        "on your main weapon. Gifts from the Jerry Island",
-        "can be a way to obtain Scavenger IV books.",
-        "You can also use the weapon drops from dungeon mobs",
-        "as those have guaranteed Scavenger 5." 
+        "You can get easy contribution for",
+        "this by breaking some Wheat in the Hub.",
+        "If you want faster contribution,",
+        "make a Sugar Cane farm in your Garden",
+        "which will also be needed for another goal."
       ]
     },
-    "Operation: Ore (Community Goal)": {
+    "Skilled (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Break Ore Blocks"
+        "Gain Enchanting experience"
       ],
       "guide": [
-        "Mine normal or Pure Ores in the Dwarven Mines.",
-        "You might want to use HotM perks that reward",
-        "Mining Speed/Spread aswell as armor, pet and",
-        "tools that do so."
+        "Do your daily experiments in the Experimentation Table,",
+        "always do the highest tier you can."
       ]
     },
-    "KABOOM! (Community Goal)": {
-      "difficulty": "Easy",
+    "Goblin Slayer (Community Goal)": {
+      "difficulty": "Medium",
       "note": [
-        "Blow up crypts in dungeons"
+        "Kill Goblins"
       ],
       "guide": [
-        "For this you will need Combat 15.",
-        "To blow up crypts you can use",
-        "class abilities (Tank, Archer, Mage)",
-        "and/or Superboom TNTs that drop",
-        "from slaying Minibosses in dungeons",
-        "and can be bought from Walther in",
-        "The Deep Caverns or Ophelia in",
-        "The Dungeon Hub."
+        "For this you need access to the Dwarven Mines",
+        "and a combat set like Ender Armor and a Void Sword.",
+        "You'll get progress in this while going for",
+        "a Golden Goblin."
+      ]
+    },
+    "Setting a Trap": {
+      "difficulty": "Medium",
+      "note": [
+        "Kill a Trapper Animal"
+      ],
+      "guide": [
+        "You should use SkyHanni's Trapper features",
+        "to make this easier. Use /warp trapper",
+        "to get back to Trevor whenever you want.",
+        "You will need a bow for this."
+      ]
+    },
+    "Meiser": {
+      "difficulty": "Easy",
+      "note": [
+        "1m coins in the bank"
+      ],
+      "guide": [
+        "You will most likely get this",
+        "from leveling up skills.",
+        "Remember to actually put the money",
+        "you get in the Bank :)"
       ]
     },
     "Rock Solid": {
@@ -79,219 +92,191 @@
         "count for this. Don't forget to equip the pet ;)"
       ]
     },
-    "Cocoa Beans Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "230k Cocoa Beans collection"
-      ],
-      "guide": [
-        "Optimal tool:",
-        "Advanced Gardening Axe (25 copper)",
-        "Make a full plot of Cocoa Beans (16716 needed",
-        "or 105 enchanted) in The Garden (SkyBlock Level 5).",
-        "You will need Garden Level 8.",
-        "Get the Cocoa Beans to plant from The Desert Island."
-      ]
-    },
-    "Collecting Data": {
+    "Ink Sac Collector": {
       "difficulty": "Easy",
       "note": [
-        "Bestiary Milestone 3"
+        "100 Ink Sac Collection"
       ],
       "guide": [
-        "You will most likely get this passively.",
-        "Use /be ingame to view your progress once you",
-        "talked to Bramass Beastslayer in The Spiders Den."
+        "For this it is recommended to fish in The Park",
+        "during rain while using the best fishing gear",
+        "you have access to."
+      ]
+    },
+    "Dirty Reforger": {
+      "difficulty": "Easy",
+      "note": [
+        "Dirty Reforge"
+      ],
+      "guide": [
+        "Buy a Dirt Bottle (100k) from the Smithmonger in the Hub",
+        "and reforge a weapon with it.",
+        "Make sure to NOT shift-click it out",
+        "of the menu after applying!"
+      ]
+    },
+    "Golem": {
+      "difficulty": "Hard",
+      "note": [
+        "Wear the full Golem Set"
+      ],
+      "guide": [
+        "This unlocks at 5k Iron Collection and requires",
+        "240 Enchanted Iron to craft. You'll want to",
+        "use Pure Iron Veins for this and get as much",
+        "Mining Speed/Spread and Fortune as you can."
       ]
     },
     "Warrior": {
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "note": [
-        "Reach Combat 20"
+        "Reach Combat 10"
       ],
       "guide": [
-        "You should either kill Endermen in",
-        "End using your Void Sword (200k) and",
-        "Ender Armor for this (buy the Ender Training",
-        "Perk from Tyzzo next to the Draconic Altar)",
-        "or Spiders in the Spiders Den with a Cleave 5",
-        "weapon. You might want to also use the free",
+        "You'll want to use the free",
         "Combat XP from Bestiary Milestones for this",
         "aswell as the XP from /mobtypes."
       ]
     },
-    "The Green Gold": {
+    "Feather Collector": {
       "difficulty": "Medium",
       "note": [
-        "Emerald Ring"
+        "47.5k Feather Collection"
       ],
       "guide": [
-        "Mine emeralds in the Dwarven Mines",
-        "using the Pure Emerald Veins.",
-        "Requires 32 Enchanted Emeralds and",
-        "Emerald Collection 5 to craft."
+        "Kill Chickens in The Barn to unlock Chicken Minions.",
+        "Craft as many minions as you can",
+        "and place them on your island. Give them the best fuel",
+        "and storage that you have access to and collect in time."
       ]
     },
-    "Obsidian Collector": {
+    "Skill Average": {
       "difficulty": "Medium",
       "note": [
-        "25k Obsidian Collection"
+        "Skill Average of 14"
       ],
       "guide": [
-        "You can use all your minion slots for this,",
-        "(buy your daily Obsidian in the End to craft)",
-        "mine Ender Nodes and kill Obsidian Defenders.",
-        "If you're using minions, make sure to give them",
-        "the best fuel and storage you have access to",
-        "and collect in time."
+        "To help with this, try to make bigger crafts",
+        "by hand for Carpentry levels.",
+        "Also do your daily experiments and make sure",
+        "to have a pet active at all times",
+        "(any pet works, even level 100)."
       ]
     },
-    "Experienced": {
-      "difficulty": "Medium",
+    "Slaughterer": {
+      "difficulty": "Easy",
       "note": [
-        "Obtain a Grand XP Bottle"
+        "Kill a t2 Slayer Boss under 80s"
       ],
       "guide": [
-        "Ways to obtain:",
-        "Craft (Lapis Lazuli Collection 5),",
-        "a drop from fishing,",
-        "from the Experimentation Table,",
-        "drop from Ender Nodes in the End (11-13%)."
+        "Recommended for this either Revenant Horror II",
+        "or Tarantula Broodfather II. Use your Ender Armor",
+        "and Void Sword (200k) for this."
       ]
     },
-    "Tropical Fish Collector": {
+    "Strange Eggs": {
       "difficulty": "Medium",
       "note": [
-        "300 Tropical Fish Collection"
+        "Spawn a Golden Goblin"
       ],
       "guide": [
-        "Fish in the Hub until you can enter the Backwater Bayou.",
-        "Fish there and lootshare mobs until you unlock",
-        "Fishing Minions. Place as many of them on your island,",
-        "as you can and give them the best fuel and storage",
-        "you have access to and don't forget to collect in time."
+        "Kill goblins or open loot chests in the Crystal Hollows,",
+        "then just throw them until you get a Golden Goblin.",
+        "Higher level eggs have higher chances of spawning,",
+        "but are also rarer to get."
+      ]
+    },
+    "Raw Rabbit Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "25k Raw Rabbit Collection"
+      ],
+      "guide": [
+        "Kill Rabbits in The Desert to unlock Rabbit Minions.",
+        "Craft as many minions as you can",
+        "and place them on your island. Give them the best fuel",
+        "and storage that you have access to and collect in time."
+      ]
+    },
+    "Bedazzled": {
+      "difficulty": "Medium",
+      "note": [
+        "12 unique Accessories"
+      ],
+      "guide": [
+        "List of more than 12 talismans:",
+        "  Buy all 6 Talismans from the Adventurer in The Hub (26k)",
+        "Collection Talismans:",
+        "  Farming Talisman, Vaccine Talisman,",
+        "  Gravity Talisman, Talisman of Coins, Magnetic Talisman,",
+        "  Wood Affinity Talisman, Speed Talisman, Potion Affinity Talisman",
+        "Others:",
+        "  Archaeologists Compass, Mediocre Ring of Love, King Talisman,",
+        "  Campfire Initiate Badge, Cat Talisman, Spider Talisman,",
+        "Don't forget to take the 4 Bonus accessory bag slots from",
+        "the Redstone Miner, he needs 1920 Redstone in total."
+      ]
+    },
+    "Hard Worker": {
+      "difficulty": "Medium",
+      "note": [
+        "Craft a t11 Minion"
+      ],
+      "guide": [
+        "The easiest solution here would be",
+        "to craft a Wheat Minion t11 (163.632 Wheat).",
+        "Utilize the Garden and its pests",
+        "to obtain the needed resources."
       ]
     },
     "Pet Hoarder": {
-      "difficulty": "Medium",
-      "note": [
-        "9 unique pets"
-      ],
-      "guide": [
-        "Recommended for this are:",
-        "Bingo, Rock, Grandma Wolf,",
-        "Enderman, Horse, Jerry,",
-        "Chicken, Silverfish and Bee.",
-        "Some of them require certain",
-        "collections and materials to craft."
-      ]
-    },
-    "Taking Flight": {
-      "difficulty": "Medium",
-      "note": [
-        "Consume a Magical Mushroom Soup"
-      ],
-      "guide": [
-        "This unlocks at 1k Mushroom Collection.",
-        "You can get that by farming the Mushrooms",
-        "in the Mushroom Desert.",
-        "Obtain the needed Glowstone by buying a",
-        "Glowstone Block from the Builder and breaking",
-        "it on your island."
-      ]
-    },
-    "Podium Position": {
       "difficulty": "Easy",
       "note": [
-        "Obtain a Silver+ medal from Jacobs Contest"
+        "3 unique pets"
       ],
       "guide": [
-        "Do contests like Wheat, Potato or Carrot.",
-        "You can also try to utilize pests to help here."
-      ]
-    },
-    "Exterminator": {
-      "difficulty": "Medium",
-      "note": [
-        "Kill 2.5k mobs"
-      ],
-      "guide": [
-        "Kill farm animals in the Barn with a Cleaver",
-        "with Cleave 5 and Sharpness 5",
-        "or spiders in Arachne's Burrow",
-        "in the Spider's Den with a Dreadlord Sword.",
-        "You can also use the Bingo Enderman Farm",
-        "showcased by Foraging Mommy on YouTube."
-      ]
-    },
-    "Diversity": {
-      "difficulty": "Medium",
-      "note": [
-        "40 unique Collections"
-      ],
-      "guide": [
-        "You can unlock 17/17 Farming Collections,",
-        "6/11 Combat Collections, 6/6 Foraging Collections,",
-        "14/22 Mining Collections for a total of 43 collections.",
-        "You will also get some Fishing Collections."
-      ]
-    },
-    "Fashionable": {
-      "difficulty": "Medium",
-      "note": [
-        "15 Armor Sets"
-      ],
-      "guide": [
-        "Craft Leather, Iron, Gold and Diamond Armor",
-        "Buy Angler Armor (8 pieces) from Fishing Merchant",
-        "Craft Leaflet, Farm Suit, Mushroom and Cactus Armor",
-        "Buy Squire, Rosetta's, Celeste and Starlight Armor from Rosetta"
-      ]
-    },
-    "Critical": {
-      "difficulty": "Easy",
-      "note": [
-        "Reach 100% Crit Damage"
-      ],
-      "guide": [
-        "Reforge your Void Sword to Sharp",
-        "at the Blacksmith in the Hub or",
-        "enchant any weapon with Critical 5 (50 Levels)."
-      ]
-    },
-    "Slayer": {
-      "difficulty": "Easy",
-      "note": [
-        "Reach Slayer Level 3"
-      ],
-      "guide": [
-        "For this you can either do:",
-        " - 1 t1, t2 and 2 t3 or",
-        " - 1 t1 and 8 t2",
-        "and claim the rewards by talking to Maddox."
-      ]
-    },
-    "Emerald Treasure": {
-      "difficulty": "Medium",
-      "note": [
-        "Unlock an Emerald Dungeon Chest"
-      ],
-      "guide": [
-        "Complete a Floor 1 with a score of 230+",
-        "and buy the chest afterwards. If you can't buy",
-        "immediately, either save money and buy it from",
-        "Croesus within the next 2 days or do another run.",
-        "You will probably need help with this."
+        "For this you'll only need to get",
+        "Bingo, Grandma Wolf and a Bee pet."
       ]
     },
     "Pair Up!": {
       "difficulty": "Easy",
       "note": [
-        "5 pairs in the experimentation table"
+        "3 pairs in the experimentation table"
       ],
       "guide": [
         "Do your daily Experimentation Tables",
         "after getting Enchanting Level 10."
+      ]
+    },
+    "Strongman": {
+      "difficulty": "Medium",
+      "note": [
+        "140 strength"
+      ],
+      "guide": [
+        "Get yourself a splash, equip a Bingo Pet",
+        "and get the cake buff by eating the cakes",
+        "on skyerzz's or prtl's island.",
+        "If this doesn't finish it, get a Void Sword (200k) in the End",
+        "and hold it while some Ender Armor and/or Equipment."
+      ]
+    },
+    "Fashionable": {
+      "difficulty": "Medium",
+      "note": [
+        "12 Armor Sets"
+      ],
+      "guide": [
+        "Craft Leather, Iron, Gold and Diamond Armor",
+        "Craft Leaflet, Farm Suit, Mushroom, Cactus",
+        "and Pumpkin Armor.",
+        "Buy Squire, Rosetta's and Celeste Armor",
+        "from Rosetta aswell as Angler Armor",
+        "(8 pieces) from the Fishing Merchant,",
+        "Chainmail Armor from the Iron Forger and",
+        "Canopy Armor from Amaury. You should also",
+        "collect the armor from the Foraging Questline."
       ]
     },
     "Cat": {
@@ -306,15 +291,17 @@
         "after each run you do."
       ]
     },
-    "Experienced": {
-      "difficulty": "Medium",
+    "Collector": {
+      "difficulty": "Easy",
       "note": [
-        "Titanic Experience Bottle"
+        "10 Collections to Tier 7"
       ],
       "guide": [
-        "Mine Ender Nodes in The End until you get one.",
-        "It has a 1.31% chance to drop from Obsidian Nodes.",
-        "You need Combat Level 12 to get there."
+        "You will get some progress for this",
+        "by working on other goals.",
+        "The easiest to go for are:",
+        "Birch/Oak/Jungle/Spruce/Acacia/Dark Oak Wood,",
+        "Iron, Sand, Wheat and Seeds."
       ]
     }
   }
