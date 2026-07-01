@@ -483,6 +483,7 @@
     "MOAR_SKILLZ": 1.5,
     "WORK_SMARTER": 1.5
   },
-  "arbitrary_multiplier": 1.0,
-  "__info__": "This Arbitrary Multiplier is in case seasonal multipliers gets fixed as they currently don't work on Slayers and never have."
+  "arbitrary_multiplier": 1.5,
+  "__WhyCurrently": "This Is currently here for the Year 500 celebrations which start(ed) at 1782921600 and should end at 1783526400.",
+  "__info__": "This Arbitrary Multiplier is in case seasonal multipliers gets fixed as they currently don't work on Slayers (except for Raffle's 50% that started existing as of Year 500."
 }
