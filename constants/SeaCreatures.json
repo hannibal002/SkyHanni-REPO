@@ -234,6 +234,11 @@
         "fishing_experience": 3950,
         "rarity": "LEGENDARY",
         "rare": true
+      },
+      "Jumpin' Jack": {
+        "chat_message": "Watch out! It's Jumpin' Jack.",
+        "fishing_experience": 210,
+        "rarity": "COMMON"
       }
     }
   },
