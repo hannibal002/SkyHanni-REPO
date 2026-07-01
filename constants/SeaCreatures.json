@@ -2,14 +2,6 @@
   "PARK": {
     "chat_color": "§b",
     "sea_creatures": {
-      "Night Squid": {
-        "chat_message": "Pitch darkness reveals a Night Squid.",
-        "alternate_messages": [
-          "§aPitch darkness reveals a Night Squid."
-        ],
-        "fishing_experience": 270,
-        "rarity": "COMMON"
-      }
     }
   },
   "CHUMCAP": {
@@ -56,14 +48,6 @@
           "§aYou caught a Sea Walker."
         ],
         "fishing_experience": 68,
-        "rarity": "COMMON"
-      },
-      "Sea Guardian": {
-        "chat_message": "You stumbled upon a Sea Guardian.",
-        "alternate_messages": [
-          "§aYou stumbled upon a Sea Guardian."
-        ],
-        "fishing_experience": 101,
         "rarity": "COMMON"
       },
       "Sea Archer": {
@@ -193,13 +177,19 @@
   "SPOOKY": {
     "chat_color": "§5",
     "sea_creatures": {
+      "Jumpin' Jack": {
+        "chat_message": "Watch out! It's Jumpin' Jack.",
+        "fishing_experience": 210,
+        "rarity": "COMMON",
+        "old_names": ["Sea Guardian"]
+      },
       "Scarecrow": {
         "chat_message": "Phew! It's only a Scarecrow.",
         "alternate_messages": [
           "§aPhew! It's only a Scarecrow."
         ],
         "fishing_experience": 420,
-        "rarity": "COMMON"
+        "rarity": "UNCOMMON"
       },
       "Nightmare": {
         "chat_message": "You hear trotting from beneath the waves, you caught a Nightmare.",
@@ -232,7 +222,7 @@
           "§aThis can't be! The manifestation of death himself!"
         ],
         "fishing_experience": 3950,
-        "rarity": "LEGENDARY",
+        "rarity": "MYTHIC",
         "rare": true
       },
       "Jumpin' Jack": {
@@ -251,7 +241,7 @@
           "§aA tiny fin emerges from the water, you've caught a Nurse Shark."
         ],
         "fishing_experience": 405,
-        "rarity": "COMMON"
+        "rarity": "UNCOMMON"
       },
       "Blue Shark": {
         "chat_message": "You spot a fin as blue as the water it came from, it's a Blue Shark.",
@@ -259,7 +249,7 @@
           "§aYou spot a fin as blue as the water it came from, it's a Blue Shark."
         ],
         "fishing_experience": 810,
-        "rarity": "UNCOMMON"
+        "rarity": "RARE"
       },
       "Tiger Shark": {
         "chat_message": "A striped beast bounds from the depths, the wild Tiger Shark!",
@@ -650,7 +640,8 @@
       "Inkling": {
         "chat_message": "You get an inkling that you've caught... an Inkling!",
         "fishing_experience": 0,
-        "rarity": "UNCOMMON"
+        "rarity": "UNCOMMON",
+        "old_names": ["Night Squid"]
       },
       "Manta Ray": {
         "chat_message": "A majestic creature rises from the water. It's a Manta Ray.",
