@@ -42,7 +42,7 @@
         "1.21.8",
         "1.21.10"
       ],
-      "extraMessage": "Will be re-enabled on version 5.2.0 and later"
+      "extraMessage": "Update the mod to re-enable this feature"
     },
     {
       "enforcedValues": [
@@ -103,7 +103,7 @@
         "1.21.8",
         "1.21.10"
       ],
-      "extraMessage": "Will be re-enabled next beta"
+      "extraMessage": "Update the mod to re-enable this feature"
     },
     {
       "enforcedValues": [
@@ -122,7 +122,7 @@
         "1.21.10",
         "1.21.11"
       ],
-      "extraMessage": "Will be re-enabled next beta"
+      "extraMessage": "Update the mod to re-enable this feature"
     },
     {
       "enforcedValues": [
@@ -133,17 +133,41 @@
       ],
       "minimumAffectedVersion": "7.18.0",
       "affectedVersion": "7.19.0",
-      "extraMessage": "Will be re-enabled in 7.20.0 and above"
+      "extraMessage": "Update the mod to re-enable this feature"
     },
     {
       "enforcedValues": [
         {
           "path": "dungeon.objectHighlighter.starred.highlight",
           "value": false
+        },
+        {
+          "path": "event.anniversaryCelebration400.teamFinder",
+          "value": false
+        },
+        {
+          "path": "event.gifting.giftingOpportunities",
+          "value": false
+        },
+        {
+          "path": "gui.markedPlayers.highlightInWorld",
+          "value": false
+        },
+        {
+          "path": "misc.centuryPartyInvitation.playerHighlighter",
+          "value": false
+        },
+        {
+          "path": "misc.fruitBowl.playerHighlighter",
+          "value": false
+        },
+        {
+          "path": "rift.punchcard.highlight",
+          "value": false
         }
       ],
       "affectedVersion": "7.19.0",
-      "extraMessage": "Will be re-enabled in 7.20.0 and above"
+      "extraMessage": "Update the mod to re-enable this feature"
     },
     {
       "enforcedValues": [
@@ -154,7 +178,7 @@
       ],
       "minimumAffectedVersion": "7.21.0",
       "affectedVersion": "7.21.0",
-      "extraMessage": "Update to 7.22.0 to re-enable this feature"
+      "extraMessage": "Update the mod to re-enable this feature"
     }
   ]
 }
