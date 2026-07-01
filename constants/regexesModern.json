@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e16cba1",
+  "sourceLabel": "04aabc2",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1430,6 +1430,7 @@
     "misc.trevor.area.trappersden": "Trapper\u0027s Den",
     "misc.trevor.at": "You are at the exact height!",
     "misc.trevor.below": "The target is around (?\u003cheight\u003e.*) blocks below, at a (?\u003cangle\u003e.*) degrees angle!",
+    "misc.trevor.click.armorstand": "CLICK",
     "misc.trevor.clickoption.colorless": "Click an option: \\[YES] - \\[NO]",
     "misc.trevor.kill": "§aKilling the animal rewarded you §r§5(?\u003cpelts\u003e.*) pelts§r§a.",
     "misc.trevor.mob.died.colorless": "Return to the Trapper soon to get a new animal to hunt!",
