@@ -146,7 +146,7 @@
           "value": false
         },
         {
-          "path": "event.gifting.giftingOpportunities",
+          "path": "event.gifting.giftingOpportunities.enabled",
           "value": false
         },
         {
