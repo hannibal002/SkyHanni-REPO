@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "04aabc2",
+  "sourceLabel": "f810ebf",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -334,7 +334,6 @@
     "data.sacks.sack": "^(?:.* Sack|Enchanted .* Sack)$",
     "data.skill.actionbar": ".*§3\\+.* (?\u003cskill\u003e.*) \\((?\u003coverflow\u003e.*)/(?\u003cneeded\u003e.*)\\).*",
     "data.skill.inventory": ".* §e(?\u003cnumber\u003e.*)§6/.*",
-    "data.skyblockstate.scoreboard.title": "SK[YI]BLOCK(?: CO-OP| GUEST)?(?: [♲☀Ⓑ])?",
     "deployable.black-hole": "Black Hole (?\u003ctime\u003e\\d+)s",
     "deployable.dwarven-lantern": "Dwarven Lantern (?\u003ctime\u003e\\d+)s",
     "deployable.glacite-lantern": "Glacite Lantern (?\u003ctime\u003e\\d+)s",
