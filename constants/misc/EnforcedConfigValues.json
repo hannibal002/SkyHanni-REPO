@@ -179,6 +179,15 @@
       "minimumAffectedVersion": "7.21.0",
       "affectedVersion": "7.21.0",
       "extraMessage": "Update the mod to re-enable this feature"
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "commands.transferCooldown",
+          "value": false
+        },
+        "affectedVersion": "9.9.9"
+      ]
     }
   ]
 }
