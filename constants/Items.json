@@ -422,7 +422,8 @@
     "Dragon Tracer": "Aiming",
     "Drain": "Syphon",
     "Gravity": "Dragon Hunter",
-    "Woodsplitter": "Arcane"
+    "Woodsplitter": "Arcane",
+    "Pyroclasm": "Magmarizer"
   },
   "shard_name_overrides": {
     "STRIDERSURFER": "STRIDER_SURFER",
