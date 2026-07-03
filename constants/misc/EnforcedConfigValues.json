@@ -185,7 +185,7 @@
         {
           "path": "commands.transferCooldown",
           "value": false
-        },
+        }
       ],
       "affectedVersion": "9.9.9"
     }
