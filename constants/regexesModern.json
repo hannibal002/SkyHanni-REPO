@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "f810ebf",
+  "sourceLabel": "f8d8589",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1261,7 +1261,7 @@
     "misc.cakesoul.found.colorless": "You found a Cake Soul!",
     "misc.century-party-invitation.chat-message.found-all": "§aYou had already gained the bonus, so\\.\\.\\. at least everyone is now invited!",
     "misc.century-party-invitation.chat-message.party-add": "§d§lPARTY! .* SkyBlock level color is .*\\[.*\\] - \\[.*\\] §r§(?\u003ccolor\u003e.).*§e!",
-    "misc.century-party-invitation.item-lore.missing-color-line": "§8\\[.*\\] - \\[.*\\] §(?\u003ccolor\u003e.).*",
+    "misc.century-party-invitation.item-lore.missing-color-line": "§8\\[.*]\\+?(?: - \\[.*])? §(?\u003ccolor\u003e.).*",
     "misc.century-party-invitation.item-lore.missing-color-separator": "§7Level colors? missing:",
     "misc.century-party-invitation.nametag.player-color": ".*\\[§(?\u003ccolor\u003e.).*\\] .*",
     "misc.chickenrace.active": "(?:§.)*CHICKEN RACING.*",
