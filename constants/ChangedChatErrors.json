@@ -211,6 +211,13 @@
         "Caught a NumberFormatException in at.hannibal2.skyhanni.features.dungeon.DungeonFinderFeatures.onInventoryOpen"
       ],
       "fixed_in": "7.26.0"
+    },
+    {
+      "message_starts_with": [
+        "No group with name <altskin>"
+      ],
+      "fixed_in": "7.31.0",
+      "custom_message": "To fix the Pet Display bug, please upgrade SkyHanni to Beta 7.31"
     }
   ]
 }
