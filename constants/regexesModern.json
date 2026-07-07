@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a4aa2cf",
+  "sourceLabel": "dea0eea",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1570,7 +1570,6 @@
     "slayer.bosswarning.progress": "\\(?(?\u003cprogress\u003e[0-9,.]+k?)/(?\u003ctotal\u003e[0-9,.]+k?)\\)? .*",
     "slayer.cocooned": "\\s+§r§c§lYOU COCOONED YOUR SLAYER BOSS",
     "slayer.notspawnable": "§c(?:Only inside The Rift!|Doesn\u0027t exist here!)",
-    "slayer.remaining-kills.combat-wisdom": " ☯ Combat Wisdom (?\u003cwisdom\u003e\\d+)",
     "slayer.remaining-kills.combo.expired": "Your Kill Combo has expired! You reached a .* Kill Combo!",
     "slayer.remaining-kills.kill-combat-wisdom": "\\+\\d+ Kill Combo \\+(?\u003cwisdom\u003e\\d+)☯ Combat Wisdom",
     "slayer.remaining-kills.progress": "\\((?\u003ccurrent\u003e[\\d,.]+[kmb]?)\\/(?\u003cmax\u003e[\\d,.]+[kmb]?)\\) .*",
