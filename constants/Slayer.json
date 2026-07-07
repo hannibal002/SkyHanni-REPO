@@ -397,5 +397,106 @@
     "TARANTULA": {
       "SHRIVELED_BRACELET": 5
     }
-  }
+  },
+  "pets": {
+    "REVENANT": {
+      "GHOUL": {
+        "proper_pet_names": [
+          "GHOUL"
+        ],
+        "scaling": [
+          0,
+          0,
+          0,
+          0.005,
+          0.005,
+          0.005
+        ]
+      }
+    },
+    "TARANTULA": {
+      "TARANTULA": {
+        "proper_pet_names": [
+          "TARANTULA"
+        ],
+        "scaling": [
+          0,
+          0,
+          0,
+          0,
+          0.005,
+          0.005
+        ]
+      }
+    },
+    "SVEN": {
+      "HOUND": {
+        "proper_pet_names": [
+          "HOUND"
+        ],
+        "scaling": [
+          0,
+          0,
+          0,
+          0,
+          0.005,
+          0.005
+        ]
+      }
+    },
+    "VOID": {
+      "ENDERMAN": {
+        "proper_pet_names": [
+          "ENDERMAN"
+        ],
+        "scaling": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.005
+        ]
+      },
+      "INFERNO": {
+        "DROPLET_WISP": {
+          "proper_pet_names": [
+            "DROPLET_WISP",
+            "FROST_WISP",
+            "GLACIAL_WISP",
+            "SUBZERO_WISP"
+          ],
+          "scaling": [
+            0.003,
+            0.004,
+            0.0045,
+            0.005,
+            0.005,
+            0.005
+          ]
+        }
+      },
+      "VAMPIRE": {}
+    }
+  },
+  "champion": [
+    0.03,
+    0.0378,
+    0.0456,
+    0.0533,
+    0.0611,
+    0.0689,
+    0.0767,
+    0.0844,
+    0.0922,
+    0.10
+  ],
+  "habanero_wisdom_per_level": 2.5,
+  "multiplicative_mayor_perks": {
+    "MOAR_SKILLZ": 1.5,
+    "WORK_SMARTER": 1.5
+  },
+  "arbitrary_multiplier": 1.5,
+  "__WhyCurrently": "This Is currently here for the Year 500 celebrations which start(ed) at 1782921600 and should end at 1783526400.",
+  "__info__": "This Arbitrary Multiplier is in case seasonal multipliers gets fixed as they currently don't work on Slayers (except for Raffle's 50% that started existing as of Year 500."
 }
