@@ -6,6 +6,7 @@
   "__info__4": "'display_name' tag is your Minecraft ign, currently only used for Chocolate Rabbit to Contrib names",
   "__info__5": "Custom images are supported. The current ones are trans, gay, bi, plead, dog",
   "__info__6": "Put yourself in alphabetical order",
+  "__info__7": "Do not use the suffix to impersonate YouTubers or Hypixel staff",
   "contributors": {
     "a429ad6e-57fd-4caa-b6a9-becd24aec8b4": {
       "suffix": "§4:3",
@@ -13,6 +14,10 @@
     },
     "4154a560-2654-4930-94d3-497d2ad6849f": {
       "display_name": "Alea1337"
+    },
+    "3842899a-30ef-433d-b0c9-8c402aede146": {
+      "suffix": "§5:3",
+      "display_name": "Ambrosy"
     },
     "2b2c370c-6dc0-4707-9317-58c99101c6e6": {
       "suffix": "§9:D",
@@ -24,6 +29,10 @@
     "e04c1a7f-017d-4de0-b76d-797cad8f8036": {
       "suffix": "§d§l:3",
       "display_name": "Bloxigus"
+    },
+    "27ea7d81-a642-4ba2-81dd-1cbfdc3509f1": {
+      "suffix": "§d:D",
+      "display_name": "BonkersTurnip"
     },
     "eaa5623c-8413-46b7-a74b-2d74a42b2841": {
       "suffix": "§e:)",
@@ -72,11 +81,12 @@
     },
     "90f20a02-e671-4665-9f44-ae54abb6aecc": {
       "suffix": "§d:3",
-      "componentSuffix": {"atlas":"gui", "color": "white", "sprite":"skyhanni:dog"},
+      "componentSuffix": [{"atlas":"gui", "color": "white", "sprite":"skyhanni:trans"}, {"text":" "}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:dog"}],
       "display_name": "EstrogenEnjoyer"
     },
     "6f8c7b61-42d8-4c4a-b4dc-c47e3aa75b30": {
       "suffix": "§6§lツ",
+      "componentSuffix": {"atlas":"items", "color": "white", "sprite":"item/panda_spawn_egg"},
       "display_name": "FabiHBBBT"
     },
     "b5d37739-6c0c-4693-8074-9e86345d0929": {
@@ -89,6 +99,11 @@
     },
     "cf163a44-d62c-499f-893b-b19de1ac93e9": {
       "display_name": "Frost19"
+    },
+    "a1732122-e22e-4edf-883c-09673eb55de8": {
+      "suffix": "§d:3",
+      "componentSuffix": {"atlas":"gui", "color": "white", "sprite":"skyhanni:dog"},
+      "display_name": "Mayaqq"
     },
     "16102479-7162-4ea9-9975-a5059c6a2be3": {
       "suffix": "§d§l:3",
@@ -106,11 +121,16 @@
       "suffix": "§5§l:3",
       "spinny": true,
       "upsideDown": true,
+      "componentSuffix": [{ "atlas": "blocks", "color": "white", "sprite": "block/black_concrete"}, {"atlas": "blocks", "color": "white", "sprite": "block/yellow_concrete"}, {"atlas": "blocks", "color": "white", "sprite": "block/red_concrete"}],
       "display_name": "HiZe_"
     },
     "019bf3ca-ecbe-4101-bf07-1624f8e0d1e7": {
       "suffix": "§c:D",
       "display_name": "HyperKids"
+    },
+    "c2ff3feb-8a4b-480d-86a6-f2de5534e474": {
+      "componentSuffix": {"atlas":"blocks", "color":"white", "sprite":"block/campfire_fire"},
+      "display_name": "ItsRealHim"
     },
     "45726bfa-4aee-402b-952c-93a1dece512e": {
       "suffix": "§d;3",
@@ -127,6 +147,10 @@
       "suffix": "§3§lツ",
       "display_name": "ksndq"
     },
+    "ce1702bb-c527-443c-a811-b0d23b70bff8": {
+      "suffix": "§3:D",
+      "display_name": "liron150"
+    },
     "d3cb85e2-3075-48a1-b213-a9bfb62360c1": {
       "suffix": "§Z<3",
       "upsideDown": true,
@@ -141,6 +165,10 @@
     "83a6d24c-299e-426a-aa01-47909249d380": {
       "suffix": "§9:D",
       "display_name": "minhperry02"
+    },
+    "d79225df-8382-4760-8afe-6c3a68887412": {
+      "componentSuffix": {"atlas":"items", "color": "white", "sprite":"item/axolotl_bucket"},
+      "display_name": "MTOnline"
     },
     "bcf51b2e-9023-4125-984b-f89b28ce84bf": {
       "suffix": "§d§l:3",
@@ -167,10 +195,15 @@
     },
     "d7f09bac-a366-46d1-a558-7fe32c477565": {
       "suffix": "§5:3",
+      "alt from": "qtLuna",
       "display_name": "owoLuna"
     },
     "d0606454-04da-44c6-9bd4-5f3a4d8b388a": {
       "display_name": "oxsss"
+    },
+    "77602086-ed7f-4b34-b756-3c6cef4d3722": {
+      "suffix": "§d§l\uD83D\uDC3D",
+      "display_name": "Piggered"
     },
     "02dc5178-f7ec-4254-8401-1a57a7442a2f": {
       "suffix": "§d:3",
@@ -178,8 +211,11 @@
     },
     "93234e1a-ca82-4bd7-a518-8aa89d551979": {
       "suffix": "§5:3",
-      "alt from": "owoLuna",
       "display_name": "qtLuna"
+    },
+    "7daf75d9-1185-4d13-86c0-1813761d2e4f": {
+      "suffix": "§6\uD83D\uDC1D",
+      "display_name": "RemainingDelta"
     },
     "2f0edf9b-ff10-40f0-a0fe-28cc96c39d4a": {
       "display_name": "ReyMaratov"
@@ -188,9 +224,22 @@
       "suffix": "§6§l:P",
       "display_name": "RobotHanzo"
     },
+    "3626ce1d-a039-4774-8c9a-a341dfca6cc6": {
+      "suffix": "§d§lツ",
+      "display_name": "RoBotNet"
+    },
     "2b08c880-f540-4485-975a-e935de95595c": {
       "suffix": "§cc:",
       "display_name": "Sayonara"
+    },
+    "4723230f-1546-4fcf-90cb-50deceb0fa3e": {
+      "suffix": "§d§lツ",
+      "display_name": "Shana_Splatoon"
+    },
+    "c13d2480-807d-481c-98c1-821947410e0a": {
+      "suffix": "§d:3",
+      "componentSuffix": {"atlas":"gui", "color": "white", "sprite":"skyhanni:dog"},
+      "display_name": "SillyGirlMarina"
     },
     "b75d7e0a-03d0-4c2a-ae47-809b6b808246": {
       "suffix": "§d:3",
@@ -212,6 +261,10 @@
       "suffix": "§b;C",
       "display_name": "Solde"
     },
+    "55dfd8cb-94ca-470b-99dc-69c3704b9d93": {
+      "suffix": "§6§l:)",
+      "display_name": "T0R0NT0"
+    },
     "503450fc-72c2-4e87-8243-94e264977437": {
       "suffix": "§d:3",
       "spinny": true,
@@ -221,6 +274,11 @@
     "eb7af2a0-e2d8-46bb-81ad-a29d906e2f6d": {
       "suffix": "§6:D",
       "display_name": "ThatOneDevil"
+    },
+    "681c11ba-9f1a-4e61-99be-8f8a1157fde0": {
+      "suffix": "§d:3",
+      "componentSuffix": {"atlas":"gui", "color": "white", "sprite":"skyhanni:plead"},
+      "display_name": "ThePleader"
     },
     "88c95c3b-9d23-4d6a-bcdc-f9ad77bec7b6": {
       "display_name": "thisiscad"
@@ -234,7 +292,7 @@
       "componentSuffix": [{"atlas":"gui", "color": "white", "sprite":"skyhanni:trans"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:trans"}],
       "spinny": true,
       "upsideDown": true,
-      "display_name": "Throwpo"
+      "display_name": "meowgirlemily"
     },
     "98d8fdb5-e052-4dd3-a179-47fcec77c971": {
       "display_name": "Thunderblade73"

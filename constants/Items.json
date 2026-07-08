@@ -48,7 +48,8 @@
     "LEGEND_ROD",
     "ROD_OF_THE_SEA",
     "GIANT_FISHING_ROD",
-    "BINGO_ROD"
+    "BINGO_ROD",
+    "FISHING_ROD-16"
   ],
   "dungeon_secret_items": [
     "DEFUSE_KIT",
@@ -113,9 +114,12 @@
       "strong_mana"
     ],
     "endcap_enchants": {
-      "pesterminator": {
-        "required_level": 5,
-        "endcap_item": "PESTHUNTING_GUIDE"
+      "//": {
+          "1": "DEPRECATED: Use endcap_enchants_new instead. This can be removed once SkyBlock drops 1.21.11 support."
+      },
+      "bane_of_arthropods": {
+        "required_level": 6,
+        "endcap_item": "ENSNARED_SNAIL"
       },
       "charm": {
         "required_level": 5,
@@ -125,38 +129,242 @@
         "required_level": 6,
         "endcap_item": "ENDSTONE_IDOL"
       },
-      "bane_of_arthropods": {
+      "frail": {
         "required_level": 6,
-        "endcap_item": "ENSNARED_SNAIL"
+        "endcap_item": "SEVERED_PINCER"
       },
       "luck_of_the_sea": {
         "required_level": 6,
         "endcap_item": "GOLD_BOTTLE_CAP"
       },
-      "scavenger": {
+      "pesterminator": {
         "required_level": 5,
-        "endcap_item": "GOLDEN_BOUNTY"
-      },
-      "spiked_hook": {
-        "required_level": 6,
-        "endcap_item": "OCTOPUS_TENDRIL"
-      },
-      "smite": {
-        "required_level": 6,
-        "endcap_item": "SEVERED_HAND"
-      },
-      "frail": {
-        "required_level": 6,
-        "endcap_item": "SEVERED_PINCER"
+        "endcap_item": "PESTHUNTING_GUIDE"
       },
       "piscary": {
         "required_level": 6,
         "endcap_item": "TROUBLED_BUBBLE"
       },
+      "scavenger": {
+        "required_level": 5,
+        "endcap_item": "GOLDEN_BOUNTY"
+      },
+      "smite": {
+        "required_level": 6,
+        "endcap_item": "SEVERED_HAND"
+      },
+      "spiked_hook": {
+        "required_level": 6,
+        "endcap_item": "OCTOPUS_TENDRIL"
+      },
       "venomous": {
         "required_level": 6,
         "endcap_item": "FATEFUL_STINGER"
       }
+    },
+    "endcap_enchants_new": {
+      "bane_of_arthropods": [
+        {
+          "required_level": 6,
+          "endcap_item": "ENSNARED_SNAIL"
+        }
+      ],
+      "charm": [
+        {
+          "required_level": 5,
+          "endcap_item": "CHAIN_END_TIMES"
+        }
+      ],
+      "ender_slayer": [
+        {
+          "required_level": 6,
+          "endcap_item": "ENDSTONE_IDOL"
+        }
+      ],
+      "frail": [
+        {
+          "required_level": 6,
+          "endcap_item": "SEVERED_PINCER"
+        }
+      ],
+      "luck_of_the_sea": [
+        {
+          "required_level": 6,
+          "endcap_item": "GOLD_BOTTLE_CAP"
+        }
+      ],
+      "pesterminator": [
+        {
+          "required_level": 5,
+          "endcap_item": "PESTHUNTING_GUIDE"
+        }
+      ],
+      "piscary": [
+        {
+          "required_level": 6,
+          "endcap_item": "TROUBLED_BUBBLE"
+        }
+      ],
+      "scavenger": [
+        {
+          "required_level": 5,
+          "endcap_item": "GOLDEN_BOUNTY"
+        }
+      ],
+      "smite": [
+        {
+          "required_level": 6,
+          "endcap_item": "SEVERED_HAND"
+        }
+      ],
+      "spiked_hook": [
+        {
+          "required_level": 6,
+          "endcap_item": "OCTOPUS_TENDRIL"
+        }
+      ],
+      "turbo_cactus": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_cane": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_carrot": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_coco": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_melon": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_moonflower": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_mushrooms": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_potato": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_pumpkin": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_rose": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_sunflower": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_warts": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "turbo_wheat": [
+        {
+          "required_level": 5,
+          "endcap_item": "TURBO_GOURD"
+        },
+        {
+          "required_level": 6,
+          "endcap_item": "ENCHANTED_TURBO_GOURD"
+        }
+      ],
+      "venomous": [
+        {
+          "required_level": 6,
+          "endcap_item": "FATEFUL_STINGER"
+        }
+      ],
+      "scuba": [
+        {
+          "required_level": 5,
+          "endcap_item": "VIBRANT_CORAL"
+        }
+      ]
     }
   },
   "compact_names": {
@@ -214,7 +422,8 @@
     "Dragon Tracer": "Aiming",
     "Drain": "Syphon",
     "Gravity": "Dragon Hunter",
-    "Woodsplitter": "Arcane"
+    "Woodsplitter": "Arcane",
+    "Pyroclasm": "Magmarizer"
   },
   "shard_name_overrides": {
     "STRIDERSURFER": "STRIDER_SURFER",
@@ -222,7 +431,12 @@
     "CINDERBAT": "CINDER_BAT",
     "END_STONE_PROTECTOR": "ENDSTONE_PROTECTOR",
     "LOCH_EMPEROR": "SEA_EMPEROR",
-    "BOGGED": "SEA_ARCHER"
+    "BOGGED": "SEA_ARCHER",
+    "INFERNO_DEMONLORD": "BURNINGSOUL",
+    "FLIPFLOPPER": "FLIP_FLOPPER",
+    "INKLING": "NIGHT_SQUID",
+    "LOTUSFISH": "LOTUS_FISH",
+    "SEASHINE": "SEA_SHINE"
   },
   "distance_enchant_data": {
     "LEGION": {
@@ -246,5 +460,8 @@
     "CURSUS_FERAE",
     "APEX_PRAEDATOR",
     "NEX_TITANUM"
+  ],
+  "has_legacy_gemstone_slots": [
+    "GIANT_FISHING_ROD"
   ]
 }

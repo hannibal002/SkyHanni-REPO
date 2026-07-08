@@ -1,0 +1,67 @@
+name: "Comment JSON Errors"
+on:
+  workflow_run:
+    workflows: ["Validate JSON"]
+    types: [completed]
+
+permissions:
+  pull-requests: write
+  actions: read
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    if: github.event.workflow_run.conclusion == 'failure'
+    steps:
+      - name: Download validation artifact
+        id: download
+        continue-on-error: true
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093  # v4.3.0
+        with:
+          name: validation-report
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Comment on PR
+        if: steps.download.outcome == 'success'
+        uses: actions/github-script@f28e40c7f34bde8b3046d885e986cb6290c5673b  # v7.1.0
+        with:
+          script: |
+            const fs = require('fs');
+
+            if (!fs.existsSync('validation-report.txt') || !fs.existsSync('pr-number.txt')) {
+              console.log('Artifact files missing, skipping comment');
+              return;
+            }
+
+            const report = fs.readFileSync('validation-report.txt', 'utf8').trim();
+            const prNumber = parseInt(fs.readFileSync('pr-number.txt', 'utf8').trim(), 10);
+
+            if (!report || !prNumber) {
+              console.log('Empty report or invalid PR number, skipping comment');
+              return;
+            }
+
+            const commentBody = `## JSON Validation Failed\n\n${report}`;
+
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: prNumber,
+            });
+
+            const isDuplicate = comments.some(
+              (c) => c.body.includes('## JSON Validation Failed') && c.body.includes(report)
+            );
+
+            if (isDuplicate) {
+              console.log('Duplicate comment found, skipping...');
+              return;
+            }
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: prNumber,
+              body: commentBody,
+            });

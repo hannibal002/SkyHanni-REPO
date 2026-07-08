@@ -3,7 +3,7 @@
     "Position": "-5.0:75.0:-279.0",
     "Name": "/warp gold",
     "Tags": [
-      "teleport"
+      "warp"
     ],
     "Neighbours": {
       "268": 1.0,
@@ -18,9 +18,9 @@
   },
   "1": {
     "Position": "-5.0:75.0:-271.0",
-    "Name": "Hub",
+    "Name": "HUB",
     "Tags": [
-      "teleport"
+      "jump_pad"
     ],
     "Neighbours": {
       "150": 2.0
@@ -177,9 +177,9 @@
   },
   "17": {
     "Position": "-7.0:69.0:-395.0",
-    "Name": "Deep Cavern",
+    "Name": "DEEP_CAVERNS",
     "Tags": [
-      "teleport"
+      "jump_pad"
     ],
     "Neighbours": {
       "151": 5.0
@@ -2170,7 +2170,7 @@
     "Position": "-5.0:75.0:-278.0",
     "Name": "Spawn",
     "Tags": [
-      "teleport"
+      "poi"
     ],
     "Neighbours": {
       "0": 1.0,

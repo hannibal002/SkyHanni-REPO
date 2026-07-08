@@ -17397,7 +17397,8 @@
     "Position": "496.0:107.0:556.0",
     "Name": "Emissary Sisko",
     "Tags": [
-      "mines_emissary"
+      "mines_emissary",
+      "npc"
     ],
     "Neighbours": {
       "2317": 2.24,
@@ -18603,9 +18604,9 @@
   },
   "2451": {
     "Position": "513.0:107.0:526.0",
-    "Name": "/warp cn",
+    "Name": "/warp nucleus",
     "Tags": [
-      "teleport"
+      "warp"
     ],
     "Neighbours": {
       "2566": 2.0,
