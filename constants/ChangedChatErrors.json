@@ -218,6 +218,12 @@
       ],
       "fixed_in": "7.31.0",
       "custom_message": "To fix the Pet Display bug, please upgrade SkyHanni to Beta 7.31"
+    },
+    {
+      "message_starts_with": [
+        "Error getting pest count"
+      ],
+      "fixed_in": "7.32.0"
     }
   ]
 }
