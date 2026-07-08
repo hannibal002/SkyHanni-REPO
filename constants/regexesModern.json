@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "46b4109",
+  "sourceLabel": "43702b6",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -839,8 +839,8 @@
     "garden.fortunedisplay.collection": "§7You have §6\\+(?\u003cff\u003e\\d{1,3})☘ .*",
     "garden.fortunedisplay.lotusability": "§7Piece Bonus: §6+(?\u003cbonus\u003e.*)☘",
     "garden.fortunedisplay.pestfortunebuff-no-color": " Bonus: (?\u003cinactive\u003eINACTIVE)?(?:\\+(?\u003cfortune\u003e\\d+)☘ (?\u003ctime\u003e.*))?.*",
-    "garden.fortunedisplay.tablist.cropspecific-no-color": " (?\u003ccrop\u003eWheat|Carrot|Potato|Nether Wart|Pumpkin|Melon Slice|Cocoa Beans|Sugar Cane|Cactus|Mushroom|Sunflower|Moonflower|Wild Rose) Fortune: ☘(?\u003cfortune\u003e\\d+)",
-    "garden.fortunedisplay.tablist.universal-no-color": " Farming Fortune: ☘(?\u003cfortune\u003e\\d+)",
+    "garden.fortunedisplay.tablist.cropspecific-no-color": " (?\u003ccrop\u003eWheat|Carrot|Potato|Nether Wart|Pumpkin|Melon Slice|Cocoa Beans|Sugar Cane|Cactus|Mushroom|Sunflower|Moonflower|Wild Rose) Fortune: [☘](?\u003cfortune\u003e\\d+)",
+    "garden.fortunedisplay.tablist.universal-no-color": " Farming Fortune: [☘](?\u003cfortune\u003e\\d+)",
     "garden.fortunedisplay.tooltip.new": "^§7Farming Fortune: §6\\+(?\u003cdisplay\u003e[\\d.]+)(?: §2\\(\\+\\d\\))?(?: §9\\(\\+(?\u003creforge\u003e\\d+)\\))?(?: §d\\(\\+(?\u003cgemstone\u003e\\d+)\\))?$",
     "garden.greenhouse.growthcycle.inventory": "Crop Diagnostics",
     "garden.greenhouse.growthcycle.nextstage": "Next Stage: (?\u003ctime\u003e(?:\\d\\d?[hms] ?)+)",
