@@ -27,30 +27,6 @@
       "fixed_in": "9.9.9"
     },
     {
-      "message_starts_with": [
-        "Found unknown skyblock stats on items, please report this in discord"
-      ],
-      "fixed_in": "5.0.1"
-    },
-    {
-      "message_starts_with": [
-        "Unknown mayor found"
-      ],
-      "fixed_in": "5.3.0"
-    },
-    {
-      "message_starts_with": [
-        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.misc.UserLuckBreakdown"
-      ],
-      "fixed_in": "9.0.0"
-    },
-    {
-      "message_starts_with": [
-        "Found unknown skyblock stats on items"
-      ],
-      "fixed_in": "5.7.0"
-    },
-    {
       "message_exact": [
         "Unable to handle packet"
       ],
@@ -154,25 +130,9 @@
       "fixed_in": "9.9.9"
     },
     {
-      "message_starts_with": [
-        "Loaded 1 item not in a fishing category",
-        "Loaded 2 items not in a fishing category",
-        "Loaded 3 items not in a fishing category",
-        "Loaded 4 items not in a fishing category",
-        "Loaded 5 items not in a fishing category",
-        "Loaded 6 items not in a fishing category",
-        "Loaded 7 items not in a fishing category",
-        "Loaded 8 items not in a fishing category",
-        "Loaded 9 items not in a fishing category",
-        "Loaded 10 items not in a fishing category",
-        "Loaded 11 items not in a fishing category",
-        "Loaded 12 items not in a fishing category",
-        "Loaded 13 items not in a fishing category",
-        "Loaded 14 items not in a fishing category",
-        "Loaded 15 items not in a fishing category",
-        "Loaded 16 items not in a fishing category",
-        "Loaded 17 items not in a fishing category",
-        "Loaded 18 items not in a fishing category"
+      "message_contains": [
+        "item not in a fishing category",
+        "items not in a fishing category"
       ],
       "fixed_in": "9.9.9"
     },

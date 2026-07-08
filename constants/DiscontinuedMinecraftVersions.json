@@ -1,16 +1,4 @@
 {
   "versions": {
-    "1.21.10": {
-      "config_info": [
-        "1.21.10 is no longer receiving SkyHanni updates.",
-        "Hypixel has announced that you have until June 16th to update to 1.21.11+.",
-        "We recommend updating to 26.1.2 as Hypixel will probably drop 1.21.11 sometime in July."
-      ],
-      "extra_info": [
-        "Hypixel has announced that you have until June 16th to update to 1.21.11+.",
-        "We recommend updating to 26.1.2 as Hypixel will probably drop 1.21.11 sometime in July."
-      ],
-      "luck_amount": -50
-    }
   }
 }
