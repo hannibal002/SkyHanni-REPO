@@ -2,6 +2,5 @@
   "disabledHandlers": [
   ],
   "disabledInvokers": [
-    "at.hannibal2.skyhanni.features.garden.FarmingFortuneDisplay.onTick(at.hannibal2.skyhanni.events.minecraft.SkyHanniTickEvent)"
   ]
 }
