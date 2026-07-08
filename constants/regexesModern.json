@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "dea0eea",
+  "sourceLabel": "2833630",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -292,6 +292,7 @@
     "data.maxwell.inventory.power": "§7Selected Power: §a(?\u003cpower\u003e.*)",
     "data.maxwell.stack.accessorybag": "§.Accessory Bag",
     "data.maxwell.thaumaturgy.statstuning": "§7You have: .+ §7\\+ §(?\u003ccolor\u003e.)(?\u003camount\u003e[^ ]+) (?\u003cicon\u003e.)",
+    "data.maxwell.tuning.name": ". (?\u003cname\u003e.+)",
     "data.maxwell.tuningpoints.chat.autoassigned": "§aYour §r§eTuning Points §r§awere auto-assigned as convenience!",
     "data.miningapi.area.basecamp": "Dwarven Base Camp",
     "data.miningapi.area.glacite": "Glacite Tunnels|Great Glacite Lake",
