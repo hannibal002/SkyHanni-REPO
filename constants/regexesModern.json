@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "084bc62",
+  "sourceLabel": "ee393ce",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -393,7 +393,7 @@
     "dungeon.finder.new.catacombs.gate": "Catacombs Gate",
     "dungeon.finder.new.check.if.party": ".*\u0027s Party",
     "dungeon.finder.new.detect.dungeon.class": "View and select a dungeon class\\.",
-    "dungeon.finder.new.entrance": ".*Entrance",
+    "dungeon.finder.new.entrance.colorless": ".*Entrance",
     "dungeon.finder.new.floor": "Floor:? .*",
     "dungeon.finder.new.floor.any": "Any",
     "dungeon.finder.new.floor.dungeon": "Dungeon: .*",
@@ -402,7 +402,7 @@
     "dungeon.finder.new.floor.type": "The Catacombs.*|.*MM The Catacombs.*",
     "dungeon.finder.new.get.dungeon.class": "Currently Selected: (?\u003cclass\u003e.*)",
     "dungeon.finder.new.ineligible": "Requires .*$|You don\u0027t meet the requirement!|Complete previous floor first!$",
-    "dungeon.finder.new.member": " (?\u003cplayerName\u003e.*): (?:§.?)?(?\u003cclassName\u003e.*?)(?:§.?)? \\(.*?(?\u003clevel\u003e\\d+).*?\\)",
+    "dungeon.finder.new.member.colorless": " (?\u003cplayerName\u003e.*): (?\u003cclassName\u003e.*?) \\(.*?(?\u003clevel\u003e\\d+).*?\\)",
     "dungeon.finder.new.nonpug": "(?i).*(?:PERM|VC|DISCORD).*",
     "dungeon.finder.new.note": "Note: (?\u003cnote\u003e.*)",
     "dungeon.finder.new.party.finder.title": "Party Finder",
