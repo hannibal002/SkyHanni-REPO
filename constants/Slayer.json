@@ -479,26 +479,6 @@
       "VAMPIRE": {}
     }
   },
-  "champion": [
-    0.03,
-    0.0378,
-    0.0456,
-    0.0533,
-    0.0611,
-    0.0689,
-    0.0767,
-    0.0844,
-    0.0922,
-    0.10
-  ],
-  "habanero_wisdom_per_level": 2.5,
-  "multiplicative_mayor_perks": {
-    "MOAR_SKILLZ": 1.5,
-    "WORK_SMARTER": 1.5
-  },
-  "arbitrary_multiplier": 1.5,
-  "__WhyCurrently": "This Is currently here for the Year 500 celebrations which start(ed) at 1782921600 and should end at 1783526400.",
-  "__info__": "This Arbitrary Multiplier is in case seasonal multipliers gets fixed as they currently don't work on Slayers (except for Raffle's 50% that started existing as of Year 500.",
   "spawn_costs": {
     "REVENANT": {
       "1": 2000,
@@ -580,5 +560,25 @@
       "3": 100,
       "4": 500
     }
-  }
+  },
+  "champion": [
+    0.03,
+    0.0378,
+    0.0456,
+    0.0533,
+    0.0611,
+    0.0689,
+    0.0767,
+    0.0844,
+    0.0922,
+    0.10
+  ],
+  "habanero_wisdom_per_level": 2.5,
+  "multiplicative_mayor_perks": {
+    "MOAR_SKILLZ": 1.5,
+    "WORK_SMARTER": 1.5
+  },
+  "arbitrary_multiplier": 1.5,
+  "__WhyCurrently": "This Is currently here for the Year 500 celebrations which start(ed) at 1782921600 and should end at 1783526400.",
+  "__info__": "This Arbitrary Multiplier is in case seasonal multipliers gets fixed as they currently don't work on Slayers (except for Raffle's 50% that started existing as of Year 500."
 }
