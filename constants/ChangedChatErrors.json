@@ -184,6 +184,12 @@
         "Error getting pest count"
       ],
       "fixed_in": "7.32.0"
+    },
+    {
+      "message_starts_with": [
+        "Harvest feast data is not yet available."
+      ],
+      "fixed_in": "7.33.0"
     }
   ]
 }
