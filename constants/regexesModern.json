@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "b30190e",
+  "sourceLabel": "64a07e7",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1461,7 +1461,7 @@
     "misc.npcdaylimit.sold": "You sold .+ for (?\u003camount\u003e[\\d,]+) Coins!",
     "misc.patchercoords.coords": "(?\u003cplayerName\u003e.*): [xX]: (?\u003cx\u003e[0-9.-]+),? [yY]: (?\u003cy\u003e[0-9.-]+),? [zZ]: (?\u003cz\u003e[0-9.-]+(?: .*)?)",
     "misc.pet.chat.summon": "§aYou summoned your §r§(?\u003crarity\u003e.)(?\u003cpet\u003e[^§]+)(?:§r(?\u003cskin\u003e§. ✦))?§r§a!",
-    "misc.pet.neu.pet.lore": "(?:§7)?§eRight-click to add this pet to(?: your)?",
+    "misc.pet.neu.pet.lore": "(?:§7)?§eRight-click to add this pet to(?: your(?: pet menu!)?)?",
     "misc.pet.neu.pet.skin": "PET_SKIN_(?\u003cpet\u003e[A-Z])_?(?\u003cskin\u003e[A-Z_]+)?",
     "misc.pet.storage.autopet.hover.helditem.colorless": ".*Held Item: (?\u003citem\u003e.*)",
     "misc.pet.storage.autopet.message.colorless": "Autopet equipped your \\[Lvl (?\u003clevel\u003e\\d+)] (?:\\[\\d+(?\u003caltskin\u003e✦)\\] )?(?\u003cpet\u003e[\\w -]+)(?\u003cskin\u003e ✦)?! VIEW RULE",
