@@ -188,6 +188,16 @@
         }
       ],
       "affectedVersion": "9.9.9"
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "event.feast.fetchAutomatically",
+          "value": false
+        }
+      ],
+      "affectedVersion": "7.32.0",
+      "extraMessage": "Will be re-enabled in 7.33.0"
     }
   ]
 }
