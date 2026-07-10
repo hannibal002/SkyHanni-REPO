@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a80a37a",
+  "sourceLabel": "99a4b1c",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1568,7 +1568,7 @@
     "rift.everywhere.enigma-souls.title": "(?:✔ )?Enigma: (?\u003cname\u003e.+)",
     "rift.everywhere.motes.lifetime-nocolor": "\\s+Lifetime Motes: (?\u003cmotes\u003e[\\d,.]+)",
     "rift.everywhere.motesorb": "§5§lORB! §r§dPicked up §r§5+.* Motes§r§d.*",
-    "rift.everywhere.nametag.timer": "(?\u003ctime\u003e\\d+) ф",
+    "rift.everywhere.nametag.timer": "(?\u003ctime\u003e\\d+) ",
     "rift.punchcard.limit": "§c§lUH OH! §r§cYou reached the limit of 20 players you can punch in one session!",
     "rift.punchcard.new": "§5§lPUNCHCARD! §r§eYou punched §r§.(?:.*?)?(?\u003cname\u003e\\w+)§r§. §r§eand both regained §r§a\\+25ф Rift Time§r§e!",
     "rift.punchcard.repeat": "§c§lAWKWARD! §r§cThis player has already been punched by you\\.\\.\\. somehow!",
