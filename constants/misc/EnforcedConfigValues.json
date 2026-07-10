@@ -197,7 +197,7 @@
         }
       ],
       "affectedVersion": "7.32.0",
-      "extraMessage": "Will be re-enabled in 7.33.0"
+      "extraMessage": "Will be re-enabled in 7.33.0. For now, talk to Ted to refresh."
     }
   ]
 }
