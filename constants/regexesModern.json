@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9d009fd",
+  "sourceLabel": "939ca7f",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -297,7 +297,7 @@
     "data.miningapi.area.basecamp": "Dwarven Base Camp",
     "data.miningapi.area.glacite": "Glacite Tunnels|Great Glacite Lake",
     "data.miningapi.area.minesofdivan": "Mines of Divan",
-    "data.miningapi.cold": "(?:§.)*Cold: §.(?\u003ccold\u003e-?\\d+)",
+    "data.miningapi.cold": "(?:§.)*Cold: §.(?\u003ccold\u003e-?\\d+)❄",
     "data.miningapi.cold.reset": "§6The warmth of the campfire reduced your §r§b Cold §r§6to §r§a0§r§6!|§c ☠ §r§7You froze to death§r§7\\.",
     "data.miningapi.heat.scoreboard": "^Heat: (?\u003cscoreboard\u003e§.(?\u003cheat\u003e\\d+|IMMUNE)♨?)$",
     "data.miningapi.pickobulus.end": "§7Your §r§aPickobulus §r§7destroyed §r§e(?\u003camount\u003e[\\d,.]+) §r§7blocks!",
