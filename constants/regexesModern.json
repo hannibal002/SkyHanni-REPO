@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "762cd77",
+  "sourceLabel": "9d009fd",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1474,6 +1474,7 @@
     "misc.pet.storage.autopet.message.colorless": "Autopet equipped your \\[Lvl (?\u003clevel\u003e\\d+)] (?:\\[\\d+(?\u003caltskin\u003e✦)\\] )?(?\u003cpet\u003e[\\w -]+)(?\u003cskin\u003e ✦)?! VIEW RULE",
     "misc.pet.storage.autopet.message.formatted": "§cAutopet §eequipped your §7\\[Lvl (?\u003clevel\u003e\\d+)] §(?\u003crarity\u003e.)(?:\\[\\d+(?\u003caltskin\u003e✦)] )?(?\u003cpet\u003e[^§!]+?)(?\u003cskin\u003e§. ✦)?§e! §a§lVIEW RULE(?: \\(\\d+\\))?",
     "misc.pet.storage.chat.helditem": "Your pet is now holding (?\u003citem\u003e.+?)\\.",
+    "misc.pet.storage.chat.removedhelditem": "You removed (?\u003citem\u003e.+?) from your pet!",
     "misc.pet.storage.menu.gui.name": "(?:\\(\\d+\\/\\d+\\) )?Pets(?:: \"(?\u003csearch\u003e.*)\")?(?: \\(\\d+\\/\\d+\\))? ?",
     "misc.pet.storage.menu.petstack.name": "\\[Lvl (?\u003clevel\u003e[\\d,]+)] (?:\\[\\d+(?\u003caltskin\u003e✦)] )?(?\u003cpet\u003e[\\w -]+?)(?\u003cskin\u003e ✦)?",
     "misc.pet.storage.menu.selected.name.colorless": "Selected pet: (?!None$)(?\u003cpet\u003e[\\w -]+)(?\u003cskin\u003e ✦)?",
