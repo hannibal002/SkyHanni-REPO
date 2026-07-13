@@ -183,6 +183,16 @@
         "min_z": -78
       }
     },
+    "TORRHUS_CANYON": {
+      "name": "Torrhus Canyon",
+      "api_name": "foraging_3",
+      "max_players": 12
+    },
+    "SAFARI": {
+      "name": "Safari",
+      "api_name": "safari",
+      "max_players": 4
+    },
     "NONE": {
       "name": ""
     },
