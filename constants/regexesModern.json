@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "939ca7f",
+  "sourceLabel": "3338231",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -35,6 +35,7 @@
     "api.skilldisplay.chat.jerry-box.skillxp": ".*You claimed (?\u003cgained\u003e[\\d,]+) (?\u003cskillName\u003e\\w+) XP from the Jerry Box!",
     "api.skilldisplay.chat.lily-splosion.skillxp": "\\+(?\u003cgained\u003e[\\d,]+) (?\u003cskillName\u003e\\w+) Experience",
     "api.skilldisplay.chat.lily-splosion.start": "LIL[YI]-SPLOSION!",
+    "api.skilldisplay.skill.menu.maxreached": "Max Skill level reached!",
     "api.skilldisplay.skill.multiplier": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e.+) \\((?\u003ccurrent\u003e[\\d.,]+)\\/(?\u003cneeded\u003e[\\d,.]+[kmb]?)\\)",
     "api.skilldisplay.skill.percent": "\\+(?\u003cgained\u003e[\\d.,]+) (?\u003cskillName\u003e.+) \\((?\u003cprogress\u003e[\\d.,]+)%\\)",
     "api.skilldisplay.skill.tab.colorless": " (?\u003ctype\u003e\\w+)(?: (?\u003clevel\u003e\\d+))?: (?\u003cprogress\u003e[0-9.]+)%",
