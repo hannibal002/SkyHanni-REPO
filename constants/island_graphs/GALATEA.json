@@ -15214,5 +15214,14 @@
     "Neighbours": {
       "1705": 5.48
     }
+  },
+    "1711": {
+    "Position": "-535.0:122.0:70.0",
+    "Name": "hideonleaf",
+    "Tags": [
+      "hideonleaf"
+    ],
+    "Neighbours": {
+    }
   }
 }
