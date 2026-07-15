@@ -436,7 +436,8 @@
     "FLIPFLOPPER": "FLIP_FLOPPER",
     "INKLING": "NIGHT_SQUID",
     "LOTUSFISH": "LOTUS_FISH",
-    "SEASHINE": "SEA_SHINE"
+    "SEASHINE": "SEA_SHINE",
+    "WITHER_SPECTRE": "WITHER_SPECTER"
   },
   "distance_enchant_data": {
     "LEGION": {
