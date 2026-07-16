@@ -149,7 +149,8 @@
         "Error while editing message",
         "Error while deleting message"
       ],
-      "fixed_in": "7.25.0"
+      "fixed_in": "9.9.9",
+      "custom_message": "Failed to cleanly edit or delete a chat message. If you get lagspikes, reduce your chat history length."
     },
     {
       "message_contains": [
