@@ -2,5 +2,9 @@
   "disabledHandlers": [
   ],
   "disabledInvokers": [
+  ],
+  "disabled_handlers_versioned": [
+  ],
+  "disabled_invokers_versioned": [
   ]
 }
