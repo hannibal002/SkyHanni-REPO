@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "f84f1f3",
+  "sourceLabel": "fa7d3c5",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1276,7 +1276,7 @@
     "minion.chat.place": "You placed a minion!",
     "minion.chat.upgrade-colorless": "You have upgraded your Minion to Tier (?\u003ctier\u003e.*)",
     "minion.eyedrops.ranout": "You applied the eyedrops on the minion and ran out!",
-    "minion.infernominiontitle": "Inferno Minion .*",
+    "minion.infernominiontitle": "Inferno Minion (?:[IVX]{1,4}|\\d+)$",
     "minion.item.collect.colorless": "^Collect All$",
     "minion.items.upgrade.colorless": "(?: +)?You need (?\u003camount\u003e\\d+) more (?\u003citemName\u003e.+)\\.",
     "minion.title": "Minion [^➜]",
