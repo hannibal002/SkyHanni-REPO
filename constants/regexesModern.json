@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "cee6d2c",
+  "sourceLabel": "f84f1f3",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -839,10 +839,11 @@
     "garden.farming.contest.bracketgold": "§6§lGOLD §7\\(§bTop \\d{1,2}%§7\\): §6(?\u003camount\u003e.*)",
     "garden.farming.contest.bracketplatinum": "§3§lPLATINUM §7\\(§bTop \\d{1,2}%§7\\): §6(?\u003camount\u003e.*)",
     "garden.farming.contest.bracketsilver": "§f§lSILVER §7\\(§bTop \\d{1,2}%§7\\): §6(?\u003camount\u003e.*)",
-    "garden.farming.contest.bulkclaim": "§7Claim multiple farming contest",
-    "garden.farming.contest.crop": "§8(?\u003ccrop\u003e.*) Contest",
-    "garden.farming.contest.sidebarcrop": "\\s*(?:§e○|§6) §f(?\u003ccrop\u003e.*) §a.*",
-    "garden.farming.contest.time": "§a(?\u003cmonth\u003e.*) (?\u003cday\u003e.*)(?:rd|st|nd|th), Year (?\u003cyear\u003e.*)",
+    "garden.farming.contest.bulkclaim.colorless": "Claim multiple farming contest",
+    "garden.farming.contest.crop.colorless": "(?\u003ccrop\u003e.*) Contest",
+    "garden.farming.contest.sidebarcrop.colorless": "\\s*(?:○|) (?\u003ccrop\u003e.*) .*",
+    "garden.farming.contest.time.colorless": "(?\u003cmonth\u003e.*) (?\u003cday\u003e.*)(?:rd|st|nd|th), Year (?\u003cyear\u003e.*)",
+    "garden.farming.contest.yourcontests": "(?:\\(\\d+/\\d+\\) )?Your Contests",
     "garden.fortunedisplay.armorability": "Tiered Bonus: .* [(](?\u003cpieces\u003e.*)/4[)]",
     "garden.fortunedisplay.armorabilityfortune": "§7.*§7Grants §6(?\u003cbonus\u003e.*).*",
     "garden.fortunedisplay.collection": "§7You have §6\\+(?\u003cff\u003e\\d{1,3}) .*",
