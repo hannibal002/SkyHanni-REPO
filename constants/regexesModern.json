@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "fa7d3c5",
+  "sourceLabel": "c584374",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -854,6 +854,9 @@
     "garden.fortunedisplay.tooltip.new": "^§7Farming Fortune: §6\\+(?\u003cdisplay\u003e[\\d.]+)(?: §2\\(\\+\\d\\))?(?: §9\\(\\+(?\u003creforge\u003e\\d+)\\))?(?: §d\\(\\+(?\u003cgemstone\u003e\\d+)\\))?$",
     "garden.greenhouse.growthcycle.inventory": "Crop Diagnostics",
     "garden.greenhouse.growthcycle.nextstage": "Next Stage: (?\u003ctime\u003e(?:\\d\\d?[hms] ?)+)",
+    "garden.greenhouse.phantomleaf.failure": "Phantomleaf: That\u0027s not me! Better luck next time!",
+    "garden.greenhouse.phantomleaf.found": "Phantomleaf: You found me!",
+    "garden.greenhouse.phantomleaf.poof": "Phantomleaf: Poof! Try and find me!",
     "garden.inventory.anita.extrafortune.realamount.new": "Jacob\u0027s Ticket x(?\u003crealAmount\u003e.*)",
     "garden.inventory.logbook.accepted": "§7Offers Accepted: §a(?\u003ctimesAccepted\u003e[0-9,.]+)",
     "garden.inventory.logbook.page.current": "§ePage (?\u003cpage\u003e\\d)",
