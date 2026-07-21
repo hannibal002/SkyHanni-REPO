@@ -381,17 +381,33 @@
   },
   "weapons": {
     "REVENANT": {
-      "AXE_OF_THE_SHREDDED": 45,
-      "REAPER_SWORD": 45
+        "AXE_OF_THE_SHREDDED": 45,
+        "REAPER_SWORD": 45,
+        "REVENANT_SWORD": 1
     },
     "TARANTULA": {
-      "SCORPION_FOIL": 30,
-      "STING": 45
+        "SCORPION_FOIL": 30,
+        "STING": 45,
+        "TARANTULA_FANG": 15
     },
     "SVEN": {
-      "SHAMAN_SWORD": 30,
-      "POOCH_SWORD": 45
+        "SHAMAN_SWORD": 30,
+        "POOCH_SWORD": 45
+    },
+    "VOID": {
+        "VOIDEDGE_KATANA": 15,
+        "VORPAL_KATANA": 30,
+        "ATOMSPLIT_KATANA": 45
+    },
+    "INFERNO": {
+        "FIREDUST_DAGGER": 15,
+        "MAWDUST_DAGGER": 15,
+        "BURSTMAW_DAGGER": 30,
+        "BURSTFIRE_DAGGER": 30,
+        "HEARTFIRE_DAGGER": 45,
+        "HEARTMAW_DAGGER": 45
     }
+}
   },
   "equipments": {
     "TARANTULA": {
