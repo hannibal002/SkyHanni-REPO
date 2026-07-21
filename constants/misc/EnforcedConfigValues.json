@@ -189,7 +189,7 @@
         {
           "path": "misc.commands.betterWiki.useIndependent",
           "value": true
-        },
+        }
       ],
       "affectedVersion": "7.99.0",
       "extraMessage": "Official wiki is dead"
