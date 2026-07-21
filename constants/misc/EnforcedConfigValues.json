@@ -179,6 +179,20 @@
       "minimumAffectedVersion": "7.21.0",
       "affectedVersion": "7.21.0",
       "extraMessage": "Update the mod to re-enable this feature"
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "misc.commands.betterWiki.enabled",
+          "value": true
+        },
+        {
+          "path": "misc.commands.betterWiki.useIndependent",
+          "value": true
+        }
+      ],
+      "affectedVersion": "7.99.0",
+      "extraMessage": "Official wiki is dead"
     }
   ]
 }
