@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e20989e",
+  "sourceLabel": "ec1549e",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -390,7 +390,7 @@
     "dungeon.croesus.kismet.used.colorless": "You already rerolled a chest!",
     "dungeon.deathcounter.death.message": " ☠ .+(?:(?:crush|di(?:sconnect)?|kill|suffocat)ed|fell|burnt).+became a ghost\\.",
     "dungeon.end.chests.spawned": "(?:§f)? *§r§c(?:Master Mode )?The Catacombs §r§8- §r§eFloor .*",
-    "dungeon.f5.livid.armorstand": "^§(?\u003ccolorCode\u003e.)﴾ §.§lLivid.*$",
+    "dungeon.f5.livid.armorstand": "§(?\u003ccolorCode\u003e.)﴾ (?:§e§5 )?§.§lLivid.*",
     "dungeon.f5.livid.name": "^(?\u003cname\u003e\\w+) Livid$",
     "dungeon.finder.new.carry": "(?i).*(?:CARRY|CARY|CARRIES|CARIES|COMP|TO CATA [0-9]{2}).*",
     "dungeon.finder.new.catacombs.gate": "Catacombs Gate",
