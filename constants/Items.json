@@ -464,24 +464,5 @@
   ],
   "has_legacy_gemstone_slots": [
     "GIANT_FISHING_ROD"
-  ],
-  "slayer_weapons": [
-    "REVENANT_SWORD",
-    "REAPER_SWORD",
-    "AXE_OF_THE_SHREDDED",
-    "TARANTULA_FANG",
-    "SCORPION_FOIL",
-    "STING",
-    "SHAMAN_SWORD",
-    "POOCH_SWORD",
-    "VOIDEDGE_KATANA",
-    "VORPAL_KATANA",
-    "ATOMSPLIT_KATANA",
-    "FIREDUST_DAGGER",
-    "MAWDUST_DAGGER",
-    "BURSTMAW_DAGGER",
-    "BURSTFIRE_DAGGER",
-    "HEARTFIRE_DAGGER",
-    "HEARTMAW_DAGGER"
-]
+  ]
 }
