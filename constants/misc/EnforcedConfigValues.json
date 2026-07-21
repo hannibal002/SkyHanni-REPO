@@ -183,7 +183,7 @@
     {
       "enforcedValues": [
         {
-          "path": "misc.commands.betterWiki.useUnofficial",
+          "path": "misc.commands.betterWiki.useFandom",
           "value": false
         }
       ],
