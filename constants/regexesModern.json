@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "3df4944",
+  "sourceLabel": "e32d790",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -898,6 +898,7 @@
     "garden.pests-api.tablist.infected-plots-no-color": "\\sPlots: (?\u003cplots\u003e.*)",
     "garden.pests-api.toolkit.inventory": "Farming Toolkit",
     "garden.pests.cooldowntime-no-color": "\\sCooldown: (?\u003ctime\u003e\\d{1,2}[ms](?: \\d{1,2}s?)?)?(?\u003cready\u003eREADY)?(?\u003cmaxPests\u003eMAX PESTS)?.*",
+    "garden.pests.max-pests-alive": "\\sAlive: 8",
     "garden.pests.pesthunter.garden.pests.pesthunter.cost": "§2(?\u003cpests\u003e[\\d,]+) Pests",
     "garden.pests.spawn.multiple.colorless.0": "^\\w+! (?\u003camount\u003e\\d)  Pests? have spawned in Plot - (?\u003cplot\u003e.*)!",
     "garden.pests.spawn.multiple.colorless.1": "^\\w+! (?\u003camount\u003e\\d)  Pests? have spawned in (?\u003cplot\u003eThe Barn)!",
