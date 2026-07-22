@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "124b87b",
+  "sourceLabel": "3be36f1",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -941,6 +941,7 @@
     "garden.spray.material": "§a§lSPRAYONATOR! §r§7Your selected material is now §r§a(?\u003cspray\u003e.*)§r§7!",
     "garden.tooltip.farmingfortune": "§7Farming Fortune: §6",
     "garden.visitor.api.visitor.name": " (?:§.)+(?\u003cname\u003e§.[^§]+).*",
+    "garden.visitor.charmed.name": "This Visitor has been Charmed!.*",
     "garden.visitor.chat.partialaccepted": "§aYou gave some of the required items!",
     "garden.visitor.chat.visitorarrive": ".* §r§ehas arrived on your §r§[ba]Garden§r§e!",
     "garden.visitor.chat.visitorchat": "§e\\[NPC] (?\u003ccolor\u003e§.)?(?\u003cname\u003e.*)§f: §r.*",
