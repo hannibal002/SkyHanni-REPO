@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "3be36f1",
+  "sourceLabel": "3df4944",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -387,7 +387,7 @@
     "dungeon.croesus.chest.kuudra.colorless": "(?\u003ctier\u003eBasic|Hot|Burning|Fiery|Infernal) Tier",
     "dungeon.croesus.chest.master.colorless": ".*Master.*",
     "dungeon.croesus.chest.state.keyused.colorless": "No more chests to open!",
-    "dungeon.croesus.chest.state.kismet.used.colorless": "(?:\\s+)?Kismet Feather",
+    "dungeon.croesus.chest.state.kismet.used.styled": " §mKismet Feather",
     "dungeon.croesus.chest.state.opened.colorless": "Opened [cC]hest:.*",
     "dungeon.croesus.chest.state.unopened.colorless": "No chests opened yet!",
     "dungeon.croesus.empty.colorless": "No treasures!",
