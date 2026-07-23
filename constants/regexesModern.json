@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7ff4130",
+  "sourceLabel": "c222789",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -391,7 +391,7 @@
     "dungeon.croesus.chest.state.opened.colorless": "Opened [cC]hest:.*",
     "dungeon.croesus.chest.state.unopened.colorless": "No chests opened yet!",
     "dungeon.croesus.empty.colorless": "No treasures!",
-    "dungeon.croesus.inventory": "Croesus",
+    "dungeon.croesus.inventory": "(?:\\(\\d+/\\d+\\) )?Croesus",
     "dungeon.croesus.kismet.reroll.colorless": "Reroll Chest",
     "dungeon.croesus.kismet.used.colorless": "You already rerolled a chest!",
     "dungeon.deathcounter.death.message": " ☠ .+(?:(?:crush|di(?:sconnect)?|kill|suffocat)ed|fell|burnt).+became a ghost\\.",
@@ -972,6 +972,7 @@
     "inventory.activebeaconeffect.inventory": "Profile Stat Upgrades",
     "inventory.activebeaconeffect.slot.active": "§aActive stat boost!",
     "inventory.attributeshards.advanced.mode": "§7§cAdvanced Mode unlocked at 30",
+    "inventory.attributeshards.attributemenu": "(?:\\(\\d+/\\d+\\) )?Attribute Menu",
     "inventory.attributeshards.caught.shards": "§aYou caught(?: [an]+)?(?: §7x(?\u003camount\u003e\\d+))? §.(?\u003cshardName\u003e.+) §aShard(?:s§a)?!",
     "inventory.attributeshards.charmed.shard": "§.§l(?\u003ccharmType\u003eCHARM|SALT|NAGA)§7 You charmed an? §.(?\u003cshardName\u003e.+)§7 and captured (?:§.(?\u003camount\u003e\\d+) Shards §7from it|its §9Shard§7)\\.(?:§.)*",
     "inventory.attributeshards.chat.and.more": "§aand (?\u003camount\u003e\\d+) more\\.\\.\\.",
@@ -1599,7 +1600,7 @@
     "rngmeterinventory.floor.name": "(?:§.)*Catacombs \\((?\u003cfloor\u003e.*)\\)",
     "skyblockguide.highlight.abiphone.inventory": "Miscellaneous ➜ Abiphone Contac",
     "skyblockguide.highlight.attribute.disable.condition": "§7Enabled: §cNo",
-    "skyblockguide.highlight.attribute.disable.inventory": "Attribute Menu",
+    "skyblockguide.highlight.attribute.disable.inventory": "(?:\\(\\d+/\\d+\\) )?Attribute Menu",
     "skyblockguide.highlight.bank.inventory": "Core ➜ Bank Upgrades",
     "skyblockguide.highlight.belt.inventory": "Miscellaneous ➜ The Dojo",
     "skyblockguide.highlight.century.condition": "§c§lINCOMPLETE",
