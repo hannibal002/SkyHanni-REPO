@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1a78194",
+  "sourceLabel": "7ff4130",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -292,11 +292,11 @@
     "data.maxwell.gui.selectedpower": "§aPower is selected!",
     "data.maxwell.gui.thaumaturgy": "(?:\\(\\d/\\d\\) )?Accessory Bag Thaumaturgy",
     "data.maxwell.gui.thaumaturgy.data": "§(?\u003ccolor\u003e.)\\+(?\u003camount\u003e[^ ]+)(?\u003cicon\u003e.) (?\u003cname\u003e.+)",
-    "data.maxwell.gui.thaumaturgy.magicalpower": "§7Total: §6(?\u003cmp\u003e[\\d.,]+) Magical Power",
+    "data.maxwell.gui.thaumaturgy.magicalpower": "§7Total: §6(?\u003cmp\u003e[\\d.,]+) Accessory Power",
     "data.maxwell.gui.thaumaturgy.start": "§7Your tuning:",
     "data.maxwell.gui.thaumaturgy.statstuning": "Stats Tuning",
     "data.maxwell.gui.yourbags": "Your Bags",
-    "data.maxwell.inventory.magicalpower": "§7Magical Power: §6(?\u003cmp\u003e[\\d,]+)",
+    "data.maxwell.inventory.magicalpower": "§7Accessory Power: §6(?\u003cmp\u003e[\\d,]+)",
     "data.maxwell.inventory.power": "§7Selected Power: §a(?\u003cpower\u003e.*)",
     "data.maxwell.stack.accessorybag": "§.Accessory Bag",
     "data.maxwell.thaumaturgy.statstuning": "§7You have: .+ §7\\+ §(?\u003ccolor\u003e.)(?\u003camount\u003e[^ ]+) (?\u003cicon\u003e.)",
