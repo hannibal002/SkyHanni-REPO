@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a35db05",
+  "sourceLabel": "74cd0d5",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -417,7 +417,7 @@
     "dungeon.finder.new.party.finder.title": "Party Finder",
     "dungeon.finder.new.price": "(?i).*(?:[0-9]{2,3}K|[0-9]{1,3}M|[0-9]+\\.[0-9]M|[0-9] ?MIL).*",
     "dungeon.finder.new.select.floor": "Select Floor",
-    "dungeon.floor": " . The Catacombs \\((?\u003cfloor\u003e.*)\\)",
+    "dungeon.floor": " [⏣] The Catacombs \\((?\u003cfloor\u003e.*)\\)",
     "dungeon.join.dungeon.join": ".*\n§r(?\u003cplayer\u003e.*)§r§f §r§eentered §r(?:.*)?The Catacombs§r§e,.*\n.*",
     "dungeon.kill": " +. Defeated (?\u003cboss\u003e\\w+).*",
     "dungeon.level": " +(?\u003ckills\u003e\\d+).*",
@@ -1440,7 +1440,7 @@
     "misc.nongodpot.effects.colorless": "You have (?\u003ccount\u003e\\d+) non-god effects\\.",
     "misc.nongodpot.effects.gained.douce-pluie-de-stinky-cheese": "§a§lBUFF! §fYou have gained §r§eDouce Pluie de Stinky Cheese I§r§f!",
     "misc.nongodpot.effects.gained.glowy": "§a§lBUFF! §fYou have gained §r§2Mushed Glowy Tonic I§r§f!",
-    "misc.nongodpot.effects.gained.goblin": "§e[NPC] §6King Yolkaar§f: §rThis egg will help me stomach my pain.",
+    "misc.nongodpot.effects.gained.goblin": "§e[NPC] §6King Yolkar§f: §rThis egg will help me stomach my pain.",
     "misc.nongodpot.effects.gained.great-spook": "§eYou consumed a §r§fGreat Spook Potion§r§e!",
     "misc.nongodpot.effects.gained.harvest-harbinger": "§a§lBUFF! §fYou have gained §r§6Harvest Harbinger V§r§f!",
     "misc.nongodpot.effects.gained.pest-repellent": "§a§lYUM! §r§2 Pests §r§7will now spawn §r§a2x §r§7less while you break crops for the next §r§a60m§r§7!",
