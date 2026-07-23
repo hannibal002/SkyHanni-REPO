@@ -210,8 +210,8 @@
       "goodLevel": 2,
       "maxLevel": 2
     },
-    "ferocious mana": {
-      "loreName": "Ferocious Mana",
+    "vivacious vitality": {
+      "loreName": "Vivacious Vitality",
       "nbtName": "ferocious_mana",
       "goodLevel": 0,
       "maxLevel": 10
@@ -258,8 +258,8 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
-    "hardened mana": {
-      "loreName": "Hardened Mana",
+    "hardened vitality": {
+      "loreName": "Hardened Vitality",
       "nbtName": "hardened_mana",
       "goodLevel": 0,
       "maxLevel": 10
@@ -342,8 +342,8 @@
       "goodLevel": 0,
       "maxLevel": 3
     },
-    "mana vampire": {
-      "loreName": "Mana Vampire",
+    "vampiric vitality": {
+      "loreName": "Vampiric Vitality",
       "nbtName": "mana_vampire",
       "goodLevel": 0,
       "maxLevel": 10
@@ -558,8 +558,8 @@
       "goodLevel": 0,
       "maxLevel": 1
     },
-    "strong mana": {
-      "loreName": "Strong Mana",
+    "strong vitality": {
+      "loreName": "Strong Vitality",
       "nbtName": "strong_mana",
       "goodLevel": 0,
       "maxLevel": 10
