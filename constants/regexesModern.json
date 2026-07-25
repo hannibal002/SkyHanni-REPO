@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "c3c5f9b",
+  "sourceLabel": "9980ef2",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1680,6 +1680,7 @@
     "slayer.blaze.firepillar.entityname": "§6§l(?\u003cseconds\u003e.*)s §c§l8 hits",
     "slayer.bosswarning.progress": "\\(?(?\u003cprogress\u003e[0-9,.]+k?)/(?\u003ctotal\u003e[0-9,.]+k?)\\)? .*",
     "slayer.cocooned": "\\s+§r§c§lYOU COCOONED YOUR SLAYER BOSS",
+    "slayer.gummy.smoldering-area": "Smoldering Tomb|The Wasteland",
     "slayer.hidemobname.0": "\\[Lv\\d+] (?\u003cmobType\u003e([])+)? Zombie (?\u003cmin\u003e.+)/(?\u003cmax\u003e.+)❤",
     "slayer.hidemobname.1": "\\[Lv\\d+] (?\u003cmobType\u003e([])+)? Zombie Villager (?\u003cmin\u003e.+)/(?\u003cmax\u003e.+)❤",
     "slayer.hidemobname.2": "\\[Lv\\d+] (?\u003cmobType\u003e([])+)? Crypt Ghoul (?\u003cmin\u003e.+)/(?\u003cmax\u003e.+)❤",
