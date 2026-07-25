@@ -209,6 +209,11 @@
       "suffix": "§d:3",
       "display_name": "PolarBlunk"
     },
+    "5b0dfa5b-c2a6-45d3-9cab-b354c10761eb": {
+      "suffix": "§d:3",
+      "componentSuffix": [{"atlas":"gui", "color": "white", "sprite":"skyhanni:trans"}, {"text":" "}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:dog"}],
+      "display_name": "PuppyGirlAbora"
+    },
     "93234e1a-ca82-4bd7-a518-8aa89d551979": {
       "suffix": "§5:3",
       "display_name": "qtLuna"
