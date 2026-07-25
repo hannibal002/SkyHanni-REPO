@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "971f5c1",
+  "sourceLabel": "c3c5f9b",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -101,6 +101,9 @@
     "chat-filter.hunting.redundant-comments.1": "(?:§.)*You caught yourself an invisibug! The shard was sent to your Hunting Box!",
     "chat-filter.hunting.redundant-comments.2": "(?:§.)*The Frog is exhausted\\.\\.\\.",
     "chat-filter.hunting.swoop-axe-message": "§e\\[NPC] §bSwoop§f: §rWow! I forgot to tell you, monsters around here can only take damage from Axes!",
+    "chat-filter.hypixel-misc.profile-join.0": "§aYou are playing on profile: §e.*",
+    "chat-filter.hypixel-misc.profile-join.1": "§8Profile ID: .*",
+    "chat-filter.hypixel-misc.profile-join.2": "§eProfile ID: .*",
     "chat-filter.hypixel-misc.seasonal-bundles.0": "(?:§.)*You haven\u0027t claimed your (?:§.)*\\w+ Rewards (?:§.)*yet!",
     "chat-filter.hypixel-misc.seasonal-bundles.1": "(?:§.)*Talk to the (?:§.)*.+(?:§.)*in the (?:§.)*.+(?:§.)*!",
     "chat.arachne.calling": "§4☄ §r.* §r§eplaced an §r§9Arachne\u0027s Calling§r§e!.*",
