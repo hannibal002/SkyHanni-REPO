@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8c5cda2",
+  "sourceLabel": "bf523c7",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -898,6 +898,10 @@
     "garden.greenhouse.phantomleaf.failure": "Phantomleaf: That\u0027s not me! Better luck next time!",
     "garden.greenhouse.phantomleaf.found": "Phantomleaf: You found me!",
     "garden.greenhouse.phantomleaf.poof": "Phantomleaf: Poof! Try and find me!",
+    "garden.inventory.anita.extrafortune.clicktotrade": "Click to trade!",
+    "garden.inventory.anita.extrafortune.extrafarmingfortune": "Extra Farming Fortune",
+    "garden.inventory.anita.extrafortune.farmingfortune": "You have: \\+(?\u003cfarmingFortune\u003e\\d+) Farming Fortune",
+    "garden.inventory.anita.extrafortune.inventory": "Anita",
     "garden.inventory.anita.extrafortune.realamount.new": "Jacob\u0027s Ticket x(?\u003crealAmount\u003e.*)",
     "garden.inventory.logbook.accepted": "§7Offers Accepted: §a(?\u003ctimesAccepted\u003e[0-9,.]+)",
     "garden.inventory.logbook.page.current": "§ePage (?\u003cpage\u003e\\d)",
