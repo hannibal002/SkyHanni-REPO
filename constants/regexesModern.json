@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "bf523c7",
+  "sourceLabel": "14b9966",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -903,9 +903,9 @@
     "garden.inventory.anita.extrafortune.farmingfortune": "You have: \\+(?\u003cfarmingFortune\u003e\\d+) Farming Fortune",
     "garden.inventory.anita.extrafortune.inventory": "Anita",
     "garden.inventory.anita.extrafortune.realamount.new": "Jacob\u0027s Ticket x(?\u003crealAmount\u003e.*)",
-    "garden.inventory.logbook.accepted": "§7Offers Accepted: §a(?\u003ctimesAccepted\u003e[0-9,.]+)",
-    "garden.inventory.logbook.page.current": "§ePage (?\u003cpage\u003e\\d)",
-    "garden.inventory.logbook.visited": "§7Times Visited: §a(?\u003ctimesVisited\u003e[0-9,.]+)",
+    "garden.inventory.logbook.accepted.colorless": "Offers Accepted: (?\u003ctimesAccepted\u003e[0-9,.]+)",
+    "garden.inventory.logbook.inventory-name": "(?:\\(\\d+/\\d+\\) )?Visitor\u0027s Logbook",
+    "garden.inventory.logbook.visited.colorless": "Times Visited: (?\u003ctimesVisited\u003e[0-9,.]+)",
     "garden.inventory.numbers.upgradetier": "§7Current Tier: §[ea](?\u003ctier\u003e.*)§7/§a.*",
     "garden.inventory.skymart.copper": "§c(?\u003camount\u003e.*) Copper",
     "garden.jacob.contests.inventory.medal": "§7You placed in the (?\u003cmedal\u003e.*) §7bracket!",
