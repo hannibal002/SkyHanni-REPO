@@ -419,6 +419,18 @@
       "lotus_beach": "58:67:-40",
       "lotus_treasure": "77:72:-6",
       "lotus_jessica": "63:61:-6"
+    },
+    "TORRHUS_CANYON": {
+      "safari ships": "-740:98:180",
+      "south west sanger npc thing": "-758:98:251",
+      "archway near pools at start": "-691:102:184",
+      "near honey npc": "-621:105:200",
+      "in cave north east": "-559:98:236",
+      "at spawn": "-718:96:139",
+      "on bridge": "-702:137:149",
+      "honey hives": "-564:103:200",
+      "beacon": "-597:125:203",
+      "north east sanger npc thing": "-534:100:213"
     }
   },
   "chocolateFactoryMilestones": [
