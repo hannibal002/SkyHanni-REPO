@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "14b9966",
+  "sourceLabel": "193979c",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -163,8 +163,13 @@
     "chat.sound.responsesheep": "(?:^|^.* )(?: |§.)*(?i)(?:baa+h*)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
     "color.item.hex.lore.code": "(?:Hex )?(?\u003chex\u003e#[0-9a-fA-F]{1,6})",
     "combat.armorstack.actionbar": " (?:§6|§6§l)(?\u003cstack\u003e\\d+[ᝐ⁑|҉Ѫ⚶])",
+    "combat.bestiary.data.kills.line": "Kills: (?\u003ckills\u003e[0-9,.]+)",
+    "combat.bestiary.data.mob.level": " (?\u003clevel\u003e[IVX0-9]+)$",
     "combat.bestiary.data.overallprogress": "§7Overall Progress: §b[\\d.]+%(?: §7\\(§c§lMAX!§7\\))?",
     "combat.bestiary.data.progress": "(?\u003ccurrent\u003e[0-9kKmMbB,.]+)/(?\u003cneeded\u003e[0-9kKmMbB,.]+$)",
+    "combat.bestiary.data.progress.bar.line": " {20}.*",
+    "combat.bestiary.data.progress.not-unlocked-familty": "You haven\u0027t unlocked this Family yet!",
+    "combat.bestiary.data.progress.overall-shown": "Overall Progress: SHOWN",
     "combat.bestiary.data.tierprogress": "§7Progress to Tier [\\dIVXC]+: §b[\\d.]+%",
     "combat.bestiary.data.title": "^(?:\\(\\d+\\/\\d+\\) )?(?\u003ctitle\u003eBestiary|.+) ➜ .+$",
     "combat.boss.dragon.1.chat.egg.spawn": "§5☬ §r§dThe Dragon Egg has spawned!",
