@@ -34,7 +34,7 @@
     "Position": "-696.0:93.0:153.0",
     "Name": "Honey Hive",
     "Tags": [
-      "hive"
+      "honey_hive"
     ],
     "Neighbours": {
       "7": 5.48,
@@ -378,7 +378,7 @@
     "Position": "-575.0:101.0:208.0",
     "Name": "Honey Hive",
     "Tags": [
-      "hive"
+      "honey_hive"
     ],
     "Neighbours": {
       "43": 9.0,
@@ -556,7 +556,7 @@
     "Position": "-619.0:99.0:235.0",
     "Name": "Tree Protection Order",
     "Tags": [
-      "tree_protection"
+      "tree_protection_order"
     ],
     "Neighbours": {
       "62": 5.48,
@@ -600,7 +600,7 @@
     "Position": "-608.0:98.0:274.0",
     "Name": "Honey Hive",
     "Tags": [
-      "hive"
+      "honey_hive"
     ],
     "Neighbours": {
       "68": 6.08,
@@ -716,7 +716,7 @@
     "Position": "-540.0:112.0:286.0",
     "Name": "Tree Protection Order",
     "Tags": [
-      "tree_protection"
+      "tree_protection_order"
     ],
     "ExtraWeight": 10,
     "Neighbours": {
@@ -1174,7 +1174,7 @@
     "Position": "-582.0:151.0:255.0",
     "Name": "Honey Hive",
     "Tags": [
-      "hive"
+      "honey_hive"
     ],
     "Neighbours": {
       "144": 6.16,
@@ -1721,7 +1721,7 @@
     "Position": "-704.0:92.0:222.0",
     "Name": "Honey Hive",
     "Tags": [
-      "hive"
+      "honey_hive"
     ],
     "Neighbours": {
       "210": 7.62,
@@ -1827,7 +1827,7 @@
     "Position": "-724.0:92.0:208.0",
     "Name": "Honey Hive",
     "Tags": [
-      "hive"
+      "honey_hive"
     ],
     "Neighbours": {
       "1151": 6.32,
@@ -1914,7 +1914,7 @@
     "Position": "-666.0:96.0:169.0",
     "Name": "Honey Hive",
     "Tags": [
-      "hive"
+      "honey_hive"
     ],
     "Neighbours": {
       "236": 3.16,
@@ -2384,7 +2384,7 @@
     "Position": "-731.0:128.0:185.0",
     "Name": "Honey Hive",
     "Tags": [
-      "hive"
+      "honey_hive"
     ],
     "Neighbours": {
       "292": 6.08,
@@ -5156,7 +5156,7 @@
     "Position": "-547.0:110.0:298.0",
     "Name": "Tree Protection Order",
     "Tags": [
-      "tree_protection"
+      "tree_protection_order"
     ],
     "Neighbours": {
       "641": 5.39,
@@ -5249,7 +5249,7 @@
     "Position": "-512.0:109.0:259.0",
     "Name": "Tree Protection Order",
     "Tags": [
-      "tree_protection"
+      "tree_protection_order"
     ],
     "Neighbours": {
       "57": 6.63,
