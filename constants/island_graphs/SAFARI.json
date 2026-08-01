@@ -1746,6 +1746,9 @@
   "231": {
     "Position": "-30.0:126.0:59.0",
     "Name": "Safari Bell",
+    "Tags": [
+      "safari_bell"
+    ],
     "Neighbours": {
       "230": 4.12,
       "232": 8.25
@@ -2218,6 +2221,9 @@
   "292": {
     "Position": "-90.0:110.0:16.0",
     "Name": "Safari Bell",
+    "Tags": [
+      "safari_bell"
+    ],
     "Neighbours": {
       "291": 3.61,
       "293": 4.69
@@ -2310,7 +2316,8 @@
     "Position": "-69.0:67.0:-34.0",
     "Name": "Hunter Dennis",
     "Tags": [
-      "npc"
+      "npc",
+      "safari_bell"
     ],
     "Neighbours": {
       "303": 4.47,
@@ -2654,6 +2661,9 @@
   "350": {
     "Position": "-68.0:67.0:-43.0",
     "Name": "Safari Bell",
+    "Tags": [
+      "safari_bell"
+    ],
     "Neighbours": {
       "349": 4.12,
       "367": 14.32
@@ -2856,6 +2866,9 @@
   "375": {
     "Position": "-96.0:47.0:-57.0",
     "Name": "Safari Bell",
+    "Tags": [
+      "safari_bell"
+    ],
     "Neighbours": {
       "374": 3.16
     }
@@ -3060,6 +3073,9 @@
   "405": {
     "Position": "-50.0:82.0:0.0",
     "Name": "Safari Bell",
+    "Tags": [
+      "safari_bell"
+    ],
     "Neighbours": {
       "397": 3.74
     }
@@ -4503,6 +4519,9 @@
   "601": {
     "Position": "-4.0:96.0:-42.0",
     "Name": "Safari Bell",
+    "Tags": [
+      "safari_bell"
+    ],
     "Neighbours": {
       "600": 4.0,
       "614": 15.78
@@ -4941,6 +4960,9 @@
   "663": {
     "Position": "47.0:56.0:-7.0",
     "Name": "Safari Bell",
+    "Tags": [
+      "safari_bell"
+    ],
     "Neighbours": {
       "662": 4.47,
       "1196": 102.07
