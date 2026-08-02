@@ -1848,7 +1848,7 @@
     "Position": "-25.0:74.0:0.0",
     "Name": "Ship Navigation",
     "Tags": [
-      "warp"
+      "poi"
     ],
     "Neighbours": {
       "275": 1.0,
@@ -1858,7 +1858,7 @@
   },
   "275": {
     "Position": "-25.0:74.0:1.0",
-    "Name": "Hub",
+    "Name": "HUB",
     "Tags": [
       "jump_pad"
     ],
@@ -1871,7 +1871,7 @@
   },
   "276": {
     "Position": "-25.0:74.0:2.0",
-    "Name": "Bayou",
+    "Name": "BACKWATER_BAYOU",
     "Tags": [
       "jump_pad"
     ],
