@@ -35,7 +35,7 @@
     "Position": "-21.0:76.0:-13.0",
     "Name": "Ship Navigation",
     "Tags": [
-      "warp"
+      "poi"
     ],
     "Neighbours": {
       "263": 1.0,
@@ -2168,7 +2168,7 @@
   },
   "265": {
     "Position": "-21.0:76.0:-11.0",
-    "Name": "Lotus",
+    "Name": "LOTUS_ATOLL",
     "Tags": [
       "jump_pad"
     ],
@@ -2353,8 +2353,8 @@
       "hoppity"
     ],
     "Neighbours": {
-      "291": 4.24,
-      "87": 4.24
+      "87": 4.24,
+      "291": 4.24
     }
   },
   "291": {
