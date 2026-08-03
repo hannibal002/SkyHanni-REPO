@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "8609948",
+  "sourceLabel": "7378647",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -349,6 +349,7 @@
     "data.maxwell.tuningpoints.chat.autoassigned": "§aYour §r§eTuning Points §r§awere auto-assigned as convenience!",
     "data.miningapi.area.basecamp": "Dwarven Base Camp",
     "data.miningapi.area.glacite": "Glacite Tunnels|Great Glacite Lake",
+    "data.miningapi.area.icybiome": "Icy Biome",
     "data.miningapi.area.minesofdivan": "Mines of Divan",
     "data.miningapi.cold": "(?:§.)*Cold: §.(?\u003ccold\u003e-?\\d+)❄",
     "data.miningapi.cold.reset": "§6The warmth of the campfire reduced your §r§b Cold §r§6to §r§a0§r§6!|§c ☠ §r§7You froze to death§r§7\\.",
