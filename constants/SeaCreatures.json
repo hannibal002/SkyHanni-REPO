@@ -761,7 +761,7 @@
     }
   },
   "TORRHUS_CANYON": {
-    "chat_color": "§TODO",
+    "chat_color": "§6",
     "sea_creatures": {
       "Haggard": {
         "chat_message": "A Haggard stumbles to the shore, ready for a fight!",
