@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7378647",
+  "sourceLabel": "03e94d4",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -85,7 +85,7 @@
     "bingo.compactchat.strength": " {3}§r§7§8\\+§a. §c Strength",
     "bingo.detection.scoreboard": " §.Ⓑ §.Bingo",
     "bingo.detection.scoreboardtitle": "SKYBLOCK Ⓑ",
-    "bingo.minion.inventory": "Crafted Minions",
+    "bingo.minion.inventory": "(?:\\(\\d/\\d\\) )?Crafted Minions",
     "bingo.minion.name": "(?\u003cname\u003e.*) Minion (?\u003cnumber\u003e.*)",
     "bingo.steps.collection": "Reach (?\u003camount\u003e[0-9]+(?:,\\d+)*) (?\u003cname\u003e.*) Collection\\.",
     "bingo.steps.crystal.found": " *§r§5§l✦ CRYSTAL FOUND §r§7\\(.§r§7/5§r§7\\)",
@@ -1722,7 +1722,7 @@
     "skyblockguide.highlight.jacob.inventory": "Event ➜ Jacob\u0027s Farming Contest",
     "skyblockguide.highlight.level.guide.inventory": ".*Guide ➜.*",
     "skyblockguide.highlight.minion.condition": "§c ?✖.*|§7You haven\u0027t crafted this minion.",
-    "skyblockguide.highlight.minion.inventory": "Crafted Minions",
+    "skyblockguide.highlight.minion.inventory": "(?:\\(\\d/\\d\\) )?(?:Crafted Minions|\\w+ ➜ Minions)",
     "skyblockguide.highlight.pet.dolphin.inventory": "Fishing ➜ Dolphin Milestones",
     "skyblockguide.highlight.pet.rock.inventory": "Mining ➜ Rock Milestones",
     "skyblockguide.highlight.slaying.inventory": "Slaying ➜ .*",
