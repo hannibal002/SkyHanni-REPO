@@ -430,7 +430,11 @@
       "on bridge": "-702:137:149",
       "honey hives": "-564:103:200",
       "beacon": "-597:125:203",
-      "north east sanger npc thing": "-534:100:213"
+      "north east sanger npc thing": "-534:100:213",
+      "honey npc": "-629:99:229",
+      "big tree": "-533:110:275",
+      "mountain": "-601:173:235",
+      "underground cave": "-681:82:287"
     }
   },
   "chocolateFactoryMilestones": [
