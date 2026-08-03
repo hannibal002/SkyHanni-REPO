@@ -5,7 +5,9 @@
   ],
   "enchanted_books": [
 	"ULTIMATE_FIRST_IMPRESSION;1",
-	"ULTIMATE_MISSILE;1"
+	"ULTIMATE_MISSILE;1",
+	"ULTIMATE_MISSILE;1",
+	"KARMA;1"
   ],
   "boosters": [
 	"SWEEP_BOOSTER",
@@ -18,11 +20,17 @@
   "mobs": [
 	"Phanpyre",
 	"Phanflare",
-	"Dreadwing"
+	"Dreadwing",
+	"Groundhog",
+	"Firefox",
+    "Drybark",
+    "Puck",
+    "Grizzly Bear"
   ],
   "runes": [
 	"AXE_FADING_WHITE_RUNE;1",
-	"AXE_FADING_GREEN_RUNE;1"
+	"AXE_FADING_GREEN_RUNE;1",
+	"AXE_FADING_BLUE_RUNE;1"
   ],
   "misc_drops": [
 	"TREE_THE_FISH"
