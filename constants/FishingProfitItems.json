@@ -476,6 +476,19 @@
       "PUDDLE_JUMPER_SILVER",
       "PUDDLE_JUMPER_GOLD",
       "PUDDLE_JUMPER_DIAMOND"
+    ],
+    "Torrhus Canyon": [
+      "HELIX_LOG",
+      "ENCHANTED_HELIX_LOG",
+      "RUBY_VEILSHROOM",
+      "ENCHANTED_RUBY_VEILSHROOM",
+      "RUBBER_SNORKEL",
+      "HELIXIS",
+      "WATER_HYACINTH",
+      "SUBLIME_SILK",
+      "DISTANT_ECHO",
+      "ISOPOD_HUSK",
+      "REINFORCED_NETTING"
     ]
   }
 }

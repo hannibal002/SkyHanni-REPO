@@ -759,5 +759,42 @@
         "rare": true
       }
     }
+  },
+  "TORRHUS_CANYON": {
+    "chat_color": "§6",
+    "sea_creatures": {
+      "Haggard": {
+        "chat_message": "A Haggard stumbles to the shore, ready for a fight!",
+        "fishing_experience": 0,
+        "rarity": "COMMON"
+      },
+      "Brineling": {
+        "chat_message": "A Brineling interrupts you with a stream of bubbles!",
+        "fishing_experience": 0,
+        "rarity": "UNCOMMON"
+      },
+      "Sprawl": {
+        "chat_message": "A Sprawl emerges from the blue, and it’s looking for you!",
+        "fishing_experience": 0,
+        "rarity": "RARE"
+      },
+      "Torrid": {
+        "chat_message": "The laughter of a Torrid echoes through the air.",
+        "fishing_experience": 0,
+        "rarity": "EPIC"
+      },
+      "Silkbreeze": {
+        "chat_message": "Something zips through the air - it’s a Silkbreeze!",
+        "fishing_experience": 0,
+        "rarity": "LEGENDARY",
+        "rare": true
+      },
+      "Giant Isopod": {
+        "chat_message": "A Giant Isopod was dredged up from the depths!",
+        "fishing_experience": 0,
+        "rarity": "MYTHIC",
+        "rare": true
+      }
+    }
   }
 }
