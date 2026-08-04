@@ -10238,6 +10238,10 @@
   },
   "1338": {
     "Position": "-4.0:72.0:-85.0",
+    "Name": "Hideonwall",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "492": 4.58,
       "1337": 6.32
@@ -10260,6 +10264,10 @@
   },
   "1341": {
     "Position": "-25.0:80.0:-56.0",
+    "Name": "Hideonwall",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "1340": 2.24
     }
@@ -10280,6 +10288,10 @@
   },
   "1345": {
     "Position": "16.0:81.0:-75.0",
+    "Name": "Hideonwall",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "1346": 2.24
     }
@@ -10317,6 +10329,10 @@
   },
   "1350": {
     "Position": "17.0:80.0:-52.0",
+    "Name": "Hideonwall",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "1349": 2.24
     }
