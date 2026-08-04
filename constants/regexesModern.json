@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2c8e015",
+  "sourceLabel": "4cd3dc9",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -799,6 +799,8 @@
     "foraging.beacon.inventory": "(?\u003cupgrade\u003eUpgrade Signal Strength)|Tune Frequency",
     "foraging.beacon.pitch": "Current pitch: (?\u003cpitch\u003e\\w+)",
     "foraging.beacon.speed": "Current speed: (?\u003cspeed\u003e\\d+)",
+    "foraging.honeyhive.hive-looted": "You stick your hand into the honeyhive and feel around\\.\\.\\.",
+    "foraging.honeyhive.queen-bee": "QUEEN BEE! The Honeyhive instantly refilled with loot!",
     "foraging.hotf.inventory": "Heart of the Forest",
     "foraging.hotf.inventory.heart": "Heart of the Forest",
     "foraging.hotf.inventory.heart.token": "Tokens of the Forest: (?\u003ctoken\u003e\\d+)",
