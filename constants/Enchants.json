@@ -285,8 +285,8 @@
     "karma": {
       "loreName": "Karma",
       "nbtName": "Karma",
-      "goodLevel": 0,
-      "maxLevel": 5
+      "goodLevel": 5,
+      "maxLevel": 6
     },
     "knockback": {
       "loreName": "Knockback",
