@@ -774,7 +774,7 @@
         "rarity": "UNCOMMON"
       },
       "Sprawl": {
-        "chat_message": "A Sprawl emerges from the blue, and it’s looking for you!",
+        "chat_message": "A Sprawl emerges from the blue, and it's looking for you!",
         "fishing_experience": 0,
         "rarity": "RARE"
       },
@@ -784,7 +784,7 @@
         "rarity": "EPIC"
       },
       "Silkbreeze": {
-        "chat_message": "Something zips through the air - it’s a Silkbreeze!",
+        "chat_message": "Something zips through the air - it's a Silkbreeze!",
         "fishing_experience": 0,
         "rarity": "LEGENDARY",
         "rare": true
