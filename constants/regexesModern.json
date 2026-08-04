@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "03e94d4",
+  "sourceLabel": "2c8e015",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1811,7 +1811,7 @@
     "stats.menu.no-color.hearts": "\\s* Hearts (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.no-color.heat.resistance": "\\s* Heat Resistance (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.no-color.helix.fortune": "\\s* Helix Fortune (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
-    "stats.menu.no-color.hunter.fortune": "\\s* Hunter Fortune (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
+    "stats.menu.no-color.hunting.fortune": "\\s* Hunting Fortune (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.no-color.hunting.wisdom": "\\s*☯ Hunting Wisdom (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.no-color.intelligence": "\\s* Intelligence (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.no-color.magic.find": "\\s* Magic Find (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
@@ -1893,7 +1893,7 @@
     "stats.tablist.no-color.hearts": " *Hearts: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.no-color.heat.resistance": " *Heat Resistance: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.no-color.helix.fortune": " *Helix Fortune: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
-    "stats.tablist.no-color.hunter.fortune": " *Hunter Fortune: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
+    "stats.tablist.no-color.hunting.fortune": " *Hunting Fortune: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.no-color.hunting.wisdom": " *Hunting Wisdom: ☯(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.no-color.intelligence": " *Intelligence: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.no-color.magic.find": " *Magic Find: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
