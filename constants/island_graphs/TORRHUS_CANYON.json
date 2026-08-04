@@ -36,9 +36,9 @@
   },
   "4": {
     "Position": "-696.0:93.0:153.0",
-    "Name": "Honey Hive",
+    "Name": "Honeyhive",
     "Tags": [
-      "honey_hive"
+      "honeyhive"
     ],
     "Neighbours": {
       "3": 6.08,
@@ -405,9 +405,9 @@
   },
   "44": {
     "Position": "-575.0:101.0:208.0",
-    "Name": "Honey Hive",
+    "Name": "Honeyhive",
     "Tags": [
-      "honey_hive"
+      "honeyhive"
     ],
     "Neighbours": {
       "43": 9.0,
@@ -639,9 +639,9 @@
   },
   "69": {
     "Position": "-608.0:98.0:274.0",
-    "Name": "Honey Hive",
+    "Name": "Honeyhive",
     "Tags": [
-      "honey_hive"
+      "honeyhive"
     ],
     "Neighbours": {
       "68": 6.08,
@@ -1258,9 +1258,9 @@
   },
   "143": {
     "Position": "-582.0:151.0:255.0",
-    "Name": "Honey Hive",
+    "Name": "Honeyhive",
     "Tags": [
-      "honey_hive"
+      "honeyhive"
     ],
     "Neighbours": {
       "142": 8.31,
@@ -1833,9 +1833,9 @@
   },
   "211": {
     "Position": "-704.0:92.0:222.0",
-    "Name": "Honey Hive",
+    "Name": "Honeyhive",
     "Tags": [
-      "honey_hive"
+      "honeyhive"
     ],
     "Neighbours": {
       "210": 7.62,
@@ -1947,9 +1947,9 @@
   },
   "224": {
     "Position": "-724.0:92.0:208.0",
-    "Name": "Honey Hive",
+    "Name": "Honeyhive",
     "Tags": [
-      "honey_hive"
+      "honeyhive"
     ],
     "Neighbours": {
       "222": 7.21,
@@ -2038,9 +2038,9 @@
   },
   "235": {
     "Position": "-666.0:96.0:169.0",
-    "Name": "Honey Hive",
+    "Name": "Honeyhive",
     "Tags": [
-      "honey_hive"
+      "honeyhive"
     ],
     "Neighbours": {
       "234": 3.61,
@@ -2539,9 +2539,9 @@
   },
   "293": {
     "Position": "-731.0:128.0:185.0",
-    "Name": "Honey Hive",
+    "Name": "Honeyhive",
     "Tags": [
-      "honey_hive"
+      "honeyhive"
     ],
     "Neighbours": {
       "292": 6.08,
