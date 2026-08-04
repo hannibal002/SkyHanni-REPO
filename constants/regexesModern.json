@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "52194a9",
+  "sourceLabel": "eacade0",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1028,6 +1028,9 @@
     "harp.menu": "Melody",
     "harp.song.selected": "§aSong is selected!",
     "hoe.levels.levelup-nocolor": "OVERFLOW! Your (?\u003ctool\u003e.+) has just dropped a Tool Exp Capsule!",
+    "hunting.safari.hideyho-finder.begin-hiding": "\\[MOB] Hideyho: No peeking!",
+    "hunting.safari.hideyho-finder.first-found": "\\[MOB] Hideyho: Hehe, you found me!",
+    "hunting.safari.hideyho-finder.found-after-hiding": "\\[MOB] Hideyho: Aah! You found me!",
     "inv.acceptable": "^(?:Accessory Bag(?: \\(\\d+\\/\\d+\\))?|Auctions Browser|Manage Auctions|Auctions: \".*\"?)$",
     "inventory.activebeaconeffect.inventory": "Profile Stat Upgrades",
     "inventory.activebeaconeffect.slot.active": "§aActive stat boost!",
