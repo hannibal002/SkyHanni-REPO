@@ -372,6 +372,12 @@
       "goodLevel": 0,
       "maxLevel": 6
     },
+    "petalfall": {
+      "loreName": "Petalfall",
+      "nbtName": "petalfall",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "piercing": {
       "loreName": "Piercing",
       "nbtName": "piercing",
