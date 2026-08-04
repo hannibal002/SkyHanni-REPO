@@ -187,7 +187,7 @@
     },
     {
       "message_starts_with": [
-        "Caught a NullPointerException in at.hannibal2.skyhanni.data.MiningApi.onBlockChange"
+        "Caught a NullPointerException in at.hannibal2.skyhanni.data.MiningApi"
       ],
       "fixed_in": "7.43.0"
     }
