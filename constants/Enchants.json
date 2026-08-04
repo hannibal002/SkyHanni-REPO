@@ -282,6 +282,12 @@
       "goodLevel": 5,
       "maxLevel": 10
     },
+    "karma": {
+      "loreName": "Karma",
+      "nbtName": "Karma",
+      "goodLevel": 5,
+      "maxLevel": 6
+    },
     "knockback": {
       "loreName": "Knockback",
       "nbtName": "knockback",
@@ -365,6 +371,12 @@
       "nbtName": "pesterminator",
       "goodLevel": 0,
       "maxLevel": 6
+    },
+    "petalfall": {
+      "loreName": "Petalfall",
+      "nbtName": "petalfall",
+      "goodLevel": 0,
+      "maxLevel": 5
     },
     "piercing": {
       "loreName": "Piercing",
