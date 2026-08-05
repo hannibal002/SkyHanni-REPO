@@ -185,6 +185,12 @@
           "endcap_item": "ENDSTONE_IDOL"
         }
       ],
+      "forest_pledge": [
+        {
+          "required_level": 5,
+          "endcap_item": "WATER_HYACINTH"
+        }
+      ],
       "frail": [
         {
           "required_level": 6,
@@ -213,6 +219,12 @@
         {
           "required_level": 5,
           "endcap_item": "GOLDEN_BOUNTY"
+        }
+      ],
+      "scuba": [
+        {
+          "required_level": 5,
+          "endcap_item": "VIBRANT_CORAL"
         }
       ],
       "smite": [
@@ -361,12 +373,6 @@
         {
           "required_level": 6,
           "endcap_item": "FATEFUL_STINGER"
-        }
-      ],
-      "scuba": [
-        {
-          "required_level": 5,
-          "endcap_item": "VIBRANT_CORAL"
         }
       ]
     }
