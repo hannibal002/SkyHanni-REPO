@@ -1,38 +1,39 @@
 {
   "uncommon_drops": [
-	"STRETCHING_STICKS",
-	"DEEP_ROOT"
+    "STRETCHING_STICKS",
+    "DEEP_ROOT"
   ],
   "enchanted_books": [
-	"ULTIMATE_FIRST_IMPRESSION;1",
-	"ULTIMATE_MISSILE;1",
-	"ULTIMATE_MISSILE;1",
-	"KARMA;1"
+    "ULTIMATE_FIRST_IMPRESSION;1",
+    "ULTIMATE_MISSILE;1",
+    "ULTIMATE_MISSILE;1",
+    "KARMA;1"
   ],
   "boosters": [
-	"SWEEP_BOOSTER",
-	"FORAGING_WISDOM_BOOSTER"
+    "SWEEP_BOOSTER",
+    "FORAGING_WISDOM_BOOSTER"
   ],
   "shards": [
-	"ATTRIBUTE_SHARD_CHOP;1",
-	"ATTRIBUTE_SHARD_REPTILOID;1"
+    "ATTRIBUTE_SHARD_CHOP;1",
+    "ATTRIBUTE_SHARD_REPTILOID;1"
   ],
   "mobs": [
-	"Phanpyre",
-	"Phanflare",
-	"Dreadwing",
-	"Groundhog",
-	"Firefox",
+    "Phanpyre",
+    "Phanflare",
+    "Dreadwing",
+    "Groundhog",
+    "Firefox",
     "Drybark",
     "Puck",
     "Grizzly Bear"
   ],
   "runes": [
-	"AXE_FADING_WHITE_RUNE;1",
-	"AXE_FADING_GREEN_RUNE;1",
-	"AXE_FADING_BLUE_RUNE;1"
+    "AXE_FADING_WHITE_RUNE;1",
+    "AXE_FADING_GREEN_RUNE;1",
+    "AXE_FADING_BLUE_RUNE;1"
   ],
   "misc_drops": [
-	"TREE_THE_FISH"
+    "TREE_THE_FISH",
+    "PET_ITEM_FORAGING_SKILL_BOOST_EPIC"
   ]
 }
