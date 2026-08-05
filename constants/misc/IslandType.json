@@ -186,7 +186,7 @@
     "TORRHUS_CANYON": {
       "name": "Torrhus Canyon",
       "api_name": "foraging_3",
-      "max_players": 12,
+      "max_players": 24,
       "bounds": {
         "max_x": -499,
         "min_x": -770,
