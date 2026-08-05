@@ -4,7 +4,27 @@
   "disabledInvokers": [
   ],
   "disabled_handlers_versioned": [
+    {
+      "name": "OreMinedEvent",
+      "min_version": "7.42.0",
+      "max_version": "7.42.0"
+    }
   ],
   "disabled_invokers_versioned": [
+    {
+      "name": "at.hannibal2.skyhanni.data.MiningApi.onBlockChange",
+      "min_version": "7.42.0",
+      "max_version": "7.42.0"
+    },
+    {
+      "name": "at.hannibal2.skyhanni.data.MiningApi.onBlockClick",
+      "min_version": "7.42.0",
+      "max_version": "7.42.0"
+    },
+    {
+      "name": "at.hannibal2.skyhanni.data.MiningApi.onPlaySound",
+      "min_version": "7.42.0",
+      "max_version": "7.42.0"
+    }
   ]
 }

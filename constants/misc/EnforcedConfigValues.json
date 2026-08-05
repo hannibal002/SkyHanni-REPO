@@ -208,6 +208,21 @@
       "minimumAffectedVersion": "6.17.0",
       "affectedVersion": "7.99.0",
       "extraMessage": "Official wiki is dead"
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "mining.commissionsBlocksColor",
+          "value": false
+        },
+        {
+          "path": "mining.mineshaftPityDisplay",
+          "value": false
+        }
+      ],
+      "minimumAffectedVersion": "7.42.0",
+      "affectedVersion": "7.42.0",
+      "extraMessage": "Disabled to prevent crashes"
     }
   ]
 }
