@@ -12,17 +12,17 @@
   ],
   "disabled_invokers_versioned": [
     {
-      "name": "at.hannibal2.skyhanni.data.MiningApi.onBlockChange",
+      "name": "at.hannibal2.skyhanni.data.MiningApi.onBlockChange(at.hannibal2.skyhanni.events.ServerBlockChangeEvent)",
       "min_version": "7.42.0",
       "max_version": "7.42.0"
     },
     {
-      "name": "at.hannibal2.skyhanni.data.MiningApi.onBlockClick",
+      "name": "at.hannibal2.skyhanni.data.MiningApi.onBlockClick(at.hannibal2.skyhanni.events.BlockClickEvent)",
       "min_version": "7.42.0",
       "max_version": "7.42.0"
     },
     {
-      "name": "at.hannibal2.skyhanni.data.MiningApi.onPlaySound",
+      "name": "at.hannibal2.skyhanni.data.MiningApi.onPlaySound(at.hannibal2.skyhanni.events.PlaySoundEvent)",
       "min_version": "7.42.0",
       "max_version": "7.42.0"
     }
