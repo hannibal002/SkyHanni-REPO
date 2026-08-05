@@ -187,7 +187,8 @@
     },
     {
       "message_starts_with": [
-        "Caught a NullPointerException in at.hannibal2.skyhanni.data.MiningApi"
+        "Caught a NullPointerException in at.hannibal2.skyhanni.data.MiningApi",
+        "Error in MiningCommissionsBlocksColor"
       ],
       "fixed_in": "7.43.0"
     }
