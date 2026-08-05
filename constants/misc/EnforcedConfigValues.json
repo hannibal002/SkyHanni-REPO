@@ -212,11 +212,7 @@
     {
       "enforcedValues": [
         {
-          "path": "mining.commissionsBlocksColor",
-          "value": false
-        },
-        {
-          "path": "mining.mineshaftPityDisplay",
+          "path": "mining.commissionsBlocksColor.enabled",
           "value": false
         }
       ],
