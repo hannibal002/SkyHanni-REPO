@@ -208,6 +208,18 @@
       "minimumAffectedVersion": "6.17.0",
       "affectedVersion": "7.99.0",
       "extraMessage": "Official wiki is dead"
+    },
+    {
+      "enforcedValues": [],
+      "affectedVersion": "7.42.0",
+      "affectedMinecraftVersions": [
+        "1.21.11"
+      ],
+      "chatPSA": [
+        "§e§lSkyHanni no longer supports Minecraft 1.21.11.",
+        "§e§lThis version will no longer receive updates or fixes.",
+        "§e§lPlease update to Minecraft 26.1.2 or newer to continue receiving support."
+      ]
     }
   ]
 }
