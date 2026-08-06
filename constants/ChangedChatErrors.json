@@ -187,9 +187,25 @@
     },
     {
       "message_starts_with": [
-        "Caught a NullPointerException in at.hannibal2.skyhanni.data.MiningApi"
+        "Caught a NullPointerException in at.hannibal2.skyhanni.data.MiningApi",
+        "Error in MiningCommissionsBlocksColor"
       ],
       "fixed_in": "7.43.0"
+    },
+    {
+      "message_starts_with": [
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.combat.FlareDisplay.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.event.diana.GriffinBurrowParticleFinder.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.event.hoppity.HoppityEggLocator.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.hunting.InvisibugHighlighter.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.misc.LesserOrbHider.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.misc.ParticleHider.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.rift.area.livingcave.LivingCaveDefenseBlocks.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.slayer.HideSlayerSpawnParticles.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.slayer.VampireSlayerFeatures.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.slayer.enderman.EndermanSlayerHideParticles"
+      ],
+      "fixed_in": "7.99.0"
     }
   ]
 }
