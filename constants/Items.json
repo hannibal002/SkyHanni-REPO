@@ -115,7 +115,7 @@
     ],
     "endcap_enchants": {
       "//": {
-          "1": "DEPRECATED: Use endcap_enchants_new instead. This can be removed once SkyBlock drops 1.21.11 support."
+        "1": "DEPRECATED: Use endcap_enchants_new instead. This can be removed once SkyBlock drops 1.21.11 support."
       },
       "bane_of_arthropods": {
         "required_level": 6,
@@ -447,7 +447,10 @@
     "INKLING": "NIGHT_SQUID",
     "LOTUSFISH": "LOTUS_FISH",
     "SEASHINE": "SEA_SHINE",
-    "WITHER_SPECTRE": "WITHER_SPECTER"
+    "WITHER_SPECTRE": "WITHER_SPECTER",
+    "FIELD_MOUSE": "PEST",
+    "EARTHWORM": "TERMITE",
+    "ZEALOT_BRUISER": "BRUISER"
   },
   "distance_enchant_data": {
     "LEGION": {
