@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "7c3fba0",
+  "sourceLabel": "ae1cc66",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -225,8 +225,9 @@
     "combat.mobs.spawntime.arachne.fragment": "^☄ [a-z0-9_]{2,22} placed an arachne\u0027s calling! something is awakening! \\(4/4\\)$",
     "combat.spidersden.broodmother": "§4Broodmother§7: §[e64](?:Slain|Dormant|Soon|Awakening|Imminent|Alive!)",
     "commands.brigadier.arguments.lorenzvec.colon": "(?\u003cx\u003e~|-?\\d+(?:\\.\\d+)?):(?\u003cy\u003e~|-?\\d+(?:\\.\\d+)?):(?\u003cz\u003e~|-?\\d+(?:\\.\\d+)?)",
+    "commands.brigadier.arguments.lorenzvec.comma": "(?\u003cx\u003e-?\\d+(?:\\.\\d+)?),\\s*(?\u003cy\u003e-?\\d+(?:\\.\\d+)?),\\s*(?\u003cz\u003e-?\\d+(?:\\.\\d+)?)",
     "commands.brigadier.arguments.lorenzvec.lorenz": "LorenzVec\\((?\u003cx\u003e-?\\d+(?:\\.\\d+)?),\\s*(?\u003cy\u003e-?\\d+(?:\\.\\d+)?),\\s*(?\u003cz\u003e-?\\d+(?:\\.\\d+)?)\\)",
-    "commands.brigadier.arguments.lorenzvec.named-parameter": "x\u003d(?\u003cx\u003e-?\\d+(?:\\.\\d+)?),\\s*y\u003d(?\u003cy\u003e-?\\d+(?:\\.\\d+)?),\\s*z\u003d(?\u003cz\u003e-?\\d+(?:\\.\\d+)?)",
+    "commands.brigadier.arguments.lorenzvec.named-parameter": "x[\u003d:]\\s*(?\u003cx\u003e-?\\d+(?:\\.\\d+)?),\\s*y[\u003d:]\\s*(?\u003cy\u003e-?\\d+(?:\\.\\d+)?),\\s*z[\u003d:]\\s*(?\u003cz\u003e-?\\d+(?:\\.\\d+)?)",
     "commands.brigadier.arguments.lorenzvec.space": "(?\u003cx\u003e~|-?\\d+(?:\\.\\d+)?)\\s+(?\u003cy\u003e~|-?\\d+(?:\\.\\d+)?)\\s+(?\u003cz\u003e~|-?\\d+(?:\\.\\d+)?)",
     "commands.cooldown": "§cYou may only use this command after (?\u003ccooldown\u003e\\d+)s on the server!",
     "commands.viewrecipe": "/viewrecipe (?\u003citem\u003e.*)",
