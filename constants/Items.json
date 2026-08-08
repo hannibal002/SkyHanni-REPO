@@ -450,7 +450,8 @@
     "WITHER_SPECTRE": "WITHER_SPECTER",
     "FIELD_MOUSE": "PEST",
     "EARTHWORM": "TERMITE",
-    "ZEALOT_BRUISER": "BRUISER"
+    "ZEALOT_BRUISER": "BRUISER",
+    "BEETLE": "CROPEETLE"
   },
   "distance_enchant_data": {
     "LEGION": {
