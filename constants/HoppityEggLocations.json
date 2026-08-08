@@ -421,21 +421,21 @@
       "lotus_jessica": "63:61:-6"
     },
     "TORRHUS_CANYON": {
-      "safari ships": "-740:98:180",
-      "south west sanger npc thing": "-758:98:251",
-      "archway near pools at start": "-691:102:184",
-      "near honey npc": "-621:105:200",
-      "in cave north east": "-559:98:236",
-      "at spawn": "-718:96:139",
-      "on bridge": "-702:137:149",
-      "honey hives": "-564:103:200",
-      "beacon": "-597:125:203",
-      "north east sanger npc thing": "-534:100:213",
-      "honey npc": "-629:99:229",
-      "big tree": "-533:110:275",
-      "mountain": "-601:173:235",
-      "underground cave": "-681:82:287",
-      "top of springs": "-652:161:190"
+      "foraging_3_blimp": "-740:98:180",
+      "foraging_3_prismarine": "-758:98:251",
+      "foraging_3_totem_pole": "-691:102:184",
+      "foraging_3_waterfall": "-621:105:200",
+      "foraging_3_mushroom_cave": "-559:98:236",
+      "foraging_3_island_entrance": "-718:96:139",
+      "foraging_3_bridge": "-702:137:149",
+      "foraging_3_honeys_stash": "-564:103:200",
+      "foraging_3_beacon": "-597:125:203",
+      "foraging_3_amethyst": "-534:100:213",
+      "foraging_3_honey": "-629:99:229",
+      "foraging_3_great_helix_tree": "-533:110:275",
+      "foraging_3_big_nest": "-601:173:235",
+      "foraging_3_campsite": "-681:82:287",
+      "foraging_3_torrhus_springs": "-652:161:190"
     }
   },
   "chocolateFactoryMilestones": [
