@@ -141,6 +141,10 @@
         "required_level": 6,
         "endcap_item": "GOLD_BOTTLE_CAP"
       },
+        "karma": {
+        "required_level": 5,
+        "endcap_item": "DISTANT_ECHO"
+      },
       "pesterminator": {
         "required_level": 5,
         "endcap_item": "PESTHUNTING_GUIDE"
