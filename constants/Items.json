@@ -125,10 +125,6 @@
         "required_level": 5,
         "endcap_item": "CHAIN_END_TIMES"
       },
-      "distant_echo": {
-        "required_level": 5,
-        "endcap_item": "DISTANT_ECHO"
-      },
       "ender_slayer": {
         "required_level": 6,
         "endcap_item": "ENDSTONE_IDOL"
@@ -195,6 +191,12 @@
         {
           "required_level": 6,
           "endcap_item": "SEVERED_PINCER"
+        }
+      ],
+      "karma": [
+        {
+          "required_level": 5,
+          "endcap_item": "DISTANT_ECHO"
         }
       ],
       "luck_of_the_sea": [
