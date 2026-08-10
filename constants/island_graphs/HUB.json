@@ -29504,9 +29504,9 @@
   },
   "3527": {
     "Position": "-168.0:71.0:-121.0",
-    "Name": "Revenant Cave",
+    "Name": "Crypts",
     "Tags": [
-      "area"
+      "poi"
     ],
     "Neighbours": {
       "1338": 4.9,
