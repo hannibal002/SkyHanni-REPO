@@ -16,7 +16,8 @@
     },
     {
       "message_starts_with": [
-        "Error fetching data from NEU Lowest Bin API!"
+        "Error fetching data from NEU Lowest Bin API!",
+        "Asynchronous exception caught in bingo api fetch background"
       ],
       "fixed_in": "9.9.9"
     },
