@@ -207,6 +207,12 @@
         "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.slayer.enderman.EndermanSlayerHideParticles"
       ],
       "fixed_in": "7.99.0"
+    },
+    {
+      "message_starts_with": [
+        "Could not read the rotating effect from chat",
+      ],
+      "fixed_in": "7.45.0"
     }
   ]
 }
