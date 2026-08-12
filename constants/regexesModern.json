@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "24c71cc",
+  "sourceLabel": "689197a",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1047,7 +1047,7 @@
     "inventory.attributeshards.captured.shard": "CAPTURE! You (?:caught an?|found) .+ and (?:gained|as a reward (?:he|she|they) gave you) (?:an?|(?\u003camount\u003e\\d+)x) (?\u003cshardName\u003e.+) Shard!",
     "inventory.attributeshards.caught-multiple.shards": " .+ CATCH! You caught(?: [an]+)? (?\u003cshardName\u003e.+) Shard(?: x(?\u003camount\u003e\\d+))?!",
     "inventory.attributeshards.caught.shards.colorless": "You caught(?: [an]+)?(?: x(?\u003camount\u003e\\d+))? (?\u003cshardName\u003e.+) Shards?!",
-    "inventory.attributeshards.charmed.shard.colorless": "(?\u003ccharmType\u003eCHARM|SALT|NAGA) You charmed an? (?\u003cshardName\u003e.+) and captured (?:(?\u003camount\u003e\\d+) Shards from it|its Shard)\\.",
+    "inventory.attributeshards.charmed.shard.colorless": "CHARM! You charmed the .+ and received (?\u003camount\u003e\\d+) (?\u003cshardName\u003e.+) Shards?!",
     "inventory.attributeshards.chat.and.more.colorless": "and (?\u003camount\u003e\\d+) more\\.\\.\\.",
     "inventory.attributeshards.chat.disabled.colorless": "(?\u003cattributeName\u003e.+) is now disabled!",
     "inventory.attributeshards.chat.enabled.colorless": "(?\u003cattributeName\u003e.+) is now enabled!",
