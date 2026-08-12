@@ -212,7 +212,7 @@
       "message_starts_with": [
         "Could not read the rotating effect from chat",
       ],
-      "fixed_in": "7.45.0"
+      "fixed_in": "7.46.0"
     }
   ]
 }
