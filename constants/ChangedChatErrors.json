@@ -210,7 +210,8 @@
     },
     {
       "message_starts_with": [
-        "Could not read the rotating effect from chat"
+        "Could not read the rotating effect from chat",
+        "Caused by java.lang.IllegalStateException: itemPreEffectPattern didn't match"
       ],
       "fixed_in": "7.46.0"
     }
