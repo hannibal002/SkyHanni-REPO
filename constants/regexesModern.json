@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "da01008",
+  "sourceLabel": "775b65d",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -76,6 +76,7 @@
     "bazaar.orders.itemname": "§.§l(?\u003ctype\u003eBUY|SELL) (?\u003cname\u003e.*)",
     "bazaar.orders.owner.colorless": "By: (?:\\[[^]]+] )?(?\u003cname\u003e\\S+)",
     "bazaar.orders.price.colorless": "Price per unit: (?\u003cprice\u003e[\\d,.]+) coins",
+    "bazaar.orders.tooltip.tradepartners.colorless": "(?:Vendors|Single vendor|Customers|Single customer):",
     "bingo.boop.colorless": "Boop!",
     "bingo.card.display.inventory": "Bingo Card",
     "bingo.card.goalcomplete": "§6§lBINGO GOAL COMPLETE! §r§e(?\u003cname\u003e.*)",
