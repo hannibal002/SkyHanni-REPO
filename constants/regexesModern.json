@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "f996a3c",
+  "sourceLabel": "da01008",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -786,6 +786,7 @@
     "fishing.goldenfish.interact": "§9The §r§6Golden Fish §r§9escapes your hook but looks weakened\\.",
     "fishing.goldenfish.spawn": "§9You spot a §r§6Golden Fish §r§9surface from beneath the lava!",
     "fishing.goldenfish.weak": "§9The §r§6Golden Fish §r§9is weak!",
+    "fishing.hook.timer": "§e§l(?\u003ctime\u003e\\d+(?:\\.\\d+)?)|(?:§.)*(?\u003calert\u003e!!!)",
     "fishing.seacreature.doublehook": "§eIt\u0027s a §r§aDouble Hook§r§e!(?: Woot woot!)?",
     "fishing.seacreature.thundercharged": "§e\u003e Your bottle of thunder has fully charged!",
     "fishing.totemofcorruption.owner-nocolor": "Owner: (?\u003cowner\u003e.+)",
