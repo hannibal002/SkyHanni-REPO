@@ -212,6 +212,20 @@
     {
       "enforcedValues": [
         {
+          "path": "inventory.npcTrade.highlightAffordable",
+          "value": false
+        },
+        {
+          "path": "inventory.npcTrade.costBreakdown",
+          "value": false
+        }
+      ],
+      "affectedVersion": "7.46.0",
+      "extraMessage": "Should not have been default enabled"
+    },
+    {
+      "enforcedValues": [
+        {
           "path": "dev.mainToggles.mobDetection",
           "value": true
         }
