@@ -216,7 +216,7 @@
           "value": false
         },
         {
-          "path": "inventory.npcTrade.costBreakdown"
+          "path": "inventory.npcTrade.costBreakdown",
           "value": false
         }
       ],
