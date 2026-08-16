@@ -214,7 +214,7 @@
         {
           "path": "dev.mainToggles.mobDetection",
           "value": true
-        },
+        }
       ],
       "minimumAffectedVersion": "7.10.0",
       "affectedVersion": "7.99.0",
