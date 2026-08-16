@@ -217,7 +217,7 @@
         }
       ],
       "minimumAffectedVersion": "7.10.0",
-      "affectedVersion": "7.99.0",
+      "affectedVersion": "7.46.0",
       "extraMessage": "Mob Detection is needed for SkyHanni to work"
     }
   ]
