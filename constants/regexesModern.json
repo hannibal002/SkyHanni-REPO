@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "9696e5f",
+  "sourceLabel": "2048aad",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1075,6 +1075,8 @@
     "inventory.attributeshards.fusion.shard.colorless": "FUSION! You obtained(?: an?)? (?\u003cshardName\u003e.+) Shard(?: x(?\u003camount\u003e\\d+))?!(?: NEW!)?",
     "inventory.attributeshards.given.shards": "You have been given a (?\u003cshardName\u003e.+)!",
     "inventory.attributeshards.hunting-box": "(?:\\(\\d+/\\d+\\) )?Hunting Box",
+    "inventory.attributeshards.hunting-box.page": "(?:\\((?\u003cpage\u003e\\d+)/(?\u003cpages\u003e\\d+)\\) )?Hunting Box",
+    "inventory.attributeshards.hunting-box.search-query.colorless": "Query: .+",
     "inventory.attributeshards.loot.share.shard.colorless": "LOOT SHARE!? You received (?:an?|(?\u003camount\u003e\\d+)x?) (?\u003cshardName\u003e.+) Shards? (?:for assisting .*|from .*)!",
     "inventory.attributeshards.name.colorless": "(?\u003cname\u003e.+?) ?(?\u003ctier\u003e[IVXL]+)?$",
     "inventory.attributeshards.name.lore.colorless": "(?\u003cname\u003e.+?) ?(?\u003ctier\u003e[IVXL]+)? \\(\\w+\\)$",
