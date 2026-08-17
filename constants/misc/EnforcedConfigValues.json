@@ -208,20 +208,6 @@
       "minimumAffectedVersion": "6.17.0",
       "affectedVersion": "7.99.0",
       "extraMessage": "Official wiki is dead"
-    },
-    {
-      "enforcedValues": [
-        {
-          "path": "inventory.npcTrade.highlightAffordable",
-          "value": false
-        },
-        {
-          "path": "inventory.npcTrade.costBreakdown",
-          "value": false
-        }
-      ],
-      "affectedVersion": "7.46.0",
-      "extraMessage": "Should not have been default enabled"
     }
   ]
 }
