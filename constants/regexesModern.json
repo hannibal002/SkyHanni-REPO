@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "d3c236a",
+  "sourceLabel": "9696e5f",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -72,7 +72,7 @@
     "bazaar.orders.chat.claimed.colorless": "\\[Bazaar] Claimed (?\u003camount\u003e[\\d,]+)x (?\u003citem\u003e.*) worth .* coins bought for .* each!",
     "bazaar.orders.chat.setup.colorless": "\\[Bazaar] Buy Order Setup! (?\u003camount\u003e[\\d,]+)x (?\u003citem\u003e.*) for [\\d,.]+ coins\\.",
     "bazaar.orders.claimable.colorless": "You have (?\u003camount\u003e[\\d,]+) items? to claim!",
-    "bazaar.orders.filled.colorless": "Filled: (?\u003cfilled\u003e[\\d,]+)/[\\d,]+ .*",
+    "bazaar.orders.filled.colorless": "Filled: (?\u003cfilled\u003e[\\d,.k]+)/[\\d,.k]+ (?\u003cprogress\u003e\\S+)",
     "bazaar.orders.itemname": "§.§l(?\u003ctype\u003eBUY|SELL) (?\u003cname\u003e.*)",
     "bazaar.orders.owner.colorless": "By: (?:\\[[^]]+] )?(?\u003cname\u003e\\S+)",
     "bazaar.orders.price.colorless": "Price per unit: (?\u003cprice\u003e[\\d,.]+) coins",
