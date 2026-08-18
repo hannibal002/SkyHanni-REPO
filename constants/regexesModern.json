@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2048aad",
+  "sourceLabel": "cf35711",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -313,6 +313,8 @@
     "data.currency.medal.amount": "(?\u003ctype\u003eGOLD|SILVER|BRONZE) medals: (?\u003camount\u003e[\\d,]+)",
     "data.currency.pelts.amount": "Pelts: (?\u003camount\u003e[\\d,]+)",
     "data.currency.pests.amount": "Vacuum Bag: (?\u003camount\u003e[\\d,]+)  Pests",
+    "data.currency.safariticket.item": "(?\u003ctype\u003e[\\w-]+) Safari Tickets: (?\u003camount\u003e[\\d,]+)",
+    "data.currency.safariticket.sign": "- (?\u003ctype\u003eBasic|Economy|Premium|First-Class): (?\u003camount\u003e[\\d,]+)",
     "data.entity.warping": "§7(?:Warping|Warping you to your SkyBlock island|Warping using transfer token|Finding player|Sending a visit request)\\.\\.\\.",
     "data.equipment.chat.equip": "§aYou equipped a (?\u003citem\u003e.+)§r§a!",
     "data.equipment.equipment-and-stats-menu": "Stats \u0026 Equipment",
