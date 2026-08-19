@@ -4,7 +4,7 @@
       "message_starts_with": [
         "HypixelData check comparison with HypixelModAPI failed. Please report in discord."
       ],
-      "fixed_in": "9.9.9"
+      "fixed_in": "99.99.99"
     },
     {
       "message_starts_with": [
@@ -12,138 +12,61 @@
         "Caught a IllegalStateException in at.hannibal2.skyhanni.features.inventory.bazaar.BazaarCancelledBuyOrderClipboard.onChat(at.hannibal2.skyhanni.events.chat.SkyHanniChatEvent) at SkyHanniChatEvent: Cancel buy order clipboard could not detect the last bazaar product."
       ],
       "custom_message": "Cancelled Buy Order Clipboard doesn't work with Soopy's SBMENU setting. Please disable one of them. If you do not use this feature, please report it on the SkyHanni Discord!",
-      "fixed_in": "9.9.9"
+      "fixed_in": "99.99.99"
     },
     {
       "message_starts_with": [
         "Error fetching data from NEU Lowest Bin API!",
         "Asynchronous exception caught in bingo api fetch background"
       ],
-      "fixed_in": "9.9.9"
+      "fixed_in": "99.99.99"
     },
     {
       "message_starts_with": [
         "Caught a NoSuchElementException in at.hannibal2.skyhanni.features.mining.powdertracker"
       ],
-      "fixed_in": "9.9.9"
-    },
-    {
-      "message_exact": [
-        "Unable to handle packet"
-      ],
-      "fixed_in": "6.17.0"
-    },
-    {
-      "message_exact": [
-        "VertexFormatElement ID 6 was already taken, using 7 instead"
-      ],
-      "fixed_in": "7.6.0"
+      "fixed_in": "99.99.99"
     },
     {
       "message_starts_with": [
         "CustomScoreboard detected an unknown line"
       ],
-      "fixed_in": "8.0.0"
-    },
-    {
-      "message_starts_with": [
-        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.bingo.BingoApi"
-      ],
-      "fixed_in": "7.19.0"
-    },
-    {
-      "message_starts_with": [
-        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.event.lobby.waypoints.easter.EasterEggWaypoints.onSecondPassed()"
-      ],
-      "fixed_in": "7.12.0"
-    },
-    {
-      "message_starts_with": [
-        "DelayedRun task crashed while executing"
-      ],
-      "fixed_in": "7.12.0"
-    },
-    {
-      "message_starts_with": [
-        "Caught a IllegalStateException in at.hannibal2.skyhanni.features.inventory.chocolatefactory.data.CFDataLoader.onInventoryUpdated(at.hannibal2.skyhanni.events.InventoryUpdatedEvent) at InventoryUpdatedEvent: Rendersystem called from wrong thread"
-      ],
-      "fixed_in": "7.12.0"
-    },
-    {
-      "message_starts_with": [
-        "Could not find gemstone slot price for"
-      ],
-      "fixed_in": "7.12.0"
-    },
-    {
-      "message_starts_with": [
-        "Asynchronous exception caught in election api fetch"
-      ],
-      "fixed_in": "7.19.0"
-    },
-    {
-      "message_starts_with": [
-        "Could not read category for item"
-      ],
-      "fixed_in": "7.20.0"
-    },
-    {
-      "message_starts_with": [
-        "Unknown stat: 'OVERBLOOM'"
-      ],
-      "fixed_in": "7.19.0"
-    },
-    {
-      "message_starts_with": [
-        "Caught a IllegalStateException in at.hannibal2.skyhanni.api.ReforgeApi.onNeuRepoReload",
-        "[Repo - NotEnoughUpdates] Error while posting repo reload event"
-      ],
-      "fixed_in": "7.19.0"
-    },
-    {
-      "message_starts_with": [
-        "Caught a NullPointerException in at.hannibal2.skyhanni.features.hunting.HuntingProfitTracker.onItemChange",
-        "Caught a NullPointerException in at.hannibal2.skyhanni.features.garden.visitor.GardenVisitorTooltip.onVisitorOpen",
-        "Caught a NullPointerException in at.hannibal2.skyhanni.features.misc.ColorHexInLore.onTooltip",
-        "Caught a NullPointerException in at.hannibal2.skyhanni.features.garden.pests.stereo.StereoHarmonyDisplay.onOwnInventoryItemUpdate",
-        "Caught a NullPointerException in at.hannibal2.skyhanni.features.garden.composter.ComposterOverlay.onChestGuiRender",
-        "Caught a NullPointerException in at.hannibal2.skyhanni.features.foraging.ForagingTracker.onSackChange",
-        "Caught a NullPointerException in at.hannibal2.skyhanni.features.garden.visitor.VisitorListener.onTooltip",
-        "Caught a NullPointerException in at.hannibal2.skyhanni.features.inventory.ItemDisplayOverlayFeatures.onRenderItemTip",
-        "Caught a NullPointerException in at.hannibal2.skyhanni.features.inventory.bazaar.CraftMaterialCollector.onInventoryFullyOpened",
-        "Caught a NullPointerException in at.hannibal2.skyhanni.features.misc.items.EstimatedItemValueTooltip.onTooltip",
-        "Caught a NullPointerException in at.hannibal2.skyhanni.features.commands.ViewRecipeCommand.onMessageSendToServer"
-      ],
-      "fixed_in": "7.20.0",
-      "custom_message": "A feature you just tried to use is broken in 7.19.0. Please update to 7.20.0 or newer!"
+      "fixed_in": "99.99.99"
     },
     {
       "message_starts_with": [
         "Item category FISHING_WEAPON for item",
         "Item category HOE for item"
       ],
-      "fixed_in": "9.9.9"
+      "fixed_in": "99.99.99"
     },
     {
       "message_starts_with": [
         "Caught a ClassCastException in at.hannibal2.skyhanni.features.chat.CurrentChatDisplay"
       ],
-      "fixed_in": "9.9.9"
+      "fixed_in": "99.99.99"
     },
     {
       "message_contains": [
         "item not in a fishing category",
         "items not in a fishing category"
       ],
-      "fixed_in": "9.9.9"
+      "fixed_in": "99.99.99"
     },
     {
       "message_starts_with": [
-        "Error loading island type",
-        "Invalid island type change detected"
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.combat.FlareDisplay.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.event.diana.GriffinBurrowParticleFinder.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.event.hoppity.HoppityEggLocator.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.hunting.InvisibugHighlighter.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.misc.LesserOrbHider.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.misc.ParticleHider.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.rift.area.livingcave.LivingCaveDefenseBlocks.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.slayer.HideSlayerSpawnParticles.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.slayer.VampireSlayerFeatures.onParticle",
+        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.slayer.enderman.EndermanSlayerHideParticles"
       ],
-      "fixed_in": "7.24.0",
-      "custom_message": "SkyHanni ran into an error with island detection. Please update to 7.24.0 or newer to fix the issue."
+      "fixed_in": "99.99.99"
     },
     {
       "message_starts_with": [
@@ -192,21 +115,6 @@
         "Error in MiningCommissionsBlocksColor"
       ],
       "fixed_in": "7.43.0"
-    },
-    {
-      "message_starts_with": [
-        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.combat.FlareDisplay.onParticle",
-        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.event.diana.GriffinBurrowParticleFinder.onParticle",
-        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.event.hoppity.HoppityEggLocator.onParticle",
-        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.hunting.InvisibugHighlighter.onParticle",
-        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.misc.LesserOrbHider.onParticle",
-        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.misc.ParticleHider.onParticle",
-        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.rift.area.livingcave.LivingCaveDefenseBlocks.onParticle",
-        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.slayer.HideSlayerSpawnParticles.onParticle",
-        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.slayer.VampireSlayerFeatures.onParticle",
-        "Caught a ConcurrentModificationException in at.hannibal2.skyhanni.features.slayer.enderman.EndermanSlayerHideParticles"
-      ],
-      "fixed_in": "7.99.0"
     },
     {
       "message_starts_with": [
