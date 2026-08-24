@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a570e82",
+  "sourceLabel": "ac18ebe",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -178,7 +178,7 @@
     "combat.bestiary.data.family.found.colorless": "\\s*Families Found.*",
     "combat.bestiary.data.kills.line.colorless": "Kills: (?\u003ckills\u003e[0-9,.]+)",
     "combat.bestiary.data.mob.level.colorless": "^(?\u003cname\u003e.+?)(?: (?\u003clevel\u003e[IVX0-9]+))?$",
-    "combat.bestiary.data.mob.variant.colorless": "^\\[Lv\\d+] (?\u003cname\u003e.+)",
+    "combat.bestiary.data.mob.variant.colorless": "^\\[Lv(?\u003clevel\u003e\\d+)] (?\u003cname\u003e.+)",
     "combat.bestiary.data.overallprogress.colorless": "Overall Progress: [\\d.]+%(?: \\(MAX!\\))?",
     "combat.bestiary.data.progress.bar.line": " {20}.*",
     "combat.bestiary.data.progress.colorless": "(?\u003ccurrent\u003e[0-9kKmMbB,.]+)/(?\u003cneeded\u003e[0-9kKmMbB,.]+$)",
