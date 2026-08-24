@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "cf35711",
+  "sourceLabel": "0d28d78",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -802,7 +802,7 @@
     "fishing.totemofcorruption.owner-nocolor": "Owner: (?\u003cowner\u003e.+)",
     "fishing.totemofcorruption.timeremaining-nocolor": "Remaining: (?:(?\u003cmin\u003e\\d+)m )?(?\u003csec\u003e\\d+)s",
     "fishing.totemofcorruption.totemname-nocolor": "Totem of Corruption",
-    "fishing.tracker.chat.coins": "§(?\u003ccolorCode\u003e.*)⛃ §r(?\u003ccatch\u003e.*) CATCH! §r§fYou caught §r§6(?\u003ccoins\u003e[\\d,]+) Coins§r§f!",
+    "fishing.tracker.chat.coins.colorless": " (?\u003ccatch\u003e.*) CATCH! You caught (?\u003ccoins\u003e[\\d,]+) Coins!",
     "fishing.trophy.odger.bronze.new": "^Bronze.*",
     "fishing.trophy.odger.discovered.new": "Discovered",
     "fishing.trophy.trophyfish": "§6 §r§6§lTROPHY FISH! §r§fYou caught an? §r(?\u003cdisplayName\u003e§[0-9a-f](?:§k)?[\\w -]+) §r(?\u003cdisplayRarity\u003e§[0-9a-f]§l\\w+)§r§f!",
@@ -1676,7 +1676,7 @@
     "raredrop.enchantedbook.colorless": "RARE DROP! Enchanted Book(?: \\(\\+\\d+%?  Magic Find\\))?.*",
     "raredrop.pet.claimedmessage": "(?\u003cstart\u003e(?:§.)*You claimed a )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*You can manage your Pets.*)",
     "raredrop.pet.droppedmessage": "(?\u003cstart\u003e(?:§.)*PET DROP! )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e(?: .*)?)",
-    "raredrop.pet.fishedmessage": "(?\u003cstart\u003e(?:§.)*⛃ (?:§.)*(?:GOOD|GREAT|OUTSTANDING) CATCH! (?:§.)*You caught a (?:§.)*\\[Lvl 1] )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*)",
+    "raredrop.pet.fishedmessage": "(?\u003cstart\u003e(?:§.)* (?:§.)*(?:GOOD|GREAT|OUTSTANDING) CATCH! (?:§.)*You caught a (?:§.)*\\[Lvl 1] )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*)",
     "raredrop.pet.obtainedmessage": "(?\u003cstart\u003e.*has obtained (?:§.)*\\[Lvl 1] )(?:§.)*§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e.*)",
     "raredrop.pet.oringomessage": "(?\u003cstart\u003e§e\\[NPC] Oringo§f: §b✆ §f§r§8• )§(?\u003crarityColor\u003e.)(?\u003cpetName\u003e[^§(.]+)(?\u003cend\u003e Pet)",
     "raredrop.slayerbook": "SMITE;[67]|ENDER_SLAYER;[67]|MANA_STEAL;1|SMARTY_PANTS;1|BANE_OF_ARTHROPODS;6|CRITICAL;6|FIRE_ASPECT;3|ULTIMATE_REITERATE;1",
