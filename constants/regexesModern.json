@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "01730ab",
+  "sourceLabel": "4579b39",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -248,6 +248,7 @@
     "commands.brigadier.arguments.lorenzvec.wiki": "(?\u003cx\u003e-?\\d+),\\u202f(?\u003cy\u003e-?\\d+),\\u202f(?\u003cz\u003e-?\\d+)",
     "commands.cooldown": "§cYou may only use this command after (?\u003ccooldown\u003e\\d+)s on the server!",
     "commands.viewrecipe": "/viewrecipe (?\u003citem\u003e.*)",
+    "commands.wiki.ignored-item": "Close|Go Back",
     "composter.inventory": "Composter",
     "composter.upgrade.name": "(?\u003cname\u003eComposter Speed|Multi Drop|Fuel Cap|Organic Matter Cap|Cost Reduction)(?: (?\u003clevel\u003e.*))?",
     "composter.upgrades.inventory": "Composter Upgrades",
