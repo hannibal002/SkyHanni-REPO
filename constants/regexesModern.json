@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "714fbca",
+  "sourceLabel": "2038bfb",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1893,7 +1893,7 @@
     "stats.menu.no-color.sweep": "\\s* Sweep (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.no-color.swing.range": "\\s* Swing Range (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.no-color.taming.wisdom": "\\s*☯ Taming Wisdom (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
-    "stats.menu.no-color.timer": "\\s* Timer (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
+    "stats.menu.no-color.timber": "\\s* Timber (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.no-color.tracking": "\\s* Tracking (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.no-color.treasure.chance": "\\s* Treasure Chance (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.no-color.trophy.fish.chance": "\\s* Trophy Chance (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
@@ -1976,7 +1976,7 @@
     "stats.tablist.no-color.sweep": " *Sweep: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.no-color.swing.range": " *Swing Range: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.no-color.taming.wisdom": " *Taming Wisdom: ☯(?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
-    "stats.tablist.no-color.timer": " *Timer: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
+    "stats.tablist.no-color.timber": " *Timber: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.no-color.tracking": " *Tracking: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.no-color.treasure.chance": " *Treasure Chance: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.no-color.trophy.fish.chance": " *Trophy Chance: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
