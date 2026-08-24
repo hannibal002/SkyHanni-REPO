@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "31c9aad",
+  "sourceLabel": "714fbca",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1554,6 +1554,7 @@
     "misc.nongodpot.effects.gained.smoldering.colorless": "You ate a Re-heated Gummy Polar Bear!",
     "misc.nongodpot.effects.gained.wisp.colorless": "BUFF! You splashed yourself with Wisp\u0027s Ice-Flavored Water I!",
     "misc.nongodpot.effects.inventoryitemname.blaze": ".*Gabagoey.*",
+    "misc.nongodpot.effects.inventoryitemname.brine-tonic": ".*Brine Tonic.*",
     "misc.nongodpot.effects.inventoryitemname.candycomb": ".*Candycomb.*",
     "misc.nongodpot.effects.inventoryitemname.chilled-pristine-potato": ".*Chilled Pristine Potato I.*",
     "misc.nongodpot.effects.inventoryitemname.cold-resistance-4": ".*Cold Resistance IV.*",
@@ -1586,6 +1587,7 @@
     "misc.nongodpot.effects.inventoryitemname.wisp": ".*Wisp\u0027s Ice-Flavored Water I.*",
     "misc.nongodpot.effects.removed.goblin.colorless": "The Goblin King\u0027s foul stench has dissipated!",
     "misc.nongodpot.effects.tabname-blaze": "Gabagoey",
+    "misc.nongodpot.effects.tabname-brine-tonic": "Brine Tonic",
     "misc.nongodpot.effects.tabname-candycomb": "Candycomb",
     "misc.nongodpot.effects.tabname-chilled-pristine-potato": "Chilled Pristine Potato I",
     "misc.nongodpot.effects.tabname-cold-resistance-4": "Cold Resistance IV",
