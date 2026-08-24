@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "2638bb3",
+  "sourceLabel": "01730ab",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -317,6 +317,8 @@
     "data.collection.api.playercounter.new": "(?:\\[[^]]+(?:\\+)?] |)(?\u003cname\u003e[^§]{2,16}): (?\u003camount\u003e.+)",
     "data.collection.api.singlecounter.new": "Total [c|C]ollected: (?\u003camount\u003e.*)",
     "data.collection.api.tierzero": "§7Progress to .* I: .*",
+    "data.currency.carnivaltoken.amount": "Your Tokens: (?\u003camount\u003e[\\d,]+)",
+    "data.currency.carnivaltoken.item": "Carnival Tokens",
     "data.currency.essence.amount": "Your (?\u003ctype\u003e[\\w ]+) Essence: (?\u003camount\u003e[\\d,]+)",
     "data.currency.essence.widget": "\\s*(?\u003ctype\u003e[\\w ]+): (?\u003camount\u003e[\\d,]+)",
     "data.currency.gems.amount": "You have: (?\u003camount\u003e[\\d,]+) Gems",
@@ -2111,8 +2113,8 @@
     "utils.item.rift.transferable": "§5§kX§5 Rift-Transferable §kX",
     "utils.item.sack": ".*Sack",
     "utils.lore.cost.amount-first": "(?\u003camount\u003e[\\d,]+) (?\u003cname\u003e[\\w\u0027 ]+)",
-    "utils.lore.cost.header": "(?:§.)*Cost(?: to unlock)?(?:: (?\u003ccost\u003e.+))?",
-    "utils.lore.trade.click": "(?:Left )?Click to (?:trade|unlock|level up)!",
+    "utils.lore.cost.header": "(?:§.)*Costs?(?: to unlock)?(?::(?: (?\u003ccost\u003e.+))?)?",
+    "utils.lore.trade.click": "(?:Left )?Click to (?:trade|unlock|level up)!|You can\u0027t afford this upgrade!",
     "utils.skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
     "utils.string.chatusername": "^(?:§\\w\\[§\\w\\d+§\\w] )?(?:(?:§\\w)+\\S )?(?\u003crankedName\u003e(?:§\\w\\[\\w.+] )?(?:§\\w)?(?\u003cusername\u003e\\w+))(?: (?:§\\w)?\\[.+?])?",
     "utils.string.playerchat": "(?\u003cimportant\u003e.*?)(?:§[f7r])*: .*",
