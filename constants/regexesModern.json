@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4579b39",
+  "sourceLabel": "c8ee43d",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -994,7 +994,7 @@
     "garden.pests.spawn.one.colorless.0": "^\\w+! A [] Pest has appeared in Plot - (?\u003cplot\u003e.*)!",
     "garden.pests.spawn.one.colorless.1": "^\\w+! A [] Pest has appeared in (?\u003cplot\u003eThe Barn)!",
     "garden.pests.spawn.teleport.colorless": "\\s*CLICK HERE to teleport to the plot!",
-    "garden.pests.tracker.raredrop": "§6§l(?:RARE|PET) DROP! (?:§r)?(?\u003citem\u003e.+?)(?: §8x(?\u003camount\u003e\\d+))? (?:§.)*\\((?:§.)?(?:\\+[\\d.,]+[]|Cocoaleech)\\)",
+    "garden.pests.tracker.raredrop": "(?:§r)?§6§l(?:RARE|PET) DROP! (?:§r)?(?\u003citem\u003e.+?)(?: §8x(?\u003camount\u003e[\\d,]+))? (?:§.)*\\((?:§.)?(?:\\+[\\d.,]+|Cocoaleech)\\)",
     "garden.plot.barnname": "§.(?\u003cname\u003eThe Barn)",
     "garden.plot.chat.clean": "§aPlot §r§7- §r§b(?\u003cplot\u003e.*) §r§ais now clean!",
     "garden.plot.chat.unlock": "§aUnlocked Garden §r§aPlot §r§7- §r§b(?\u003cplot\u003e.*)§r§a!",
