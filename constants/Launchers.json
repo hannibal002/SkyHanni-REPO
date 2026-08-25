@@ -37,6 +37,13 @@
         "net.digitalingot.rustextension."
       ],
       "flagged": true
+    },
+    {
+      "name": "Lunar Client",
+      "firstStacks": [
+        "com.moonsworth.lunar."
+      ],
+      "flagged": true
     }
   ],
   "genericStacks": [
