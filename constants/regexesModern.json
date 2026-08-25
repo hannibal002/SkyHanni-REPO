@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "c8ee43d",
+  "sourceLabel": "b87cc83",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -810,8 +810,7 @@
     "fishing.goldenfish.spawn": "§9You spot a §r§6Golden Fish §r§9surface from beneath the lava!",
     "fishing.goldenfish.weak": "§9The §r§6Golden Fish §r§9is weak!",
     "fishing.hook.timer": "§e§l(?\u003ctime\u003e\\d+(?:\\.\\d+)?)|(?:§.)*(?\u003calert\u003e!!!)",
-    "fishing.seacreature.doublehook": "§eIt\u0027s a §r§aDouble Hook§r§e!(?: Woot woot!)?",
-    "fishing.seacreature.thundercharged": "§e\u003e Your bottle of thunder has fully charged!",
+    "fishing.seacreature.doublehook.colorless": "It\u0027s a Double Hook!(?: Woot woot!)?",
     "fishing.totemofcorruption.owner-nocolor": "Owner: (?\u003cowner\u003e.+)",
     "fishing.totemofcorruption.timeremaining-nocolor": "Remaining: (?:(?\u003cmin\u003e\\d+)m )?(?\u003csec\u003e\\d+)s",
     "fishing.totemofcorruption.totemname-nocolor": "Totem of Corruption",
@@ -1627,7 +1626,6 @@
     "misc.pet.neu.pet.lore": "(?:§7)?§eRight-click to add this pet to(?: your(?: pet menu!)?)?",
     "misc.pet.neu.pet.skin": "PET_SKIN_(?\u003cpet\u003e[A-Z])_?(?\u003cskin\u003e[A-Z_]+)?",
     "misc.pet.storage.autopet.hover.helditem.colorless": ".*Held Item: (?\u003citem\u003e.*)",
-    "misc.pet.storage.autopet.message.colorless": "Autopet equipped your \\[Lvl (?\u003clevel\u003e\\d+)] (?:\\[\\d+(?\u003caltskin\u003e✦)\\] )?(?\u003cpet\u003e[\\w -]+)(?\u003cskin\u003e ✦)?! VIEW RULE",
     "misc.pet.storage.autopet.message.formatted": "§cAutopet §eequipped your §7\\[Lvl (?\u003clevel\u003e\\d+)] §(?\u003crarity\u003e.)(?:\\[(?:§.)*\\d+(?:§.)*(?\u003caltskin\u003e✦)(?:§.)*] (?:§.)*)?(?\u003cpet\u003e[^§!]+?)(?\u003cskin\u003e§. ✦)?§e! §a§lVIEW RULE(?: \\(\\d+\\))?",
     "misc.pet.storage.chat.helditem": "Your pet is now holding (?\u003citem\u003e.+?)\\.",
     "misc.pet.storage.chat.removedhelditem": "You removed (?\u003citem\u003e.+?) from your pet!",
