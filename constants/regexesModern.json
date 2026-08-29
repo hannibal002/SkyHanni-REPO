@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "471bd1f",
+  "sourceLabel": "042d873",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1140,6 +1140,8 @@
     "inventory.glacite.reset": "\\s+- (?\u003cpowder\u003e[\\d,]+) Glacite Powder",
     "inventory.hidenotclickable.clicktosell": "§eClick to sell!",
     "inventory.hidenotclickable.inventory.hidenotclickable.seeds": "SEEDS|CARROT_ITEM|POTATO_ITEM|PUMPKIN_SEEDS|SUGAR_CANE|MELON_SEEDS|CACTUS|INK_SACK-3|DOUBLE_PLANT|MOONFLOWER|WILD_ROSE",
+    "inventory.hubselector.lobby.players": "Players: (?\u003ccurrent\u003e\\d+)/(?\u003cmax\u003e\\d+)",
+    "inventory.hubselector.title": "(?i)SkyBlock Hub Selector",
     "inventory.item.overlay.bestiarystack": "§7Progress to Tier (?\u003ctier\u003e[\\dIVXC]+): §b[\\d.]+%",
     "inventory.item.overlay.bingogoalrank": "(?:§.)*You were the (?:§.)*(?\u003crank\u003e\\w+)(?\u003cordinal\u003est|nd|rd|th) (?:§.)*to",
     "inventory.item.overlay.dungeonpotion": "Dungeon (?\u003clevel\u003e.*) Potion(?: x1)?",
