@@ -596,8 +596,7 @@
       "Magma Pillar": {
         "chat_message": "A Magma Pillar rises from the lava.",
         "fishing_experience": 0,
-        "rarity": "EPIC",
-        "rare": true
+        "rarity": "EPIC"
       },
       "Fiery Scuttler": {
         "chat_message": "A Fiery Scuttler inconspicuously waddles up to you, friends in tow.",
