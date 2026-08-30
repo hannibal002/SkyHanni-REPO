@@ -7805,6 +7805,10 @@
   },
   "863": {
     "Position": "-667.0:79.0:-41.0",
+    "Name": "Lava Fishing Underwater Lake",
+    "Tags": [
+      "poi"
+    ],
     "Neighbours": {
       "861": 11.0,
       "864": 7.0
@@ -7960,6 +7964,10 @@
   },
   "884": {
     "Position": "-677.0:79.0:-50.0",
+    "Name": "Stridersurfer",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "883": 4.24,
       "885": 4.47
@@ -8757,6 +8765,10 @@
   },
   "959": {
     "Position": "-701.0:55.0:-25.0",
+    "Name": "Seacurse",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "958": 7.0
     }
@@ -8970,6 +8982,10 @@
   },
   "980": {
     "Position": "-696.0:62.0:-14.0",
+    "Name": "Seacurse",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "958": 9.49,
       "960": 7.07,
@@ -8980,6 +8996,10 @@
   },
   "981": {
     "Position": "-691.0:62.0:-19.0",
+    "Name": "Tidetot",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "961": 7.14,
       "962": 9.22,
@@ -9148,6 +9168,10 @@
   },
   "999": {
     "Position": "-709.0:68.0:-18.0",
+    "Name": "Seacurse",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "987": 7.07,
       "998": 7.07,
@@ -9330,6 +9354,10 @@
   },
   "1016": {
     "Position": "-705.0:73.0:-18.0",
+    "Name": "Hydrospear",
+    "Tags": [
+      "grind_mobs"
+    ],
     "Neighbours": {
       "999": 6.4,
       "1015": 6.63,
