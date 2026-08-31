@@ -1,89 +1,89 @@
 {
   "bingo_tips": {
-    "Lucky Looter (Community Goal)": {
-      "difficulty": "Medium",
-      "note": [
-        "Collect rare drops"
-      ],
-      "guide": [
-        "Carrots and potatoes from killing",
-        "Zombies in graveyard do count."
-      ]
-    },
-    "Operation: Ore (Community Goal)": {
+    "Skilled (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Mine Ore Blocks"
+        "Gain Taming experience"
       ],
       "guide": [
-        "Mine normal or Pure Ores in the Dwarven Mines.",
-        "You'll want to get as much Mining Speed",
-        "and Spread for this as you can.",
-        "Pickobulus is another great helper."
+        "You will gain passive progress in this",
+        "by having a pet equipped at all times.",
+        "Even a Lvl 100 pet counts for this."
+      ]
+    },
+    "A Hard Day's Work (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Collect Jacobs Tickets from contests"
+      ],
+      "guide": [
+        "To get easy progress in this do",
+        "contests like Wheat, Potato, Carrot",
+        "or Mushroom as those are easy",
+        "Bronze or Silver Medals to get."
+      ]
+    },
+    "Scavenger (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Gain coins from the Scavenger Enchant"
+      ],
+      "guide": [
+        "Apply/Use the highest tier of Scavenger",
+        "that you can get your hands on and put it",
+        "on your main weapon. Gifts from the Jerry Island",
+        "can be a way to obtain Scavenger IV books.",
+        "You can also use the weapon drops from dungeon mobs",
+        "as those have guaranteed Scavenger 5." 
+      ]
+    },
+    "Bait (Community Goal)": {
+      "difficulty": "Easy",
+      "note": [
+        "Deposit Chum in Chum Buckets"
+      ],
+      "guide": [
+        "For this you need to place down a Chum Bucket",
+        "while fishing. It's recommended to use the best rod",
+        "you have access to with a Chum Sinker",
+        "as this will gain quicker progress.",
+        "Purchase it from Moby on the Desert Island.",
+        "§cDon't forget to actually deposit the Chum you fish ;)"
       ]
     },
     "Agricultural Revolution (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Harvest crops"
+        "Break Crop Blocks"
       ],
       "guide": [
         "You can get easy contribution for",
         "this by breaking some Wheat in the Hub.",
         "If you want faster contribution,",
-        "make a Sugar Cane farm in your Garden",
-        "which will also be needed for another goal."
+        "make a Sugar Cane farm in your Garden.""
       ]
     },
-    "KABOOM! (Community Goal)": {
+    "Fairy Finder": {
       "difficulty": "Easy",
       "note": [
-        "Blow up crypts in dungeons"
+        "Find 10 Fairy Souls"
       ],
       "guide": [
-        "For this you will need Combat 15.",
-        "To blow up crypts you can use",
-        "class abilities (Tank, Archer, Mage)",
-        "and/or Superboom TNTs that drop",
-        "from slaying Minibosses in dungeons",
-        "and can be bought from Walther in",
-        "The Deep Caverns or Ophelia in",
-        "The Dungeon Hub."
+        "Collect those you run along while doing other goals.",
+        "If you have trouble check TimeDeo's fairy soul tutorial",
+        "on YouTube or use SkyHanni's Fairy Soul Finder."
       ]
     },
-    "Goblin Slayer (Community Goal)": {
+    "Lapis Lazuli Collector": {
       "difficulty": "Medium",
       "note": [
-        "Kill Goblins"
+        "165k Lapis Lazuli Collection"
       ],
       "guide": [
-        "For this you need access to the Dwarven Mines",
-        "and a combat set like Ender Armor and a Void Sword.",
-        "You'll get progress in this while going for",
-        "a Golden Goblin."
-      ]
-    },
-    "Strongman": {
-      "difficulty": "Medium",
-      "note": [
-        "120 strength"
-      ],
-      "guide": [
-        "Get yourself a splash, equip a Bingo Pet",
-        "and get the cake buff by eating the cakes",
-        "on skyerzz's or prtl's island.",
-        "If this doesn't finish it, get a Void Sword (200k) in the End",
-        "and hold it while some Ender Armor and/or Equipment."
-      ]
-    },
-    "Gold Ingot Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "72.5k Gold Collection"
-      ],
-      "guide": [
-        "Mine Pure Gold in the Dwarven Mines",
+        "Mine Pure Lapis Lazuli in the Dwarven Mines",
         "with a Fortune 3+ pickaxe.",
+        "You'll want to get as much Mining Speed, Spread,",
+        "and Fortune as you can.",
         "You might want to use as many minions",
         "as you have access to for this.",
         "Remember to put a compactor in the minions",
@@ -92,16 +92,201 @@
         "give them storages and collect them in time."
       ]
     },
-    "Setting a Trap": {
+    "Lapis Warrior": {
       "difficulty": "Medium",
       "note": [
-        "Kill a Trapper Animal"
+        "Wear full Lapis Armor"
       ],
       "guide": [
-        "You should use SkyHanni's Trapper features",
-        "to make this easier. Use /warp trapper",
-        "to get back to Trevor whenever you want.",
-        "You will need a bow for this."
+        "Optimally you want to use a weapon with",
+        "Luck 5+ and Looting 3+ and aim for",
+        "good magic find. Grab the Century Cakes for",
+        "+1 Magic Find for 2 days."
+      ]
+    },
+    "Divan's Chance": {
+      "difficulty": "Hard",
+      "note": [
+        "Do a Nucleus Run"
+      ],
+      "guide": [
+        "For this you will need 1 of each of the following Crystals:",
+        "Amethyst: Jungle Key and Temple Run",
+        "     (the key can be obtained from Odawa as Garden Visitor,",
+        "      or be bought from her in the Crystal Hollows)",
+        "Jade: Divan Mines and find all the tools",
+        "Amber: Find King, give him 1 goblin egg and find the Queen",
+        "Sapphire Crystal: 6 Robot Parts , give them to Professor Robot",
+        "     (Electron Transmitter, FTX 3070, Robotron Reflector,",
+        "      Superlite Motor, Control Switch, Synthetic Heart)",
+        "Topaz: Kill the Bal and get the Crystal after it dies,",
+        "       you need to hit it at least once",
+        "§lFor all of this you will need HotM 4."
+      ]
+    },
+    "Jade Crystal": {
+      "difficulty": "Medium",
+      "note": [
+        "Collect a Jade Crystal"
+      ],
+      "guide": [
+        "For this you'll need HotM 4. This goal will",
+        "complete alongside Divan's Chance.",
+        "You'll need to find a Mines of Divan",
+        "and locate all 4 different tools in there",
+        "with a Metal Detector and hand them to the",
+        "corresponding NPCs."
+      ]
+    },
+    "Pet Hoarder": {
+      "difficulty": "Easy",
+      "note": [
+        "3 unique pets"
+      ],
+      "guide": [
+        "For this you'll only need to get",
+        "Bingo, Grandma Wolf and a Bee pet."
+      ]
+    },
+    "Obsidian Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "25k Obsidian Collection"
+      ],
+      "guide": [
+        "You can use all your minion slots for this,",
+        "(buy your daily Obsidian in the End to craft)",
+        "mine Ender Nodes and kill Obsidian Defenders.",
+        "If you're using minions, make sure to give them",
+        "the best fuel and storage you have access to",
+        "and collect in time."
+      ]
+    },
+    "Hard Worker": {
+      "difficulty": "Medium",
+      "note": [
+        "Craft a t11 Minion"
+      ],
+      "guide": [
+        "The easiest solution here would be",
+        "to craft a Wheat Minion t11 (163.632 Wheat).",
+        "Utilize the Garden and its pests",
+        "to obtain the needed resources."
+      ]
+    },
+    "Petsitter": {
+      "difficulty": "Easy",
+      "note": [
+        "Upgrade a pet with Kat"
+      ],
+      "guide": [
+        "Use a Jerry Pet and",
+        "upgrade it with Kat.",
+        "This only takes 10s to upgrade."
+      ]
+    },
+    "Lynx": {
+      "difficulty": "Medium",
+      "note": [
+        "Obtain a Lynx Talisman"
+      ],
+      "guide": [
+        "Talk to Guildford in the Dungeon Hub",
+        "and complete 4/4 objectives of any 2 races.",
+        "Don't forget to talk to Guildford",
+        "after each run you do."
+      ]
+    },
+    "Collecting Data": {
+      "difficulty": "Easy",
+      "note": [
+        "Bestiary Milestone 3"
+      ],
+      "guide": [
+        "You will most likely get this passively.",
+        "Use /be ingame to view your progress once you",
+        "talked to Bramass Beastslayer in The Spiders Den."
+      ]
+    },
+    "Love Is All Around": {
+      "difficulty": "Easy",
+      "note": [
+        "Obtain a Mediocre Ring of Love"
+      ],
+      "guide": [
+        "Follow the Romero Questline until you ",
+        "get this. You will only need",
+        "1 Yellow Rock, 15 poppies and 64 Emerald."
+      ]
+    },
+    "Zoop!": {
+      "difficulty": "Hard",
+      "note": [
+        "Craft an AotE"
+      ],
+      "guide": [
+        "This unlocks at 25k Ender Pearl Collection",
+        "and requires 32 Enchanted Eyes of Ender",
+        "and an Enchanted Diamond to craft.",
+        "Don't forget to buy the required Blaze Powder."
+      ]
+    },
+    "Commission Master": {
+      "difficulty": "Easy",
+      "note": [
+        "Complete 8 Commissions"
+      ],
+      "guide": [
+        "Do your daily commissions in the Dwarven Mines",
+        "(4 per day). You will need Mining 12 for this.",
+        "Can also be completed in the Crystal Hollows,",
+        "though it might be harder to do so."
+      ]
+    },
+    "Strange Eggs": {
+      "difficulty": "Medium",
+      "note": [
+        "Spawn a Golden Goblin from a Goblin Egg"
+      ],
+      "guide": [
+        "Kill goblins or open loot chests in the Crystal Hollows,",
+        "then just throw them until you get a Golden Goblin.",
+        "Higher level eggs have higher chances of spawning,",
+        "but are also rarer to get."
+      ]
+    },
+    "Sea Summoner": {
+      "difficulty": "Easy",
+      "note": [
+        "30% sea creature chance"
+      ],
+      "guide": [
+        "Claim your cake buff (visit skyerzz, nightlibra or prtl),",
+        "hold an angler 4+ rod and visit someone with a",
+        "Sea Creature Chance beacon (visit ReyMaratov)."
+      ]
+    },
+    "Ender Menace": {
+      "difficulty": "Medium",
+      "note": [
+        "Kill 10 Endermen in 8s"
+      ],
+      "guide": [
+        "Ideally you want to get 6/8 or more",
+        "pieces of the Ender set and a Void Sword",
+        "to onetap the Endermen in the End.",
+        "§cIsland Endermen do not count for this."
+      ]
+    },
+    "Minion Machine": {
+      "difficulty": "Easy",
+      "note": [
+        "15 unique Minions"
+      ],
+      "guide": [
+        "Craft some easy minions while also getting",
+        "those that will help with this Bingo.",
+        "Use NPC shops to buy materials for easy crafts."
       ]
     },
     "Enchanter": {
@@ -112,204 +297,6 @@
       "guide": [
         "For this you'll want to unlock the Experimentation Table",
         "at Enchanting 10 and play the Daily Games."
-      ]
-    },
-    "Experienced": {
-      "difficulty": "Medium",
-      "note": [
-        "Obtain a Grand XP Bottle"
-      ],
-      "guide": [
-        "Ways to obtain:",
-        "Craft (Lapis Lazuli Collection 5),",
-        "a drop from fishing,",
-        "from the Experimentation Table,",
-        "drop from Ender Nodes in the End (11-13%)."
-      ]
-    },
-    "Potato Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "200k Potato collection"
-      ],
-      "guide": [
-        "Optimal tool:",
-        "Advanced Gardening Hoe (25 copper)",
-        "Make a full plot of potatoes (7896 needed)",
-        "in The Garden (SkyBlock Level 5)",
-        "Get the potatoes to plant from The Barn."
-      ]
-    },
-    "Strange Eggs": {
-      "difficulty": "Medium",
-      "note": [
-        "Spawn a Golden Goblin"
-      ],
-      "guide": [
-        "Kill goblins or open loot chests in the Crystal Hollows,",
-        "then just throw them until you get a Golden Goblin.",
-        "Higher level eggs have higher chances of spawning,",
-        "but are also rarer to get."
-      ]
-    },
-    "Weird Flex": {
-      "difficulty": "Medium",
-      "note": [
-        "Gain 5 Strength from a Training Weight"
-      ],
-      "guide": [
-        "For this you'll want to grab a Training Weight",
-        "from a secret in dungeons and keep it in your",
-        "inventory till it shows a Strength bonus of +5.",
-        "Drop it once it reached that point.",
-        "This will take 100 Minutes of playtime."
-      ]
-    },
-    "Fashionable": {
-      "difficulty": "Medium",
-      "note": [
-        "15 Armor Sets"
-      ],
-      "guide": [
-        "Craft Leather, Iron, Gold and Diamond Armor",
-        "Buy Angler Armor (8 pieces) from Fishing Merchant",
-        "Craft Leaflet, Farm Suit, Mushroom and Cactus Armor",
-        "Buy Squire, Rosetta's, Celeste and Starlight Armor from Rosetta"
-      ]
-    },
-    "Diversity": {
-      "difficulty": "Medium",
-      "note": [
-        "40 unique Collections"
-      ],
-      "guide": [
-        "You can unlock 17/17 Farming Collections,",
-        "6/11 Combat Collections, 6/6 Foraging Collections,",
-        "14/22 Mining Collections for a total of 43 collections."
-      ]
-    },
-    "Mushroom Collector": {
-      "difficulty": "Hard",
-      "note": [
-        "40k Mushroom Collection"
-      ],
-      "guide": [
-        "You can farm this with a Silk Touch Axe",
-        "in the Mushroom Desert,",
-        "use Minions for this or farm them in your Garden."
-      ]
-    },
-    "Bedazzled": {
-      "difficulty": "Easy",
-      "note": [
-        "7 unique Accessories"
-      ],
-      "guide": [
-        "Buy all 6 Talismans from the Adventurer in The Hub (26k)",
-        "and craft a Farming Talisman."
-      ]
-    },
-    "Potatorific": {
-      "difficulty": "Medium",
-      "note": [
-        "Craft a Hot Potato Book"
-      ],
-      "guide": [
-        "For this you should utilize the Garden.",
-        "Potato will unlock at Garden Level 3.",
-        "Use the Gardening Hoe and its upgrade for this.",
-        "The recipe will unlock at Potato Collection VIII",
-        "(craft with 3 paper and 1 Enchanted Baked Potato)"
-      ]
-    },
-    "Skill Average": {
-      "difficulty": "Medium",
-      "note": [
-        "Skill Average of 14"
-      ],
-      "guide": [
-        "To help with this, try to make bigger crafts",
-        "by hand for Carpentry levels.",
-        "Also do your daily experiments and make sure",
-        "to have a pet active at all times",
-        "(any pet works, even level 100)."
-      ]
-    },
-    "Powder Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "25k Mithril Powder"
-      ],
-      "guide": [
-        "Do commissions and events in The Dwarven Mines,",
-        "claim your daily powder from the Puzzler and",
-        "from giving Fetchur the items he asks for.",
-        "Fetchurs items are all listed in the Wiki.",
-        "Try to do those while a '2x Powder' event is active.",
-        "You might want to use the Royal Reforge on your",
-        "equipment to gain more powder from events.",
-        "You can also fish up and kill Mithril Grubbers",
-        "in the Abandoned Quarry (Fishing 6)."
-      ]
-    },
-    "Carry-On": {
-      "difficulty": "Easy",
-      "note": [
-        "Craft a Small Backpack"
-      ],
-      "guide": [
-        "You'll unlock this recipe passively",
-        "(250 leather collection)",
-        "if you chose to do Exterminator in Barn.",
-        "Craft it with 80 Leather.",
-        "You can also use Cow Minions for this."
-      ]
-    },
-    "Fairy Finder": {
-      "difficulty": "Easy",
-      "note": [
-        "Find 25 Fairy Souls"
-      ],
-      "guide": [
-        "Collect those you run along while doing other goals.",
-        "If you have trouble check TimeDeo's fairy soul tutorial",
-        "on YouTube or use SkyHanni's Fairy Soul Finder."
-      ]
-    },
-    "Battle-Ready": {
-      "difficulty": "Easy",
-      "note": [
-        "Wear 4 pieces of Equipment"
-      ],
-      "guide":  [
-        "Wear a full set of Angler equipment.",
-        "You can buy this for 400 Coins from",
-        "the Fishing Merchant in the Hub."
-      ]
-    },
-    "Slayer": {
-      "difficulty": "Easy",
-      "note": [
-        "Reach Slayer Level 2"
-      ],
-      "guide": [
-        "For this you should do 1 t1 and t2",
-        "and claim the rewards by talking to Maddox."
-      ]
-    },
-    "Taking Flight": {
-      "difficulty": "Medium",
-      "note": [
-        "Consume a Mystical Mushroom Soup"
-      ],
-      "guide": [
-        "This unlocks at 10k Mushroom Collection.",
-        "You can get that by farming the Mushrooms",
-        "in the Mushroom Desert.",
-        "For the Enchanted Glowstone you'll need",
-        "to either farm Witches on your island",
-        "to unlock the minion or get Combat 22",
-        "and mine it yourself."
       ]
     }
   }
