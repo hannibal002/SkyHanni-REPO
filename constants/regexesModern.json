@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "44a85a7",
+  "sourceLabel": "61ae8df",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -624,6 +624,9 @@
     "event.year-of-the-pig.chat.orb.looted": "SHINY! You extracted Shiny Token and (?\u003creward\u003e.+) from the piglet\u0027s orb!",
     "event.year-of-the-pig.orb.reward.coins": "\\+(?\u003camount\u003e[\\d,]+) Coins",
     "event.year-of-the-pig.orb.reward.skillxp": "\\+(?\u003camount\u003e[\\d,]+) (?\u003cskill\u003e.*) XP",
+    "event.year-of-the-seal.beach-ball-tracker.result.giant": ".*The Giant Bouncy Beach Ball was kept in the air for \\d+ bounces and \\d+ unique players have participated, rewarding you with (?\u003ctreats\u003e\\d+) extra Fishy Treats.*",
+    "event.year-of-the-seal.beach-ball-tracker.result.normal": ".*You kept the Bouncy Beach Ball in the air for \\d+ bounces and earned (?\u003ctreats\u003e\\d+) Fishy Treat.*",
+    "event.year-of-the-seal.beach-ball-tracker.start": ".*BOUNCE BONANZA(?: EX)?! Keep the (?:Giant )?Bouncy Beach Ball in the air .*",
     "event.year-of-the-seal.fishy-treat.inventory": "Lukas the Aquarist",
     "event.year-of-the-witch.stew-inventory": "Witches Stew",
     "event.year-of-the-witch.stew-item": "(?\u003citem\u003e.*) x(?\u003camount\u003e\\d+)",
