@@ -11,14 +11,14 @@
   "otherUpgradeSlots": [
     27,
     35,
+    37,
     38,
     39,
-    41,
-    42
+    41
   ],
   "noPickblockSlots": [
     13,
-    39
+    38
   ],
   "destructiveSlots": [
     47,
@@ -31,15 +31,15 @@
   "barnIndex": 35,
   "infoIndex": 13,
   "productionInfoIndex": 45,
-  "handCookieIndex": 38,
+  "handCookieIndex": 37,
   "prestigeIndex": 27,
   "milestoneIndex": 53,
   "leaderboardIndex": 52,
-  "timeTowerIndex": 39,
-  "shrineIndex": 41,
-  "coachRabbitIndex": 42,
+  "timeTowerIndex": 38,
+  "shrineIndex": 39,
+  "coachRabbitIndex": 41,
   "rabbitHitmanIndex": 51,
-  "maxRabbits": 508,
+  "maxRabbits": 577,
   "maxPrestige": 6,
   "cf_shortcut_index": 16,
   "maxMilestoneChocolate": 700000000000,
