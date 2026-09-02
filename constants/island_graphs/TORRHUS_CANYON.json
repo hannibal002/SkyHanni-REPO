@@ -6666,8 +6666,7 @@
     "Position": "-632.0:117.0:227.0",
     "Name": "Torrhus Heights",
     "Tags": [
-      "area",
-      "sanger_area"
+      "area"
     ],
     "Neighbours": {
       "762": 8.12,
@@ -12705,8 +12704,7 @@
     "Position": "-643.0:122.0:190.0",
     "Name": "Spring Depths",
     "Tags": [
-      "small_area",
-      "sanger_area"
+      "small_area"
     ],
     "Neighbours": {
       "666": 4.58,
