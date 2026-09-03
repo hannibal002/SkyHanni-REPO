@@ -217,8 +217,7 @@
         }
       ],
       "minimumAffectedVersion": "7.52.0",
-      "affectedVersion": "7.52.0",
-      "extraMessage": "Will be re-enabled in 7.53.0"
+      "affectedVersion": "9.0.0"
     }
   ]
 }
