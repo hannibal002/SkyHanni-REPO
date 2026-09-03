@@ -289,6 +289,24 @@
         "Use NPC shops to buy materials for easy crafts."
       ]
     },
+    "Oak Log Collector": {
+      "difficulty": "Hard",
+      "note": [
+        "70k Oak Wood collection"
+      ],
+      "guide": [
+        "Optimal tool:",
+        "Golden Axe with Efficiency 5",
+        "Reforges: Double-Bit or Lush",
+        "Get Haste 3 from a splash to instamine wood",
+        "Forage in the Hub for this.",
+        "Don't forget to get your Sweep up",
+        "if you consider to manually do this.",
+        "Place as many minions as you can",
+        "give them a medium storage and the best fuel",
+        "you can. Collect them in time."
+      ]
+    },
     "Enchanter": {
       "difficulty": "Medium",
       "note": [
