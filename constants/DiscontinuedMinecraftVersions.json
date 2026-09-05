@@ -1,16 +1,4 @@
 {
   "versions": {
-    "1.21.11": {
-      "config_info": [
-        "§cSkyHanni is no longer receiving updates for Minecraft §e1.21.11§c.",
-        "§eWe recommend updating to 26.1.2 for now.",
-        "§eWe're adding 26.2 support very soon!"
-      ],
-      "extra_info": [
-        "§eWe recommend updating to 26.1.2 for now.",
-        "§eWe're adding 26.2 support very soon!"
-      ],
-      "luck_amount": -50
-    }
   }
 }
