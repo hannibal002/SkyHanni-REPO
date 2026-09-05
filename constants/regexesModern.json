@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "384b477",
+  "sourceLabel": "a2797ef",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1076,8 +1076,9 @@
     "inventory.attributeshards.advanced.mode.colorless": "Advanced Mode unlocked at 30",
     "inventory.attributeshards.attribute-menu": "(?:\\(\\d+/\\d+\\) )?Attribute Menu",
     "inventory.attributeshards.bazaar.shards.inventory": "(?:\\(\\d+/\\d+\\) )?Oddities ➜ Shards",
+    "inventory.attributeshards.boss.shard": "SHARD! Your contribution earned you the (?\u003cshardName\u003e.+) Shard!",
     "inventory.attributeshards.captured.shard": "CAPTURE! You (?:caught an?|found) .+ and (?:gained|as a reward (?:he|she|they) gave you) (?:an?|(?\u003camount\u003e\\d+)x) (?\u003cshardName\u003e.+) Shard!",
-    "inventory.attributeshards.caught-multiple.shards": " .+ CATCH! You caught(?: [an]+)? (?\u003cshardName\u003e.+) Shard(?: x(?\u003camount\u003e\\d+))?!",
+    "inventory.attributeshards.caught-multiple.shards": "\\uE025 .+ CATCH! You caught(?: [an]+)? (?\u003cshardName\u003e.+) Shard(?: x(?\u003camount\u003e\\d+))?!",
     "inventory.attributeshards.caught.shards.colorless": "You caught(?: [an]+)?(?: x(?\u003camount\u003e\\d+))? (?\u003cshardName\u003e.+) Shards?!",
     "inventory.attributeshards.charmed.shard.colorless": "CHARM! You charmed the .+ and received (?\u003camount\u003e\\d+) (?\u003cshardName\u003e.+) Shards?!",
     "inventory.attributeshards.chat.and.more.colorless": "and (?\u003camount\u003e\\d+) more\\.\\.\\.",
