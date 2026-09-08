@@ -196,7 +196,7 @@
       "karma": [
         {
           "required_level": 5,
-          "endcap_item": "DISTANT_ECHO"
+          "endcap_item": "FORESTS_FAVOR"
         }
       ],
       "luck_of_the_sea": [
@@ -239,6 +239,12 @@
         {
           "required_level": 6,
           "endcap_item": "OCTOPUS_TENDRIL"
+        }
+      ],
+      "stealth": [
+        {
+          "required_level": 5,
+          "endcap_item": "DISTANT_ECHO"
         }
       ],
       "turbo_cactus": [
