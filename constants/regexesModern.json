@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "cc259aa",
+  "sourceLabel": "01cc37a",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -387,6 +387,7 @@
     "data.miningapi.pickobulus.fail": "§7Your §r§aPickobulus §r§7didn\u0027t destroy any blocks!",
     "data.miningapi.pickobulus.use": "§aYou used your §r§6Pickobulus §r§aPickaxe Ability!",
     "data.neu.items.pet-level": "(?i)(?:§.)+\\[lvl (?:\\d+➡\\d+|\\{lvl})\\] ",
+    "data.neu.items.pet-level-leftover": "(?i)\\[lvl (?:\\d+➡\\d+|\\{lvl})\\]",
     "data.npctrade.bought": "You bought (?\u003cname\u003e.+?)(?: x(?\u003camount\u003e[\\d,]+))?!",
     "data.owninventory.chat.movedsacktoinventory": "§aMoved §r§e\\d* (?\u003cname\u003e.*)§r§a from your Sacks to your inventory.",
     "data.party.dungeonfinder.join": "§dParty Finder §f\u003e (?\u003cname\u003e.*?) §ejoined the dungeon group! \\(§[a-fA-F0-9].* Level \\d+§[a-fA-F0-9]\\)",
