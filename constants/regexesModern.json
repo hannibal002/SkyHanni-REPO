@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "01cc37a",
+  "sourceLabel": "e79c47a",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -323,6 +323,9 @@
     "data.currency.essence.amount": "Your (?\u003ctype\u003e[\\w ]+) Essence: (?\u003camount\u003e[\\d,]+)",
     "data.currency.essence.widget": "\\s*(?\u003ctype\u003e[\\w ]+): (?\u003camount\u003e[\\d,]+)",
     "data.currency.gems.amount": "You have: (?\u003camount\u003e[\\d,]+) Gems",
+    "data.currency.kernel.amount": "Your Kernels: (?\u003camount\u003e[\\d,]+)",
+    "data.currency.kernel.gain": "\\[NPC] [\\w ]+: Thanks for the donation! I\u0027ve added a Kernel to your purse\\.",
+    "data.currency.kernel.item": "Grand Bakery",
     "data.currency.medal.amount": "(?\u003ctype\u003eGOLD|SILVER|BRONZE) medals: (?\u003camount\u003e[\\d,]+)",
     "data.currency.pelts.amount": "Pelts: (?\u003camount\u003e[\\d,]+)",
     "data.currency.pests.amount": "Vacuum Bag: (?\u003camount\u003e[\\d,]+) [] Pests",
@@ -2139,7 +2142,7 @@
     "utils.item.sack": ".*Sack",
     "utils.lore.cost.amount-first": "(?\u003camount\u003e[\\d,]+) (?\u003cname\u003e[\\w\u0027 ]+)",
     "utils.lore.cost.header": "(?:§.)*(?:Donation )?Costs?(?: to unlock)?(?::(?: (?\u003ccost\u003e.+))?)?",
-    "utils.lore.trade.click": "(?:Left )?Click to (?:trade|unlock|level up|buy|donate)!|You can\u0027t afford this upgrade!",
+    "utils.lore.trade.click": "(?:Left )?Click to (?:trade|unlock|level up|buy|donate|bake)!|You can\u0027t afford this upgrade!",
     "utils.skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
     "utils.string.chatusername": "^(?:§\\w\\[§\\w\\d+§\\w] )?(?:(?:§\\w)+\\S )?(?\u003crankedName\u003e(?:§\\w\\[\\w.+] )?(?:§\\w)?(?\u003cusername\u003e\\w+))(?: (?:§\\w)?\\[.+?])?",
     "utils.string.playerchat": "(?\u003cimportant\u003e.*?)(?:§[f7r])*: .*",
