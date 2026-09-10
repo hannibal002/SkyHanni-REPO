@@ -247,6 +247,12 @@
           "endcap_item": "DISTANT_ECHO"
         }
       ],
+      "thorns": [
+        {
+          "required_level": 3,
+          "endcap_item": "PRICKLY_CREEPER"
+        }
+      ],
       "turbo_cactus": [
         {
           "required_level": 5,
