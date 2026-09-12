@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e79c47a",
+  "sourceLabel": "08dccf2",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -428,8 +428,10 @@
     "data.sacks.sack": "^(?:.* Sack|Enchanted .* Sack)$",
     "data.skill.actionbar": ".*§3\\+.* (?\u003cskill\u003e.*) \\((?\u003coverflow\u003e.*)/(?\u003cneeded\u003e.*)\\).*",
     "data.skill.inventory": ".* §e(?\u003cnumber\u003e.*)§6/.*",
-    "diana.chat.burrow.dug": "(?:§eYou dug out a Griffin Burrow!|§eYou finished the Griffin burrow chain!) .*",
-    "diana.chat.coins": "§6§lWow! §r§eYou dug out §r§6(?\u003ccoins\u003e.*) coins§r§e!",
+    "diana.chat.burrow.dug.colorless": "(?:You dug out a Griffin Burrow!|You finished the Griffin burrow chain!).*",
+    "diana.chat.coins.colorless": "Wow! You dug out (?\u003ccoins\u003e[\\d,.]+) coins!",
+    "diana.chat.griffin.feather.drop": "RARE DROP! You dug out a Griffin Feather!",
+    "diana.chat.treasure.arrow": "Follow the arrows to find the treasure!",
     "diana.waypoints.inquisitor.coords.0": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.+)§f: §rx: (?\u003cx\u003e[^ ,]+),? y: (?\u003cy\u003e[^ ,]+),? z: (?\u003cz\u003e[^ ,]+)(?\u003cmobName\u003e \\| .*)?.*",
     "diana.waypoints.inquisitor.coords.1": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.+)§f: §rA MINOS INQUISITOR has spawned near \\[(?\u003carea\u003e.*)] at Coords (?\u003cx\u003e[^ ]+) (?\u003cy\u003e[^ ]+) (?\u003cz\u003e[^ ]+)",
     "diana.waypoints.inquisitor.died": "(?\u003cparty\u003e§9Party §8\u003e )?(?\u003cplayerName\u003e.*)§f: §r(?:Inquisitor|Rare Diana Mob) dead!",
@@ -542,6 +544,7 @@
     "enchanting.experiments.ultrarare": "§d§kXX§5 ULTRA-RARE BOOK! §d§kXX",
     "enchanting.experiments.xpbottle": "(?:COLOSSAL_|TITANIC_|GRAND_|\\b)EXP_BOTTLE",
     "event-diana.rare-mob-name": "(?:Minos Inquisitor|Sphinx|King Minos|Manticore)\\s*",
+    "event-diana.ritual-not-active": "The mythological ritual isn\u0027t active!",
     "event.anniversary-celebration.400.team-finder.player-color-nametag": ".* §(?\u003ccolor\u003e.)⛃.*",
     "event.anniversary-celebration.400.team-finder.player-full-message": "This person has had too much cake today!",
     "event.carnival.fruitdigging.end": " {31}Fruit Digging",
