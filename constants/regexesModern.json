@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "4785f3b",
+  "sourceLabel": "cbd0241",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -340,7 +340,7 @@
     "data.fixironman.visit": "Visit .*",
     "data.friends.add": "§aYou are now friends with (?\u003cname\u003e.*)",
     "data.friends.addbest": ".*\n(?\u003cname\u003e.*)§a is now a best friend!§r§9§m\n.*",
-    "data.friends.friend-request-expired": "The friend request to (?\u003cname\u003e.*) has expired.",
+    "data.friends.friend-request-expired": "(?:The|Your) friend request to (?\u003cname\u003e.*) has expired.",
     "data.friends.friend-request-sent": "You sent a friend request to (?\u003cname\u003e.*)!",
     "data.friends.rawname": "\n§eClick here to view §.(?\u003cname\u003e.*)§e\u0027s profile",
     "data.friends.readfriends": "/viewprofile (?\u003cuuid\u003e.*)",
