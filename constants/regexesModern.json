@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "fb4d773",
+  "sourceLabel": "eedd95a",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1047,7 +1047,7 @@
     "garden.visitor.charmed.name": "This Visitor has been Charmed!.*",
     "garden.visitor.chat.partialaccepted": "§aYou gave some of the required items!",
     "garden.visitor.chat.visitorarrive": ".* §r§ehas arrived on your §r§[ba]Garden§r§e!",
-    "garden.visitor.chat.visitorchat": "§e\\[NPC] (?:§r)?(?\u003ccolor\u003e§.)?(?\u003cname\u003e.*)§f: §r.*",
+    "garden.visitor.chat.visitorchat": "§e\\[NPC] §r(?\u003ccolor\u003e§.)?(?\u003cname\u003e.*)§r§f: §r.*",
     "garden.visitor.compact.disregardrewardname": "^(?:Copper|Farming XP|Farming Experience|Garden Experience|Bits)$",
     "garden.visitor.compact.fullyaccepted": "§6§lOFFER ACCEPTED §8with (?\u003ccolor\u003e§.)?(?\u003cname\u003e.*) §8\\((?\u003crarity\u003e.*)\\)",
     "garden.visitor.compact.rewardstext": "^ {2}§a§lREWARDS",
