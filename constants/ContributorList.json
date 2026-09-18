@@ -77,7 +77,9 @@
     },
     "ecdf4cc9-0487-4d6f-bf09-8497deaf8b33": {
       "suffix": "§d:3",
-      "display_name": "Empa_"
+      "componentSuffix": [{"atlas":"gui", "color": "white", "sprite":"skyhanni:plead"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:trans"}],
+      "display_name": "Empa_",
+      "disabled_achievement_discovery": true
     },
     "b43d7457-9da4-408b-a9fb-51239022cec9": {
       "display_name": "Erymanthus"
