@@ -381,31 +381,31 @@
   },
   "weapons": {
     "REVENANT": {
-        "AXE_OF_THE_SHREDDED": 45,
-        "REAPER_SWORD": 45,
-        "REVENANT_SWORD": 0
+      "AXE_OF_THE_SHREDDED": 45,
+      "REAPER_SWORD": 45,
+      "REVENANT_SWORD": 0
     },
     "TARANTULA": {
-        "SCORPION_FOIL": 30,
-        "STING": 45,
-        "TARANTULA_FANG": 15
+      "SCORPION_FOIL": 30,
+      "STING": 45,
+      "TARANTULA_FANG": 15
     },
     "SVEN": {
-        "SHAMAN_SWORD": 30,
-        "POOCH_SWORD": 45
+      "SHAMAN_SWORD": 30,
+      "POOCH_SWORD": 45
     },
     "VOID": {
-        "VOIDEDGE_KATANA": 15,
-        "VORPAL_KATANA": 30,
-        "ATOMSPLIT_KATANA": 45
+      "VOIDEDGE_KATANA": 15,
+      "VORPAL_KATANA": 30,
+      "ATOMSPLIT_KATANA": 45
     },
     "INFERNO": {
-        "FIREDUST_DAGGER": 15,
-        "MAWDUST_DAGGER": 15,
-        "BURSTMAW_DAGGER": 30,
-        "BURSTFIRE_DAGGER": 30,
-        "HEARTFIRE_DAGGER": 45,
-        "HEARTMAW_DAGGER": 45
+      "FIREDUST_DAGGER": 15,
+      "MAWDUST_DAGGER": 15,
+      "BURSTMAW_DAGGER": 30,
+      "BURSTFIRE_DAGGER": 30,
+      "HEARTFIRE_DAGGER": 45,
+      "HEARTMAW_DAGGER": 45
     }
   },
   "equipments": {
@@ -576,6 +576,57 @@
       "4": 500
     }
   },
+  "drop_amounts": {
+    "REVENANT_FLESH": {
+      "1": "1-3",
+      "2": "30-50",
+      "3": "30-50",
+      "4": "50-64",
+      "5": "63-64"
+    },
+    "FOUL_FLESH": {
+      "2": "1-2",
+      "3": "1-2",
+      "4": "2-3",
+      "5": "3-4"
+    },
+    "WOLF_TOOTH": {
+      "1": "1-3",
+      "2": "9-18",
+      "3": "30-50",
+      "4": "50-64"
+    },
+    "HAMSTER_WHEEL": {
+      "2": "1",
+      "3": "2-4",
+      "4": "4-5"
+    },
+    "NULL_SPHERE": {
+      "1": "2-3",
+      "2": "14-24",
+      "3": "60-80",
+      "4": "105-155"
+    },
+    "TWILIGHT_ARROW_POISON": {
+      "2": "16",
+      "3": "24-32",
+      "4": "60-64"
+    },
+    "TARANTULA_WEB": {
+      "1": "28-48",
+      "2": "28-48",
+      "3": "28-48",
+      "4": "52-64",
+      "5": "64"
+    },
+    "TOXIC_ARROW_POISON": {
+      "1": "24-30",
+      "2": "24-30",
+      "3": "24-30",
+      "4": "60-64",
+      "5": "64"
+    }
+  },
   "champion": [
     0.03,
     0.0378,
@@ -594,5 +645,9 @@
     "WORK_SMARTER": 1.5
   },
   "arbitrary_multiplier": 1.0,
+  "aatrox_slayer_xp_buff_multiplier": 1.25,
+  "slayer_bonus_rewards_reduction_level": 7,
+  "slayer_bonus_rewards_reduction": 0.96,
+  "brewery_contribution_cost_reduction": 0.95,
   "__info__": "This Arbitrary Multiplier is in case seasonal multipliers gets fixed as they currently don't work on Slayers (except for Raffle's 50% that started existing as of Year 500."
 }
