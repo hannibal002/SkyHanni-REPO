@@ -1456,7 +1456,7 @@
     "misc.chocolatefactory.hitman.slotcooldown": "§7Slot cooldown: §a(?\u003cduration\u003e[\\w ]+)",
     "misc.chocolatefactory.hitman.slotcost": ".*§7Cost §6(?\u003ccost\u003e[\\d,]+) Coins.*",
     "misc.chocolatefactory.hoppity.call.init": "§e✆ §r(?:§a|§b)Hoppity§r§e ✆.*",
-    "misc.chocolatefactory.hoppity.call.pickup": "§e\\[NPC] §aHoppity§f: §b✆ §f§rWhat\u0027s up, .*§f\\?",
+    "misc.chocolatefactory.hoppity.call.pickup": "\\[NPC] Hoppity: ✆ What\u0027s up, .*§f\\?",
     "misc.chocolatefactory.hoppity.call.pickup.outgoing": "\\/selectnpcoption hoppity r_2_1",
     "misc.chocolatefactory.hoppity.inventory": "Hoppity",
     "misc.chocolatefactory.hoppity.visitor.accepted": "\\[NPC\\] Hoppity: Simply exquisite.+",
