@@ -1,107 +1,304 @@
 {
   "bingo_tips": {
-    "Skilled (Community Goal)": {
+    "Operation: Ore (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Gain Taming experience"
+        "Mine Ore Blocks"
       ],
       "guide": [
-        "You will gain passive progress in this",
-        "by having a pet equipped at all times.",
-        "Even a Lvl 100 pet counts for this."
+        "Mine normal or Pure Ores in the Dwarven Mines.",
+        "You'll want to get as much Mining Speed",
+        "and Spread for this as you can.",
+        "Pickobulus is another great helper."
       ]
     },
-    "A Hard Day's Work (Community Goal)": {
+    "Tarantula Broodfather (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Collect Jacobs Tickets from contests"
+        "Kill T2 Spider Bosses"
       ],
       "guide": [
-        "To get easy progress in this do",
-        "contests like Wheat, Potato, Carrot",
-        "or Mushroom as those are easy",
-        "Bronze or Silver Medals to get."
+        "Once you acquire a Void Sword and a decent",
+        "armor like Ender or Glacite this should be",
+        "fairly easy to do."
       ]
     },
-    "Scavenger (Community Goal)": {
+    "KABOOM! (Community Goal)": {
       "difficulty": "Easy",
       "note": [
-        "Gain coins from the Scavenger Enchant"
+        "Blow up crypts in dungeons"
       ],
       "guide": [
-        "Apply/Use the highest tier of Scavenger",
-        "that you can get your hands on and put it",
-        "on your main weapon. Gifts from the Jerry Island",
-        "can be a way to obtain Scavenger IV books.",
-        "You can also use the weapon drops from dungeon mobs",
-        "as those have guaranteed Scavenger 5." 
+        "For this you will need Combat 15.",
+        "To blow up crypts you can use",
+        "class abilities (Tank, Archer, Mage)",
+        "and/or Superboom TNTs that drop",
+        "from slaying Minibosses in dungeons",
+        "and can be bought from Walther in",
+        "The Deep Caverns or Ophelia in",
+        "The Dungeon Hub."
       ]
     },
-    "Bait (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Deposit Chum in Chum Buckets"
-      ],
-      "guide": [
-        "For this you need to place down a Chum Bucket",
-        "while fishing. It's recommended to use the best rod",
-        "you have access to with a Chum Sinker",
-        "as this will gain quicker progress.",
-        "Purchase it from Moby on the Desert Island.",
-        "§cDon't forget to actually deposit the Chum you fish ;)"
-      ]
-    },
-    "Agricultural Revolution (Community Goal)": {
-      "difficulty": "Easy",
-      "note": [
-        "Break Crop Blocks"
-      ],
-      "guide": [
-        "You can get easy contribution for",
-        "this by breaking some Wheat in the Hub.",
-        "If you want faster contribution,",
-        "make a Sugar Cane farm in your Garden."
-      ]
-    },
-    "Fairy Finder": {
-      "difficulty": "Easy",
-      "note": [
-        "Find 10 Fairy Souls"
-      ],
-      "guide": [
-        "Collect those you run along while doing other goals.",
-        "If you have trouble check TimeDeo's fairy soul tutorial",
-        "on YouTube or use SkyHanni's Fairy Soul Finder."
-      ]
-    },
-    "Lapis Lazuli Collector": {
+    "Scarf Offensive (Community Goal)": {
       "difficulty": "Medium",
       "note": [
-        "165k Lapis Lazuli Collection"
+        "Complete F2 Dungeon Runs"
       ],
       "guide": [
-        "Mine Pure Lapis Lazuli in the Dwarven Mines",
-        "with a Fortune 3+ pickaxe.",
-        "You'll want to get as much Mining Speed, Spread,",
-        "and Fortune as you can.",
+        "This needs Combat 15 and a completion",
+        "of the 2 previous floors to enter.",
+        "To efficiently grind this, you should",
+        "get help from Party Finder/Friends."
+      ]
+    },
+    "Lucky Looter (Community Goal)": {
+      "difficulty": "Medium",
+      "note": [
+        "Collect rare drops"
+      ],
+      "guide": [
+        "Carrots and potatoes from killing",
+        "Zombies in graveyard do count."
+      ]
+    },
+    "Rock Solid": {
+      "difficulty": "Easy",
+      "note": [
+        "Equip a Common+ Rock Pet"
+      ],
+      "guide": [
+        "You will get the Rock Pet by mining 2.5k",
+        "Ore Blocks. Keep in mind that Stone doesn't",
+        "count for this. Don't forget to equip the pet ;)"
+      ]
+    },
+    "Gunpowder Collector": {
+      "difficulty": "Hard",
+      "note": [
+        "55k Gunpowder Collection"
+      ],
+      "guide": [
+        "Kill Sneaky Creepers in the Deep Caverns",
+        "for the first Gunpowder.",
         "You might want to use as many minions",
         "as you have access to for this.",
-        "Remember to put a compactor in the minions",
-        "when you plan on leaving for a while.",
         "Don't forget to fuel the minions,",
-        "give them storages and collect them in time."
+        "give them storages and collect them in time.",
+        "You can also build a Creeper Farm on your",
+        "island, if you want to manual it."
       ]
     },
-    "Lapis Warrior": {
+    "Strongman": {
       "difficulty": "Medium",
       "note": [
-        "Wear full Lapis Armor"
+        "120 strength"
       ],
       "guide": [
-        "Optimally you want to use a weapon with",
-        "Luck 5+ and Looting 3+ and aim for",
-        "good magic find. Grab the Century Cakes for",
-        "+1 Magic Find for 2 days."
+        "Get yourself a splash, equip a Bingo Pet",
+        "and get the cake buff by eating the cakes",
+        "on skyerzz's or prtl's island.",
+        "If this doesn't finish it, get a Void Sword (200k) in the End",
+        "and hold it while some Ender Armor and/or Equipment."
+      ]
+    },
+    "Carry-On": {
+      "difficulty": "Hard",
+      "note": [
+        "Craft a Large Backpack"
+      ],
+      "guide": [
+        "For this you'll need to hit",
+        "25k Leather Collection and use",
+        "48 Enchanted Leather and 592 Leather",
+        "to craft it. Get the first Leather",
+        "from killing Cows on The Barn."
+      ]
+    },
+    "Sightseer": {
+      "difficulty": "Easy",
+      "note": [
+        "7 public islands"
+      ],
+      "guide": [
+        "You can visit all Islands by using warp commands.",
+        "The Hub, Spider's Den, The End,",
+        "Gold Mine, Deep Caverns,",
+        "Farming Isles. Remember that some of them",
+        "require certain skill levels to enter."
+      ]
+    },
+    "Clay Ball Collector": {
+      "difficulty": "Hard",
+      "note": [
+        "150k Clay Collection"
+      ],
+      "guide": [
+        "Unlock Clay Minions by fishing in the Hub",
+        "in the Fishermans Pond. Then use the Clay Trade",
+        "to get enough Clay for minions.",
+        "You can also fish in the Backwater Bayou",
+        "for Clay from Treasures and Mobs.",
+        "Give them the best fuel and storage you",
+        "have access to. Using Compactors is strongly",
+        "recommended. Remember to collect in time."
+      ]
+    },
+    "Skill Average": {
+      "difficulty": "Hard",
+      "note": [
+        "Skill Average of 10"
+      ],
+      "guide": [
+        "To help with this, try to make bigger crafts",
+        "by hand for Carpentry levels.",
+        "Also do your daily experiments and make sure",
+        "to have a pet active at all times",
+        "(any pet works, even level 100)."
+      ]
+    },
+    "Pair Up!": {
+      "difficulty": "Easy",
+      "note": [
+        "Find 5 Pairs in the Experimentation Table"
+      ],
+      "guide": [
+        "Get Enchanting Level 10 and play",
+        "the first tier in the Experimentation Table."
+      ]
+    },
+    "Cheetah": {
+      "difficulty": "Medium",
+      "note": [
+        "Obtain a Cheetah Talisman"
+      ],
+      "guide": [
+        "Talk to Guildford in the Dungeon Hub",
+        "and complete 4/4 objectives of any 3 races.",
+        "Don't forget to talk to Guildford",
+        "after each run you do."
+      ]
+    },
+    "Warrior": {
+      "difficulty": "Easy",
+      "note": [
+        "Reach Combat 10"
+      ],
+      "guide": [
+        "You'll want to use the free",
+        "Combat XP from Bestiary Milestones for this",
+        "aswell as the XP from /mobtypes."
+      ]
+    },
+    "Cocoa Beans Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "185k Cocoa Beans collection"
+      ],
+      "guide": [
+        "Optimal tool:",
+        "Advanced Gardening Axe (25 copper)",
+        "Make a full plot of Cocoa Beans (16716 needed",
+        "or 105 enchanted) in The Garden (SkyBlock Level 5).",
+        "You will need Garden Level 8.",
+        "Get the Cocoa Beans to plant from The Desert Island."
+      ]
+    },
+    "Commission Master": {
+      "difficulty": "Easy",
+      "note": [
+        "Complete 4 Commissions"
+      ],
+      "guide": [
+        "Do your daily commissions in the Dwarven Mines",
+        "(4 per day). You will need Mining 12 for this.",
+        "Can also be completed in the Crystal Hollows,",
+        "though it might be harder to do so."
+      ]
+    },
+    "A Lost Cause": {
+      "difficulty": "Medium",
+      "note": [
+        "Kill a Lost Adventurer"
+      ],
+      "guide": [
+        "Start an Entrance floor and play Mage/Tank/Berserker to use",
+        "the classes abilities to kill a Lost Adventurer.",
+        "You only need to get the last hit",
+        "on it to count, so you can get help from your team.",
+        "You need Combat Level 15 to join a Dungeon."
+      ]
+    },
+    "Powder Collector": {
+      "difficulty": "Medium",
+      "note": [
+        "50k Mithril Powder"
+      ],
+      "guide": [
+        "Do commissions and events in The Dwarven Mines,",
+        "claim your daily powder from the Puzzler and",
+        "from giving Fetchur the items he asks for.",
+        "Fetchurs items are all listed in the Wiki.",
+        "Try to do those while a '2x Powder' event is active.",
+        "You might want to use the Royal Reforge on your",
+        "equipment to gain more powder from events.",
+        "You can also fish up and kill Mithril Grubbers",
+        "in the Abandoned Quarry (Fishing 6)."
+      ]
+    },
+    "Love Is All Around": {
+      "difficulty": "Easy",
+      "note": [
+        "Obtain a Mediocre Ring of Love"
+      ],
+      "guide": [
+        "Follow the Romero Questline until you ",
+        "get this. You will only need",
+        "1 Yellow Rock, 15 poppies and 64 Emerald."
+      ]
+    },
+    "Trouble is Brewing...": {
+      "difficulty": "Easy",
+      "note": [
+        "Brew any t4 potion"
+      ],
+      "guide": [
+        "Brew an Absorption IV potion",
+        "with an Enchanted Gold and combine it with a Glowstone.",
+        "You can get that Glowstone by buying one block",
+        "from the Builder and breaking it on your island."
+      ]
+    },
+    "Fashionable": {
+      "difficulty": "Easy",
+      "note": [
+        "7 Armor Sets"
+      ],
+      "guide": [
+        "Craft Leather, Iron, Gold and Diamond Armor",
+        "Buy Angler Armor (8 pieces) from Fishing Merchant",
+        "Craft Leaflet, Farm Suit, Mushroom and Cactus Armor"
+      ]
+    },
+    "Podium Position": {
+      "difficulty": "Easy",
+      "note": [
+        "Obtain a Silver+ medal from Jacobs Contest"
+      ],
+      "guide": [
+        "Do contests like Wheat, Potato or Carrot.",
+        "You can also try to utilize pests to help here."
+      ]
+    },
+    "Titanic Reforger": {
+      "difficulty": "Easy",
+      "note": [
+        "Apply the Titanic Reforge"
+      ],
+      "guide": [
+        "Talk to the Blacksmith in the Hub",
+        "and gamble Reforges on an armor piece",
+        "until you get the Titanic Reforge.",
+        "You might need to bring some money for this."
       ]
     },
     "Divan's Chance": {
@@ -122,200 +319,6 @@
         "Topaz: Kill the Bal and get the Crystal after it dies,",
         "       you need to hit it at least once",
         "§lFor all of this you will need HotM 4."
-      ]
-    },
-    "Jade Crystal": {
-      "difficulty": "Medium",
-      "note": [
-        "Collect a Jade Crystal"
-      ],
-      "guide": [
-        "For this you'll need HotM 4. This goal will",
-        "complete alongside Divan's Chance.",
-        "You'll need to find a Mines of Divan",
-        "and locate all 4 different tools in there",
-        "with a Metal Detector and hand them to the",
-        "corresponding NPCs."
-      ]
-    },
-    "Pet Hoarder": {
-      "difficulty": "Easy",
-      "note": [
-        "3 unique pets"
-      ],
-      "guide": [
-        "For this you'll only need to get",
-        "Bingo, Grandma Wolf and a Bee pet."
-      ]
-    },
-    "Obsidian Collector": {
-      "difficulty": "Medium",
-      "note": [
-        "25k Obsidian Collection"
-      ],
-      "guide": [
-        "You can use all your minion slots for this,",
-        "(buy your daily Obsidian in the End to craft)",
-        "mine Ender Nodes and kill Obsidian Defenders.",
-        "If you're using minions, make sure to give them",
-        "the best fuel and storage you have access to",
-        "and collect in time."
-      ]
-    },
-    "Hard Worker": {
-      "difficulty": "Medium",
-      "note": [
-        "Craft a t11 Minion"
-      ],
-      "guide": [
-        "The easiest solution here would be",
-        "to craft a Wheat Minion t11 (163.632 Wheat).",
-        "Utilize the Garden and its pests",
-        "to obtain the needed resources."
-      ]
-    },
-    "Petsitter": {
-      "difficulty": "Easy",
-      "note": [
-        "Upgrade a pet with Kat"
-      ],
-      "guide": [
-        "Use a Jerry Pet and",
-        "upgrade it with Kat.",
-        "This only takes 10s to upgrade."
-      ]
-    },
-    "Lynx": {
-      "difficulty": "Medium",
-      "note": [
-        "Obtain a Lynx Talisman"
-      ],
-      "guide": [
-        "Talk to Guildford in the Dungeon Hub",
-        "and complete 4/4 objectives of any 2 races.",
-        "Don't forget to talk to Guildford",
-        "after each run you do."
-      ]
-    },
-    "Collecting Data": {
-      "difficulty": "Easy",
-      "note": [
-        "Bestiary Milestone 3"
-      ],
-      "guide": [
-        "You will most likely get this passively.",
-        "Use /be ingame to view your progress once you",
-        "talked to Bramass Beastslayer in The Spiders Den."
-      ]
-    },
-    "Love Is All Around": {
-      "difficulty": "Easy",
-      "note": [
-        "Obtain a Mediocre Ring of Love"
-      ],
-      "guide": [
-        "Follow the Romero Questline until you ",
-        "get this. You will only need",
-        "1 Yellow Rock, 15 poppies and 64 Emerald."
-      ]
-    },
-    "Zoop!": {
-      "difficulty": "Hard",
-      "note": [
-        "Craft an AotE"
-      ],
-      "guide": [
-        "This unlocks at 25k Ender Pearl Collection",
-        "and requires 32 Enchanted Eyes of Ender",
-        "and an Enchanted Diamond to craft.",
-        "Don't forget to buy the required Blaze Powder."
-      ]
-    },
-    "Commission Master": {
-      "difficulty": "Easy",
-      "note": [
-        "Complete 8 Commissions"
-      ],
-      "guide": [
-        "Do your daily commissions in the Dwarven Mines",
-        "(4 per day). You will need Mining 12 for this.",
-        "Can also be completed in the Crystal Hollows,",
-        "though it might be harder to do so."
-      ]
-    },
-    "Strange Eggs": {
-      "difficulty": "Medium",
-      "note": [
-        "Spawn a Golden Goblin from a Goblin Egg"
-      ],
-      "guide": [
-        "Kill goblins or open loot chests in the Crystal Hollows,",
-        "then just throw them until you get a Golden Goblin.",
-        "Higher level eggs have higher chances of spawning,",
-        "but are also rarer to get."
-      ]
-    },
-    "Sea Summoner": {
-      "difficulty": "Easy",
-      "note": [
-        "30% sea creature chance"
-      ],
-      "guide": [
-        "Claim your cake buff (visit skyerzz, nightlibra or prtl),",
-        "hold an angler 4+ rod and visit someone with a",
-        "Sea Creature Chance beacon (visit ReyMaratov)."
-      ]
-    },
-    "Ender Menace": {
-      "difficulty": "Medium",
-      "note": [
-        "Kill 10 Endermen in 8s"
-      ],
-      "guide": [
-        "Ideally you want to get 6/8 or more",
-        "pieces of the Ender set and a Void Sword",
-        "to onetap the Endermen in the End.",
-        "§cIsland Endermen do not count for this."
-      ]
-    },
-    "Minion Machine": {
-      "difficulty": "Easy",
-      "note": [
-        "15 unique Minions"
-      ],
-      "guide": [
-        "Craft some easy minions while also getting",
-        "those that will help with this Bingo.",
-        "Use NPC shops to buy materials for easy crafts."
-      ]
-    },
-    "Oak Log Collector": {
-      "difficulty": "Hard",
-      "note": [
-        "70k Oak Wood collection"
-      ],
-      "guide": [
-        "Optimal tool:",
-        "Golden Axe or Treecapitator",
-        "with Efficiency 5",
-        "Reforges: Double-Bit or Lush",
-        "Get Haste 3 from a splash to instamine wood",
-        "Forage in the Hub for this.",
-        "Don't forget to get your Sweep up",
-        "if you consider to manually do this.",
-        "Place as many minions as you can",
-        "give them a medium storage and the best fuel",
-        "you can. Collect them in time."
-      ]
-    },
-    "Enchanter": {
-      "difficulty": "Medium",
-      "note": [
-        "Reach Enchanting 20"
-      ],
-      "guide": [
-        "For this you'll want to unlock the Experimentation Table",
-        "at Enchanting 10 and play the Daily Games."
       ]
     }
   }
