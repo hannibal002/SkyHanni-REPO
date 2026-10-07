@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "96e0126",
+  "sourceLabel": "a752834",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -828,7 +828,7 @@
     "fishing.tracker.chat.coins.colorless": " (?\u003ccatch\u003e.*) CATCH! You caught (?\u003ccoins\u003e[\\d,]+) Coins!",
     "fishing.trophy.odger.bronze.new": "^Bronze.*",
     "fishing.trophy.odger.discovered.new": "Discovered",
-    "fishing.trophy.trophyfish": "§6 §r§6§lTROPHY FISH! §r§fYou caught an? §r(?\u003cdisplayName\u003e§[0-9a-f](?:§k)?[\\w -]+) §r(?\u003cdisplayRarity\u003e§[0-9a-f]§l\\w+)§r§f!",
+    "fishing.trophy.trophyfish": "§6 §r§6§lTROPHY FISH! §r§fYou caught §r(?\u003cdisplayName\u003e§[0-9a-f](?:§k)?[\\w -]+) §r(?\u003cdisplayRarity\u003e§[0-9a-f]§l\\w+)§r§f!",
     "fishing.trophyfish.odger.inventory": "Trophy Fish",
     "fishing.trophyfish.odger.rank.colorless": "(?: +)?(?\u003crarity\u003e.*) ✔ \\((?\u003camount\u003e.*)\\)",
     "fishing.trophyfish.odger.rank.empty.colorless": "(?: +)?(?\u003crarity\u003e.*) ✖",
@@ -1206,7 +1206,7 @@
     "item.abilities.cooldown.alignedother": "§eYou aligned §r§a.* §r§eother players?!",
     "item.abilities.cooldown.buffedyourself": "§aYou buffed yourself for §r§c\\+\\d+ Strength",
     "item.enchantedbook": "(?:§f)?Enchanted Book \\((?\u003citem\u003e.+)\\)",
-    "itemcategory.repocheck": "SWORD|LONGSWORD|BOW|SHORT_BOW|WAND|FISHING_ROD|FISHING_WEAPON|ROD_PART|AXE|GAUNTLET|HOE|PICKAXE|SHOVEL|DRILL|SHEARS|DEPLOYABLE|VACUUM|ABIPHONE|BELT|NECKLACE|CLOAK|GLOVES|BRACELET|HELMET|CHESTPLATE|LEGGINGS|BOOTS|HATCESSORY|ACCESSORY|CARNIVAL_MASK|POWER_STONE|TRAVEL_SCROLL|REFORGE_STONE|BAIT|PET|TROPHY_FISH|ARROW|ARROW_POISON|ITEM|PET_ITEM|ENCHANTED_BOOK|POTION|RIFT_TIMECHARM|COSMETIC|MEMENTO|PORTAL|SACK|CHISEL|DYE|ORE|BLOCK|DWARVEN_METAL|GEMSTONE|LASSO|FISHING_NET|SALT|TRAP|BOOSTER|WATER_SHARD|FOREST_SHARD|COMBAT_SHARD|GARDEN_CHIP|MUTATION|WATERING_CAN|FARMING_TOOL|TROPHY|CAPSULE|RABBIT|NONE",
+    "itemcategory.repocheck": "SWORD|LONGSWORD|BOW|SHORT_BOW|WAND|FISHING_ROD|FISHING_WEAPON|ROD_PART|AXE|GAUNTLET|HOE|PICKAXE|SHOVEL|DRILL|SHEARS|DEPLOYABLE|VACUUM|ABIPHONE|BELT|NECKLACE|CLOAK|GLOVES|BRACELET|HELMET|CHESTPLATE|LEGGINGS|BOOTS|HATCESSORY|ACCESSORY|CARNIVAL_MASK|POWER_STONE|TRAVEL_SCROLL|REFORGE_STONE|BAIT|PET|TROPHY_FISH|ARROW|ARROW_POISON|ITEM|PET_ITEM|ENCHANTED_BOOK|POTION|RIFT_TIMECHARM|COSMETIC|MEMENTO|PORTAL|SACK|CHISEL|DYE|ORE|BLOCK|DWARVEN_METAL|GEMSTONE|LASSO|FISHING_NET|SALT|TRAP|BOOSTER|WATER_SHARD|FOREST_SHARD|COMBAT_SHARD|GARDEN_CHIP|MUTATION|WATERING_CAN|FARMING_TOOL|TROPHY|CAPSULE|RABBIT|ABILITY_SCROLL|NONE",
     "itempickuplog.shoppattern": "^(?\u003citemName\u003e.+?)(?: x\\d+)?$",
     "jerry.highlight": "(?\u003ccolor\u003e\\w+) Jerry",
     "mayorapi.election.over": "§eThe election room is now closed\\. Clerk Seraphine is doing a final count of the votes\\.\\.\\.",
