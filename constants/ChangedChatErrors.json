@@ -128,6 +128,18 @@
         "Error checking damage indicator entity"
       ],
       "fixed_in": "9.2.0"
+    },
+    {
+      "message_contains": [
+        "internalName:PHOENIX;8",
+        "internalName:PHOENIX;9",
+        "internalName:PHOENIX;7",
+        "Could not add pet exp tooltip",
+        "Error in Estimated Item Value renderer",
+        "index: -1, size: 10"
+      ],
+      "fixed_in": "9.2.0",
+      "custom_message": "SkyHanni pet features won't work as intended with your phoenix pet until you update to 9.2.0."
     }
   ]
 }
