@@ -131,11 +131,15 @@
     },
     {
       "message_contains": [
-        "Caused by java.lang.IndexOutOfBoundsException: index: -1, size: 10",
-        "Caused by java.lang.IllegalStateException: Unknown pet rarity VERY_SPECIAL",
-        "Caused by java.lang.IllegalStateException: Unknown pet rarity SPECIAL"
+        "internalName:PHOENIX;8",
+        "internalName:PHOENIX;9",
+        "internalName:PHOENIX;7",
+        "Could not add pet exp tooltip",
+        "Error in Estimated Item Value renderer",
+        "index: -1, size: 10"
       ],
-      "fixed_in": "9.2.0"
+      "fixed_in": "9.2.0",
+      "custom_message": "SkyHanni pet features won't work as intended with your phoenix pet until you update to 9.2.0."
     }
   ]
 }
