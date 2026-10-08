@@ -122,6 +122,12 @@
         "Caused by java.lang.IllegalStateException: itemPreEffectPattern didn't match"
       ],
       "fixed_in": "7.46.0"
+    },
+    {
+      "message_exact": [
+        "Error checking damage indicator entity"
+      ],
+      "fixed_in": "9.2.0"
     }
   ]
 }
