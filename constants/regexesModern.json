@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "a752834",
+  "sourceLabel": "e8cc2d1",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1929,7 +1929,7 @@
     "stats.menu.no-color.timber": "\\s* Timber (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.no-color.tracking": "\\s* Tracking (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.no-color.treasure.chance": "\\s* Treasure Chance (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
-    "stats.menu.no-color.trophy.fish.chance": "\\s* Trophy Chance (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
+    "stats.menu.no-color.trophy.chance": "\\s* Trophy Chance (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.no-color.true.defense": "\\s* True Defense (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.menu.no-color.unknown": "",
     "stats.menu.no-color.vitality": "\\s* Vitality (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
@@ -2012,7 +2012,7 @@
     "stats.tablist.no-color.timber": " *Timber: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.no-color.tracking": " *Tracking: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.no-color.treasure.chance": " *Treasure Chance: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
-    "stats.tablist.no-color.trophy.fish.chance": " *Trophy Chance: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
+    "stats.tablist.no-color.trophy.chance": " *Trophy Chance: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.no-color.true.defense": " *True Defense: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
     "stats.tablist.no-color.unknown": "",
     "stats.tablist.no-color.vitality": " *Vitality: (?\u003cvalue\u003e[\\d,.]+)(?: .*)?",
