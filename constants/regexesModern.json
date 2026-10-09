@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e8cc2d1",
+  "sourceLabel": "45e6d0a",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -202,6 +202,8 @@
     "combat.boss.protector.1.chat.end.zealot": "§f +§r§eZealots Contributed: §r§a(?\u003camount\u003e\\d+)§r§e/100",
     "combat.cocoon.spawn": "CAUGHT! You cocooned an? (?\u003cname\u003e[\\w ]+)!",
     "combat.crimsonisle.vanquisherapi.spawnpattern": "A Vanquisher is spawning nearby!",
+    "combat.damageindicator.damage": "[✧✯]?\\d+[⚔+✧❤♞☄✷ﬗ✯]*",
+    "combat.damageindicator.enderslayer.hits": ".* §.§l(?\u003chits\u003e\\d+) Hits?",
     "combat.deployable.black-hole": "Black Hole (?\u003ctime\u003e\\d+)s",
     "combat.deployable.dwarven-lantern": "Dwarven Lantern (?\u003ctime\u003e\\d+)s",
     "combat.deployable.glacite-lantern": "Glacite Lantern (?\u003ctime\u003e\\d+)s",
@@ -1683,7 +1685,7 @@
     "mob.detection.filter.boss": "^. (?:\\[Lv(?\u003clevel\u003e\\d+)\\] )?(?\u003cmobType\u003e[^\\w\\s✯\\-]+ )?(?\u003cname\u003e[^ᛤ\n]*?)(?: ᛤ)?(?: [\\d\\/BMk.,]+| █+)? .$",
     "mob.detection.filter.dojo": "^(?:(?\u003cpoints\u003e\\d+) pts|(?\u003cempty\u003e\\w+))$",
     "mob.detection.filter.dungeon": "^(?:\\[Lv(?\u003clevel\u003e\\d+)\\] )?(?\u003cmobType\u003e[^\\w\\s✯\\-]+ )?(?:(?\u003cstar\u003e✯)\\s)?(?:(?\u003cattribute\u003eFlaming|Stormy|Speedy|Fortified|Healthy|Healing|Boomer|Golden|Stealth)\\s)?(?:\\[[\\w\\d]+\\]\\s)?(?\u003cname\u003e[^ᛤ]+)(?: ᛤ)?\\s[^\\s]+$",
-    "mob.detection.filter.slayer": "^(?\u003cmobType\u003e[^\\w\\s✯\\-]+ )?. (?\u003cname\u003e.*)(?: (?\u003ctier\u003e[IV]+)|(?\u003c\u003dAtoned Horror|Conjoined Brood)) \\d+.*",
+    "mob.detection.filter.slayer": "^(?:\\[Lv(?\u003clevel\u003e\\d+)\\] )?(?\u003cmobType\u003e[^\\w\\s✯\\-]+ )?. (?\u003cname\u003e.*)(?: (?\u003ctier\u003e[IV]+)|(?\u003c\u003dAtoned Horror|Conjoined Brood)) \\d+.*",
     "mob.detection.filter.summon": "^(?\u003cowner\u003e\\w+)\u0027s (?\u003cname\u003e.*) \\d+.*",
     "mob.detection.jerry": "(?:\\[\\w+(?\u003clevel\u003e\\d+)] )?... (?:(?:a(?\u003da ))?(?\u003cowner\u003e\\w+)\u0027s (?\u003cname\u003e\\w+ Jerrya?)) \\d+ Hits",
     "mob.detection.pattern.dungeon.woke.golem": "(?:§c§lWoke|§5§lSleeping) Golem§r",
