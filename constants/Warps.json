@@ -103,7 +103,11 @@
       "x": 0.5,
       "y": 77,
       "z": -0.5,
-      "extra_diana_warp_blocks": 0
+      "extra_diana_warp_blocks": 0,
+      "commands": [
+        "hub",
+        "village"
+      ]
     },
     "CASTLE": {
       "display_name": "Castle",
@@ -111,7 +115,10 @@
       "x": -250,
       "y": 130,
       "z": 45,
-      "extra_diana_warp_blocks": 10
+      "extra_diana_warp_blocks": 10,
+      "commands": [
+        "castle"
+      ]
     },
     "CRYPT": {
       "display_name": "Crypt",
@@ -119,7 +126,11 @@
       "x": -160.5,
       "y": 62,
       "z": -106.5,
-      "extra_diana_warp_blocks": 15
+      "extra_diana_warp_blocks": 15,
+      "commands": [
+        "crypt",
+        "crypts"
+      ]
     },
     "DA": {
       "display_name": "Dark Auction",
@@ -127,7 +138,10 @@
       "x": 91.5,
       "y": 75,
       "z": 173.5,
-      "extra_diana_warp_blocks": 2
+      "extra_diana_warp_blocks": 2,
+      "commands": [
+        "da"
+      ]
     },
     "MUSEUM": {
       "display_name": "Museum",
@@ -135,7 +149,10 @@
       "x": 29,
       "y": 72,
       "z": 1,
-      "extra_diana_warp_blocks": 2
+      "extra_diana_warp_blocks": 2,
+      "commands": [
+        "museum"
+      ]
     },
     "WIZARD": {
       "display_name": "Wizard",
@@ -143,7 +160,13 @@
       "x": 44.5,
       "y": 119,
       "z": 93.5,
-      "extra_diana_warp_blocks": 0
+      "extra_diana_warp_blocks": 0,
+      "commands": [
+        "wiz",
+        "tower",
+        "wizard",
+        "wizard_tower"
+      ]
     },
     "STONKS": {
       "display_name": "Stonks",
@@ -151,7 +174,10 @@
       "x": -36.5,
       "y": 70,
       "z": -81.5,
-      "extra_diana_warp_blocks": 5
+      "extra_diana_warp_blocks": 5,
+      "commands": [
+        "stonks"
+      ]
     },
     "TAYLOR": {
       "display_name": "Taylor",
@@ -159,7 +185,364 @@
       "x": 29.5,
       "y": 73,
       "z": -41.5,
-      "extra_diana_warp_blocks": 2
+      "extra_diana_warp_blocks": 2,
+      "commands": [
+        "taylor"
+      ]
+    },
+    "ELIZABETH": {
+      "display_name": "Elizabeth",
+      "island": "HUB",
+      "x": -2.5,
+      "y": 79,
+      "z": 16.5,
+      "extra_diana_warp_blocks": 15,
+      "commands": [
+        "elizabeth"
+      ]
+    },
+    "ATOLL": {
+      "display_name": "Lotus Atoll",
+      "island": "LOTUS_ATOLL",
+      "x": -14.5,
+      "y": 71,
+      "z": 1.5,
+      "commands": [
+        "atoll",
+        "lotus"
+      ]
+    },
+    "BACKWATER": {
+      "display_name": "Backwater Bayou",
+      "island": "BACKWATER_BAYOU",
+      "x": -11.5,
+      "y": 74,
+      "z": -9.5,
+      "commands": [
+        "bayou",
+        "backwater"
+      ]
+    },
+    "BARN": {
+      "display_name": "The Barn",
+      "island": "THE_FARMING_ISLANDS",
+      "x": 113.5,
+      "y": 71,
+      "z": -206.5,
+      "commands": [
+        "barn",
+        "farming"
+      ]
+    },
+    "GLACITE": {
+      "display_name": "Dwarven Base Camp",
+      "island": "DWARVEN_MINES",
+      "x": 0.5,
+      "y": 128,
+      "z": 200.5,
+      "commands": [
+        "gt",
+        "base",
+        "camp",
+        "tunnel",
+        "glacite",
+        "tunnels",
+        "basecamp"
+      ]
+    },
+    "TORRHUS": {
+      "display_name": "Torrhus Canyon",
+      "island": "TORRHUS_CANYON",
+      "x": -719.5,
+      "y": 94,
+      "z": 141.5,
+      "commands": [
+        "canyon",
+        "torrhus",
+        "torrhus_canyon"
+      ]
+    },
+    "CRIMSON": {
+      "display_name": "Crimson Isle",
+      "island": "CRIMSON_ISLE",
+      "x": -359.5,
+      "y": 80,
+      "z": -429.5,
+      "commands": [
+        "ci",
+        "isle",
+        "nether",
+        "crimson"
+      ]
+    },
+    "DEEP": {
+      "display_name": "Deep Caverns",
+      "island": "DEEP_CAVERNS",
+      "x": 4.5,
+      "y": 157,
+      "z": 80.5,
+      "commands": [
+        "deep",
+        "deeper"
+      ]
+    },
+    "DESERT": {
+      "display_name": "Desert Settlement",
+      "island": "THE_FARMING_ISLANDS",
+      "x": 160.5,
+      "y": 76,
+      "z": -369.5,
+      "commands": [
+        "desert"
+      ]
+    },
+    "DWARVES": {
+      "display_name": "Dwarven Mines",
+      "island": "DWARVEN_MINES",
+      "x": -47.5,
+      "y": 200,
+      "z": -120.5,
+      "commands": [
+        "mines",
+        "dmines",
+        "dwarves"
+      ]
+    },
+    "DRAG": {
+      "display_name": "Dragon's Nest",
+      "island": "THE_END",
+      "x": -606.5,
+      "y": 22,
+      "z": -275.5,
+      "commands": [
+        "drag",
+        "dragons"
+      ]
+    },
+    "DHUB": {
+      "display_name": "Dungeon Hub",
+      "island": "DUNGEON_HUB",
+      "x": -23.5,
+      "y": 121,
+      "z": 0.5,
+      "commands": [
+        "dh",
+        "dhub",
+        "dungeons",
+        "dungeon_hub"
+      ]
+    },
+    "END": {
+      "display_name": "The End",
+      "island": "THE_END",
+      "x": -502.5,
+      "y": 101,
+      "z": -274.5,
+      "commands": [
+        "end"
+      ]
+    },
+    "PARK": {
+      "display_name": "Park",
+      "island": "THE_PARK",
+      "x": -264.5,
+      "y": 79,
+      "z": -16.5,
+      "commands": [
+        "park",
+        "trees",
+        "foraging"
+      ]
+    },
+    "FORGE": {
+      "display_name": "The Forge",
+      "island": "DWARVEN_MINES",
+      "x": 0.5,
+      "y": 149,
+      "z": -67.5,
+      "commands": [
+        "forge",
+        "warpforge"
+      ]
+    },
+    "MOONGLADE": {
+      "display_name": "Moonglade Marsh",
+      "island": "GALATEA",
+      "x": -546.5,
+      "y": 109,
+      "z": -21.5,
+      "commands": [
+        "galatea",
+        "moonglade"
+      ]
+    },
+    "GOLD": {
+      "display_name": "Gold Mine",
+      "island": "GOLD_MINES",
+      "x": -3.5,
+      "y": 74,
+      "z": -277.5,
+      "commands": [
+        "gold"
+      ]
+    },
+    "JUNGLE": {
+      "display_name": "Jungle Island",
+      "island": "THE_PARK",
+      "x": -466.5,
+      "y": 121,
+      "z": -33.5,
+      "commands": [
+        "jungle"
+      ]
+    },
+    "LOCH": {
+      "display_name": "Murkwater Loch",
+      "island": "GALATEA",
+      "x": -465.5,
+      "y": 121,
+      "z": -32.5,
+      "commands": [
+        "loch",
+        "murk",
+        "murkwater"
+      ]
+    },
+    "RIFT": {
+      "display_name": "Rift",
+      "island": "THE_RIFT",
+      "x": -44.5,
+      "y": 122,
+      "z": 69.5,
+      "commands": [
+        "rift",
+        "the_rift"
+      ]
+    },
+    "SEPULTURE": {
+      "display_name": "Void Sepulture",
+      "island": "THE_END",
+      "x": -569.5,
+      "y": 7,
+      "z": -317.5,
+      "commands": [
+        "void",
+        "sepulture"
+      ]
+    },
+    "SPIDER": {
+      "display_name": "Spider's Den",
+      "island": "SPIDER_DEN",
+      "x": -201.5,
+      "y": 83,
+      "z": -231.5,
+      "commands": [
+        "spider",
+        "spiders"
+      ]
+    },
+    "SPRING": {
+      "display_name": "Torrhus Springs",
+      "island": "TORRHUS_CANYON",
+      "x": -633.5,
+      "y": 161,
+      "z": 162.5,
+      "commands": [
+        "spring",
+        "springs"
+      ]
+    },
+    "MOUND": {
+      "display_name": "Spider Mound",
+      "island": "SPIDER_DEN",
+      "x": -188.5,
+      "y": 176,
+      "z": -309.5,
+      "commands": [
+        "top",
+        "nest",
+        "mound"
+      ]
+    },
+    "TRAP": {
+      "display_name": "Trapper's Den",
+      "island": "THE_FARMING_ISLANDS",
+      "x": 281.5,
+      "y": 104,
+      "z": -546.5,
+      "commands": [
+        "trap",
+        "trapper"
+      ]
+    },
+    "HOWL": {
+      "display_name": "Howling Cave",
+      "island": "THE_PARK",
+      "x": -395,
+      "y": 96,
+      "z": -62,
+      "commands": [
+        "howl",
+        "howling_cave"
+      ]
+    },
+    "SMOLD": {
+      "display_name": "Smoldering Tomb",
+      "island": "CRIMSON_ISLE",
+      "x": -290.7,
+      "y": 123,
+      "z": -997.0,
+      "commands": [
+        "smold",
+        "smoldering",
+        "smoldering_tomb"
+      ]
+    },
+    "SKULL": {
+      "display_name": "Forgotten Skull",
+      "island": "CRIMSON_ISLE",
+      "x": -373.5,
+      "y": 117,
+      "z": -989.5,
+      "commands": [
+        "skull",
+        "kuudra"
+      ]
+    },
+    "ARACHNE": {
+      "display_name": "Arachne's Sanctuary",
+      "island": "SPIDER_DEN",
+      "x": -283.5,
+      "y": 47,
+      "z": -199.5,
+      "commands": [
+        "arachne",
+        "sanctuary"
+      ]
+    },
+    "MOBY": {
+      "display_name": "Glowing Mushroom Cave",
+      "island": "THE_FARMING_ISLANDS",
+      "x": 205.5,
+      "y": 43,
+      "z": -499.5,
+      "commands": [
+        "moby",
+        "glowing"
+      ]
+    },
+    "CRYSTAL_NUCLEUS": {
+      "display_name": "Crystal Nucleus",
+      "island": "CRYSTAL_HOLLOWS",
+      "x": 513.5,
+      "y": 106,
+      "z": 526.5,
+      "commands": [
+        "cn",
+        "nuc",
+        "nucleus",
+        "crystal_nucleus"
+      ]
     }
   }
 }
