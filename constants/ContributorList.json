@@ -91,7 +91,8 @@
     "90f20a02-e671-4665-9f44-ae54abb6aecc": {
       "suffix": "§d:3",
       "componentSuffix": [{"atlas":"gui", "color": "white", "sprite":"skyhanni:trans"}, {"text":" "}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:dog"}],
-      "display_name": "EstrogenEnjoyer"
+      "display_name": "EstrogenEnjoyer",
+      "exclude_from_achievements": true
     },
     "6f8c7b61-42d8-4c4a-b4dc-c47e3aa75b30": {
       "suffix": "§6§lツ",
@@ -294,7 +295,8 @@
     "681c11ba-9f1a-4e61-99be-8f8a1157fde0": {
       "suffix": "§d:3",
       "componentSuffix": [{"atlas":"gui", "color": "white", "sprite":"skyhanni:plead"}, {"atlas":"gui", "color": "white", "sprite":"skyhanni:gay"}],
-      "display_name": "ThePleader"
+      "display_name": "ThePleader",
+      "exclude_from_achievements": true
     },
     "88c95c3b-9d23-4d6a-bcdc-f9ad77bec7b6": {
       "display_name": "thisiscad"
