@@ -206,7 +206,8 @@
     "d7f09bac-a366-46d1-a558-7fe32c477565": {
       "suffix": "§5:3",
       "alt from": "qtLuna",
-      "display_name": "owoLuna"
+      "display_name": "owoLuna",
+      "exclude_from_achievements": true
     },
     "d0606454-04da-44c6-9bd4-5f3a4d8b388a": {
       "display_name": "oxsss"
@@ -226,7 +227,8 @@
     },
     "93234e1a-ca82-4bd7-a518-8aa89d551979": {
       "suffix": "§5:3",
-      "display_name": "qtLuna"
+      "display_name": "qtLuna",
+      "exclude_from_achievements": true
     },
     "7daf75d9-1185-4d13-86c0-1813761d2e4f": {
       "suffix": "§6\uD83D\uDC1D",
