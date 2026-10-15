@@ -69,6 +69,12 @@
       "fixed_in": "99.99.99"
     },
     {
+      "message_exact": [
+        "Could not read the cost of an item"
+      ],
+      "fixed_in": "99.99.99"
+    },
+    {
       "message_starts_with": [
         "Error while editing message",
         "Error while deleting message"
