@@ -265,7 +265,8 @@
       "suffix": "§d:3",
       "spinny": true,
       "upsideDown": true,
-      "display_name": "Skirtwearer"
+      "display_name": "Skirtwearer",
+      "exclude_from_achievements": true
     },
     "c9e49f58-2639-4be4-8877-9f175187f917": {
       "display_name": "Skyblock_Lobby"
