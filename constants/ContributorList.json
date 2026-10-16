@@ -35,7 +35,8 @@
     },
     "e04c1a7f-017d-4de0-b76d-797cad8f8036": {
       "suffix": "§d§l:3",
-      "display_name": "Bloxigus"
+      "display_name": "Bloxigus",
+      "exclude_from_achievements": true
     },
     "27ea7d81-a642-4ba2-81dd-1cbfdc3509f1": {
       "suffix": "§d:D",
