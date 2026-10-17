@@ -228,6 +228,16 @@
       ],
       "affectedVersion": "7.53.0",
       "extraMessage": "Will be re-enabled in 7.54.0"
+    },
+    {
+      "enforcedValues": [
+        {
+          "path": "event.spook.primalFearNotification",
+          "value": false
+        }
+      ],
+      "affectedVersion": "9.2.0",
+      "extraMessage": "Will be re-enabled in 9.3.0"
     }
   ]
 }
