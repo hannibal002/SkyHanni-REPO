@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "d7ccdf0",
+  "sourceLabel": "0b305e4",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -2151,6 +2151,7 @@
     "utils.item.sack": ".*Sack",
     "utils.lore.cost.amount-first": "(?\u003camount\u003e[\\d,]+) (?\u003cname\u003e[\\w\u0027 ]+)",
     "utils.lore.cost.header": "(?:§.)*(?:Donation )?Costs?(?: to unlock)?(?::(?: (?\u003ccost\u003e.+))?)?",
+    "utils.lore.cost.invalid-currency-names.0": "\\?\\?\\?",
     "utils.lore.trade.click": "(?:Left )?Click to (?:trade|unlock|level up|buy|donate|bake)!|You can\u0027t afford this upgrade!",
     "utils.skyblocktime.season": "(?:Early |Late )?(?\u003cseason\u003eSpring|Summer|Autumn|Winter)",
     "utils.string.chatusername": "^(?:§\\w\\[§\\w\\d+§\\w] )?(?:(?:§\\w)+\\S )?(?\u003crankedName\u003e(?:§\\w\\[\\w.+] )?(?:§\\w)?(?\u003cusername\u003e\\w+))(?: (?:§\\w)?\\[.+?])?",
