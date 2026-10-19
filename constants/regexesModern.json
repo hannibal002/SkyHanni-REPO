@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "0b305e4",
+  "sourceLabel": "8e205ab",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -504,6 +504,7 @@
     "dungeon.secrettracker.message.colorless": "There\u0027s a secret (?\u003cdistance\u003e\\d+) blocks(?:.+and (?\u003cdistance2\u003e\\d+) blocks)?",
     "dungeon.secrettracker.no.missing.colorless": "There are no missing secrets near you!",
     "dungeon.spirit-leap.menu": "Spirit Leap|Teleport to Player",
+    "dungeon.start.mort.colorless": "\\[NPC\\] Mort: Here, I found this map when I first entered the dungeon\\.",
     "dungeon.tablist.playerteam.colorless": "^(?\u003csbLevel\u003e\\[\\d+]) (?\u003crank\u003e\\[[^]]+])? ?(?\u003cplayerName\u003e\\S+)\\s?(?\u003csymbols\u003e[^(]*) \\((?:(?\u003cclassName\u003e\\S+) (?\u003cclassLevel\u003e[CLXVI0]+)|(?\u003cplayerDead\u003eDEAD))\\)$",
     "dungeon.terracotta.end": "§c\\[BOSS] Sadan§r§f: ENOUGH!",
     "dungeon.terracotta.start": "§c\\[BOSS] Sadan§r§f: So you made it all the way here... Now you wish to defy me\\? Sadan\\?!",
