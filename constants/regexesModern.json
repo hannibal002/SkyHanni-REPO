@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "189fe37",
+  "sourceLabel": "e5f3fad",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1585,6 +1585,7 @@
     "misc.nongodpot.effects.inventoryitemname.deep-terror": ".*Deepterror.*",
     "misc.nongodpot.effects.inventoryitemname.douce-pluie-de-stinky-cheese": ".*Douce Pluie de Stinky Cheese I.*",
     "misc.nongodpot.effects.inventoryitemname.exalted-lushlilac-bonbon": ".*Exalted Lushlilac Bonbon.*",
+    "misc.nongodpot.effects.inventoryitemname.fiesta-flask": ".*Fiesta Flask I.*",
     "misc.nongodpot.effects.inventoryitemname.filet-o-fortune": ".*Filet O\u0027 Fortune I.*",
     "misc.nongodpot.effects.inventoryitemname.glowing-mush": ".*Glowing Mush Mixin.*",
     "misc.nongodpot.effects.inventoryitemname.glowy": ".*Mushed Glowy Tonic I.*",
@@ -1603,6 +1604,7 @@
     "misc.nongodpot.effects.inventoryitemname.powder-pumpkin": ".*Powder Pumpkin I.*",
     "misc.nongodpot.effects.inventoryitemname.prime-lushlilac-bonbon": ".*Prime Lushlilac Bonbon.*",
     "misc.nongodpot.effects.inventoryitemname.rev": ".*Zombie Brain Mixin.*",
+    "misc.nongodpot.effects.inventoryitemname.scatha-in-a-bottle": ".*Scatha-in-a-Bottle I.*",
     "misc.nongodpot.effects.inventoryitemname.smoldering": ".*Smoldering Polarization I.*",
     "misc.nongodpot.effects.inventoryitemname.sven": ".*Wolf Fur Mixin.*",
     "misc.nongodpot.effects.inventoryitemname.tara": ".*Spider Egg Mixin.*",
@@ -1618,6 +1620,7 @@
     "misc.nongodpot.effects.tabname-deep-terror": "Deepterror",
     "misc.nongodpot.effects.tabname-douce-pluie-de-stinky-cheese": "Douce Pluie de Stinky Cheese I",
     "misc.nongodpot.effects.tabname-exalted-lushlilac-bonbon": "Exalted Lushlilac Bonbon",
+    "misc.nongodpot.effects.tabname-fiesta-flask": "Fiesta Flask I",
     "misc.nongodpot.effects.tabname-filet-o-fortune": "Filet O\u0027 Fortune I",
     "misc.nongodpot.effects.tabname-glowing-mush": "Glowing Mush Mixin",
     "misc.nongodpot.effects.tabname-glowy": "Mushed Glowy Tonic I",
@@ -1636,6 +1639,7 @@
     "misc.nongodpot.effects.tabname-powder-pumpkin": "Powder Pumpkin I",
     "misc.nongodpot.effects.tabname-prime-lushlilac-bonbon": "Prime Lushlilac Bonbon",
     "misc.nongodpot.effects.tabname-rev": "Zombie Brain Mixin",
+    "misc.nongodpot.effects.tabname-scatha-in-a-bottle": "Scatha-in-a-Bottle I",
     "misc.nongodpot.effects.tabname-smoldering": "Smoldering Polarization I",
     "misc.nongodpot.effects.tabname-sven": "Wolf Fur Mixin",
     "misc.nongodpot.effects.tabname-tara": "Spider Egg Mixin",
